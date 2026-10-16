@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    You need the exact current wording of a section of the Consumer Protection Law for a letter you
+    are sending tomorrow. Which routine gives you a reliable text for free?
+  options:
+    - >-
+      Copy the section from a law firm's blog post published last year, since lawyers keep their
+      posts up to date.
+    - >-
+      Read the consolidated text on Wikisource, compare its amendment list with the Knesset
+      database, and check the wording against Reshumot.
+    - >-
+      Download the law as originally published in Sefer HaChukim, because Reshumot is the official
+      text and therefore always current.
+    - >-
+      Use the Knesset database's text alone, since an official site never needs to be checked
+      against another source.
+  correct: 1
+  explanation: >-
+    Reshumot is official but publishes amendments separately, so the original law alone is out of
+    date. A consolidated source plus an amendment-count check and a look at Reshumot for the words
+    that matter is the reliable free routine.
+- id: q2
+  question: >-
+    A tenant's dispute concerns a notice sent in 2021. The section she relies on shows "(תיקון:
+    תשפ"ד)" on Wikisource. What should she do before relying on the current wording?
+  options:
+    - >-
+      Nothing; under the general rule, amendments apply to every pending matter, old or new, from the day they are published.
+    - >-
+      Ignore the amendment, because under Interpretation Law s. 22 a later amendment can never
+      affect events that already happened.
+    - >-
+      Read the commencement and transition provisions of the 2024 amending law to see which wording
+      governed her 2021 notice.
+    - >-
+      Ask the Knesset legal adviser for a binding opinion on which version of the section applies
+      to her case.
+  correct: 2
+  explanation: >-
+    Whether an amendment reaches earlier events depends on its own commencement and transition
+    provisions, read with Interpretation Law s. 22. Neither "always" nor "never" is right.
+- id: q3
+  question: >-
+    A regulation made in 2005 says a term has the meaning "given in the Planning and Building Law".
+    That law's definition was amended in 2019. Which definition applies when you read the regulation
+    today?
+  options:
+    - >-
+      The 2005 definition, because a regulation freezes the law it refers to as it stood when the
+      regulation was made.
+    - >-
+      Whichever definition is more favourable to the citizen, under the general rule of
+      interpretation.
+    - >-
+      Neither; a cross-reference to another law is void unless the regulation repeats the
+      definition in full.
+    - >-
+      The amended definition, because a reference to another enactment means that enactment as it
+      stands when it is applied.
+  correct: 3
+  explanation: >-
+    Interpretation Law s. 25 says a reference to another enactment is to that enactment "כנוסחו
+    בשעה שנזקקים לו", including later additions and replacements.
+- id: q4
+  question: >-
+    Basic Law: The Judiciary in Reshumot still contains s. 15(ד1), added by Amendment No. 3 in 2023.
+    What does a careful researcher conclude?
+  options:
+    - >-
+      It must be read with בג"ץ 5658/23, which held the amendment void; good consolidated texts
+      mark this.
+    - >-
+      The section is fully in force, because only the Knesset can remove text from a Basic Law and
+      it has not done so.
+    - >-
+      The section never existed, because Reshumot republishes the Basic Law without provisions
+      that courts strike down.
+    - >-
+      The section applies only to decisions made after 2023, under the general rule against
+      retroactivity.
+  correct: 0
+  explanation: >-
+    A court ruling can deprive published text of effect without changing Reshumot. Wikisource
+    shows s. 15(ד1) struck through with a note on the ruling; the researcher must know of the
+    ruling and of the dispute over it (module 6).

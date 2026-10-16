@@ -1,0 +1,183 @@
+- id: q1
+  question: >-
+    Miriam's employer cites a section of the Hours of Work and Rest Law from a 2015 printout. The
+    Wikisource page of the law shows that section was amended in 2022. Miriam's dispute is about
+    overtime in 2025. What should she do before answering?
+  options:
+    - >-
+      Accept the printout, because Reshumot is the official text and the 2015 printout came from it.
+    - >-
+      Check the 2022 amendment's commencement provisions and quote the version in force in 2025.
+    - >-
+      Ignore both texts and rely on what the Ministry of Labour hotline tells her by phone.
+    - >-
+      Quote the 2015 text, because an employer's document binds the employee until a court rules.
+  correct: 1
+  explanation: >-
+    Reshumot publishes amendments separately, so an old printout can be out of date. The version
+    in force on the relevant date, found through the amending law's commencement and transition
+    provisions, governs.
+- id: q2
+  question: >-
+    Dov finds a Tel Aviv magistrates' court ruling from 2020 that supports him and a 2023 Supreme
+    Court ruling on the same point that goes the other way. His hearing is in the magistrates'
+    court. How should his memo treat the two?
+  options:
+    - >-
+      Rely on the magistrates' ruling, because it comes from the same court that will hear him.
+    - >-
+      Rely on whichever ruling is more detailed, since detail shows better reasoning.
+    - >-
+      Treat the Supreme Court holding as binding and either distinguish it on the facts or accept
+      it.
+    - >-
+      Treat both as equal persuasive authority, since rulings bind only the parties to them.
+  correct: 2
+  explanation: >-
+    Under Basic Law: The Judiciary s. 20(ב) a Supreme Court holding binds the magistrates' court.
+    Dov's only route is to show his facts differ in a way that matters.
+- id: q3
+  question: >-
+    Leah briefs a Supreme Court judgment in which Justice A wrote the main opinion, Justice B wrote
+    "אני מסכים", and Justice C dissented. The other side quotes a passage from Justice C. What
+    should Leah's reply point out?
+  options:
+    - >-
+      That the quoted passage is from the dissent and is not the holding of the court.
+    - >-
+      That the judgment has no holding, because it was not unanimous.
+    - >-
+      That Justice C's view now binds, because dissents become law after ten years.
+    - >-
+      That only Justice B's opinion counts, since a short concurrence states the result.
+  correct: 0
+  explanation: >-
+    The holding is what the majority (A, with B agreeing) decided. A dissent may persuade in a
+    later case but does not bind.
+- id: q4
+  question: >-
+    A council by-law lets inspectors fine owners of "dogs, cats or other animals" left unattended.
+    Avi is fined for leaving his parrot on a balcony. He argues "other animals" means only animals
+    like dogs and cats. What is the starting point under Israeli law?
+  options:
+    - >-
+      Avi is right, because general words after a list are always limited to animals of the listed
+      kind.
+    - >-
+      The by-law is void for vagueness, because it does not list every species of animal it covers.
+    - >-
+      The council's view prevails, because municipal by-laws are interpreted in favour of the
+      authority.
+    - >-
+      "Other" adds things unlike the listed items unless the text signals likeness; purpose may
+      narrow it.
+  correct: 3
+  explanation: >-
+    Interpretation Law s. 7 reverses the ejusdem generis presumption. Avi's best argument is
+    purposive, not that "other" is automatically limited.
+- id: q5
+  question: >-
+    Rania received a refusal from a government office by registered mail on Thursday 1 October.
+    A regulation gives her 30 days "from the day of receipt" to appeal. The 30th day falls on a
+    Saturday. When does her period end?
+  options:
+    - >-
+      On Friday, because every statutory period must end on a working day before the weekend.
+    - >-
+      On Sunday: the receipt day is not counted, nor is a rest day at the end.
+    - >-
+      On Saturday, because rest days are always counted in periods set by Israeli law.
+    - >-
+      On Thursday 29 October, because the day of receipt itself counts as day 1.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 10(א) excludes the day of receipt, so day 30 is Saturday 31 October;
+    s. 10(ג) does not count a rest day at the end, so the period runs to Sunday 1 November.
+- id: q6
+  question: >-
+    Omar is writing to a ministry and wants to cite a 2018 Supreme Court ruling he read on the
+    Judiciary's website. It is not in the printed reports. Which citation is correct under the
+    uniform citation rules?
+  options:
+    - >-
+      "פסק הדין של השופטת חיות משנת 2018 בעניין החניה"
+    - >-
+      "עע"ם 1234/17 כהן ואח' נגד משרד התחבורה, לא פורסם"
+    - >-
+      "עע"ם 1234/17 כהן נ' משרד התחבורה (אר"ש 5.3.2018)"
+    - >-
+      "https://supremedecisions.court.gov.il, 2018"
+  correct: 2
+  explanation: >-
+    Database rulings are cited with proceeding, number, first parties' short names, "נ'", and the
+    database with the full date; אר"ש is the rules' abbreviation for the Judiciary's site.
+- id: q7
+  question: >-
+    Shira's memo on her landlord's refusal to return a deposit says: "The landlord is clearly
+    wrong and will certainly lose." She found no ruling and the contract clause is ambiguous. What
+    is the main flaw?
+  options:
+    - >-
+      The memo should not mention the contract, since memos deal only with statutes.
+    - >-
+      The memo should be written in English, since Hebrew memos are not accepted by courts.
+    - >-
+      The memo should name the landlord's lawyer, since that decides the outcome.
+    - >-
+      The confidence is overstated; she should state counter-arguments and grade the issue
+      "uncertain".
+  correct: 3
+  explanation: >-
+    A memo is useful because it is honest about risk. With an ambiguous clause and no authority,
+    she must answer the landlord's best reading and grade her confidence.
+- id: q8
+  question: >-
+    Eli asked his local council in writing on 1 March to approve a sukkah on a shared balcony. By
+    10 June there has been no answer and no notice of delay. What is the legal position?
+  options:
+    - >-
+      The silence is treated as a refusal without reasons, which he can now challenge.
+    - >-
+      The silence is treated as approval, because the council missed its 45-day deadline.
+    - >-
+      Nothing has happened legally until the council writes to him.
+    - >-
+      The council may take as long as it wants, since the request concerns a religious matter.
+  correct: 0
+  explanation: >-
+    Decisions and Reasons Law s. 6(ב): no answer within three months is a refusal without reasons
+    "לענין כל דין". Silence is never approval under this Law.
+- id: q9
+  question: >-
+    Tamar sends a demand letter to her mobile provider about overcharging. Which addition does the
+    most to protect her if the dispute goes to a small-claims court later?
+  options:
+    - >-
+      A paragraph explaining how upset she is and how badly she was treated by staff.
+    - >-
+      Proof of delivery through two channels and dated attachments of the bills.
+    - >-
+      A warning that she will report the company to the police for fraud.
+    - >-
+      A request that the company sign and return a copy admitting the overcharge.
+  correct: 1
+  explanation: >-
+    The letter's value later is as evidence: what she asked, when, with what documents, and proof
+    that the company received it. Emotional content and unfounded accusations hurt her.
+- id: q10
+  question: >-
+    Haim found a strong 1990s Supreme Court ruling on a free private website. It supports his
+    letter to an authority. What should he do before relying on it?
+  options:
+    - >-
+      Nothing more, because a Supreme Court ruling never loses its binding force once it is given.
+    - >-
+      Replace it with a newer magistrates' court ruling, since newer rulings always prevail.
+    - >-
+      Check the copy against its citation and search forward for later rulings and amendments.
+    - >-
+      Cite only the website's URL, since private sites are the official source for older rulings.
+  correct: 2
+  explanation: >-
+    Private copies are fine for study but must match the official citation, and any ruling must be
+    checked for further hearings, later departures and amendments to the statute it interprets.

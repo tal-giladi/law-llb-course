@@ -1,0 +1,34 @@
+- **רשומות** (Reshumot) — The official gazette in which laws, regulations and notices are published; the official text of legislation.
+- **ספר החוקים (ס"ח)** (Sefer HaChukim) — The Reshumot series in which Knesset laws are published.
+- **קובץ התקנות (ק"ת)** (Kovetz HaTakanot) — The Reshumot series for regulations and other secondary legislation.
+- **הצעות חוק (ה"ח)** (Hatza'ot Chok) — The Reshumot series for bills, with their explanatory notes.
+- **ילקוט הפרסומים (י"פ)** (Yalkut HaPirsumim) — The Reshumot series for official notices and appointments.
+- **נוסח משולב** (nusach meshulav) — An official consolidated version of an Israeli law, approved by the Knesset Constitution Committee and published in Reshumot.
+- **נוסח חדש** (nusach chadash) — An official new Hebrew version of a Mandate-era law.
+- **הוראת שעה** (hora'at sha'ah) — A temporary provision in force for a set period.
+- **תיקון עקיף** (tikkun akif) — An indirect amendment: a change to one law made inside another law.
+- **מאגר החקיקה הלאומי** (Ma'agar HaChakika HaLeumi) — The Knesset's National Legislation Database of laws, amendments and bills.
+- **ספר החוקים הפתוח** (Sefer HaChukim HaPatuach) — The Open Law Book: free, unofficial consolidated texts of Israeli laws on Wikisource.
+- **פסק דין** (psak din) — Judgment: the decision that ends a proceeding.
+- **החלטה** (hachlata) — Decision: any other ruling of a court, including interim decisions.
+- **הלכה פסוקה** (halacha psuka) — Binding precedent; the rule a ruling establishes.
+- **אמרת אגב** (imrat agav) — Obiter dictum: a remark not necessary for the decision, not binding.
+- **דעת רוב** (da'at rov) — Majority opinion.
+- **דעת מיעוט** (da'at mi'ut) — Dissenting opinion.
+- **ערכאה קמא** (ercaa kama) — The court below, whose decision is under appeal.
+- **דיון נוסף** (diyun nosaf) — Further hearing: rehearing of a Supreme Court ruling by an expanded bench.
+- **איסור פרסום** (issur pirsum) — Publication ban.
+- **פרשנות תכליתית** (parshanut tachlitit) — Purposive interpretation, the method of Israeli courts.
+- **תכלית סובייקטיבית** (tachlit subyektivit) — Subjective purpose: what the legislature actually intended.
+- **תכלית אובייקטיבית** (tachlit obyektivit) — Objective purpose: the purpose reflecting the legal system's values.
+- **דברי הסבר** (divrei hesber) — Explanatory notes published with a bill.
+- **לאקונה** (lakuna) — A gap: a legal question that legislation, precedent and analogy do not answer.
+- **כללי האזכור האחיד** (klalei ha'izkur ha'achid) — The uniform citation rules for Israeli legal writing (third edition, 2021).
+- **אזכור חוזר** (izkur chozer) — A repeat (short) citation.
+- **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
+- **תזכיר משפטי** (tazkir mishpati) — A legal research memo.
+- **הנדון** (hanidon) — The subject line of a formal letter ("Re:").
+- **מכתב דרישה** (michtav drisha) — Demand letter.
+- **דואר רשום עם אישור מסירה** (do'ar rashum im ishur mesira) — Registered mail with proof of delivery.
+- **נספח** (nispach) — Attachment or exhibit to a letter or pleading.
+- **הממונה על חופש המידע** (hamemune al chofesh hameida) — An authority's freedom-of-information officer.

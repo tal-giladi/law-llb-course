@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You found a 2019 Supreme Court judgment, not in the printed reports, on the Judiciary's free
+    website. How do you cite it under the uniform citation rules?
+  options:
+    - >-
+      With "(לא פורסם)" and the year, since only Nevo counts as a database under the rules.
+    - >-
+      With the case number and parties followed by "(אר"ש" and the full date of judgment.
+    - >-
+      With the URL of the page only, since online rulings have no formal citation.
+    - >-
+      With "פ"ד" and an estimated volume, since all Supreme Court rulings are printed eventually.
+  correct: 1
+  explanation: >-
+    Rule 19 cites database rulings with the database name and full date, gives no database
+    priority, and abbreviates the Judiciary's site and Net HaMishpat as אר"ש.
+- id: q2
+  question: >-
+    Which citation of a statute follows the rules?
+  options:
+    - >-
+      "חוק העונשין תשל"ז - 1977 סעיף 34כא"
+    - >-
+      "סעיף 34כא, חוק העונשין (1977)"
+    - >-
+      "חוק העונשין, ס' 34כא, נוסח 2026"
+    - >-
+      "ס' 34כא לחוק העונשין, התשל"ז–1977"
+  correct: 3
+  explanation: >-
+    Pinpoint first, then the name, the Hebrew year with ה"א, an en dash without spaces, and the
+    Gregorian year. A version date is not part of the citation.
+- id: q3
+  question: >-
+    Footnote 12 cites the Hatzor ruling. Footnote 13 cites the Interpretation Law. In footnote 14
+    you refer to Hatzor again, page 75. What do you write?
+  options:
+    - >-
+      "עניין חצור, לעיל ה"ש 12, בעמ' 75."
+    - >-
+      "שם, בעמ' 75."
+    - >-
+      "לעיל, שם, 75."
+    - >-
+      The full citation again, since repeat citations are not allowed for rulings.
+  correct: 0
+  explanation: >-
+    "שם" refers only to the source cited immediately before with nothing in between; here the
+    Interpretation Law intervened, so use the short name, "לעיל ה"ש 12" and the pinpoint.
+- id: q4
+  question: >-
+    A ruling's header lists "יורונט קווי זהב (1992) בע"מ ואח'" against "שרת התקשורת, הגב' שולמית
+    אלוני". How should the parties appear in your citation?
+  options:
+    - >-
+      Exactly as in the header, because rule 1.7 requires names as they appear in the source.
+    - >-
+      "יורונט ואח' נ' אלוני", using surnames for every party.
+    - >-
+      "יורונט קווי זהב (1992) בע"מ נ' שרת התקשורת"
+    - >-
+      "חברת יורונט נגד המדינה", since ministers are cited as the State.
+  correct: 2
+  explanation: >-
+    Rule 18.4: first party only, no "ואח'", the full company name, and for an official sued in
+    that capacity, the role without the person's name or title.

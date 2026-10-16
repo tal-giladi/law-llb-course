@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A three-justice bench: Justice A allows the appeal on ground X, Justice B agrees with A's
+    result but on ground Y, and Justice C would dismiss. What should your brief record as the
+    holding?
+  options:
+    - >-
+      Ground X, because the first opinion in a judgment is always the binding one.
+    - >-
+      Grounds X and Y together, because every reason any justice gives becomes binding.
+    - >-
+      The result and only what A and B share; record X and Y as separate reasoning and C as the
+      dissent.
+    - >-
+      Nothing, because a split bench cannot create a holding under Basic Law: The Judiciary.
+  correct: 2
+  explanation: >-
+    The binding rule is what the majority needed and agreed on. Separate routes to the same result
+    are recorded as such, and the dissent gets its own line because its arguments often return.
+- id: q2
+  question: >-
+    You are quoting a 1985 ruling from the printed reports. The first page has a numbered list
+    beginning "בית המשפט העליון פסק:". What should you do?
+  options:
+    - >-
+      Use the list only as a map and quote the passage from the opinion itself with its page.
+    - >-
+      Quote the numbered list, since it is the official summary approved by the justices.
+    - >-
+      Quote the list but add "(headnote)", which makes it equivalent to the opinion.
+    - >-
+      Avoid the ruling, since rulings with editors' summaries cannot be cited in court.
+  correct: 0
+  explanation: >-
+    Headnotes and subject headings in the reports are editors' work. A brief or pleading cites the
+    judgment's own words, by page or paragraph.
+- id: q3
+  question: >-
+    Which of these is the best statement of a holding for a brief?
+  options:
+    - >-
+      "The Bar Association won and Sagi was not admitted in 2011."
+    - >-
+      "Any professional body may refuse anyone who is under police investigation."
+    - >-
+      "The Supreme Court discussed administrative evidence and proportionality at length."
+    - >-
+      "Weighty findings in a final civil judgment may justify deferring admission to the Bar."
+  correct: 3
+  explanation: >-
+    A holding is a rule that would decide the next case: not just the outcome, not wider than what
+    the court decided, and not a description of topics.
+- id: q4
+  question: >-
+    You have two hours to prepare a brief of a 45-page judgment. Which reading order wastes the
+    least time?
+  options:
+    - >-
+      Read every page in order, so nothing is missed, then write the brief from memory.
+    - >-
+      Header, opening and result line first, then the main discussion, then facts and other
+      opinions.
+    - >-
+      The dissent first, because dissents explain the majority's reasoning most clearly.
+    - >-
+      The parties' arguments first, because the holding is always one party's argument adopted.
+  correct: 1
+  explanation: >-
+    Knowing the result and the structure first lets you read the discussion with a purpose, take
+    only the facts the reasoning uses, and leave other opinions for last.

@@ -1,0 +1,75 @@
+- id: q1
+  question: >-
+    A law gives you 30 days "מיום המסירה" to object. The decision was delivered on Monday the 1st
+    of a 31-day month. What is the last day to object, if no rest day falls at the end?
+  options:
+    - >-
+      The 30th, because the day of delivery counts as day 1.
+    - >-
+      The 31st, because the day of delivery is not counted.
+    - >-
+      The 1st of the next month, because both the first and the last day are excluded.
+    - >-
+      Any day within the calendar month, because a 30-day period means one month.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 10(א): the day from which the period runs is not counted. Day 1 is the
+    2nd, so day 30 is the 31st.
+- id: q2
+  question: >-
+    A regulation lets an inspector seize "כלי רכב, כלי שיט או ציוד אחר" used in an offence. The
+    owner of seized drilling equipment says "other equipment" must mean other vehicles. What is the
+    Interpretation Law's starting point?
+  options:
+    - >-
+      "Other" covers only items of the same kind as those listed, under the general rule of
+      interpretation.
+    - >-
+      The list is void for vagueness, so nothing outside the named items may be seized.
+    - >-
+      "Other" adds things different from the listed items, unless words like "דומה" signal
+      similarity.
+    - >-
+      The inspector decides the meaning, because regulations give officials interpretive power.
+  correct: 2
+  explanation: >-
+    Section 7 reverses the ejusdem generis presumption: "או" and "אחר" add something different
+    unless the text uses "דומה", "כיוצא בזה" or similar. Context and purpose can still narrow it.
+- id: q3
+  question: >-
+    You argue that a word in a benefits law should be read broadly. The words can bear two
+    meanings. Which argument follows the Israeli method most completely?
+  options:
+    - >-
+      The broad meaning is the plain meaning, so no further argument about purpose is needed.
+    - >-
+      The broad meaning is fairer, and courts should always adopt the reading most generous to the
+      citizen.
+    - >-
+      The narrow meaning would be absurd, so the court may adopt a meaning that the words cannot
+      bear at all.
+    - >-
+      Both meanings fit the words; the explanatory notes and the system's values favour the broad
+      one.
+  correct: 3
+  explanation: >-
+    Purposive interpretation maps the meanings anchored in the words and chooses by subjective
+    purpose (explanatory notes) and objective purpose (values). Plain meaning alone, or generosity
+    alone, skips the method.
+- id: q4
+  question: >-
+    In a criminal case, after considering the provision's purpose, two reasonable readings remain.
+    Which reading should the court adopt?
+  options:
+    - >-
+      The one most lenient to the accused, under Penal Law s. 34כא.
+    - >-
+      The one that best protects the public, since criminal law exists to protect society.
+    - >-
+      The one closest to Jewish heritage, under the Foundations of Law Act s. 1.
+    - >-
+      The one the prosecution proposes, since it is the authority charged with enforcement.
+  correct: 0
+  explanation: >-
+    Section 34כא applies after purposive interpretation leaves several reasonable readings. The
+    Foundations of Law Act applies only to true gaps, not to a choice between readings.

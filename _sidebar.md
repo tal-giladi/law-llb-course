@@ -15,3 +15,12 @@
   - [06 · The legal system's people](lessons/module-01/lesson-06.md)
   - [07 · Practice lab: map your dispute to the right forum and decide if you can act alone](lessons/module-01/lesson-07.md)
   - [Module 1 quiz](assessments/module-01-quiz.md)
+- **Module 2 — Legal Research and Writing (about 19 hours)**
+  - [08 · Finding the current text of a law for free](lessons/module-02/lesson-01.md)
+  - [09 · Finding case law for free](lessons/module-02/lesson-02.md)
+  - [10 · Briefing a ruling](lessons/module-02/lesson-03.md)
+  - [11 · Statutory interpretation: language, purpose and the Barak method](lessons/module-02/lesson-04.md)
+  - [12 · The uniform citation rules (כללי האזכור האחיד)](lessons/module-02/lesson-05.md)
+  - [13 · Practice lab: a research memo](lessons/module-02/lesson-06.md)
+  - [14 · Practice lab: a formal letter to an authority or company](lessons/module-02/lesson-07.md)
+  - [Module 2 quiz](assessments/module-02-quiz.md)

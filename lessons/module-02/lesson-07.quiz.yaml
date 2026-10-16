@@ -1,0 +1,73 @@
+- id: q1
+  question: >-
+    You emailed a written request to a government office 50 days ago and received nothing, not even
+    a notice of delay. What does your follow-up letter most accurately say?
+  options:
+    - >-
+      That your request is now deemed approved, because the office did not answer within 45 days.
+    - >-
+      That the office breached s. 2(א) of the Decisions and Reasons Law and must decide and answer
+      in writing now.
+    - >-
+      That the office must pay you compensation fixed by the Decisions and Reasons Law for the delay.
+    - >-
+      That nothing can be said yet, because email is not "in writing" under the law.
+  correct: 1
+  explanation: >-
+    The 45-day duty in s. 2(א) has been breached. Silence is not approval; after three months it is
+    a refusal without reasons (s. 6(ב)). The Law sets no compensation, and email counts as writing
+    under Interpretation Law s. 3.
+- id: q2
+  question: >-
+    You want a municipality's internal inspection reports on a playground near your home. Which
+    letter is most likely to get them?
+  options:
+    - >-
+      A request to the mayor explaining in detail why you need the reports and threatening a
+      lawsuit.
+    - >-
+      A letter to the playground contractor, which must release reports under the Decisions and
+      Reasons Law.
+    - >-
+      A phone call to the municipal hotline asking for the reports to be emailed to you.
+    - >-
+      A written FOI request to the municipality's FOI officer, without reasons, keeping proof of
+      delivery.
+  correct: 3
+  explanation: >-
+    Freedom of Information Law s. 7(א): a written request to the FOI officer, no reasons needed.
+    The contractor is not a public authority under that Law, and a phone call leaves no record.
+- id: q3
+  question: >-
+    Which subject line best serves a formal letter to an authority?
+  options:
+    - >-
+      "הנדון: בקשה להחלטה בבקשתי להיתר חניה מיום 4.3.2026 – לפי חוק ההחלטות וההנמקות"
+    - >-
+      "הנדון: תלונה חמורה ביותר על התנהלות מחפירה ומזלזלת של העירייה ושל עובדיה כלפיי"
+    - >-
+      "הנדון: פנייה חשובה ודחופה מאוד בעניין שכבר פניתי אליכם בו כמה פעמים בעבר"
+    - >-
+      "הנדון: דרישה אחרונה ומוחלטת לפני הגשת תביעה נגד העירייה בסך מיליון ש"ח"
+  correct: 0
+  explanation: >-
+    A good subject line says what you ask for and the legal basis. Emotional, empty or inflated
+    subject lines make the letter easier to ignore.
+- id: q4
+  question: >-
+    Your neighbour, who is not confident in Hebrew, asks you to write and send letters to the
+    municipality in her name for ₪200 each. What should you do?
+  options:
+    - >-
+      Agree, since letters to a municipality are not legal documents under any law.
+    - >-
+      Agree, as long as she signs each letter herself before it is sent.
+    - >-
+      Decline the paid drafting; point her to free help and let her write in her own name.
+    - >-
+      Agree, but send the letters from your own address so you take responsibility.
+  correct: 2
+  explanation: >-
+    Drafting legal documents for another person for payment is reserved to lawyers under Bar
+    Association Law s. 20(3); her signature does not change that. Free help is listed in the
+    course's help page.

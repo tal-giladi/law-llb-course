@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    Your landlord's lawyer cites "ת"ק (תביעות קטנות ת"א) 41233-05-22" as proof that deposits may
+    be kept for six months. How much weight does that ruling carry in your own small claim?
+  options:
+    - >-
+      It binds your judge, because small-claims rulings bind other small-claims courts in the same
+      district.
+    - >-
+      It is an illustration of one judge's view; it binds no other court, so check what higher
+      courts have held.
+    - >-
+      It binds your judge only if it was published on Net HaMishpat within 48 hours of signing.
+    - >-
+      It carries no weight at all, because small-claims judgments may not be cited in any court.
+  correct: 1
+  explanation: >-
+    Under Basic Law: The Judiciary s. 20 only Supreme Court holdings bind, and higher courts'
+    holdings guide lower ones. A small-claims ruling is useful as an example but binds no one but
+    the parties.
+- id: q2
+  question: >-
+    You found a district court judgment from 2019 that supports your position exactly. What is the
+    most important check before you quote it?
+  options:
+    - >-
+      Confirm the judge who wrote it is still serving, since rulings of retired judges lose force.
+    - >-
+      Check that it was written in Hebrew, since translated rulings cannot be quoted.
+    - >-
+      Search its case number forward to see whether it was appealed, reversed or departed from.
+    - >-
+      Make sure it was decided by a panel of three, since single-judge rulings are not precedents.
+  correct: 2
+  explanation: >-
+    A ruling that was reversed or overtaken is worse than none. Searching the case number in later
+    rulings reveals appeals and later treatment.
+- id: q3
+  question: >-
+    A ruling is published as "תמ"ש (משפחה ב"ש) … פלוני נ' פלונית". You recognise the family from
+    the facts. What should you do when you quote it in your own letter?
+  options:
+    - >-
+      Add the real names so the reader can check the facts, since the ruling is already public.
+    - >-
+      Quote it only in English, since publication bans apply only to the Hebrew text.
+    - >-
+      Avoid quoting it at all, because anonymised rulings have no legal weight.
+    - >-
+      Keep the anonymisation exactly as published and add no identifying detail.
+  correct: 3
+  explanation: >-
+    Family proceedings are often closed, and Courts Law s. 70 bars publication without the court's
+    permission. Anonymised rulings still count as rulings; you must not undo the anonymisation.
+- id: q4
+  question: >-
+    You have one strong Supreme Court ruling on your issue from 2012 but no others. Which technique
+    finds the rest of the case law fastest for free?
+  options:
+    - >-
+      Follow the rulings it cites back, then free-text search its own case number to find later
+      rulings that cite it.
+    - >-
+      Search Net HaMishpat by your own name to see which judges have heard similar cases.
+    - >-
+      Wait for the ruling to be translated on Versa, since only translated rulings are leading
+      cases.
+    - >-
+      Search the Knesset legislation database, which lists every ruling under each section of a
+      law.
+  correct: 0
+  explanation: >-
+    Snowballing back through its citations and forward through later rulings that cite its number
+    finds the line of authority without a paid citator.

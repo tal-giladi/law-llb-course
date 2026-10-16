@@ -4,6 +4,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 
 ## Terms
 
+- **אזכור חוזר** (izkur chozer) — A repeat (short) citation.
+- **איסור פרסום** (issur pirsum) — Publication ban.
 - **אמרת אגב** (imrat agav) — obiter dictum: a remark not necessary for the decision.
 - **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
 - **בחינות הלשכה** (bhinot ha-lishka) — the Israel Bar examinations.
@@ -14,18 +16,28 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בעל דין** (ba'al din) — party to legal proceedings, litigant.
 - **בעל דין שאינו מיוצג** (ba'al din she-eino meyutzag) — self-represented (unrepresented) party.
 - **דבר המלך במועצתו** (dvar ha-melekh be-mo'atzto) — the Palestine Order in Council 1922, the Mandate's constitutional document.
+- **דברי הסבר** (divrei hesber) — Explanatory notes published with a bill.
+- **דואר רשום עם אישור מסירה** (do'ar rashum im ishur mesira) — Registered mail with proof of delivery.
 - **דיון נוסף** (diyun nosaf) — further hearing of a Supreme Court decision by a larger panel.
+- **דעת מיעוט** (da'at mi'ut) — Dissenting opinion.
+- **דעת רוב** (da'at rov) — Majority opinion.
 - **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority opinion / minority (dissenting) opinion.
 - **הוראת מינהל** (hora'at minhal) — administrative instruction without legislative effect (permit, licence, notice).
+- **הוראת שעה** (hora'at sha'ah) — A temporary provision in force for a set period.
+- **החלטה** (hachlata) — Decision: any other ruling of a court, including interim decisions.
 - **היועץ המשפטי לממשלה** (ha-yo'etz ha-mishpati la-memshala) — Attorney General.
 - **היקש** (hekesh) — analogy, reasoning from a similar rule.
 - **הלכה פסוקה** (halakha psuka) — binding precedent: the legal rule decided by a court.
 - **המג׳לה** (ha-majalla) — the Mejelle, the Ottoman civil code, repealed in full in 1984.
+- **הממונה על חופש המידע** (hamemune al chofesh hameida) — An authority's freedom-of-information officer.
 - **המשפט המקובל** (ha-mishpat ha-mekubal) — the common law.
+- **הנדון** (hanidon) — The subject line of a formal letter ("Re:").
 - **הסגת גבול המקצוע** (hasagat gvul ha-miktzo'a) — unauthorised practice of law, an offence under s. 96 of the Bar Association Law.
 - **הסדרים ראשוניים** (hesderim rishoniyim) — primary arrangements, which must be set by the Knesset in statute.
 - **הסיוע המשפטי** (ha-siyua ha-mishpati) — Legal Aid (Ministry of Justice).
 - **הסניגוריה הציבורית** (ha-sanegoria ha-tziburit) — Public Defender's Office.
+- **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
+- **הצעות חוק (ה"ח)** (Hatza'ot Chok) — The Reshumot series for bills, with their explanatory notes.
 - **הרכב** (herkev) — panel of judges.
 - **השגה** (hasaga) — objection to an authority's own decision-maker (for example on arnona).
 - **התיישנות** (hityashnut) — limitation (time bar).
@@ -39,10 +51,17 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **טוען רבני** (to'en rabani) — licensed rabbinical pleader, who may represent parties in rabbinical courts.
 - **ייחוד פעולות המקצוע** (yihud pe'ulot ha-miktzo'a) — the acts reserved to lawyers under s. 20 of the Bar Association Law.
 - **ייפוי כוח** (yipui ko'ah) — power of attorney; the document appointing a representative.
+- **ילקוט הפרסומים (י"פ)** (Yalkut HaPirsumim) — The Reshumot series for official notices and appointments.
+- **כללי האזכור האחיד** (klalei ha'izkur ha'achid) — The uniform citation rules for Israeli legal writing (third edition, 2021).
 - **לאקונה** (lakuna) — a gap in the law: a question with no answer in statute, precedent or analogy.
+- **מאגר החקיקה הלאומי** (Ma'agar HaChakika HaLeumi) — The Knesset's National Legislation Database of laws, amendments and bills.
 - **מגשר** (megasher) — mediator.
 - **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
 - **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
+- **מכתב דרישה** (michtav drisha) — Demand letter.
+- **נוסח חדש** (nusach chadash) — An official new Hebrew version of a Mandate-era law.
+- **נוסח משולב** (nusach meshulav) — An official consolidated version of an Israeli law, approved by the Knesset Constitution Committee and published in Reshumot.
+- **נספח** (nispach) — Attachment or exhibit to a letter or pleading.
 - **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Ombudsman for complaints against judges.
 - **סימן 46** (siman 46) — art. 46 of the Order in Council, which imported English common law and equity until 1980.
 - **סמכות ייחודית** (samkhut yihudit) — exclusive jurisdiction.
@@ -50,16 +69,27 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **סמכות מקומית** (samkhut mekomit) — territorial jurisdiction (venue).
 - **סמכות עניינית** (samkhut inyanit) — subject-matter jurisdiction.
 - **סעד חלופי** (sa'ad halufi) — alternative remedy; a reason for the HCJ to decline a petition.
+- **ספר החוקים (ס"ח)** (Sefer HaChukim) — The Reshumot series in which Knesset laws are published.
+- **ספר החוקים הפתוח** (Sefer HaChukim HaPatuach) — The Open Law Book: free, unofficial consolidated texts of Israeli laws on Wikisource.
 - **עורך דין** (orekh din) — lawyer (advocate), a member of the Israel Bar.
 - **ערכאה** (arkhaa) — forum, instance.
+- **ערכאה קמא** (ercaa kama) — The court below, whose decision is under appeal.
 - **ערעור ברשות** (ir'ur bi-rshut) — appeal by leave.
 - **ערר** (erer) — appeal to an appeals committee or tribunal.
 - **פ״ד** (pey-dalet) — Piskei Din, the official law reports of the Supreme Court.
+- **פסק דין** (psak din) — Judgment: the decision that ends a proceeding.
 - **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause (Basic Law: Human Dignity and Liberty s. 8).
 - **פרקליטות המדינה** (praklitut ha-medina) — State Attorney's Office.
+- **פרשנות תכליתית** (parshanut tachlitit) — Purposive interpretation, the method of Israeli courts.
+- **קובץ התקנות (ק"ת)** (Kovetz HaTakanot) — The Reshumot series for regulations and other secondary legislation.
 - **קודיפיקציה** (kodifikatzia) — codification: replacing scattered rules with Israeli codes.
 - **קליטה** (klita) — reception of foreign law into the local legal system.
+- **רשומות** (Reshumot) — The official gazette in which laws, regulations and notices are published; the official text of legislation.
 - **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
 - **תביעה משטרתית** (tvi'a mishtartit) — police prosecution.
+- **תזכיר משפטי** (tazkir mishpati) — A legal research memo.
+- **תיקון עקיף** (tikkun akif) — An indirect amendment: a change to one law made inside another law.
+- **תכלית אובייקטיבית** (tachlit obyektivit) — Objective purpose: the purpose reflecting the legal system's values.
+- **תכלית סובייקטיבית** (tachlit subyektivit) — Subjective purpose: what the legislature actually intended.
 - **תקדים** (takdim) — precedent.
 - **תקנה** (takana) — regulation: a provision of legislative effect made under a statute.

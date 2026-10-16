@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You are starting a memo about your health fund's refusal to fund a treatment. Which question
+    presented will lead to the most useful memo?
+  options:
+    - >-
+      "What are all my rights against my health fund, under every law that might apply?"
+    - >-
+      "Is the health fund a badly run organisation that systematically ignores patients?"
+    - >-
+      "Did the fund lawfully refuse treatment X, requested on 2.3.2026, under the Health Insurance
+      Law?"
+    - >-
+      "Should I sue the health fund in the district court for at least ₪100,000?"
+  correct: 2
+  explanation: >-
+    A good question is specific to your facts, names the legal issue and the law, and can be
+    answered yes or no with reasons. Vague or remedy-first questions make research sprawl.
+- id: q2
+  question: >-
+    Your analysis concludes the authority missed its deadline. What should come next in that
+    section of the memo?
+  options:
+    - >-
+      The strongest argument the authority could make against that conclusion, and your answer.
+    - >-
+      A paragraph on how unfair the authority's conduct was, to persuade the reader.
+    - >-
+      Nothing more; once the deadline is shown, the analysis of that issue is complete.
+    - >-
+      A list of every other law that might conceivably apply, to show thoroughness.
+  correct: 0
+  explanation: >-
+    Arguing against yourself is what makes a memo reliable. Rhetoric and padding do not test the
+    conclusion; the opposing argument does.
+- id: q3
+  question: >-
+    Your friend asks you to write her a research memo on her divorce settlement, for a small
+    payment. What is the right response?
+  options:
+    - >-
+      Agree, since a memo is research rather than advice and research is unregulated.
+    - >-
+      Agree, but only if the memo carries a disclaimer that it is not legal advice.
+    - >-
+      Agree, since family matters are excluded from s. 20 of the Bar Association Law.
+    - >-
+      Decline; a legal opinion for someone else, for payment, is reserved to lawyers.
+  correct: 3
+  explanation: >-
+    Bar Association Law s. 20(4) reserves legal advice and opinions given for payment or as an
+    occupation. A disclaimer does not change what the document is.
+- id: q4
+  question: >-
+    Your memo grades the decisive issue "uncertain", the sum involved is large, and a deadline is
+    six weeks away. What does the memo tell you to do?
+  options:
+    - >-
+      Proceed alone, since a careful and well-sourced memo replaces professional advice.
+    - >-
+      Get a lawyer's view now, using the memo to brief them, while there is time.
+    - >-
+      Wait until the deadline is near, in case the law or the case law changes in your favour.
+    - >-
+      Abandon the matter, since issues graded uncertain are almost always lost in court.
+  correct: 1
+  explanation: >-
+    An honest "uncertain" on a decisive, high-stakes issue is the memo's signal to get advice. The
+    memo saves the lawyer time and you money.

@@ -1,0 +1,1074 @@
+- id: m02-001
+  module: 2
+  lesson: "02.1"
+  subject: reshumot
+  difficulty: 1
+  question: Which publication is the official text of an Israeli statute?
+  options:
+    - The consolidated text on Wikisource's Open Law Book.
+    - The statute as published in Reshumot (Sefer HaChukim).
+    - The Knesset database page showing the law's amendments.
+    - The version printed in a commercial database such as Nevo.
+  correct: 1
+  explanation: >-
+    Law and Administration Ordinance s. 10: a law takes effect on publication in Reshumot, and that
+    publication is evidence it was validly made. Other sources are convenience copies.
+- id: m02-002
+  module: 2
+  lesson: "02.1"
+  subject: reshumot
+  difficulty: 1
+  question: What does Reshumot publish when the Knesset amends an existing law?
+  options:
+    - A full new text of the law incorporating the amendment.
+    - Nothing; amendments take effect when the Knesset votes.
+    - The amending law, which lists the changes to be made.
+    - A summary written by the Ministry of Justice.
+  correct: 2
+  explanation: >-
+    Reshumot publishes the amending law itself; it does not republish the updated full text, which
+    is why consolidated sources are needed.
+- id: m02-003
+  module: 2
+  lesson: "02.1"
+  subject: commencement
+  difficulty: 1
+  question: >-
+    A law published in Reshumot on 10 May says nothing about its commencement. When does it take
+    effect?
+  options:
+    - Thirty days after publication, to give the public notice.
+    - On the day the Knesset passed it in third reading.
+    - At the start of the next calendar month after publication.
+    - On 10 May, at one minute past midnight.
+  correct: 3
+  explanation: >-
+    Law and Administration Ordinance s. 10(א): effect on the day of publication unless otherwise
+    stated; Interpretation Law s. 21: at 00:01 of the commencement day.
+- id: m02-004
+  module: 2
+  lesson: "02.1"
+  subject: versions
+  difficulty: 2
+  question: >-
+    Wikisource's source box for a law lists 9 amending laws; the Knesset database page lists 10.
+    What should you do?
+  options:
+    - >-
+      Find the missing amendment and check whether it changed your section before you rely on the
+      text.
+    - Trust Wikisource, because its volunteers check and merge each amendment by hand.
+    - >-
+      Trust the Knesset page and stop there, because its count is official and it gives the full
+      text.
+    - Ignore the difference, since a single amendment rarely matters to a particular section.
+  correct: 0
+  explanation: >-
+    A mismatch means an amendment may not be merged into the consolidated text. Find it and read it;
+    the Knesset page lists amendments but does not give a consolidated text.
+- id: m02-005
+  module: 2
+  lesson: "02.1"
+  subject: versions
+  difficulty: 2
+  question: >-
+    Your contract was signed in 2020. A consumer-protection section relevant to it was amended in
+    2024. Which text applies to your contract?
+  options:
+    - Always the 2024 text, because consumer-protection laws apply retroactively to all contracts.
+    - The text that the amending law's commencement and transition provisions make applicable.
+    - Always the 2020 text, because a contract is governed only by the law in force at signing.
+    - The text more favourable to the consumer, under a general principle of consumer law.
+  correct: 1
+  explanation: >-
+    The answer depends on the amending law's own transition rules, read with Interpretation Law s.
+    22. There is no automatic rule either way.
+- id: m02-006
+  module: 2
+  lesson: "02.1"
+  subject: versions
+  difficulty: 2
+  question: >-
+    A regulation was repealed in 2023. You did something in 2021 that complied with it. A clerk says
+    your 2021 act is now invalid because the regulation no longer exists. Is the clerk right?
+  options:
+    - Yes, because repeal removes the regulation from the law books entirely.
+    - Yes, unless you apply for a fresh approval under the new rules.
+    - No, because repeal does not affect acts done under the repealed rule.
+    - No, but only if a court confirms the 2021 act within a year.
+  correct: 2
+  explanation: >-
+    Interpretation Law s. 22(2): repeal does not affect earlier operation of the repealed law or
+    anything done under it.
+- id: m02-007
+  module: 2
+  lesson: "02.1"
+  subject: consolidated-version
+  difficulty: 1
+  question: What does "[נוסח משולב]" in a law's name tell you?
+  options:
+    - That the law is a Mandate-era ordinance that was translated into Hebrew.
+    - That the law is a temporary provision that applies only for a set period.
+    - That the text was consolidated unofficially by volunteers on Wikisource.
+    - That an official consolidated version was approved and published.
+  correct: 3
+  explanation: >-
+    Under Law and Administration Ordinance s. 16(ד), a consolidated version is approved by the
+    Constitution Committee and published. It may have been amended again since.
+- id: m02-008
+  module: 2
+  lesson: "02.1"
+  subject: court-affects-text
+  difficulty: 3
+  question: >-
+    You quote a provision from Reshumot in a petition. The other side replies that the provision was
+    held void years ago. Where would you most quickly have caught this?
+  options:
+    - In the consolidated text's editorial notes, and by searching rulings on the section.
+    - In the Reshumot booklet, which prints the relevant court rulings under each section.
+    - In the Knesset plenary protocols, which record every ruling that voids a provision.
+    - Nowhere; a voided provision is removed from all published sources within a month.
+  correct: 0
+  explanation: >-
+    Reshumot does not change when a court voids a provision. Consolidated sources often note it (as
+    for s. 15(ד1) of Basic Law: The Judiciary), and a case-law search confirms it.
+- id: m02-009
+  module: 2
+  lesson: "02.1"
+  subject: indirect-amendment
+  difficulty: 3
+  question: >-
+    Spot the mistake. A self-represented tenant writes: "Section 7 of the law has not changed since
+    1998, because the law's own amendment list shows no amendment to it." What did she miss?
+  options:
+    - That amendments become valid only after the Supreme Court has approved them.
+    - That a section can be amended indirectly, inside a law on another subject.
+    - That section numbers in Israeli laws are reassigned every ten years.
+    - That Reshumot republishes the full law after each amendment, so the list is incomplete.
+  correct: 1
+  explanation: >-
+    Indirect amendments (תיקון עקיף) change one law inside another. Check section-level marks on
+    Wikisource and the full list of amending laws on the Knesset page.
+- id: m02-010
+  module: 2
+  lesson: "02.2"
+  subject: precedent
+  difficulty: 1
+  question: Which rulings bind a magistrates' court?
+  options:
+    - "Holdings of the Supreme Court, under Basic Law: The Judiciary s. 20(ב)."
+    - Any ruling of any court that has been published on Net HaMishpat.
+    - Only earlier rulings given by the same magistrates' court.
+    - Only rulings that both parties agree to treat as binding.
+  correct: 0
+  explanation: >-
+    Supreme Court holdings bind every court except the Supreme Court; higher courts' holdings guide
+    lower courts.
+- id: m02-011
+  module: 2
+  lesson: "02.2"
+  subject: case-numbers
+  difficulty: 1
+  question: What does "רע"א" before a case number mean?
+  options:
+    - A civil appeal that is heard as of right.
+    - A petition to the High Court of Justice.
+    - An application for leave to appeal, civil.
+    - A further hearing of a criminal case.
+  correct: 2
+  explanation: >-
+    רע"א is רשות ערעור אזרחי. ע"א is a civil appeal, בג"ץ a High Court petition, דנ"פ a criminal
+    further hearing.
+- id: m02-012
+  module: 2
+  lesson: "02.2"
+  subject: case-numbers
+  difficulty: 1
+  question: A small-claims case number is "ת"ק 31415-08-25". What does "08-25" tell you?
+  options:
+    - That the judge's number is 08 and the courtroom is 25.
+    - That the claim was for 8,025 shekels.
+    - That judgment was given on 25 August.
+    - That the file was opened in August 2025.
+  correct: 3
+  explanation: "Newer lower-court numbers are serial-month-year: file 31415, opened in August 2025."
+- id: m02-013
+  module: 2
+  lesson: "02.2"
+  subject: where-to-search
+  difficulty: 2
+  question: >-
+    You need a family court ruling in a matter heard behind closed doors that you read about in the
+    press. Why might you not find it online?
+  options:
+    - Publishing a closed hearing needs the court's permission, so it may be unpublished.
+    - Family court rulings are published online only after a waiting period of ten years.
+    - Only lawyers are allowed to search family court rulings on Net HaMishpat.
+    - Family court rulings are kept only in paid commercial databases, by law.
+  correct: 0
+  explanation: >-
+    Courts Law s. 70(א) bars publishing anything about a closed hearing without the court's
+    permission, so many family rulings are unpublished or appear as פלוני נ' פלונית.
+- id: m02-014
+  module: 2
+  lesson: "02.2"
+  subject: good-law
+  difficulty: 2
+  question: >-
+    You rely on a 2010 Supreme Court ruling interpreting a section that was substantially amended in
+    2019. What is the risk?
+  options:
+    - None; Supreme Court holdings survive any later amendment.
+    - The ruling may no longer apply to the amended wording.
+    - The ruling becomes binding only on district courts.
+    - The ruling must now be cited with "(בוטל)" after it.
+  correct: 1
+  explanation: >-
+    A holding interprets particular words; if the words changed, check whether the reasoning still
+    fits the new text.
+- id: m02-015
+  module: 2
+  lesson: "02.2"
+  subject: good-law
+  difficulty: 2
+  question: How can you find out, for free, whether a magistrates' judgment you want to cite was appealed?
+  options:
+    - Phone the judge's chambers and ask whether anyone has appealed the ruling.
+    - Check whether the ruling has an English translation available on Versa.
+    - Search its case number in later decisions that name the ruling appealed from.
+    - Assume it was not appealed if it is more than a year old by now.
+  correct: 2
+  explanation: >-
+    Appeal judgments open by naming the court below and its file number, so a free-text search of
+    the number finds them.
+- id: m02-016
+  module: 2
+  lesson: "02.2"
+  subject: snowballing
+  difficulty: 2
+  question: What is "snowballing forward" in case-law research?
+  options:
+    - Reading a ruling's list of cited cases and following each of them.
+    - Reading only the newest rulings on a topic and ignoring the older ones.
+    - Reading the dissent before the majority opinion in each ruling.
+    - Searching a ruling's number to find later rulings that cite it.
+  correct: 3
+  explanation: >-
+    Back: follow what the ruling cites. Forward: find what cites the ruling, which reveals whether
+    it is followed, narrowed or departed from.
+- id: m02-017
+  module: 2
+  lesson: "02.2"
+  subject: interim-vs-final
+  difficulty: 2
+  question: >-
+    A document in the file is titled "החלטה" and grants a temporary injunction. Your friend says the
+    case was "won". What is the accurate description?
+  options:
+    - An interim decision; the final outcome will be in the judgment.
+    - A final judgment, since any decision granting relief ends the case.
+    - A settlement, since temporary injunctions are only given by consent.
+    - A binding precedent, since injunctions bind every court in the district.
+  correct: 0
+  explanation: Interim decisions do not decide the case. Look for the judgment before describing the outcome.
+- id: m02-018
+  module: 2
+  lesson: "02.2"
+  subject: private-copies
+  difficulty: 3
+  question: >-
+    You found an old Supreme Court ruling only on a law firm's website. The header there says "ע"א
+    456/88" but every article cites it as "ע"א 465/88". What should you do?
+  options:
+    - Use the website's number, since it reproduces the original document exactly.
+    - Check another copy or the official report first; one source has a typo.
+    - Cite both numbers in the citation so that the reader can choose between them.
+    - Drop the ruling, since private copies of rulings may never be used at all.
+  correct: 1
+  explanation: >-
+    Private copies are useful but must be checked against the official citation; a wrong number
+    makes the ruling unfindable.
+- id: m02-019
+  module: 2
+  lesson: "02.2"
+  subject: where-to-search
+  difficulty: 1
+  question: Where can you read an English translation of a leading Israeli Supreme Court judgment for free?
+  options:
+    - On Net HaMishpat, which translates all Supreme Court rulings.
+    - In Reshumot's English edition.
+    - On Versa, a project of Cardozo School of Law.
+    - On the Knesset legislation database.
+  correct: 2
+  explanation: >-
+    Versa publishes English translations of many leading judgments. The Hebrew original is what you
+    quote in a filing.
+- id: m02-020
+  module: 2
+  lesson: "02.3"
+  subject: holding
+  difficulty: 1
+  question: What is the "הלכה" of a ruling?
+  options:
+    - Everything the majority judge wrote in the opinion.
+    - The final result, such as "appeal allowed".
+    - The editor's headnote at the top of the printed report.
+    - The legal rule the majority needed to decide the case.
+  correct: 3
+  explanation: >-
+    The holding is the rule necessary for the decision, as adopted by the majority. Remarks beyond
+    it are obiter.
+- id: m02-021
+  module: 2
+  lesson: "02.3"
+  subject: obiter
+  difficulty: 2
+  question: >-
+    A justice writes, after deciding the appeal on another ground: "Had the question arisen, I would
+    have held that..." How should you use this passage?
+  options:
+    - "As obiter: persuasive, but not binding on lower courts."
+    - As the holding, because it states a rule clearly.
+    - As a dissent, because it addresses a question the court did not decide.
+    - Not at all, because obiter may not be quoted.
+  correct: 0
+  explanation: >-
+    A remark on a question the court did not need to decide is obiter. It can be quoted as
+    persuasive authority, especially from a large bench.
+- id: m02-022
+  module: 2
+  lesson: "02.3"
+  subject: opinions
+  difficulty: 2
+  question: >-
+    A five-justice bench: three join Justice A's opinion, Justice B concurs in the result for
+    different reasons, Justice C dissents. Which view states the holding?
+  options:
+    - Justice B's, because concurrences refine the majority.
+    - Justice A's opinion, joined by a majority of the bench.
+    - Justice C's, because dissents show the limits of the rule.
+    - None, because the reasons were not unanimous.
+  correct: 1
+  explanation: >-
+    Four of five reached the result, and Justice A's reasoning was joined by a majority, so it
+    states the holding. Record B and C separately.
+- id: m02-023
+  module: 2
+  lesson: "02.3"
+  subject: anatomy
+  difficulty: 1
+  question: Where in a judgment do you find which court's decision is under appeal?
+  options:
+    - In the result line at the end of the judgment.
+    - In the paragraph that awards the costs of the appeal.
+    - In the header, with the decision appealed from.
+    - In the list of counsel who appeared for the parties.
+  correct: 2
+  explanation: >-
+    The header states the court and capacity, the parties, and the decision appealed from with its
+    date.
+- id: m02-024
+  module: 2
+  lesson: "02.3"
+  subject: headnotes
+  difficulty: 2
+  question: >-
+    Spot the mistake. A pleading says: "As the Supreme Court held (פ"ד לט(2) 70, headnote item
+    5)..." What is wrong?
+  options:
+    - The pleading should have cited the page number of the report in Roman numerals.
+    - Headnotes of Israeli rulings may only be cited in their English translation.
+    - Nothing is wrong, because headnotes are written and approved by the court.
+    - It quotes the editors' headnote as the court instead of the opinion.
+  correct: 3
+  explanation: >-
+    Headnotes in printed reports are editors' work. Quote the opinion itself with its page or
+    paragraph.
+- id: m02-025
+  module: 2
+  lesson: "02.3"
+  subject: holding
+  difficulty: 3
+  question: >-
+    Which is the best holding for a ruling that a licensing body may defer admitting a candidate
+    while a related criminal investigation is open, relying on weighty civil findings?
+  options:
+    - "\"A licensing body may defer admission on weighty findings pending a related criminal process.\""
+    - "\"Licensing bodies may refuse anyone whom the police are investigating for any offence.\""
+    - "\"The candidate lost the appeal because he had taken a great deal of company money.\""
+    - "\"The court discussed proportionality, administrative evidence and the profession's values.\""
+  correct: 0
+  explanation: >-
+    A holding is a general rule with the conditions that mattered; not wider than the case, not just
+    the outcome, not a list of topics.
+- id: m02-026
+  module: 2
+  lesson: "02.3"
+  subject: distinguishing
+  difficulty: 3
+  question: >-
+    The authority relies on a ruling upholding the deferral of a first licence. Your licence, held
+    for ten years, was suspended. Which brief entry best prepares your reply?
+  options:
+    - "\"The ruling is more than ten years old, so it no longer applies to my case.\""
+    - "\"The ruling stressed it was a first licence; suspending mine is more severe.\""
+    - "\"The ruling was decided by three justices only, so it is not a binding precedent.\""
+    - "\"The ruling concerned lawyers, so it can never apply to any other profession.\""
+  correct: 1
+  explanation: >-
+    Distinguish on the facts the court relied on. The court treated initial admission as less severe
+    than revocation, which is a real difference.
+- id: m02-027
+  module: 2
+  lesson: "02.3"
+  subject: reading-order
+  difficulty: 1
+  question: Which parts of a judgment should you read first when briefing it?
+  options:
+    - The parties' arguments, read in full from start to finish.
+    - Every footnote, to find all the sources the court relied on.
+    - The header, the opening paragraph and the result line.
+    - The dissent, to see first what the majority rejected.
+  correct: 2
+  explanation: >-
+    The header, opening and result give you structure and outcome, so you read the discussion with a
+    purpose.
+- id: m02-028
+  module: 2
+  lesson: "02.3"
+  subject: dissent
+  difficulty: 2
+  question: Why should a brief record the dissent's main argument?
+  options:
+    - Because a dissent binds lower courts on issues that the majority did not address.
+    - Because a brief is incomplete unless it lists the name of every justice on the bench.
+    - Because dissents are reproduced in Reshumot together with the statute they interpret.
+    - Because its arguments may return when the issue is reconsidered.
+  correct: 3
+  explanation: >-
+    Dissents do not bind but often shape later rulings and arguments to distinguish or narrow the
+    majority.
+- id: m02-029
+  module: 2
+  lesson: "02.4"
+  subject: interpretation-law
+  difficulty: 1
+  question: A statute requires a notice "בכתב". Under the Interpretation Law, does a text message count?
+  options:
+    - Yes, unless the context requires otherwise; it includes any visible letters.
+    - No, because "in writing" always means a signed document on paper.
+    - Only if the recipient later confirms receipt in a signed letter.
+    - Only for laws that the Knesset enacted after the year 2000.
+  correct: 0
+  explanation: >-
+    Interpretation Law s. 3 defines "בכתב" to include any visible representation of letters, numbers
+    or symbols, subject to s. 1's context exception.
+- id: m02-030
+  module: 2
+  lesson: "02.4"
+  subject: periods
+  difficulty: 2
+  question: >-
+    A decision was delivered on 31 January. You have "three months after delivery" to appeal. When
+    does the period end, if no rest day is involved?
+  options:
+    - On 30 April, because months are counted as 30 days each.
+    - On 30 April, because April has no 31st day.
+    - On 1 May, because the delivery day is excluded.
+    - On 28 February, because February is the shortest month.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 10(ב): a period in months ends on the same date in the last month, or on
+    the last day of that month if it has no such date.
+- id: m02-031
+  module: 2
+  lesson: "02.4"
+  subject: periods
+  difficulty: 2
+  question: Your 14-day period started on a Sunday and Yom Kippur falls on day 6. When does the period end?
+  options:
+    - One day later, because holidays falling inside a period are not counted.
+    - Two days later, because Yom Kippur and its eve are both excluded.
+    - On day 14 as usual; rest days inside the period are counted.
+    - The period restarts from the day after the holiday ends.
+  correct: 2
+  explanation: >-
+    Interpretation Law s. 10(ג): rest days and holidays count, except when they are the last days of
+    the period.
+- id: m02-032
+  module: 2
+  lesson: "02.4"
+  subject: purposive
+  difficulty: 1
+  question: According to Kibbutz Hatzor, where does interpretation start and where does it end?
+  options:
+    - It starts with the legislature's intent and ends with the plain words of the law.
+    - It starts and ends with the dictionary meaning of the words used in the section.
+    - It starts with the judge's sense of justice and ends with the relevant precedent.
+    - It starts with the words but never ends there; purpose chooses.
+  correct: 3
+  explanation: "\"לעולם יש לפתוח בלשון החוק, אך לעולם אין לסיים בה\": language sets the range, purpose chooses."
+- id: m02-033
+  module: 2
+  lesson: "02.4"
+  subject: purposive
+  difficulty: 2
+  question: >-
+    You argue for a meaning that the words of the section cannot bear at all, because it would serve
+    the law's purpose better. What is the likely response under Israeli doctrine?
+  options:
+    - Rejected, unless every meaning that the words can bear is absurd.
+    - Accepted, because the purpose of a law always prevails over its language.
+    - Accepted, provided the bill's explanatory notes mention that purpose.
+    - Referred to the Knesset legal adviser for a binding explanation.
+  correct: 0
+  explanation: >-
+    Every interpretation needs an "Archimedean point" in the words, unless all anchored meanings are
+    absurd (Hatzor).
+- id: m02-034
+  module: 2
+  lesson: "02.4"
+  subject: subjective-purpose
+  difficulty: 2
+  question: Which source is the best evidence of a provision's subjective purpose?
+  options:
+    - A newspaper op-ed by the bill's sponsor written years later.
+    - The explanatory notes published with the bill in Reshumot.
+    - A blog post by a law professor.
+    - The Interpretation Law's definitions section.
+  correct: 1
+  explanation: >-
+    Explanatory notes (דברי הסבר) published with the bill are the primary evidence of what the
+    legislature intended.
+- id: m02-035
+  module: 2
+  lesson: "02.4"
+  subject: lenity
+  difficulty: 2
+  question: When does Penal Law s. 34כא (lenient interpretation) come into play?
+  options:
+    - Whenever the accused asks for it at the start of the trial.
+    - Before considering the provision's purpose, as the first step.
+    - After purposive interpretation leaves several reasonable readings.
+    - Only in offences carrying more than five years' imprisonment.
+  correct: 2
+  explanation: >-
+    Section 34כא applies when a law has several reasonable readings "לפי תכליתו": purpose first,
+    then lenity.
+- id: m02-036
+  module: 2
+  lesson: "02.4"
+  subject: foundations-of-law
+  difficulty: 3
+  question: >-
+    Spot the mistake. A party argues: "The section is ambiguous, so under the Foundations of Law Act
+    the court must decide by the principles of Jewish heritage." What is wrong?
+  options:
+    - The Act applies only in the rabbinical courts, not in civil courts.
+    - The Act was repealed in 2018 and replaced by a new interpretation law.
+    - The Act may be applied only with the consent of both parties to the case.
+    - Ambiguity is for interpretation; the Act covers only true gaps.
+  correct: 3
+  explanation: >-
+    Foundations of Law Act s. 1 applies when legislation, precedent and analogy give no answer. An
+    ambiguous provision is interpreted, not treated as a gap.
+- id: m02-037
+  module: 2
+  lesson: "02.4"
+  subject: debate
+  difficulty: 3
+  question: Which statement fairly describes the current debate on objective purpose in the Supreme Court?
+  options:
+    - Some justices favour identifiable legislative intent; others weigh system values more.
+    - All justices have abandoned purposive interpretation in favour of literalism since 2023.
+    - The debate was settled by a Knesset law that prohibits reliance on objective purpose.
+    - Objective purpose is used only in criminal cases, and subjective purpose everywhere else.
+  correct: 0
+  explanation: >-
+    Purposive interpretation is settled; the weight of objective versus subjective purpose is
+    debated, with justices such as Sohlberg favouring identifiable intent.
+- id: m02-038
+  module: 2
+  lesson: "02.4"
+  subject: interpretation-law
+  difficulty: 1
+  question: >-
+    A by-law imposes a duty on "the owner". The flat is owned by two sisters. Does the duty apply to
+    both?
+  options:
+    - No, because a duty stated in the singular binds only one person.
+    - Yes; the singular includes the plural unless context says otherwise.
+    - Only the older sister, as the first-registered owner of the flat.
+    - Only if the by-law uses the word "owners" somewhere else as well.
+  correct: 1
+  explanation: "Interpretation Law s. 5: singular includes plural and vice versa, subject to context (s. 1)."
+- id: m02-039
+  module: 2
+  lesson: "02.5"
+  subject: citation-legislation
+  difficulty: 1
+  question: Which is the correct uniform-rules citation of the Interpretation Law's current text?
+  options:
+    - "\"חוק הפרשנות 1981\""
+    - "\"חוק הפרשנות (תשמ\"א)\""
+    - "\"חוק הפרשנות, התשמ\"א–1981\""
+    - "\"חוק הפרשנות, תשמ\"א - 1981, עדכני\""
+  correct: 2
+  explanation: >-
+    Name, comma, Hebrew year with ה"א, en dash with no spaces, Gregorian year. Reshumot details are
+    optional for the current text.
+- id: m02-040
+  module: 2
+  lesson: "02.5"
+  subject: citation-cases
+  difficulty: 1
+  question: >-
+    In a uniform-rules citation of a Supreme Court ruling, what is omitted that is included for a
+    district court ruling?
+  options:
+    - The case number of the file.
+    - The year in which judgment was given.
+    - The surnames of the parties.
+    - The court details in brackets.
+  correct: 3
+  explanation: >-
+    Rule 18.3: court details are omitted for the Supreme Court and given for other courts, e.g.
+    "(מחוזי ת"א)".
+- id: m02-041
+  module: 2
+  lesson: "02.5"
+  subject: citation-cases
+  difficulty: 2
+  question: Which citation of a labour-court ruling follows the rules?
+  options:
+    - "\"ע\"ע (ארצי) 123/20 כהן – מדינת ישראל (אר\"ש 1.6.2021)\""
+    - "\"ע\"ע (ארצי) 123/20 כהן נ' מדינת ישראל (אר\"ש 1.6.2021)\""
+    - "\"ע\"ע (ארצי) 123/20 משה כהן ואח' נגד מדינת ישראל\""
+    - "\"ע\"ע 123/20 כהן מול המדינה, 2021\""
+  correct: 0
+  explanation: >-
+    Rule 18.5: labour-court rulings separate the parties with a dash, not "נ'"; surname only; no
+    "ואח'"; database and full date.
+- id: m02-042
+  module: 2
+  lesson: "02.5"
+  subject: repeat-citation
+  difficulty: 2
+  question: When may you write "שם" in a footnote?
+  options:
+    - Whenever the same source was cited anywhere earlier in the document.
+    - When the source cited just before, with none in between, is meant.
+    - Only for legislation, and never for rulings or academic articles.
+    - Only within the same paragraph of the main text, not in footnotes.
+  correct: 1
+  explanation: >-
+    Rule 37.7: "שם" refers to the source cited immediately before, in the same or the previous
+    footnote, with nothing in between.
+- id: m02-043
+  module: 2
+  lesson: "02.5"
+  subject: repeat-citation
+  difficulty: 2
+  question: >-
+    You cited "ס' 2(א) לחוק לתיקון סדרי המינהל (החלטות והנמקות), התשי"ט–1958" in footnote 3. In
+    footnote 9 you refer to s. 6(ב) of the same law. What do you write?
+  options:
+    - "\"לעיל ה\"ש 3, ס' 6(ב).\""
+    - "\"שם, ס' 6(ב).\""
+    - "\"ס' 6(ב) לחוק לתיקון סדרי המינהל (החלטות והנמקות).\""
+    - The full citation with the Reshumot reference again.
+  correct: 2
+  explanation: >-
+    Rule 37.5: repeat citations of legislation need no pointer to the full citation; give the
+    section and the law's name.
+- id: m02-044
+  module: 2
+  lesson: "02.5"
+  subject: citation-cases
+  difficulty: 2
+  question: >-
+    Spot the mistake: "בג"ץ 987/94 יורונט קווי זהב (1992) בע"מ נ' שרת התקשורת שולמית אלוני, פ"ד
+    מח(5) 412 (1994)."
+  options:
+    - The year of judgment should be given in Hebrew letters, not digits.
+    - The abbreviation "בג"ץ" should be written with a regular tsadi, "בג"צ".
+    - The company's year of incorporation, "(1992)", must be removed.
+    - The minister's personal name must be omitted when sued in office.
+  correct: 3
+  explanation: >-
+    Rule 18.4.5: a person sued by virtue of office is cited by role only. The company's full name,
+    including "(1992)", stays.
+- id: m02-045
+  module: 2
+  lesson: "02.5"
+  subject: databases
+  difficulty: 1
+  question: >-
+    Under the uniform rules, is a ruling from the Judiciary's free website cited less favourably
+    than one from a paid database?
+  options:
+    - No; only printed reports are preferred, not any one database.
+    - Yes; rulings from paid databases must be preferred over free ones.
+    - Yes; rulings on free sites may be cited only as "(לא פורסם)".
+    - No; but the URL of the page must be given instead of the date.
+  correct: 0
+  explanation: "Rules 19.1.1 and 19.1.2: prefer a printed report; among databases there is no priority."
+- id: m02-046
+  module: 2
+  lesson: "02.5"
+  subject: edition
+  difficulty: 1
+  question: >-
+    Which edition of the uniform citation rules was current when this course was checked in October
+    2026?
+  options:
+    - The first edition (2002).
+    - The third edition (2021).
+    - The fifth edition (2025).
+    - There is no edition; courts publish the rules each year.
+  correct: 1
+  explanation: >-
+    The Tel Aviv law faculty's citation page publishes the third edition (2021); no later edition
+    was found.
+- id: m02-047
+  module: 2
+  lesson: "02.5"
+  subject: basic-laws
+  difficulty: 2
+  question: Which citation of a Basic Law follows the rules?
+  options:
+    - "\"חוק יסוד: השפיטה, התשמ\"ד–1984\""
+    - "\"חוק יסוד השפיטה 1984\""
+    - "\"ס' 20 לחוק-יסוד: השפיטה\""
+    - "\"חוק-יסוד השפיטה, סעיף 20, 1984\""
+  correct: 2
+  explanation: >-
+    Rule 4.3: Basic Laws have no year in their name and are written with a hyphen (except Basic Law:
+    The State Economy). Pinpoint first.
+- id: m02-048
+  module: 2
+  lesson: "02.6"
+  subject: memo-structure
+  difficulty: 1
+  question: Where does the short answer go in a research memo?
+  options:
+    - At the end, after the analysis, to build suspense.
+    - In the sources list.
+    - Only in the open-questions section.
+    - Right after the question, before the facts.
+  correct: 3
+  explanation: "Answer first: the reader, often you months later, gets the conclusion from part 2."
+- id: m02-049
+  module: 2
+  lesson: "02.6"
+  subject: memo-facts
+  difficulty: 2
+  question: >-
+    Your memo's facts section says: "The authority acted outrageously and illegally on 5 May." What
+    is wrong with it?
+  options:
+    - It mixes argument into the facts, which should be neutral and documented.
+    - Dates should not appear in the facts section, only in the analysis.
+    - The facts section of a memo must always be written in English.
+    - Nothing is wrong; strong language helps the reader see the point.
+  correct: 0
+  explanation: "Keep conclusions for the analysis. Facts are what you can prove: dates, documents, events."
+- id: m02-050
+  module: 2
+  lesson: "02.6"
+  subject: confidence
+  difficulty: 2
+  question: >-
+    You found a clear statute but no ruling, and the other side has a plausible reading. Which
+    confidence grade fits?
+  options:
+    - Clear, because the statute exists.
+    - Likely, with the counter-argument stated and answered.
+    - Uncertain, because there is no ruling at all.
+    - No grade; grades are only for issues with case law.
+  correct: 1
+  explanation: Good arguments with some risk are "likely". State the opposing reading and your answer.
+- id: m02-051
+  module: 2
+  lesson: "02.6"
+  subject: memo-scope
+  difficulty: 2
+  question: Which of these is within what a non-lawyer may do under Bar Association Law s. 20?
+  options:
+    - Writing paid memos for neighbours on their tenancy disputes.
+    - Running a free weekly service writing legal opinions for anyone who asks.
+    - Writing a memo on your own tenancy dispute.
+    - Selling templates with personalised legal opinions attached.
+  correct: 2
+  explanation: >-
+    Section 20 reserves advice and opinions given as an occupation or for payment. Your own affairs
+    are outside it.
+- id: m02-052
+  module: 2
+  lesson: "02.6"
+  subject: next-steps
+  difficulty: 3
+  question: >-
+    Your memo concludes an authority must answer within 45 days and has not. The amount at stake is
+    small. Which next step is most proportionate?
+  options:
+    - An immediate petition to the High Court of Justice for an order.
+    - A complaint to the police against the official in charge.
+    - Waiting a year to see whether the authority eventually answers.
+    - A reminder letter citing the duty, then the Ombudsman.
+  correct: 3
+  explanation: >-
+    A memo's next steps should match the stakes. Letters and the Ombudsman are cheap and often
+    effective; litigation comes later if needed.
+- id: m02-053
+  module: 2
+  lesson: "02.6"
+  subject: memo-dating
+  difficulty: 1
+  question: Why should every source in a memo carry the date you checked it?
+  options:
+    - Because the law may change, so you must re-check before acting.
+    - Because courts require that memos be filed with dated sources.
+    - Because Reshumot charges a fee that depends on the date of access.
+    - Because the uniform citation rules require a date for every statute.
+  correct: 0
+  explanation: A memo is true as of its date. Amendments and new rulings can change the answer.
+- id: m02-054
+  module: 2
+  lesson: "02.6"
+  subject: memo-question
+  difficulty: 3
+  question: >-
+    Spot the mistake. A memo's question reads: "Should I sue my employer for ₪50,000?" Why is this a
+    poor question presented?
+  options:
+    - Because employment disputes cannot be researched with free sources at all.
+    - It starts from a remedy and a sum, not the legal issue on the facts.
+    - Because a memo may not name the other party to the dispute.
+    - Because the question in a memo must always be written in Hebrew.
+  correct: 1
+  explanation: >-
+    The question should identify the legal issue (e.g. was a payment owed under a section) on the
+    facts; whether to sue is a next step decided after the analysis.
+- id: m02-055
+  module: 2
+  lesson: "02.7"
+  subject: decisions-reasons
+  difficulty: 1
+  question: >-
+    Within how many days must a public official answer a written request to use a statutory power,
+    under the Decisions and Reasons Law (general rule)?
+  options:
+    - 14 days.
+    - 30 days.
+    - 45 days.
+    - 90 days.
+  correct: 2
+  explanation: >-
+    Section 2(א): promptly and no later than 45 days from receipt, subject to the exceptions in s.
+    2(ב) and notice under s. 2(ג).
+- id: m02-056
+  module: 2
+  lesson: "02.7"
+  subject: decisions-reasons
+  difficulty: 2
+  question: >-
+    A ministry refuses your request without reasons and says nothing else. Which provision supports
+    your demand for reasons?
+  options:
+    - Freedom of Information Law s. 1.
+    - Interpretation Law s. 3.
+    - Bar Association Law s. 20.
+    - Decisions and Reasons Law s. 2א.
+  correct: 3
+  explanation: >-
+    Section 2א requires a public servant who refuses a request to give the reasons in writing,
+    subject to the exemptions in s. 3.
+- id: m02-057
+  module: 2
+  lesson: "02.7"
+  subject: wrong-recipient
+  difficulty: 2
+  question: >-
+    You sent your request to the wrong department of the municipality. What does the Decisions and
+    Reasons Law require of that department?
+  options:
+    - Transfer it to the competent official and tell you, or say who is.
+    - Reject it, so that you start again with the right department.
+    - Nothing, because the duty applies only to the competent official.
+    - Decide the request itself within 45 days, even without the power.
+  correct: 0
+  explanation: >-
+    Section 2ב: transfer the request and notify you, or notify you of its lack of power and
+    recommend who is competent.
+- id: m02-058
+  module: 2
+  lesson: "02.7"
+  subject: foi
+  difficulty: 2
+  question: Must you explain why you want information in a freedom-of-information request?
+  options:
+    - Yes, or the request is invalid.
+    - No, the requester need not state a reason.
+    - Only if the information concerns another person.
+    - Only when requesting from a local authority.
+  correct: 1
+  explanation: >-
+    Freedom of Information Law s. 7(א): "אין המבקש חייב לציין את הטעם לבקשתו". Giving context can
+    still help in borderline cases.
+- id: m02-059
+  module: 2
+  lesson: "02.7"
+  subject: foi-fees
+  difficulty: 2
+  question: >-
+    You ask the National Insurance Institute for information about your own claim. What do the FOI
+    fees regulations say about the application fee?
+  options:
+    - It is doubled when the information requested is personal.
+    - It is payable only if the request is refused in the end.
+    - Information about yourself and your rights is exempt.
+    - It is waived only for registered non-profit associations.
+  correct: 2
+  explanation: >-
+    FOI (Fees) Regulations reg. 6(א) exempts information a person requests about themselves and
+    their rights from the application fee (and from some handling fees).
+- id: m02-060
+  module: 2
+  lesson: "02.7"
+  subject: proof-of-delivery
+  difficulty: 1
+  question: Which method gives the strongest proof that an authority received your letter?
+  options:
+    - A phone call afterwards to confirm that someone saw the letter.
+    - A WhatsApp message to a clerk's personal mobile number.
+    - Leaving it at the reception desk without keeping a stamped copy.
+    - Registered mail with delivery proof, plus official email.
+  correct: 3
+  explanation: >-
+    Registered mail with a delivery card and an email to an official address, kept together, prove
+    when the letter was received.
+- id: m02-061
+  module: 2
+  lesson: "02.7"
+  subject: letter-content
+  difficulty: 3
+  question: >-
+    Spot the mistake. A letter to a company says: "If you do not refund me by Sunday I will report
+    your manager to the police for theft and post his name online." What is the main problem?
+  options:
+    - Threats of a police complaint and public naming can backfire legally.
+    - Letters to companies must always give at least 45 days to respond.
+    - A demand for a refund must be written in English to be valid.
+    - Companies may be written to only by registered mail, never by email.
+  correct: 0
+  explanation: >-
+    State a realistic next step (regulator, small claim). Accusations and threats of naming expose
+    you to risk and make the reader defensive.
+- id: m02-062
+  module: 2
+  lesson: "02.7"
+  subject: deemed-refusal
+  difficulty: 3
+  question: >-
+    A municipality never answers your request of 2 February. On 3 May it argues that you cannot
+    challenge anything because "no decision was made". What is your answer?
+  options:
+    - None; without a written decision there is nothing at all to challenge.
+    - Silence for three months is a refusal without reasons; the burden is theirs.
+    - Your request is now deemed approved and the municipality must carry it out.
+    - You must restart the 45-day period by sending a fresh written request.
+  correct: 1
+  explanation: >-
+    Decisions and Reasons Law s. 6(ב) deems three months' silence a refusal without reasons; s. 6(א)
+    puts the burden on the authority in later proceedings.
+- id: m02-063
+  module: 2
+  lesson: "02.7"
+  subject: which-forum
+  difficulty: 3
+  question: >-
+    A public authority rejects your freedom-of-information request with reasons you think are wrong.
+    Where is a challenge heard, as a rule?
+  options:
+    - In the small-claims court nearest your home.
+    - Before the Knesset Constitution Committee.
+    - By petition to the Administrative Affairs Court.
+    - In the labour court, if the authority is an employer.
+  correct: 2
+  explanation: >-
+    Freedom of Information Law s. 17(א): petitions against FOI decisions go to the Administrative
+    Affairs Court, except where a privilege certificate was issued, which sends the matter to the
+    Supreme Court.
+- id: m02-064
+  module: 2
+  lesson: "02.1"
+  subject: versions
+  difficulty: 3
+  question: >-
+    Spot the mistake. A self-represented claimant quotes a Reshumot amendment published last week
+    and says the Wikisource text "must be wrong" because it does not contain the new words. What did
+    she misunderstand?
+  options:
+    - Reshumot amendments only take effect after Wikisource has merged them into the text.
+    - Wikisource is updated by hand, so new amendments may not be merged yet; Reshumot governs.
+    - The Knesset database must approve the amendment before it appears in any source.
+    - Amendments published in the last month are not binding until the next Knesset session.
+  correct: 1
+  explanation: >-
+    Volunteers merge amendments manually and may lag; the Open Law Book lists recent updates. The
+    official Reshumot publication controls.
+- id: m02-065
+  module: 2
+  lesson: "02.2"
+  subject: which-forum
+  difficulty: 3
+  question: >-
+    You want to rely on a ruling of the National Labour Court in a dispute with your employer that
+    will be heard in a regional labour court. How much weight does it carry?
+  options:
+    - None, because only Supreme Court rulings have any weight in labour courts.
+    - It binds the regional court absolutely, exactly like a Supreme Court holding.
+    - As a higher court's ruling it guides the regional court, subject to Supreme Court holdings.
+    - It applies only if your employer was a party to the National Labour Court case.
+  correct: 2
+  explanation: >-
+    Basic Law: The Judiciary s. 20(א): a higher court's ruling guides lower courts; Supreme Court
+    holdings bind all courts (s. 20(ב)).
+- id: m02-066
+  module: 2
+  lesson: "02.5"
+  subject: citation-errors
+  difficulty: 3
+  question: >-
+    Spot the mistake: "עע"ם 1758/10 לשכת עורכי הדין בישראל נ' שגיא, שם, פס' 14" appears in footnote
+    6, right after footnote 5 cited the Interpretation Law. What is wrong?
+  options:
+    - The case number should come after the parties' names, not before them.
+    - Paragraph numbers may not be used for Supreme Court rulings, only pages.
+    - The Bar Association must be cited as "הלשכה" in every repeat citation.
+    - "\"שם\" cannot point to the ruling, since the Interpretation Law came in between."
+  correct: 3
+  explanation: >-
+    Rule 37.7: "שם" refers only to the immediately preceding source. Use the short name with "לעיל
+    ה"ש" and the pinpoint.
+- id: m02-067
+  module: 2
+  lesson: "02.7"
+  subject: decisions-reasons
+  difficulty: 3
+  question: >-
+    An authority refused your request in a letter that gave reasons but said nothing about appeal,
+    although the governing statute provides a 30-day appeal to a committee. What is the best next
+    letter?
+  options:
+    - >-
+      Ask it to state the appeal route and timing under s. 5, and file a protective appeal within 30
+      days anyway.
+    - Wait for the authority to send appeal details, since the 30 days cannot start before it does.
+    - Ignore the refusal, since a decision without appeal details is void under the Law.
+    - Petition the High Court at once, since a missing appeal notice is a constitutional breach.
+  correct: 0
+  explanation: >-
+    Section 5 requires notice of the appeal right, and s. 6(א) says non-compliance alone does not
+    void the decision. Ask, but protect yourself by appealing in time.
