@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    You and a seller exchanged emails agreeing on a used motorbike, its price and a handover date.
+    He now says there is no deal because "a contract of sale must be signed". What is your best
+    response?
+  options:
+    - >-
+      Agree, and ask him to sign a document so the deal becomes valid.
+    - >-
+      Agree, since the Sale Law requires writing for sales of vehicles.
+    - >-
+      Insist the deal is binding: form is free unless a law requires writing.
+    - >-
+      Insist the deal binds only if you already paid part of the price.
+  correct: 2
+  explanation: >-
+    Section 23 makes form free. Writing is required for undertakings in land (Land Law s. 8) and
+    future gifts, not for selling a motorbike; the emails show offer and acceptance.
+- id: q2
+  question: >-
+    A family friend promised in front of witnesses to sell you his flat at a low price "when you
+    finish the army". Two years later he refuses. Nothing was written. Can you enforce the promise?
+  options:
+    - >-
+      Very unlikely: a promise to sell land needs a document.
+    - >-
+      Yes, because witnesses replace the writing requirement for land.
+    - >-
+      Yes, because breaking a promise after two years is bad faith under s. 39.
+    - >-
+      Only if you register a caveat on the flat before suing.
+  correct: 0
+  explanation: >-
+    Land Law s. 8 requires a written document for an undertaking to make a land transaction. Good
+    faith overrides the missing writing only in exceptional cases, which a vague oral promise is not.
+- id: q3
+  question: >-
+    A tour company ran a closed tender for a bus contract, negotiated final terms with you, then
+    signed with a firm that never bid. No contract was signed with you. Which claim fits best?
+  options:
+    - >-
+      Enforcement of the bus contract, since negotiations were complete.
+    - >-
+      Cancellation of the other firm's contract as a sham.
+    - >-
+      Nothing, since a party may always choose not to sign.
+    - >-
+      Damages for bad faith in negotiation, possibly including lost profit.
+  correct: 3
+  explanation: >-
+    In Kal Binyan the court found bad faith under s. 12 in similar facts and held that expectation
+    damages may be awarded where the contract would otherwise have been made.
+- id: q4
+  question: >-
+    A salesman told your 80-year-old neighbour that her boiler was "illegal" and sold her a new one
+    at three times the market price, in her home. She asks what her options are. What is the first
+    thing to check for her?
+  options:
+    - >-
+      Whether the price is within the Standard Contracts Law's price limits.
+    - >-
+      The door-to-door cancellation right and its extended period for seniors.
+    - >-
+      Whether she can ask the court to cancel for unilateral mistake.
+    - >-
+      Whether the boiler installer is licensed by the municipality.
+  correct: 1
+  explanation: >-
+    Consumer Protection Law s. 14ג1(ב) gives a senior citizen an extended period to cancel a
+    door-to-door sale; deceit (s. 15) and exploitation (s. 18) are further grounds.
+- id: q5
+  question: >-
+    Your mobile provider's standard terms let it raise the monthly price at any time "at its sole
+    discretion". It raised your price by 40% mid-commitment. What is your strongest argument?
+  options:
+    - >-
+      The term is presumed depriving, and a court may cancel it in your case.
+    - >-
+      The price itself is unfair, so the court must lower it.
+    - >-
+      The term is void because standard contracts cannot mention price.
+    - >-
+      You must first get a ruling from the Standard Contracts Tribunal.
+  correct: 0
+  explanation: >-
+    Section 4(4) presumes depriving a term allowing the supplier to change the price unilaterally
+    after contracting, unless caused by factors outside its control; s. 19 lets your court cancel it.
+- id: q6
+  question: >-
+    Two companies signed a services agreement in April 2026 with no interpretation clause. Read
+    literally, a clause makes the customer pay twice for the same work. What is the likely approach?
+  options:
+    - >-
+      Purposive interpretation from the start, as in Apropim.
+    - >-
+      Language only, with no exceptions, because it is a business contract.
+    - >-
+      Language first, but an unreasonable literal result opens the general rules.
+    - >-
+      The court will rewrite the clause under the Standard Contracts Law.
+  correct: 2
+  explanation: >-
+    The new s. 25(א)(2) reads business contracts by their language alone unless the result is
+    unreasonable or contradictory; then the contract is read under the other rules (para. (3)).
+- id: q7
+  question: >-
+    A contractor stopped work halfway through your bathroom renovation and does not answer calls.
+    The contract does not define fundamental breaches. You want to hire someone else. What do you
+    send first?
+  options:
+    - >-
+      A claim to the small claims court, then a letter once it is filed.
+    - >-
+      A notice giving an extension, then cancellation if unmet.
+    - >-
+      Nothing; his silence automatically cancels the contract.
+    - >-
+      A cancellation notice months later, once you know your full loss.
+  correct: 1
+  explanation: >-
+    If the breach may not be fundamental, s. 7(ב) requires an extension before cancelling; cancel
+    promptly after it ends (s. 8) and mitigate by hiring a replacement (s. 14).
+- id: q8
+  question: >-
+    You cancelled a contract for a kitchen after a fundamental breach. The supplier kept your
+    ₪8,000 advance and delivered cabinets worth ₪2,000 that you kept. Another supplier charges
+    ₪3,000 more than the original price. What can you claim?
+  options:
+    - >-
+      ₪8,000 only, since damages cannot be added to restitution.
+    - >-
+      ₪3,000 only, since restitution is not available after cancellation.
+    - >-
+      ₪11,000, keeping the cabinets without accounting for them.
+    - >-
+      ₪6,000 restitution net of the cabinets, plus ₪3,000 damages.
+  correct: 3
+  explanation: >-
+    After cancellation both sides make restitution (s. 9): ₪8,000 less the ₪2,000 value you kept.
+    Damages for the extra cost of a substitute are added (ss. 2, 10).
+- id: q9
+  question: >-
+    You ordered a coat online. It arrived on 1 March with all the required information. On 20
+    March you decide you do not like it. It is unworn with tags. The shop refuses a refund. What is
+    the position?
+  options:
+    - >-
+      The period ran from 1 March and has now passed.
+    - >-
+      You may cancel, because coats are listed goods under the regulations.
+    - >-
+      You may cancel at any time if the tags are still attached.
+    - >-
+      You may cancel, but only for a credit voucher.
+  correct: 0
+  explanation: >-
+    Under s. 14ג(ג)(1) the distance-sale period for goods runs from receipt of the goods or the
+    disclosure document, whichever is later; both were on 1 March, so the period has ended.
+- id: q10
+  question: >-
+    You signed a 2025 lease with a clause "the tenant waives any claim about the flat's condition".
+    In winter the roof leaks badly. The landlord relies on the waiver. What do you do?
+  options:
+    - >-
+      Accept the waiver, since you signed it after seeing the flat.
+    - >-
+      Stop paying rent until the roof is fixed, as the waiver is void.
+    - >-
+      Demand repair in writing; these rules cannot be waived.
+    - >-
+      Ask the Standard Contracts Tribunal to cancel the waiver first.
+  correct: 2
+  explanation: >-
+    Sections 25ו and 25ח cannot be waived against the tenant (s. 25יד). A written demand starts the
+    landlord's repair period; stopping rent without a legal basis risks a breach by you.

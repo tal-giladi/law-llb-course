@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You rent a flat on an oral agreement; the landlord now says the lease is void because nothing
+    was signed. What is your answer?
+  options:
+    - >-
+      He is right, since every lease of land needs a document under s. 8.
+    - >-
+      He is right, but only if the oral lease was for more than a year.
+    - >-
+      He is wrong; the lease is valid, though the law requires a written copy.
+    - >-
+      He is wrong, because leases are governed only by the Contracts Law.
+  correct: 2
+  explanation: >-
+    Section 25ב of the Rental and Borrowing Law requires a written residential lease but says the
+    failure does not affect the contract's validity.
+- id: q2
+  question: >-
+    Your aunt wrote and signed "I will give you ₪100,000 next year". Before you did anything in
+    reliance, she lost her job and withdrew. Can you enforce the promise?
+  options:
+    - >-
+      Probably not; she may withdraw before you rely or if her finances worsen.
+    - >-
+      Yes, because the promise was in writing as the Gift Law requires.
+    - >-
+      Yes, because money gifts are completed when they are promised in writing.
+    - >-
+      Probably not, because gift promises must be signed before a lawyer.
+  correct: 0
+  explanation: >-
+    Writing makes the promise valid (s. 5(א)), but s. 5(ב)–(ג) let the giver withdraw until the
+    recipient relies on it, or later for a significant worsening of the giver's finances.
+- id: q3
+  question: >-
+    You signed a bank guarantee for your friend's loan. The form says "all the borrower's debts"
+    and states no amount. The bank demands ₪120,000. What is your strongest point?
+  options:
+    - >-
+      Guarantees are void unless signed before a notary.
+    - >-
+      The bank must first sue every other guarantor in proportion.
+    - >-
+      The guarantee is valid only for debts that existed when you signed.
+    - >-
+      As an individual guarantor with no stated amount, you are released.
+  correct: 3
+  explanation: >-
+    Section 21(ב) of the Guarantee Law releases an individual guarantor to a professional lender
+    when no fixed amount is stated in the guarantee contract.
+- id: q4
+  question: >-
+    A seller promised the same flat first to Dana (signed contract, no caveat) and then to Eli, who
+    paid, knew nothing of Dana, and registered first. Who wins under the Land Law?
+  options:
+    - >-
+      Dana, because the first transaction always prevails.
+    - >-
+      Eli, who paid in good faith and registered first.
+    - >-
+      Neither, because conflicting transactions cancel each other.
+    - >-
+      Dana, because Eli should have checked for oral agreements.
+  correct: 1
+  explanation: >-
+    Section 9 gives priority to the first buyer unless the second acted in good faith and for value
+    and registered while in good faith. That is why buyers register a caveat at once.

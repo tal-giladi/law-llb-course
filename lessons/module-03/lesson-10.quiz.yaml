@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You ordered a laptop online; it arrived on 3 March, but the seller's disclosure document
+    (cancellation terms, dealer details) arrived only by email on 10 March. From when does the
+    distance-sale cancellation period for goods run?
+  options:
+    - >-
+      From 10 March, the later of receiving the goods and the document.
+    - >-
+      From the day you placed the order, as for all distance sales.
+    - >-
+      From 3 March, because delivery of the goods always starts it.
+    - >-
+      It never starts until you open the laptop's box.
+  correct: 0
+  explanation: >-
+    Section 14ג(ג)(1) counts from receipt of the goods or of the disclosure document under
+    s. 14ג(ב), whichever is later.
+- id: q2
+  question: >-
+    You cancel an online order for shoes because they arrived two weeks after the promised date.
+    The shop wants to deduct a cancellation fee. What do you answer?
+  options:
+    - >-
+      A fee is allowed, but only up to 5% of the price.
+    - >-
+      A fee is allowed only if you used the shoes outdoors.
+    - >-
+      No fee may be charged when you cancel because of late delivery.
+    - >-
+      The fee depends on the shop's published returns policy.
+  correct: 2
+  explanation: >-
+    Section 14ה(א) bars any cancellation fee when the consumer cancels because of non-delivery on
+    time, a defect, non-conformity or another breach by the dealer.
+- id: q3
+  question: >-
+    Your contract says notices must be sent by email to a named address. You sent your cancellation
+    notice by WhatsApp to the manager. The company says it never received valid notice. Who is right?
+  options:
+    - >-
+      You, because WhatsApp is a customary method in Israel today.
+    - >-
+      You, because any written notice is valid whatever the contract says.
+    - >-
+      Neither; notice is valid only if sent through a lawyer.
+    - >-
+      The company has a point; send a fresh notice by the agreed method now.
+  correct: 3
+  explanation: >-
+    Section 21(א) requires notice in the way the parties agreed, and only otherwise by registered
+    mail or a customary method. Sending again by the agreed method removes the doubt.
+- id: q4
+  question: >-
+    You bought a fridge in a shop, decided the next day you do not want it, and it is unopened in
+    the original packaging. The shop says in-store purchases cannot be cancelled. What applies?
+  options:
+    - >-
+      Nothing; only distance and door-to-door sales can be cancelled.
+    - >-
+      The Cancellation Regulations allow it for listed goods if unused.
+    - >-
+      Only a credit voucher, at the shop's discretion.
+    - >-
+      Cancellation, but only if the fridge turns out to be defective.
+  correct: 1
+  explanation: >-
+    Regulation 2 lets a consumer cancel in-store purchases of listed goods, including electrical
+    devices, within the set period if they are returned unused; the original packaging is proof.

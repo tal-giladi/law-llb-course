@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your residential lease says the landlord may cancel at any time without cause, but you have no
+    such right. Which source do you check first?
+  options:
+    - >-
+      The Contracts (General Part) Law, since it is the main contract statute.
+    - >-
+      The residential-lease chapter of the Rental and Borrowing Law, as the more specific law.
+    - >-
+      English common law on leases, imported through the Mandate Order in Council.
+    - >-
+      The Standard Contracts Law only, because every lease is a standard contract.
+  correct: 1
+  explanation: >-
+    Under s. 61(א) the general part applies only where no other law has a special provision. The
+    residential-lease chapter (s. 25יג) deals directly with one-sided cancellation clauses.
+- id: q2
+  question: >-
+    You lent a friend ₪5,000 and confirmed the repayment date only in a voice message. He says
+    there is no contract because nothing was signed. Is he right?
+  options:
+    - >-
+      Yes, every loan above a small amount must be in writing to be valid.
+    - >-
+      Yes, because voice messages are not admissible evidence in civil courts.
+    - >-
+      No, a contract may be oral or in any form unless a law requires a specific form.
+    - >-
+      No, but only because loans between friends are governed by the Gift Law.
+  correct: 2
+  explanation: >-
+    Section 23 makes form free unless a statute or the parties' agreement requires one. No statute
+    requires writing for a private loan; the voice message is evidence of the terms.
+- id: q3
+  question: >-
+    A condominium owner uses his share of the common property only to block a neighbour's
+    harmless, permitted change. Which provision lets a court apply contract-style good faith to him?
+  options:
+    - >-
+      Section 61(ב) of the Contracts Law, which extends it to non-contractual legal acts.
+    - >-
+      Section 30 of the Contracts Law, which voids immoral property rights.
+    - >-
+      Section 2 of the Remedies Law, which covers every breach of any duty.
+    - >-
+      Section 63 of the Contracts Law, which brings in English equity.
+  correct: 0
+  explanation: >-
+    Section 61(ב) applies the general part, including the good-faith rule in s. 39, to legal acts
+    and obligations that are not contractual, as far as the rule fits the matter.
+- id: q4
+  question: >-
+    You are preparing a claim over a 2025 service contract and find that s. 25 was amended in
+    2026. What should you do?
+  options:
+    - >-
+      Apply the new wording, because the court always uses the law in force at the hearing.
+    - >-
+      Ignore s. 25, since amendments make the earlier case law unusable.
+    - >-
+      Apply whichever wording helps you more, since the choice is the claimant's.
+    - >-
+      Check the transition rule; the new wording covers contracts made or renewed from 7.1.2026.
+  correct: 3
+  explanation: >-
+    The 2026 amendment applies to contracts made after it took effect, with renewal treated as
+    making. A 2025 contract is read under the earlier wording unless it was renewed later.

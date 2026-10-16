@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your internet provider's standard terms say any dispute goes to an arbitrator the provider
+    chooses. You want to sue in small claims for wrong charges. What do you argue?
+  options:
+    - >-
+      The clause is presumed depriving; ask the court to cancel it under s. 19.
+    - >-
+      The clause is valid because you clicked "I agree" to all terms.
+    - >-
+      You must first ask the Standard Contracts Tribunal to cancel the clause.
+    - >-
+      Arbitration clauses can only be challenged if the price was unfair.
+  correct: 0
+  explanation: >-
+    Section 4(8) and (10) presume such arbitration terms depriving, and s. 19 lets the court in your
+    own case cancel them. Individuals cannot apply to the Tribunal.
+- id: q2
+  question: >-
+    A trampoline park's ticket says "the park is not liable for any injury". Your child broke an
+    arm because of a torn net. How does the Standard Contracts Law treat the clause?
+  options:
+    - >-
+      It is presumed depriving, so the park may still prove it was fair.
+    - >-
+      It is valid because parents accept the risks of physical activities.
+    - >-
+      It is void, because exemption from liability for bodily injury is void.
+    - >-
+      It applies unless the ticket was bought online.
+  correct: 2
+  explanation: >-
+    Section 5(ב) voids a standard-contract term exempting the supplier from liability for bodily
+    injury or wilful acts. No rebuttal is possible.
+- id: q3
+  question: >-
+    You paid a contractor part in cash "off the books" at his request. He did half the job and
+    left, and says the contract is void as illegal so he owes you nothing. What can the court do?
+  options:
+    - >-
+      Nothing, because a void contract can never produce any remedy.
+    - >-
+      Order full expectation damages as if the contract were valid.
+    - >-
+      Refer the case to the tax authority and dismiss your claim.
+    - >-
+      Under s. 31, adjust restitution or order him to perform his side, if just.
+  correct: 3
+  explanation: >-
+    Section 31 lets the court, where justice requires, release a party from restitution or order
+    counter-performance, so the party invoking illegality does not simply keep the benefit.
+- id: q4
+  question: >-
+    Your gym's standard contract states the monthly price clearly. You think it is far above the
+    market. Can a court reduce it under the Standard Contracts Law?
+  options:
+    - >-
+      Yes, because any term that benefits the supplier is depriving.
+    - >-
+      No, a plainly worded price term is outside the law.
+    - >-
+      Yes, if you can show cheaper gyms in the same city.
+    - >-
+      No, because gym contracts are governed only by consumer law.
+  correct: 1
+  explanation: >-
+    Section 23(1) excludes a term fixing the price paid, if it is written in plain and clear
+    language. The law polices terms, not the bargain price.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A carpenter is three days late installing your wardrobes; nothing in the contract makes delay
+    fundamental and the delay caused you no special harm. You want to cancel. What must you do?
+  options:
+    - >-
+      Send a cancellation notice at once, since every delay is a breach.
+    - >-
+      Ask the court for permission to cancel before sending any notice.
+    - >-
+      First give him an extension; cancel only if he does not perform within it.
+    - >-
+      Withhold payment and treat the contract as cancelled automatically.
+  correct: 2
+  explanation: >-
+    A non-fundamental breach allows cancellation only after an extension that is not met within a
+    reasonable time (s. 7(ב)). Cancelling at once would make you the party in breach.
+- id: q2
+  question: >-
+    A singer you booked for your wedding cancels a month ahead to take a better-paid show. What can
+    you NOT get from the court?
+  options:
+    - >-
+      Damages for the extra cost of hiring a replacement singer.
+    - >-
+      An order forcing the singer to perform at your wedding.
+    - >-
+      Non-pecuniary damages for the distress the cancellation caused.
+    - >-
+      Restitution of the advance payment you made.
+  correct: 1
+  explanation: >-
+    Section 3(2) bars enforcement that forces someone to do personal work or give a personal
+    service. Damages and restitution remain available.
+- id: q3
+  question: >-
+    Your flight-and-hotel package was cancelled by the agent in breach. You could have booked a
+    similar package for ₪500 more but waited until prices rose by ₪3,000. What will a court award?
+  options:
+    - >-
+      Probably about ₪500, the loss you could not reasonably have avoided.
+    - >-
+      ₪3,000, because all loss caused by the breach is recoverable.
+    - >-
+      Nothing, because waiting means you accepted the cancellation.
+    - >-
+      ₪3,000 plus agreed damages, since travel contracts include them.
+  correct: 0
+  explanation: >-
+    Section 14(א) denies damages for loss the injured party could have prevented or reduced by
+    reasonable means. The extra ₪2,500 came from delay.
+- id: q4
+  question: >-
+    A lease says the tenant pays ₪50,000 agreed damages for any late payment of rent, even one day.
+    Monthly rent is ₪4,500. The tenant paid two days late. What is likely?
+  options:
+    - >-
+      The full ₪50,000, because agreed damages need no proof of loss.
+    - >-
+      Nothing, because agreed damages are void in residential leases.
+    - >-
+      The amount, but only after the landlord proves his actual loss.
+    - >-
+      The court may reduce it, as it has no reasonable relation to foreseeable loss.
+  correct: 3
+  explanation: >-
+    Agreed damages are payable without proof, but s. 15(א) lets the court reduce them where they
+    bear no reasonable relation to the loss foreseeable at contracting.

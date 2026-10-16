@@ -1,0 +1,48 @@
+# Glossary inbox: module 3
+
+- **חוזה** (hoze) — contract.
+- **חיוב** (hiyuv) — obligation.
+- **חופש החוזים** (hofesh ha-hozim) — freedom of contract.
+- **פעולה משפטית** (pe'ula mishpatit) — legal (juristic) act; the Contracts Law applies to non-contractual legal acts through s. 61(ב).
+- **הצעה** (hatza'a) — offer; a communication showing intent to be bound and certain enough for acceptance (Contracts Law s. 2).
+- **קיבול** (kibul) — acceptance of an offer (s. 5).
+- **גמירת דעת** (gmirat da'at) — intent to be bound, judged objectively.
+- **מסוימות** (mesuyamut) — certainty (definiteness) of the essential terms.
+- **הזמנה להציע הצעות** (hazmana le-hatzi'a hatza'ot) — invitation to make offers (to treat).
+- **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
+- **דרישת הכתב** (drishat ha-ktav) — writing requirement (for example Land Law s. 8).
+- **עסקה במקרקעין** (iska be-mekarke'in) — transaction in land; completed by registration (Land Law s. 7).
+- **עסקאות נוגדות** (iska'ot nogdot) — conflicting transactions in the same land (Land Law s. 9).
+- **ערב יחיד / ערב מוגן** (arev yahid / arev mugan) — individual guarantor / protected guarantor (Guarantee Law s. 19).
+- **תום לב** (tom lev) — good faith (Contracts Law ss. 12, 39).
+- **דרך מקובלת** (derekh mekubelet) — customary manner, paired with good faith in ss. 12 and 39.
+- **פיצויי הסתמכות / פיצויי קיום** (pitzuyei histamkhut / pitzuyei kiyum) — reliance damages / expectation damages.
+- **שימוש לרעה בזכות** (shimush le-ra'a bi-zkhut) — abuse of a right.
+- **טעות** (ta'ut) — mistake (s. 14).
+- **הטעיה** (hat'aya) — deceit, including non-disclosure (s. 15).
+- **טעות סופר** (ta'ut sofer) — clerical error, corrected rather than a ground to cancel (s. 16).
+- **כפייה** (kfiya) — duress (s. 17).
+- **עושק** (oshek) — exploitation (unconscionability) (s. 18).
+- **חוזה למראית עין** (hoze le-mar'it ayin) — sham contract (s. 13).
+- **השבה** (hashava) — restitution after cancellation.
+- **חוזה פסול** (hoze pasul) — contract void as illegal, immoral or against public policy (s. 30).
+- **תקנת הציבור** (takanat ha-tzibur) — public policy.
+- **חוזה אחיד** (hoze ahid) — standard-form contract (Standard Contracts Law s. 2).
+- **תנאי מקפח** (tnai mekape'ah) — depriving (unfair) term in a standard contract (s. 3).
+- **בית הדין לחוזים אחידים** (beit ha-din le-hozim ahidim) — the Standard Contracts Tribunal.
+- **אומד דעת הצדדים** (omed da'at ha-tzdadim) — the parties' intention, the basis of contract interpretation.
+- **חוזה עסקי** (hoze iski) — business contract; read by its language alone under s. 25(א)(2) as amended in 2026.
+- **פרשנות נגד המנסח** (parshanut neged ha-menase'ah) — contra proferentem (s. 25(ב1)).
+- **השלמת חוזה** (hashlamat hoze) — gap-filling (s. 26).
+- **הפרה יסודית** (hafara yesodit) — fundamental breach (Remedies Law s. 6).
+- **ארכה** (arkha) — extension given before cancelling for a non-fundamental breach (s. 7(ב)).
+- **אכיפה** (akhifa) — enforcement (specific performance), including orders to pay (Remedies Law s. 3).
+- **פיצויים מוסכמים** (pitzuyim muskamim) — agreed (liquidated) damages (s. 15).
+- **הקטנת הנזק** (haktanat ha-nezek) — mitigation of damage (s. 14).
+- **סיכול** (sikul) — frustration (s. 18).
+- **הפרה צפויה** (hafara tzfuya) — anticipatory breach (s. 17).
+- **עסקת מכר מרחוק** (iskat mekher me-rahok) — distance sale (Consumer Protection Law s. 14ג).
+- **עסקה ברוכלות** (iska be-rokhlut) — door-to-door sale (Consumer Protection Law s. 14).
+- **דמי ביטול** (dmei bitul) — cancellation fee (capped by s. 14ה and the Cancellation Regulations).
+- **אי־התאמה** (i-hat'ama) — non-conformity of goods sold (Sale Law s. 11).
+- **חוזה שכירות למגורים** (hoze skhirut le-megurim) — residential lease (Rental and Borrowing Law ss. 25א–25טו).

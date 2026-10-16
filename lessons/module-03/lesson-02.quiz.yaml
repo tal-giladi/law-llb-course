@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A seller writes "₪3,000 for the sofa, offer valid until Friday". On Wednesday you reply
+    "Agreed, ₪2,800 and you deliver". On Thursday he sells to someone else. What is your position?
+  options:
+    - >-
+      You have a contract, because you replied before the Friday deadline.
+    - >-
+      You have a contract at ₪3,000, since the court will ignore your changes.
+    - >-
+      You have no contract; your reply was a counter-offer that the seller never accepted.
+    - >-
+      You have a contract, because silence after your reply counts as acceptance.
+  correct: 2
+  explanation: >-
+    Section 11 treats an acceptance with any change as a new offer, which ends the original offer.
+    The seller never accepted yours, and silence is not acceptance (s. 6(ב)).
+- id: q2
+  question: >-
+    A landlord gives you a written offer to rent, open "until 1 June". On 20 May he emails that he
+    withdraws it. You accept on 25 May. What is the result?
+  options:
+    - >-
+      A contract was made; a fixed-period offer cannot be withdrawn.
+    - >-
+      No contract, because the withdrawal reached you before you accepted.
+    - >-
+      No contract, because rental offers must be accepted in a signed document.
+    - >-
+      A contract was made, but only for the period until 1 June.
+  correct: 0
+  explanation: >-
+    Under s. 3(ב), an offeror who set a period for acceptance may not withdraw after the offer
+    reached the offeree. Your acceptance within the period made a contract.
+- id: q3
+  question: >-
+    You and a seller signed a one-page זיכרון דברים for a flat: parties, address, price, payment dates
+    and delivery date, with a ₪50,000 deposit paid. It says "a detailed contract will be signed".
+    The seller now says it was only a draft. What is the best assessment?
+  options:
+    - >-
+      It cannot bind, because any memorandum is preliminary by definition.
+    - >-
+      It binds only if both parties privately intended it to be final.
+    - >-
+      It cannot bind, because a deposit is merely a refundable reservation.
+    - >-
+      It is likely binding: the essential terms are agreed and the conduct shows intent.
+  correct: 3
+  explanation: >-
+    Intent to be bound is judged objectively (Botkovsky). Agreed essential terms and a deposit point
+    to a binding agreement; a planned fuller contract does not by itself prevent it.
+- id: q4
+  question: >-
+    A gym's sign-up form says "if you do not cancel within 7 days, you are deemed to accept the
+    annual plan". You never answered. Are you bound to the annual plan?
+  options:
+    - >-
+      Yes, because the form was a standard contract you received.
+    - >-
+      No, an offeror's statement that silence is acceptance has no effect.
+    - >-
+      Yes, because you had a fair chance to cancel within seven days.
+    - >-
+      No, but only because gym contracts must be signed in person.
+  correct: 1
+  explanation: >-
+    Section 6(ב) denies effect to an offeror's term that lack of response counts as acceptance.
+    Acceptance needs a notice or conduct that shows intent to contract.

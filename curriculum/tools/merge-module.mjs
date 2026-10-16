@@ -16,8 +16,13 @@ const tableRows = (s) => s.split("\n").filter((l) => /^\|/.test(l) && !/^\|\s*-/
 
 // 1. Templates: move drafts into templates/ and rebuild the README list.
 const draftDir = "curriculum/inbox/templates";
+const modFiles = [
+  ...(exists(`lessons/module-${NN}`) ? fs.readdirSync(`lessons/module-${NN}`).map((f) => `lessons/module-${NN}/${f}`) : []),
+  ...fs.readdirSync("projects").filter((p) => p.startsWith(`m${NN}-`)).map((p) => `projects/${p}`),
+];
+const linked = modFiles.map(read).join("\n");
 if (exists(draftDir)) for (const f of fs.readdirSync(draftDir)) {
-  if (!f.endsWith(".md")) continue;
+  if (!f.endsWith(".md") || !linked.includes(`templates/${f}`)) continue;
   if (exists(`templates/${f}`)) console.log(`template exists, kept: ${f}`);
   else fs.renameSync(`${draftDir}/${f}`, `templates/${f}`);
 }

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A draft lease for ₪5,000 a month for one year asks for a ₪15,000 bank guarantee and a
+    ₪15,000 cash deposit. What do you ask for first?
+  options:
+    - >-
+      A lower rent, since the security shows the landlord expects problems.
+    - >-
+      Cut total security to the statutory cap, since s. 25י(ב) cannot be waived.
+    - >-
+      Nothing, because security amounts are a commercial matter for the parties.
+    - >-
+      Replace both with a promissory note, which is always outside the cap.
+  correct: 1
+  explanation: >-
+    Section 25י(ב) caps the total of securities that cost the tenant money, at the lower of
+    one-third of the term's rent or three months' rent, and s. 25יד bars waiving it.
+- id: q2
+  question: >-
+    A lease clause says "the landlord may cancel at any time on 30 days' notice". The tenant has no
+    such right. How do you classify it in your review?
+  options:
+    - >-
+      Void unless made mutual, with the statutory notice periods.
+    - >-
+      Valid, because both parties are free to agree on termination.
+    - >-
+      Presumed unfair, so the landlord may prove it is reasonable.
+    - >-
+      Valid, but only if the landlord pays a cancellation fee.
+  correct: 0
+  explanation: >-
+    Section 25יג(א) voids a landlord's right to cancel without breach unless the tenant has the same
+    right; s. 25יג(ב) sets minimum notice periods for each side.
+- id: q3
+  question: >-
+    A renovation contract's standard form says "any delay by the customer in any payment is a
+    fundamental breach entitling the contractor to cancel". What is the right comment?
+  options:
+    - >-
+      Accept it, because the parties may define fundamental breaches freely.
+    - >-
+      Delete it, because only a court can decide what is fundamental.
+    - >-
+      List specific breaches; a blanket clause needs to be reasonable.
+    - >-
+      Accept it, but only if the contractor signs a similar clause.
+  correct: 2
+  explanation: >-
+    Remedies Law s. 6 gives a blanket clause that makes breaches fundamental without distinction
+    effect only if it was reasonable at contracting. Listing specific breaches is safer for both.
+- id: q4
+  question: >-
+    You are about to sign a lease and the flat has visible mould in the bathroom. The draft says
+    "the tenant waives any claim regarding the flat's condition". What should you do?
+  options:
+    - >-
+      Sign and fix the mould yourself, since the waiver is binding.
+    - >-
+      Refuse to sign any lease that contains a waiver clause of any kind.
+    - >-
+      Sign, then deduct the repair cost from the first month's rent.
+    - >-
+      Attach a condition report and replace the waiver with a repair term.
+  correct: 3
+  explanation: >-
+    Habitability (s. 25ו) cannot be waived against the tenant, and a condition report fixes the
+    facts. Self-help deductions without notice risk a dispute over unpaid rent.

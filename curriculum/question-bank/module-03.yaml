@@ -1,0 +1,1426 @@
+# Module 03 question bank (not imported). Feeds the daily practice tool.
+- id: m03-001
+  module: 3
+  lesson: "03.1"
+  subject: code-structure
+  difficulty: 1
+  question: >-
+    Which statute contains the rules on enforcement, cancellation and damages for breach of contract?
+  options:
+    - >-
+      The Contracts (General Part) Law 1973, chapter ה.
+    - >-
+      The Contracts (Remedies for Breach) Law 1970.
+    - >-
+      The Civil Wrongs Ordinance [New Version].
+    - >-
+      The Sale Law 1968, which applies to all contracts.
+  correct: 1
+  explanation: >-
+    The Remedies Law 1970 is the general remedies statute; the General Part covers formation, defects, form, interpretation and performance.
+- id: m03-002
+  module: 3
+  lesson: "03.1"
+  subject: s61-special-law
+  difficulty: 1
+  question: >-
+    A special law and the Contracts (General Part) Law give different answers on the same point in a sale of goods. Which prevails?
+  options:
+    - >-
+      The General Part, because it is the later code.
+    - >-
+      Whichever favours the buyer, as the weaker party.
+    - >-
+      The General Part, unless the parties chose otherwise.
+    - >-
+      The special law, under s. 61(א).
+  correct: 3
+  explanation: >-
+    Section 61(א) applies the General Part only where no other law has special provisions on the matter.
+- id: m03-003
+  module: 3
+  lesson: "03.1"
+  subject: s61b-extension
+  difficulty: 2
+  question: >-
+    A condominium's general meeting passes a resolution about the common garden. Can s. 39 (good faith) apply to how a resolution is used?
+  options:
+    - >-
+      Yes, through s. 61(ב), as far as it fits the matter.
+    - >-
+      No, s. 39 applies only to signed contracts.
+    - >-
+      Only if the resolution was later signed by every owner.
+    - >-
+      No, condominiums are governed only by the Land Law.
+  correct: 0
+  explanation: >-
+    Section 61(ב) extends the General Part to legal acts that are not contracts and to non-contractual obligations, with the necessary changes.
+- id: m03-004
+  module: 3
+  lesson: "03.1"
+  subject: independence
+  difficulty: 1
+  question: >-
+    Why will an Israeli court not apply an English common-law rule on offer and acceptance today?
+  options:
+    - >-
+      English law applies wherever the Knesset has not legislated.
+    - >-
+      The Ottoman Majalla still governs offer and acceptance.
+    - >-
+      Section 63 excludes article 46 on matters the law covers.
+    - >-
+      Only the Supreme Court may rely on foreign legal rules.
+  correct: 2
+  explanation: >-
+    Section 63 of the Contracts Law cuts off article 46 of the Mandate Order in Council on matters the law deals with.
+- id: m03-005
+  module: 3
+  lesson: "03.1"
+  subject: freedom-of-contract
+  difficulty: 2
+  question: >-
+    A private loan agreement says the borrower repays 'whenever convenient'. Is the contract void for vagueness?
+  options:
+    - >-
+      Yes, every loan must state a fixed date.
+    - >-
+      Yes, because s. 24 requires agreed content.
+    - >-
+      Not necessarily; s. 41 can supply a reasonable time.
+    - >-
+      No, but the lender can never demand repayment.
+  correct: 2
+  explanation: >-
+    Default rules such as s. 41 fill missing details; a contract is void for uncertainty only if essential terms cannot be determined.
+- id: m03-006
+  module: 3
+  lesson: "03.1"
+  subject: bar-structure
+  difficulty: 3
+  question: >-
+    Bar-exam style: which statement about the relationship between the General Part and the Remedies Law is correct?
+  options:
+    - >-
+      Breach of s. 39 is a breach of contract with Remedies Law remedies.
+    - >-
+      Breach of s. 12 gives enforcement under s. 3 of the Remedies Law.
+    - >-
+      The Remedies Law applies only to contracts made after 1973.
+    - >-
+      Remedies for defects in formation are in the Remedies Law.
+  correct: 0
+  explanation: >-
+    Section 39 governs performance, so its breach triggers the Remedies Law; s. 12 gives damages only, and defects in formation are in chapter ב of the General Part.
+- id: m03-007
+  module: 3
+  lesson: "03.1"
+  subject: which-statute
+  difficulty: 2
+  question: >-
+    Which forum hears a ₪6,000 claim by an individual tenant against a landlord over unreturned rent overpayment?
+  options:
+    - >-
+      The Rent Tribunal, which has exclusive jurisdiction.
+    - >-
+      The district court, as all lease disputes are land matters.
+    - >-
+      The Standard Contracts Tribunal, if the lease was printed.
+    - >-
+      The small claims court or the magistrates' court.
+  correct: 3
+  explanation: >-
+    A money claim by an individual within the ceiling may go to small claims; lease money claims are not exclusive to any special tribunal.
+- id: m03-008
+  module: 3
+  lesson: "03.2"
+  subject: offer-invitation
+  difficulty: 1
+  question: >-
+    An advert on a second-hand site reads 'flat for sale, ₪2.1 million, call Avi'. What is it?
+  options:
+    - >-
+      An offer to the public that any caller can accept.
+    - >-
+      Usually an invitation to negotiate.
+    - >-
+      A binding option for the first caller.
+    - >-
+      An offer, because the price is stated.
+  correct: 1
+  explanation: >-
+    Too many essential terms (payment schedule, dates, condition) remain open; it lacks the certainty an offer needs (s. 2).
+- id: m03-009
+  module: 3
+  lesson: "03.2"
+  subject: counter-offer
+  difficulty: 1
+  question: >-
+    You reply to an offer 'Agreed, but delivery on Sunday instead of Friday'. What is your reply?
+  options:
+    - >-
+      An acceptance with a minor note.
+    - >-
+      A counter-offer.
+    - >-
+      An acceptance, because delivery is not essential.
+    - >-
+      A withdrawal of the offer.
+  correct: 1
+  explanation: >-
+    Section 11: an acceptance with any addition, limitation or change is a new offer.
+- id: m03-010
+  module: 3
+  lesson: "03.2"
+  subject: withdrawal-timing
+  difficulty: 2
+  question: >-
+    An offeror emails a withdrawal at 10:05. The offeree sent an acceptance at 10:00 that arrived at 10:02. Is there a contract?
+  options:
+    - >-
+      No, because a withdrawal takes effect when it is sent.
+    - >-
+      No, because the two emails crossed in the same minute.
+    - >-
+      Only if the offer had stated a fixed acceptance period.
+    - >-
+      Yes; withdrawal had to arrive before acceptance was sent.
+  correct: 3
+  explanation: >-
+    Section 3(א) allows withdrawal only if it reaches the offeree before the offeree gives notice of acceptance.
+- id: m03-011
+  module: 3
+  lesson: "03.2"
+  subject: late-acceptance
+  difficulty: 1
+  question: >-
+    An offer said 'valid until 1 June'. You accept on 3 June. What is the legal effect?
+  options:
+    - >-
+      Your acceptance is a new offer (s. 9).
+    - >-
+      A contract is made, as the delay was short.
+    - >-
+      Nothing at all; you must wait for a new offer.
+    - >-
+      A contract is made if the offeror stays silent.
+  correct: 0
+  explanation: >-
+    Section 9: acceptance after the offer lapsed is a new offer, which the original offeror may accept.
+- id: m03-012
+  module: 3
+  lesson: "03.2"
+  subject: memorandum
+  difficulty: 3
+  question: >-
+    You signed a 'זיכרון דברים' for a car with price, date and a ₪2,000 deposit, plus 'a full contract will follow'. The seller sells to another buyer. What is your best position?
+  options:
+    - >-
+      You have no claim; only the full contract binds.
+    - >-
+      You may only recover the deposit as a gift.
+    - >-
+      The memorandum is likely binding; claim for breach.
+    - >-
+      You must first register a caveat on the car.
+  correct: 2
+  explanation: >-
+    Intent is judged objectively (Botkovsky); agreed essentials and a deposit point to a binding contract despite a planned fuller document.
+- id: m03-013
+  module: 3
+  lesson: "03.2"
+  subject: subject-to-contract
+  difficulty: 2
+  question: >-
+    Which wording best keeps you unbound while negotiating a lease?
+  options:
+    - >-
+      'Agreed in principle, all remaining details to follow.'
+    - >-
+      'Accepted, subject to minor changes we discuss later.'
+    - >-
+      'Not binding until a detailed contract is signed by both.'
+    - >-
+      'Deal closed; please send us the contract to sign.'
+  correct: 2
+  explanation: >-
+    An express statement that no party is bound until signing is strong evidence against intent to be bound.
+- id: m03-014
+  module: 3
+  lesson: "03.2"
+  subject: silence
+  difficulty: 1
+  question: >-
+    A magazine sends you issues with a note: 'if you do not reply within 10 days you are subscribed'. You ignore it. Are you bound?
+  options:
+    - >-
+      No; silence is not acceptance (s. 6(ב)).
+    - >-
+      Yes, once the ten days have passed.
+    - >-
+      Yes, if you read any of the issues.
+    - >-
+      Only if the price was stated clearly.
+  correct: 0
+  explanation: >-
+    An offeror's term that silence counts as acceptance has no effect.
+- id: m03-015
+  module: 3
+  lesson: "03.2"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake: a buyer writes 'I accept your offer of 12 May; the contract was made when I sent this email'. What is wrong?
+  options:
+    - >-
+      Email acceptances are invalid for sales of goods.
+    - >-
+      An acceptance needs a signature, not an email.
+    - >-
+      A contract is made only when payment is made.
+    - >-
+      Acceptance takes effect when it reaches the offeror.
+  correct: 3
+  explanation: >-
+    Section 5 requires acceptance delivered to the offeror, and s. 60(ב) treats notice as given when it reaches the addressee.
+- id: m03-016
+  module: 3
+  lesson: "03.3"
+  subject: s8-scope
+  difficulty: 1
+  question: >-
+    Which of these needs a written document under s. 8 of the Land Law?
+  options:
+    - >-
+      A one-month rental of a parking space, done now.
+    - >-
+      A promise to sell a share in a flat.
+    - >-
+      A sale of a used car.
+    - >-
+      A loan between relatives secured by nothing.
+  correct: 1
+  explanation: >-
+    Section 8 covers undertakings to make a transaction in land: transferring ownership or another right in land.
+- id: m03-017
+  module: 3
+  lesson: "03.3"
+  subject: s7-registration
+  difficulty: 2
+  question: >-
+    A buyer paid in full and got the keys, but the transfer was never registered. What does the buyer hold under the Land Law?
+  options:
+    - >-
+      Full ownership, since payment completes a sale.
+    - >-
+      An undertaking to make the transaction, not ownership.
+    - >-
+      Nothing at all, because the sale is void.
+    - >-
+      Ownership, provided a lawyer signed the contract.
+  correct: 1
+  explanation: >-
+    Section 7: a land transaction is completed by registration; an unregistered one is an undertaking.
+- id: m03-018
+  module: 3
+  lesson: "03.3"
+  subject: conflicting
+  difficulty: 3
+  question: >-
+    Bar-exam style: seller signs with A (no caveat), then with B, who knows of A, pays and registers. Who prevails?
+  options:
+    - >-
+      B, because registration always prevails.
+    - >-
+      B, because A failed to register a caveat.
+    - >-
+      Neither; both contracts are void.
+    - >-
+      A, because B was not in good faith.
+  correct: 3
+  explanation: >-
+    Section 9 protects the second buyer only if in good faith, for value and registered in good faith.
+- id: m03-019
+  module: 3
+  lesson: "03.3"
+  subject: gift-promise
+  difficulty: 2
+  question: >-
+    Your grandmother emailed 'I will pay your tuition next year'. She changes her mind before you enrolled. Is the promise enforceable?
+  options:
+    - >-
+      Probably not; she may withdraw before you relied on it.
+    - >-
+      Yes, because an email is a written promise of a gift.
+    - >-
+      Yes, because gifts for education cannot be withdrawn.
+    - >-
+      No, because a gift promise must be notarised to bind.
+  correct: 0
+  explanation: >-
+    Even a written promise of a future gift is revocable until the recipient changed position in reliance (Gift Law s. 5(ב)).
+- id: m03-020
+  module: 3
+  lesson: "03.3"
+  subject: guarantee-amount
+  difficulty: 2
+  question: >-
+    An individual guarantees a friend's bank loan; the form states a fixed ₪40,000 cap. The bank claims ₪70,000 plus interest. What is the guarantor's main defence?
+  options:
+    - >-
+      The guarantee is void because it was not signed before a notary.
+    - >-
+      The guarantor owes nothing until the borrower has died or fled.
+    - >-
+      Liability is capped at the stated amount and permitted additions.
+    - >-
+      Guarantees for bank loans are limited to half the loan amount.
+  correct: 2
+  explanation: >-
+    Section 21(א): an individual guarantor is liable only for the amount stated and the additions listed in s. 25.
+- id: m03-021
+  module: 3
+  lesson: "03.3"
+  subject: protected-guarantor
+  difficulty: 3
+  question: >-
+    A bank sues a protected guarantor first, without suing the borrower. What should the guarantor argue?
+  options:
+    - >-
+      The guarantee is void for lack of disclosure.
+    - >-
+      The bank must sue all guarantors together.
+    - >-
+      The claim is premature until the steps in s. 27 are taken.
+    - >-
+      The guarantor can only be sued in the Execution Office.
+  correct: 2
+  explanation: >-
+    Section 27 bars a claim against a protected guarantor before judgment against the debtor and exhaustion of execution, subject to exceptions.
+- id: m03-022
+  module: 3
+  lesson: "03.3"
+  subject: lease-writing
+  difficulty: 1
+  question: >-
+    What is the effect of an unwritten residential lease?
+  options:
+    - >-
+      Valid; the writing rule is a duty.
+    - >-
+      It is void under s. 25ב.
+    - >-
+      It is valid for one month only.
+    - >-
+      It is void unless it is registered.
+  correct: 0
+  explanation: >-
+    Section 25ב says failure to write the lease does not affect its validity.
+- id: m03-023
+  module: 3
+  lesson: "03.3"
+  subject: forum-land
+  difficulty: 2
+  question: >-
+    Which forum hears a claim to enforce a written promise to sell a flat worth ₪1.8 million?
+  options:
+    - >-
+      The small claims court, as for any individual's claim.
+    - >-
+      The Land Registry, which decides contested sales.
+    - >-
+      The Standard Contracts Tribunal, if the form was printed.
+    - >-
+      A civil court chosen by subject and value under the Courts Law.
+  correct: 3
+  explanation: >-
+    Land claims are civil claims; the court depends on the subject and value rules in the Courts Law (lesson 01.4); small claims and the Registry are not options.
+- id: m03-024
+  module: 3
+  lesson: "03.4"
+  subject: s12-damages
+  difficulty: 1
+  question: >-
+    What is the usual measure of damages for bad-faith negotiation?
+  options:
+    - >-
+      Punitive damages set by the court at its discretion.
+    - >-
+      Reliance damages: costs wasted on the negotiation.
+    - >-
+      The full contract price that was being negotiated.
+    - >-
+      Nothing, unless a contract had already been signed.
+  correct: 1
+  explanation: >-
+    Section 12(ב) gives damages for loss caused by the negotiation; Kal Binyan allows expectation damages only where the contract would otherwise have been made.
+- id: m03-025
+  module: 3
+  lesson: "03.4"
+  subject: kal-binyan
+  difficulty: 3
+  question: >-
+    Bar-exam style: in Kal Binyan (2002), what did the Supreme Court hold on remedies for bad-faith negotiation?
+  options:
+    - >-
+      Only reliance damages are available in every case.
+    - >-
+      Expectation damages may be awarded in suitable cases.
+    - >-
+      The court must enforce the contract that was never signed.
+    - >-
+      No remedy exists where the tender was a private one.
+  correct: 1
+  explanation: >-
+    The court held that a party in bad faith may be liable for the profit lost where, but for the bad faith, the contract would have been made.
+- id: m03-026
+  module: 3
+  lesson: "03.4"
+  subject: walk-away
+  difficulty: 1
+  question: >-
+    A seller ends negotiations because a higher offer arrived, after one meeting and with no promises made. Is that bad faith?
+  options:
+    - >-
+      Yes, any withdrawal is bad faith.
+    - >-
+      Yes, unless he pays your travel costs.
+    - >-
+      Only if he accepted a deposit.
+    - >-
+      Usually not; walking away is allowed.
+  correct: 3
+  explanation: >-
+    Breaking off negotiations is not bad faith by itself; the reason and manner matter.
+- id: m03-027
+  module: 3
+  lesson: "03.4"
+  subject: s39-veto
+  difficulty: 2
+  question: >-
+    A landlord refuses consent to a sublet to a fully suitable tenant, only to push you to pay more rent. Which section?
+  options:
+    - >-
+      Section 39, bad-faith use of a contractual right.
+    - >-
+      Section 12, bad faith in the negotiations.
+    - >-
+      Section 17, duress by threat of eviction.
+    - >-
+      Section 30, an illegal contractual term.
+  correct: 0
+  explanation: >-
+    The lease exists, so this concerns using a right under it, governed by s. 39.
+- id: m03-028
+  module: 3
+  lesson: "03.4"
+  subject: s17b
+  difficulty: 2
+  question: >-
+    A supplier writes 'pay the overdue invoice within 7 days or we will sue'. You sign a payment plan. Is this duress?
+  options:
+    - >-
+      Yes, any payment deadline creates duress.
+    - >-
+      Yes, because suppliers may not threaten to sue.
+    - >-
+      No; a good-faith warning is not a threat.
+    - >-
+      Only if the payment plan includes interest.
+  correct: 2
+  explanation: >-
+    Section 17(ב) excludes good-faith warnings about exercising a right.
+- id: m03-029
+  module: 3
+  lesson: "03.4"
+  subject: good-faith-strategy
+  difficulty: 3
+  question: >-
+    Spot the mistake in a small claim: 'The defendant acted in bad faith; I ask for ₪20,000.' What is missing?
+  options:
+    - >-
+      The signature of a lawyer on the statement of claim.
+    - >-
+      A request for punitive damages against the defendant.
+    - >-
+      The specific right, the facts and the calculated loss.
+    - >-
+      A full copy of the Contracts Law attached to the claim.
+  correct: 2
+  explanation: >-
+    Good faith is a supporting argument; the claim needs a concrete right, the facts and proof of damage.
+- id: m03-030
+  module: 3
+  lesson: "03.4"
+  subject: disclosure
+  difficulty: 2
+  question: >-
+    A seller of a flat knows the neighbours have filed a demolition claim against the building's extension. Must she disclose it?
+  options:
+    - >-
+      Yes, circumstances require disclosure of such facts.
+    - >-
+      No, buyers are expected to check court records.
+    - >-
+      Only if the buyer asks her about it directly.
+    - >-
+      Only if the extension is part of her own flat.
+  correct: 0
+  explanation: >-
+    Non-disclosure of facts the circumstances require is deceit (s. 15) and breaches s. 12.
+- id: m03-031
+  module: 3
+  lesson: "03.5"
+  subject: mistake-known
+  difficulty: 2
+  question: >-
+    A buyer mistakenly thinks a painting is by a famous artist; the seller notices the mistake and stays silent. Can the buyer cancel?
+  options:
+    - >-
+      Only through a court under s. 14(ב).
+    - >-
+      No, mistakes about value never count.
+    - >-
+      No, because the seller said nothing false.
+    - >-
+      Yes, by notice under s. 14(א).
+  correct: 3
+  explanation: >-
+    Where the other party knew or should have known of the mistake, the mistaken party may cancel by notice.
+- id: m03-032
+  module: 3
+  lesson: "03.5"
+  subject: mistake-unknown
+  difficulty: 3
+  question: >-
+    Bar-exam style: a party made a mistake the other side could not know of. What may the court do?
+  options:
+    - >-
+      Nothing; such mistakes are irrelevant.
+    - >-
+      Cancel if just, and order compensation to the other side.
+    - >-
+      Correct the contract as a clerical error.
+    - >-
+      Cancel automatically and award damages to the mistaken party.
+  correct: 1
+  explanation: >-
+    Section 14(ב) lets the court cancel if justice requires and charge the mistaken party for the other side's damage.
+- id: m03-033
+  module: 3
+  lesson: "03.5"
+  subject: clerical
+  difficulty: 1
+  question: >-
+    A contract says the rent is ₪45,000 a month; both parties agreed ₪4,500. What happens?
+  options:
+    - >-
+      The contract is cancelled for mistake.
+    - >-
+      It is corrected to ₪4,500 (s. 16).
+    - >-
+      The landlord may choose either amount.
+    - >-
+      The contract is void for uncertainty.
+  correct: 1
+  explanation: >-
+    A clerical error is corrected to the parties' intent and is not a ground for cancellation.
+- id: m03-034
+  module: 3
+  lesson: "03.5"
+  subject: deceit-agent
+  difficulty: 2
+  question: >-
+    A car dealer's salesman lied about accident history; the dealer says it did not know. Can you cancel for deceit?
+  options:
+    - >-
+      No, only lies by the owner of the dealership count.
+    - >-
+      Only if you sue the salesman personally first.
+    - >-
+      No, because used-car sales are always 'as is'.
+    - >-
+      Yes; deceit by the other side's agent counts.
+  correct: 3
+  explanation: >-
+    Section 15 covers deceit by the other party 'or another on its behalf'.
+- id: m03-035
+  module: 3
+  lesson: "03.5"
+  subject: exploitation-elements
+  difficulty: 2
+  question: >-
+    Which pair of elements must be proven for exploitation under s. 18?
+  options:
+    - >-
+      Exploiting weakness, plus very bad terms.
+    - >-
+      A threat of harm and a signed contract.
+    - >-
+      A mistake by one side and a low price.
+    - >-
+      Inexperience of one side and a written contract.
+  correct: 0
+  explanation: >-
+    Section 18 requires both the exploitation and terms unreasonably worse than usual.
+- id: m03-036
+  module: 3
+  lesson: "03.5"
+  subject: timing
+  difficulty: 2
+  question: >-
+    You discovered the seller's lie in January and sent a cancellation notice in July. What is the risk?
+  options:
+    - >-
+      None, because there is no time limit for deceit.
+    - >-
+      The notice is valid only if a lawyer sent it.
+    - >-
+      It may be rejected as too late (s. 20).
+    - >-
+      The court will treat it as a claim for mistake.
+  correct: 2
+  explanation: >-
+    Section 20 requires notice within a reasonable time after learning of the ground.
+- id: m03-037
+  module: 3
+  lesson: "03.5"
+  subject: restitution
+  difficulty: 2
+  question: >-
+    After you cancel a contract for deceit, what must you do with the product you received?
+  options:
+    - >-
+      Keep it as compensation for the deceit.
+    - >-
+      Destroy it to prevent any further use.
+    - >-
+      Return it, or pay its value.
+    - >-
+      Nothing at all until the court rules.
+  correct: 2
+  explanation: >-
+    Section 21 requires each party to return what it received or pay its value.
+- id: m03-038
+  module: 3
+  lesson: "03.5"
+  subject: which-remedy
+  difficulty: 3
+  question: >-
+    A door-to-door seller pressed your 70-year-old father and lied about the product. He wants out. Which route is simplest?
+  options:
+    - >-
+      The extended consumer cancellation period for seniors.
+    - >-
+      A court claim to cancel for mistake under s. 14(ב).
+    - >-
+      A petition to the High Court of Justice.
+    - >-
+      A complaint to the Standard Contracts Tribunal.
+  correct: 0
+  explanation: >-
+    Consumer Protection Law s. 14ג1(ב) gives seniors a long period to cancel door-to-door sales, without proving deceit.
+- id: m03-039
+  module: 3
+  lesson: "03.6"
+  subject: s30
+  difficulty: 1
+  question: >-
+    A contract to pay someone to give false testimony is:
+  options:
+    - >-
+      Valid but unenforceable by the payer.
+    - >-
+      Voidable by notice.
+    - >-
+      Valid if the price was paid.
+    - >-
+      Void under s. 30.
+  correct: 3
+  explanation: >-
+    A contract whose content or purpose is illegal is void.
+- id: m03-040
+  module: 3
+  lesson: "03.6"
+  subject: s31
+  difficulty: 3
+  question: >-
+    Bar-exam style: under s. 31, in a contract void under s. 30, what may the court do?
+  options:
+    - >-
+      Award punitive damages payable to the state treasury.
+    - >-
+      Release a party from restitution or order counter-performance.
+    - >-
+      Enforce the contract exactly as the parties wrote it.
+    - >-
+      Nothing, because a void contract has no legal effects.
+  correct: 1
+  explanation: >-
+    Section 31 gives the court discretion over restitution and counter-performance where justice requires.
+- id: m03-041
+  module: 3
+  lesson: "03.6"
+  subject: standard-definition
+  difficulty: 1
+  question: >-
+    Which contract is a standard contract under s. 2?
+  options:
+    - >-
+      A lease negotiated clause by clause by two private people.
+    - >-
+      A bank's account-opening terms used for all customers.
+    - >-
+      A one-off sale of a family car.
+    - >-
+      A will.
+  correct: 1
+  explanation: >-
+    A standard contract's terms are set in advance by one party for many contracts with unspecified people.
+- id: m03-042
+  module: 3
+  lesson: "03.6"
+  subject: void-terms
+  difficulty: 1
+  question: >-
+    Which standard term is void outright, not merely presumed unfair?
+  options:
+    - >-
+      A term letting the supplier change its prices.
+    - >-
+      A term requiring disputes to go to arbitration.
+    - >-
+      A term setting agreed damages for the customer.
+    - >-
+      A term barring the customer from going to court.
+  correct: 3
+  explanation: >-
+    Section 5(א) voids terms that deny or limit access to the courts; the others are presumptions under s. 4.
+- id: m03-043
+  module: 3
+  lesson: "03.6"
+  subject: tribunal-standing
+  difficulty: 2
+  question: >-
+    Who may apply to the Standard Contracts Tribunal to cancel a term for everyone?
+  options:
+    - >-
+      The AG, the Commissioner and listed bodies.
+    - >-
+      Any customer of the supplier, in his own name.
+    - >-
+      Only a district court judge who heard a similar case.
+    - >-
+      Only the supplier, to approve its own contract.
+  correct: 0
+  explanation: >-
+    Section 16 lists who may apply; individuals raise depriving terms in their own court case (s. 19).
+- id: m03-044
+  module: 3
+  lesson: "03.6"
+  subject: read-declaration
+  difficulty: 2
+  question: >-
+    A standard form says 'the customer declares he read and understood every term'. How is it treated?
+  options:
+    - >-
+      Conclusive proof the customer agreed.
+    - >-
+      Void under s. 5.
+    - >-
+      Presumed depriving under s. 4(12).
+    - >-
+      Valid only if initialled on each page.
+  correct: 2
+  explanation: >-
+    Since 2015, terms in which the customer confirms reading or declares facts are presumed depriving.
+- id: m03-045
+  module: 3
+  lesson: "03.6"
+  subject: tnuva
+  difficulty: 3
+  question: >-
+    In Tnuva v. Raabi Estate (2011), which kind of harm was recognised in the consumer class action?
+  options:
+    - >-
+      Physical injury caused by drinking the silicone.
+    - >-
+      Loss of profit suffered by supermarket chains.
+    - >-
+      Violation of consumers' autonomy over what they consume.
+    - >-
+      Breach of the Standard Contracts Law by the label.
+  correct: 2
+  explanation: >-
+    The court accepted that misleading consumers about an ingredient infringed autonomy, compensable in a class action.
+- id: m03-046
+  module: 3
+  lesson: "03.6"
+  subject: forum
+  difficulty: 2
+  question: >-
+    You want a court to cancel a depriving term in your phone contract in a ₪3,000 dispute. Where?
+  options:
+    - >-
+      The small claims court hearing your case.
+    - >-
+      Only the Standard Contracts Tribunal.
+    - >-
+      Only the district court in your area.
+    - >-
+      The Ministry of Communications.
+  correct: 0
+  explanation: >-
+    Any court hearing a dispute between supplier and customer may cancel a depriving term (s. 19).
+- id: m03-047
+  module: 3
+  lesson: "03.7"
+  subject: version
+  difficulty: 1
+  question: >-
+    A contract was made on 10 January 2026. Which wording of s. 25(א) applies?
+  options:
+    - >-
+      The 2011 wording of s. 25(א).
+    - >-
+      The original 1973 wording of s. 25.
+    - >-
+      Whichever wording the parties choose.
+    - >-
+      The new wording from Amendment No. 3.
+  correct: 3
+  explanation: >-
+    The new wording applies to contracts made or renewed from 7 January 2026.
+- id: m03-048
+  module: 3
+  lesson: "03.7"
+  subject: renewal
+  difficulty: 2
+  question: >-
+    A 2024 business contract was renewed in March 2026. Which wording applies to the renewed contract?
+  options:
+    - >-
+      The old wording, because the original date governs.
+    - >-
+      The new wording, because renewal counts as making.
+    - >-
+      Both, at the court's choice.
+    - >-
+      Neither; renewals are read only by custom.
+  correct: 1
+  explanation: >-
+    The transition clause treats renewal as making the contract.
+- id: m03-049
+  module: 3
+  lesson: "03.7"
+  subject: standard-new
+  difficulty: 2
+  question: >-
+    Under the new s. 25, how is a standard contract read even if it says 'language only'?
+  options:
+    - >-
+      By its language only, as the parties agreed.
+    - >-
+      By intention from text and circumstances.
+    - >-
+      Against the customer, who accepted the form.
+    - >-
+      By trade usage only, as in s. 25(ג).
+  correct: 1
+  explanation: >-
+    Paragraph (4) applies to a standard contract 'even if agreed otherwise'.
+- id: m03-050
+  module: 3
+  lesson: "03.7"
+  subject: unrepresented
+  difficulty: 3
+  question: >-
+    Two private people without lawyers wrote 'this contract is read by its language only'. How does the new s. 25 treat the clause?
+  options:
+    - >-
+      It binds them fully, as the law now allows.
+    - >-
+      It binds only the party who drafted it.
+    - >-
+      It makes the whole contract void.
+    - >-
+      They count as not having agreed a method.
+  correct: 3
+  explanation: >-
+    Paragraph (5)(א) treats parties not represented by a lawyer in drafting as not having agreed under para. (1).
+- id: m03-051
+  module: 3
+  lesson: "03.7"
+  subject: contra-proferentem
+  difficulty: 1
+  question: >-
+    An ambiguous clause in an insurer's policy can be read two ways. Which reading is preferred?
+  options:
+    - >-
+      The reading against the insurer.
+    - >-
+      The reading the insurer prefers.
+    - >-
+      The reading that lowers premiums.
+    - >-
+      The more literal reading.
+  correct: 0
+  explanation: >-
+    Section 25(ב1) prefers the reading against the party that had the upper hand in drafting.
+- id: m03-052
+  module: 3
+  lesson: "03.7"
+  subject: gap-price
+  difficulty: 1
+  question: >-
+    A plumber's job was agreed with no price. What does the customer owe?
+  options:
+    - >-
+      Whatever amount the plumber invoices.
+    - >-
+      Nothing, since no price was agreed.
+    - >-
+      A reasonable price (s. 46).
+    - >-
+      The lowest price on the market that day.
+  correct: 2
+  explanation: >-
+    Section 46 fills a missing price with what would be reasonable in the circumstances when the contract was made.
+- id: m03-053
+  module: 3
+  lesson: "03.7"
+  subject: menorah
+  difficulty: 3
+  question: >-
+    What does Menorah v. Jerusalem Candles illustrate about interpretation?
+  options:
+    - >-
+      Insurance policies are read separately from the lease.
+    - >-
+      A right of subrogation can never be waived in advance.
+    - >-
+      Related documents are read together to find the arrangement.
+    - >-
+      Only the wording of the lease itself is relevant.
+  correct: 2
+  explanation: >-
+    The court read the lease and the policies together and found a waiver of subrogation against the tenant.
+- id: m03-054
+  module: 3
+  lesson: "03.7"
+  subject: spot-mistake
+  difficulty: 2
+  question: >-
+    Spot the mistake: a tenant's 2024 lease claim cites s. 25(א)(2) 'business contracts are read by language only'. What is wrong?
+  options:
+    - >-
+      Wrong version, and a lease is not business.
+    - >-
+      Leases are not contracts under the Contracts Law.
+    - >-
+      Section 25 was repealed by the 2026 amendment.
+    - >-
+      Business contracts are read only by circumstances.
+  correct: 0
+  explanation: >-
+    The 2026 wording applies only to contracts made or renewed from 7.1.2026; a private lease is not a business contract anyway.
+- id: m03-055
+  module: 3
+  lesson: "03.8"
+  subject: fundamental
+  difficulty: 2
+  question: >-
+    Which breach is most likely fundamental?
+  options:
+    - >-
+      A one-day delay in paying a monthly fee.
+    - >-
+      A missing screw in delivered furniture.
+    - >-
+      A receipt that was delivered a week late.
+    - >-
+      A seller's indefinite refusal to deliver a flat.
+  correct: 3
+  explanation: >-
+    A reasonable person would not have contracted had they foreseen an indefinite refusal to deliver (s. 6).
+- id: m03-056
+  module: 3
+  lesson: "03.8"
+  subject: extension
+  difficulty: 1
+  question: >-
+    For a non-fundamental breach, what must precede cancellation?
+  options:
+    - >-
+      An order from the court approving cancellation.
+    - >-
+      An extension that is not met within a reasonable time.
+    - >-
+      Payment of a cancellation fee to the other side.
+    - >-
+      Two written warnings sent a month apart.
+  correct: 1
+  explanation: >-
+    Section 7(ב).
+- id: m03-057
+  module: 3
+  lesson: "03.8"
+  subject: enforcement-bar
+  difficulty: 2
+  question: >-
+    In which case is enforcement barred under s. 3?
+  options:
+    - >-
+      A seller refuses to transfer a car.
+    - >-
+      A painter refuses to paint your portrait.
+    - >-
+      A buyer refuses to pay the price.
+    - >-
+      A landlord refuses to hand over keys.
+  correct: 1
+  explanation: >-
+    Enforcement that forces personal work or service is barred (s. 3(2)).
+- id: m03-058
+  module: 3
+  lesson: "03.8"
+  subject: s11
+  difficulty: 3
+  question: >-
+    Bar-exam style: a buyer cancelled after the seller failed to deliver goods priced ₪10,000 now worth ₪13,000. What may the buyer claim without proof of damage?
+  options:
+    - >-
+      ₪13,000, the value of the goods today.
+    - >-
+      ₪10,000, the price in the contract.
+    - >-
+      Nothing, unless actual loss is proved.
+    - >-
+      ₪3,000, the difference at cancellation.
+  correct: 3
+  explanation: >-
+    Section 11(א) gives the difference between the contract price and the value on the day of cancellation.
+- id: m03-059
+  module: 3
+  lesson: "03.8"
+  subject: mitigation
+  difficulty: 2
+  question: >-
+    Your caterer cancelled; you could book a similar caterer for ₪500 more but waited and paid ₪4,000 more. What is recoverable?
+  options:
+    - >-
+      About ₪500, the unavoidable extra cost.
+    - >-
+      ₪4,000 in full, as caused by the breach.
+    - >-
+      Nothing, because you waited too long.
+    - >-
+      ₪4,000 plus a penalty for the delay.
+  correct: 0
+  explanation: >-
+    Section 14(א): no damages for loss the injured party could reasonably have prevented.
+- id: m03-060
+  module: 3
+  lesson: "03.8"
+  subject: agreed-damages
+  difficulty: 2
+  question: >-
+    A gym contract imposes ₪3,000 agreed damages for cancelling a ₪150-a-month membership. What can the court do?
+  options:
+    - >-
+      Nothing, because agreed damages are always final.
+    - >-
+      Increase it if the gym proves a higher lost profit.
+    - >-
+      Reduce it, as it bears no reasonable relation to the loss.
+    - >-
+      Declare the whole membership contract void.
+  correct: 2
+  explanation: >-
+    Section 15(א) lets the court reduce agreed damages; in a standard contract s. 4(6א) adds a presumption.
+- id: m03-061
+  module: 3
+  lesson: "03.8"
+  subject: frustration
+  difficulty: 3
+  question: >-
+    A wedding hall was closed by an unforeseeable government order and the event could not take place. What follows under s. 18?
+  options:
+    - >-
+      Full damages to the couple for the cancelled event.
+    - >-
+      The couple must still pay the full price of the hall.
+    - >-
+      No enforcement or damages; the court may order restitution.
+    - >-
+      The hall must hold the event on a later date.
+  correct: 2
+  explanation: >-
+    Section 18 excuses enforcement and damages but lets the court order restitution and reimburse reasonable costs.
+- id: m03-062
+  module: 3
+  lesson: "03.8"
+  subject: which-remedy
+  difficulty: 2
+  question: >-
+    You want your money back from a seller who delivered a fundamentally defective car and to be done with it. Which path?
+  options:
+    - >-
+      Cancel by notice, demand restitution and damages.
+    - >-
+      Sue for enforcement of delivery of a new car.
+    - >-
+      Wait for the seller to offer a repair first.
+    - >-
+      Ask the High Court of Justice for an order.
+  correct: 0
+  explanation: >-
+    Cancellation (s. 7(א)) with restitution (s. 9) and damages (s. 10) fits the wish to end the deal.
+- id: m03-063
+  module: 3
+  lesson: "03.9"
+  subject: security-cap
+  difficulty: 2
+  question: >-
+    Monthly rent ₪6,000, 12-month lease. What is the maximum total security that costs the tenant money?
+  options:
+    - >-
+      ₪24,000, which is four months' rent under the law.
+    - >-
+      ₪36,000, which is half of the rent for the whole term.
+    - >-
+      There is no cap; the landlord and tenant decide it.
+    - >-
+      ₪18,000: the lower of one-third of the term and three months.
+  correct: 3
+  explanation: >-
+    Section 25י(ב) caps security at the lower of rent for one-third of the term (₪24,000) and three months' rent (₪18,000).
+- id: m03-064
+  module: 3
+  lesson: "03.9"
+  subject: broker
+  difficulty: 1
+  question: >-
+    The landlord's broker asks the tenant to pay the brokerage fee. What does s. 25ט say?
+  options:
+    - >-
+      The tenant always pays brokerage on a residential lease.
+    - >-
+      The tenant does not pay a broker who acted for the landlord.
+    - >-
+      The fee is split equally between landlord and tenant.
+    - >-
+      The tenant pays it if the lease is for over a year.
+  correct: 1
+  explanation: >-
+    Section 25ט(ב)(3).
+- id: m03-065
+  module: 3
+  lesson: "03.9"
+  subject: repairs
+  difficulty: 2
+  question: >-
+    Your lease says the tenant fixes everything. The fridge supplied by the landlord breaks from normal wear. Who pays?
+  options:
+    - >-
+      You, because the lease says the tenant fixes everything.
+    - >-
+      The landlord, within the statutory period after your demand.
+    - >-
+      Only the manufacturer of the fridge under its warranty.
+    - >-
+      Landlord and tenant split the cost equally.
+  correct: 1
+  explanation: >-
+    Section 25ח(ב) places repairs not caused by unreasonable use on the landlord, and s. 25יד bars waiving it.
+- id: m03-066
+  module: 3
+  lesson: "03.9"
+  subject: option-notice
+  difficulty: 2
+  question: >-
+    Your lease gives you an option to extend. When must you notify the landlord?
+  options:
+    - >-
+      Any time before the term of the lease ends.
+    - >-
+      On the last day of the term, not earlier.
+    - >-
+      Only after the landlord asks you in writing.
+    - >-
+      By the statutory period before term ends.
+  correct: 3
+  explanation: >-
+    Section 25יב(ג) requires the tenant's notice no later than a set number of days before the end (see current numbers).
+- id: m03-067
+  module: 3
+  lesson: "03.9"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in a tenant's letter: 'Clause 9 lets you end the lease on 30 days; I demand you delete it because it is presumed depriving under s. 4.' What is the better argument?
+  options:
+    - >-
+      The clause is void under s. 25יג unless mutual.
+    - >-
+      The clause is valid; nothing can be done about it.
+    - >-
+      Only the Tribunal can cancel the clause.
+    - >-
+      The clause is illegal and void under s. 30.
+  correct: 0
+  explanation: >-
+    Section 25יג(א) voids a landlord's no-cause cancellation clause unless the tenant has the same right; that is stronger than a presumption.
+- id: m03-068
+  module: 3
+  lesson: "03.9"
+  subject: exclusions
+  difficulty: 1
+  question: >-
+    Which lease is outside the residential-lease chapter?
+  options:
+    - >-
+      A two-year lease of a flat to live in.
+    - >-
+      A lease of a room in a shared flat.
+    - >-
+      A holiday apartment rented for a week.
+    - >-
+      A lease signed without a broker.
+  correct: 2
+  explanation: >-
+    Section 25טו excludes holiday lets, hotels, dorms, sheltered housing and protected tenancies.
+- id: m03-069
+  module: 3
+  lesson: "03.10"
+  subject: s21
+  difficulty: 1
+  question: >-
+    The contract says nothing on how to give notice. Which method does s. 21 accept?
+  options:
+    - >-
+      Only personal delivery by a court bailiff.
+    - >-
+      Only a letter sent through a lawyer.
+    - >-
+      Registered mail or another customary method.
+    - >-
+      Only a filing with the court registry.
+  correct: 2
+  explanation: >-
+    Section 21(א).
+- id: m03-070
+  module: 3
+  lesson: "03.10"
+  subject: distance-period
+  difficulty: 1
+  question: >-
+    You bought shoes online; they arrived on 2 May with the required document. Until when may you cancel under s. 14ג?
+  options:
+    - >-
+      Within 14 days of 2 May.
+    - >-
+      Within 14 days of ordering.
+    - >-
+      Within 30 days of 2 May.
+    - >-
+      Any time if unworn.
+  correct: 0
+  explanation: >-
+    For goods, the period runs from receipt of the goods or the document, whichever is later.
+- id: m03-071
+  module: 3
+  lesson: "03.10"
+  subject: fee
+  difficulty: 2
+  question: >-
+    You cancel a ₪1,000 online purchase without any defect. What is the maximum cancellation fee?
+  options:
+    - >-
+      ₪100, the fixed fee in the law.
+    - >-
+      ₪200, which is 20% of the price.
+    - >-
+      No fee may be charged in any case.
+    - >-
+      ₪50, the lower of 5% and ₪100.
+  correct: 3
+  explanation: >-
+    Section 14ה(ב)(1): the lower of 5% of the price and ₪100.
+- id: m03-072
+  module: 3
+  lesson: "03.10"
+  subject: exceptions
+  difficulty: 2
+  question: >-
+    Which online purchase can NOT be cancelled under s. 14ג?
+  options:
+    - >-
+      A kettle in its box.
+    - >-
+      Fresh flowers.
+    - >-
+      A pair of jeans.
+    - >-
+      A desk lamp.
+  correct: 1
+  explanation: >-
+    Perishable goods are excluded (s. 14ג(ד)(1)).
+- id: m03-073
+  module: 3
+  lesson: "03.10"
+  subject: senior
+  difficulty: 3
+  question: >-
+    A 72-year-old bought a phone plan by phone two months ago after a call with a rep. Can he still cancel?
+  options:
+    - >-
+      No; the ordinary period has already ended.
+    - >-
+      Yes; the extended period for seniors applies.
+    - >-
+      Only if the plan turns out to be defective.
+    - >-
+      Only through a lawyer, after two months.
+  correct: 1
+  explanation: >-
+    Section 14ג1(ג) gives seniors an extended period for distance sales that included a conversation with the dealer.
+- id: m03-074
+  module: 3
+  lesson: "03.10"
+  subject: refund-route
+  difficulty: 2
+  question: >-
+    The dealer did not refund within the statutory period after your cancellation notice. What is a sensible next step?
+  options:
+    - >-
+      Accept a credit voucher instead of the refund.
+    - >-
+      Wait a year before taking any further step.
+    - >-
+      File a criminal complaint with the police first.
+    - >-
+      Send a reminder, ask for a chargeback, then file a claim.
+  correct: 3
+  explanation: >-
+    A written reminder, chargeback and small claim are the practical sequence.
+- id: m03-075
+  module: 3
+  lesson: "03.10"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in a notice: 'I am thinking of cancelling the contract if you do not deliver.' What is wrong?
+  options:
+    - >-
+      It does not cancel or set a clear extension date.
+    - >-
+      It should have been written in English.
+    - >-
+      It must cite Supreme Court case law.
+    - >-
+      It needs a witness's signature to be valid.
+  correct: 0
+  explanation: >-
+    Notices need operative wording: a dated extension or 'הנני מבטל/ת בזאת את החוזה'.

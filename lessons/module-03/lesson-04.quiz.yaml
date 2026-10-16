@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    For two months a company negotiated to hire your small catering firm for its events, asked you
+    to block dates and buy equipment, then signed with a rival it had been talking to secretly the
+    whole time. No contract was signed. What is your most realistic claim?
+  options:
+    - >-
+      Enforcement of the catering contract, since negotiations were complete.
+    - >-
+      Damages under s. 12 for the costs you incurred in reliance on the negotiations.
+    - >-
+      Nothing, because a party may always walk away before signing.
+    - >-
+      Cancellation of the rival's contract under the Remedies Law.
+  correct: 1
+  explanation: >-
+    Section 12 gives damages for bad-faith negotiation. Reliance costs are the usual measure;
+    enforcement needs a contract, and expectation damages need proof that you would have got it.
+- id: q2
+  question: >-
+    Your lease lets you sublet "with consent not to be unreasonably withheld". The landlord will
+    consent only if you pay him ₪3,000. Which provision best supports your objection?
+  options:
+    - >-
+      Section 12, because the landlord is negotiating a new term in bad faith.
+    - >-
+      Section 17, because the demand is duress that voids the lease.
+    - >-
+      Section 30, because demanding money for consent is illegal.
+    - >-
+      Section 39, because he is using a contractual right in bad faith.
+  correct: 3
+  explanation: >-
+    The lease already exists, so this is the use of a contractual right, governed by s. 39 and the
+    express "not unreasonably" term. Using consent to extract an unrelated payment is bad faith.
+- id: q3
+  question: >-
+    A seller of a used car knew the gearbox had been rebuilt after a flood and said nothing. The
+    buyer could not have discovered it on a test drive. What does the buyer have?
+  options:
+    - >-
+      Cancellation for deceit by silence, plus s. 12 damages.
+    - >-
+      Nothing, because the buyer should have asked about the gearbox.
+    - >-
+      Only a claim under a statutory warranty for used cars.
+    - >-
+      Only a claim against the garage that rebuilt the gearbox.
+  correct: 0
+  explanation: >-
+    Section 15 includes non-disclosure of facts the circumstances required to be disclosed, and
+    hiding a material hidden defect also breaches the s. 12 duty in negotiations.
+- id: q4
+  question: >-
+    A neighbour built on your shared garden without consent; you demand restoration although the
+    building is small. He says your demand is bad faith. What does Roker v. Solomon suggest?
+  options:
+    - >-
+      Any harsh demand is an abuse of right that the court must refuse.
+    - >-
+      Good faith never applies to property rights, only to contracts.
+    - >-
+      Insisting on a clear right against unlawful building is not bad faith by itself.
+    - >-
+      The court must always award damages instead of ordering restoration.
+  correct: 2
+  explanation: >-
+    In Roker the majority upheld restoration of common property; only the dissent would have
+    refused it as an abuse of right. Firmly insisting on a right is not abuse in itself.

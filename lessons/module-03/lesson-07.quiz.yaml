@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Two companies signed a supply contract in March 2026, without an interpretation clause. One
+    argues that emails from the negotiations show a meaning different from the clear wording. What
+    is the starting point?
+  options:
+    - >-
+      Intention from text and circumstances, as in Apropim, since it is binding precedent.
+    - >-
+      The language alone, unless it gives an unreasonable result or a contradiction.
+    - >-
+      Whatever the emails show, since circumstances always prevail over text.
+    - >-
+      The reading that favours the smaller company, as the weaker party.
+  correct: 1
+  explanation: >-
+    For business contracts made from 7.1.2026 with no agreed method, the new s. 25(א)(2) requires
+    reading by the language alone, subject to the two exceptions.
+- id: q2
+  question: >-
+    Your 2023 lease was renewed by a new signed agreement in February 2026. You and the landlord are
+    private people without lawyers. Which interpretation rule applies?
+  options:
+    - >-
+      The old wording, because the original lease was made in 2023.
+    - >-
+      The language-only rule, because the renewal was after 7.1.2026.
+    - >-
+      The new wording, read by intention as a non-business contract.
+    - >-
+      No statutory rule, because leases are interpreted only under the Rental Law.
+  correct: 2
+  explanation: >-
+    Renewal counts as making, so the new wording applies; but a non-business contract is read under
+    para. (4) by intention from the text and the circumstances.
+- id: q3
+  question: >-
+    An insurance policy's exclusion can be read two reasonable ways. The insurer wrote the policy.
+    Which tool decides between the readings?
+  options:
+    - >-
+      The reading against the party that had the upper hand in drafting.
+    - >-
+      The reading that the insurer's claims department adopts in practice.
+    - >-
+      The reading that keeps premiums lowest for all policyholders.
+    - >-
+      The literal reading, because policies are business contracts.
+  correct: 0
+  explanation: >-
+    Section 25(ב1) prefers the reading against the party that shaped the terms. Under the new wording
+    a standard contract is never read by language alone, and (ב1) cannot be contracted out of.
+- id: q4
+  question: >-
+    Your contract with a painter says nothing about when he must finish. Two months later he has
+    not started. How is the time for performance set?
+  options:
+    - >-
+      There is no contract, because time is an essential term.
+    - >-
+      He may finish whenever he likes, since no date was agreed.
+    - >-
+      The court will set whatever date seems fair to it.
+    - >-
+      A reasonable time after the contract, on reasonable notice from you.
+  correct: 3
+  explanation: >-
+    Section 41 fills the gap: an obligation with no agreed time is performed within a reasonable time
+    after contracting, on a date the creditor notified reasonably in advance.

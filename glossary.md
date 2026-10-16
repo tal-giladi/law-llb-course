@@ -4,27 +4,38 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 
 ## Terms
 
+- **אומד דעת הצדדים** (omed da'at ha-tzdadim) — the parties' intention, the basis of contract interpretation.
 - **אזכור חוזר** (izkur chozer) — A repeat (short) citation.
+- **אי־התאמה** (i-hat'ama) — non-conformity of goods sold (Sale Law s. 11).
 - **איסור פרסום** (issur pirsum) — Publication ban.
+- **אכיפה** (akhifa) — enforcement (specific performance), including orders to pay (Remedies Law s. 3).
 - **אמרת אגב** (imrat agav) — obiter dictum: a remark not necessary for the decision.
+- **ארכה** (arkha) — extension given before cancelling for a non-fundamental breach (s. 7(ב)).
 - **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
 - **בחינות הלשכה** (bhinot ha-lishka) — the Israel Bar examinations.
 - **בית דין דתי** (beit din dati) — religious court (rabbinical, Sharia, Christian, Druze).
+- **בית הדין לחוזים אחידים** (beit ha-din le-hozim ahidim) — the Standard Contracts Tribunal.
 - **בית הדין לעבודה** (beit ha-din la-avoda) — labour court.
 - **בית המשפט המחוזי** (beit ha-mishpat ha-mehozi) — district court.
 - **בית משפט השלום** (beit mishpat ha-shalom) — magistrates' court.
 - **בעל דין** (ba'al din) — party to legal proceedings, litigant.
 - **בעל דין שאינו מיוצג** (ba'al din she-eino meyutzag) — self-represented (unrepresented) party.
+- **גמירת דעת** (gmirat da'at) — intent to be bound, judged objectively.
 - **דבר המלך במועצתו** (dvar ha-melekh be-mo'atzto) — the Palestine Order in Council 1922, the Mandate's constitutional document.
 - **דברי הסבר** (divrei hesber) — Explanatory notes published with a bill.
 - **דואר רשום עם אישור מסירה** (do'ar rashum im ishur mesira) — Registered mail with proof of delivery.
 - **דיון נוסף** (diyun nosaf) — further hearing of a Supreme Court decision by a larger panel.
+- **דמי ביטול** (dmei bitul) — cancellation fee (capped by s. 14ה and the Cancellation Regulations).
 - **דעת מיעוט** (da'at mi'ut) — Dissenting opinion.
 - **דעת רוב** (da'at rov) — Majority opinion.
 - **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority opinion / minority (dissenting) opinion.
+- **דרישת הכתב** (drishat ha-ktav) — writing requirement (for example Land Law s. 8).
+- **דרך מקובלת** (derekh mekubelet) — customary manner, paired with good faith in ss. 12 and 39.
 - **הוראת מינהל** (hora'at minhal) — administrative instruction without legislative effect (permit, licence, notice).
 - **הוראת שעה** (hora'at sha'ah) — A temporary provision in force for a set period.
+- **הזמנה להציע הצעות** (hazmana le-hatzi'a hatza'ot) — invitation to make offers (to treat).
 - **החלטה** (hachlata) — Decision: any other ruling of a court, including interim decisions.
+- **הטעיה** (hat'aya) — deceit, including non-disclosure (s. 15).
 - **היועץ המשפטי לממשלה** (ha-yo'etz ha-mishpati la-memshala) — Attorney General.
 - **היקש** (hekesh) — analogy, reasoning from a similar rule.
 - **הלכה פסוקה** (halakha psuka) — binding precedent: the legal rule decided by a court.
@@ -37,32 +48,52 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסיוע המשפטי** (ha-siyua ha-mishpati) — Legal Aid (Ministry of Justice).
 - **הסניגוריה הציבורית** (ha-sanegoria ha-tziburit) — Public Defender's Office.
 - **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
+- **הפרה יסודית** (hafara yesodit) — fundamental breach (Remedies Law s. 6).
+- **הפרה צפויה** (hafara tzfuya) — anticipatory breach (s. 17).
+- **הצעה** (hatza'a) — offer; a communication showing intent to be bound and certain enough for acceptance (Contracts Law s. 2).
 - **הצעות חוק (ה"ח)** (Hatza'ot Chok) — The Reshumot series for bills, with their explanatory notes.
+- **הקטנת הנזק** (haktanat ha-nezek) — mitigation of damage (s. 14).
 - **הרכב** (herkev) — panel of judges.
+- **השבה** (hashava) — restitution after cancellation.
 - **השגה** (hasaga) — objection to an authority's own decision-maker (for example on arnona).
+- **השלמת חוזה** (hashlamat hoze) — gap-filling (s. 26).
 - **התיישנות** (hityashnut) — limitation (time bar).
 - **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
+- **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
+- **חוזה** (hoze) — contract.
+- **חוזה אחיד** (hoze ahid) — standard-form contract (Standard Contracts Law s. 2).
+- **חוזה למראית עין** (hoze le-mar'it ayin) — sham contract (s. 13).
+- **חוזה עסקי** (hoze iski) — business contract; read by its language alone under s. 25(א)(2) as amended in 2026.
+- **חוזה פסול** (hoze pasul) — contract void as illegal, immoral or against public policy (s. 30).
+- **חוזה שכירות למגורים** (hoze skhirut le-megurim) — residential lease (Rental and Borrowing Law ss. 25א–25טו).
+- **חופש החוזים** (hofesh ha-hozim) — freedom of contract.
 - **חוק** (hok) — statute: a Knesset law or a Mandate ordinance.
 - **חוק יסוד** (hok yesod) — Basic Law, a statute with constitutional status.
 - **חוק עזר** (hok ezer) — municipal bylaw.
+- **חיוב** (hiyuv) — obligation.
 - **חיקוק** (hikuk) — enactment: a statute or a regulation.
 - **חקיקת משנה** (hakikat mishne) — secondary (subordinate) legislation.
 - **חריגה מסמכות** (harigah mi-samkhut) — acting beyond authority (ultra vires).
 - **טוען רבני** (to'en rabani) — licensed rabbinical pleader, who may represent parties in rabbinical courts.
+- **טעות** (ta'ut) — mistake (s. 14).
+- **טעות סופר** (ta'ut sofer) — clerical error, corrected rather than a ground to cancel (s. 16).
 - **ייחוד פעולות המקצוע** (yihud pe'ulot ha-miktzo'a) — the acts reserved to lawyers under s. 20 of the Bar Association Law.
 - **ייפוי כוח** (yipui ko'ah) — power of attorney; the document appointing a representative.
 - **ילקוט הפרסומים (י"פ)** (Yalkut HaPirsumim) — The Reshumot series for official notices and appointments.
 - **כללי האזכור האחיד** (klalei ha'izkur ha'achid) — The uniform citation rules for Israeli legal writing (third edition, 2021).
+- **כפייה** (kfiya) — duress (s. 17).
 - **לאקונה** (lakuna) — a gap in the law: a question with no answer in statute, precedent or analogy.
 - **מאגר החקיקה הלאומי** (Ma'agar HaChakika HaLeumi) — The Knesset's National Legislation Database of laws, amendments and bills.
 - **מגשר** (megasher) — mediator.
 - **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
 - **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
 - **מכתב דרישה** (michtav drisha) — Demand letter.
+- **מסוימות** (mesuyamut) — certainty (definiteness) of the essential terms.
 - **נוסח חדש** (nusach chadash) — An official new Hebrew version of a Mandate-era law.
 - **נוסח משולב** (nusach meshulav) — An official consolidated version of an Israeli law, approved by the Knesset Constitution Committee and published in Reshumot.
 - **נספח** (nispach) — Attachment or exhibit to a letter or pleading.
 - **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Ombudsman for complaints against judges.
+- **סיכול** (sikul) — frustration (s. 18).
 - **סימן 46** (siman 46) — art. 46 of the Order in Council, which imported English common law and equity until 1980.
 - **סמכות ייחודית** (samkhut yihudit) — exclusive jurisdiction.
 - **סמכות מקבילה** (samkhut makbila) — parallel (concurrent) jurisdiction.
@@ -72,24 +103,39 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ספר החוקים (ס"ח)** (Sefer HaChukim) — The Reshumot series in which Knesset laws are published.
 - **ספר החוקים הפתוח** (Sefer HaChukim HaPatuach) — The Open Law Book: free, unofficial consolidated texts of Israeli laws on Wikisource.
 - **עורך דין** (orekh din) — lawyer (advocate), a member of the Israel Bar.
+- **עושק** (oshek) — exploitation (unconscionability) (s. 18).
+- **עסקאות נוגדות** (iska'ot nogdot) — conflicting transactions in the same land (Land Law s. 9).
+- **עסקה במקרקעין** (iska be-mekarke'in) — transaction in land; completed by registration (Land Law s. 7).
+- **עסקה ברוכלות** (iska be-rokhlut) — door-to-door sale (Consumer Protection Law s. 14).
+- **עסקת מכר מרחוק** (iskat mekher me-rahok) — distance sale (Consumer Protection Law s. 14ג).
+- **ערב יחיד / ערב מוגן** (arev yahid / arev mugan) — individual guarantor / protected guarantor (Guarantee Law s. 19).
 - **ערכאה** (arkhaa) — forum, instance.
 - **ערכאה קמא** (ercaa kama) — The court below, whose decision is under appeal.
 - **ערעור ברשות** (ir'ur bi-rshut) — appeal by leave.
 - **ערר** (erer) — appeal to an appeals committee or tribunal.
 - **פ״ד** (pey-dalet) — Piskei Din, the official law reports of the Supreme Court.
+- **פיצויי הסתמכות / פיצויי קיום** (pitzuyei histamkhut / pitzuyei kiyum) — reliance damages / expectation damages.
+- **פיצויים מוסכמים** (pitzuyim muskamim) — agreed (liquidated) damages (s. 15).
 - **פסק דין** (psak din) — Judgment: the decision that ends a proceeding.
 - **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause (Basic Law: Human Dignity and Liberty s. 8).
+- **פעולה משפטית** (pe'ula mishpatit) — legal (juristic) act; the Contracts Law applies to non-contractual legal acts through s. 61(ב).
 - **פרקליטות המדינה** (praklitut ha-medina) — State Attorney's Office.
+- **פרשנות נגד המנסח** (parshanut neged ha-menase'ah) — contra proferentem (s. 25(ב1)).
 - **פרשנות תכליתית** (parshanut tachlitit) — Purposive interpretation, the method of Israeli courts.
 - **קובץ התקנות (ק"ת)** (Kovetz HaTakanot) — The Reshumot series for regulations and other secondary legislation.
 - **קודיפיקציה** (kodifikatzia) — codification: replacing scattered rules with Israeli codes.
+- **קיבול** (kibul) — acceptance of an offer (s. 5).
 - **קליטה** (klita) — reception of foreign law into the local legal system.
 - **רשומות** (Reshumot) — The official gazette in which laws, regulations and notices are published; the official text of legislation.
 - **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
+- **שימוש לרעה בזכות** (shimush le-ra'a bi-zkhut) — abuse of a right.
 - **תביעה משטרתית** (tvi'a mishtartit) — police prosecution.
+- **תום לב** (tom lev) — good faith (Contracts Law ss. 12, 39).
 - **תזכיר משפטי** (tazkir mishpati) — A legal research memo.
 - **תיקון עקיף** (tikkun akif) — An indirect amendment: a change to one law made inside another law.
 - **תכלית אובייקטיבית** (tachlit obyektivit) — Objective purpose: the purpose reflecting the legal system's values.
 - **תכלית סובייקטיבית** (tachlit subyektivit) — Subjective purpose: what the legislature actually intended.
+- **תנאי מקפח** (tnai mekape'ah) — depriving (unfair) term in a standard contract (s. 3).
 - **תקדים** (takdim) — precedent.
 - **תקנה** (takana) — regulation: a provision of legislative effect made under a statute.
+- **תקנת הציבור** (takanat ha-tzibur) — public policy.

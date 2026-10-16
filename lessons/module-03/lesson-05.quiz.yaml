@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You bought a used scooter for ₪9,000. A week later a friend shows you the same model selling
+    for ₪7,000. The seller told you nothing false. Can you cancel for mistake?
+  options:
+    - >-
+      Yes, because you would not have bought at that price had you known.
+    - >-
+      Yes, but only if you return the scooter within the same week.
+    - >-
+      No, unless the seller agrees to correct the price under s. 14(ג).
+    - >-
+      No, a mistake only about the deal's worth is not a ground for cancellation.
+  correct: 3
+  explanation: >-
+    Section 14(ד) excludes a mistake that is only about whether the deal was worthwhile. Without
+    deceit or exploitation, overpaying is not a defect in formation.
+- id: q2
+  question: >-
+    A landlord hid that the building was scheduled for a two-year renovation that would block the
+    flat's windows. You learn of it a week after signing. What should you do?
+  options:
+    - >-
+      Promptly send notice cancelling for deceit by silence.
+    - >-
+      Ask the court to cancel, since only a court may cancel for hidden facts.
+    - >-
+      Keep living there and claim cancellation at the end of the lease.
+    - >-
+      Do nothing, because a landlord has no duty to disclose works by others.
+  correct: 0
+  explanation: >-
+    Section 15 includes failing to disclose facts the circumstances required. Cancellation for
+    deceit is by notice within a reasonable time (s. 20), with restitution under s. 21.
+- id: q3
+  question: >-
+    Your landlord writes that unless you pay overdue rent within 14 days he will sue. You sign a
+    payment plan with interest. Later you claim duress. Will that succeed?
+  options:
+    - >-
+      Yes, because any threat that makes you sign is duress under s. 17.
+    - >-
+      Yes, because interest in a payment plan is always unreasonable.
+    - >-
+      No, a good-faith warning that he will use his legal right is not a threat.
+    - >-
+      No, because duress only applies to physical force.
+  correct: 2
+  explanation: >-
+    Section 17(ב) says a good-faith warning about exercising a right is not a threat. Threatening a
+    legitimate lawsuit over a real debt is legitimate pressure, not duress.
+- id: q4
+  question: >-
+    An online shop sold you a laptop listed at ₪49 instead of ₪4,900 and cancels your order. Is the
+    shop entitled to do so?
+  options:
+    - >-
+      No, because the listed price is binding under consumer law in every case.
+    - >-
+      Yes, for mistake, since you should have known the price was an error.
+    - >-
+      No, because the shop's remedy is only to correct the price to ₪4,900.
+    - >-
+      Yes, but only with a court order under s. 14(ב).
+  correct: 1
+  explanation: >-
+    Under s. 14(א) the mistaken party may cancel by notice where the other side knew or should have
+    known of the mistake. An absurdly low price is a mistake a reasonable buyer would notice.
