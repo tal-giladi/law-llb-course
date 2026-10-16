@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A ministry refuses your licence application, citing an internal procedure that adds a condition
+    the regulations do not mention. What is your strongest first argument?
+  options:
+    - >-
+      The procedure is unconstitutional under the limitation clause of a Basic Law.
+    - >-
+      An administrative directive cannot add conditions beyond the regulation it implements.
+    - >-
+      Internal procedures are void unless the Knesset approved them in a committee.
+    - >-
+      The condition is unfair to applicants and should be waived for reasons of equity.
+  correct: 1
+  explanation: >-
+    A directive is lower in the hierarchy than the regulation and the authorising statute; it may
+    guide discretion but cannot impose conditions the law does not set. Start with authority, not
+    with constitutional claims.
+- id: q2
+  question: >-
+    A minister wants to decide, by a general administrative power, a basic national policy that
+    divides the public deeply and is not set in any statute. Which ruling is most relevant?
+  options:
+    - >-
+      Kol Ha'am, which requires a near certainty of danger before any ministerial decision.
+    - >-
+      Bank Mizrahi, which allows courts to void any ministerial decision that limits a right.
+    - >-
+      HCJ 5658/23, which limits all review of ministers' decisions to reasonableness.
+    - >-
+      Rubinstein, which requires primary arrangements to be made by the Knesset in a statute.
+  correct: 3
+  explanation: >-
+    Rubinstein (HCJ 3267/97) held that fundamental policy decisions, "primary arrangements", belong
+    to the Knesset in primary legislation, not to a minister using a general power.
+- id: q3
+  question: >-
+    A statute passed in 1985 seems to infringe a right protected by Basic Law: Human Dignity and
+    Liberty (1992). Why is a limitation-clause challenge unlikely to succeed?
+  options:
+    - >-
+      Section 10 of the Basic Law preserves laws that existed before it came into force.
+    - >-
+      Statutes passed before 1992 are above the Basic Laws in the hierarchy of norms.
+    - >-
+      The limitation clause applies only to regulations, not to statutes of the Knesset.
+    - >-
+      Only the Attorney General may challenge a statute under the limitation clause.
+  correct: 0
+  explanation: >-
+    Section 10 preserves the validity of pre-existing law, so s. 8 cannot void it; the older law is,
+    however, interpreted in the spirit of the Basic Law.
+- id: q4
+  question: >-
+    Which of these is a "תקנה" (regulation) under the Interpretation Law?
+  options:
+    - >-
+      A building permit issued to a named applicant by the local planning committee.
+    - >-
+      An Attorney General guideline on how prosecutors decide to close files.
+    - >-
+      A provision of legislative effect issued by a minister under a section of a statute.
+    - >-
+      A Supreme Court holding that interprets a section of the Contracts Law.
+  correct: 2
+  explanation: >-
+    A regulation is "הוראה שניתנה מכוח חוק והיא בת־פעל תחיקתי". A permit is an administrative
+    instruction, a guideline is a directive, and a holding is case law.

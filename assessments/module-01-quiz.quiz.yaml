@@ -1,0 +1,187 @@
+- id: q1
+  question: >-
+    Your elderly father received a claim from a contractor. He asks you, his daughter, to file
+    his defence and argue for him at the magistrates' court hearing. He is fully competent. What
+    do you do?
+  options:
+    - >-
+      File and argue for him, since a child may represent a parent in civil courts.
+    - >-
+      Help him prepare and attend as support, while he files and argues himself or appoints a
+      lawyer.
+    - >-
+      Ask the court for leave under s. 63(ב) of the Courts Law to represent him at the hearing.
+    - >-
+      Sign the defence in your own name as his agent, since no fee is involved.
+  correct: 1
+  explanation: >-
+    Reg. 170 allows a party to act himself or through a lawyer; רע״א 8120/08 rejects a lay
+    friend. Section 63(ב) applies only in the small claims court, not in a regular magistrates'
+    case.
+- id: q2
+  question: >-
+    A ministry denies your request relying on its internal procedure, which demands a document
+    that neither the statute nor the regulations require. Which argument is strongest?
+  options:
+    - >-
+      The procedure violates the limitation clause of Basic Law: Human Dignity and Liberty.
+    - >-
+      The ministry must follow English common law where its rules are unclear.
+    - >-
+      The procedure is invalid because it was not approved by a Supreme Court ruling.
+    - >-
+      An internal directive cannot impose a condition beyond the regulation and the statute.
+  correct: 3
+  explanation: >-
+    Administrative directives sit below regulations and statutes in the hierarchy; they guide
+    the authority's discretion but cannot add requirements the law does not impose.
+- id: q3
+  question: >-
+    You were dismissed and also want to sue your former employer for defamation in an email he
+    sent about you to colleagues after a dispute over your union activity. Where do the claims
+    go?
+  options:
+    - >-
+      Both to the regional labour court, since they arise from the employment relationship.
+    - >-
+      Both to the magistrates' court, since defamation is a civil claim.
+    - >-
+      The dismissal to the labour court and the defamation to the small claims court.
+    - >-
+      The dismissal to the labour court and the defamation to the district court.
+  correct: 0
+  explanation: >-
+    Section 24(א)(1) covers the dismissal; s. 24(א)(1ד) gives the labour court exclusive
+    jurisdiction over defamation claims between employer and employee in connection with
+    employment relations.
+- id: q4
+  question: >-
+    In a divorce, your spouse proposes a written agreement that the rabbinical court will decide
+    a claim over a business partnership between you and your spouse's brother. What is the main
+    risk?
+  options:
+    - >-
+      That the rabbinical court's ruling cannot be appealed to the Great Rabbinical Court.
+    - >-
+      That the Family Court will have to confirm the ruling before it can be enforced.
+    - >-
+      That the ruling is void, because consent cannot give a religious court jurisdiction.
+    - >-
+      That the ruling will apply Jewish law instead of the Partnerships Ordinance.
+  correct: 2
+  explanation: >-
+    In Amir (בג״ץ 8638/03) the Supreme Court held that a rabbinical court has only statutory
+    jurisdiction and cannot decide civil disputes outside it even by consent or as an
+    arbitrator.
+- id: q5
+  question: >-
+    You are suing a gym in the small claims court in Holon. You found a Supreme Court ruling
+    decided 2–1 in your favour on a similar contract clause, and a Tel Aviv district ruling
+    against you. What is the position?
+  options:
+    - >-
+      The district ruling prevails, because it is from the district that covers Holon.
+    - >-
+      Neither binds the court, because small claims courts are not bound by precedent.
+    - >-
+      The Supreme Court majority holding binds the court; the district ruling guides at most.
+    - >-
+      The Supreme Court ruling is weak authority, because it was not unanimous.
+  correct: 2
+  explanation: >-
+    Basic Law: The Judiciary s. 20(ב): a Supreme Court holding binds every lower court,
+    including small claims. A 2–1 majority is still a holding; district rulings only guide.
+- id: q6
+  question: >-
+    A municipality sends you a payment demand under a bylaw. You suspect the bylaw goes beyond
+    what the authorising statute allows. Where do you look first?
+  options:
+    - >-
+      The section of the municipal statute named in the bylaw as its source of authority.
+    - >-
+      The Foundations of Law Act, to see whether Jewish law permits the charge.
+    - >-
+      Basic Law: The Judiciary, to see whether the municipality may judge you.
+    - >-
+      The Judicial Ombudsman's annual report, for complaints about similar bylaws.
+  correct: 0
+  explanation: >-
+    A bylaw is secondary legislation valid only within the statute that authorises it. The chain
+    test starts by reading the authorising section and comparing its scope.
+- id: q7
+  question: >-
+    A paid "claims service" offers to file and argue your small claim against an airline for 20%
+    of any award. Which statement is correct?
+  options:
+    - >-
+      It is lawful because small claims courts are not bound by the Bar Association Law.
+    - >-
+      It is lawful if the service's representative attends the hearing with your power of
+      attorney.
+    - >-
+      It is lawful only if the airline does not object to the representative at the hearing.
+    - >-
+      It is barred: s. 20 reserves paid representation, and s. 63(ב) excludes paid
+      representatives.
+  correct: 3
+  explanation: >-
+    Representation for consideration or as an occupation is reserved to lawyers. Section 63(ב)
+    allows non-lawyer representation only if it is not regular, not in business and not for pay.
+- id: q8
+  question: >-
+    A judge asks which source to use for a property question with no answer in any statute,
+    ruling or analogy. Which description of current Israeli law is accurate?
+  options:
+    - >-
+      The judge decides in light of the principles of Jewish law and heritage, under the 1980
+      Act.
+    - >-
+      The judge applies English common law and equity under art. 46 of the Order in Council.
+    - >-
+      The judge must refuse to decide until the Knesset legislates on the question.
+    - >-
+      The judge applies the Mejelle, which still governs gaps in property law.
+  correct: 0
+  explanation: >-
+    The Foundations of Law Act 1980 repealed art. 46 and, for a true lacuna, points to the
+    principles of freedom, justice, equity and peace of Jewish law and the Jewish heritage.
+- id: q9
+  question: >-
+    You are a defendant in a civil claim, cannot afford a lawyer, and the defence is due in ten
+    days. What is the best plan?
+  options:
+    - >-
+      Ask the Public Defender to take the case, since it represents people without means.
+    - >-
+      Wait for the court to appoint a lawyer, since unrepresented defendants get one
+      automatically.
+    - >-
+      Apply to Legal Aid now and file the defence yourself if it has not answered in time.
+    - >-
+      Complain to the Judicial Ombudsman that the deadline is too short for an unrepresented
+      party.
+  correct: 2
+  explanation: >-
+    Legal Aid handles eligible civil matters; the Public Defender acts in criminal matters.
+    Deadlines keep running, so protect them by filing in your own name (reg. 170).
+- id: q10
+  question: >-
+    National Insurance rejected your claim for a disability benefit after a medical committee. A
+    friend says the quickest fix is an HCJ petition against the Institute. What is the better
+    route?
+  options:
+    - >-
+      An HCJ petition, since the Institute is a public body and the HCJ reviews all public
+      bodies.
+    - >-
+      The statutory appeal route, ending in the labour court, which has jurisdiction over these
+      matters.
+    - >-
+      A small claim for the unpaid benefit, since you are an individual claiming a sum of money.
+    - >-
+      A complaint to the Judicial Ombudsman about the medical committee's decision.
+  correct: 1
+  explanation: >-
+    Section 24(א)(5) of the Labour Court Law gives the labour courts jurisdiction over National
+    Insurance matters, and the HCJ hears only matters not within another court's jurisdiction
+    (Basic Law: The Judiciary s. 15(ג)).

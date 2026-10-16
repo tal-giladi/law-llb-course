@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are preparing a small claim in the Netanya court. You found a Supreme Court ruling decided
+    2–1. The paragraph that best fits your facts is in the dissent. How should you use the ruling?
+  options:
+    - >-
+      Quote the dissent paragraph, since every Supreme Court opinion binds lower courts.
+    - >-
+      Ignore the ruling entirely, because split decisions have no precedential value.
+    - >-
+      Ask the small claims court to follow the dissent, since it may depart from split rulings.
+    - >-
+      Cite the majority's holding and treat the dissent as persuasive at most.
+  correct: 3
+  explanation: >-
+    Under s. 20(ב) the Supreme Court's holding binds every lower court, but the holding is the
+    majority's rule. A dissent does not bind anyone.
+- id: q2
+  question: >-
+    A magistrates' court in Be'er Sheva is deciding a question on which the Be'er Sheva district
+    court and the Tel Aviv district court ruled differently. What is the legal position?
+  options:
+    - >-
+      It must follow the Tel Aviv ruling, since Tel Aviv is the senior district court.
+    - >-
+      District rulings guide but do not bind it; it decides the question itself.
+    - >-
+      It must refer the question to the Supreme Court before deciding.
+    - >-
+      It must follow whichever district ruling was given later in time.
+  correct: 1
+  explanation: >-
+    Section 20(א) says a court's holding "תנחה" (guides) lower courts. Only Supreme Court holdings
+    "מחייבת" (bind). A conflict between districts is resolved only by the Supreme Court.
+- id: q3
+  question: >-
+    The Supreme Court, in a panel of three, decides a novel and difficult question in a way that
+    contradicts an earlier Supreme Court holding. What can the losing party ask for?
+  options:
+    - >-
+      An appeal as of right to a larger panel, since every judgment may be appealed.
+    - >-
+      A retrial in the district court, which may then apply the earlier holding.
+    - >-
+      A further hearing before five or more justices under s. 30 of the Courts Law.
+    - >-
+      A petition to the HCJ against the panel, since the HCJ supervises all courts.
+  correct: 2
+  explanation: >-
+    Section 30(ב) allows a further hearing where a holding contradicts an earlier one or is
+    important, difficult or novel. Supreme Court judgments are not appealable (Basic Law s. 17).
+- id: q4
+  question: >-
+    You cite Apropim (1995) to argue that a business contract you signed in March 2026 should be
+    read in light of its purpose despite clear wording. What is the main problem?
+  options:
+    - >-
+      The amended s. 25 reads business contracts from 7.1.2026 by their language.
+    - >-
+      Apropim was overturned by a further hearing in 1996 and no longer binds any court.
+    - >-
+      Apropim applies only to contracts with the state, so it does not cover your contract.
+    - >-
+      Small claims courts may not rely on Supreme Court rulings about contract interpretation.
+  correct: 0
+  explanation: >-
+    The Knesset amended s. 25 in 2011 and again in 2026. For business contracts made or renewed from
+    7 January 2026 without an agreed method, the language governs unless an exception applies.

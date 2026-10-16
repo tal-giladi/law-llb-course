@@ -1,0 +1,84 @@
+- id: q1
+  question: >-
+    You worked as a cashier for eight months and were never paid holiday pay. Your former employer
+    lives in Ashdod and the shop is in Ashkelon. Where do you file?
+  options:
+    - >-
+      The small claims court in Ashkelon, because the amount is below its ceiling.
+    - >-
+      The magistrates' court in Ashdod, where the employer lives.
+    - >-
+      The regional labour court, which has exclusive jurisdiction over employment claims.
+    - >-
+      The district court, because employment law is a specialised field.
+  correct: 2
+  explanation: >-
+    Section 24(א)(1) of the Labour Court Law gives regional labour courts exclusive jurisdiction over
+    claims between employee and employer arising from employment. Value does not change that.
+- id: q2
+  question: >-
+    During your divorce, your spouse suggests that the rabbinical court also decide a dispute over a
+    loan your spouse gave your brother. You both sign consent. What is the risk?
+  options:
+    - >-
+      None, because written consent of both parties gives the rabbinical court full jurisdiction.
+    - >-
+      The decision may be void, since consent cannot give a religious court jurisdiction it lacks.
+    - >-
+      Only that the decision cannot be appealed to the Great Rabbinical Court.
+    - >-
+      Only that the Family Court must later approve the rabbinical court's decision.
+  correct: 1
+  explanation: >-
+    In Amir (HCJ 8638/03) the Supreme Court held that a rabbinical court has only statutory
+    jurisdiction and cannot act as an arbitrator in civil matters by consent; such decisions are void.
+- id: q3
+  question: >-
+    You want to challenge a local authority's refusal to register your child at a school. You have
+    not yet written to the authority. What should you do first?
+  options:
+    - >-
+      Send a written demand to the authority, then go to the administrative affairs court if needed.
+    - >-
+      File an HCJ petition at once, since the Supreme Court supervises all public authorities.
+    - >-
+      File a small claim for compensation, which will force the authority to reconsider.
+    - >-
+      Complain to the Family Court, which hears all matters concerning children.
+  correct: 0
+  explanation: >-
+    Local-authority education decisions are listed in the Administrative Courts Law's first schedule,
+    so the administrative affairs court is the forum, and courts expect a prior written demand.
+- id: q4
+  question: >-
+    A small company that you own wants to sue a supplier for ₪8,000. Which statement is correct?
+  options:
+    - >-
+      It may sue in the small claims court, since the amount is well below the ceiling.
+    - >-
+      It must sue in the district court, since a company's claims go there.
+    - >-
+      It may sue in the small claims court if you, the owner, appear in person for it.
+    - >-
+      It cannot use the small claims court, which hears claims filed by individuals only.
+  correct: 3
+  explanation: >-
+    Section 60 of the Courts Law limits small claims to a claim "שהגיש יחיד". The company sues in the
+    magistrates' court, where it may need a lawyer.
+- id: q5
+  question: >-
+    You live in Haifa; the defendant, an online shop, operates from Petah Tikva; the defective
+    product was delivered to you in Haifa. Under reg. 7, which venue is available?
+  options:
+    - >-
+      Only Petah Tikva, because claims always go where the defendant does business.
+    - >-
+      Only Jerusalem, because online sales have no physical place of business.
+    - >-
+      Petah Tikva or Haifa, because the claim arises from online trade.
+    - >-
+      Any court in Israel, because consumers may choose freely.
+  correct: 2
+  explanation: >-
+    Reg. 7(ב) lets a claim over internet trade be filed where the defendant or the plaintiff lives or
+    does business (reg. 7(א) would also allow the place of the act). Jerusalem is only the reg. 8 fallback.

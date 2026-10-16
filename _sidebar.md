@@ -4,3 +4,14 @@
 - [Where to Get Help](references/where-to-get-help.md)
 - [Glossary](glossary.md)
 - [Templates](templates/README.md)
+
+- Year 1 — Foundations
+- **Module 1 — Israeli Law: Sources, Courts and the Legal System (about 15 hours)**
+  - [01 · What this course can and cannot make you](lessons/module-01/lesson-01.md)
+  - [02 · Israel's mixed legal system](lessons/module-01/lesson-02.md)
+  - [03 · Sources of law and the hierarchy of norms](lessons/module-01/lesson-03.md)
+  - [04 · The court map: courts, tribunals and jurisdiction](lessons/module-01/lesson-04.md)
+  - [05 · Precedent and how to read a ruling](lessons/module-01/lesson-05.md)
+  - [06 · The legal system's people](lessons/module-01/lesson-06.md)
+  - [07 · Practice lab: map your dispute to the right forum and decide if you can act alone](lessons/module-01/lesson-07.md)
+  - [Module 1 quiz](assessments/module-01-quiz.md)

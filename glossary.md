@@ -3,3 +3,63 @@
 The Hebrew legal terms used in the course, each given in Hebrew, then a transliteration, then its English meaning. Terms are added module by module.
 
 ## Terms
+
+- **אמרת אגב** (imrat agav) — obiter dictum: a remark not necessary for the decision.
+- **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
+- **בחינות הלשכה** (bhinot ha-lishka) — the Israel Bar examinations.
+- **בית דין דתי** (beit din dati) — religious court (rabbinical, Sharia, Christian, Druze).
+- **בית הדין לעבודה** (beit ha-din la-avoda) — labour court.
+- **בית המשפט המחוזי** (beit ha-mishpat ha-mehozi) — district court.
+- **בית משפט השלום** (beit mishpat ha-shalom) — magistrates' court.
+- **בעל דין** (ba'al din) — party to legal proceedings, litigant.
+- **בעל דין שאינו מיוצג** (ba'al din she-eino meyutzag) — self-represented (unrepresented) party.
+- **דבר המלך במועצתו** (dvar ha-melekh be-mo'atzto) — the Palestine Order in Council 1922, the Mandate's constitutional document.
+- **דיון נוסף** (diyun nosaf) — further hearing of a Supreme Court decision by a larger panel.
+- **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority opinion / minority (dissenting) opinion.
+- **הוראת מינהל** (hora'at minhal) — administrative instruction without legislative effect (permit, licence, notice).
+- **היועץ המשפטי לממשלה** (ha-yo'etz ha-mishpati la-memshala) — Attorney General.
+- **היקש** (hekesh) — analogy, reasoning from a similar rule.
+- **הלכה פסוקה** (halakha psuka) — binding precedent: the legal rule decided by a court.
+- **המג׳לה** (ha-majalla) — the Mejelle, the Ottoman civil code, repealed in full in 1984.
+- **המשפט המקובל** (ha-mishpat ha-mekubal) — the common law.
+- **הסגת גבול המקצוע** (hasagat gvul ha-miktzo'a) — unauthorised practice of law, an offence under s. 96 of the Bar Association Law.
+- **הסדרים ראשוניים** (hesderim rishoniyim) — primary arrangements, which must be set by the Knesset in statute.
+- **הסיוע המשפטי** (ha-siyua ha-mishpati) — Legal Aid (Ministry of Justice).
+- **הסניגוריה הציבורית** (ha-sanegoria ha-tziburit) — Public Defender's Office.
+- **הרכב** (herkev) — panel of judges.
+- **השגה** (hasaga) — objection to an authority's own decision-maker (for example on arnona).
+- **התיישנות** (hityashnut) — limitation (time bar).
+- **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
+- **חוק** (hok) — statute: a Knesset law or a Mandate ordinance.
+- **חוק יסוד** (hok yesod) — Basic Law, a statute with constitutional status.
+- **חוק עזר** (hok ezer) — municipal bylaw.
+- **חיקוק** (hikuk) — enactment: a statute or a regulation.
+- **חקיקת משנה** (hakikat mishne) — secondary (subordinate) legislation.
+- **חריגה מסמכות** (harigah mi-samkhut) — acting beyond authority (ultra vires).
+- **טוען רבני** (to'en rabani) — licensed rabbinical pleader, who may represent parties in rabbinical courts.
+- **ייחוד פעולות המקצוע** (yihud pe'ulot ha-miktzo'a) — the acts reserved to lawyers under s. 20 of the Bar Association Law.
+- **ייפוי כוח** (yipui ko'ah) — power of attorney; the document appointing a representative.
+- **לאקונה** (lakuna) — a gap in the law: a question with no answer in statute, precedent or analogy.
+- **מגשר** (megasher) — mediator.
+- **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
+- **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
+- **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Ombudsman for complaints against judges.
+- **סימן 46** (siman 46) — art. 46 of the Order in Council, which imported English common law and equity until 1980.
+- **סמכות ייחודית** (samkhut yihudit) — exclusive jurisdiction.
+- **סמכות מקבילה** (samkhut makbila) — parallel (concurrent) jurisdiction.
+- **סמכות מקומית** (samkhut mekomit) — territorial jurisdiction (venue).
+- **סמכות עניינית** (samkhut inyanit) — subject-matter jurisdiction.
+- **סעד חלופי** (sa'ad halufi) — alternative remedy; a reason for the HCJ to decline a petition.
+- **עורך דין** (orekh din) — lawyer (advocate), a member of the Israel Bar.
+- **ערכאה** (arkhaa) — forum, instance.
+- **ערעור ברשות** (ir'ur bi-rshut) — appeal by leave.
+- **ערר** (erer) — appeal to an appeals committee or tribunal.
+- **פ״ד** (pey-dalet) — Piskei Din, the official law reports of the Supreme Court.
+- **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause (Basic Law: Human Dignity and Liberty s. 8).
+- **פרקליטות המדינה** (praklitut ha-medina) — State Attorney's Office.
+- **קודיפיקציה** (kodifikatzia) — codification: replacing scattered rules with Israeli codes.
+- **קליטה** (klita) — reception of foreign law into the local legal system.
+- **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
+- **תביעה משטרתית** (tvi'a mishtartit) — police prosecution.
+- **תקדים** (takdim) — precedent.
+- **תקנה** (takana) — regulation: a provision of legislative effect made under a statute.

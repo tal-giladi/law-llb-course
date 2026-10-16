@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Your sister, who is not a lawyer, offers to argue your breach-of-contract claim for you at a
+    hearing in the magistrates' court, for free. What is the legal position?
+  options:
+    - >-
+      She may argue it because she is a relative and is not charging you anything.
+    - >-
+      She may argue it if you sign a power of attorney in her favour and file it with the court.
+    - >-
+      She may not argue it; in a regular civil court you act yourself or through a lawyer.
+    - >-
+      She may argue it only if the claim is below the magistrates' court ceiling.
+  correct: 2
+  explanation: >-
+    Reg. 170 allows a party to act "בעצמו או בידי עורך דין", and the Supreme Court in רע״א 8120/08
+    held there is no lay friend without an express provision. She may help you prepare and sit with
+    you, but not argue for you.
+- id: q2
+  question: >-
+    A retired neighbour has started drafting rental contracts for people in his building. He never
+    takes money, but he does it for anyone who asks, every few weeks. Which part of s. 20 is
+    relevant?
+  options:
+    - >-
+      None, because s. 20 applies only when the person is paid for the work.
+    - >-
+      "דרך עיסוק": reserved acts done as an occupation are barred even when free.
+    - >-
+      None, because a rental contract is not a document "of a legal nature" under s. 20.
+    - >-
+      Only paragraph (1), because drafting is part of representing someone before a court.
+  correct: 1
+  explanation: >-
+    Section 20 is triggered by "דרך עיסוק" (as an occupation) or "בתמורה" (for consideration).
+    Regular drafting of legal documents for others is reserved even when free.
+- id: q3
+  question: >-
+    You are suing a phone company in the small claims court. You have a stammer and would like your
+    friend, an engineer who understands the billing system, to speak for you. What should you do?
+  options:
+    - >-
+      Nothing in advance; tell the judge on the day that your friend will speak for you.
+    - >-
+      Give your friend a power of attorney and ask the court for approval under s. 63(ב), with reasons.
+    - >-
+      Hire a lawyer, because only a lawyer may represent anyone in the small claims court.
+    - >-
+      Move the claim to the magistrates' court, where any adult may represent another.
+  correct: 1
+  explanation: >-
+    Section 63(ב) of the Courts Law lets a non-lawyer represent a party with the court's approval
+    and a filed power of attorney, if the friend does not represent regularly, as a business or for
+    pay. The judge is not obliged to raise the option for you (רע״א 5234/17).
+- id: q4
+  question: >-
+    A friend who finished this course offers to represent you before the Execution Office in return
+    for a dinner at a good restaurant. Why is this a problem?
+  options:
+    - >-
+      The Execution Office is listed in s. 20(2), and a dinner counts as consideration.
+    - >-
+      It is not a problem, because the Execution Office is an office and not a court.
+    - >-
+      It is a problem only if your friend represents you there more than once a year.
+    - >-
+      It is not a problem, because the course certificate covers the Execution Office.
+  correct: 0
+  explanation: >-
+    Representation before the Execution Office is listed in s. 20(2). Any consideration, even a
+    meal, triggers "בתמורה". The course certificate gives no right to represent anyone.

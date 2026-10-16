@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are writing a small claim about a neighbour's tree damaging your wall. You found an English
+    House of Lords ruling that fits your facts perfectly. How should you use it?
+  options:
+    - >-
+      As binding law, because art. 46 still imports English common law into Israeli gaps.
+    - >-
+      As persuasive comparison at most, after citing the Israeli statute and Israeli rulings.
+    - >-
+      As binding law, but only if no Israeli ruling on the point was given after 1980.
+    - >-
+      Not at all, because Israeli courts are forbidden to read foreign rulings.
+  correct: 1
+  explanation: >-
+    The Foundations of Law Act 1980 repealed art. 46. English law absorbed before 1980 stays, but a
+    foreign ruling is persuasive only; the Israeli statute and Israeli case law come first.
+- id: q2
+  question: >-
+    A judge faces a question that no statute answers directly, but a closely similar statute covers
+    a parallel situation. Under s. 1 of the Foundations of Law Act, what should the judge do?
+  options:
+    - >-
+      Decide by the principles of Jewish law and heritage, since no statute answers directly.
+    - >-
+      Apply English common law, since the question is a gap in Israeli law.
+    - >-
+      Decide by analogy from the similar statute, since a lacuna exists only if analogy fails.
+    - >-
+      Refer the question to the Knesset, since judges may not create new rules.
+  correct: 2
+  explanation: >-
+    Section 1 applies only after the court finds no answer "בדבר חקיקה, בהלכה פסוקה או בדרך של
+    היקש". An available analogy means there is no lacuna.
+- id: q3
+  question: >-
+    Why does a Mandate-era ordinance, such as the Civil Wrongs Ordinance, still bind Israeli courts
+    today?
+  options:
+    - >-
+      The 1948 Law and Administration Ordinance, s. 11, kept existing law in force.
+    - >-
+      Because the Foundations of Law Act 1980 expressly listed it as a law that remains in force.
+    - >-
+      Because the British Parliament's acts still apply in Israel until the Knesset repeals each one.
+    - >-
+      Because the Supreme Court adopted it as case law in the Kol Ha'am ruling of 1953.
+  correct: 0
+  explanation: >-
+    Section 11 continued all law in force on 14 May 1948 unless it conflicted with new laws; many
+    ordinances were later re-enacted as Hebrew "new versions".
+- id: q4
+  question: >-
+    In 1953 the Interior Minister suspended newspapers under a Mandate press ordinance. What did the
+    Supreme Court do in Kol Ha'am?
+  options:
+    - >-
+      Struck the ordinance down as contrary to the Declaration of Independence, which it treated as a constitution.
+    - >-
+      Upheld the suspension, because Mandate laws must be read as the British drafters intended.
+    - >-
+      Read the ordinance in light of democratic values and required a near certainty of danger.
+    - >-
+      Held that the ordinance had lapsed in 1948 because it conflicted with independence.
+  correct: 2
+  explanation: >-
+    The court did not invalidate the ordinance; it interpreted it through Israel's democratic
+    character and set aside the orders for lack of a "near certainty" of danger.

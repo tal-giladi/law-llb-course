@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You received a new arnona notice that overstates your apartment's size. A friend suggests
+    filing a small claim against the municipality for the difference. What is the right route?
+  options:
+    - >-
+      A small claim, since the amount is small and you are an individual.
+    - >-
+      An HCJ petition, since the municipality is a public authority body.
+    - >-
+      A complaint to the Judicial Ombudsman about the municipality's mistake.
+    - >-
+      A timely objection to the arnona director, then the appeals committee.
+  correct: 3
+  explanation: >-
+    The Arnona Appeals Law creates its own route: objection (s. 3), appeals committee (s. 6(א)),
+    then the administrative affairs court (s. 6(ב)). Using a general court misses the deadline.
+- id: q2
+  question: >-
+    While mapping a dispute you find three issues: unpaid wages, a defective product bought online,
+    and an arnona error. In what order should your memo deal with them?
+  options:
+    - >-
+      Start with the largest amount, since it carries the highest risk.
+    - >-
+      Start with the item whose deadline is closest, then the rest.
+    - >-
+      Start with the wages, since labour claims always take priority.
+    - >-
+      Start with the product, since small claims are the fastest to file.
+  correct: 1
+  explanation: >-
+    Deadlines decide priority. Statutory objection periods (like arnona's) are short; most civil
+    claims have years under the Prescription Law.
+- id: q3
+  question: >-
+    A retired neighbour offers to handle your labour court claim and your small claim "for 10% of
+    what you get". What is the correct analysis?
+  options:
+    - >-
+      He is barred by s. 20, and s. 63(ב) cannot approve someone who represents for pay.
+    - >-
+      He may act in both forums if you sign a power of attorney in his favour.
+    - >-
+      He may act in the labour court only, since s. 21 exempts all labour matters.
+    - >-
+      He may act in small claims only, since it is not bound by procedure rules.
+  correct: 0
+  explanation: >-
+    Acting for others for consideration is reserved to lawyers (s. 20). Section 63(ב) excludes
+    representatives who act regularly, in their business or for pay; in the labour court only a
+    lawyer or an authorised organisation representative may act.
+- id: q4
+  question: >-
+    Your memo says "Forum: magistrates' court, because the amount is ₪40,000", but the claim is for
+    unpaid notice pay from your former employer. What is wrong?
+  options:
+    - >-
+      Nothing, since the amount is above the small-claims ceiling and below the district ceiling.
+    - >-
+      The venue is missing, but the forum is correct for an employment claim of this size.
+    - >-
+      The labour court has exclusive jurisdiction, so the amount does not decide the forum.
+    - >-
+      The district court has jurisdiction over all claims against former employers.
+  correct: 2
+  explanation: >-
+    Section 24(א)(1) of the Labour Court Law gives regional labour courts exclusive jurisdiction
+    over employee-employer claims. Test exclusive forums before using value.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The magistrates' court gave judgment against you. You think the judge misread the contract, and
+    she was also openly impatient with you. What do you do about each?
+  options:
+    - >-
+      Complain to the Judicial Ombudsman about both, since it reviews judges' work.
+    - >-
+      Appeal the misreading; complain to the Ombudsman, if at all, about her conduct.
+    - >-
+      Ask the court registrar to reopen the judgment and to replace the judge.
+    - >-
+      Complain to the Ombudsman first, and appeal only if the complaint fails.
+  correct: 1
+  explanation: >-
+    Under s. 17 of the Ombudsman Law, appealable matters and substantive legal questions are not
+    examined, except a judge's conduct. The merits go to appeal, within its deadline.
+- id: q2
+  question: >-
+    You are a defendant in a civil debt claim and have applied to Legal Aid. The deadline for your
+    statement of defence is in five days and Legal Aid has not answered. What is the safest step?
+  options:
+    - >-
+      Wait, because the court must extend deadlines while a Legal Aid application is pending.
+    - >-
+      Ask the court registry to file a defence on your behalf until Legal Aid decides.
+    - >-
+      File a defence in your own name, or ask for an extension, and tell Legal Aid.
+    - >-
+      Ignore the claim, since a pending Legal Aid application suspends the proceedings.
+  correct: 2
+  explanation: >-
+    Deadlines keep running. Filing yourself (reg. 170) or asking for an extension with reasons
+    protects you from a default judgment while Legal Aid decides.
+- id: q3
+  question: >-
+    A 15-year-old is charged in a regular magistrates' court (not a youth court) and has no lawyer.
+    What does the law require?
+  options:
+    - >-
+      Nothing, unless the parents ask for Legal Aid and pass the means test.
+    - >-
+      The prosecutor must also act as the minor's defender to ensure fairness.
+    - >-
+      The court must transfer the case to the Family Court, which handles minors.
+    - >-
+      The court must appoint a defender under s. 15 of the Criminal Procedure Law.
+  correct: 3
+  explanation: >-
+    Section 15(א)(2) requires appointing a defender for an accused under 16 brought before a court
+    that is not a youth court; s. 18 of the Public Defender Law makes them eligible.
+- id: q4
+  question: >-
+    Police invite you for questioning "for a short clarification" about a fight you witnessed and
+    may have joined. In light of Yissacharov, what is the sensible first step?
+  options:
+    - >-
+      Ask to consult a lawyer before answering, and ask about the Public Defender if you cannot pay.
+    - >-
+      Answer everything at once, since unwarned statements are always excluded anyway.
+    - >-
+      Refuse to attend, since a witness cannot be questioned without a court order.
+    - >-
+      Ask the victim's lawyer to accompany you, since victims and witnesses share counsel.
+  correct: 0
+  explanation: >-
+    Yissacharov made exclusion discretionary, not automatic, so do not rely on it; the protection is
+    to consult a lawyer before questioning.

@@ -1,0 +1,61 @@
+# Glossary inbox: module 1
+
+- **עורך דין** (orekh din) — lawyer (advocate), a member of the Israel Bar.
+- **ייחוד פעולות המקצוע** (yihud pe'ulot ha-miktzo'a) — the acts reserved to lawyers under s. 20 of the Bar Association Law.
+- **הסגת גבול המקצוע** (hasagat gvul ha-miktzo'a) — unauthorised practice of law, an offence under s. 96 of the Bar Association Law.
+- **בעל דין** (ba'al din) — party to legal proceedings, litigant.
+- **בעל דין שאינו מיוצג** (ba'al din she-eino meyutzag) — self-represented (unrepresented) party.
+- **ייפוי כוח** (yipui ko'ah) — power of attorney; the document appointing a representative.
+- **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
+- **בחינות הלשכה** (bhinot ha-lishka) — the Israel Bar examinations.
+- **טוען רבני** (to'en rabani) — licensed rabbinical pleader, who may represent parties in rabbinical courts.
+- **המג׳לה** (ha-majalla) — the Mejelle, the Ottoman civil code, repealed in full in 1984.
+- **דבר המלך במועצתו** (dvar ha-melekh be-mo'atzto) — the Palestine Order in Council 1922, the Mandate's constitutional document.
+- **סימן 46** (siman 46) — art. 46 of the Order in Council, which imported English common law and equity until 1980.
+- **המשפט המקובל** (ha-mishpat ha-mekubal) — the common law.
+- **קליטה** (klita) — reception of foreign law into the local legal system.
+- **קודיפיקציה** (kodifikatzia) — codification: replacing scattered rules with Israeli codes.
+- **לאקונה** (lakuna) — a gap in the law: a question with no answer in statute, precedent or analogy.
+- **היקש** (hekesh) — analogy, reasoning from a similar rule.
+- **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
+- **חוק יסוד** (hok yesod) — Basic Law, a statute with constitutional status.
+- **חוק** (hok) — statute: a Knesset law or a Mandate ordinance.
+- **חיקוק** (hikuk) — enactment: a statute or a regulation.
+- **תקנה** (takana) — regulation: a provision of legislative effect made under a statute.
+- **חקיקת משנה** (hakikat mishne) — secondary (subordinate) legislation.
+- **חוק עזר** (hok ezer) — municipal bylaw.
+- **הוראת מינהל** (hora'at minhal) — administrative instruction without legislative effect (permit, licence, notice).
+- **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause (Basic Law: Human Dignity and Liberty s. 8).
+- **הסדרים ראשוניים** (hesderim rishoniyim) — primary arrangements, which must be set by the Knesset in statute.
+- **חריגה מסמכות** (harigah mi-samkhut) — acting beyond authority (ultra vires).
+- **סמכות עניינית** (samkhut inyanit) — subject-matter jurisdiction.
+- **סמכות מקומית** (samkhut mekomit) — territorial jurisdiction (venue).
+- **סמכות ייחודית** (samkhut yihudit) — exclusive jurisdiction.
+- **סמכות מקבילה** (samkhut makbila) — parallel (concurrent) jurisdiction.
+- **בית משפט השלום** (beit mishpat ha-shalom) — magistrates' court.
+- **בית המשפט המחוזי** (beit ha-mishpat ha-mehozi) — district court.
+- **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
+- **בית הדין לעבודה** (beit ha-din la-avoda) — labour court.
+- **בית דין דתי** (beit din dati) — religious court (rabbinical, Sharia, Christian, Druze).
+- **סעד חלופי** (sa'ad halufi) — alternative remedy; a reason for the HCJ to decline a petition.
+- **הלכה פסוקה** (halakha psuka) — binding precedent: the legal rule decided by a court.
+- **תקדים** (takdim) — precedent.
+- **אמרת אגב** (imrat agav) — obiter dictum: a remark not necessary for the decision.
+- **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority opinion / minority (dissenting) opinion.
+- **הרכב** (herkev) — panel of judges.
+- **דיון נוסף** (diyun nosaf) — further hearing of a Supreme Court decision by a larger panel.
+- **ערעור ברשות** (ir'ur bi-rshut) — appeal by leave.
+- **פ״ד** (pey-dalet) — Piskei Din, the official law reports of the Supreme Court.
+- **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
+- **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
+- **היועץ המשפטי לממשלה** (ha-yo'etz ha-mishpati la-memshala) — Attorney General.
+- **פרקליטות המדינה** (praklitut ha-medina) — State Attorney's Office.
+- **תביעה משטרתית** (tvi'a mishtartit) — police prosecution.
+- **הסניגוריה הציבורית** (ha-sanegoria ha-tziburit) — Public Defender's Office.
+- **הסיוע המשפטי** (ha-siyua ha-mishpati) — Legal Aid (Ministry of Justice).
+- **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Ombudsman for complaints against judges.
+- **מגשר** (megasher) — mediator.
+- **ערכאה** (arkhaa) — forum, instance.
+- **התיישנות** (hityashnut) — limitation (time bar).
+- **השגה** (hasaga) — objection to an authority's own decision-maker (for example on arnona).
+- **ערר** (erer) — appeal to an appeals committee or tribunal.

@@ -1,0 +1,1312 @@
+# Module 01 question bank (not imported). Feeds the daily practice tool.
+- id: m01-001
+  module: 1
+  lesson: "01.1"
+  subject: s20-scope
+  difficulty: 1
+  question: >-
+    Which of these acts is NOT restricted by s. 20 of the Bar Association Law?
+  options:
+    - >-
+      Drafting a lease for a neighbour every month in return for a gift card.
+    - >-
+      Representing a friend before the Execution Office for a fee.
+    - >-
+      Arguing your own claim in the magistrates' court without a lawyer.
+    - >-
+      Giving paid legal opinions to small businesses as a side job.
+  correct: 2
+  explanation: >-
+    Section 20 restricts acts done for another person as an occupation or for consideration.
+    Acting for yourself is never restricted by it.
+- id: m01-002
+  module: 1
+  lesson: "01.1"
+  subject: s20-triggers
+  difficulty: 1
+  question: >-
+    What are the two alternative triggers that make an act reserved to lawyers under s. 20?
+  options:
+    - >-
+      Doing it as an occupation, or doing it for consideration.
+    - >-
+      Doing it in court, or doing it in writing.
+    - >-
+      Doing it for a company, or doing it for a stranger.
+    - >-
+      Doing it more than once a year, or for more than ₪1,000.
+  correct: 0
+  explanation: >-
+    The section's opening words are "דרך עיסוק, או בתמורה אף שלא דרך עיסוק": as an occupation
+    (even free) or for consideration (even once).
+- id: m01-003
+  module: 1
+  lesson: "01.1"
+  subject: s21-exceptions
+  difficulty: 1
+  question: >-
+    Which forum is excluded from s. 20 by s. 21 of the Bar Association Law?
+  options:
+    - >-
+      Magistrates' courts.
+    - >-
+      The Execution Office.
+    - >-
+      The Land Registry.
+    - >-
+      Religious courts.
+  correct: 3
+  explanation: >-
+    Section 21(2) preserves representation before religious and military courts, where other
+    rules (such as licensed rabbinical pleaders) apply.
+- id: m01-004
+  module: 1
+  lesson: "01.1"
+  subject: lay-friend
+  difficulty: 2
+  question: >-
+    Your husband wants to argue your separate personal-injury claim in the district court, as he
+    knows the facts better. What is the legal position?
+  options:
+    - >-
+      He may argue it because spouses are exempt from s. 20.
+    - >-
+      He may not argue it; you act yourself or through a lawyer.
+    - >-
+      He may argue it if the court grants leave under s. 63(ב).
+    - >-
+      He may argue it if he files a general power of attorney.
+  correct: 1
+  explanation: >-
+    Reg. 170 gives two options: yourself or a lawyer. There is no spouse exception in s. 21, and
+    s. 63(ב) applies only to the small claims court.
+- id: m01-005
+  module: 1
+  lesson: "01.1"
+  subject: small-claims-rep
+  difficulty: 2
+  question: >-
+    Your friend, a retired accountant who has never represented anyone, offers to represent you
+    for free in a small claim about a building contractor's invoice. How can this happen
+    lawfully?
+  options:
+    - >-
+      He simply attends and speaks; small claims courts have no representation rules.
+    - >-
+      You file his power of attorney and the court approves him under s. 63(ב).
+    - >-
+      He must first register with the Bar as a non-lawyer representative.
+    - >-
+      It cannot: only lawyers may ever represent in small claims.
+  correct: 1
+  explanation: >-
+    Section 63(ב) allows a non-lawyer to represent a party in small claims with the court's
+    approval and a filed power of attorney, if he does not represent regularly, in business or
+    for pay.
+- id: m01-006
+  module: 1
+  lesson: "01.1"
+  subject: small-claims-lawyer
+  difficulty: 2
+  question: >-
+    In a small claim, the defendant company arrives with its lawyer without having asked for
+    leave. What does s. 63(א) say?
+  options:
+    - >-
+      A company may always bring a lawyer, since it cannot appear in person.
+    - >-
+      Lawyers may appear freely; only non-lawyers need the court's leave.
+    - >-
+      Lawyers are completely barred from the small claims court.
+    - >-
+      Only with the court's leave, for special reasons it records.
+  correct: 3
+  explanation: >-
+    Section 63(א): "ייצוג בעל דין בבית משפט לתביעות קטנות על ידי עורך דין יהיה רק ברשות בית
+    המשפט ומטעמים מיוחדים שיירשמו".
+- id: m01-007
+  module: 1
+  lesson: "01.1"
+  subject: course-limits
+  difficulty: 1
+  question: >-
+    Which statement about completing this course is accurate?
+  options:
+    - >-
+      It gives knowledge and practice but no right to represent anyone.
+    - >-
+      It qualifies you to take the Bar exam after a shorter internship.
+    - >-
+      It allows you to represent family members in small claims.
+    - >-
+      It exempts you from the Bar exam's substantive law part.
+  correct: 0
+  explanation: >-
+    Becoming a lawyer requires recognised legal education, an internship and the Bar exams (s.
+    24). The course certificate gives none of these.
+- id: m01-008
+  module: 1
+  lesson: "01.1"
+  subject: internship
+  difficulty: 1
+  question: >-
+    Under the current s. 35(א) of the Bar Association Law, how long is the internship?
+  options:
+    - >-
+      18 months.
+    - >-
+      24 months.
+    - >-
+      12 months.
+    - >-
+      6 months.
+  correct: 2
+  explanation: >-
+    Section 35(א) now reads "תקופת ההתמחות תהיה 12 חודשים", after amendments in 2024–2025 that
+    replaced the earlier 18 months.
+- id: m01-009
+  module: 1
+  lesson: "01.1"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. A self-help website advises: "If you can't attend your magistrates' court
+    hearing, send a family member with a signed letter authorising them to speak for you." What
+    is wrong?
+  options:
+    - >-
+      Nothing, as long as the letter is signed before a notary.
+    - >-
+      The letter must be filed three days before the hearing, not brought on the day.
+    - >-
+      Only a spouse, not another family member, may be authorised this way.
+    - >-
+      A relative cannot argue for you there; attend, hire a lawyer or ask to postpone.
+  correct: 3
+  explanation: >-
+    In regular civil courts a party acts personally or through a lawyer (reg. 170; רע״א
+    8120/08). A request to postpone, with reasons, is the correct route.
+- id: m01-010
+  module: 1
+  lesson: "01.2"
+  subject: continuity
+  difficulty: 1
+  question: >-
+    Which provision kept pre-1948 law in force after independence?
+  options:
+    - >-
+      Section 1 of the Foundations of Law Act 1980.
+    - >-
+      Article 46 of the Palestine Order in Council 1922.
+    - >-
+      Law and Administration Ordinance 1948, s. 11.
+    - >-
+      Section 20 of Basic Law: The Judiciary.
+  correct: 2
+  explanation: >-
+    Section 11 provides that the law existing on 14 May 1948 remains in force, subject to the
+    new state's laws and changes from its establishment.
+- id: m01-011
+  module: 1
+  lesson: "01.2"
+  subject: art-46
+  difficulty: 1
+  question: >-
+    What did art. 46 of the Order in Council do before 1980?
+  options:
+    - >-
+      It established the religious courts' jurisdiction over personal status.
+    - >-
+      It sent courts to English common law and equity to fill gaps.
+    - >-
+      It made the Mejelle the main civil code for contracts and property.
+    - >-
+      It required Israeli courts to follow Privy Council rulings.
+  correct: 1
+  explanation: >-
+    Article 46 imported "the substance of the common law and the doctrines of equity in force in
+    England" to fill gaps, subject to local conditions.
+- id: m01-012
+  module: 1
+  lesson: "01.2"
+  subject: foundations-act
+  difficulty: 2
+  question: >-
+    Under s. 1 of the Foundations of Law Act, which sources must a court exhaust before turning
+    to the principles of Jewish law and heritage?
+  options:
+    - >-
+      Legislation, case law and analogy.
+    - >-
+      Legislation, English common law and custom.
+    - >-
+      Legislation and Basic Laws only.
+    - >-
+      Case law, legal scholarship and foreign law.
+  correct: 0
+  explanation: >-
+    The section applies only after the court finds no answer "בדבר חקיקה, בהלכה פסוקה או בדרך של
+    היקש".
+- id: m01-013
+  module: 1
+  lesson: "01.2"
+  subject: foundations-2018
+  difficulty: 2
+  question: >-
+    What did the 2018 amendment change in s. 1 of the Foundations of Law Act?
+  options:
+    - >-
+      It added an express reference to Jewish law alongside the Jewish heritage.
+    - >-
+      It replaced the lacuna test with a duty to consult Jewish law in every case.
+    - >-
+      It restored English common law as a gap-filler for commercial matters.
+    - >-
+      It moved the section into Basic Law: The Judiciary.
+  correct: 0
+  explanation: >-
+    Before 2018 the section referred to "מורשת ישראל" only; the amendment added "המשפט העברי ו".
+    The lacuna threshold stayed the same.
+- id: m01-014
+  module: 1
+  lesson: "01.2"
+  subject: absorbed-law
+  difficulty: 2
+  question: >-
+    An English doctrine was absorbed into Israeli case law in 1965. Is it still part of Israeli
+    law after the Foundations of Law Act?
+  options:
+    - >-
+      No, the Act repealed all English-derived rules with art. 46.
+    - >-
+      Yes, s. 2(ב) preserves law absorbed before the Act came into force.
+    - >-
+      Only if the Knesset re-enacted it in a statute after 1980.
+    - >-
+      Only in matters of personal status, where English law still applies.
+  correct: 1
+  explanation: >-
+    Section 2(ב): repealing art. 46 does not affect "משפט שנקלט בארץ לפני תחילת חוק זה".
+- id: m01-015
+  module: 1
+  lesson: "01.2"
+  subject: mejelle
+  difficulty: 1
+  question: >-
+    What is the status of the Mejelle, the Ottoman civil code?
+  options:
+    - >-
+      It still governs contracts that predate 1973.
+    - >-
+      It still applies to all land transactions.
+    - >-
+      It was repealed by a 1984 law, with narrow savings.
+    - >-
+      It was repealed in 1948 by the Law and Administration Ordinance.
+  correct: 2
+  explanation: >-
+    The Mejelle Repeal Law 1984 provides "המג׳לה – בטלה", while preserving specific provisions
+    kept by other laws and the law applied by Sharia courts.
+- id: m01-016
+  module: 1
+  lesson: "01.2"
+  subject: kol-haam
+  difficulty: 2
+  question: >-
+    Why is Kol Ha'am (1953) taught as part of the history of Israel's legal system?
+  options:
+    - >-
+      It declared the Declaration of Independence a binding constitution.
+    - >-
+      It struck down a Knesset statute for the first time.
+    - >-
+      It held that Mandate laws lapsed on independence.
+    - >-
+      It read a Mandate ordinance through Israel's democratic values.
+  correct: 3
+  explanation: >-
+    Kol Ha'am interpreted the Press Ordinance in light of the democratic character expressed in
+    the Declaration of Independence, requiring a near certainty of danger.
+- id: m01-017
+  module: 1
+  lesson: "01.2"
+  subject: layers-apply
+  difficulty: 3
+  question: >-
+    You are drafting a tort claim. Your notes cite the Civil Wrongs Ordinance (1944 text), an
+    English Court of Appeal ruling, and an Israeli Supreme Court ruling. What should you change?
+  options:
+    - >-
+      Nothing; all three sources are equally binding in Israeli courts.
+    - >-
+      Remove the Supreme Court ruling, since the Ordinance is English in origin.
+    - >-
+      Use the Ordinance's current new version and lead with the Israeli ruling.
+    - >-
+      Cite only the English ruling, since the Ordinance was drafted in English.
+  correct: 2
+  explanation: >-
+    The Ordinance applies in its current Israeli "new version"; Israeli Supreme Court rulings
+    bind lower courts; English rulings are persuasive at most.
+- id: m01-018
+  module: 1
+  lesson: "01.2"
+  subject: personal-status-history
+  difficulty: 2
+  question: >-
+    Which historical arrangement explains why marriage and divorce in Israel are handled by
+    religious courts?
+  options:
+    - >-
+      The Ottoman and Mandate system of communal religious jurisdiction, kept after 1948.
+    - >-
+      An Israeli code of personal status enacted in 1973 with the contract laws.
+    - >-
+      The Foundations of Law Act, which sends family law to Jewish law.
+    - >-
+      A Supreme Court ruling that adopted religious law as case law.
+  correct: 0
+  explanation: >-
+    Art. 51 of the Order in Council gave personal status to the communities' religious courts;
+    s. 11 of the 1948 Ordinance and later laws kept this structure.
+- id: m01-019
+  module: 1
+  lesson: "01.3"
+  subject: definitions
+  difficulty: 1
+  question: >-
+    Under the Interpretation Law, what is a "חיקוק"?
+  options:
+    - >-
+      Any rule published in Reshumot, including notices.
+    - >-
+      A Basic Law only.
+    - >-
+      Any binding rule, including court holdings.
+    - >-
+      A statute or a regulation.
+  correct: 3
+  explanation: >-
+    Section 3 defines "חיקוק" as "חוק או תקנה". Notices and holdings are not enactments.
+- id: m01-020
+  module: 1
+  lesson: "01.3"
+  subject: regulation-vs-directive
+  difficulty: 2
+  question: >-
+    Which of these binds the public as legislation?
+  options:
+    - >-
+      A ministry's internal procedure posted on its website.
+    - >-
+      Regulations signed by a minister under a statutory power and published.
+    - >-
+      A letter from a government clerk explaining the ministry's policy.
+    - >-
+      An Attorney General guideline on prosecution policy.
+  correct: 1
+  explanation: >-
+    A regulation is a provision "בת־פעל תחיקתי" issued under a statute. Procedures, letters and
+    guidelines are not legislation, though they guide the authority.
+- id: m01-021
+  module: 1
+  lesson: "01.3"
+  subject: limitation-clause
+  difficulty: 2
+  question: >-
+    Which element is NOT part of the limitation clause in Basic Law: Human Dignity and Liberty
+    s. 8?
+  options:
+    - >-
+      The law befits the values of the State of Israel.
+    - >-
+      A two-thirds Knesset majority for the infringing law.
+    - >-
+      The law is enacted for a proper purpose.
+    - >-
+      The infringement is no greater than is required.
+  correct: 1
+  explanation: >-
+    Section 8 requires a law (or express authorisation in one) befitting the state's values, for
+    a proper purpose, to an extent no greater than required. It sets no special majority.
+- id: m01-022
+  module: 1
+  lesson: "01.3"
+  subject: mizrahi
+  difficulty: 2
+  question: >-
+    What did United Mizrahi Bank (1995) establish?
+  options:
+    - >-
+      The Knesset may not enact Basic Laws without a national referendum.
+    - >-
+      Courts may void regulations under Basic Laws but never statutes.
+    - >-
+      Pre-1992 laws are void if they infringe a right in a Basic Law.
+    - >-
+      Basic Laws are supreme norms; courts may void statutes breaching them.
+  correct: 3
+  explanation: >-
+    The court held that Basic Laws are superior norms and that a statute infringing a protected
+    right without meeting the limitation clause may be declared void.
+- id: m01-023
+  module: 1
+  lesson: "01.3"
+  subject: rubinstein
+  difficulty: 2
+  question: >-
+    A minister uses a general power to create a national scheme of exemptions from a statutory
+    duty that divides society. Which principle is engaged?
+  options:
+    - >-
+      Primary arrangements must be set by the Knesset (Rubinstein).
+    - >-
+      Ministers may decide any matter that no statute expressly forbids.
+    - >-
+      Only the Attorney General may decide schemes of this kind.
+    - >-
+      The scheme is valid as long as it is published in Reshumot.
+  correct: 0
+  explanation: >-
+    Rubinstein (HCJ 3267/97) held that fundamental policy decisions must be made by the
+    legislature in primary legislation.
+- id: m01-024
+  module: 1
+  lesson: "01.3"
+  subject: pre-1992
+  difficulty: 3
+  question: >-
+    You want to challenge a 1980 statute that restricts your occupation. Which argument is
+    realistic?
+  options:
+    - >-
+      Ask the court to void it under the limitation clause of a Basic Law.
+    - >-
+      Ask the Knesset's legal adviser to declare it void.
+    - >-
+      Ask the court to interpret it narrowly in the spirit of the Basic Laws.
+    - >-
+      Argue that pre-1992 statutes are below regulations in the hierarchy.
+  correct: 2
+  explanation: >-
+    Preservation-of-laws clauses protect older statutes from being voided, but courts interpret
+    them in the Basic Laws' spirit.
+- id: m01-025
+  module: 1
+  lesson: "01.3"
+  subject: lex-posterior
+  difficulty: 1
+  question: >-
+    Two statutes of equal rank conflict, and neither is more specific. Which general rule
+    usually resolves it?
+  options:
+    - >-
+      The earlier statute prevails because it was relied on longer.
+    - >-
+      The statute with the larger Knesset majority prevails.
+    - >-
+      The conflict is sent to the HCJ for a binding decision.
+    - >-
+      The later statute prevails over the earlier one.
+  correct: 3
+  explanation: >-
+    At the same level, the later norm prevails (and a specific norm prevails over a general
+    one), subject to interpretation.
+- id: m01-026
+  module: 1
+  lesson: "01.3"
+  subject: 5658-23
+  difficulty: 3
+  question: >-
+    Which statement accurately describes HCJ 5658/23?
+  options:
+    - >-
+      The court unanimously held it may review any Basic Law for proportionality.
+    - >-
+      The court held it has no power to review Basic Laws and upheld the amendment.
+    - >-
+      A majority held Basic Laws reviewable in extreme cases and voided the amendment.
+    - >-
+      The court sent the amendment back to the Knesset without deciding the case.
+  correct: 2
+  explanation: >-
+    Twelve of fifteen justices held that Basic Laws may be reviewed in exceptional cases; eight
+    held that Amendment No. 3 was such a case and voided it.
+- id: m01-027
+  module: 1
+  lesson: "01.3"
+  subject: chain-test
+  difficulty: 3
+  question: >-
+    Spot the mistake. A fine notice says: "Fined under the municipal enforcement procedure,
+    section 4." You want to contest it. What is missing from your analysis if you only argue the
+    fine is harsh?
+  options:
+    - >-
+      Whether the inspector held a valid driving licence on the day of the fine.
+    - >-
+      Whether a bylaw within its statute supports the fine; a procedure cannot.
+    - >-
+      Whether the municipality also published the notice in a local newspaper.
+    - >-
+      Whether the fine was approved in advance by the Judicial Ombudsman.
+  correct: 1
+  explanation: >-
+    An internal procedure is not legislation. A fine needs a basis in an enactment: a bylaw
+    within the authorising statute. That is the stronger argument.
+- id: m01-028
+  module: 1
+  lesson: "01.4"
+  subject: subject-vs-venue
+  difficulty: 1
+  question: >-
+    What is the difference between subject-matter and territorial jurisdiction?
+  options:
+    - >-
+      Type of court versus which city's court.
+    - >-
+      Which city's court versus type of court.
+    - >-
+      Criminal cases versus civil cases.
+    - >-
+      They are two names for one rule.
+  correct: 0
+  explanation: >-
+    Subject-matter jurisdiction (statutory) picks the kind of court; venue (procedure rules,
+    reg. 7) picks the location.
+- id: m01-029
+  module: 1
+  lesson: "01.4"
+  subject: magistrates
+  difficulty: 1
+  question: >-
+    Which claim belongs to the magistrates' court regardless of its value?
+  options:
+    - >-
+      Possession or use of land.
+    - >-
+      Ownership of a plot of land.
+    - >-
+      Unpaid wages from an employer.
+    - >-
+      A claim for divorce between spouses.
+  correct: 0
+  explanation: >-
+    Courts Law s. 51(א)(3) covers possession or use of land "יהיה שוויו של נושא התביעה אשר
+    יהיה". Ownership goes to the district court.
+- id: m01-030
+  module: 1
+  lesson: "01.4"
+  subject: district
+  difficulty: 2
+  question: >-
+    Your neighbour claims part of your plot belongs to him and asks the court to declare
+    ownership. Which court hears it?
+  options:
+    - >-
+      The magistrates' court.
+    - >-
+      The district court.
+    - >-
+      The small claims court.
+    - >-
+      The Land Registry's tribunal.
+  correct: 1
+  explanation: >-
+    Claims concerning land, other than possession or use, are excluded from the magistrates'
+    court (s. 51(א)(2)) and go to the district court under s. 40(1).
+- id: m01-031
+  module: 1
+  lesson: "01.4"
+  subject: small-claims-who
+  difficulty: 1
+  question: >-
+    Who may file a claim in the small claims court?
+  options:
+    - >-
+      An individual or a company.
+    - >-
+      Any party, if the amount is below the ceiling.
+    - >-
+      An individual.
+    - >-
+      Only consumers suing businesses.
+  correct: 2
+  explanation: >-
+    Section 60(א): "תביעה אזרחית שהגיש יחיד". Companies cannot file there, though they can be
+    sued there.
+- id: m01-032
+  module: 1
+  lesson: "01.4"
+  subject: labour-exclusive
+  difficulty: 2
+  question: >-
+    Your employer refuses to give you a letter confirming your employment period. You want a
+    court order. Which forum?
+  options:
+    - >-
+      The magistrates' court.
+    - >-
+      The small claims court.
+    - >-
+      The administrative affairs court.
+    - >-
+      The regional labour court.
+  correct: 3
+  explanation: >-
+    Claims between employee and employer arising from employment are in the labour court's
+    exclusive jurisdiction (s. 24(א)(1)).
+- id: m01-033
+  module: 1
+  lesson: "01.4"
+  subject: hcj-residual
+  difficulty: 2
+  question: >-
+    Why might the HCJ dismiss a petition against a local authority's decision even if the
+    decision is clearly wrong?
+  options:
+    - >-
+      Because the HCJ cannot review local authorities at all.
+    - >-
+      Because local authority decisions are final by law.
+    - >-
+      Because another court, such as the administrative court, can hear it.
+    - >-
+      Because the petitioner did not first appeal to the Ombudsman.
+  correct: 2
+  explanation: >-
+    Basic Law: The Judiciary s. 15(ג) limits the HCJ to matters "שאינם בסמכותו של בית משפט או של
+    בית דין אחר": the alternative-remedy rule.
+- id: m01-034
+  module: 1
+  lesson: "01.4"
+  subject: religious-family
+  difficulty: 2
+  question: >-
+    A Muslim couple disagrees about child support. Which forums may hear the claim?
+  options:
+    - >-
+      The Sharia court or the Family Court.
+    - >-
+      Only the Sharia court, exclusively.
+    - >-
+      Only the Family Court, exclusively.
+    - >-
+      The magistrates' court, as a money claim.
+  correct: 0
+  explanation: >-
+    Article 52 gives Sharia courts jurisdiction over Muslims' personal status; s. 3(ב1) of the
+    Family Court Law lets the Family Court hear their family matters other than marriage and
+    divorce.
+- id: m01-035
+  module: 1
+  lesson: "01.4"
+  subject: venue-reg7
+  difficulty: 2
+  question: >-
+    You hired a plumber who lives in Lod; he did faulty work in your apartment in Haifa. Where
+    may you file?
+  options:
+    - >-
+      Only Lod, where the defendant lives.
+    - >-
+      Only Haifa, where you as plaintiff live.
+    - >-
+      Only Jerusalem, the default venue.
+    - >-
+      Lod or Haifa: residence or place of the act.
+  correct: 3
+  explanation: >-
+    Reg. 7(א) allows the defendant's residence or business, or the place of the act or omission.
+    Jerusalem is the reg. 8 fallback only.
+- id: m01-036
+  module: 1
+  lesson: "01.4"
+  subject: transfer
+  difficulty: 3
+  question: >-
+    You filed an employment claim in the magistrates' court by mistake. What can the court do?
+  options:
+    - >-
+      Hear it anyway, since the claim is already filed.
+    - >-
+      Transfer it to the labour court under Courts Law s. 79.
+    - >-
+      Dismiss it with no option to transfer.
+    - >-
+      Refer it to the HCJ for a jurisdiction ruling.
+  correct: 1
+  explanation: >-
+    Section 79(א) lets a court that lacks subject-matter or territorial jurisdiction transfer
+    the matter to the competent court or tribunal.
+- id: m01-037
+  module: 1
+  lesson: "01.4"
+  subject: which-forum-amir
+  difficulty: 3
+  question: >-
+    Spot the mistake. A divorce agreement says: "All disputes between the parties, including
+    over the family business with a third party, shall be decided by the regional rabbinical
+    court." What is the problem?
+  options:
+    - >-
+      The clause should name the Great Rabbinical Court rather than the regional court.
+    - >-
+      Consent cannot give a rabbinical court jurisdiction over a third-party civil dispute.
+    - >-
+      Rabbinical courts may decide such disputes only if all the parties are Jewish.
+    - >-
+      The clause is valid only once the HCJ approves it on a petition by both spouses.
+  correct: 1
+  explanation: >-
+    Amir (HCJ 8638/03): a rabbinical court has only statutory jurisdiction; parties cannot
+    expand it by agreement or arbitration.
+- id: m01-038
+  module: 1
+  lesson: "01.5"
+  subject: s20-binding
+  difficulty: 1
+  question: >-
+    Under Basic Law: The Judiciary s. 20(ב), whom does a Supreme Court holding bind?
+  options:
+    - >-
+      Every court including the Supreme Court.
+    - >-
+      Only the district courts.
+    - >-
+      Only courts in the same district as the case.
+    - >-
+      Every court except the Supreme Court itself.
+  correct: 3
+  explanation: >-
+    "הלכה שנפסקה בבית המשפט העליון מחייבת כל בית משפט, זולת בית המשפט העליון".
+- id: m01-039
+  module: 1
+  lesson: "01.5"
+  subject: guide-vs-bind
+  difficulty: 2
+  question: >-
+    A district court ruling is cited in a magistrates' court in the same district. What is its
+    status?
+  options:
+    - >-
+      It guides the magistrates' court but does not bind it.
+    - >-
+      It binds the magistrates' court like a Supreme Court holding.
+    - >-
+      It has no weight because only the Supreme Court makes precedent.
+    - >-
+      It binds only if it was given by three judges.
+  correct: 0
+  explanation: >-
+    Section 20(א) says a court's holding "תנחה" lower courts. Only Supreme Court holdings
+    "מחייבת".
+- id: m01-040
+  module: 1
+  lesson: "01.5"
+  subject: obiter
+  difficulty: 2
+  question: >-
+    In a ruling, the judge adds a remark on a question the parties did not raise and that did
+    not affect the result. What is it?
+  options:
+    - >-
+      The holding, since it states a legal rule.
+    - >-
+      A minority opinion, since only one judge wrote it.
+    - >-
+      Obiter dictum, which does not bind.
+    - >-
+      A further-hearing ruling.
+  correct: 2
+  explanation: >-
+    A holding is the rule needed to decide the question before the court. A remark on an issue
+    not needed for the result is obiter.
+- id: m01-041
+  module: 1
+  lesson: "01.5"
+  subject: case-codes
+  difficulty: 1
+  question: >-
+    What does the code דנ״א before a case number mean?
+  options:
+    - >-
+      A criminal appeal.
+    - >-
+      An appeal by leave in a civil matter.
+    - >-
+      An HCJ petition.
+    - >-
+      A further hearing in a civil matter.
+  correct: 3
+  explanation: >-
+    דנ״א = דיון נוסף אזרחי. ע״פ is a criminal appeal, רע״א a civil leave to appeal, בג״ץ the
+    High Court of Justice.
+- id: m01-042
+  module: 1
+  lesson: "01.5"
+  subject: further-hearing
+  difficulty: 2
+  question: >-
+    On what ground may a further hearing be granted under Courts Law s. 30(ב)?
+  options:
+    - >-
+      New evidence discovered by the losing party after the judgment.
+    - >-
+      The judgment was given by a single justice instead of three.
+    - >-
+      Conflict with an earlier holding, or importance, difficulty or novelty.
+    - >-
+      The district court disagrees with the Supreme Court's holding.
+  correct: 2
+  explanation: >-
+    Section 30(ב) lists contradiction with an earlier holding, or importance, difficulty or
+    novelty.
+- id: m01-043
+  module: 1
+  lesson: "01.5"
+  subject: nahmani
+  difficulty: 2
+  question: >-
+    What does the Nahmani litigation illustrate about precedent?
+  options:
+    - >-
+      Lower courts may ignore a Supreme Court holding they consider unjust.
+    - >-
+      A larger panel in a further hearing can reverse a Supreme Court holding.
+    - >-
+      Only unanimous Supreme Court rulings create binding precedent at all.
+    - >-
+      The Knesset must approve every reversal of a Supreme Court precedent.
+  correct: 1
+  explanation: >-
+    The 1995 appeal ruled 4–1 for the husband; the 1996 further hearing of eleven justices ruled
+    7–4 the other way.
+- id: m01-044
+  module: 1
+  lesson: "01.5"
+  subject: apropim-override
+  difficulty: 3
+  question: >-
+    How did the Knesset respond to the Apropim approach to contract interpretation?
+  options:
+    - >-
+      It amended s. 25 of the Contracts Law in 2011 and again in 2026.
+    - >-
+      It enacted a Basic Law forbidding purposive interpretation.
+    - >-
+      It asked the Supreme Court to hold a further hearing.
+    - >-
+      It did nothing; Apropim still governs every contract.
+  correct: 0
+  explanation: >-
+    The 2011 amendment gave the language more weight; the 2026 amendment requires language-only
+    reading of business contracts made from 7.1.2026, with exceptions.
+- id: m01-045
+  module: 1
+  lesson: "01.5"
+  subject: reading-order
+  difficulty: 1
+  question: >-
+    When reading a long Supreme Court judgment, what should you find first?
+  options:
+    - >-
+      The operative result and the vote count at the end.
+    - >-
+      The longest opinion, since it is usually the holding.
+    - >-
+      The list of cited cases, to judge the ruling's quality.
+    - >-
+      The first judge's summary of the facts only.
+  correct: 0
+  explanation: >-
+    Reading end-first tells you the outcome and the majority, so you know whose reasoning can be
+    a holding.
+- id: m01-046
+  module: 1
+  lesson: "01.5"
+  subject: spot-mistake-cite
+  difficulty: 3
+  question: >-
+    Spot the mistake. A small claim says: "As held in the dissent of Justice X in ע״א 1234/20,
+    the defendant must refund in full; this binds the court under s. 20(ב)." What is wrong?
+  options:
+    - >-
+      Section 20(ב) applies only to district courts.
+    - >-
+      A dissent is not a holding and binds no court.
+    - >-
+      Small claims courts must not cite Supreme Court rulings.
+    - >-
+      The case number should include the judge's name.
+  correct: 1
+  explanation: >-
+    Only the majority's holding binds under s. 20(ב). A dissent is persuasive at most.
+- id: m01-047
+  module: 1
+  lesson: "01.6"
+  subject: independence
+  difficulty: 1
+  question: >-
+    Basic Law: The Judiciary s. 2 provides that in judicial matters a judge is subject to:
+  options:
+    - >-
+      The President of the Supreme Court.
+    - >-
+      The Minister of Justice.
+    - >-
+      No authority other than the law.
+    - >-
+      The Judicial Selection Committee.
+  correct: 2
+  explanation: >-
+    "בענייני שפיטה אין מרות על מי שבידו סמכות שפיטה, זולת מרותו של הדין".
+- id: m01-048
+  module: 1
+  lesson: "01.6"
+  subject: selection-committee
+  difficulty: 2
+  question: >-
+    Under the current text of Basic Law: The Judiciary s. 4, what changes from the start of the
+    26th Knesset's term?
+  options:
+    - >-
+      The retirement age of all serving judges.
+    - >-
+      The number of justices on the Supreme Court.
+    - >-
+      The right of appeal from district courts.
+    - >-
+      The selection committee's makeup and voting.
+  correct: 3
+  explanation: >-
+    A 2025 amendment changes who sits on the Judicial Selection Committee (two public
+    representatives chosen by the Knesset instead of the Bar's two) and how it votes.
+- id: m01-049
+  module: 1
+  lesson: "01.6"
+  subject: registrar
+  difficulty: 1
+  question: >-
+    Which task is typical for a court registrar?
+  options:
+    - >-
+      Hearing an appeal from a district court judgment.
+    - >-
+      Prosecuting minor offences for the police.
+    - >-
+      Deciding a request to extend a filing deadline.
+    - >-
+      Investigating complaints about judges' conduct.
+  correct: 2
+  explanation: >-
+    Registrars decide procedural requests such as extensions, service and fee exemptions, and in
+    some courts certain claims.
+- id: m01-050
+  module: 1
+  lesson: "01.6"
+  subject: prosecutor-role
+  difficulty: 2
+  question: >-
+    A victim is unhappy that the prosecutor agreed to a plea bargain without asking her. What is
+    the key point?
+  options:
+    - >-
+      The prosecutor acts for the public, not the victim; victims have own rights.
+    - >-
+      The prosecutor is the victim's lawyer and must follow her instructions.
+    - >-
+      The plea bargain is void unless the victim signed it beforehand.
+    - >-
+      The victim must first complain to the Judicial Ombudsman about it.
+  correct: 0
+  explanation: >-
+    The State is the accuser (Criminal Procedure Law s. 11). Victims' rights to information and
+    to be heard are separate (module 5).
+- id: m01-051
+  module: 1
+  lesson: "01.6"
+  subject: private-complaint
+  difficulty: 2
+  question: >-
+    Who may bring a private criminal complaint (קובלנה)?
+  options:
+    - >-
+      Only the Attorney General, at a victim's request.
+    - >-
+      Only police prosecutors, for minor traffic offences.
+    - >-
+      Any person, for any offence whose file police closed.
+    - >-
+      Any person, for offences in the law's second schedule.
+  correct: 3
+  explanation: >-
+    Section 68: "רשאי כל אדם להאשים בעבירה מן המנויות בתוספת השניה על ידי הגשת קובלנה לבית
+    המשפט".
+- id: m01-052
+  module: 1
+  lesson: "01.6"
+  subject: public-defender
+  difficulty: 2
+  question: >-
+    Which accused must the court appoint a defender for under s. 15 of the Criminal Procedure
+    Law?
+  options:
+    - >-
+      Anyone charged with any offence who asks for one.
+    - >-
+      A person charged with murder who has no lawyer.
+    - >-
+      Any adult charged in a magistrates' court.
+    - >-
+      A company charged with a regulatory offence.
+  correct: 1
+  explanation: >-
+    Section 15(א)(1) covers murder and offences punishable by death or life, and district court
+    charges of ten years or more, among other listed categories.
+- id: m01-053
+  module: 1
+  lesson: "01.6"
+  subject: legal-aid
+  difficulty: 2
+  question: >-
+    Which three tests does Legal Aid generally apply?
+  options:
+    - >-
+      Age, residence and income.
+    - >-
+      Subject, means and merit.
+    - >-
+      Urgency, value and complexity.
+    - >-
+      Citizenship, means and prior convictions.
+  correct: 1
+  explanation: >-
+    Legal Aid covers listed subjects, for people who cannot afford representation (unless
+    exempted), where the case has merit.
+- id: m01-054
+  module: 1
+  lesson: "01.6"
+  subject: ombudsman
+  difficulty: 3
+  question: >-
+    The judge in your case has not given a decision on your urgent request for eight months.
+    What can the Judicial Ombudsman do?
+  options:
+    - >-
+      Order the judge to decide the request in your favour.
+    - >-
+      Transfer the case to another judge in another court.
+    - >-
+      Nothing at all, since the matter could be appealed.
+    - >-
+      Examine the delay as part of the judge's conduct of the case.
+  correct: 3
+  explanation: >-
+    Section 17 bars complaints on substance or appealable matters, but excepts the judge's
+    conduct, including how the trial is managed; delay falls within that.
+- id: m01-055
+  module: 1
+  lesson: "01.6"
+  subject: yissacharov
+  difficulty: 3
+  question: >-
+    Which statement about Yissacharov (2006) is accurate?
+  options:
+    - >-
+      Courts may exclude unlawfully obtained evidence that would harm a fair trial.
+    - >-
+      Every statement given without a lawyer present is automatically inadmissible.
+    - >-
+      Confessions are always admissible if voluntary, whatever the method used.
+    - >-
+      Only military courts may exclude evidence for lack of a lawyer warning.
+  correct: 0
+  explanation: >-
+    The court adopted a relative, discretionary exclusion rule and excluded confessions taken
+    after a deliberate failure to advise of the right to consult a lawyer.
+- id: m01-056
+  module: 1
+  lesson: "01.7"
+  subject: order-of-tests
+  difficulty: 2
+  question: >-
+    When mapping a dispute, why test exclusive forums before comparing the amount with ceilings?
+  options:
+    - >-
+      Ceilings change every year, so they must always be checked last.
+    - >-
+      Exclusive forums are always cheaper to file in than general courts.
+    - >-
+      An exclusive forum displaces the general courts whatever the amount.
+    - >-
+      General courts refuse any claim that mentions an employer.
+  correct: 2
+  explanation: >-
+    If a statute gives exclusive jurisdiction (labour, religious courts, special tribunals),
+    value is irrelevant: no other forum may hear the claim.
+- id: m01-057
+  module: 1
+  lesson: "01.7"
+  subject: arnona-route
+  difficulty: 2
+  question: >-
+    An arnona notice wrongly classifies your apartment as a business. What is the first
+    statutory step?
+  options:
+    - >-
+      A small claim against the municipality.
+    - >-
+      An appeal to the administrative affairs court.
+    - >-
+      A petition to the HCJ.
+    - >-
+      An objection (השגה) to the arnona director.
+  correct: 3
+  explanation: >-
+    The Arnona Appeals Law s. 3 sets an objection to the arnona director first; then the appeals
+    committee (s. 6(א)) and then the administrative court (s. 6(ב)).
+- id: m01-058
+  module: 1
+  lesson: "01.7"
+  subject: arnona-silence
+  difficulty: 3
+  question: >-
+    You objected to your arnona charge and the director has not answered within the statutory
+    period, with no extension. What does s. 4(ב) provide?
+  options:
+    - >-
+      The objection is treated as rejected and you must appeal.
+    - >-
+      You must file a new objection.
+    - >-
+      The objection is treated as accepted.
+    - >-
+      The municipality may collect double arnona.
+  correct: 2
+  explanation: >-
+    Section 4(ב): if the director does not answer in time (absent an approved extension), "ייחשב
+    הדבר כאילו החליט לקבל את ההשגה".
+- id: m01-059
+  module: 1
+  lesson: "01.7"
+  subject: limitation
+  difficulty: 1
+  question: >-
+    What is the general limitation period for a civil claim not concerning land under s. 5 of
+    the Prescription Law?
+  options:
+    - >-
+      Three years.
+    - >-
+      Seven years.
+    - >-
+      Fifteen years.
+    - >-
+      Two years.
+  correct: 1
+  explanation: >-
+    Section 5(1): "בשאינו מקרקעין – שבע שנים". Many special laws set shorter periods.
+- id: m01-060
+  module: 1
+  lesson: "01.7"
+  subject: memo-quality
+  difficulty: 2
+  question: >-
+    Which line in a forum decision memo is best?
+  options:
+    - >-
+      Forum: regional labour court, s. 24(א)(1), overtime claim.
+    - >-
+      Forum: the labour court, because the dispute is about work.
+    - >-
+      Forum: probably small claims, since it is cheaper and faster.
+    - >-
+      Forum: whichever court is closest to my home address.
+  correct: 0
+  explanation: >-
+    Each memo line should name the forum and the section that gives jurisdiction, so a reader
+    can verify it.
+- id: m01-061
+  module: 1
+  lesson: "01.7"
+  subject: most-urgent
+  difficulty: 3
+  question: >-
+    Your map shows: a consumer claim (event 5 months ago), an arnona notice (received 70 days
+    ago), and a wage claim (last unpaid month 2 years ago). Which do you act on first?
+  options:
+    - >-
+      The arnona objection, as its statutory period is nearly over.
+    - >-
+      The wage claim, since it is the oldest of the three matters.
+    - >-
+      The consumer claim, since evidence of defects fades fastest.
+    - >-
+      None of them until a lawyer has reviewed all three matters.
+  correct: 0
+  explanation: >-
+    Statutory objection periods are short; most civil claims have years under the Prescription
+    Law. Check the periods in current numbers.
+- id: m01-062
+  module: 1
+  lesson: "01.7"
+  subject: split-dispute
+  difficulty: 3
+  question: >-
+    A worker was injured at work by a co-worker's negligence and was also underpaid. How is the
+    dispute split?
+  options:
+    - >-
+      Everything to the labour court, since it arises at work.
+    - >-
+      Wages to the labour court; the tort claim to a civil court by value.
+    - >-
+      Everything to the magistrates' court, since a tort is involved.
+    - >-
+      Everything to the small claims court, to save fees.
+  correct: 1
+  explanation: >-
+    Section 24(א)(1) gives the labour court employment claims but excludes claims based on the
+    Civil Wrongs Ordinance, which go to the general courts.
+- id: m01-063
+  module: 1
+  lesson: "01.7"
+  subject: free-help-choice
+  difficulty: 2
+  question: >-
+    Which free help fits a self-represented person's National Insurance claim best?
+  options:
+    - >-
+      The Public Defender, which handles all claims against public bodies.
+    - >-
+      The court registry, which drafts claims for unrepresented parties.
+    - >-
+      Legal Aid, which lists National Insurance matters without a means test.
+    - >-
+      The Judicial Ombudsman, which assists people with benefit claims.
+  correct: 2
+  explanation: >-
+    Legal Aid covers National Insurance matters, listed without a means test. The Public
+    Defender handles criminal matters; registries do not draft.
+- id: m01-064
+  module: 1
+  lesson: "01.7"
+  subject: non-lawyer-help
+  difficulty: 2
+  question: >-
+    A neighbour offers free, one-time help preparing your documents for your own small claim.
+    What may she do?
+  options:
+    - >-
+      Sign and file the claim in her own name on your behalf.
+    - >-
+      Argue for you without asking the court, since she is unpaid.
+    - >-
+      Nothing at all, since any help with legal papers is reserved.
+    - >-
+      Help you prepare; with leave she might represent you under s. 63(ב).
+  correct: 3
+  explanation: >-
+    Free, non-occupational help is not barred by s. 20; representation in small claims needs the
+    court's approval under s. 63(ב).
