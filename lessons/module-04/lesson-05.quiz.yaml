@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You slipped on a wet supermarket floor that had no warning sign, but you were reading your phone
+    while walking. The court finds the shop negligent. What is the most likely effect of your
+    inattention?
+  options:
+    - >-
+      Your claim fails entirely, because a careless plaintiff cannot recover in tort.
+    - >-
+      Your damages are reduced by a share reflecting your responsibility under s. 68.
+    - >-
+      Nothing, because the shop's breach was of a statutory duty, which excludes contributory fault.
+    - >-
+      The shop pays double, because it should have expected inattentive customers.
+  correct: 1
+  explanation: >-
+    Section 68(א) keeps the claim alive and reduces damages by the plaintiff's share of responsibility;
+    the court records the full figure first (s. 68(ב)).
+- id: q2
+  question: >-
+    A pipe in your wall was damaged by a contractor in 2017, but the leak appeared and was discovered
+    only in 2024. When does the seven-year period start?
+  options:
+    - >-
+      In 2017, because the contractor's act happened then and discovery is irrelevant.
+    - >-
+      When the contractor's company is dissolved, whenever that happens.
+    - >-
+      In 2024, when the damage was discovered, subject to the ten-year cap from when it occurred.
+    - >-
+      When you send the first demand letter, which starts all limitation periods.
+  correct: 2
+  explanation: >-
+    Civil Wrongs Ordinance s. 89(2): undiscovered damage counts from discovery, but the claim is
+    barred ten years after the damage occurred. A demand letter does not start or stop limitation.
+- id: q3
+  question: >-
+    You are sued over a car accident that happened nine years ago. You file a defence about the facts
+    and only months later remember limitation. What is the risk?
+  options:
+    - >-
+      Limitation may be lost, because it must be raised at the first opportunity.
+    - >-
+      None, because the court must dismiss time-barred claims on its own initiative.
+    - >-
+      None, because limitation can be raised for the first time on appeal.
+    - >-
+      The claim is cancelled anyway, because the right itself expired after seven years.
+  correct: 0
+  explanation: >-
+    Prescription Law s. 3: the court will not consider limitation unless the defendant raised it at the
+    first opportunity after the claim was filed. Limitation also bars the court from hearing the claim
+    rather than cancelling the right (s. 2).
+- id: q4
+  question: >-
+    A man who attacked you was found not criminally responsible because of mental illness. You sue him
+    in tort. What will the court ask, following Carmi v. Sabag?
+  options:
+    - >-
+      Whether he understood the wrongfulness of his act, as in the criminal insanity test.
+    - >-
+      Whether he was convicted, since tort liability depends on a criminal conviction.
+    - >-
+      Whether he had insurance, because only insured defendants can be liable.
+    - >-
+      Whether he lacked any control over his actions; insanity alone is no defence.
+  correct: 3
+  explanation: >-
+    Carmi v. Sabag held that tort law does not adopt the criminal insanity defence; only a lack of
+    control over one's actions, as in automatism, can exempt the defendant.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are a passenger in your neighbour's car when a speeding bus hits it. You break your leg. From
+    whom do you claim compensation for your injury?
+  options:
+    - >-
+      The bus company, in negligence, because its driver was at fault.
+    - >-
+      The bus's compulsory insurer, because the bus caused the accident.
+    - >-
+      The compulsory insurer of your neighbour's car, the vehicle you were in.
+    - >-
+      Karnit, because two vehicles were involved.
+  correct: 2
+  explanation: >-
+    Section 3(א): in a multi-vehicle accident each driver is liable for those travelling in his own
+    vehicle, regardless of fault; s. 8 excludes a negligence claim for bodily injury.
+- id: q2
+  question: >-
+    A pedestrian crossed against a red light and was hit by a car. The driver's insurer says her
+    compensation must be reduced by 50% for contributory fault. Is that right?
+  options:
+    - >-
+      Yes; s. 68 of the Ordinance applies to every tort, including road accidents.
+    - >-
+      No; liability under the 1975 Law is absolute, whatever her fault.
+    - >-
+      Yes; but only if the police filed a report against the pedestrian.
+    - >-
+      No; but she must claim from Karnit rather than the insurer.
+  correct: 1
+  explanation: >-
+    Section 2(ד) makes liability absolute and complete, whatever the fault or contributory fault of
+    others. Contributory fault does not reduce road-accident compensation for bodily injury.
+- id: q3
+  question: >-
+    You were hit by a car that drove off and was never identified. Your medical bills are piling up.
+    What is the correct route?
+  options:
+    - >-
+      A claim against Karnit, the fund that pays when the driver is unknown.
+    - >-
+      Nothing can be done until the police identify the driver.
+    - >-
+      A claim against your own health fund in negligence for not treating you free.
+    - >-
+      A claim against the municipality for failing to install cameras.
+  correct: 0
+  explanation: >-
+    Section 12(א)(1): Karnit compensates an entitled victim who cannot claim from an insurer because
+    the responsible driver is unknown. Report the accident to the police; the report is key evidence.
+- id: q4
+  question: >-
+    Two weeks after your accident, you have ₪3,000 of physiotherapy receipts and lost wages. What can
+    you ask the compulsory insurer for now, before the claim is settled?
+  options:
+    - >-
+      Nothing; insurers pay only after a final judgment.
+    - >-
+      Only a loan, repaid from the final award with interest.
+    - >-
+      A lump-sum advance equal to the whole expected compensation.
+    - >-
+      Interim payments, due within 60 days of a written demand.
+  correct: 3
+  explanation: >-
+    Section 5 requires interim payments for medical expenses and living needs within 60 days of a
+    written demand; if not paid, you may apply to the magistrates' court (s. 5א).

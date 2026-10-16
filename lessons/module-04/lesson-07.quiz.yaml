@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A municipal inspector, while issuing a parking ticket, carelessly drives the municipal scooter over
+    your foot. Whom should you sue?
+  options:
+    - >-
+      The inspector personally, since he is the one who acted carelessly.
+    - >-
+      The municipality; a public servant is immune for acts in his governmental role.
+    - >-
+      Nobody; municipalities are immune from tort claims for their inspectors.
+    - >-
+      The Ministry of Interior, which supervises all municipalities.
+  correct: 1
+  explanation: >-
+    Section 7א gives the public servant personal immunity for acts in his governmental function (absent
+    intent or indifference to harm), while the authority remains liable (s. 7א(ב)).
+- id: q2
+  question: >-
+    You hired a licensed electrician, an independent contractor, to fix your wiring. He negligently
+    starts a fire that damages your neighbour's flat. When can the neighbour hold you liable?
+  options:
+    - >-
+      Always, because whoever orders the work is liable for anything done on his property.
+    - >-
+      Never, because only employers can ever be liable for another's tort.
+    - >-
+      Only if an exception in s. 15 applies, such as a negligent choice.
+    - >-
+      Only if the electrician has no insurance of his own.
+  correct: 2
+  explanation: >-
+    Section 15 exempts a person who hired an independent contractor, except in five situations such as
+    negligence in choosing him, interference, authorisation, a statutory duty, or unlawful work.
+- id: q3
+  question: >-
+    A surgeon performs a procedure competently but never explains a known risk, which then occurs. The
+    patient would probably have agreed anyway. Following Daaka, what may the patient recover?
+  options:
+    - >-
+      Compensation for violation of autonomy, as a separate head of damage.
+    - >-
+      Full compensation for the physical harm, because consent was defective.
+    - >-
+      Nothing, since the procedure was competent and the patient would have agreed.
+    - >-
+      Only a refund of the surgeon's fee, because consent is a contractual matter.
+  correct: 0
+  explanation: >-
+    In Daaka there was no causal link to the physical harm because the patient would have agreed, but
+    the Court compensated the violation of her autonomy as a separate head of damage.
+- id: q4
+  question: >-
+    A shop's employee damaged your car in the car park. The shop has a third-party liability policy but
+    ignores your letters. What does s. 68 of the Insurance Contract Law let you do?
+  options:
+    - >-
+      Nothing, because only the insured shop can claim under its own policy.
+    - >-
+      Demand payment from the insurer only after a final judgment against the shop.
+    - >-
+      Ask the Capital Market Authority to pay you from a public fund.
+    - >-
+      Demand that the insurer pay you directly what it owes the shop for this liability.
+  correct: 3
+  explanation: >-
+    Under s. 68 a liability insurer must, at the third party's demand, pay it the insurance money owed to
+    the insured, after 30 days' notice to the insured; the insurer keeps its defences.

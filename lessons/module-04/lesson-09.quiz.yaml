@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your small company's delivery van was damaged by a negligent driver; the repair cost is well under
+    the small-claims ceiling. Can the company sue in small claims court?
+  options:
+    - >-
+      Yes, because the amount is under the ceiling.
+    - >-
+      Yes, if the company's director files the claim personally.
+    - >-
+      No; the small claims court hears claims filed by individuals only.
+    - >-
+      No; property damage claims always go to the district court.
+  correct: 2
+  explanation: >-
+    Courts Law s. 60(א) limits small claims to claims filed by an individual (יחיד). The company may sue
+    in the magistrates' court; it may be sued in small claims.
+- id: q2
+  question: >-
+    You live in Haifa. A Tel Aviv company's truck damaged your car in Eilat. Where may you file?
+  options:
+    - >-
+      In Eilat or in Tel Aviv, not in Haifa.
+    - >-
+      Only in Haifa, where you live.
+    - >-
+      Anywhere in Israel, since small claims have no venue rules.
+    - >-
+      Only in Jerusalem, the seat of the Supreme Court.
+  correct: 0
+  explanation: >-
+    Reg. 2(א) allows the court of the defendant's home or business or of the place of the act or
+    omission. The plaintiff's home counts only for claims about publication or trade on the internet
+    (reg. 2(ב)).
+- id: q3
+  question: >-
+    Which statement of claim meets the 2025 requirements of reg. 3?
+  options:
+    - >-
+      Eight pages of facts, documents to be brought to the hearing.
+    - >-
+      A claim with no list of witnesses, because the judge will ask who is coming.
+    - >-
+      A one-paragraph claim with the amount, leaving details for the hearing.
+    - >-
+      Three pages with exhibits, document and witness lists, and a signed declaration.
+  correct: 3
+  explanation: >-
+    Reg. 3(ג)–(ה): the body must list documents and witnesses and other items, the documents and a
+    declaration of truth must be attached, and the body may not exceed five pages.
+- id: q4
+  question: >-
+    You are unhappy with a small-claims judgment given today in a case opened in 2026. What is your
+    deadline to seek leave to appeal?
+  options:
+    - >-
+      Seven days, the same as the time the court has to give judgment.
+    - >-
+      Thirty days from the judgment, under reg. 16(א).
+    - >-
+      Forty-five days, as for appeals from the magistrates' court.
+    - >-
+      There is no route; small-claims judgments are final.
+  correct: 1
+  explanation: >-
+    For proceedings opened from 11.4.2025, reg. 16(א) sets 30 days for an application for leave to
+    appeal to the district court. There is no appeal as of right.

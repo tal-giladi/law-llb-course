@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A bar opens below your flat and plays loud music until 3 a.m. every night. You want the music to
+    stop after 11 p.m. Where should you file?
+  options:
+    - >-
+      Small claims court, which can order the bar to lower the volume.
+    - >-
+      The magistrates' court, which can grant an injunction for nuisance.
+    - >-
+      The district court, because nuisance is always a land matter.
+    - >-
+      Nowhere; you moved in after the bar opened, so you have no claim.
+  correct: 1
+  explanation: >-
+    Small claims court can award money but not stop a nuisance; an injunction claim goes to the
+    magistrates' court. Coming to the nuisance is no defence (s. 46).
+- id: q2
+  question: >-
+    An employer fitted a machine guard used throughout the industry, but a worker was still injured
+    because the guard did not secure the dangerous part. Under breach of statutory duty, what matters
+    most?
+  options:
+    - >-
+      Whether the employer followed the usual practice of the industry.
+    - >-
+      Whether the worker was careful when cleaning the machine.
+    - >-
+      Whether the statutory duty to secure the machine was actually performed.
+    - >-
+      Whether the worker reported the risk in writing before the accident.
+  correct: 2
+  explanation: >-
+    In Atia v. Rosenbaum the duty under the Factories Ordinance was absolute; common practice did not
+    discharge it. Contributory fault may reduce damages but is a separate question.
+- id: q3
+  question: >-
+    A guard stands in front of the only door of a small office and tells you that you cannot leave
+    until the manager comes, which takes 30 minutes. No force is used. Is this false imprisonment?
+  options:
+    - >-
+      Yes, absent lawful authority; an appearance of authority is enough.
+    - >-
+      No, because the tort requires physical force against the body.
+    - >-
+      No, because the tort requires a detention of at least several hours.
+    - >-
+      Only if you can show a financial loss caused by the 30 minutes.
+  correct: 0
+  explanation: >-
+    Section 26 covers total, unlawful deprivation of liberty "for any time", by physical means or an
+    appearance of authority. No financial loss is required.
+- id: q4
+  question: >-
+    You want to sue a restaurant for letting customers smoke near your children. Which element of
+    breach of statutory duty must you show besides the breach itself?
+  options:
+    - >-
+      That the restaurant intended to harm you and your children.
+    - >-
+      That the police had already fined the restaurant for the breach.
+    - >-
+      That the restaurant had been warned about the law in writing.
+    - >-
+      That the law protects people like you from harm of the kind you suffered.
+  correct: 3
+  explanation: >-
+    Section 63 requires a duty in an enactment meant to protect the plaintiff's class, breach, damage,
+    causation and damage of the kind the law aims to prevent. Intent, prior fines or warnings are not
+    elements.

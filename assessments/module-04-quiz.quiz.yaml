@@ -1,0 +1,177 @@
+- id: q1
+  question: >-
+    A neighbour's air-conditioner compressor, installed under your window, runs all night at a level
+    the municipality measured as above the noise regulations. You want it moved and compensation for
+    months of poor sleep. Which plan is best?
+  options:
+    - >-
+      A small claim for an order to move the compressor, since the amount is low.
+    - >-
+      A magistrates' court claim in nuisance for an injunction and damages.
+    - >-
+      A criminal complaint only, since noise above the regulations is an offence, not a tort.
+    - >-
+      No claim, because the neighbour installed it on his own property.
+  correct: 1
+  explanation: >-
+    Private nuisance (s. 44) and breach of a noise regulation (s. 63) fit; an injunction requires the
+    magistrates' court, because small claims court gives money, not orders to stop a nuisance.
+- id: q2
+  question: >-
+    A shop's glass door shatters as you push it normally, cutting your hand. You do not know why it
+    shattered; the shop installed and maintains it. The shop says you must prove what went wrong. How
+    do you answer?
+  options:
+    - >-
+      Concede; the plaintiff always carries the full burden of proving negligence.
+    - >-
+      Argue that glass doors are wild animals under s. 40, so liability is strict.
+    - >-
+      Ask the court to appoint a criminal investigator to find the cause.
+    - >-
+      Plead s. 41: the door was in the shop's full control and the cause was unknown to you.
+  correct: 3
+  explanation: >-
+    Res ipsa loquitur (s. 41) shifts the burden to the defendant when the plaintiff could not know the
+    cause, the property was in the defendant's full control, and the event fits negligence better than
+    care.
+- id: q3
+  question: >-
+    You claim ₪12,000 after a pipe burst in the flat above. Your list includes a ₪3,000 "upgrade" to a
+    better parquet than you had, and ₪1,000 for "stress". What should you do before filing?
+  options:
+    - >-
+      Remove both items and claim documented fair value only.
+    - >-
+      Keep everything; the court will reduce what it does not accept.
+    - >-
+      Double the stress item, because pain and suffering are always compensated.
+    - >-
+      Replace the list with a single round figure to avoid arguments about each item.
+  correct: 0
+  explanation: >-
+    Damages restore the loss, not upgrade it; ordinary distress in a property case is not a separate
+    head; pecuniary items need particulars (s. 76(2)). Inflated items damage credibility.
+- id: q4
+  question: >-
+    Your daughter was injured at age 10 in 2019 by a negligently maintained playground. It is now 2026.
+    The municipality says the claim is time-barred after seven years. Is it?
+  options:
+    - >-
+      Yes; seven years from the accident ended in 2026.
+    - >-
+      Yes; claims against municipalities have a two-year period.
+    - >-
+      No; time before she turns 18 is not counted.
+    - >-
+      No; personal-injury claims have no limitation period.
+  correct: 2
+  explanation: >-
+    Prescription Law s. 10 excludes the time before the plaintiff turns 18 from the limitation period.
+    The seven years begin at her 18th birthday.
+- id: q5
+  question: >-
+    You ride as a passenger with a friend who has a valid licence and insurance. A van runs a stop sign
+    and hits you. You break your arm. What do you do about your injury?
+  options:
+    - >-
+      Sue the van driver in negligence, because he was clearly at fault.
+    - >-
+      Claim from the compulsory insurer of your friend's car under the 1975 Law.
+    - >-
+      Claim from Karnit, because the van driver's fault excludes his insurer.
+    - >-
+      Claim from your own health fund, which recovers from the van later.
+  correct: 1
+  explanation: >-
+    Under the road-accidents Law liability is absolute (s. 2); each driver is liable for those in his own
+    vehicle (s. 3(א)); a negligence claim for bodily injury is excluded (s. 8).
+- id: q6
+  question: >-
+    A municipal garbage-truck driver, on his route, carelessly knocks down your fence. Whom do you
+    name as defendant?
+  options:
+    - >-
+      The driver personally, because tort liability follows the person who acted.
+    - >-
+      The Ministry of Interior, as supervisor of local authorities.
+    - >-
+      The waste-collection union, as the driver's representative.
+    - >-
+      The municipality, which answers for its employee's act in the course of work.
+  correct: 3
+  explanation: >-
+    Under s. 7א a public servant performing a governmental function is personally immune (absent intent
+    or indifference to harm), and the authority is liable; s. 13 makes the employer liable for acts in
+    the course of employment.
+- id: q7
+  question: >-
+    A surgeon competently removes a cyst, but never explained a 5% risk of nerve damage, which occurs.
+    You would probably have consented anyway. What is your strongest claim?
+  options:
+    - >-
+      Compensation for violation of autonomy, because informed consent was not obtained.
+    - >-
+      Full compensation for the nerve damage, because any undisclosed risk shifts all liability.
+    - >-
+      A refund of the fee only, because consent is purely contractual.
+    - >-
+      Nothing, because a competent operation can never give rise to liability.
+  correct: 0
+  explanation: >-
+    Following Daaka, failure to obtain informed consent is compensable as violation of autonomy even
+    when there is no causal link to the physical harm because the patient would have agreed.
+- id: q8
+  question: >-
+    A doctor's delay reduced your father's chance of recovery from 40% to 25%. He did not recover. In an
+    individual claim after Malul, what must the family show to win compensation for the outcome?
+  options:
+    - >-
+      Only that the doctor was negligent; causation is presumed in medical cases.
+    - >-
+      That the loss of chance was at least 10%, which is always compensated proportionally.
+    - >-
+      That it is more likely than not that the delay caused the bad outcome.
+    - >-
+      That the hospital has a history of similar delays with other patients.
+  correct: 2
+  explanation: >-
+    Malul kept the balance-of-probabilities rule for individual plaintiffs; proportional liability is
+    limited to recurring-distortion cases, so the test for an individual claim remains more likely than
+    not.
+- id: q9
+  question: >-
+    A building contractor's crane drops a load on your parked car. The contractor ignores your demand
+    letter. You know which company insures the site's third-party liability. What can you do?
+  options:
+    - >-
+      Nothing against the insurer; only the contractor can claim under its policy.
+    - >-
+      Demand payment directly from the insurer under s. 68, and name it as a defendant too.
+    - >-
+      Complain to the Capital Market Authority, which will pay you and recover from the insurer.
+    - >-
+      Wait for the contractor to file its own insurance claim before you do anything.
+  correct: 1
+  explanation: >-
+    Insurance Contract Law s. 68: a liability insurer must, at the third party's demand, pay the third
+    party what it owes the insured, after 30 days' notice to the insured; you may sue it with the
+    contractor.
+- id: q10
+  question: >-
+    You are preparing a small claim for ₪6,000 of car damage against a company. Which draft is ready to
+    file under the 2025 rules?
+  options:
+    - >-
+      Seven pages of facts, with the receipts to be shown at the hearing.
+    - >-
+      A claim filed in your home town's court, far from the event and the company's offices.
+    - >-
+      A claim signed by your adult son on your behalf, since he wrote it.
+    - >-
+      Two pages, with exhibits, required lists and a signed declaration.
+  correct: 3
+  explanation: >-
+    Reg. 3 requires these items and limits the body to five pages; reg. 2(א) sets the venue by the
+    defendant's location or the place of the event; representation by others needs the court's leave
+    (Courts Law s. 63).

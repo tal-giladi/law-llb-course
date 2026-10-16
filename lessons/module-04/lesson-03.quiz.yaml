@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    A doctor delayed a test. Experts agree the delay gave a 30% chance of having caused your harm, and
+    the harm was otherwise caused by your underlying illness. After Malul, what is the likely result of
+    your individual claim?
+  options:
+    - >-
+      You recover 30% of your damages, because loss of a chance is always compensated.
+    - >-
+      You recover in full, because any increase in risk proves causation.
+    - >-
+      You recover nothing, because causation was not shown on the balance of probabilities.
+    - >-
+      The hospital must prove the delay did not cause the harm, under s. 41.
+  correct: 2
+  explanation: >-
+    The further hearing in Malul kept the all-or-nothing balance-of-probabilities rule for single
+    plaintiffs; proportional liability is limited to recurring-distortion cases involving an actual
+    group of plaintiffs.
+- id: q2
+  question: >-
+    Your car, parked with all doors locked, is hit by a delivery van whose driver was texting. The van
+    company argues that heavy traffic that day was "one of the causes". Under s. 64, does that defeat
+    your claim?
+  options:
+    - >-
+      No; fault need only be the cause or one of the causes, and traffic is not a decisive cause.
+    - >-
+      Yes; once another cause exists, the plaintiff must show the driver was the only cause.
+    - >-
+      Yes; heavy traffic is an unusual natural event that no reasonable person can foresee.
+    - >-
+      No; but you recover only half, because two causes split the damage equally.
+  correct: 0
+  explanation: >-
+    Section 64 attributes damage to fault that was "the cause or one of the causes". Ordinary traffic
+    is neither an unusual natural event (s. 64(1)) nor another person's decisive fault (s. 64(2)).
+- id: q3
+  question: >-
+    You claim ₪9,000 for water damage but attach no quotes or receipts, writing only "estimated total".
+    What is the main risk?
+  options:
+    - >-
+      The court will double the amount as a penalty for the neighbour's negligence.
+    - >-
+      Pecuniary damage without particulars may be rejected under s. 76(2).
+    - >-
+      The claim will be moved automatically to the district court.
+    - >-
+      The court will award the full amount, since small claims need no evidence.
+  correct: 1
+  explanation: >-
+    Section 76(2) compensates pecuniary damage only if its particulars are given in or with the claim.
+    An itemised table with documents is essential even in small claims.
+- id: q4
+  question: >-
+    Your brother is badly injured by a negligent driver. You are very upset for several weeks but
+    function normally. Can you claim for your own distress?
+  options:
+    - >-
+      Yes; any relative may claim for any emotional reaction to a loved one's injury.
+    - >-
+      Yes; but only if you witnessed the accident with your own eyes.
+    - >-
+      No; mental harm is never compensated in Israeli tort law.
+    - >-
+      Unlikely; Alsoucha covers severe mental harm, not ordinary distress.
+  correct: 3
+  explanation: >-
+    Alsoucha limits secondary-victim claims mainly to first-degree relatives and to severe, substantial
+    mental reactions; passing grief and upset are not compensated. Witnessing the accident is not a
+    separate requirement.

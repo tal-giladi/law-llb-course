@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A stranger walks across your private garden without permission but causes no damage at all. You
+    want compensation under the Civil Wrongs Ordinance. What is the main obstacle?
+  options:
+    - >-
+      Trespass to land is not a tort unless the trespasser entered by force.
+    - >-
+      Trespass to land is a tort, but compensation requires proof of pecuniary damage.
+    - >-
+      Only the police may act against a trespasser, not the owner.
+    - >-
+      Trespass claims belong to the rabbinical or Sharia courts, not civil courts.
+  correct: 1
+  explanation: >-
+    Section 29 defines trespass to land as unlawful entry or interference, but adds that no damages
+    are recoverable unless the plaintiff suffered pecuniary damage. An injunction may still be
+    possible.
+- id: q2
+  question: >-
+    A neighbour's dog bites your daughter in the stairwell. The neighbour says the dog has never bitten
+    anyone and he was always careful. Which provision helps you most?
+  options:
+    - >-
+      Section 35, because you must show the owner acted unlike a reasonable person.
+    - >-
+      Section 4, because a single bite is a trivial act that is not a tort.
+    - >-
+      Section 41א, which makes the owner liable for bodily injury without proof of negligence.
+    - >-
+      Section 40, which applies only to wild animals and so excludes dogs.
+  correct: 2
+  explanation: >-
+    Section 41א imposes liability on a dog's owner or regular keeper for bodily injury regardless of
+    negligence; s. 41ב allows only narrow defences such as provocation or trespass.
+- id: q3
+  question: >-
+    A law declares that a certain kind of misleading conduct "is a tort". A consumer sues but never saw
+    the misleading statement. Following Barazani v. Bezeq, what is the likely result?
+  options:
+    - >-
+      The claim fails, because the Ordinance's general rules, including causation and damage, apply.
+    - >-
+      The claim succeeds, because breach of a consumer statute is enough without further proof.
+    - >-
+      The claim succeeds, but only as a class action, never as an individual claim.
+    - >-
+      The claim fails, because statutory torts can be enforced only by a regulator.
+  correct: 0
+  explanation: >-
+    In Barazani the majority held that a statutory tort brings in the Ordinance's general rules; a
+    consumer who was not exposed to the advertisement could not show a causal link to any damage.
+- id: q4
+  question: >-
+    A forklift driver employed by a workshop damages your wall during work. Whom should your claim name
+    as defendant?
+  options:
+    - >-
+      Only the driver, because tort liability is always personal.
+    - >-
+      Only the workshop's insurer, because insurers are the only proper defendants in tort.
+    - >-
+      Only the municipality, because it licensed the workshop.
+    - >-
+      The workshop as employer under s. 13, and the driver too if you wish.
+  correct: 3
+  explanation: >-
+    Section 13 makes an employer liable for an employee's act in the course of employment, and s. 16
+    keeps the employee's own liability. Suing the employer avoids a judgment that cannot be collected.

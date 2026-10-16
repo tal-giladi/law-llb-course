@@ -19,7 +19,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 1 — Israeli Law: Sources, Courts and the Legal System
 - [x] Module 2 — Legal Research and Writing
 - [x] Module 3 — Contract Law
-- [ ] Module 4 — Tort Law
+- [x] Module 4 — Tort Law
 - [ ] Module 5 — Criminal Law
 - [ ] Module 6 — Constitutional Law
 - [ ] Module 7 — Legislation and Regulation
@@ -38,7 +38,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 ## Now working
 
 - Module 5: sub-agent A
-- Module 4: sub-agent B
+- Module 6: sub-agent B
 
 ## Decisions and open questions
 

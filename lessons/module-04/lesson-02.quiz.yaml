@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A lift in an office building suddenly drops two floors and you are hurt. You have no idea why it
+    happened; the building company maintains and controls the lift. What should your claim plead?
+  options:
+    - >-
+      That s. 41 applies, so the company must prove it was not negligent.
+    - >-
+      That lifts are dangerous animals under s. 40, so liability is strict.
+    - >-
+      That you must first hire an engineer to prove the exact mechanical cause.
+    - >-
+      That the company is liable without any defence because the lift is a public nuisance.
+  correct: 0
+  explanation: >-
+    Res ipsa loquitur (s. 41): you could not know the cause, the lift was under the defendant's full
+    control, and a sudden drop fits negligence better than care, so the burden shifts.
+- id: q2
+  question: >-
+    Which question belongs to the notional duty stage rather than the concrete duty stage?
+  options:
+    - >-
+      Could this pedestrian, on this street, at night, have been foreseen to trip on this slab?
+    - >-
+      Was the slab raised by three centimetres or by five on the day of the fall?
+    - >-
+      Should a sponsor, as a matter of policy, ever owe a rider a duty to insure him?
+    - >-
+      Did the municipality receive a hotline report about this slab before the fall?
+  correct: 2
+  explanation: >-
+    The notional duty asks whether a class of defendants owes a class of plaintiffs a duty for a
+    type of harm, a policy question (as in Yerushalmi v. Polaris). The other options are concrete
+    foreseeability or breach facts.
+- id: q3
+  question: >-
+    A bus company argues that it cannot be liable for a passenger beaten by strangers at its station,
+    because the attack was a crime by third parties. After Wallace v. Egged, how will a court approach
+    this?
+  options:
+    - >-
+      It will strike out the claim, because a third party's crime always breaks the chain.
+    - >-
+      It will decide on evidence whether the attack was foreseeable and whether policy requires precautions.
+    - >-
+      It will hold the company strictly liable, because stations are dangerous things under s. 38.
+    - >-
+      It will send the case to the criminal court, which alone decides third-party crimes.
+  correct: 1
+  explanation: >-
+    Wallace v. Egged reversed a strike-out: a spontaneous crime does not automatically exclude tort
+    liability; foreseeability and policy are decided on the facts.
+- id: q4
+  question: >-
+    A physiotherapist's treatment injures your shoulder. What standard measures whether she was
+    careless?
+  options:
+    - >-
+      What an ordinary person with no training would have done in her place.
+    - >-
+      Whether she followed the instructions you gave her during the treatment.
+    - >-
+      Whether the treatment succeeded, since a bad outcome proves carelessness.
+    - >-
+      The skill and care of a reasonable, competent physiotherapist in the same circumstances.
+  correct: 3
+  explanation: >-
+    Section 35 measures professionals against a reasonable and competent member of the same
+    profession. A bad outcome alone does not prove breach.

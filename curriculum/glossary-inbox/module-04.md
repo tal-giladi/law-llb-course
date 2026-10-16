@@ -1,0 +1,42 @@
+- **דיני נזיקין** (Dinei nezikin) — Tort law.
+- **עוולה** (Avla) — A tort, civil wrong; in Israel, one of the wrongs listed in the Civil Wrongs Ordinance or created by another statute.
+- **פקודת הנזיקין [נוסח חדש]** (Pkudat hanezikin) — The Civil Wrongs Ordinance [New Version], the main tort statute (Mandate 1944, re-enacted 1968).
+- **מעוול** (Me'avel) — Tortfeasor, wrongdoer.
+- **מעוולים יחד** (Me'avlim yachad) — Joint tortfeasors, liable jointly and severally (s. 11).
+- **נזק** (Nezek) — Damage, broadly defined in s. 2 of the Ordinance (life, property, comfort, welfare, reputation).
+- **נזק ממון** (Nezek mamon) — Pecuniary damage: actual loss or expense that can be valued in money and particularised.
+- **רשלנות** (Rashlanut) — Negligence: careless conduct towards someone owed a duty, causing damage (ss. 35–36).
+- **חובת זהירות מושגית** (Chovat zehirut musagit) — Notional duty of care: whether a class of defendants owes a class of plaintiffs a duty for a type of harm.
+- **חובת זהירות קונקרטית** (Chovat zehirut konkretit) — Concrete duty of care: whether this plaintiff's harm was foreseeable in these circumstances.
+- **אדם סביר ונבון** (Adam savir venavon) — The reasonable and prudent person, the standard of care.
+- **הדבר מעיד על עצמו** (Hadavar me'id al atzmo) — Res ipsa loquitur; shifts the burden of proving no negligence to the defendant (s. 41).
+- **קשר סיבתי** (Kesher sibati) — Causation, factual (but-for) and legal.
+- **גורם זר מתערב** (Gorem zar mitarev) — Intervening cause that may break the causal chain.
+- **כאב וסבל** (Ke'ev vesevel) — Pain and suffering, a head of non-pecuniary damage.
+- **נפגע משני** (Nifga mishni) — Secondary victim: a relative who suffers mental harm because of another's injury.
+- **הסגת גבול** (Hasagat gvul) — Trespass, to land (s. 29) or to goods (s. 31).
+- **מיטרד ליחיד** (Mitrad leyachid) — Private nuisance: substantial interference with reasonable use or enjoyment of land (s. 44).
+- **מיטרד לציבור** (Mitrad latzibur) — Public nuisance (s. 42).
+- **תקיפה** (Tkifa) — Assault, including battery (s. 23).
+- **כליאת שווא** (Kli'at shav) — False imprisonment (s. 26).
+- **גזל** (Gezel) — Conversion of goods (s. 52).
+- **הפרת חובה חקוקה** (Hafarat chova chakuka) — Breach of statutory duty (s. 63).
+- **הסתכנות מרצון** (Histaknut miratzon) — Voluntary assumption of risk (s. 5).
+- **אשם תורם** (Asham torem) — Contributory fault, reducing damages (s. 68).
+- **תניית פטור** (Tniyat ptor) — Exemption clause.
+- **התיישנות שלא מדעת** (Hityashnut shelo mida'at) — Limitation running only from discovery of the facts (Prescription Law s. 8).
+- **תאונת דרכים** (Te'unat drachim) — Road accident: bodily injury from use of a motor vehicle for transport (1975 Law s. 1).
+- **ביטוח חובה** (Bituach chova) — Compulsory motor insurance covering liability for bodily injury.
+- **ייחוד העילה** (Yichud ha'ila) — Exclusivity of the road-accident claim; no negligence claim for bodily injury (s. 8).
+- **קרנית** (Karnit) — The fund that compensates road-accident victims when no insurer can pay.
+- **תשלום תכוף** (Tashlum tachuf) — Interim payment under the road-accidents Law (s. 5).
+- **אחריות שילוחית** (Achrayut shilucheet) — Vicarious liability of an employer or principal.
+- **חסינות עובד ציבור** (Chasinut oved tzibur) — A public servant's personal immunity for governmental acts (Ordinance s. 7א).
+- **פעולה מלחמתית** (Pe'ula milchamtit) — Combat action, for which the state is not liable in tort (State Liability Law s. 5).
+- **הסכמה מדעת** (Haskama mida'at) — Informed consent.
+- **פגיעה באוטונומיה** (Pgi'a ba'otonomya) — Violation of autonomy, a head of damage recognised in Daaka.
+- **ביטוח אחריות** (Bituach achrayut) — Liability insurance; the injured third party may claim directly (Insurance Contract Law s. 68).
+- **תגמולי ביטוח** (Tagmulei bituach) — Insurance proceeds.
+- **שמאי** (Shamai) — Loss adjuster, assessor.
+- **בית משפט לתביעות קטנות** (Beit mishpat letvi'ot ktanot) — Small claims court.
+- **הכרעה על יסוד הכתב** (Hachra'a al yesod haktav) — Decision on the written record (small claims reg. 13(ג)).

@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You phoned your home insurer the day after a burglary and were told "an adjuster will call". Three
+    months later nothing has happened. What is the most useful next step?
+  options:
+    - >-
+      Wait; the insurer's duties start only once its adjuster has visited.
+    - >-
+      Send a written claim with documents, so the insurer's statutory duties start running.
+    - >-
+      File a complaint with the police against the insurer for delay.
+    - >-
+      Cancel the policy, which entitles you to a refund of three months' premium.
+  correct: 1
+  explanation: >-
+    Insurance Contract Law s. 23(א) ties the duty to investigate to a notice and a written claim, and
+    s. 27 counts payment from when the insurer has the documents it needs.
+- id: q2
+  question: >-
+    A tree from your neighbour's garden fell on your car in 2023. Your neighbour has home insurance with
+    third-party cover. It is now 2026 and the insurer keeps saying it is "still investigating". What
+    date matters most?
+  options:
+    - >-
+      Three years from the event, the insurance-claim limitation.
+    - >-
+      None; limitation does not run while an insurer is investigating.
+    - >-
+      The date the neighbour renews his policy, which restarts all periods.
+    - >-
+      Seven years from the event, which is the only period for any claim.
+  correct: 0
+  explanation: >-
+    A claim for insurance proceeds is barred three years after the insured event (s. 31); the tort claim
+    against the neighbour has the general seven-year period. Investigation does not suspend either.
+- id: q3
+  question: >-
+    Which demand letter is most likely to get a store chain's insurer to pay for damage caused by the
+    store's forklift driver?
+  options:
+    - >-
+      A letter to the driver at his home demanding that he pay personally within 48 hours.
+    - >-
+      A letter to the store manager describing how upset you are and asking for an apology.
+    - >-
+      A letter to head office naming the driver's act, s. 13, an itemised claim and asking for the insurer.
+    - >-
+      A letter threatening to publish the driver's name on social media unless paid.
+  correct: 2
+  explanation: >-
+    The employer answers for acts in the course of work (s. 13) and is usually insured; an itemised
+    demand with a date and a request for the insurer's details moves the claim. Public shaming risks a
+    defamation claim.
+- id: q4
+  question: >-
+    You were a passenger injured in a road accident and have medical receipts. What should your first
+    written document to the compulsory insurer include?
+  options:
+    - >-
+      A claim in negligence against the at-fault driver, with a copy to his insurer.
+    - >-
+      A request that the insurer decide who was at fault before paying anything.
+    - >-
+      A complaint to the Capital Market Authority, which must approve every road-accident claim.
+    - >-
+      A claim with documents and a demand for interim payments under s. 5, then diary day 60.
+  correct: 3
+  explanation: >-
+    Under the 1975 Law fault is irrelevant and negligence claims are excluded (ss. 2, 8). Section 5
+    requires interim payments within 60 days of a written demand.

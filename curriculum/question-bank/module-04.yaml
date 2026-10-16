@@ -1,0 +1,1430 @@
+- id: m04-001
+  module: 4
+  lesson: "04.1"
+  subject: ordinance-structure
+  difficulty: 1
+  question: >-
+    Which statement best describes the structure of Israeli tort law?
+  options:
+    - >-
+      A general clause that any harmful act is a tort, with no list of named torts at all.
+    - >-
+      A closed list of torts in the Ordinance, plus torts created by other statutes.
+    - >-
+      Torts are created only by Supreme Court precedent, never by any statute.
+    - >-
+      Each ministry publishes its own list of torts in regulations every year.
+  correct: 1
+  explanation: >-
+    Section 3 of the Civil Wrongs Ordinance makes the wrongs listed in it torts; other laws (defamation,
+    privacy, consumer protection) create further torts and apply the Ordinance's rules.
+- id: m04-002
+  module: 4
+  lesson: "04.1"
+  subject: damage-definition
+  difficulty: 1
+  question: >-
+    Under s. 2 of the Ordinance, which of these is "damage"?
+  options:
+    - >-
+      Only a loss that can be measured exactly in money and proved by receipts.
+    - >-
+      Only physical injury to the body, as confirmed by a medical certificate.
+    - >-
+      Loss of or reduction in life, property, comfort, welfare or reputation.
+    - >-
+      Only damage that a criminal court has already recognised in a conviction.
+  correct: 2
+  explanation: >-
+    Section 2 defines damage broadly; the narrower "pecuniary damage" is actual, quantifiable loss or
+    expense, required only for some torts.
+- id: m04-003
+  module: 4
+  lesson: "04.1"
+  subject: pecuniary-damage
+  difficulty: 2
+  question: >-
+    For which tort must you prove pecuniary damage to be awarded compensation?
+  options:
+    - >-
+      Trespass to land.
+    - >-
+      Assault.
+    - >-
+      False imprisonment.
+    - >-
+      Injury by a dog.
+  correct: 0
+  explanation: >-
+    Section 29 bars compensation for trespass to land unless the plaintiff suffered pecuniary damage.
+    Assault and false imprisonment are actionable without it; s. 41א concerns bodily injury.
+- id: m04-004
+  module: 4
+  lesson: "04.1"
+  subject: minors
+  difficulty: 1
+  question: >-
+    An 11-year-old throws a stone and breaks your window. Can you sue the child in tort?
+  options:
+    - >-
+      Yes, any minor can be sued for any tort he commits.
+    - >-
+      Yes, but only with the prior approval of the youth court.
+    - >-
+      Only after the child turns 18, when limitation starts.
+    - >-
+      No; there is no suit for a tort committed under age 12.
+  correct: 3
+  explanation: >-
+    Section 9(א) bars claims for torts committed before age 12. You may consider the parents' own
+    negligence in supervision, which is a separate question.
+- id: m04-005
+  module: 4
+  lesson: "04.1"
+  subject: statutory-torts
+  difficulty: 2
+  question: >-
+    A website publishes your private medical file without consent. Where is the tort you rely on?
+  options:
+    - >-
+      Section 35 of the Ordinance only, because privacy has no statutory tort.
+    - >-
+      The Privacy Protection Law, which makes invasion of privacy a civil wrong.
+    - >-
+      The Penal Law, which alone governs privacy and gives no civil remedy.
+    - >-
+      Nowhere; privacy can be protected only by filing a criminal complaint.
+  correct: 1
+  explanation: >-
+    Privacy Protection Law s. 4 declares invasion of privacy a civil wrong to which the Ordinance
+    applies, subject to that Law.
+- id: m04-006
+  module: 4
+  lesson: "04.1"
+  subject: joint-tortfeasors
+  difficulty: 2
+  question: >-
+    Two workers from different companies together damage your fence. How may you claim?
+  options:
+    - >-
+      Only half from each company, never the whole amount from one of them.
+    - >-
+      Only from whichever company's worker acted first on the day.
+    - >-
+      From either or both, for the whole damage, as joint tortfeasors.
+    - >-
+      Only from the workers personally, never from their employers.
+  correct: 2
+  explanation: >-
+    Section 11 makes joint tortfeasors liable jointly and severally; they may then claim contribution
+    from each other (s. 84). Employers remain liable under s. 13.
+- id: m04-007
+  module: 4
+  lesson: "04.1"
+  subject: contract-or-tort
+  difficulty: 3
+  question: >-
+    A garage you hired damaged your car's engine while servicing it. You win damages in a contract
+    claim. Can you then sue again in tort for the same damage?
+  options:
+    - >-
+      No; s. 77 prevents a second award for a breach that is also a tort.
+    - >-
+      Yes; contract and tort are separate, so both awards are simply added up.
+    - >-
+      Yes, but only in the small claims court and only for half the amount.
+    - >-
+      No; garages can never be sued in tort, only in contract.
+  correct: 0
+  explanation: >-
+    Section 77(ב)–(ג) prevents double recovery where the same breach is both a contract breach and a
+    tort and damages were already awarded. Plead in the alternative instead.
+- id: m04-008
+  module: 4
+  lesson: "04.1"
+  subject: barazani
+  difficulty: 3
+  question: >-
+    A statute declares that misleading a consumer is a tort. A consumer who never saw the misleading
+    advert sues. Which ruling is most relevant, and why?
+  options:
+    - >-
+      Hammer v. Amit, because it abolished all claims by consumers who were not misled.
+    - >-
+      Atia v. Rosenbaum, because it made every statutory duty absolute and actionable.
+    - >-
+      Daaka v. Carmel Hospital, because informed consent also covers advertising.
+    - >-
+      Barazani v. Bezeq, because the Ordinance's causation rules apply to it.
+  correct: 3
+  explanation: >-
+    In Barazani the majority held that a statutory tort brings in the Ordinance's general rules; a
+    consumer not exposed to the advert could not show causation.
+- id: m04-009
+  module: 4
+  lesson: "04.2"
+  subject: negligence-elements
+  difficulty: 1
+  question: >-
+    What are the elements of the tort of negligence?
+  options:
+    - >-
+      Intent to harm, conduct, and damage.
+    - >-
+      Duty of care, breach, damage, causation.
+    - >-
+      A contract, its breach and written notice.
+    - >-
+      A criminal conviction and proof of damage.
+  correct: 1
+  explanation: >-
+    Sections 35–36 combine careless conduct, a duty towards the plaintiff, and damage caused by the
+    careless conduct.
+- id: m04-010
+  module: 4
+  lesson: "04.2"
+  subject: duty-stages
+  difficulty: 2
+  question: >-
+    Which question belongs to the concrete duty of care?
+  options:
+    - >-
+      Should builders ever owe a duty to future buyers for pure economic loss?
+    - >-
+      Should the law recognise a duty of parents towards their own children?
+    - >-
+      Could a reasonable shop owner foresee this customer slipping on this spill?
+    - >-
+      Should public authorities owe duties for their policy decisions at all?
+  correct: 2
+  explanation: >-
+    The concrete duty asks whether this plaintiff's harm was foreseeable in these circumstances. The
+    other options are notional (policy) questions about classes of cases.
+- id: m04-011
+  module: 4
+  lesson: "04.2"
+  subject: reasonable-person
+  difficulty: 2
+  question: >-
+    A court decides whether a municipality was careless in not fixing a raised paving slab. Which factor
+    is least relevant?
+  options:
+    - >-
+      Whether the plaintiff is a resident of that municipality.
+    - >-
+      Whether the municipality had received a report about the slab.
+    - >-
+      How likely a fall would be and how serious its results.
+    - >-
+      How costly and practical it was to mark or repair the slab.
+  correct: 0
+  explanation: >-
+    Breach weighs likelihood and severity of harm against the cost of precautions, and knowledge of the
+    hazard. The duty is owed to every foreseeable pedestrian, resident or not (s. 36).
+- id: m04-012
+  module: 4
+  lesson: "04.2"
+  subject: res-ipsa
+  difficulty: 1
+  question: >-
+    Which is NOT a condition for shifting the burden under s. 41 (res ipsa loquitur)?
+  options:
+    - >-
+      You could not know what actually caused the event.
+    - >-
+      The damage was caused by property under the defendant's full control.
+    - >-
+      The event fits negligence better than it fits reasonable care.
+    - >-
+      The defendant was convicted of an offence for the event.
+  correct: 3
+  explanation: >-
+    Section 41 has three conditions: lack of knowledge, full control, and an event more consistent with
+    negligence. A conviction is not required.
+- id: m04-013
+  module: 4
+  lesson: "04.2"
+  subject: fire
+  difficulty: 2
+  question: >-
+    A fire that started in your neighbour's yard spreads to your shed. What does s. 39 do for you?
+  options:
+    - >-
+      Nothing, because a fire is always treated as an act of God in tort law.
+    - >-
+      Once you show the fire came from his land, he must prove no negligence.
+    - >-
+      It makes him strictly liable, with no defence available to him at all.
+    - >-
+      It requires you to prove exactly how and where the fire first started.
+  correct: 1
+  explanation: >-
+    Section 39 shifts the burden to the occupier of the land from which the fire came, or whoever lit
+    it, to prove no negligence about its origin or spread.
+- id: m04-014
+  module: 4
+  lesson: "04.2"
+  subject: third-party-crime
+  difficulty: 3
+  question: >-
+    You were robbed in a poorly lit underground car park of a shopping mall where several robberies
+    had been reported. The mall says crime is the robber's responsibility. Your best argument?
+  options:
+    - >-
+      Robbers on the premises count as the mall's employees under s. 13.
+    - >-
+      The mall is strictly liable for every crime committed on its land.
+    - >-
+      Earlier robberies made the risk foreseeable and called for precautions.
+    - >-
+      The robbery was an unusual natural event that s. 64(1) attributes to the mall.
+  correct: 2
+  explanation: >-
+    Following Wallace v. Egged, a third party's crime does not automatically exclude liability;
+    foreseeability (here, prior incidents) and policy decide whether precautions were required.
+- id: m04-015
+  module: 4
+  lesson: "04.2"
+  subject: pure-economic-loss
+  difficulty: 3
+  question: >-
+    Your business partner did not buy accident insurance for you before a joint trip, though no law
+    required it and you never asked. You were injured. Following Yerushalmi v. Polaris, is he liable in
+    negligence for your uninsured loss?
+  options:
+    - >-
+      Probably not, absent a special relationship or your reliance on him.
+    - >-
+      Yes, because partners in a venture always owe each other a duty to insure.
+    - >-
+      Yes, because any foreseeable loss automatically creates a duty of care.
+    - >-
+      Only if he had taken out insurance for himself and not for you.
+  correct: 0
+  explanation: >-
+    Yerushalmi held that, as a rule, one party to a joint venture has no duty in negligence to insure the
+    other, unless there is a special relationship or reliance.
+- id: m04-016
+  module: 4
+  lesson: "04.2"
+  subject: trespasser
+  difficulty: 2
+  question: >-
+    A burglar falls through a rotten floor while breaking into a warehouse. Is the owner liable for the
+    floor's condition?
+  options:
+    - >-
+      Yes, because the duty in s. 36 is owed to everyone without exception.
+    - >-
+      Yes, if the floor was more than ten years old at the time of the fall.
+    - >-
+      Only if the burglar was under 18, because minors are always protected.
+    - >-
+      Generally no; s. 37 limits the duty towards trespassers.
+  correct: 3
+  explanation: >-
+    Section 37: the occupier's liability for the condition of land does not extend to a trespasser
+    unless he proves he entered in good faith without intent to commit an offence or a tort.
+- id: m04-017
+  module: 4
+  lesson: "04.3"
+  subject: but-for
+  difficulty: 1
+  question: >-
+    What does the "but-for" test ask?
+  options:
+    - >-
+      Whether the defendant intended to cause the harm he caused.
+    - >-
+      Whether the harm would have happened without the fault.
+    - >-
+      Whether the defendant was insured on the day of the harm.
+    - >-
+      Whether the harm was reported to the police at the time.
+  correct: 1
+  explanation: >-
+    Factual causation asks whether, without the fault, the damage would still have happened. If yes,
+    there is no causation.
+- id: m04-018
+  module: 4
+  lesson: "04.3"
+  subject: s64
+  difficulty: 2
+  question: >-
+    Which situation does s. 64 treat as breaking the link between the defendant's fault and the damage?
+  options:
+    - >-
+      Another cause also contributed a small part to the same damage.
+    - >-
+      The plaintiff had an unusually fragile skull or a prior weakness.
+    - >-
+      An unusual natural event no one could foresee or prevent.
+    - >-
+      The defendant did not personally foresee the full extent of the damage.
+  correct: 2
+  explanation: >-
+    Section 64(1) excludes damage caused by an unusual, unforeseeable, unpreventable natural event;
+    "one of the causes" is otherwise enough, and the thin-skull rule applies.
+- id: m04-019
+  module: 4
+  lesson: "04.3"
+  subject: malul
+  difficulty: 3
+  question: >-
+    When may an Israeli court award damages in proportion to the probability of causation after Malul?
+  options:
+    - >-
+      In narrow recurring-distortion cases with an actual group of plaintiffs.
+    - >-
+      In every medical case where the chance of causation is below 50%.
+    - >-
+      Whenever the defendant was grossly negligent, whatever the probability.
+    - >-
+      Never, because Malul abolished all probabilistic reasoning in tort.
+  correct: 0
+  explanation: >-
+    The majority in the further hearing kept the balance-of-probabilities rule and confined proportional
+    liability to recurring-distortion cases with an actual group of plaintiffs.
+- id: m04-020
+  module: 4
+  lesson: "04.3"
+  subject: particulars
+  difficulty: 1
+  question: >-
+    What does s. 76(2) require for pecuniary damage?
+  options:
+    - >-
+      An assessor's report in every case, however small.
+    - >-
+      Proof that the defendant holds liability insurance.
+    - >-
+      A round total figure in the heading of the claim.
+    - >-
+      Particulars of the loss in or with the claim.
+  correct: 3
+  explanation: >-
+    Pecuniary damage is compensated only if its particulars are given in or attached to the statement of
+    claim; an itemised table with documents does this.
+- id: m04-021
+  module: 4
+  lesson: "04.3"
+  subject: own-insurance
+  difficulty: 2
+  question: >-
+    Your own home insurer paid part of the water damage. The neighbour says this must be deducted from
+    your tort damages. Is he right?
+  options:
+    - >-
+      Yes; you can never recover more than your uninsured loss from anyone at all.
+    - >-
+      No; s. 86 excludes insurance money, though your insurer may recover it.
+    - >-
+      Yes, but only if the policy was bought after the damage had happened.
+    - >-
+      No, because insurance money doubles the amount of your claim against him.
+  correct: 1
+  explanation: >-
+    Section 86 excludes insurance money from the assessment of tort damages. In practice the insurer
+    that paid you may claim from the wrongdoer, so you do not recover twice for the same item.
+- id: m04-022
+  module: 4
+  lesson: "04.3"
+  subject: lost-years
+  difficulty: 2
+  question: >-
+    A young man dies because of a tort. Following Ettinger, what can his estate claim for?
+  options:
+    - >-
+      Nothing for earnings, because a dead person can no longer work or earn.
+    - >-
+      Only funeral expenses, and nothing for any loss of future income.
+    - >-
+      Lost-years earning capacity, less what dependants get for those years.
+    - >-
+      Punitive damages, set as a fixed multiple of his salary at death.
+  correct: 2
+  explanation: >-
+    Ettinger recognised compensation for the lost years, passing to the estate, with a deduction to avoid
+    double recovery by dependants. Punitive damages were left open.
+- id: m04-023
+  module: 4
+  lesson: "04.3"
+  subject: secondary-victims
+  difficulty: 2
+  question: >-
+    Under the Alsoucha rule, who may usually claim for their own mental harm after a relative is badly
+    injured?
+  options:
+    - >-
+      First-degree relatives with a severe, substantial mental reaction.
+    - >-
+      Any friend or colleague who heard about the accident and was upset.
+    - >-
+      Only relatives who saw the accident happen with their own eyes.
+    - >-
+      Only relatives who missed work for at least a month afterwards.
+  correct: 0
+  explanation: >-
+    Alsoucha generally limits the duty to first-degree relatives and requires a severe and substantial
+    reaction; witnessing the accident is not required.
+- id: m04-024
+  module: 4
+  lesson: "04.3"
+  subject: mitigation
+  difficulty: 2
+  question: >-
+    Water leaks into your flat while you are home, and you leave it running for three weeks waiting
+    for the neighbour to pay. What happens to the extra damage?
+  options:
+    - >-
+      It is fully recoverable, since the neighbour caused the leak in the first place.
+    - >-
+      It is recoverable twice over, as a penalty for the neighbour's delay.
+    - >-
+      It can be recovered only in the district court, not in small claims.
+    - >-
+      The avoidable part is likely lost, because you failed to mitigate.
+  correct: 3
+  explanation: >-
+    A plaintiff who unreasonably lets damage grow does not recover the avoidable part. Shut the water,
+    document, and keep a mitigation log.
+- id: m04-025
+  module: 4
+  lesson: "04.3"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the main mistake in this claim table: "Ceiling repair ₪3,000 (quote); new kitchen (old one had
+    water marks) ₪45,000 (catalogue); stress ₪5,000; total ₪53,000."
+  options:
+    - >-
+      The ceiling item needs two quotes, so the whole claim fails without them.
+    - >-
+      The kitchen claims an upgrade, not the loss, and stress is no head here.
+    - >-
+      The claim should be stated in dollars, because the kitchen was imported.
+    - >-
+      The total should be rounded down to ₪50,000 for clarity and goodwill.
+  correct: 1
+  explanation: >-
+    Damages restore the loss: water marks do not justify a new kitchen, and ordinary distress is not a
+    separate head in a property claim. The inflated total also exceeds the small-claims ceiling.
+- id: m04-026
+  module: 4
+  lesson: "04.4"
+  subject: nuisance
+  difficulty: 1
+  question: >-
+    What makes interference a private nuisance under s. 44?
+  options:
+    - >-
+      Any noise at all coming from a neighbour's flat or business.
+    - >-
+      Substantial interference with reasonable enjoyment, given the place.
+    - >-
+      Any use of land carried on without a valid municipal permit.
+    - >-
+      Any interference that a neighbour has reported to the police.
+  correct: 1
+  explanation: >-
+    Section 44 requires substantial interference with reasonable use or enjoyment, judged by the place and
+    its character; damages require damage.
+- id: m04-027
+  module: 4
+  lesson: "04.4"
+  subject: nuisance-defence
+  difficulty: 2
+  question: >-
+    You bought a flat next to a bakery that runs loud machines at 4 a.m. The bakery says "you came to
+    the nuisance". Is that a defence?
+  options:
+    - >-
+      Yes, always, because buyers accept the nuisances that already exist.
+    - >-
+      Yes, if the bakery has operated there for more than five years.
+    - >-
+      No; under s. 46 the nuisance's prior existence alone is no defence.
+    - >-
+      No, because every bakery is a public nuisance by definition.
+  correct: 2
+  explanation: >-
+    Section 46 rejects the "coming to the nuisance" defence. The place and its character still matter in
+    deciding whether the interference is substantial.
+- id: m04-028
+  module: 4
+  lesson: "04.4"
+  subject: public-nuisance
+  difficulty: 2
+  question: >-
+    A company blocks a public footpath. Who may sue it for public nuisance?
+  options:
+    - >-
+      Any member of the public, without showing any loss of their own.
+    - >-
+      Only the Knesset Interior Committee, after a vote of its members.
+    - >-
+      Only the mayor personally, as head of the local authority.
+    - >-
+      The Attorney General, or a person who suffered pecuniary damage.
+  correct: 3
+  explanation: >-
+    Section 43 limits public-nuisance claims to the Attorney General (for an injunction) and persons who
+    suffered pecuniary damage.
+- id: m04-029
+  module: 4
+  lesson: "04.4"
+  subject: false-imprisonment
+  difficulty: 2
+  question: >-
+    A shop manager locks the only exit for ten minutes while checking whether you paid. You had. What
+    tort is most clearly committed?
+  options:
+    - >-
+      False imprisonment, a total unlawful restraint for any time.
+    - >-
+      Trespass to land, because you were standing on the shop's land.
+    - >-
+      Conversion, because ten minutes of your time were taken from you.
+    - >-
+      None, because ten minutes is too short to amount to any tort.
+  correct: 0
+  explanation: >-
+    Section 26 covers total unlawful deprivation of liberty "for any time"; no minimum duration or
+    financial loss is required.
+- id: m04-030
+  module: 4
+  lesson: "04.4"
+  subject: self-defence
+  difficulty: 2
+  question: >-
+    A stranger walks into your yard. Before using reasonable force to remove him, what does s. 24(2)
+    require if he did not enter by force?
+  options:
+    - >-
+      Nothing; you may remove him at once with whatever force is needed.
+    - >-
+      That you first call the police and wait for them to arrive.
+    - >-
+      That you first ask him to leave and give him a chance to go.
+    - >-
+      That you first photograph him so you have evidence for later.
+  correct: 2
+  explanation: >-
+    Section 24(2): where entry was not by force, the defence requires a prior request to leave and a
+    reasonable opportunity to comply peacefully.
+- id: m04-031
+  module: 4
+  lesson: "04.4"
+  subject: statutory-duty-elements
+  difficulty: 1
+  question: >-
+    Which is an element of breach of statutory duty under s. 63?
+  options:
+    - >-
+      The enactment must expressly mention a right to compensation.
+    - >-
+      The enactment was meant to protect a class including the plaintiff.
+    - >-
+      The defendant must already have been convicted under the enactment.
+    - >-
+      The duty must come from the Civil Wrongs Ordinance itself only.
+  correct: 1
+  explanation: >-
+    Section 63 covers duties in enactments other than the Ordinance, meant to protect the plaintiff or
+    a class including him, causing damage of the kind intended. No conviction is needed.
+- id: m04-032
+  module: 4
+  lesson: "04.4"
+  subject: atia
+  difficulty: 3
+  question: >-
+    A factory fenced a machine the way the whole industry does, but the fence did not actually secure
+    the dangerous part. A worker is injured. What did Atia v. Rosenbaum hold?
+  options:
+    - >-
+      The employer is not liable, because common practice is a complete defence.
+    - >-
+      The worker must sue only the machine's manufacturer, not his employer.
+    - >-
+      The claim must go to the labour court, because it is a wage dispute.
+    - >-
+      The statutory duty was absolute; common practice did not discharge it.
+  correct: 3
+  explanation: >-
+    The Supreme Court held the Factories Ordinance duty to secure dangerous machinery absolute; the usual
+    practice did not satisfy it where the worker was not in fact protected.
+- id: m04-033
+  module: 4
+  lesson: "04.4"
+  subject: conversion
+  difficulty: 1
+  question: >-
+    Your ex-flatmate keeps your guitar and refuses to return it. Which remedy can a court give in a
+    detention or conversion claim besides damages?
+  options:
+    - >-
+      An order to return the guitar.
+    - >-
+      Imprisonment of the flatmate.
+    - >-
+      A fine paid to the state.
+    - >-
+      A public apology in a newspaper.
+  correct: 0
+  explanation: >-
+    Sections 51 and 55 allow the court to order return of the detained or converted goods, in addition
+    to or instead of other remedies.
+- id: m04-034
+  module: 4
+  lesson: "04.4"
+  subject: forum-remedy
+  difficulty: 3
+  question: >-
+    Your neighbour built a fence 40 cm into your plot. You want it removed. Which forum and remedy?
+  options:
+    - >-
+      The small claims court, for an order that the fence be moved back.
+    - >-
+      The police, who must remove any fence built on another's land.
+    - >-
+      The magistrates' court, for a removal order and any damages.
+    - >-
+      The labour court, since the fence was built by hired workers.
+  correct: 2
+  explanation: >-
+    Removal is an injunction-type remedy for trespass to land; small claims court gives money, not such
+    orders. Land boundary disputes often justify advice.
+- id: m04-035
+  module: 4
+  lesson: "04.5"
+  subject: volenti
+  difficulty: 2
+  question: >-
+    Why does voluntary assumption of risk (s. 5) rarely succeed?
+  options:
+    - >-
+      Because the Knesset repealed it when the new version came into force in 1968.
+    - >-
+      Because it applies only to children under 12 and their guardians.
+    - >-
+      Because it applies only to road accidents and not to other torts.
+    - >-
+      Because courts read it narrowly: knowing a risk is not accepting it.
+  correct: 3
+  explanation: >-
+    Courts treat s. 5 narrowly, and arguments about the plaintiff's conduct usually become contributory
+    fault. It never applies to breach of statutory duty or to children under 12.
+- id: m04-036
+  module: 4
+  lesson: "04.5"
+  subject: statutory-authority
+  difficulty: 2
+  question: >-
+    A municipal worker acting under a statute damages your car while carrying out the work carelessly.
+    Does the statutory-authority defence in s. 6 protect the municipality?
+  options:
+    - >-
+      Yes, for any tort committed under a statute.
+    - >-
+      No; s. 6 does not cover negligence.
+    - >-
+      Yes, if the worker had a written order.
+    - >-
+      No, because municipalities have no statutes.
+  correct: 1
+  explanation: >-
+    Section 6 is a defence for torts "except negligence". Careless performance of authorised work remains
+    actionable.
+- id: m04-037
+  module: 4
+  lesson: "04.5"
+  subject: contributory-fault
+  difficulty: 2
+  question: >-
+    A court finds total damage of ₪20,000 and the plaintiff 25% at fault. What must the judgment
+    record, and what is paid?
+  options:
+    - >-
+      Only ₪15,000, without any mention of the full figure.
+    - >-
+      The full ₪20,000, and ₪15,000 paid after the cut.
+    - >-
+      Nothing is paid, because the plaintiff was partly at fault.
+    - >-
+      ₪20,000 paid, with the plaintiff's fault noted only for the record.
+  correct: 1
+  explanation: >-
+    Section 68(א) reduces damages by the plaintiff's share; s. 68(ב) requires the court to record the
+    full amount before the reduction.
+- id: m04-038
+  module: 4
+  lesson: "04.5"
+  subject: limitation-start
+  difficulty: 2
+  question: >-
+    Under s. 89 of the Ordinance, when does limitation start for a tort where the cause of action is
+    damage that was not discovered when it happened?
+  options:
+    - >-
+      On the date of the defendant's act, in every case without exception.
+    - >-
+      On the date you send your first demand letter to the defendant.
+    - >-
+      On discovery, but barred ten years after the damage occurred.
+    - >-
+      On the date the defendant admits fault in writing or in court.
+  correct: 2
+  explanation: >-
+    Section 89(2): damage not discovered when it occurred counts from discovery, with a ten-year cap
+    from the damage itself.
+- id: m04-039
+  module: 4
+  lesson: "04.5"
+  subject: acknowledgement
+  difficulty: 3
+  question: >-
+    Six years after an accident, the wrongdoer's insurer writes "we accept liability and will pay after
+    receiving receipts", then stops answering. What effect may the letter have?
+  options:
+    - >-
+      It may be a written acknowledgement that restarts the period.
+    - >-
+      None, because only a court judgment can affect a limitation period.
+    - >-
+      It shortens the remaining limitation period to a single year.
+    - >-
+      It cancels limitation entirely for this claim, for all time.
+  correct: 0
+  explanation: >-
+    Prescription Law s. 9: a written acknowledgement of the right restarts the period from the date of
+    the acknowledgement. Keep the letter.
+- id: m04-040
+  module: 4
+  lesson: "04.5"
+  subject: exemption-clause
+  difficulty: 3
+  question: >-
+    A ferry ticket says "the company is not liable for any injury, even if caused by negligence". A
+    passenger is poisoned by spoiled food. Following Zim v. Maziar, how is the clause likely treated?
+  options:
+    - >-
+      As a binding waiver, because the passenger accepted the ticket.
+    - >-
+      As valid only against passengers under the age of 18.
+    - >-
+      As valid if it was printed in bold on the front of the ticket.
+    - >-
+      As void, being against public policy for bodily harm.
+  correct: 3
+  explanation: >-
+    In Zim v. Maziar the Supreme Court held such an exemption clause void as against public policy; today
+    standard-contract and consumer law reinforce this.
+- id: m04-041
+  module: 4
+  lesson: "04.5"
+  subject: insanity
+  difficulty: 2
+  question: >-
+    What defence did Carmi v. Sabag recognise for a mentally ill defendant in tort?
+  options:
+    - >-
+      The criminal-law insanity defence, adopted in full into tort law.
+    - >-
+      Only lack of control over one's actions, as in automatism.
+    - >-
+      Any psychiatric diagnosis that existed at the time of the act.
+    - >-
+      A defence whenever the defendant was hospitalised afterwards.
+  correct: 1
+  explanation: >-
+    Carmi v. Sabag held that tort law does not adopt the criminal insanity test; only a total lack of
+    control over one's actions exempts.
+- id: m04-042
+  module: 4
+  lesson: "04.5"
+  subject: raise-limitation
+  difficulty: 1
+  question: >-
+    You are a defendant in a claim filed eight years after the event. When must you raise limitation?
+  options:
+    - >-
+      At the first opportunity, usually in your defence.
+    - >-
+      Only at the final hearing, after all evidence is heard.
+    - >-
+      Only on appeal, once the trial judgment has been given.
+    - >-
+      Never, because the court must always raise it on its own.
+  correct: 0
+  explanation: >-
+    Prescription Law s. 3: the court does not consider limitation unless the defendant raised it at the
+    first opportunity after the claim was filed.
+- id: m04-043
+  module: 4
+  lesson: "04.6"
+  subject: road-accident-definition
+  difficulty: 1
+  question: >-
+    Which event is a "road accident" under the 1975 Law?
+  options:
+    - >-
+      A car's paint is scratched in a car park, with no one injured.
+    - >-
+      A passenger is injured while getting out of a bus.
+    - >-
+      A shop worker is injured by a shelf falling in a warehouse.
+    - >-
+      A person is hurt by a deliberate punch inside a parked car.
+  correct: 1
+  explanation: >-
+    "Use" of a vehicle includes getting in and out; bodily injury from it is a road accident. Property
+    damage alone is not, and an intentional act whose harm did not come through the vehicle's use is
+    excluded.
+- id: m04-044
+  module: 4
+  lesson: "04.6"
+  subject: exclusivity
+  difficulty: 2
+  question: >-
+    A cyclist hit by a car sues the driver personally in negligence for his injuries. What happens?
+  options:
+    - >-
+      The claim succeeds, because negligence is the general tort for injuries.
+    - >-
+      The claim succeeds, but only if the driver was proved to be drunk.
+    - >-
+      It fails; the 1975 Law is exclusive for bodily injury.
+    - >-
+      The claim is transferred automatically to Karnit for payment.
+  correct: 2
+  explanation: >-
+    Section 8(א): a person with a claim under the 1975 Law has no claim under the Ordinance for bodily
+    injury, unless another person caused the accident intentionally.
+- id: m04-045
+  module: 4
+  lesson: "04.6"
+  subject: multi-vehicle
+  difficulty: 2
+  question: >-
+    A pedestrian is hit by two cars in the same accident. From whom may she claim?
+  options:
+    - >-
+      Only from the car that physically touched her first.
+    - >-
+      Only from the car whose driver was more at fault.
+    - >-
+      Only from Karnit, because two cars were involved.
+    - >-
+      From both drivers, jointly and severally.
+  correct: 3
+  explanation: >-
+    Section 3(ב): a person outside the vehicles may claim from all drivers involved, jointly and
+    severally; they share the burden equally among themselves.
+- id: m04-046
+  module: 4
+  lesson: "04.6"
+  subject: exclusions
+  difficulty: 2
+  question: >-
+    Which injured person is excluded from compensation under s. 7?
+  options:
+    - >-
+      A driver with no licence at all for the vehicle he drove.
+    - >-
+      A pedestrian who crossed the road against a red light.
+    - >-
+      A passenger who was not wearing a seatbelt at the time.
+    - >-
+      A driver whose licence lapsed only because the fee was unpaid.
+  correct: 0
+  explanation: >-
+    Section 7(3) excludes a driver without a licence, except one lapsed only for non-payment of the fee
+    or an execution-office restriction. Fault of pedestrians or passengers does not exclude them.
+- id: m04-047
+  module: 4
+  lesson: "04.6"
+  subject: karnit
+  difficulty: 1
+  question: >-
+    When does Karnit pay a road-accident victim?
+  options:
+    - >-
+      Whenever the victim prefers the fund to the vehicle's insurer.
+    - >-
+      When the driver is unknown or uninsured, or the insurer failed.
+    - >-
+      Only for road accidents that happened outside Israel.
+    - >-
+      Only for damage to vehicles, never for bodily injury.
+  correct: 1
+  explanation: >-
+    Section 12 lists the cases: unknown driver, no insurance or no cover, an insurer under a special
+    administrator, or in liquidation.
+- id: m04-048
+  module: 4
+  lesson: "04.6"
+  subject: interim-payments
+  difficulty: 2
+  question: >-
+    The compulsory insurer has not paid any interim payment 70 days after your written demand with
+    receipts. What can you do?
+  options:
+    - >-
+      Nothing until the main claim is finally decided.
+    - >-
+      Ask the magistrates' court for an interim payment.
+    - >-
+      Stop medical treatment until the insurer pays.
+    - >-
+      Sue the other driver in negligence instead.
+  correct: 1
+  explanation: >-
+    Section 5א lets the victim apply to the court for an interim payment when 60 days passed after the
+    demand without payment.
+- id: m04-049
+  module: 4
+  lesson: "04.6"
+  subject: lawyer-fees
+  difficulty: 3
+  question: >-
+    A lawyer settled your road-accident claim without court proceedings and took a fee well above the
+    percentage cap in s. 16. What is your remedy?
+  options:
+    - >-
+      None, because fee agreements are private contracts between the parties.
+    - >-
+      A complaint to Karnit, which then pays you the difference.
+    - >-
+      Recovery of the excess above the maximum tariff.
+    - >-
+      Cancellation of the whole settlement with the insurer.
+  correct: 2
+  explanation: >-
+    Section 16 caps the success fee (a lower cap without proceedings, a higher one with them) and entitles
+    whoever paid more to recover the excess.
+- id: m04-050
+  module: 4
+  lesson: "04.6"
+  subject: property-vs-body
+  difficulty: 3
+  question: >-
+    In one accident your car was badly damaged and you broke a finger. How do you claim?
+  options:
+    - >-
+      Both through the 1975 Law, from the compulsory insurer of your own car.
+    - >-
+      Both in negligence against the other driver, in one claim.
+    - >-
+      Both through Karnit, which handles mixed claims.
+    - >-
+      Finger under the 1975 Law; car in negligence.
+  correct: 3
+  explanation: >-
+    Bodily injury falls under the 1975 Law (the insurer of the vehicle you were in); property damage is an
+    ordinary negligence claim, usually against the other driver's property insurer.
+- id: m04-051
+  module: 4
+  lesson: "04.7"
+  subject: course-of-employment
+  difficulty: 2
+  question: >-
+    A delivery driver, during his shift, detours to visit his girlfriend and damages a car there. The
+    employer says this was not in the course of employment. What test applies?
+  options:
+    - >-
+      Whether he was doing his ordinary duties or acting for his own ends.
+    - >-
+      Whether the employer had liability insurance for its vehicles.
+    - >-
+      Whether the driver had a clean record before the incident.
+    - >-
+      Whether the damage was above or below the small-claims ceiling.
+  correct: 0
+  explanation: >-
+    Section 13(ב): an act in performing the employee's ordinary duties counts even if done improperly,
+    but not an act done for the employee's own purposes. A detour is a classic borderline case.
+- id: m04-052
+  module: 4
+  lesson: "04.7"
+  subject: independent-contractor
+  difficulty: 2
+  question: >-
+    Which situation makes you liable for your independent contractor's tort under s. 15?
+  options:
+    - >-
+      You paid the contractor in cash without a receipt.
+    - >-
+      The contractor worked on a public holiday without your consent.
+    - >-
+      You interfered in the work in a way that caused the harm.
+    - >-
+      The contractor is a close relative of yours.
+  correct: 2
+  explanation: >-
+    Section 15 lists the exceptions: negligent choice, interference causing the damage, authorising the
+    act, statutory responsibility for the work, or unlawful work.
+- id: m04-053
+  module: 4
+  lesson: "04.7"
+  subject: public-servant-immunity
+  difficulty: 2
+  question: >-
+    A police officer deliberately smashes your phone out of spite, not as part of any duty. Can you sue
+    him personally?
+  options:
+    - >-
+      No, because police officers are always immune from personal suits.
+    - >-
+      Only after the state agrees in writing to waive his immunity.
+    - >-
+      Only in the High Court of Justice, never in a civil court.
+    - >-
+      Yes; the immunity does not cover intentional harm.
+  correct: 3
+  explanation: >-
+    Section 7א(א) excludes from the immunity acts done knowingly with intent to cause damage or with
+    indifference to it.
+- id: m04-054
+  module: 4
+  lesson: "04.7"
+  subject: state-liability
+  difficulty: 1
+  question: >-
+    How does the State Liability Law treat the state in tort, as a starting point?
+  options:
+    - >-
+      Like any corporate body, except as the Law provides.
+    - >-
+      As completely immune from all tort claims by anyone.
+    - >-
+      As liable only for torts committed intentionally.
+    - >-
+      As liable only in the High Court of Justice.
+  correct: 0
+  explanation: >-
+    Section 2 of the State Liability Law equates the state with a corporate body for tort purposes, with
+    specific exceptions such as combat actions.
+- id: m04-055
+  module: 4
+  lesson: "04.7"
+  subject: adalah
+  difficulty: 3
+  question: >-
+    What did the Supreme Court decide in Adalah v. Minister of Defense (2006)?
+  options:
+    - >-
+      That the state is liable in tort for all combat actions of the army.
+    - >-
+      That a wide exemption for non-combat acts was unconstitutional.
+    - >-
+      That residents of the territories may never sue the state in tort.
+    - >-
+      That the State Liability Law as a whole is void and must be replaced.
+  correct: 1
+  explanation: >-
+    The Court struck down s. 5ג, added in 2005, because it exempted the state for torts unrelated to
+    combat; whether harm results from combat is decided case by case. The Law was amended again in 2012.
+- id: m04-056
+  module: 4
+  lesson: "04.7"
+  subject: area-notice
+  difficulty: 3
+  question: >-
+    Your property in Judea and Samaria was damaged by an IDF vehicle in a non-combat incident. Which
+    deadline do you check first?
+  options:
+    - >-
+      Seven years under the Prescription Law, and nothing shorter.
+    - >-
+      Thirty days to petition the High Court of Justice.
+    - >-
+      Notice within 60 days and a claim within two years (s. 5א).
+    - >-
+      Three years under the Insurance Contract Law.
+  correct: 2
+  explanation: >-
+    Section 5א of the State Liability Law requires written notice within 60 days and a claim within two
+    years, with limited extensions, for damage caused by the IDF in the Area.
+- id: m04-057
+  module: 4
+  lesson: "04.7"
+  subject: professional-standard
+  difficulty: 1
+  question: >-
+    Your accountant missed a filing deadline, causing a fine. By what standard is his conduct judged?
+  options:
+    - >-
+      A reasonable, competent accountant in his position.
+    - >-
+      What you, as a layperson, would have done yourself.
+    - >-
+      The best and most experienced accountant in the country.
+    - >-
+      Whether he charged a higher fee than his competitors.
+  correct: 0
+  explanation: >-
+    Section 35 measures a professional against a reasonable and competent member of the same profession.
+- id: m04-058
+  module: 4
+  lesson: "04.7"
+  subject: soldiers
+  difficulty: 2
+  question: >-
+    A soldier is injured during and because of his military service. Can he sue the state in tort?
+  options:
+    - >-
+      Yes, exactly like any other citizen injured by the state.
+    - >-
+      Yes, but only in the labour court and only for lost wages.
+    - >-
+      Only if he was a reservist rather than a conscript.
+    - >-
+      Generally no; the rehabilitation laws apply instead.
+  correct: 3
+  explanation: >-
+    Section 6 of the State Liability Law excludes tort liability for a soldier's injury during and due to
+    service; benefits come through the rehabilitation system.
+- id: m04-059
+  module: 4
+  lesson: "04.8"
+  subject: insurer-duties
+  difficulty: 1
+  question: >-
+    When does the insurer's duty to investigate its liability begin under s. 23?
+  options:
+    - >-
+      When it receives notice of the event and a written claim.
+    - >-
+      When the policy comes up for renewal after the event.
+    - >-
+      When the insured files a lawsuit against the insurer.
+    - >-
+      When one of its adjusters happens to become available.
+  correct: 0
+  explanation: >-
+    Section 23(א): once notice and a written claim are delivered, the insurer must immediately do what is
+    needed to establish its liability.
+- id: m04-060
+  module: 4
+  lesson: "04.8"
+  subject: undisputed-amounts
+  difficulty: 2
+  question: >-
+    The insurer agrees that at least ₪4,000 is owed but disputes the rest. When must it pay the ₪4,000?
+  options:
+    - >-
+      Only when the whole dispute is finally settled.
+    - >-
+      Within 30 days of the claim, being undisputed.
+    - >-
+      Within a year of the event, like any claim.
+    - >-
+      Only after a court judgment on the full claim.
+  correct: 1
+  explanation: >-
+    Section 27: amounts not disputed in good faith must be paid within 30 days of the claim and can be
+    claimed separately from the rest.
+- id: m04-061
+  module: 4
+  lesson: "04.8"
+  subject: insurance-limitation
+  difficulty: 1
+  question: >-
+    What is the general limitation period for a claim for insurance proceeds under a property policy?
+  options:
+    - >-
+      Seven years from the event.
+    - >-
+      One year from the event.
+    - >-
+      Three years from the event.
+    - >-
+      Ten years from the policy date.
+  correct: 2
+  explanation: >-
+    Insurance Contract Law s. 31: three years after the insured event; for life, health and long-term
+    care policies made or renewed from 25.11.2020, five years.
+- id: m04-062
+  module: 4
+  lesson: "04.8"
+  subject: spot-the-mistake-letter
+  difficulty: 3
+  question: >-
+    Spot the main weakness in this demand letter: "You ruined my car! Pay me ₪10,000 now or I will
+    destroy you on Facebook and sue you for a million."
+  options:
+    - >-
+      It should have been sent only by fax, never by email or mail.
+    - >-
+      It should have been written in English to be taken seriously.
+    - >-
+      It needed a lawyer's signature to have any legal effect at all.
+    - >-
+      No facts, basis, itemised sum or date; threats risk defamation.
+  correct: 3
+  explanation: >-
+    An effective demand letter states dated facts, the tort and the responsible party, an itemised
+    amount, a deadline and realistic next steps. Public shaming threats can expose you to liability.
+- id: m04-063
+  module: 4
+  lesson: "04.8"
+  subject: own-or-third-party-insurer
+  difficulty: 3
+  question: >-
+    Another driver clearly hit your parked car. Your own comprehensive policy has a large deductible.
+    Which route usually makes most sense first?
+  options:
+    - >-
+      Claim from the other driver's property insurer, and write to him.
+    - >-
+      Claim from your own insurer, which never affects your future premiums.
+    - >-
+      Claim from Karnit, which also covers damage to parked vehicles.
+    - >-
+      Claim under the 1975 Law from your own car's compulsory insurer.
+  correct: 0
+  explanation: >-
+    Property damage is a negligence claim; the other driver's property insurer pays without your
+    deductible. Karnit and the 1975 Law cover bodily injury only.
+- id: m04-064
+  module: 4
+  lesson: "04.9"
+  subject: small-claims-who
+  difficulty: 1
+  question: >-
+    Who may file a claim in the small claims court?
+  options:
+    - >-
+      Any company with fewer than ten employees.
+    - >-
+      An individual, for a sum up to the ceiling.
+    - >-
+      Only consumers who are suing companies.
+    - >-
+      Only people who have no lawyer anywhere.
+  correct: 1
+  explanation: >-
+    Courts Law s. 60(א): claims filed by an individual (יחיד) up to the linked ceiling; companies may be
+    sued but cannot sue there.
+- id: m04-065
+  module: 4
+  lesson: "04.9"
+  subject: small-claims-fee
+  difficulty: 1
+  question: >-
+    What is the filing fee in the small claims court under reg. 6?
+  options:
+    - >-
+      A flat fee equal to the magistrates' court fee.
+    - >-
+      No fee at all for individuals filing alone.
+    - >-
+      One per cent of the claim, with a minimum.
+    - >-
+      Ten per cent of the amount claimed.
+  correct: 2
+  explanation: >-
+    Reg. 6(א): a fee of 1% of the value of the claim, not less than a minimum, rounded up to a multiple of
+    five shekels. Current figures are on the course's numbers page.
+- id: m04-066
+  module: 4
+  lesson: "04.9"
+  subject: non-appearance
+  difficulty: 2
+  question: >-
+    You filed a small claim but did not come to the hearing; the defendant came. What happens under
+    reg. 11?
+  options:
+    - >-
+      The hearing is postponed automatically to a new date.
+    - >-
+      The court decides on your written claim alone.
+    - >-
+      Judgment is given in your favour by default.
+    - >-
+      The claim is dismissed.
+  correct: 3
+  explanation: >-
+    Reg. 11: if the defendant appears and the plaintiff does not, the claim is dismissed. If you had a
+    good reason, apply promptly to set the decision aside.
+- id: m04-067
+  module: 4
+  lesson: "04.9"
+  subject: representation
+  difficulty: 2
+  question: >-
+    Can a lawyer represent you in the small claims court?
+  options:
+    - >-
+      Only with the court's leave, for special reasons.
+    - >-
+      Always, exactly as in any other civil court.
+    - >-
+      Never, under any circumstances at all.
+    - >-
+      Only if the claim exceeds half the ceiling.
+  correct: 0
+  explanation: >-
+    Courts Law s. 63: representation by a lawyer only with the court's leave for special reasons; with
+    leave, also certain non-lawyers who do not represent regularly or for pay.
+- id: m04-068
+  module: 4
+  lesson: "04.9"
+  subject: defence-period
+  difficulty: 1
+  question: >-
+    How long does a defendant have to file a statement of defence in small claims?
+  options:
+    - >-
+      Seven days from the filing of the claim.
+    - >-
+      Thirty days from service of the summons.
+    - >-
+      Sixty days from the date of the hearing.
+    - >-
+      There is no defence document in small claims.
+  correct: 1
+  explanation: >-
+    Reg. 4(ב): the summons invites the defendant to file a defence within 30 days of service. Without a
+    defence the court may give judgment on the claim (reg. 10).
+- id: m04-069
+  module: 4
+  lesson: "04.9"
+  subject: spot-the-mistake-claim
+  difficulty: 3
+  question: >-
+    Spot the main problem in this small claim: filed by "Cohen Renovations Ltd" against a neighbour for
+    ₪8,000 of damage to the company's van, in the court of the company's accountant's town.
+  options:
+    - >-
+      The amount is too low for any court in Israel to hear.
+    - >-
+      Damage to vans can be claimed only from Karnit, not in court.
+    - >-
+      A company cannot sue there, and the venue breaks reg. 2.
+    - >-
+      Neighbours can be sued only before the condominium superintendent.
+  correct: 2
+  explanation: >-
+    Only individuals sue in small claims (s. 60(א)); venue follows the defendant's home or business or
+    the place of the event (reg. 2(א)), not the plaintiff's accountant.
+- id: m04-070
+  module: 4
+  lesson: "04.9"
+  subject: written-decision
+  difficulty: 2
+  question: >-
+    Under the 2025 amendments, what may the small claims court do in a suitable case?
+  options:
+    - >-
+      Decide on the written record, weighing the parties' wishes.
+    - >-
+      Refuse to hear any plaintiff who appears without a lawyer.
+    - >-
+      Decide without giving any reasons for its judgment at all.
+    - >-
+      Transfer every claim to mediation automatically before a hearing.
+  correct: 0
+  explanation: >-
+    Reg. 13(ג) allows a decision on the written record in suitable cases, weighing the parties'
+    preferences, power gaps and the evidence; judgments must be briefly reasoned (reg. 15).
