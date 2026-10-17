@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    Shira is fined under a by-law she believes is unjust to people with disabilities. In her written
+    defence, which framing is most likely to persuade an Israeli judge?
+  options:
+    - >-
+      Read in light of human dignity, the by-law's purpose does not require applying it to her case.
+    - >-
+      The by-law is not law at all, because an unjust law is a perversion of law.
+    - >-
+      The court should decide by its own sense of justice, since all law is politics.
+    - >-
+      The by-law should be ignored because most residents would oppose it if asked.
+  correct: 0
+  explanation: >-
+    Israeli courts do not refuse to apply laws because they are unjust, but they read rules in light of
+    purpose and Basic Law values. Carrying the moral point through interpretation is the effective channel.
+- id: q2
+  question: >-
+    A self-represented party relies on s. 1 of the Foundations of Law Act, arguing that "justice and
+    equity" require a ruling in his favour. The other side points to a statute and a binding Supreme
+    Court ruling on the issue. What is the main weakness of his argument?
+  options:
+    - >-
+      Section 1 applies only to criminal cases, not to civil disputes.
+    - >-
+      Section 1 was repealed in 2018 and replaced by a reference to Jewish law alone.
+    - >-
+      Section 1 applies only when legislation, precedent and analogy give no answer.
+    - >-
+      Section 1 may be invoked only by the State, not by private parties.
+  correct: 2
+  explanation: >-
+    The Act fills gaps. Where a statute or binding precedent answers the question there is no gap. The
+    2018 amendment added the words "Jewish law" to the principles; it did not repeal the section.
+- id: q3
+  question: >-
+    In a moot court, Daniel argues that the Supreme Court's power to review Basic Laws exists because
+    decades of official practice show it is part of Israel's rule of recognition. His opponent says no
+    written source confers the power. Which theory frames their dispute?
+  options:
+    - >-
+      Austin's, since both argue about whom the people habitually obey.
+    - >-
+      Hart's, since the dispute is about what officials' practice actually accepts as valid law.
+    - >-
+      Rawls's, since the dispute concerns the fair distribution of political power.
+    - >-
+      Holmes's, since both are predicting how the Court will rule in the next case.
+  correct: 1
+  explanation: >-
+    For Hart the rule of recognition is a social fact shown by official practice. Both sides in the
+    debate over HCJ 5658/23 used this framing, disagreeing about what the practice is.
+- id: q4
+  question: >-
+    An employer dismisses Avi under a contract clause allowing dismissal "without cause", the day after
+    he testified for a colleague in a harassment complaint. Avi wants to argue from principle. Which
+    argument is built correctly?
+  options:
+    - >-
+      The clause is unfair, so the court should rewrite the contract to protect employees.
+    - >-
+      Policy favours employees, so courts must always rule for them in dismissal cases.
+    - >-
+      Natural law forbids dismissal, so the clause is void whatever the statute says.
+    - >-
+      Good faith in using a right (s. 39) weighs against using the clause to retaliate.
+  correct: 3
+  explanation: >-
+    An argument from principle anchors the principle in law (s. 39 applies to exercising rights), shows
+    fit and weighs it against freedom of contract on these facts. It does not ask to rewrite the bargain.
+- id: q5
+  question: >-
+    Before suing an airline in the small-claims court, Mariam reads fifteen recent decisions on similar
+    cancellations and notes what moved the results. Which theory is she applying, and what is its limit?
+  options:
+    - >-
+      Natural law; its limit is that judges reject moral arguments in consumer cases.
+    - >-
+      Kelsen's pure theory; its limit is that it ignores who made the rules.
+    - >-
+      Legal realism; she may use the prediction to plan, but must still give the court legal reasons.
+    - >-
+      Dworkin's integrity; its limit is that small-claims courts do not consider principles.
+  correct: 2
+  explanation: >-
+    Realism treats law as a prediction of what courts do; a sample of decisions is its practical tool.
+    In court she still argues the statute and its purpose, not "this court usually rules for passengers".
+- id: q6
+  question: >-
+    A ministry gives support grants only to institutions that received them in previous years, under
+    criteria it never published. A new institution is refused. Which pair of arguments is strongest?
+  options:
+    - >-
+      Unpublished criteria breach the rule of law; s. 3א(ד) requires equal criteria.
+    - >-
+      The institution has a claim-right to a grant, and the refusal violates natural law.
+    - >-
+      The refusal is a political decision, and the courts never review budget allocations.
+    - >-
+      The ministry must give every applicant the same amount, whatever their activity.
+  correct: 0
+  explanation: >-
+    Publicity is one of Fuller's requirements, and the Foundations of Budget Law requires allocation by
+    egalitarian criteria. No applicant has a claim to a grant itself, and equal criteria do not mean
+    equal amounts.
+- id: q7
+  question: >-
+    In Barzilai (1986) the majority upheld a pardon granted before any trial; Justice Barak dissented.
+    Which description best captures the theoretical disagreement?
+  options:
+    - >-
+      Whether the President is a sovereign in Austin's sense who obeys no one.
+    - >-
+      Whether natural law forbids any pardon for security officials.
+    - >-
+      Whether the panel should have been enlarged under s. 26 of the Courts Law.
+    - >-
+      Text and practice against the view that no one may bypass criminal process.
+  correct: 3
+  explanation: >-
+    Shamgar relied on the text, practice and the Anglo-American model; Barak read the power as residual,
+    used after the criminal process, because otherwise the President would stand above the institutions
+    of criminal justice.
+- id: q8
+  question: >-
+    A student writes: "In Ka'adan the Court ended discrimination in land allocation." A critical
+    scholar and a supporter of Jewish settlement policy would each object. What is the fairest summary?
+  options:
+    - >-
+      Both would say the Court ordered the State to allocate the plot to the family immediately.
+    - >-
+      One stresses the cautious remedy; the other, that settlement aims were set aside.
+    - >-
+      Both would say the case concerned only the Jewish Agency's internal rules.
+    - >-
+      One says the Court applied natural law; the other that it applied Austin's theory.
+  correct: 1
+  explanation: >-
+    The Court held that nationality-based discrimination in allocating state land is unlawful but
+    ordered reconsideration "with appropriate speed", looking forward. Critics on both sides read the
+    same judgment in opposite ways.
+- id: q9
+  question: >-
+    In Ressler v. Knesset (2012) the majority held the Tal Law unconstitutional. Justice Grunis
+    dissented. Which statement fairly presents his position?
+  options:
+    - >-
+      He held that the law did achieve its purpose of increasing Haredi military service.
+    - >-
+      He held that equality is not part of human dignity under the Basic Law.
+    - >-
+      He held that courts should not review laws by which the majority grants a minority a benefit.
+    - >-
+      He held that the law should be struck down at once, with no transition.
+  correct: 2
+  explanation: >-
+    Grunis argued for restraint where the majority grants preferential treatment to a minority, and that
+    the court's ability to change the reality is limited. Arbel and Rivlin would have given more time.
+- id: q10
+  question: >-
+    You must analyse the further hearing in Nahmani for a seminar. Which method best follows the module's
+    approach?
+  options:
+    - >-
+      Map each opinion in four theory columns, then argue the other side.
+    - >-
+      Read the majority opinion only, since the minority does not state the law.
+    - >-
+      Choose the theory you prefer and show that it supports the majority's result.
+    - >-
+      Summarise the 1995 appeal judgment, since its reasoning is the binding precedent.
+  correct: 0
+  explanation: >-
+    The lab's method covers every major opinion in all four theories and ends with an argument for the
+    other side. The 1995 appeal was reversed, and minority opinions are essential to understand the debate.

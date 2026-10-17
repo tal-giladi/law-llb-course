@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Omer is fined under a municipal by-law banning food stalls on a boulevard. He believes the ban is
+    foolish. Which argument is a positivist challenge to the fine's validity?
+  options:
+    - >-
+      The ban harms small traders more than it helps residents, so it should not be applied.
+    - >-
+      The council made the ban outside the powers the Municipalities Ordinance gives it.
+    - >-
+      Most residents dislike the ban, so it lacks the community's support.
+    - >-
+      Other cities allow food stalls, so the ban is unreasonable by comparison.
+  correct: 1
+  explanation: >-
+    Positivism tests validity by source and authorisation. A by-law made outside s. 250 of the
+    Municipalities Ordinance, or another enabling power, is invalid however sensible; one inside it is
+    valid however foolish.
+- id: q2
+  question: >-
+    In Bank Mizrahi, President Barak said that Israel's "rule of recognition" gives the Knesset both
+    constituent and legislative authority. Whose theory was he applying, and what kind of claim was it?
+  options:
+    - >-
+      Kelsen's; a claim that a presupposed basic norm validates the Provisional Council of State.
+    - >-
+      Austin's; a claim that the Knesset is the sovereign the people habitually obey.
+    - >-
+      Dworkin's; a claim that the best moral reading of Israeli history requires a constitution.
+    - >-
+      Hart's; a claim about the shared practice of officials and the community, not about morality.
+  correct: 3
+  explanation: >-
+    Barak cited The Concept of Law: the rule of recognition is a social fact shown by official
+    practice. His separate "continuity" model used Kelsen's basic norm; Austin played no part.
+- id: q3
+  question: >-
+    A regulation exempts "agricultural vehicles" from a toll. Dalia drives a pickup truck used mostly
+    on her moshav's fields. On Hart's theory, what is the court doing when it decides her case?
+  options:
+    - >-
+      Exercising discretion in the penumbra of an open-textured term, guided by the rule's purpose.
+    - >-
+      Discovering the single right answer that the rule already contained before the case arose.
+    - >-
+      Applying a command of the sovereign that leaves no room for choice by the judge.
+    - >-
+      Declining to decide, since the rule does not clearly cover her truck either way.
+  correct: 0
+  explanation: >-
+    For Hart, a pickup used on fields is a borderline case of "agricultural vehicle". In the penumbra
+    the rule runs out and the judge must choose, in effect making law; Dworkin denies this (lesson 09.3).
+- id: q4
+  question: >-
+    An exam answer says: "Positivists believe every valid law is just, so they oppose criticising the
+    law." What is the best correction?
+  options:
+    - >-
+      Positivists hold that only just laws are valid, so criticism shows a law is invalid.
+    - >-
+      Positivists hold that criticism is a matter for the courts, never for citizens.
+    - >-
+      Positivists separate validity from merit, which leaves room to call a valid law unjust.
+    - >-
+      Positivists hold that a law becomes just once it is published in the official gazette.
+  correct: 2
+  explanation: >-
+    The separation thesis, in Austin's words "the existence of a law is one thing: its merits or
+    demerits are another thing", is meant to make moral criticism of valid law clearer, not to forbid it.

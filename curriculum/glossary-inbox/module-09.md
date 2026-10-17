@@ -1,0 +1,31 @@
+- **משפט הטבע** (Mishpat ha-teva) — Natural law: the view that law answers to standards of reason and justice, so that gross injustice is a defect in law.
+- **חוק בלתי צודק** (Hok bilti tsodek) — Unjust law; for Aquinas it does not bind in conscience, for Radbruch it loses its character as law only when its injustice is intolerable.
+- **טובת הכלל** (Tovat ha-klal) — The common good, the end that a just law serves (Aquinas, Finnis).
+- **עקרונות החירות, הצדק, היושר והשלום** (Ekronot ha-herut, ha-tsedek, ha-yosher ve-ha-shalom) — The principles of freedom, justice, equity and peace of Jewish law and Israel's heritage, by which courts fill true gaps (Foundations of Law Act 1980, s. 1).
+- **פקודה בלתי חוקית בעליל** (Pkuda bilti hukit be-alil) — Manifestly unlawful order; obedience to it is no defence (Penal Law s. 34יג(2); the "black flag" test of the Kafr Qasim trial).
+- **דגל שחור** (Degel shahor) — "Black flag": the image for an order whose illegality is obvious to any conscience.
+- **עקרונות על־חוקתיים** (Ekronot al-hukatiyim) — Supra-constitutional principles, such as a society's right to defend itself (Justice Sussman in Yeredor).
+- **דמוקרטיה מתגוננת** (Demokratya mitgonenet) — Defensive (militant) democracy, which may bar those who seek to destroy it.
+- **פוזיטיביזם משפטי** (Pozitivizm mishpati) — Legal positivism: the validity of law depends on its source, not its merit.
+- **הפרדה בין המשפט למוסר** (Hafrada bein ha-mishpat la-musar) — The separation thesis: whether a law exists and whether it is good are different questions (Austin).
+- **ריבון** (Ribon) — Sovereign; for Austin, the person or body habitually obeyed by most of society and obeying no one.
+- **הנורמה הבסיסית** (Ha-norma ha-basisit) — The basic norm (Grundnorm): Kelsen's presupposed norm at the top of the chain of validity.
+- **מדרג הנורמות** (Midrag ha-normot) — The hierarchy of norms: by-law, regulation, statute, Basic Law.
+- **כלל ההכרה** (Klal ha-hakara) — The rule of recognition: Hart's secondary rule, practised by officials, that identifies valid law.
+- **כללים ראשוניים ומשניים** (Klalim rishoniyim u-mishniyim) — Primary rules (duties) and secondary rules (recognition, change, adjudication) in Hart's theory.
+- **מרקם פתוח** (Mirkam patu'ah) — Open texture: the zone of doubtful cases (penumbra) around a rule's clear core.
+- **מקרה קשה** (Mikre kashe) — Hard case, where the rules do not clearly decide the outcome.
+- **כללים ועקרונות** (Klalim ve-ekronot) — Rules and principles; in Dworkin's account rules apply all or nothing, principles have weight.
+- **משפט כשלמות** (Mishpat ki-shlemut) — Law as integrity: the right legal answer is the one that best fits and justifies the community's legal practice (Dworkin).
+- **התאמה והצדקה** (Hat'ama ve-hatsdaka) — Fit and justification, the two dimensions of Dworkinian interpretation.
+- **ריאליזם משפטי** (Re'alizm mishpati) — Legal realism: law as a prediction of what courts will actually do.
+- **לימודי משפט ביקורתיים** (Limudei mishpat bikortiyim) — Critical legal studies: legal doctrine is indeterminate and law is a form of politics.
+- **פמיניזם משפטי** (Feminizm mishpati) — Feminist legal theory, which examines how law built on one group's experience treats women.
+- **שוויון מהותי** (Shivyon mahuti) — Substantive equality, as opposed to formal equality; the basis of affirmative action in Israel Women's Network (1994).
+- **אפליה מבנית** (Aflaya mivnit) — Structural (systemic) discrimination, which can operate without intent.
+- **צדק חלוקתי** (Tsedek halukati) — Distributive justice: how the State allocates benefits and burdens.
+- **צדק מתקן** (Tsedek metaken) — Corrective justice: how one party repairs a wrong done to another.
+- **מסך הבערות** (Masakh ha-ba'arut) — Veil of ignorance (Rawls): choosing principles of justice without knowing one's place in society.
+- **שלטון החוק הפורמלי / המהותי** (Shilton ha-hok ha-formali / ha-mahuti) — The formal (thin) and substantive (thick) conceptions of the rule of law.
+- **שוויון בנטל** (Shivyon ba-netel) — Equality in bearing the burden, central in Ressler v. Knesset (2012).
+- **הסכמה מתמשכת** (Haskama mitmashekhet) — Continuing consent, required at every stage of IVF on the minority view in Nahmani (1996).

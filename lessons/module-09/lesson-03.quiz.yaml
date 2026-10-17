@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Which feature, in Dworkin's account, distinguishes a principle such as "good faith" from a rule
+    such as a filing deadline?
+  options:
+    - >-
+      A principle applies only when no statute covers the case, while a rule applies at all times.
+    - >-
+      A principle is made by judges, while a rule is always enacted by the legislature.
+    - >-
+      A principle binds only the parties to a contract, while a rule binds everyone.
+    - >-
+      A principle has weight and can lose to another yet stay valid; a rule applies all or nothing.
+  correct: 3
+  explanation: >-
+    Rules settle a case when their conditions are met; principles give reasons that are weighed
+    against other principles. The losing principle remains part of the law for the next case.
+- id: q2
+  question: >-
+    A landlord ends a lease under a clause allowing termination "at any time", two weeks after the
+    tenant reported a fire hazard. Which argument best reflects Dworkin's view of the tenant's case?
+  options:
+    - >-
+      Section 39 makes good faith part of the law, so the right may not be exercised in bad faith here.
+    - >-
+      The clause is clear, so the judge may only decide the case by personal discretion.
+    - >-
+      The court should rewrite the lease to give the tenant a fixed term of several years.
+    - >-
+      Policy favours tenants, so the court should rule for the weaker party in every lease.
+  correct: 0
+  explanation: >-
+    For Dworkin the principle of good faith, anchored in s. 39 of the Contracts Law ("the same applies
+    to exercising a right"), is already law and weighs against the literal use of the clause. Rewriting
+    the bargain or relying on policy are not arguments from principle.
+- id: q3
+  question: >-
+    In Kol Ha'am (1953) the Court held that the Minister may suspend a newspaper only if a danger to the
+    public peace is probable, not merely possible. Why is this a classic example for Dworkin's theory?
+  options:
+    - >-
+      The Court applied an express free-speech rule from a written bill of rights.
+    - >-
+      The Court left the decision entirely to the Minister's political discretion.
+    - >-
+      The Court weighed free expression, drawn from democracy, against public peace.
+    - >-
+      The Court held that the Press Ordinance was void because it conflicted with natural law.
+  correct: 2
+  explanation: >-
+    There was no bill of rights. Agranat derived freedom of expression from Israel's democratic
+    character and the Declaration, and the probability test expresses how it weighs against public peace.
+- id: q4
+  question: >-
+    Hart's posthumous Postscript answered Dworkin. Which statement fairly summarises Hart's reply?
+  options:
+    - >-
+      Principles are never law, because only enacted rules can be identified by the rule of recognition.
+    - >-
+      Moral principles can be law, yet where law runs out judges still have discretion.
+    - >-
+      There is always one right answer, but only the legislature may say what it is.
+    - >-
+      Judges have no discretion at all, since every case is settled by existing rules.
+  correct: 1
+  explanation: >-
+    Hart accepted "soft" or inclusive positivism, in which moral criteria can be part of the test of
+    validity, while maintaining that the law sometimes runs out and the judge must then choose.

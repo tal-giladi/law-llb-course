@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A municipality refuses Noa's application for a cultural grant. She writes: "I have a right to this
+    grant." Using Hohfeld, what is the more precise and stronger claim?
+  options:
+    - >-
+      A liberty to receive public money, which the municipality has no right to stop.
+    - >-
+      A power to require the municipality to pay her whatever she asked for.
+    - >-
+      A claim to a decision by published, equal criteria, which it has a duty to apply.
+    - >-
+      An immunity from having her application examined by municipal officials.
+  correct: 2
+  explanation: >-
+    No applicant has a claim-right to a grant, but each has a claim that the authority allocate by
+    equal criteria (for state budgets, Foundations of Budget Law s. 3א(ד)), and the authority bears
+    the correlative duty.
+- id: q2
+  question: >-
+    Behind Rawls's veil of ignorance, a committee designs a rule for allocating public housing. Which
+    rule best fits Rawls's difference principle?
+  options:
+    - >-
+      Inequalities in allocation are acceptable only if they benefit the least advantaged.
+    - >-
+      Housing goes to whoever will produce the greatest total welfare for society.
+    - >-
+      Housing goes to those who acquired a claim to it through past transfers.
+    - >-
+      Housing is allocated by lottery, ignoring need, so that no one is favoured.
+  correct: 0
+  explanation: >-
+    Rawls permits social and economic inequalities only when they work to the greatest benefit of the
+    least advantaged, under fair equality of opportunity. The other options are utilitarian,
+    entitlement-based or a purely formal equality.
+- id: q3
+  question: >-
+    A ministry changes the eligibility rules for a benefit and applies the new rules to applications
+    already submitted, without publishing them. Which of Fuller's requirements are most clearly breached?
+  options:
+    - >-
+      Generality and the possibility of compliance.
+    - >-
+      Consistency between rules and their stability over time.
+    - >-
+      Clarity of wording and congruence with official action.
+    - >-
+      Publicity and prospectivity.
+  correct: 3
+  explanation: >-
+    Unpublished rules applied to earlier applications fail the requirements that rules be public and
+    prospective. These are formal rule-of-law defects with recognised legal consequences.
+- id: q4
+  question: >-
+    In Barzilai (1986), how did Justice Barak's dissent differ from President Shamgar's majority opinion?
+  options:
+    - >-
+      Barak held that the President has no power to pardon anyone at any stage.
+    - >-
+      Barak held that a pardon before conviction bypasses the criminal process and offends the rule of law.
+    - >-
+      Barak held that the petitioners lacked standing because they had no personal interest.
+    - >-
+      Barak held that the pardon was valid but the security officials must still be tried.
+  correct: 1
+  explanation: >-
+    Shamgar read the pardon power to cover the pre-conviction stage, relying on practice. Barak saw it
+    as a residual power used after the police, prosecution and courts act; the majority, not he,
+    broadened standing.

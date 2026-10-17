@@ -1,0 +1,1269 @@
+# Module 09 question bank (not imported). Feeds the daily practice tool.
+- id: m09-001
+  module: 9
+  lesson: "09.1"
+  subject: natural-law-core
+  difficulty: 1
+  question: >-
+    What is the central claim that unites natural-law theories of law?
+  options:
+    - >-
+      That law is whatever the sovereign commands and enforces.
+    - >-
+      That law is a prediction of what courts will do in fact.
+    - >-
+      That law answers to reason and justice, so gross injustice is a defect.
+    - >-
+      That law is valid only if a majority of citizens approve it.
+  correct: 2
+  explanation: >-
+    Natural-law theories hold that law is a rational standard for the common good, so a rule that
+    betrays that aim is defective as law. The other options describe Austin, realism and a popular-consent view.
+- id: m09-002
+  module: 9
+  lesson: "09.1"
+  subject: aquinas-tests
+  difficulty: 1
+  question: >-
+    Aquinas gave three tests for a just human law. Which list is correct?
+  options:
+    - >-
+      Its end, its author and its form.
+    - >-
+      Its text, its history and its purpose.
+    - >-
+      Its publicity, its clarity and its stability.
+    - >-
+      Its source, its sanction and its sovereign.
+  correct: 0
+  explanation: >-
+    A just law serves the common good (end), stays within the lawgiver's power (author) and shares
+    burdens proportionately (form). Publicity and clarity are Fuller's; source and sanction are Austin's.
+- id: m09-003
+  module: 9
+  lesson: "09.1"
+  subject: radbruch-formula
+  difficulty: 2
+  question: >-
+    A German court after 1990 refuses to accept a border guard's defence that East German law allowed
+    shooting people fleeing across the border. Which theory most directly supports the court?
+  options:
+    - >-
+      Austin's command theory, since the guard obeyed the sovereign of the time.
+    - >-
+      The Radbruch formula: a statute of intolerable injustice loses its character as law.
+    - >-
+      Holmes's prediction theory, since courts would in fact convict the guard.
+    - >-
+      Kelsen's pure theory, since the basic norm of East Germany remained valid.
+  correct: 1
+  explanation: >-
+    Radbruch held that statutes should normally be applied, but not when their injustice reaches an
+    intolerable degree. German courts used the formula in cases on Nazi-era and East German border laws.
+- id: m09-004
+  module: 9
+  lesson: "09.1"
+  subject: fuller-inner-morality
+  difficulty: 2
+  question: >-
+    Why is Lon Fuller usually called a "procedural" natural lawyer?
+  options:
+    - >-
+      Because he held that only laws passed by a fair parliamentary procedure are valid.
+    - >-
+      Because he believed courts should follow strict rules of civil procedure.
+    - >-
+      Because he denied that law has any connection with morality at all.
+    - >-
+      Because his "inner morality of law" is about form: generality, publicity and so on.
+  correct: 3
+  explanation: >-
+    Fuller's eight requirements are about the form of rules, not their content. A system that fails
+    them badly enough is not a legal system, which ties law to a kind of morality.
+- id: m09-005
+  module: 9
+  lesson: "09.1"
+  subject: foundations-of-law-act
+  difficulty: 1
+  question: >-
+    Since the 2018 amendment, s. 1 of the Foundations of Law Act refers to the principles of freedom,
+    justice, equity and peace of what?
+  options:
+    - >-
+      Of the Declaration of Independence and the United Nations Charter.
+    - >-
+      Of Jewish law and Israel's heritage.
+    - >-
+      Of English common law and equity.
+    - >-
+      Of the Basic Laws and the Knesset's legislation.
+  correct: 1
+  explanation: >-
+    The amendment added "Jewish law" (המשפט העברי) before "Israel's heritage". The section replaced the
+    Mandate-era reference to English common law and equity, repealed in 1980.
+- id: m09-006
+  module: 9
+  lesson: "09.1"
+  subject: foundations-of-law-act
+  difficulty: 3
+  question: >-
+    In a magistrates' court, Erez argues that "under the Foundations of Law Act the court must decide by
+    justice", although a Supreme Court ruling squarely covers his issue. What should he do instead?
+  options:
+    - >-
+      Argue that the ruling is distinguishable on its facts, or that its purpose supports his reading.
+    - >-
+      Ask the magistrates' court to depart from the Supreme Court ruling on grounds of justice.
+    - >-
+      Insist on s. 1, since justice always overrides binding precedent in Israeli law.
+    - >-
+      Ask the court to refer the question to a rabbinical court under Jewish law.
+  correct: 0
+  explanation: >-
+    Section 1 applies only when precedent, legislation and analogy give no answer, and a lower court is
+    bound by Supreme Court holdings (Basic Law: The Judiciary s. 20). Distinguishing or interpreting is
+    the realistic route.
+- id: m09-007
+  module: 9
+  lesson: "09.1"
+  subject: manifestly-unlawful-order
+  difficulty: 2
+  question: >-
+    Why is the "manifestly unlawful order" test in Penal Law s. 34יג(2) often described as a natural-law
+    idea in positive form?
+  options:
+    - >-
+      Because it requires every soldier to obtain legal advice before obeying any order.
+    - >-
+      Because it was copied from Aquinas's discussion of the laws of tyrants.
+    - >-
+      Because it makes ordinary moral perception of obvious wrong part of the legal standard.
+    - >-
+      Because it lets a soldier disobey any order he believes to be unwise.
+  correct: 2
+  explanation: >-
+    The Kafr Qasim "black flag" test asks whether the illegality is obvious to any conscience, not to a
+    lawyer. It now operates through a statutory justification, with a narrow exception.
+- id: m09-008
+  module: 9
+  lesson: "09.1"
+  subject: yeredor
+  difficulty: 2
+  question: >-
+    In Yeredor (1965), what was the majority's result and what legal basis did Justice Sussman add?
+  options:
+    - >-
+      The list was approved, because no statute allowed disqualification.
+    - >-
+      Disqualified, partly on supra-constitutional rules of a society's self-defence.
+    - >-
+      The list was disqualified, because s. 7א of Basic Law: The Knesset already applied.
+    - >-
+      The list was approved, but its candidates were barred individually.
+  correct: 1
+  explanation: >-
+    The Court upheld the refusal 2–1. Sussman spoke of supra-constitutional rules, "natural law" or by
+    another name; s. 7א was enacted only in 1985. Cohn dissented on positivist grounds.
+- id: m09-009
+  module: 9
+  lesson: "09.1"
+  subject: retroactivity
+  difficulty: 3
+  question: >-
+    Which statement best describes the tension in the Nazis and Nazi Collaborators (Punishment) Law 1950?
+  options:
+    - >-
+      It allows punishment only of acts committed after 1950, which leaves earlier crimes unpunished.
+    - >-
+      It contradicts s. 1 of the Penal Law because it was not passed by the Knesset.
+    - >-
+      It applies only to crimes committed in Israel, which conflicts with international law.
+    - >-
+      It punishes acts done before it existed, against the principle of no punishment without prior law.
+  correct: 3
+  explanation: >-
+    The 1950 Law covers acts in the Nazi period. The courts in the Eichmann case answered the
+    retroactivity argument by treating the acts as crimes under the law of nations when committed.
+- id: m09-010
+  module: 9
+  lesson: "09.1"
+  subject: natural-law-objections
+  difficulty: 1
+  question: >-
+    Which objection to natural law did Justice Cohn's dissent in Yeredor express most directly?
+  options:
+    - >-
+      That a "higher law" over statutes puts the judge's view in place of the Knesset's.
+    - >-
+      That natural law is only a prediction of what courts will do.
+    - >-
+      That natural law is too procedural to protect substantive rights.
+    - >-
+      That natural law requires a written constitution adopted by referendum.
+  correct: 0
+  explanation: >-
+    Cohn wrote that Israel's ways "are the ways of law", made by the Knesset or with its explicit
+    authorisation, rejecting a natural law that overrides legislation "when need be".
+- id: m09-011
+  module: 9
+  lesson: "09.2"
+  subject: separation-thesis
+  difficulty: 1
+  question: >-
+    Which sentence states the positivist separation thesis?
+  options:
+    - >-
+      Law and morality can never conflict in a democratic state.
+    - >-
+      Whether a law exists is one question; its merit is another.
+    - >-
+      A law is valid only if it is morally good.
+    - >-
+      Morality is merely a prediction of what judges will do.
+  correct: 1
+  explanation: >-
+    Austin: "The existence of a law is one thing: its merits or demerits are another thing." The
+    thesis does not say law is good, only that validity and merit are separate questions.
+- id: m09-012
+  module: 9
+  lesson: "09.2"
+  subject: austin
+  difficulty: 1
+  question: >-
+    In Austin's theory, what makes someone the sovereign?
+  options:
+    - >-
+      Being elected by a majority in free elections.
+    - >-
+      Being recognised by the courts as having constituent authority.
+    - >-
+      Being habitually obeyed by most people while obeying no one.
+    - >-
+      Being bound by a basic norm that the community presupposes.
+  correct: 2
+  explanation: >-
+    Austin defined the sovereign by habits of obedience: obeyed by most, obeying no determinate
+    superior. Constituent authority and the basic norm belong to later theories.
+- id: m09-013
+  module: 9
+  lesson: "09.2"
+  subject: hart-critique-austin
+  difficulty: 2
+  question: >-
+    Hart said Austin's model fits a gunman's orders better than a legal system. Which feature of law
+    does Austin's model fail to explain?
+  options:
+    - >-
+      That most laws are written in a technical language few citizens read.
+    - >-
+      That laws are often enforced by the police and other officials.
+    - >-
+      That some laws impose duties on ordinary people.
+    - >-
+      That many rules confer powers, such as making wills, not commands.
+  correct: 3
+  explanation: >-
+    Rules that confer powers (to marry, make wills, enact laws) are not commands backed by threats.
+    Hart's secondary rules and power-conferring rules address this gap.
+- id: m09-014
+  module: 9
+  lesson: "09.2"
+  subject: kelsen-basic-norm
+  difficulty: 2
+  question: >-
+    A student says Israel's basic norm is "Basic Law: Human Dignity and Liberty". Why is this wrong in
+    Kelsen's terms?
+  options:
+    - >-
+      The basic norm is presupposed, never enacted by any body.
+    - >-
+      The basic norm must be a criminal statute with sanctions.
+    - >-
+      The basic norm must be adopted by referendum to be valid.
+    - >-
+      The basic norm is the most recent statute passed by the legislature.
+  correct: 0
+  explanation: >-
+    For Kelsen the chain of validity ends in a presupposed norm, roughly "obey the first constitution".
+    In Bank Mizrahi, Barak located Israel's basic norm in the authority of the Provisional Council of State.
+- id: m09-015
+  module: 9
+  lesson: "09.2"
+  subject: hart-secondary-rules
+  difficulty: 2
+  question: >-
+    Match the Israeli provision to Hart's category: Basic Law: The Judiciary s. 20(ב), under which a
+    Supreme Court holding binds all other courts.
+  options:
+    - >-
+      A primary rule imposing a duty on citizens.
+    - >-
+      A secondary rule of adjudication, part of the rule of recognition.
+    - >-
+      A rule of change, because it tells the Knesset how to amend laws.
+    - >-
+      A moral principle without legal force in the courts.
+  correct: 1
+  explanation: >-
+    Section 20 concerns courts and tells officials which judicial statements count as law. It is a
+    secondary rule; evidence of the rule of recognition, not a duty on citizens.
+- id: m09-016
+  module: 9
+  lesson: "09.2"
+  subject: chain-of-validity
+  difficulty: 2
+  question: >-
+    Why is some Ottoman and Mandate-era law still valid in Israel today?
+  options:
+    - >-
+      Because the Foundations of Law Act adopted it in 1980.
+    - >-
+      Because the courts decided it was just and kept it.
+    - >-
+      Because a 1948 ordinance (s. 11) kept existing law in force.
+    - >-
+      Because the Mandate authorities never formally repealed it.
+  correct: 2
+  explanation: >-
+    Section 11 preserved the law in force on 14 May 1948, subject to the Ordinance and later laws. It is
+    a rule of continuity that links the old law into the new chain of validity.
+- id: m09-017
+  module: 9
+  lesson: "09.2"
+  subject: by-law-power
+  difficulty: 3
+  question: >-
+    A municipality fines dog owners under a by-law requiring a municipal "dog tax" registration. Liat
+    finds that no statute authorises such a charge. Which conclusion follows from positivism?
+  options:
+    - >-
+      The by-law is valid because it was passed by an elected council.
+    - >-
+      The by-law is valid if most residents of the city support it.
+    - >-
+      The by-law is valid until the Knesset expressly repeals it.
+    - >-
+      The charge is invalid if outside the council's powers, however sensible.
+  correct: 3
+  explanation: >-
+    A by-law is valid only within the powers given by the Municipalities Ordinance (s. 250) or another
+    law. An unauthorised charge fails at the source, whatever its merit. She should check the
+    statutes carefully before arguing this.
+- id: m09-018
+  module: 9
+  lesson: "09.2"
+  subject: open-texture
+  difficulty: 2
+  question: >-
+    A rule bans "vehicles" in a park. Which case is in the penumbra rather than the core?
+  options:
+    - >-
+      An electric bicycle ridden by an adult.
+    - >-
+      A private car driven along the paths.
+    - >-
+      A pedestrian walking with a shopping bag.
+    - >-
+      A delivery truck parked on the lawn.
+  correct: 0
+  explanation: >-
+    Cars and trucks are clear cases; a pedestrian is clearly outside. An electric bicycle is a
+    borderline case where, on Hart's view, the judge must exercise discretion guided by purpose.
+- id: m09-019
+  module: 9
+  lesson: "09.2"
+  subject: bank-mizrahi-theory
+  difficulty: 3
+  question: >-
+    In Bank Mizrahi, Justice Cheshin disputed the majority's theory of constituent authority. In Hart's
+    terms, what was he disputing?
+  options:
+    - >-
+      Whether the Basic Laws were morally good or bad laws.
+    - >-
+      Whether official practice really treated the Knesset as constituent.
+    - >-
+      Whether Kelsen's theory applies to countries outside Austria.
+    - >-
+      Whether the Court should predict how the Knesset would react.
+  correct: 1
+  explanation: >-
+    Barak said the rule of recognition gives the Knesset constituent power. Cheshin answered that the
+    facts of Israeli practice did not show such an understanding: a dispute about a social fact.
+- id: m09-020
+  module: 9
+  lesson: "09.2"
+  subject: internal-guidelines
+  difficulty: 3
+  question: >-
+    An authority refuses Ofer's request, citing an internal procedure (נוהל) he has never seen. What is
+    the best first positivist step?
+  options:
+    - >-
+      Argue that all internal procedures are void because they are not statutes.
+    - >-
+      Accept the refusal, since procedures bind the public like statutes.
+    - >-
+      Ask for the procedure, its statutory power and proof it was published.
+    - >-
+      Complain that the procedure is unjust and ask for an exception.
+  correct: 2
+  explanation: >-
+    An internal procedure is not a statute; its force depends on the power behind it and on whether it
+    was published and applied consistently. Asking for the source is the start of any challenge.
+- id: m09-021
+  module: 9
+  lesson: "09.3"
+  subject: rules-principles
+  difficulty: 1
+  question: >-
+    Which is a principle rather than a rule in Dworkin's sense?
+  options:
+    - >-
+      A statute requiring a will to be signed before two witnesses.
+    - >-
+      A statute setting the age of majority at a fixed number of years.
+    - >-
+      A regulation fixing the hours a shop may open on a weekday.
+    - >-
+      The requirement to perform contracts in good faith.
+  correct: 3
+  explanation: >-
+    Good faith (Contracts Law s. 39) gives a reason that must be weighed against others; formal
+    requirements and fixed ages apply in an all-or-nothing way.
+- id: m09-022
+  module: 9
+  lesson: "09.3"
+  subject: riggs
+  difficulty: 1
+  question: >-
+    Why did Dworkin use Riggs v. Palmer (1889) as his leading example?
+  options:
+    - >-
+      The court applied the principle that no one may profit from his own wrong.
+    - >-
+      The court showed that judges have unlimited discretion in hard cases.
+    - >-
+      The court followed the wills statute literally despite the murder.
+    - >-
+      The court asked the legislature to decide the case for it.
+  correct: 0
+  explanation: >-
+    The murderer was denied the inheritance on the strength of a principle, which Dworkin said was
+    already part of the law. Israel later wrote the idea into Succession Law s. 5(א)(1).
+- id: m09-023
+  module: 9
+  lesson: "09.3"
+  subject: succession-unworthiness
+  difficulty: 2
+  question: >-
+    Under Succession Law s. 5(א)(1) as amended in 2024, who is disqualified from inheriting?
+  options:
+    - >-
+      Anyone convicted of any offence against the deceased.
+    - >-
+      Anyone who caused the death intentionally or with indifference.
+    - >-
+      Anyone who quarrelled with the deceased in the last year of life.
+    - >-
+      Anyone who failed to visit the deceased during an illness.
+  correct: 1
+  explanation: >-
+    The section disqualifies a person who caused the death "במתכוון או באדישות". It turned the Riggs
+    principle into an all-or-nothing rule and widened it from intent to indifference.
+- id: m09-024
+  module: 9
+  lesson: "09.3"
+  subject: fit-justification
+  difficulty: 2
+  question: >-
+    In law as integrity, what are the two dimensions a judge uses to choose an interpretation?
+  options:
+    - >-
+      Prediction of outcomes and their consequences.
+    - >-
+      The text of statutes and their legislative history.
+    - >-
+      Fit with the law, and justification in its best light.
+    - >-
+      Majority opinion on the panel and public opinion.
+  correct: 2
+  explanation: >-
+    An interpretation must fit most of the settled law, and among those that fit, the judge chooses
+    the one that shows the practice in its best moral light.
+- id: m09-025
+  module: 9
+  lesson: "09.3"
+  subject: chain-novel
+  difficulty: 1
+  question: >-
+    What does Dworkin's "chain novel" image say about judges?
+  options:
+    - >-
+      That judges write fiction and do not apply law.
+    - >-
+      That each judge must start the story of the law afresh.
+    - >-
+      That judges should follow whichever earlier chapter they like best.
+    - >-
+      That each judge writes a chapter that must continue the story.
+  correct: 3
+  explanation: >-
+    Like an author in a chain novel, the judge is constrained by what came before but must make the
+    whole the best it can be.
+- id: m09-026
+  module: 9
+  lesson: "09.3"
+  subject: kol-haam
+  difficulty: 2
+  question: >-
+    What test did Kol Ha'am (1953) set for suspending a newspaper under the Press Ordinance?
+  options:
+    - >-
+      A probable danger to public peace, weighed against its gravity.
+    - >-
+      Any tendency of the publication to cause public disorder.
+    - >-
+      Clear and present danger as defined by the U.S. Supreme Court.
+    - >-
+      The Minister's personal belief that the paper is harmful.
+  correct: 0
+  explanation: >-
+    Agranat held that a mere tendency is not enough: danger must be probable and grave enough, given the
+    value of free expression drawn from Israel's democratic character.
+- id: m09-027
+  module: 9
+  lesson: "09.3"
+  subject: shakdiel
+  difficulty: 2
+  question: >-
+    In Shakdiel (1988), what did the Court decide about the forty-year practice of not appointing women
+    to religious councils?
+  options:
+    - >-
+      That the practice was binding custom and could only be changed by statute.
+    - >-
+      That practice carried weight but did not outweigh equality.
+    - >-
+      That the question belonged to the Chief Rabbinate alone.
+    - >-
+      That women could serve only if the local rabbi agreed.
+  correct: 1
+  explanation: >-
+    Justice Elon held that a religious council is an administrative body, that equality governs it,
+    and that tradition, the rabbi's unexplained objection and fears of disruption did not outweigh equality.
+- id: m09-028
+  module: 9
+  lesson: "09.3"
+  subject: principle-argument
+  difficulty: 3
+  question: >-
+    Spot the mistake. A tenant's letter says: "Good faith means the court must cancel my lease's rent
+    increase clause and fix a fair rent." What is wrong with the argument?
+  options:
+    - >-
+      Good faith applies only to employment contracts, not to leases.
+    - >-
+      Good faith may be raised only by lawyers, not by tenants.
+    - >-
+      It asks the court to rewrite the bargain, not to curb a bad-faith use.
+    - >-
+      Good faith applies only before a contract is signed, not during it.
+  correct: 2
+  explanation: >-
+    Section 39 governs how obligations are performed and rights exercised. Courts rarely use it to remake
+    a price; a narrower argument targets a specific bad-faith exercise of the clause.
+- id: m09-029
+  module: 9
+  lesson: "09.3"
+  subject: hart-postscript
+  difficulty: 2
+  question: >-
+    What is "soft" (inclusive) positivism, which Hart accepted in his Postscript?
+  options:
+    - >-
+      The view that positivism applies only to criminal law.
+    - >-
+      The view that judges should be gentle in applying harsh laws.
+    - >-
+      The view that morality is the only test of legal validity.
+    - >-
+      The view that a rule of recognition may include moral criteria.
+  correct: 3
+  explanation: >-
+    Inclusive positivism lets moral principles count as law when the rule of recognition points to
+    them, while keeping the claim that law's existence rests on social facts.
+- id: m09-030
+  module: 9
+  lesson: "09.3"
+  subject: principle-policy
+  difficulty: 3
+  question: >-
+    A self-represented claimant argues that the court should rule for him "because it would encourage
+    economic growth". Why would Dworkin call this a weak argument for a court?
+  options:
+    - >-
+      Because it argues policy, which is for the legislature, not principle.
+    - >-
+      Because courts may never consider economic matters of any kind.
+    - >-
+      Because economic growth is not a goal of Israeli law.
+    - >-
+      Because only the State may argue about the national economy.
+  correct: 0
+  explanation: >-
+    Dworkin distinguished principles (rights of individuals) from policies (collective goals). He held
+    that courts should decide hard cases on principle, leaving policy mainly to the legislature.
+- id: m09-031
+  module: 9
+  lesson: "09.4"
+  subject: holmes-prediction
+  difficulty: 1
+  question: >-
+    Holmes said the law is "the prophecies of what the courts will do in fact". From whose viewpoint did
+    he suggest looking at it?
+  options:
+    - >-
+      That of a good citizen guided by conscience.
+    - >-
+      That of a "bad man" who cares only about consequences.
+    - >-
+      That of a legislator drafting a new statute.
+    - >-
+      That of a philosopher seeking the ideal law.
+  correct: 1
+  explanation: >-
+    The "bad man" wants to know only what will happen to him. This viewpoint separates law from
+    morality and turns attention to prediction.
+- id: m09-032
+  module: 9
+  lesson: "09.4"
+  subject: realism-method
+  difficulty: 2
+  question: >-
+    Which planning step best applies legal realism to your own dispute?
+  options:
+    - >-
+      Reading one famous Supreme Court ruling on a similar subject.
+    - >-
+      Relying on the statute's wording as the sole guide to the outcome.
+    - >-
+      Tabulating recent decisions of the same court on similar facts.
+    - >-
+      Asking friends what they think a fair result would be.
+  correct: 2
+  explanation: >-
+    Realists study patterns in how courts react to types of facts. A sample of recent, comparable
+    decisions gives a range of likely outcomes and shows which facts matter.
+- id: m09-033
+  module: 9
+  lesson: "09.4"
+  subject: realism-courtroom
+  difficulty: 3
+  question: >-
+    Spot the mistake. Gil's statement of claim says: "Since judges decide by their personal values, I ask
+    this court to share mine." What is the problem?
+  options:
+    - >-
+      It is fine; realists showed that judges decide by personal values.
+    - >-
+      It should be addressed to the Knesset rather than the court.
+    - >-
+      It needs a citation to Holmes to be persuasive.
+    - >-
+      Realism is for planning; the court needs legal reasons such as purpose.
+  correct: 3
+  explanation: >-
+    Judges must give legal reasons. Realism helps predict and prepare; in the courtroom the argument
+    must be framed in law: text, purpose, principle and precedent.
+- id: m09-034
+  module: 9
+  lesson: "09.4"
+  subject: cls
+  difficulty: 1
+  question: >-
+    What is the core claim of critical legal studies?
+  options:
+    - >-
+      That doctrine is indeterminate and law is a form of politics.
+    - >-
+      That law is valid only if it conforms to natural law.
+    - >-
+      That a rule of recognition identifies all valid law in a state.
+    - >-
+      That judges always find one right answer in every case.
+  correct: 0
+  explanation: >-
+    CLS took realist indeterminacy further: contradictory principles let skilled judges justify almost
+    any result, so law cannot be neutral and tends to legitimate existing hierarchies.
+- id: m09-035
+  module: 9
+  lesson: "09.4"
+  subject: panel-composition
+  difficulty: 2
+  question: >-
+    Under s. 26 of the Courts Law, who may order that a Supreme Court case be heard by a larger panel
+    before the hearing begins?
+  options:
+    - >-
+      The parties, by agreement between them.
+    - >-
+      The Minister of Justice, on a request from the Government.
+    - >-
+      The President or Deputy President of the Supreme Court.
+    - >-
+      The Knesset Constitution Committee.
+  correct: 2
+  explanation: >-
+    The Court sits in threes, but the President or Deputy President may order a larger odd-numbered
+    panel, and a panel that has begun may enlarge itself. Realists note that panel choices can matter.
+- id: m09-036
+  module: 9
+  lesson: "09.4"
+  subject: nahmani-realism
+  difficulty: 2
+  question: >-
+    How did the vote in Nahmani change between the 1995 appeal and the 1996 further hearing?
+  options:
+    - >-
+      From 3–2 for Ruth to 6–5 for Daniel.
+    - >-
+      From 4–1 for Daniel to 7–4 for Ruth.
+    - >-
+      From 5–0 for Daniel to 9–2 for Daniel.
+    - >-
+      From 4–1 for Ruth to 7–4 for Ruth.
+  correct: 1
+  explanation: >-
+    The five-justice appeal ruled 4–1 for Daniel; the eleven-justice further hearing reversed it 7–4 for
+    Ruth. The same materials produced opposite results.
+- id: m09-037
+  module: 9
+  lesson: "09.4"
+  subject: substantive-equality
+  difficulty: 2
+  question: >-
+    In Israel Women's Network (1994), how did the Court characterise affirmative action?
+  options:
+    - >-
+      As a temporary exception to equality, tolerated only for a short time.
+    - >-
+      As a political choice that courts may not review.
+    - >-
+      As unlawful discrimination against men unless approved by the Knesset.
+    - >-
+      As part of equality itself, aiming at substantive equality.
+  correct: 3
+  explanation: >-
+    Justice Mazza treated affirmative action as part of equality, drawing on Canadian law, and accepted
+    that discrimination can be systemic without intent.
+- id: m09-038
+  module: 9
+  lesson: "09.4"
+  subject: kaadan
+  difficulty: 3
+  question: >-
+    What remedy did the Court give in Ka'adan (2000)?
+  options:
+    - >-
+      It required the State to reconsider the request on an equal basis.
+    - >-
+      It ordered the immediate allocation of a specific plot to the family.
+    - >-
+      It cancelled all past land allocations made through the Jewish Agency.
+    - >-
+      It referred the case to the Knesset for legislation.
+  correct: 0
+  explanation: >-
+    The Court declared the discrimination unlawful but did not order direct allocation; it required
+    reconsideration on the basis of equality and described the ruling as a first, forward-looking step.
+- id: m09-039
+  module: 9
+  lesson: "09.4"
+  subject: feminist-theory
+  difficulty: 1
+  question: >-
+    Which idea is most closely associated with feminist legal theory?
+  options:
+    - >-
+      That law is the command of a sovereign.
+    - >-
+      That every legal question has one right answer.
+    - >-
+      That discrimination can be structural, without any intent.
+    - >-
+      That judges should never consider the social context of a dispute.
+  correct: 2
+  explanation: >-
+    Feminist theory, and critical race theory, stress that formally neutral rules built on one group's
+    experience can disadvantage others without anyone intending it.
+- id: m09-040
+  module: 9
+  lesson: "09.4"
+  subject: realism-objections
+  difficulty: 3
+  question: >-
+    Which is the strongest objection Hart raised against the prediction theory of law?
+  options:
+    - >-
+      A judge is not predicting her own decision; she applies rules as standards.
+    - >-
+      Courts in Israel do not publish enough decisions to make prediction possible.
+    - >-
+      Predictions are always wrong, so they are useless to lawyers.
+    - >-
+      The prediction theory applies only to criminal law.
+  correct: 0
+  explanation: >-
+    For Hart, officials accept rules from the internal point of view, as reasons for decision. A judge
+    cannot be predicting what she herself will do when she applies a rule.
+- id: m09-041
+  module: 9
+  lesson: "09.5"
+  subject: hohfeld
+  difficulty: 1
+  question: >-
+    In Hohfeld's scheme, what is the correlative of a claim-right?
+  options:
+    - >-
+      A liberty.
+    - >-
+      A power.
+    - >-
+      A duty.
+    - >-
+      An immunity.
+  correct: 2
+  explanation: >-
+    If A has a claim-right against B, B has a duty to A. The other correlatives: liberty and no-right,
+    power and liability, immunity and disability.
+- id: m09-042
+  module: 9
+  lesson: "09.5"
+  subject: hohfeld
+  difficulty: 2
+  question: >-
+    Making a will changes the legal expectations of one's relatives. In Hohfeld's terms, the testator has
+    which position?
+  options:
+    - >-
+      A claim-right, with the relatives under a duty.
+    - >-
+      An immunity, with the relatives under a disability.
+    - >-
+      A liberty, with the relatives having no-right.
+    - >-
+      A power, with the relatives under a liability.
+  correct: 3
+  explanation: >-
+    A power is the ability to change legal relations; those whose relations may be changed have a
+    liability. Wills, contracts and gifts are standard examples.
+- id: m09-043
+  module: 9
+  lesson: "09.5"
+  subject: rights-theories
+  difficulty: 2
+  question: >-
+    Which theory of rights has difficulty explaining rights of young children, who cannot waive or
+    enforce duties themselves?
+  options:
+    - >-
+      The will (choice) theory.
+    - >-
+      The interest theory.
+    - >-
+      The rights-as-trumps theory.
+    - >-
+      The Hohfeldian theory of correlatives.
+  correct: 0
+  explanation: >-
+    The will theory says a right gives control over another's duty; small children cannot exercise that
+    control. The interest theory explains their rights as protection of important interests.
+- id: m09-044
+  module: 9
+  lesson: "09.5"
+  subject: rawls
+  difficulty: 1
+  question: >-
+    What is the purpose of Rawls's "veil of ignorance"?
+  options:
+    - >-
+      To keep judges from knowing the parties' identities in court.
+    - >-
+      To choose principles of justice without knowing one's own place.
+    - >-
+      To hide the State's budget decisions from the public.
+    - >-
+      To ensure that voters do not know the candidates' parties.
+  correct: 1
+  explanation: >-
+    Choosing principles without knowing one's class, talents or beliefs is meant to make the choice
+    fair; Rawls argued it leads to equal liberties and the difference principle.
+- id: m09-045
+  module: 9
+  lesson: "09.5"
+  subject: nozick
+  difficulty: 2
+  question: >-
+    A Nozickian looks at a highly unequal distribution of land. What question matters most to her?
+  options:
+    - >-
+      Whether the distribution maximises total welfare.
+    - >-
+      Whether the least advantaged benefit from the inequality.
+    - >-
+      Whether the holdings were acquired and transferred justly.
+    - >-
+      Whether a majority of citizens approve of the distribution.
+  correct: 2
+  explanation: >-
+    Nozick's entitlement theory judges holdings by their history (just acquisition and transfer, or
+    rectification of past injustice), not by the pattern of the result.
+- id: m09-046
+  module: 9
+  lesson: "09.5"
+  subject: distributive-corrective
+  difficulty: 1
+  question: >-
+    A neighbour's tree falls on Yara's car and she claims the repair cost. Which kind of justice governs
+    the claim?
+  options:
+    - >-
+      Distributive justice.
+    - >-
+      Procedural justice in elections.
+    - >-
+      Retributive justice.
+    - >-
+      Corrective justice.
+  correct: 3
+  explanation: >-
+    Corrective justice concerns repairing a wrong one party did to another (torts, contracts).
+    Distributive justice concerns how the State allocates benefits and burdens.
+- id: m09-047
+  module: 9
+  lesson: "09.5"
+  subject: rule-of-law-thin-thick
+  difficulty: 2
+  question: >-
+    Joseph Raz compared the rule of law to the sharpness of a knife. What point was he making?
+  options:
+    - >-
+      That the rule of law is a virtue of form that does not guarantee just content.
+    - >-
+      That the rule of law requires courts to strike down harsh laws.
+    - >-
+      That the rule of law is dangerous and should be limited.
+    - >-
+      That the rule of law exists only in countries with written constitutions.
+  correct: 0
+  explanation: >-
+    A sharp knife is a good knife whatever it is used for; a clear, prospective, public legal system is
+    good as law even if its content is unjust. This is the thin conception.
+- id: m09-048
+  module: 9
+  lesson: "09.5"
+  subject: barzilai
+  difficulty: 2
+  question: >-
+    What did the majority hold in Barzilai (1986) about the President's power to pardon?
+  options:
+    - >-
+      That a pardon may be granted only after a final conviction.
+    - >-
+      That the power extends to the period before conviction.
+    - >-
+      That the Attorney General must approve every pardon.
+    - >-
+      That pardons for security officials require Knesset approval.
+  correct: 1
+  explanation: >-
+    Shamgar, with Ben-Porat, read the pardon power under Basic Law: The President to cover the stage
+    before conviction; Barak dissented, seeing it as a residual power used after the criminal process.
+- id: m09-049
+  module: 9
+  lesson: "09.5"
+  subject: yekutieli
+  difficulty: 3
+  question: >-
+    Why did the majority in Yekutieli (2010) hold the income-support budget item for kollel students
+    unlawful?
+  options:
+    - >-
+      Because the State may never support religious study in any form.
+    - >-
+      Because budget laws can never be reviewed by courts.
+    - >-
+      Because it set kollel students apart on an irrelevant basis.
+    - >-
+      Because kollel students were not Israeli citizens.
+  correct: 2
+  explanation: >-
+    Eligibility rested on economic need, which does not distinguish kollel students from others; the
+    item was earmarked funding against s. 3א of the Foundations of Budget Law and failed proportionality.
+- id: m09-050
+  module: 9
+  lesson: "09.5"
+  subject: ressler-knesset
+  difficulty: 3
+  question: >-
+    In Ressler v. Knesset (2012), why did the majority find the Tal Law disproportionate?
+  options:
+    - >-
+      Because it had failed to achieve its own aim of more Haredi service.
+    - >-
+      Because the Knesset had no power to legislate on military service at all.
+    - >-
+      Because it was passed without the required special majority.
+    - >-
+      Because it applied to women as well as men.
+  correct: 0
+  explanation: >-
+    The Court found that the means lacked a real prospect of achieving the law's own goals, so it failed
+    the rational connection test. The law could not be extended in its existing form.
+- id: m09-051
+  module: 9
+  lesson: "09.6"
+  subject: four-theories-method
+  difficulty: 1
+  question: >-
+    In the four-theories worksheet, what should you record for each opinion before filling the theory
+    columns?
+  options:
+    - >-
+      The judge's political views as reported in the press.
+    - >-
+      Its key reason and a short quotation with its paragraph.
+    - >-
+      Only the final result, since reasons are not binding.
+    - >-
+      A full translation of the opinion into Hebrew.
+  correct: 1
+  explanation: >-
+    Mapping each opinion's reason and a short quotation ties every later theory entry to the text and
+    keeps quotations within fair limits.
+- id: m09-052
+  module: 9
+  lesson: "09.6"
+  subject: nahmani-facts
+  difficulty: 1
+  question: >-
+    In Nahmani, why did Ruth need the frozen embryos released by the hospital?
+  options:
+    - >-
+      To donate them to another couple in Israel.
+    - >-
+      To use them for medical research in a hospital.
+    - >-
+      For implantation in a surrogate in the United States.
+    - >-
+      To have them destroyed at the end of the marriage.
+  correct: 2
+  explanation: >-
+    An operation had left Ruth unable to carry a pregnancy. The plan was fertilisation in Israel and
+    implantation in a surrogate in the United States; the hospital refused release after Daniel objected.
+- id: m09-053
+  module: 9
+  lesson: "09.6"
+  subject: nahmani-tal
+  difficulty: 2
+  question: >-
+    On which legal doctrine did Justice Tal mainly rely for Ruth?
+  options:
+    - >-
+      Unjust enrichment, because Daniel benefited from the treatment.
+    - >-
+      The Embryo Carrying Agreements Law 1996.
+    - >-
+      Frustration of contract, because the marriage ended.
+    - >-
+      Estoppel: Daniel consented and Ruth relied on it irreversibly.
+  correct: 3
+  explanation: >-
+    Tal applied promissory estoppel. The Embryo Carrying Agreements Law did not govern the dispute, and
+    frustration was an argument used for Daniel in the appeal.
+- id: m09-054
+  module: 9
+  lesson: "09.6"
+  subject: nahmani-barak
+  difficulty: 2
+  question: >-
+    What was President Barak's position in the Nahmani further hearing?
+  options:
+    - >-
+      Consent is required at each stage and cannot be waived in advance.
+    - >-
+      The right to be a parent always prevails over the right not to be one.
+    - >-
+      The case should be decided by Jewish law under the Foundations of Law Act.
+    - >-
+      The hospital should decide according to its own medical ethics.
+  correct: 0
+  explanation: >-
+    Barak dissented, holding that consent must continue to implantation and that withdrawing it after
+    the relationship ended is not bad faith; equality between spouses supported this.
+- id: m09-055
+  module: 9
+  lesson: "09.6"
+  subject: nahmani-natural-law
+  difficulty: 2
+  question: >-
+    Justice Türkel wrote that "ethical justice" requires preferring the right to be a parent. In the
+    worksheet, which column fits this best?
+  options:
+    - >-
+      Positivism, because he relied on a specific statute.
+    - >-
+      Realism, because he predicted the outcome of later cases.
+    - >-
+      Natural law, since he appeals to an ethical standard.
+    - >-
+      None, because ethical statements are not legal reasoning.
+  correct: 2
+  explanation: >-
+    An appeal to ethical justice as the decisive standard where no statute governs is the clearest
+    natural-law element; a Dworkinian would ask whether it fits recognised principles.
+- id: m09-056
+  module: 9
+  lesson: "09.6"
+  subject: nahmani-positivism
+  difficulty: 3
+  question: >-
+    How would a Hartian positivist describe what the eleven justices did in Nahmani?
+  options:
+    - >-
+      They discovered a rule already contained in the Contracts Law.
+    - >-
+      They exercised discretion in a gap no statute governed.
+    - >-
+      They applied the rule of recognition to strike down a statute.
+    - >-
+      They predicted how the Knesset would legislate on embryos.
+  correct: 1
+  explanation: >-
+    No statute governed and the precedents were not decisive, so on Hart's view the Court had to choose,
+    in effect making new law, whatever language of justice or principle the opinions used.
+- id: m09-057
+  module: 9
+  lesson: "09.6"
+  subject: precedent-check
+  difficulty: 3
+  question: >-
+    Spot the mistake. A research note says: "Nahmani, CA 5587/93, holds that a spouse's consent to IVF
+    may be withdrawn at any stage." What should the writer correct?
+  options:
+    - >-
+      Nothing; the appeal judgment is the leading authority on the point.
+    - >-
+      The case number, which should be HCJ 1237/91.
+    - >-
+      The court, which should be the Haifa District Court.
+    - >-
+      That the appeal was reversed by the further hearing.
+  correct: 3
+  explanation: >-
+    The 4–1 appeal judgment was reversed at the further hearing. A careful note cites CFH 2401/95 for
+    the result and the appeal only for its reasoning.
+- id: m09-058
+  module: 9
+  lesson: "09.6"
+  subject: arguing-other-side
+  difficulty: 1
+  question: >-
+    Why does the lab ask you to write an argument for the side you did not favour?
+  options:
+    - >-
+      Because the side you disagree with is usually legally correct.
+    - >-
+      Because courts require each party to state the other side's case.
+    - >-
+      Because stating the other case at its best tests your understanding.
+    - >-
+      Because it shortens the analysis and saves reading time.
+  correct: 2
+  explanation: >-
+    An argument that the other side's supporters would accept as fair shows real understanding and
+    prepares you to answer it in your own cases.
+- id: m09-059
+  module: 9
+  lesson: "09.6"
+  subject: forum-choice
+  difficulty: 2
+  question: >-
+    Which forum would hear a dispute between separated spouses over frozen embryos today, in the first
+    instance?
+  options:
+    - >-
+      The family court.
+    - >-
+      The small-claims court.
+    - >-
+      The High Court of Justice.
+    - >-
+      The labour court.
+  correct: 0
+  explanation: >-
+    Disputes between family members, including spouses, are for the family court;
+    Nahmani began in the district court before that system was in place.
+- id: m09-060
+  module: 9
+  lesson: "09.6"
+  subject: when-lawyer
+  difficulty: 3
+  question: >-
+    Hila, separated from her husband, wants to use embryos they froze together. After this module, what
+    is the most sensible next step?
+  options:
+    - >-
+      File a further hearing request in the Supreme Court in her own name.
+    - >-
+      Rely on Nahmani alone and ask the hospital to release the embryos to her.
+    - >-
+      Ignore the husband's objection, since Nahmani gives her an automatic right.
+    - >-
+      Consult a family lawyer: the law and regulations have moved on since 1996.
+  correct: 3
+  explanation: >-
+    Embryo and surrogacy disputes turn on current regulations, consent forms and later case law, with
+    high stakes. This is a "stop and get a lawyer" case, not a theory exercise.
+- id: m09-061
+  module: 9
+  lesson: "09.1"
+  subject: finnis
+  difficulty: 2
+  question: >-
+    In Finnis's natural-law theory, what is the status of an unjust law?
+  options:
+    - >-
+      It is not law in any sense and binds no one.
+    - >-
+      It is fully law, and its injustice has no bearing on the duty to obey.
+    - >-
+      It is valid but law in a weak sense, without moral authority.
+    - >-
+      It becomes valid only if the courts approve it.
+  correct: 2
+  explanation: >-
+    Finnis treats the just law as the central case. An unjust law may be valid within the system but is
+    law in a secondary sense, lacking its normal moral authority.
+- id: m09-062
+  module: 9
+  lesson: "09.5"
+  subject: dicey
+  difficulty: 1
+  question: >-
+    Which element of the rule of law did Dicey express when he wrote that every official, from the Prime
+    Minister down, is under the same responsibility as any citizen for acts without legal justification?
+  options:
+    - >-
+      Judicial review of statutes.
+    - >-
+      Equality before the ordinary law.
+    - >-
+      The separation of law and morality.
+    - >-
+      The prediction of judicial behaviour.
+  correct: 1
+  explanation: >-
+    Dicey's rule of law includes equality before the law: officials are subject to ordinary law and
+    courts like anyone else.

@@ -5,6 +5,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 ## All templates
 
 - [Appeal against a decision to close a criminal file (ערר על החלטה לסגור תיק)](appeal-against-closing-file.md)
+- [Argument from principle (טיעון מן העקרונות)](argument-from-principle.md)
 - [Case brief (תקציר פסק דין)](case-brief.md)
 - [Comment on a draft bill or regulation (הערות לתזכיר חוק או לטיוטת תקנות)](comment-on-draft-legislation.md)
 - [Consumer withdrawal notice (הודעת ביטול עסקה צרכנית)](consumer-withdrawal-notice.md)
@@ -12,6 +13,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Demand letter to a company (מכתב דרישה לחברה)](demand-letter-company.md)
 - [Execution request checklist (רשימת בדיקה לפתיחת תיק בהוצאה לפועל)](execution-request-checklist.md)
 - [Forum check worksheet (דף בדיקת ערכאה)](forum-check-worksheet.md)
+- [Four-theories worksheet (ניתוח פסק דין בארבע תיאוריות)](four-theories-worksheet.md)
 - [Insurance claim letter (דרישה לתשלום תגמולי ביטוח)](insurance-claim-letter.md)
 - [Letter to a Knesset committee (פנייה לוועדה של הכנסת ונייר עמדה)](letter-to-knesset-committee.md)
 - [Letter to a public authority (פנייה לרשות ציבורית)](letter-to-authority.md)

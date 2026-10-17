@@ -86,3 +86,11 @@
   - [63 · Practice lab: a pre-action letter and opening a case on Net HaMishpat (dry run)](lessons/module-08/lesson-08.md)
   - [64 · Practice lab: opening an execution file for a judgment](lessons/module-08/lesson-09.md)
   - [Module 8 quiz](assessments/module-08-quiz.md)
+- **Module 9 — Legal Theory (about 15 hours)**
+  - [65 · Natural law](lessons/module-09/lesson-01.md)
+  - [66 · Legal positivism: Austin, Kelsen, Hart](lessons/module-09/lesson-02.md)
+  - [67 · Dworkin: principles and law as integrity](lessons/module-09/lesson-03.md)
+  - [68 · Legal realism and critical theories](lessons/module-09/lesson-04.md)
+  - [69 · Rights, justice and the rule of law](lessons/module-09/lesson-05.md)
+  - [70 · Practice lab: read one Israeli ruling through four theories](lessons/module-09/lesson-06.md)
+  - [Module 9 quiz](assessments/module-09-quiz.md)

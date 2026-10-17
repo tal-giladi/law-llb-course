@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A student says: "Aquinas taught that once a law is unjust, citizens owe it nothing and may ignore
+    it." Which correction is most accurate?
+  options:
+    - >-
+      Aquinas held that unjust laws still bind in conscience until a court strikes them down.
+    - >-
+      Aquinas held that only laws contrary to divine law lose their force; other laws always bind.
+    - >-
+      Aquinas held it does not bind in conscience, though obeying may still be prudent.
+    - >-
+      Aquinas held that law and morality are separate, so injustice never affects a law's force.
+  correct: 2
+  explanation: >-
+    In Q. 96 a. 4 an unjust law is "no law at all" in the sense that it does not bind in conscience,
+    but Aquinas adds that one may have to yield to avoid scandal or disturbance. Only laws commanding
+    what divine law forbids must never be obeyed.
+- id: q2
+  question: >-
+    In a small claim about a neighbours' dispute, Yael wants to rely on s. 1 of the Foundations of Law
+    Act and ask the judge to decide "by the principles of justice and equity". When will that argument
+    be relevant?
+  options:
+    - >-
+      Only after she shows that no statute, binding precedent or analogy answers the question.
+    - >-
+      Whenever she shows that applying the statute would produce an unfair result for her.
+    - >-
+      Only in religious courts, since the section refers to Jewish law and Israel's heritage.
+    - >-
+      Only if the other side agrees that the court may decide according to equity.
+  correct: 0
+  explanation: >-
+    Section 1 applies when the court "did not find an answer" in legislation, precedent or analogy.
+    It is a gap-filling rule with a positivist gate, not a general power to override statutes.
+- id: q3
+  question: >-
+    In Yeredor (1965), which position did Justice Cohn take in his dissent?
+  options:
+    - >-
+      That supra-constitutional rules of self-defence allow the Committee to disqualify the list.
+    - >-
+      That the Declaration of Independence makes any anti-state list unlawful.
+    - >-
+      That the list could be disqualified only by the Supreme Court and not by the Committee.
+    - >-
+      That the right to stand may be limited only by statute, not by a higher "natural law".
+  correct: 3
+  explanation: >-
+    Cohn wrote that Israel's ways "are the ways of law", made by the Knesset or under its explicit
+    authorisation. Sussman spoke of supra-constitutional rules; Agranat relied on the Declaration and
+    the State's permanence.
+- id: q4
+  question: >-
+    A soldier is charged with an offence and says he only obeyed an order. Under s. 34יג(2) of the
+    Penal Law, when does that defence fail?
+  options:
+    - >-
+      Whenever the order was later found unlawful by a military court.
+    - >-
+      When the order was manifestly unlawful, obvious to any conscience.
+    - >-
+      Whenever the soldier had time to consult a legal adviser before acting.
+    - >-
+      When the order was given orally rather than in writing by the commander.
+  correct: 1
+  explanation: >-
+    The justification covers obedience to a competent authority's order unless the order is
+    "manifestly unlawful" (בעליל שלא כדין), the "black flag" test from the Kafr Qasim trial.

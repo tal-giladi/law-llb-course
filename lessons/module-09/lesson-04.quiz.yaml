@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Before filing a small claim against a gym that refused to cancel her membership, Rina wants to
+    apply Holmes's approach. What should she do first?
+  options:
+    - >-
+      Decide what the morally right result would be and argue that the court must reach it.
+    - >-
+      Read recent decisions of small-claims courts on similar cancellations and note what moved the result.
+    - >-
+      Rely on the wording of the consumer statute alone, since courts follow the text mechanically.
+    - >-
+      Ask the court to explain in advance how it would decide a case like hers.
+  correct: 1
+  explanation: >-
+    Holmes treated law as "prophecies of what the courts will do in fact". The practical method is a
+    sample of recent decisions on similar facts, which shows the likely range of outcomes.
+- id: q2
+  question: >-
+    In Nahmani the appeal panel ruled 4–1 for the husband and the eleven-justice further hearing ruled
+    7–4 for the wife. What does a legal realist draw from this?
+  options:
+    - >-
+      That the first panel misread the statute, which the larger panel corrected.
+    - >-
+      That frozen-embryo cases are governed by natural law rather than positive law.
+    - >-
+      That the materials did not fix the result; the panel and its sense of justice did.
+    - >-
+      That the Supreme Court should never sit in panels larger than three.
+  correct: 2
+  explanation: >-
+    No statute governed the case, and the same materials led different panels to opposite results.
+    A formalist says the larger panel's ruling is the law; the realist says that is exactly the point.
+- id: q3
+  question: >-
+    A minister appoints a man to a government company's board, which has no women, saying he chose the
+    best candidate he knew. Under Israel Women's Network, what was wrong?
+  options:
+    - >-
+      The minister had to search actively for qualified women; formal equal opportunity was not enough.
+    - >-
+      The minister had to appoint the first woman who applied, whatever her qualifications.
+    - >-
+      The minister needed the Knesset's approval for every appointment to the board.
+    - >-
+      The minister could not appoint men at all until women formed half of the board.
+  correct: 0
+  explanation: >-
+    Section 18א imposes a real duty to give appropriate representation; the Court treated affirmative
+    action as part of equality and held the minister must look for suitable women, not wait for them.
+- id: q4
+  question: >-
+    Samir believes a municipal rule on building extensions hits his Arab neighbourhood far harder than
+    Jewish neighbourhoods. How can he use critical theory's insight in court?
+  options:
+    - >-
+      By arguing that all municipal law is politics, so the court should disregard the rule.
+    - >-
+      By asking the judge to rule for him because the system is structurally biased.
+    - >-
+      By refusing to argue the law at all and asking for a political solution in court.
+    - >-
+      By showing with evidence that a neutral-seeming rule has an unequal effect: indirect discrimination.
+  correct: 3
+  explanation: >-
+    Courts do not accept "law is politics" as a reason. The critical insight becomes a legal argument
+    through recognised doctrine: indirect discrimination and the duty of equality (Ka'adan), backed by evidence.
