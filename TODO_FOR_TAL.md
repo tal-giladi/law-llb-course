@@ -20,3 +20,4 @@
 - Module 17: expedited labour-hearing ceiling conflicts (₪40,700 Kol-Zchut vs ₪39,500 court fee table); NII appeal period 30 vs 90 days; pension-order rates from secondary sources.
 - Module 19: ICC Palestine status confirmed only to January 2026; South Africa v. Israel counter-memorial status from South African statements only; review module 19 for neutrality.
 - Module 20: Adras (ד"נ 20/82) and Kestenbaum (ע"א 294/91) citations from memory; Sale Law s. 11(ד) amendment date (2022 vs 2023) conflict.
+- Module 21: the February 2025 Supreme Court case on AI-invented citations is from press reports only (no case number).

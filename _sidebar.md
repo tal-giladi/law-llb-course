@@ -217,3 +217,11 @@
   - [168 · Practice lab: an apartment-purchase checklist and a defects claim to the contractor](lessons/module-20/lesson-09.md)
   - [169 · Practice lab: a rental dispute and a rejected insurance claim](lessons/module-20/lesson-10.md)
   - [Module 20 quiz](assessments/module-20-quiz.md)
+- **Module 21 — Proseminar: Academic Legal Writing (about 27 hours)**
+  - [170 · Choosing a research question](lessons/module-21/lesson-01.md)
+  - [171 · Finding and reading the literature with free Israeli journals](lessons/module-21/lesson-02.md)
+  - [172 · Structuring a legal paper and its argument](lessons/module-21/lesson-03.md)
+  - [173 · Footnotes and the uniform citation rules in depth](lessons/module-21/lesson-04.md)
+  - [174 · Academic integrity, plagiarism and AI tools](lessons/module-21/lesson-05.md)
+  - [175 · Practice lab: write and self-review the proseminar paper](lessons/module-21/lesson-06.md)
+  - [Module 21 quiz](assessments/module-21-quiz.md)

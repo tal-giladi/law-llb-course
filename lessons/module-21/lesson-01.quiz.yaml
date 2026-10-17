@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your proposal says: "This paper will examine tenants' rights in Israel." Your supervisor sends it
+    back. What is the most useful revision?
+  options:
+    - >-
+      Add more sources on tenants' rights so the survey is complete.
+    - >-
+      Replace it with one question, e.g. do the Fair Rental rules cover sublets?
+    - >-
+      Keep the topic but promise to examine it from several perspectives.
+    - >-
+      Make it broader, covering both residential and commercial leases.
+  correct: 1
+  explanation: >-
+    "Tenants' rights" is a topic. A paper needs one answerable question that tells you what to read
+    and what to argue; more sources or more perspectives only make the survey longer.
+- id: q2
+  question: >-
+    Which research question is normative?
+  options:
+    - >-
+      How often do magistrates' courts activate suspended sentences after a new offence?
+    - >-
+      What did the Supreme Court hold about the open list of fair-use purposes in 2013?
+    - >-
+      How did the 1911 fair-dealing exception develop into the 2007 fair-use clause?
+    - >-
+      Should a promise to give a gift be enforceable as a contract in Israeli law?
+  correct: 3
+  explanation: >-
+    A normative question asks what the law should be. The others are empirical, doctrinal and
+    historical questions respectively.
+- id: q3
+  question: >-
+    You wrote a paper on consumer withdrawal rights for a first-year course and want to build your
+    proseminar paper on its findings. What should you do?
+  options:
+    - >-
+      Disclose the earlier paper in the proposal and a footnote, and ask the supervisor.
+    - >-
+      Nothing special, because reusing your own work is never an integrity issue.
+    - >-
+      Rewrite the earlier paper in new words so the originality software does not match it.
+    - >-
+      Submit the earlier paper again, since it was already graded as original work.
+  correct: 0
+  explanation: >-
+    TAU's disciplinary rules (s. 29.3.7) treat undisclosed use of data from another study, including
+    the student's own, as cheating. Disclosure plus the supervisor's consent makes building on it
+    legitimate.
+- id: q4
+  question: >-
+    A classmate says you cannot write on a question because a Haifa professor already asked it in
+    an article. Who is right?
+  options:
+    - >-
+      Your classmate, because copyright protects the professor's research question.
+    - >-
+      Your classmate, unless you get the professor's written permission first.
+    - >-
+      You, as long as you cite the article and give your own answer to the question.
+    - >-
+      You, and you need not mention the article since ideas are free.
+  correct: 2
+  explanation: >-
+    Copyright Law s. 5 excludes ideas, so the question is free to use; academic integrity still
+    requires crediting the scholar who raised it.

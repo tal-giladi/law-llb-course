@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your doctrinal section on a consumer-law question opens with a district-court ruling, then an
+    article, and reaches the governing statute on page 4. What does your supervisor most likely
+    tell you?
+  options:
+    - >-
+      Fine, since rulings and articles are more persuasive than statutory text.
+    - >-
+      Reorder it: statute first, then binding Supreme Court rulings, then the rest.
+    - >-
+      Remove the statute, because supervisors assume the reader already knows it.
+    - >-
+      Put the article first, since academic papers should lead with scholarship.
+  correct: 1
+  explanation: >-
+    A doctrinal argument follows the hierarchy courts use (Foundations of Law Act s. 1, Basic Law:
+    The Judiciary s. 20): legislation, binding precedent, analogy, then principle and literature.
+- id: q2
+  question: >-
+    Which section heading best fits an argumentative legal paper?
+  options:
+    - >-
+      ג. הפסיקה בעניין השימוש ההוגן בישראל מאז 2008
+    - >-
+      ג. סקירה כללית של דיני זכויות היוצרים בישראל
+    - >-
+      ג. הפסיקה מתעלמת ממבחן המטרה שבסעיף 19(א)
+    - >-
+      ג. היבטים שונים של השימוש ההוגן בפסיקה ובספרות
+  correct: 2
+  explanation: >-
+    A heading that states a claim makes the argument visible to a reader who skims; the others name
+    topics only.
+- id: q3
+  question: >-
+    You plan an empirical paper coding 120 rulings. Where should your hypotheses appear?
+  options:
+    - >-
+      Before the data and findings, so the findings can test them.
+    - >-
+      Only in the conclusion, once you know which ones the data support.
+    - >-
+      Nowhere, because legal papers do not use hypotheses.
+    - >-
+      In a footnote to the findings section, to save space in the text.
+  correct: 0
+  explanation: >-
+    Stating questions and hypotheses before the method and findings, as in the Emmanuel and
+    Gazal-Ayal paper, keeps the analysis honest and readable.
+- id: q4
+  question: >-
+    Your paper argues for a change in the law on a politically contested issue. How should you deal
+    with the opposing view?
+  options:
+    - >-
+      Omit it, since a proseminar paper is too short for both sides.
+    - >-
+      Mention it briefly with no source, so the reader knows it exists.
+    - >-
+      Describe it in its weakest form, so your reply is more convincing.
+    - >-
+      State its strongest form with a cited proponent, then answer it.
+  correct: 3
+  explanation: >-
+    Supervisors grade the quality of the argument. A fairly stated, cited counter-argument with a
+    reply strengthens the paper; a straw man weakens it.

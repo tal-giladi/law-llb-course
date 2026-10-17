@@ -1,0 +1,1219 @@
+- id: m21-001
+  module: 21
+  lesson: "21.1"
+  subject: research-question
+  difficulty: 1
+  question: >-
+    What is the main difference between a research topic and a research question?
+  options:
+    - >-
+      A topic is a field; a question is one answerable sentence within it.
+    - >-
+      A topic is chosen by the supervisor; a question is chosen by the student.
+    - >-
+      A topic is for seminar papers; a question is only for empirical work.
+    - >-
+      A topic is in Hebrew; a question may be written in English.
+  correct: 0
+  explanation: >-
+    A question narrows a field into one sentence that a paper can answer and argue about.
+- id: m21-002
+  module: 21
+  lesson: "21.1"
+  subject: research-question
+  difficulty: 1
+  question: >-
+    Which of these is a provisional thesis rather than a question?
+  options:
+    - >-
+      Does s. 63 of the Courts Law achieve equality of arms in small claims?
+    - >-
+      This paper will examine representation in the small-claims court.
+    - >-
+      Section 63 removes lawyers but not expertise, so courts should rebalance.
+    - >-
+      What is the history of the small-claims court in Israel?
+  correct: 2
+  explanation: >-
+    A thesis is a contestable claim; "will examine" is a promise, and the others are questions.
+- id: m21-003
+  module: 21
+  lesson: "21.1"
+  subject: method
+  difficulty: 1
+  question: >-
+    "How often do magistrates' courts activate long suspended sentences compared with short ones?"
+    What type of question is this?
+  options:
+    - >-
+      Normative
+    - >-
+      Empirical
+    - >-
+      Historical
+    - >-
+      Comparative
+  correct: 1
+  explanation: >-
+    It asks how the law works in practice and is answered with data, as in the Emmanuel and
+    Gazal-Ayal study.
+- id: m21-004
+  module: 21
+  lesson: "21.1"
+  subject: research-question
+  difficulty: 2
+  question: >-
+    Your question is "Is Israeli constitutional law legitimate?" Which revision best fits a 15-page
+    proseminar paper?
+  options:
+    - >-
+      "Is Israeli constitutional law legitimate, and how should it develop?"
+    - >-
+      "What do all Israeli scholars think about constitutional legitimacy?"
+    - >-
+      "Is constitutional law legitimate in Israel, the US and Germany?"
+    - >-
+      "Did the Court apply its own proportionality test in one named ruling?"
+  correct: 3
+  explanation: >-
+    Narrowing to one ruling and one test makes the question answerable in 15 pages; the others widen
+    it.
+- id: m21-005
+  module: 21
+  lesson: "21.1"
+  subject: research-question
+  difficulty: 2
+  question: >-
+    A candidate question is answered completely by one section of a statute. What should you do?
+  options:
+    - >-
+      Keep it, since a clear answer guarantees a good grade.
+    - >-
+      Add three more statutes so that the paper easily reaches 15 pages.
+    - >-
+      Move to a critical or normative angle: is the rule right or coherent?
+    - >-
+      Switch to an unrelated topic where the statute book is entirely silent.
+  correct: 2
+  explanation: >-
+    A settled question is a memo question; asking whether the settled rule is right or coherent makes
+    it a paper.
+- id: m21-006
+  module: 21
+  lesson: "21.1"
+  subject: integrity
+  difficulty: 2
+  question: >-
+    You want to reuse the data set you built for a first-year assignment in your proseminar paper.
+    Under TAU's disciplinary rules, what makes this legitimate?
+  options:
+    - >-
+      Disclosing it, since undisclosed reuse of your own data is listed as cheating.
+    - >-
+      Nothing, since reusing data you collected yourself is always permitted.
+    - >-
+      Changing the variable names so that the data set looks entirely new.
+    - >-
+      Citing the data set without mentioning that you collected it earlier.
+  correct: 0
+  explanation: >-
+    Section 29.3.7 covers using data from another study, including the student's own, without
+    disclosing it.
+- id: m21-007
+  module: 21
+  lesson: "21.1"
+  subject: copyright
+  difficulty: 2
+  question: >-
+    Under Copyright Law s. 5, which of these is not protected by copyright?
+  options:
+    - >-
+      The text of a published law-review article.
+    - >-
+      The idea behind a research question someone published.
+    - >-
+      A book's original arrangement of chapters and prose.
+    - >-
+      A drawing included in a journal article.
+  correct: 1
+  explanation: >-
+    Section 5 excludes ideas, processes, facts and data; their expression is protected.
+- id: m21-008
+  module: 21
+  lesson: "21.1"
+  subject: research-question
+  difficulty: 2
+  question: >-
+    Which source of research questions is most likely to give you a ready-made counter-argument?
+  options:
+    - >-
+      A newspaper editorial on the subject.
+    - >-
+      A textbook chapter summarising settled law.
+    - >-
+      A Supreme Court ruling with a reasoned dissent.
+    - >-
+      A government press release on a new bill.
+  correct: 2
+  explanation: >-
+    A dissent states the opposing legal argument at full strength, written by a judge.
+- id: m21-009
+  module: 21
+  lesson: "21.1"
+  subject: method
+  difficulty: 3
+  question: >-
+    You propose an empirical study of 200 labour-court rulings, due in six weeks, and you have not yet
+    checked how to get the rulings. What is the soundest decision?
+  options:
+    - >-
+      Start coding at once and hope that all the rulings turn out to be online.
+    - >-
+      Confirm access and time with the supervisor; otherwise use a doctrinal question.
+    - >-
+      Reduce the sample to five rulings and keep calling the paper empirical.
+    - >-
+      Invent a representative sample to save time, then describe it as real.
+  correct: 1
+  explanation: >-
+    Empirical work depends on data access and time; inventing data would be fabrication under s.
+    29.3.7.
+- id: m21-010
+  module: 21
+  lesson: "21.1"
+  subject: research-question
+  difficulty: 3
+  question: >-
+    Spot the main flaw: "This paper asks whether the Fair Rental rules protect tenants and whether the
+    deposit rules should be reformed and how other countries handle leases."
+  options:
+    - >-
+      It is in English rather than Hebrew.
+    - >-
+      It does not mention any statute by section number.
+    - >-
+      It contains three questions joined by "and".
+    - >-
+      It names a field that is not taught in year 2.
+  correct: 2
+  explanation: >-
+    A research question is one sentence without "and" joining separate questions; this is three
+    papers.
+- id: m21-011
+  module: 21
+  lesson: "21.2"
+  subject: journals
+  difficulty: 1
+  question: >-
+    Which faculty publishes the journal משפט וממשל?
+  options:
+    - >-
+      The Hebrew University
+    - >-
+      Tel Aviv University
+    - >-
+      Bar-Ilan University
+    - >-
+      The University of Haifa
+  correct: 3
+  explanation: >-
+    משפט וממשל and דין ודברים are Haifa journals; משפטים is HUJI's; עיוני משפט is TAU's.
+- id: m21-012
+  module: 21
+  lesson: "21.2"
+  subject: journals
+  difficulty: 1
+  question: >-
+    From which volume did the Israel Law Review become fully open access?
+  options:
+    - >-
+      Volume 58(1), January 2025.
+    - >-
+      Volume 1, 1966.
+    - >-
+      Volume 50, 2017.
+    - >-
+      It is still entirely paywalled.
+  correct: 0
+  explanation: >-
+    Cambridge flipped the journal to gold open access from volume 58, issue 1 (2025).
+- id: m21-013
+  module: 21
+  lesson: "21.2"
+  subject: search
+  difficulty: 1
+  question: >-
+    What does "Cited by" in Google Scholar help you do?
+  options:
+    - >-
+      Find older sources that an article relies on.
+    - >-
+      Find newer work that cites an article.
+    - >-
+      Check whether an article was peer reviewed.
+    - >-
+      Download the article from the publisher.
+  correct: 1
+  explanation: >-
+    "Cited by" is a forward search; footnotes give the backward search.
+- id: m21-014
+  module: 21
+  lesson: "21.2"
+  subject: search
+  difficulty: 2
+  question: >-
+    A journal's own site search returns nothing for your Hebrew terms. What is the best next step?
+  options:
+    - >-
+      Conclude that the journal has never published anything on the subject at all.
+    - >-
+      Search in English only, since search engines never handle Hebrew legal terms.
+    - >-
+      Use Google restricted to the journal's site, e.g. site:law.haifa.ac.il with the terms.
+    - >-
+      Write to the journal's editors and wait for them to send a list of articles.
+  correct: 2
+  explanation: >-
+    Site search on journal sites is often weak; a site-restricted Google search usually finds the
+    PDFs.
+- id: m21-015
+  module: 21
+  lesson: "21.2"
+  subject: authority
+  difficulty: 2
+  question: >-
+    Which source can carry a legal proposition in your paper?
+  options:
+    - >-
+      A law-firm newsletter summarising a ruling.
+    - >-
+      An AI tool's answer with a case number.
+    - >-
+      A newspaper report on a Supreme Court hearing.
+    - >-
+      The ruling itself, read on a free host.
+  correct: 3
+  explanation: >-
+    Newsletters, news and AI answers are leads to the primary source, not authority.
+- id: m21-016
+  module: 21
+  lesson: "21.2"
+  subject: copyright
+  difficulty: 2
+  question: >-
+    You download twenty articles as PDFs for your research. Which later use is outside the research
+    purpose discussed in the lesson?
+  options:
+    - >-
+      Keeping them in a folder and annotating them.
+    - >-
+      Uploading all of them to a public class website.
+    - >-
+      Quoting two sentences from one of them in your paper.
+    - >-
+      Re-reading them before your supervisor meeting.
+  correct: 1
+  explanation: >-
+    Self-study and research are listed fair-use purposes; republishing full PDFs is a different use
+    and may breach journal terms.
+- id: m21-017
+  module: 21
+  lesson: "21.2"
+  subject: search
+  difficulty: 2
+  question: >-
+    When can you reasonably stop searching for literature?
+  options:
+    - >-
+      When new sources mostly cite sources already on your map.
+    - >-
+      As soon as you have found three sources that agree with you.
+    - >-
+      After one hour, regardless of results.
+    - >-
+      When your supervisor has not mentioned any missing source.
+  correct: 0
+  explanation: >-
+    Saturation, when new finds keep pointing to known sources, is the practical stopping point.
+- id: m21-018
+  module: 21
+  lesson: "21.2"
+  subject: reading
+  difficulty: 2
+  question: >-
+    You have forty possibly relevant articles and a week. How should you read them?
+  options:
+    - >-
+      Read every article in full, from start to finish, in the order of publication.
+    - >-
+      Read only the conclusions, since they contain everything a paper needs to cite.
+    - >-
+      First pass on abstract, introduction and conclusion; full reading for core sources only.
+    - >-
+      Read only the footnotes, to find the primary sources they rely on and skip the text.
+  correct: 2
+  explanation: >-
+    A triage pass sorts core, background and irrelevant; only core sources need a full reading.
+- id: m21-019
+  module: 21
+  lesson: "21.2"
+  subject: journals
+  difficulty: 3
+  question: >-
+    An older עיוני משפט article you need links from the journal site to the Nevo archive, which asks for
+    a subscription. What is the best way to get it without paying?
+  options:
+    - >-
+      Cite it from its abstract alone, since the title shows its claim.
+    - >-
+      Ask a public or university library for a copy for personal research.
+    - >-
+      Copy its citation from another article's footnote without reading it.
+    - >-
+      Assume it says what the citing article claims and cite it directly.
+  correct: 1
+  explanation: >-
+    Libraries can supply copies for research; citing an unread source as if read is citation
+    laundering.
+- id: m21-020
+  module: 21
+  lesson: "21.2"
+  subject: reading
+  difficulty: 3
+  question: >-
+    משפטים publishes an article and, later, a response to it by other authors. Why read both even if you
+    already agree with one side?
+  options:
+    - >-
+      Because supervisors require citing at least one response article.
+    - >-
+      Because the response always reflects the current law.
+    - >-
+      Because the first article is no longer valid once a response appears.
+    - >-
+      Because the exchange shows each position at its strongest.
+  correct: 3
+  explanation: >-
+    Debates in response articles give you the best form of each argument, which your counter-arguments
+    section needs.
+- id: m21-021
+  module: 21
+  lesson: "21.3"
+  subject: structure
+  difficulty: 1
+  question: >-
+    Which element does NOT belong in the introduction of a legal paper?
+  options:
+    - >-
+      The research question, in one sentence.
+    - >-
+      The thesis, stated as a claim.
+    - >-
+      The full analysis of the leading ruling.
+    - >-
+      A short roadmap of the parts.
+  correct: 2
+  explanation: >-
+    The introduction states question, thesis, contribution and roadmap; the analysis belongs in the
+    body.
+- id: m21-022
+  module: 21
+  lesson: "21.3"
+  subject: sources-hierarchy
+  difficulty: 1
+  question: >-
+    Under Basic Law: The Judiciary s. 20(b), a Supreme Court ruling binds:
+  options:
+    - >-
+      Every court except the Supreme Court itself.
+    - >-
+      Only the district and magistrates' courts.
+    - >-
+      Every court, including the Supreme Court itself.
+    - >-
+      Only the court that gave the ruling and its panel.
+  correct: 0
+  explanation: >-
+    Section 20(b): a Supreme Court ruling binds every court other than the Supreme Court.
+- id: m21-023
+  module: 21
+  lesson: "21.3"
+  subject: sources-hierarchy
+  difficulty: 1
+  question: >-
+    Under the Foundations of Law Act s. 1, when does a court turn to the principles of Jewish heritage?
+  options:
+    - >-
+      Whenever a party asks the court to apply them.
+    - >-
+      Before looking at any legislation or case law.
+    - >-
+      Only in family and personal-status matters.
+    - >-
+      When legislation, case law and analogy give no answer.
+  correct: 3
+  explanation: >-
+    Section 1 is a gap-filling rule that applies only after legislation, precedent and analogy fail.
+- id: m21-024
+  module: 21
+  lesson: "21.3"
+  subject: structure
+  difficulty: 2
+  question: >-
+    A reviewer reads only your headings and cannot tell what you argue. What is the likely problem?
+  options:
+    - >-
+      The headings are topics rather than claims.
+    - >-
+      The paper has too many footnotes.
+    - >-
+      The introduction is longer than one page.
+    - >-
+      The paper uses the first person.
+  correct: 0
+  explanation: >-
+    Headings that state claims make the argument visible; topic headings hide it.
+- id: m21-025
+  module: 21
+  lesson: "21.3"
+  subject: method
+  difficulty: 2
+  question: >-
+    You compare Israeli and English rules on quotation. What is the most important methodological care?
+  options:
+    - >-
+      Choose the systems because their names are well known to readers.
+    - >-
+      Compare how each solves the same functional problem in its context.
+    - >-
+      Compare only the wording of the two statutes, side by side.
+    - >-
+      Avoid explaining why these particular systems were chosen.
+  correct: 1
+  explanation: >-
+    Comparative work compares functions, not labels, and explains the choice of systems.
+- id: m21-026
+  module: 21
+  lesson: "21.3"
+  subject: structure
+  difficulty: 2
+  question: >-
+    Your 15-page draft spends 7 pages on the legal framework. What is the best fix?
+  options:
+    - >-
+      Keep it, since a full framework shows good research.
+    - >-
+      Delete the counter-arguments section to make room.
+    - >-
+      Move the whole framework into an appendix at the end.
+    - >-
+      Cut the framework to what the argument actually uses.
+  correct: 3
+  explanation: >-
+    Background should be no longer than the argument needs; about two to three pages in a proseminar
+    paper.
+- id: m21-027
+  module: 21
+  lesson: "21.3"
+  subject: method
+  difficulty: 2
+  question: >-
+    What should an empirical paper's method section state?
+  options:
+    - >-
+      Only the conclusions that the author hoped the data would show.
+    - >-
+      The data set, how cases were selected and coded, and the limits.
+    - >-
+      The author's political views on the subject of the study.
+    - >-
+      A complete list of all the statutes in the field of law.
+  correct: 1
+  explanation: >-
+    Readers must be able to judge the data and its limits, such as selection effects.
+- id: m21-028
+  module: 21
+  lesson: "21.3"
+  subject: neutrality
+  difficulty: 2
+  question: >-
+    Your paper touches the 2023–2026 dispute over the judiciary. How should you present it?
+  options:
+    - >-
+      Each side's strongest legal argument and the current law, then your claim.
+    - >-
+      Only the side you agree with, since the paper is an argument.
+    - >-
+      Avoid the dispute entirely, even if your question depends on it.
+    - >-
+      A summary of newspaper opinion columns from both sides.
+  correct: 0
+  explanation: >-
+    Supervisors grade the argument; fairness to the strongest opposing view is part of it.
+- id: m21-029
+  module: 21
+  lesson: "21.3"
+  subject: structure
+  difficulty: 3
+  question: >-
+    Your roadmap says "Part ד proposes a reform", but after revision Part ד became counter-arguments and
+    the reform moved to Part ה. What is the right fix?
+  options:
+    - >-
+      Leave the roadmap; readers will notice the change.
+    - >-
+      Delete the roadmap, since headings are enough.
+    - >-
+      Rewrite the roadmap so it matches the final headings.
+    - >-
+      Move the parts back to match the roadmap.
+  correct: 2
+  explanation: >-
+    The introduction is written or revised last precisely so that the roadmap matches the paper.
+- id: m21-030
+  module: 21
+  lesson: "21.3"
+  subject: method
+  difficulty: 3
+  question: >-
+    A normative paper argues that gift promises should not be enforced. Which limit should its method
+    paragraph state?
+  options:
+    - >-
+      That it uses no statutes at all.
+    - >-
+      That its sample of rulings may be unrepresentative.
+    - >-
+      That foreign law is never relevant.
+    - >-
+      Which values and theories it assumes.
+  correct: 3
+  explanation: >-
+    A normative argument depends on its premises; stating them lets the reader assess the conclusion.
+- id: m21-031
+  module: 21
+  lesson: "21.4"
+  subject: citation
+  difficulty: 1
+  question: >-
+    Which edition of the uniform citation rules was current when this module was checked in October
+    2026?
+  options:
+    - >-
+      The first edition.
+    - >-
+      The third edition (2021).
+    - >-
+      The second edition (2006).
+    - >-
+      A fourth edition (2025).
+  correct: 1
+  explanation: >-
+    The TAU rules page still offered the third edition and announced no newer one.
+- id: m21-032
+  module: 21
+  lesson: "21.4"
+  subject: citation
+  difficulty: 1
+  question: >-
+    In the uniform rules, which title goes in quotation marks?
+  options:
+    - >-
+      The title of a book.
+    - >-
+      The name of a journal.
+    - >-
+      The title of an article.
+    - >-
+      The name of the publisher.
+  correct: 2
+  explanation: >-
+    Rule 24.3.1 puts article titles in quotation marks; book titles are not quoted.
+- id: m21-033
+  module: 21
+  lesson: "21.4"
+  subject: citation
+  difficulty: 1
+  question: >-
+    Under rule 35.1, English-language sources are cited by:
+  options:
+    - >-
+      The Bluebook, latest edition.
+    - >-
+      APA style.
+    - >-
+      The Oxford OSCOLA guide.
+    - >-
+      The Hebrew article formula, translated.
+  correct: 0
+  explanation: >-
+    Rule 35.1 refers foreign sources to the latest Bluebook edition.
+- id: m21-034
+  module: 21
+  lesson: "21.4"
+  subject: citation
+  difficulty: 2
+  question: >-
+    Spot the mistake: גדעון ספיר ושאול שארף "חוקתנות עממית" מחקרי משפט ל 161-180 (2015).
+  options:
+    - >-
+      The authors' first names should come after their surnames.
+    - >-
+      The article's title should not be in quotation marks.
+    - >-
+      The volume should be given in Arabic numerals, not letters.
+    - >-
+      A page range replaces the first page and a pinpoint.
+  correct: 3
+  explanation: >-
+    Rule 24.1 gives the first page, then a comma and the specific page you rely on.
+- id: m21-035
+  module: 21
+  lesson: "21.4"
+  subject: signals
+  difficulty: 2
+  question: >-
+    You cite three rulings without a signal, then add an article that also supports the point. Which
+    signal introduces the article?
+  options:
+    - >-
+      מנגד
+    - >-
+      ראו גם
+    - >-
+      אבל ראו
+    - >-
+      השוו ל
+  correct: 1
+  explanation: >-
+    "ראו גם" adds support after sources cited without a signal (rule 38.4.1).
+- id: m21-036
+  module: 21
+  lesson: "21.4"
+  subject: citation
+  difficulty: 2
+  question: >-
+    How do you cite a seminar paper submitted in a course, under rule 26?
+  options:
+    - >-
+      As a journal article, with the course name in place of the journal.
+    - >-
+      As a web source, with the university's web address and the date.
+    - >-
+      As an academic work, adding "בקורס" and the course name.
+    - >-
+      You may not cite student papers in an academic paper at all.
+  correct: 2
+  explanation: >-
+    Rule 26: author, title, pinpoint, then type of work, "בקורס" and course name, institution and year.
+- id: m21-037
+  module: 21
+  lesson: "21.4"
+  subject: citation
+  difficulty: 2
+  question: >-
+    Which citation is a correct web source under rule 34.2.1?
+  options:
+    - >-
+      טובה צימוקי "פתרון לסחבת במערכת המשפט" ynet (21.12.2017) and the URL.
+    - >-
+      ynet, פתרון לסחבת במערכת המשפט, נצפה לאחרונה היום, ראו באתר.
+    - >-
+      "פתרון לסחבת במערכת המשפט" (אינטרנט, כתבה באתר חדשות, 2017).
+    - >-
+      צימוקי טובה, ynet, 2017, ראו: האתר, ללא כתובת וללא תאריך מלא.
+  correct: 0
+  explanation: >-
+    Author, title in quotation marks, site, date in brackets, then the address.
+- id: m21-038
+  module: 21
+  lesson: "21.4"
+  subject: footnotes
+  difficulty: 2
+  question: >-
+    Where does the footnote mark go under rule 38.5?
+  options:
+    - >-
+      Always at the very end of the paragraph it belongs to.
+    - >-
+      Always before the full stop, never after it.
+    - >-
+      Only after direct quotations, never after paraphrase.
+    - >-
+      After what it refers to, placed consistently by punctuation.
+  correct: 3
+  explanation: >-
+    The mark follows what it refers to; next to punctuation either placement is allowed if consistent.
+- id: m21-039
+  module: 21
+  lesson: "21.4"
+  subject: signals
+  difficulty: 3
+  question: >-
+    Spot the mistake in this footnote: "ראו: מנגד לוין-שנור, לעיל ה"ש 4, בעמ' 190."
+  options:
+    - >-
+      The short name may not be used after the first full citation.
+    - >-
+      "לעיל" should be "להלן" for an earlier footnote.
+    - >-
+      Two signals are combined with a colon; use "מנגד" alone.
+    - >-
+      The page number should come before the footnote number here.
+  correct: 2
+  explanation: >-
+    "מנגד" marks a contrary source on its own, and signals take no colon (rule 38.4).
+- id: m21-040
+  module: 21
+  lesson: "21.4"
+  subject: citation
+  difficulty: 3
+  question: >-
+    An article in a Haifa journal issue shows only "תשפ"ה" as its year. How do you give the year?
+  options:
+    - >-
+      (2025), converting the Hebrew year.
+    - >-
+      (התשפ"ה), the Hebrew year with ה"א.
+    - >-
+      (תשפ"ה–2025), both years.
+    - >-
+      Omit the year, since it is not in Gregorian form.
+  correct: 1
+  explanation: >-
+    Rule 24.9: if only the Hebrew year appears, give it with ה"א; if both appear, give only the
+    Gregorian year.
+- id: m21-041
+  module: 21
+  lesson: "21.5"
+  subject: integrity
+  difficulty: 1
+  question: >-
+    Under TAU's disciplinary rules, what must happen to a paper when a student is convicted of cheating
+    in it?
+  options:
+    - >-
+      The paper must be disqualified, whatever other penalty is imposed.
+    - >-
+      The paper's grade is reduced by ten points automatically.
+    - >-
+      The lecturer alone decides whether to keep the grade.
+    - >-
+      Nothing happens to it unless the student is also suspended.
+  correct: 0
+  explanation: >-
+    Section 32 makes disqualification mandatory on a conviction for cheating.
+- id: m21-042
+  module: 21
+  lesson: "21.5"
+  subject: ai-policy
+  difficulty: 1
+  question: >-
+    At Tel Aviv University, who decides whether AI tools may be used in a given course?
+  options:
+    - >-
+      The student union.
+    - >-
+      The Council for Higher Education.
+    - >-
+      The lecturer, at their sole discretion.
+    - >-
+      The disciplinary officer, case by case.
+  correct: 2
+  explanation: >-
+    TAU's student guide leaves AI use in a specific course to the lecturer's sole discretion.
+- id: m21-043
+  module: 21
+  lesson: "21.5"
+  subject: ai-policy
+  difficulty: 1
+  question: >-
+    At Bar-Ilan, what is the default when the lecturer says nothing about AI?
+  options:
+    - >-
+      Use is forbidden unless allowed.
+    - >-
+      Use is allowed only for translation.
+    - >-
+      Use is allowed with no duty to disclose.
+    - >-
+      Allowed, with a duty to disclose the use.
+  correct: 3
+  explanation: >-
+    Bar-Ilan's instructions make use permitted unless explicitly forbidden, with a duty of disclosure.
+- id: m21-044
+  module: 21
+  lesson: "21.5"
+  subject: integrity
+  difficulty: 2
+  question: >-
+    In the TAU decision ד30-2023, why was the cheating count dropped in the plea agreement?
+  options:
+    - >-
+      The student proved that she had not used any AI tool at all.
+    - >-
+      The rules on the new technology had not yet been settled at the time.
+    - >-
+      AI use can never amount to cheating under the TAU rules.
+    - >-
+      The lecturer had expressly allowed the use in the syllabus.
+  correct: 1
+  explanation: >-
+    The tribunal took into account that guidance on AI had not yet been set when the act was done;
+    she was convicted of breach of instructions.
+- id: m21-045
+  module: 21
+  lesson: "21.5"
+  subject: fair-use
+  difficulty: 2
+  question: >-
+    In Safecom (CA 7996/11), why was copying technical drawings into a patent application not fair use?
+  options:
+    - >-
+      It was commercial, not transformative, near-complete and harmful to the market.
+    - >-
+      Patent applications are excluded from the Copyright Law entirely.
+    - >-
+      The list of purposes in s. 19(a) is closed and does not include patents.
+    - >-
+      The drawings were mere facts and so were not protected at all.
+  correct: 0
+  explanation: >-
+    The Court treated s. 19(a) as an open list but found all four factors against the use (para. 37).
+- id: m21-046
+  module: 21
+  lesson: "21.5"
+  subject: plagiarism
+  difficulty: 2
+  question: >-
+    You copy a footnote from another article citing a 1980s book you never saw. What is this called,
+    and how do you fix it?
+  options:
+    - >-
+      Fair use for research, so no fix is needed at all.
+    - >-
+      Self-plagiarism; disclose your own earlier work in a note.
+    - >-
+      Citation laundering; cite it "מובא אצל" or read the book.
+    - >-
+      Fabrication; delete both the book and the article you used.
+  correct: 2
+  explanation: >-
+    Citing an unread source as if read misrepresents your research; "מובא אצל" states what you saw.
+- id: m21-047
+  module: 21
+  lesson: "21.5"
+  subject: ai-policy
+  difficulty: 2
+  question: >-
+    Which use of AI is most likely to be acceptable when a course allows "language editing with
+    declaration"?
+  options:
+    - >-
+      Asking the tool to write Part ג from your notes.
+    - >-
+      Asking the tool to produce the counter-arguments section.
+    - >-
+      Asking the tool to supply rulings you will cite unread.
+    - >-
+      Asking the tool to flag unclear sentences in text you wrote.
+  correct: 3
+  explanation: >-
+    Editing comments on your own text fit "language editing"; generating text or unread sources do
+    not.
+- id: m21-048
+  module: 21
+  lesson: "21.5"
+  subject: moral-right
+  difficulty: 2
+  question: >-
+    You quote an author's sentence without naming the author anywhere. Apart from integrity, which
+    statutory right is engaged?
+  options:
+    - >-
+      The author's moral right to be named (s. 46(1)).
+    - >-
+      The exclusive right of first publication (s. 11).
+    - >-
+      The journal publisher's database right.
+    - >-
+      The right to an accounting of profits (s. 57).
+  correct: 0
+  explanation: >-
+    Section 46(1) gives the author the right to be named on the work to the extent appropriate.
+- id: m21-049
+  module: 21
+  lesson: "21.5"
+  subject: ai-court
+  difficulty: 3
+  question: >-
+    In the February 2025 Supreme Court decision reported by Ice, what did the panel do about the
+    fabricated citations in a lawyer's petition?
+  options:
+    - >-
+      It imposed personal costs on the lawyer at once, without warning.
+    - >-
+      It referred the lawyer to the police for a criminal investigation.
+    - >-
+      No sanction then, but a warning of dismissal and personal costs.
+    - >-
+      It held that AI-generated citations are acceptable if they are declared.
+  correct: 2
+  explanation: >-
+    As the first such case, the Court refrained from sanctions but warned that using AI does not
+    relieve lawyers of responsibility.
+- id: m21-050
+  module: 21
+  lesson: "21.5"
+  subject: fair-use
+  difficulty: 3
+  question: >-
+    According to Elkin-Koren and Netanel's account of Nestlé (2019), what is the status of the s. 19(a)
+    purpose test?
+  options:
+    - >-
+      It was abolished; only the four factors matter.
+    - >-
+      It applies only to commercial uses.
+    - >-
+      It is a closed list of six purposes.
+    - >-
+      It remains an independent preliminary test.
+  correct: 3
+  explanation: >-
+    The authors report that the Court held the purpose test cannot be dropped, while reading the
+    purposes broadly.
+- id: m21-051
+  module: 21
+  lesson: "21.6"
+  subject: writing-process
+  difficulty: 1
+  question: >-
+    Which part of the paper is best written last?
+  options:
+    - >-
+      The legal framework.
+    - >-
+      The introduction.
+    - >-
+      The counter-arguments.
+    - >-
+      The argument sections.
+  correct: 1
+  explanation: >-
+    The introduction must describe the finished paper; draft it early but finalise it last.
+- id: m21-052
+  module: 21
+  lesson: "21.6"
+  subject: rubric
+  difficulty: 1
+  question: >-
+    In the module's self-review rubric, what score marks a paper as ready?
+  options:
+    - >-
+      At least 16 of 20, with no line at 0.
+    - >-
+      Any total above 10 of 20.
+    - >-
+      20 of 20 only.
+    - >-
+      At least 12 of 20, with the thesis line at 2.
+  correct: 0
+  explanation: >-
+    The rubric sets 16 of 20 with no criterion missing.
+- id: m21-053
+  module: 21
+  lesson: "21.6"
+  subject: writing-process
+  difficulty: 1
+  question: >-
+    About how long is a proseminar paper of 15 pages of text?
+  options:
+    - >-
+      About 1,500 words of text.
+    - >-
+      About 20,000 words of text.
+    - >-
+      About 5,000–6,000 words.
+    - >-
+      About 500 words of text.
+  correct: 2
+  explanation: >-
+    Fifteen pages of text is roughly 5,000–6,000 words, plus footnotes; check your course's format.
+- id: m21-054
+  module: 21
+  lesson: "21.6"
+  subject: peer-review
+  difficulty: 2
+  question: >-
+    As a peer reviewer, you find a weak paragraph in a classmate's paper. What should you do?
+  options:
+    - >-
+      Rewrite the whole paragraph for them in track changes.
+    - >-
+      Ignore it, since critical comments may hurt the author.
+    - >-
+      Tell the lecturer about it before telling the author.
+    - >-
+      Name the problem and where it is, and suggest a fix.
+  correct: 3
+  explanation: >-
+    Peer review comments without rewriting; writing parts of another's paper could breach s. 29.3.5.
+- id: m21-055
+  module: 21
+  lesson: "21.6"
+  subject: peer-review
+  difficulty: 2
+  question: >-
+    Your reviewer states your thesis as something you do not claim. What does this tell you?
+  options:
+    - >-
+      The reviewer did not read carefully; ignore it.
+    - >-
+      Your page 1 does not state the thesis clearly enough.
+    - >-
+      You should change your thesis to the reviewer's version.
+    - >-
+      You should remove the thesis to avoid confusion.
+  correct: 1
+  explanation: >-
+    If a careful reader misstates the thesis, the introduction needs rewriting.
+- id: m21-056
+  module: 21
+  lesson: "21.6"
+  subject: writing-process
+  difficulty: 2
+  question: >-
+    You have a week until the deadline and twelve hours of work. Which plan is best?
+  options:
+    - >-
+      Four or more sessions, with separate footnote and integrity passes.
+    - >-
+      One twelve-hour session on the night before the deadline.
+    - >-
+      Write everything in two days, skip the rubric and submit early.
+    - >-
+      Spend eleven of the hours reading and only one hour writing.
+  correct: 0
+  explanation: >-
+    Spreading the work and separating checks reduces errors and improves the argument.
+- id: m21-057
+  module: 21
+  lesson: "21.6"
+  subject: court-writing
+  difficulty: 2
+  question: >-
+    Which element of the paper structure transfers most directly to your own appeal?
+  options:
+    - >-
+      The literature review and its survey of scholarship.
+    - >-
+      The AI-use declaration attached as an appendix.
+    - >-
+      The starred footnote giving the access date of web sources.
+    - >-
+      Question and remedy first, then numbered arguments and replies.
+  correct: 3
+  explanation: >-
+    Courts read for the question, the claim and the support; academic apparatus matters less.
+- id: m21-058
+  module: 21
+  lesson: "21.6"
+  subject: revision
+  difficulty: 2
+  question: >-
+    Your paper is 18 pages and the limit is 15. Which cut usually costs the least?
+  options:
+    - >-
+      The whole counter-arguments section.
+    - >-
+      Background the argument does not use.
+    - >-
+      The conclusion and its final paragraph.
+    - >-
+      All footnotes that contain explanations.
+  correct: 1
+  explanation: >-
+    Excess background is the most common cause of overlength and contributes least to the argument.
+- id: m21-059
+  module: 21
+  lesson: "21.6"
+  subject: integrity
+  difficulty: 3
+  question: >-
+    During the final check you cannot find one AI-suggested ruling on any free host or database. Your
+    deadline is tonight. What do you do?
+  options:
+    - >-
+      Keep it, since the tool gave a precise case number.
+    - >-
+      Keep it with "לא פורסם" instead of a database.
+    - >-
+      Delete it and adjust the text that relied on it.
+    - >-
+      Replace it with a similar-sounding ruling you have not read.
+  correct: 2
+  explanation: >-
+    An unverifiable source must go; presenting it, or a substitute you have not read, would be
+    fabrication or misrepresentation.
+- id: m21-060
+  module: 21
+  lesson: "21.6"
+  subject: revision
+  difficulty: 3
+  question: >-
+    Your reviewer suggests adding a chapter on American case law; your question is about the Israeli
+    statute. What is the best response in the revision memo?
+  options:
+    - >-
+      Reject it with a reason, and note it as further research.
+    - >-
+      Accept it, since reviewers' comments must all be adopted.
+    - >-
+      Accept it and cut the counter-arguments to make room.
+    - >-
+      Ignore it without mentioning it in the memo.
+  correct: 0
+  explanation: >-
+    A reasoned rejection keeps the paper focused; recording it shows you engaged with the review.
+- id: m21-061
+  module: 21
+  lesson: "21.5"
+  subject: integrity
+  difficulty: 2
+  question: >-
+    Spot the problem: a student writes "בתי המשפט נוטים לבחון תחילה את מטרת השימוש" with a footnote,
+    but the sentence keeps the source's structure and three key phrases.
+  options:
+    - >-
+      Nothing, since a footnote makes any wording at all acceptable.
+    - >-
+      Quote it, or rewrite it in the student's own structure.
+    - >-
+      It should cite a Supreme Court ruling instead of an article.
+    - >-
+      It should be moved down into the footnote itself.
+  correct: 1
+  explanation: >-
+    Close paraphrase presents the author's wording as yours; quote it or genuinely rewrite it, and
+    keep the footnote.
+- id: m21-062
+  module: 21
+  lesson: "21.2"
+  subject: journals
+  difficulty: 2
+  question: >-
+    What do TAU's עיוני משפט terms say about using its online articles?
+  options:
+    - >-
+      Any use of the articles, including commercial use, is allowed.
+    - >-
+      Only registered and paying subscribers may read the articles.
+    - >-
+      Use is allowed for teaching, academic and research purposes only.
+    - >-
+      Articles may be used only after the author gives written consent.
+  correct: 2
+  explanation: >-
+    The volumes page permits use for teaching, academic and research purposes and prohibits commercial
+    use.

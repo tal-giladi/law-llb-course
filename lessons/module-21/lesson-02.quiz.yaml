@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You need a 2025 English-language article from the Israel Law Review for your paper, and you have
+    no university library access. What is your best expectation?
+  options:
+    - >-
+      It is paywalled, so you must buy it or ask the author for a copy.
+    - >-
+      It is available only through Nevo, which requires a paid subscription.
+    - >-
+      It is open access, because the journal moved to open access from 2025.
+    - >-
+      It is available only in print at the Hebrew University library.
+  correct: 2
+  explanation: >-
+    The Israel Law Review flipped to gold open access from volume 58(1) in January 2025, so recent
+    articles are free; older ones may still be paywalled.
+- id: q2
+  question: >-
+    You found one excellent 2024 article on your question. What is the most efficient next step to
+    complete your literature search?
+  options:
+    - >-
+      Follow its footnotes backwards and use "Cited by" to find newer work that cites it.
+    - >-
+      Stop, since one recent article already summarises the whole debate for you.
+    - >-
+      Ask an AI chatbot for a list of related articles and cite those it suggests.
+    - >-
+      Search newspapers for coverage of the article to see how it was received.
+  correct: 0
+  explanation: >-
+    Backward snowballing through footnotes and forward searching through "Cited by" are the two
+    fastest ways to map a literature; AI lists and news coverage are leads at most.
+- id: q3
+  question: >-
+    Which source should you NOT rely on for the proposition "the s. 19(a) list of fair-use purposes
+    is open" in your paper?
+  options:
+    - >-
+      The Supreme Court's ruling in Safecom (2013), which says the list is open.
+    - >-
+      A law-firm blog post that summarises the Nestlé ruling.
+    - >-
+      An article in a faculty law journal analysing the case law on s. 19.
+    - >-
+      The wording of s. 19(a) itself, with its phrase "such as".
+  correct: 1
+  explanation: >-
+    A blog post is a lead to the ruling, not authority. Cite the statute, the ruling and the
+    scholarly analysis.
+- id: q4
+  question: >-
+    Three weeks after reading an online article, you want to quote it. Your notes say only "good
+    point about open list". What habit would have prevented the problem?
+  options:
+    - >-
+      Reading every article twice before taking any notes at all.
+    - >-
+      Saving only the article's title, since the PDF will always be online.
+    - >-
+      Relying on the search engine to find the passage again when needed.
+    - >-
+      Recording the exact page, the claim and the access date in a literature map.
+  correct: 3
+  explanation: >-
+    A literature map row with the pinpoint, the author's claim and the access date lets you quote
+    accurately and cite the web source correctly without re-reading.

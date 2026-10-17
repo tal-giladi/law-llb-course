@@ -1,0 +1,172 @@
+- id: q1
+  question: >-
+    Your supervisor approves the topic "AI and the courts" but asks for a question by next week.
+    Which question is the best fit for a 15-page proseminar paper?
+  options:
+    - >-
+      What effects will artificial intelligence have on the Israeli legal system?
+    - >-
+      Should courts sanction self-represented parties who file AI-invented citations as lawyers are?
+    - >-
+      How do courts around the world use AI, and what should Israel learn from them?
+    - >-
+      Is it good or bad for judges and lawyers to use artificial intelligence tools?
+  correct: 1
+  explanation: >-
+    It is one sentence, open, answerable from a handful of recent decisions and articles, and invites
+    a thesis. The others are topics or several questions joined together.
+- id: q2
+  question: >-
+    You want to code 150 magistrates' court rulings to test whether judges apply a new statute
+    consistently. Before committing to this in your proposal, what should you check first?
+  options:
+    - >-
+      That the question can be stated as a normative one instead.
+    - >-
+      That a comparative chapter on two foreign systems can be added.
+    - >-
+      That you can actually access the rulings and code them in the time available.
+    - >-
+      That no article in English has ever addressed a similar question.
+  correct: 2
+  explanation: >-
+    Empirical papers depend on data access and time. Confirm both, and agree the plan with the
+    supervisor, before the method is fixed in the proposal.
+- id: q3
+  question: >-
+    You have no university library access. Which plan gives you the widest free coverage of Israeli
+    legal scholarship on your question?
+  options:
+    - >-
+      Search Nevo and Takdin, since they hold the full text of every Israeli law journal.
+    - >-
+      Ask an AI chatbot for the ten most important Hebrew articles on the question.
+    - >-
+      Rely on Wikipedia's references, since they list the leading articles in each field.
+    - >-
+      Search the HUJI, TAU and Haifa journal sites, Google Scholar and SSRN, then follow footnotes.
+  correct: 3
+  explanation: >-
+    Most Israeli faculty journals publish free PDFs; Google Scholar and SSRN add English and
+    working papers; footnote snowballing completes the map. Nevo and Takdin are paid.
+- id: q4
+  question: >-
+    A classmate's paper on administrative law begins its framework with an article from 2019, then a
+    district-court ruling, and only on page 5 quotes the statute that governs the issue. What is the
+    most important advice?
+  options:
+    - >-
+      Begin with the statute and binding rulings, then the rest.
+    - >-
+      Add more articles so that the framework looks better researched.
+    - >-
+      Move the statute to a footnote, since supervisors already know the law.
+    - >-
+      Begin with a comparative survey of foreign law before turning to Israel.
+  correct: 0
+  explanation: >-
+    A doctrinal argument follows the hierarchy of sources (Foundations of Law Act s. 1; Basic Law: The
+    Judiciary s. 20): legislation and binding precedent come first.
+- id: q5
+  question: >-
+    You argue that the courts misread a statute. A respected article argues the opposite. Where and how
+    should it appear in your paper?
+  options:
+    - >-
+      Nowhere, because citing it would only weaken your own thesis.
+    - >-
+      In the counter-arguments part, stated at full strength and answered.
+    - >-
+      Only in the bibliography, so that the supervisor can see that you read it.
+    - >-
+      In a footnote with the signal "ראו", since it relates closely to your point.
+  correct: 1
+  explanation: >-
+    The strongest opposing view must be stated fairly and answered; in a footnote it takes "מנגד" or
+    "אבל ראו", never "ראו", which signals support.
+- id: q6
+  question: >-
+    Which footnote follows the uniform citation rules for an article in דין ודברים vol. 18, which
+    begins at page 107, cited at page 110, with only the Hebrew year on the issue?
+  options:
+    - >-
+      ניבין עמנואל ואורן גזל-אייל "מאסר על תנאי" דין ודברים יח 107, 110 (התשפ"ה).
+    - >-
+      עמנואל, נ. וגזל-אייל, א., "מאסר על תנאי", דין ודברים, כרך 18, עמ' 107-110, 2025.
+    - >-
+      ניבין עמנואל ואורן גזל-אייל, מאסר על תנאי (דין ודברים יח, 110).
+    - >-
+      עמנואל וגזל-אייל, "מאסר על תנאי", דין ודברים יח, בעמ' 110 (2025), נצפה לאחרונה היום.
+  correct: 0
+  explanation: >-
+    Rule 24.1: full names, title in quotation marks, journal, Hebrew-letter volume, first page, comma,
+    pinpoint, and the year as printed with ה"א when only a Hebrew year appears (rule 24.9).
+- id: q7
+  question: >-
+    You are at Tel Aviv University. The syllabus of your proseminar says AI may be used only for
+    language editing, to be declared. You used a chatbot to write the first draft of Part ג and did not
+    declare it. What is your exposure?
+  options:
+    - >-
+      None, since TAU encourages AI use and the lecturer's rules are only non-binding guidance.
+    - >-
+      Only a lower grade, since the disciplinary rules do not cover AI tools at all.
+    - >-
+      A complaint for breach of instructions or cheating, and disqualification.
+    - >-
+      A copyright claim by the AI company, which owns all the text the tool produced.
+  correct: 2
+  explanation: >-
+    At TAU the lecturer's AI rules bind; breaching them is an offence under s. 29.4, and presenting
+    another's writing as yours can be cheating under s. 29.3, which requires disqualification (s. 32).
+- id: q8
+  question: >-
+    You found a quotation from a 1995 article in another author's footnote, and you cannot get the 1995
+    article. How do you cite it?
+  options:
+    - >-
+      Cite the 1995 article directly, since the other author has already checked it.
+    - >-
+      Paraphrase the quotation so you need not cite either source.
+    - >-
+      Cite only the other author, and present the quoted words as theirs.
+    - >-
+      Cite the 1995 article "מובא אצל" the article where you found it, with both pinpoints.
+  correct: 3
+  explanation: >-
+    Citing a source you did not read as if you had is citation laundering; "מובא אצל" tells the reader
+    exactly what you saw, and copies no error silently.
+- id: q9
+  question: >-
+    Your paper quotes two sentences from a journal article, in quotation marks, with a footnote, and then
+    criticises them. Under the Copyright Law, how is this best described?
+  options:
+    - >-
+      Infringement, because quoting any copyrighted text requires the author's permission.
+    - >-
+      A use for listed purposes (quotation, criticism, research) that is short and transformative.
+    - >-
+      Fair use only if the journal's terms of use expressly allow quotation.
+    - >-
+      Outside copyright entirely, because academic articles are not protected works.
+  correct: 1
+  explanation: >-
+    Section 19(a) lists quotation, criticism and research; a short, attributed, critical quotation
+    weighs strongly toward fairness under s. 19(b), and naming the author respects s. 46.
+- id: q10
+  question: >-
+    You are writing your own summations in a small civil case and used an AI tool to find supporting
+    rulings. It gave you three. What must you do before filing?
+  options:
+    - >-
+      File them, since self-represented parties are not held to the standards of lawyers.
+    - >-
+      Add a note that the rulings were found by AI, which shifts the responsibility to the tool.
+    - >-
+      Open each ruling, confirm it, and drop any you cannot confirm.
+    - >-
+      Replace them with academic articles, which courts do not usually check.
+  correct: 2
+  explanation: >-
+    Courts have criticised and sanctioned filings with invented citations; the person who signs the
+    document is responsible. Only the original text confirms a citation.

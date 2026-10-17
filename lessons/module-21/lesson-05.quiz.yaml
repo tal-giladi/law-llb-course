@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You take a paragraph from an article, change most of the words and the order of the sentences,
+    and add no footnote, since "it is now in my own words". How do TAU's disciplinary rules treat
+    this?
+  options:
+    - >-
+      As permitted, because only verbatim copying counts as cheating.
+    - >-
+      As cheating: s. 29.3.6 covers rewriting a passage without citing it.
+    - >-
+      As a breach of instructions only, unless the lecturer banned paraphrasing.
+    - >-
+      As a copyright issue only, to be raised by the article's author.
+  correct: 1
+  explanation: >-
+    Section 29.3.6 covers copying, translating or rewriting (שכתוב) passages from any source without
+    citing it. A paraphrase still needs a footnote.
+- id: q2
+  question: >-
+    You study at Bar-Ilan. Your syllabus says nothing about AI, and you used a chatbot to brainstorm
+    your outline. What must you do?
+  options:
+    - >-
+      Nothing, since silence in the syllabus means AI use is not regulated.
+    - >-
+      Stop and rewrite the outline, since use is banned unless expressly allowed.
+    - >-
+      Declare the use and how it contributed, since the default is "allowed with disclosure".
+    - >-
+      Ask the AI tool to confirm in writing that its output is original.
+  correct: 2
+  explanation: >-
+    Bar-Ilan's instructions make use permitted unless the lecturer explicitly forbade it, with a
+    duty to disclose use or non-use and its contribution.
+- id: q3
+  question: >-
+    An AI tool gives you a Supreme Court ruling with a case number and a perfect quotation that
+    supports your court argument. What is your next step?
+  options:
+    - >-
+      Open the ruling yourself and confirm its number, parties and quote.
+    - >-
+      Cite it, since tools trained on legal data are accurate about case numbers.
+    - >-
+      Cite it with a note that the source was found by an AI tool.
+    - >-
+      Ask the same tool again whether the ruling exists, and cite it if it says yes.
+  correct: 0
+  explanation: >-
+    Tools invent rulings and quotations; courts have criticised and sanctioned such filings. Only the
+    original text confirms a citation, and you are responsible for what you file.
+- id: q4
+  question: >-
+    Your paper reproduces three full pages of an article, with a footnote at the end. A friend says
+    the footnote makes it fair use. Is that right?
+  options:
+    - >-
+      Yes, because any use for research purposes is automatically fair use.
+    - >-
+      Yes, because the author's moral right is satisfied by naming the author.
+    - >-
+      No, because academic papers may never quote copyrighted works at all.
+    - >-
+      No, because fairness also weighs the amount taken and the effect on the work's market.
+  correct: 3
+  explanation: >-
+    Section 19(b) weighs purpose, the nature of the work, the amount used and the market effect;
+    attribution satisfies s. 46 but does not by itself make a large copy fair.

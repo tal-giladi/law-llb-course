@@ -1,0 +1,64 @@
+- id: q1
+  question: >-
+    You have twelve hours for the paper. In which order should you write its parts?
+  options:
+    - >-
+      Introduction, framework, argument, conclusion, then footnotes on the last night.
+    - >-
+      Footnotes first, then the text around them, then the introduction.
+    - >-
+      Framework and argument, then the introduction, then footnote checks.
+    - >-
+      Conclusion first, then work backwards to the framework and introduction.
+  correct: 2
+  explanation: >-
+    The introduction can only describe the paper accurately once the argument exists; separate
+    footnote and integrity passes catch what drafting misses.
+- id: q2
+  question: >-
+    Your rubric score is 17 of 20, but "counter-argument stated fairly" scored 0. Should you submit?
+  options:
+    - >-
+      Yes, since 17 is above the 16-point threshold the rubric sets.
+    - >-
+      No: a 0 means a missing part; add the objection and a reply first.
+    - >-
+      Yes, because counter-arguments are optional in a proseminar paper.
+    - >-
+      No: rewrite the whole paper from the beginning with a new question.
+  correct: 1
+  explanation: >-
+    The rubric requires at least 16 with no line at 0. A missing counter-argument is fixed by one
+    focused section, not by starting over.
+- id: q3
+  question: >-
+    Your draft is 19 pages and the limit is 15. What should you cut first?
+  options:
+    - >-
+      Background in the legal framework that the argument does not use.
+    - >-
+      The counter-arguments section, since it argues against your thesis.
+    - >-
+      The footnotes, since they count toward the page limit anyway.
+    - >-
+      The introduction's roadmap, since the headings already show the structure.
+  correct: 0
+  explanation: >-
+    Excess background is the usual cause of overlength; the counter-arguments, footnotes and roadmap
+    all do necessary work.
+- id: q4
+  question: >-
+    A week later you write your own appeal in a small dispute. Which habit from this lab helps most?
+  options:
+    - >-
+      Opening with a long survey of the literature on the area of law.
+    - >-
+      Putting all citations in footnotes in the uniform-rules format.
+    - >-
+      Including an AI-use declaration as an appendix to the appeal.
+    - >-
+      Stating the question and the remedy first, then numbered arguments.
+  correct: 3
+  explanation: >-
+    Courts read like supervisors: they look for the question, the claim and the support. A clear
+    structure and checked citations matter far more than academic conventions.

@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    You quote page 190 of an article that starts on page 183 of עיוני משפט volume 34 (2011). Which
+    footnote follows the uniform citation rules?
+  options:
+    - >-
+      רונית לוין-שנור, "הפרטה, הפרדה והפליה", עיוני משפט 34, עמ' 183-190 (2011).
+    - >-
+      לוין-שנור ר', הפרטה, הפרדה והפליה, עיוני משפט לד, בעמ' 190, 2011.
+    - >-
+      רונית לוין-שנור "הפרטה, הפרדה והפליה" עיוני משפט לד 183, 190 (2011).
+    - >-
+      רונית לוין-שנור הפרטה, הפרדה והפליה (עיוני משפט, כרך לד, 2011) 190.
+  correct: 2
+  explanation: >-
+    Rule 24.1: full name, title in quotation marks, journal, volume in Hebrew letters, first page,
+    comma and pinpoint, year in brackets; no commas between author, title and journal.
+- id: q2
+  question: >-
+    A source you cite in a footnote supports your point only by analogy from a different area of law.
+    Which signal fits?
+  options:
+    - >-
+      ראו גם
+    - >-
+      השוו ל
+    - >-
+      ראו
+    - >-
+      מנגד
+  correct: 1
+  explanation: >-
+    Under rule 38.4 "השוו ל" marks a source that supports an argument from which the text follows by
+    analogy; "ראו" means the text follows directly, and "מנגד" marks a contrary source.
+- id: q3
+  question: >-
+    How do you cite an English-language law review article inside a Hebrew footnote?
+  options:
+    - >-
+      By the Bluebook, placed in the footnote as if it were a Hebrew citation.
+    - >-
+      Translate the title into Hebrew and use the Hebrew article formula.
+    - >-
+      By APA style, since the uniform rules do not cover foreign sources.
+    - >-
+      In a separate English-only footnote at the end of the paper.
+  correct: 0
+  explanation: >-
+    Rule 35.1 sends foreign sources to the latest Bluebook edition; rule 35.3 integrates them into
+    the Hebrew footnote, with the footnote's punctuation at the end.
+- id: q4
+  question: >-
+    You cite an article from משפטים על אתר, HUJI's online platform. Which rule applies?
+  options:
+    - >-
+      The web-source formula, with the full URL and the date you viewed the page.
+    - >-
+      The unpublished-works rule, because it never appeared in print.
+    - >-
+      The book formula, since the platform is published by a university.
+    - >-
+      The ordinary journal-article formula, as for a printed journal.
+  correct: 3
+  explanation: >-
+    Rule 24.10: articles in online journals and online platforms of journals are cited like printed
+    journal articles; the web formula (34.2.1) is for sources that exist only online.

@@ -1,0 +1,20 @@
+- **פרוסמינר** (Proseminar) — First research-paper course in the LL.B., before the seminar; at TAU a 3-credit condition for the year-3 seminar.
+- **עבודה סמינריונית** (Avoda seminaryonit) — Seminar paper: a longer research paper, usually in year 3 or 4.
+- **שאלת המחקר** (She'elat ha-mechkar) — The research question: one sentence a paper sets out to answer.
+- **טענת המחקר / תזה** (Ta'anat ha-mechkar / teza) — The thesis: the answer a paper argues for.
+- **הצעת מחקר** (Hatza'at mechkar) — Research proposal: a one-page plan with question, thesis, method and sources.
+- **סקירת ספרות** (Skirat sifrut) — Literature review: an account of what scholars have already written on the question.
+- **מפת דרכים** (Mapat drachim) — Roadmap: the passage at the end of an introduction that says what each part of the paper does.
+- **דין מצוי / דין רצוי** (Din matzui / din ratzui) — The law as it is / the law as it should be.
+- **מאמר תגובה** (Ma'amar tguva) — Response article: a published reply to another author's article.
+- **ביטוי מקדים** (Bitui makdim) — Introductory signal in a footnote (ראו, ראו גם, השוו ל, מנגד, אבל ראו), uniform citation rules r. 38.4.
+- **מובא אצל** (Muva etzel) — "Quoted in": the way to cite a source known only through another author's citation.
+- **יושרה אקדמית** (Yoshra akademit) — Academic integrity.
+- **גניבה ספרותית / פלגיאט** (Gneva sifrutit / plagiat) — Plagiarism: using another's words or ideas as one's own.
+- **הונאה בעבודה** (Hona'a ba-avoda) — Cheating in a paper: a university disciplinary offence (e.g. TAU rules s. 29.3).
+- **הפרת הוראות** (Hafarat hora'ot) — Breach of instructions relating to an assignment: a separate, lesser disciplinary offence (TAU s. 29.4).
+- **בידוי נתונים** (Bidui netunim) — Fabrication of data.
+- **הבאת מובאות** (Hava'at muva'ot) — Quotation; one of the fair-use purposes in Copyright Law s. 19(a).
+- **זכות מוסרית** (Zchut musarit) — Moral right: the author's right to be named and to the integrity of the work (Copyright Law s. 46).
+- **ביקורת עמיתים** (Bikoret amitim) — Peer review.
+- **מחוון** (Machvan) — Rubric used to grade or self-assess written work.
