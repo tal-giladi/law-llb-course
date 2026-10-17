@@ -180,9 +180,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הטרדה מינית** (Hatrada minit) — Sexual harassment as defined in s. 3 of the Prevention of Sexual Harassment Law.
 - **היועץ המשפטי לממשלה** (ha-yo'etz ha-mishpati la-memshala) — Attorney General.
 - **היזק בזדון** (Hezek be-zadon) — Malicious damage to property (s. 452).
+- **היטל השבחה** (hetel hashbaha) — Betterment levy: half of the increase in land value from a plan, relief or non-conforming use (Third Schedule).
 - **היסוד הנפשי** (Ha-yesod ha-nafshi) — The mental element (mens rea).
 - **היסוד העובדתי** (Ha-yesod ha-uvdati) — The factual element (actus reus): conduct, circumstances and, in result offences, the result (s. 18).
 - **היקש** (hekesh) — analogy, reasoning from a similar rule.
+- **היתר בנייה** (heter bniya) — Building permit required for building, adding, demolishing and listed works (s. 145).
 - **היתר פיטורים** (Heter piturim) — Ministerial permit needed to dismiss a pregnant employee or one after maternity leave or in fertility treatment.
 - **הכחשה מפורשת ומפורטת** (Hakchasha meforeshet umefuretet) — Express and detailed denial required to avoid deemed admission (reg. 14(ב)).
 - **הכנה** (Hakhana) — Preparation, not punishable by itself.
@@ -196,6 +198,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הלכת השיתוף** (Hilkhat ha-shituf) — Presumption of community of property, for marriages before 1974 and, with limits, cohabitants.
 - **המג׳לה** (ha-majalla) — the Mejelle, the Ottoman civil code, repealed in full in 1984.
 - **המהפכה החוקתית** (Ha-mahapekha ha-hukatit) — The constitutional revolution: the 1992 rights Basic Laws and Bank Mizrahi (1995), which made judicial review of statutes possible.
+- **המועצה הארצית לתכנון ולבניה** (ha-mo'atza ha-artzit le-tikhnun u-vniya) — National Planning and Building Council; advises the Government and prepares national outline plans (s. 2).
 - **המועצה הישראלית לצרכנות** (Hamo'etza hayisra'elit letzarchanut) — Israel Consumer Council, a statutory body that advises, assists and may represent consumers.
 - **הממונה על הגנת הצרכן** (Hamemuneh al haganat hatzarchan) — Consumer Protection Commissioner, head of the Consumer Protection and Fair Trade Authority.
 - **הממונה על המרשם** (Ha-memune al ha-mirsham) — Registration commissioner, who hears administrative appeals (ערר) against registrars and superintendents (s. 121).
@@ -239,6 +242,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הפליה** (Haflaya) — Discrimination on a ground listed in the Equal Employment Opportunities Law.
 - **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
 - **הפקדת צוואה** (hafkadat tzava'a) — Deposit of a will with the Registrar of Inheritance by the testator personally (s. 21).
+- **הפקדת תכנית** (hafkadat tokhnit) — Deposit of a plan for public inspection and objections (ss. 85–92).
 - **הפרדה בין המשפט למוסר** (Hafrada bein ha-mishpat la-musar) — The separation thesis: whether a law exists and whether it is good are different questions (Austin).
 - **הפרה יסודית** (hafara yesodit) — fundamental breach (Remedies Law s. 6).
 - **הפרה צפויה** (hafara tzfuya) — anticipatory breach (s. 17).
@@ -254,10 +258,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הצעת מחקר** (Hatza'at mechkar) — Research proposal: a one-page plan with question, thesis, method and sources.
 - **הקדמת מועד האיזון** (Hakdamat mo'ed ha-izun) — Bringing the balance of resources forward before divorce (s. 5א).
 - **הקטנת הנזק** (haktanat ha-nezek) — mitigation of damage (s. 14).
+- **הקלה** (hakala) — Relief: a permitted minor deviation from a plan, which may not add area, units or floors (ss. 147, 151).
 - **הקצין הממונה** (hakatzin hamemune) — Officer in charge at the station who reviews an arrest and may release, set police bail or hold the detainee for a judge (Arrests Law ss. 27–28, 42).
 - **הרכב** (herkev) — panel of judges.
 - **הרמת מסך** (Haramat masakh) — Lifting (piercing) the corporate veil (Companies Law s. 6).
 - **הרצאת פרטים** (Hartza'at pratim) — Statement of particulars (Forms 3 and 4) filed with family claims; omissions may be treated as admissions.
+- **הרשות לאכיפה במקרקעין** (ha-rashut le-akhifa be-mekarke'in) — National Land Enforcement Authority, the national planning enforcement unit (s. 203).
 - **הרשם לענייני ירושה** (ha-rasham le-inyanei yerusha) — Registrar of Inheritance, part of the Administrator General, who gives uncontested orders (s. 65א).
 - **הרתעת הרבים** (Harta'at ha-rabim) — General deterrence (s. 40ז).
 - **השבה** (hashava) — restitution after cancellation.
@@ -276,16 +282,24 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **התיישנות פרט רישום** (hityashnut prat rishum) — Limitation of a record entry, after which it is given only to listed bodies (Criminal Information Law ss. 18–20).
 - **התיישנות שלא מדעת** (Hityashnut shelo mida'at) — Limitation running only from discovery of the facts (Prescription Law s. 8).
 - **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
+- **התנגדות לתכנית** (hitnagdut le-tokhnit) — Objection to a deposited plan, in writing with reasons and an affidavit, within two months (ss. 100–103א).
 - **התנכלות** (Hitnaklut) — Retaliation for harassment or for complaining about it.
 - **התפטרות בדין מפוטר** (Hitpatrut be-din mefutar) — Resignation treated as dismissal for severance purposes (Severance Pay Law s. 11 and others).
 - **ויתור וסילוק** (Vitur vesiluk) — Release and discharge clause in a settlement.
 - **ויתור על חלק מהסעד** (vitur al helek me-ha-sa'ad) — Waiving part of the remedy, e.g. to bring a claim within the expedited ceiling (Labour Court Procedure Regulations reg. 26(א)).
+- **ועדה מחוזית לתכנון ולבניה** (va'ada mehozit) — District planning committee, chaired by the Interior Minister's representative (s. 7).
+- **ועדה ממונה** (va'ada memuna) — Committee appointed by the Interior Minister to replace a failing council (Municipalities Ordinance s. 143).
+- **ועדה מקומית לתכנון ולבניה** (va'ada mekomit) — Local planning committee; in a single-authority area, the elected council itself (s. 18).
+- **ועדה מרחבית** (va'ada merhavit) — Local planning committee covering several authorities, with a chair appointed by the Interior Minister (s. 19).
 - **ועדה רפואית לעררים** (Va'ada refu'it le-ararim) — Medical appeals committee of the NII.
 - **ועדת השרים לענייני חקיקה** (Va'adat ha-sarim le-inyenei hakika) — Ministerial Committee for Legislation, which decides the Government's position on bills.
 - **ועדת חריגים** (va'adat charigim) — Exceptions committee (e.g. for rent assistance outside the rules).
 - **ועדת מכרזים** (Va'adat michrazim) — Tender committee.
 - **ועדת ערר (מיסוי מקרקעין)** (va'adat arar) — Real-estate taxation appeals committee chaired by a judge (Real Estate Taxation Law ss. 88–89).
 - **ועדת ערר (שירותי הסעד)** (va'adat arar) — Welfare appeals committee hearing appeals against municipal social services departments (Welfare Services Law s. 2).
+- **ועדת ערר (תכנון ובנייה)** (va'adat erer) — District appeals committee for planning, chaired by an experienced lawyer (ss. 12א–12ב).
+- **ועדת ערר לענייני ארנונה** (va'adat erer le-inyanei arnona) — Arnona appeals committee of three persons eligible for the council (s. 5).
+- **ועדת ערר לפיצויים ולהיטל השבחה** (va'adat erer le-pitzuyim ve-hetel hashbaha) — Appeals committee for compensation and betterment levy disputes (s. 12ו).
 - **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
 - **זוכה** (Zocheh) — Judgment creditor in an execution file.
 - **זוכה על פי צוואה** (zokhe al pi tzava'a) — Beneficiary under a will.
@@ -439,6 +453,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מדרג הנורמות** (Midrag ha-normot) — The hierarchy of norms: by-law, regulation, statute, Basic Law.
 - **מובא אצל** (Muva etzel) — "Quoted in": the way to cite a source known only through another author's citation.
 - **מומחה מטעם בית המשפט** (mumche mita'am beit hamishpat) — Court-appointed expert (CPR reg. 88); appointment with the parties' consent usually excludes party opinions.
+- **מוסד תכנון** (mosad tikhnun) — Planning institution under the Planning and Building Law 1965: the National Council, district, local, special and joint committees.
 - **מועד קובע** (mo'ed kove'a) — Fatal deadline: a period whose expiry ends a right or a route (e.g. the 30-day NII medical appeal).
 - **מועדים שורדים** (mo'adim sordim) — Surviving deadlines: dates that outlive the case and need action later.
 - **מוריש** (morish) — The deceased whose estate passes on death (Succession Law s. 1).
@@ -452,16 +467,19 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מחוברים** (Mehubarim) — Fixtures: things permanently attached to land, owned with the land (Land Law s. 12).
 - **מחוון** (Machvan) — Rubric used to grade or self-assess written work.
 - **מחזיק** (Machzik) — Holder: a third party (such as a bank) holding the respondent's assets (regs 104–105).
+- **מחזיק (ארנונה)** (mahzik) — Holder liable for arnona: the person in actual possession (Municipalities Ordinance s. 1).
 - **מחיקה / דחייה על הסף** (Mechika / dchiya al hasaf) — Striking out (not res judicata) / summary dismissal (final) (regs 41, 43).
 - **מחיקת פרט רישום** (mechikat prat rishum) — Deletion of a record entry after a further period (Criminal Information Law ss. 21–23).
 - **מחלקה לשירותים חברתיים** (Mahlaka le-sherutim hevratiyim) — Municipal social services department.
 - **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
+- **מידע להיתר** (meida le-heter) — Official planning information for a plot given by the committee engineer before a permit application (s. 145(א1)).
 - **מידע פלילי** (meida plili) — Criminal information: the contents of the criminal register and the police register (Criminal Information Law 2019 s. 1).
 - **מידתיות** (Midatiyut) — Proportionality; with immediacy and necessity, one of the conditions of self-defence and necessity. A defence does not apply where the act was not reasonable in the circumstances (s. 34טז).
 - **מידתיות במובן הצר** (Midatiyut ba-muvan ha-tzar) — Proportionality in the narrow sense: the benefit is in reasonable relation to the harm.
 - **מיטלטלין** (Metaltelin) — Movables: tangible property other than land; the Movable Property Law also applies to rights (s. 13).
 - **מיטרד ליחיד** (Mitrad leyachid) — Private nuisance: substantial interference with reasonable use or enjoyment of land (s. 44).
 - **מיטרד לציבור** (Mitrad latzibur) — Public nuisance (s. 42).
+- **מימוש זכויות** (mimush zekhuyot) — Realisation of rights (a permit using new rights, first use, or a transfer), when the levy is paid.
 - **מיצוי הליכים / פנייה מוקדמת** (Mitzui halikhim / pniya mukdemet) — Exhaustion of remedies / prior written demand to the authority before petitioning.
 - **מיצוי זכויות** (mitzui zchuyot) — Realising one's rights; the social services department must help with it (Welfare Services Law s. 2ב).
 - **מירוץ הסמכויות** (Merotz ha-samkhuyot) — The race between a religious court and the Family Court to be seised first.
@@ -473,6 +491,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ממונה על חופש המידע** (Memune al hofesh ha-meida) — The FOI officer of a public authority (FOI Law s. 3).
 - **מנהג** (Minhag) — Custom, a legal source of Jewish law, strong in civil matters.
 - **מנהג בינלאומי** (Minhag beinleumi) — Customary international law: a general practice accepted as law; part of Israeli law unless a statute provides otherwise.
+- **מנהל הארנונה** (menahel ha-arnona) — Arnona director, who hears objections under the Arnona Appeals Law (s. 2).
 - **מנהל כללי** (Menahel klali) — General manager (CEO).
 - **מנהל עיזבון** (menahel izavon) — Estate administrator appointed by the court or, by consent, the Registrar (s. 78).
 - **מנוחה שבועית** (Menuha shvu'it) — Weekly rest of at least 36 consecutive hours.
@@ -582,6 +601,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ספר החוקים (ס"ח)** (Sefer HaChukim) — The Reshumot series in which Knesset laws are published.
 - **ספר החוקים הפתוח** (Sefer HaChukim HaPatuach) — The Open Law Book: free, unofficial consolidated texts of Israeli laws on Wikisource.
 - **סקירת ספרות** (Skirat sifrut) — Literature review: an account of what scholars have already written on the question.
+- **עבודה אסורה** (avoda asura) — Prohibited work: work without or contrary to a permit (Chapter 10).
 - **עבודה סמינריונית** (Avoda seminaryonit) — Seminar paper: a longer research paper, usually in year 3 or 4.
 - **עבודות שירות** (Avodot sherut) — Imprisonment served as community work.
 - **עבירה בת מעצר** (avera bat ma'atzar) — Arrestable offence: any offence except a contravention (Arrests Law s. 23(א)(7)).
@@ -658,6 +678,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פגרה** (Pagra) — Court recess; counts in small-claims periods unless the court orders otherwise (reg. 16א(ב)).
 - **פדיון חופשה** (Pidyon hufsha) — Redemption in money of unused annual leave when employment ends.
 - **פוזיטיביזם משפטי** (Pozitivizm mishpati) — Legal positivism: the validity of law depends on its source, not its merit.
+- **פטור מהיתר** (ptor me-heter) — Exemption from a permit for simple listed works under the 2014 Exemption Regulations (s. 145ג).
 - **פטור עקב חרטה** (Ptor ekev harata) — Exemption for voluntary withdrawal from an attempt or complicity (s. 28, s. 34).
 - **פיצוי לנפגע** (Pitzuy la-nifga) — Compensation to the victim ordered on conviction (Penal Law s. 77).
 - **פיצויי הלנת שכר** (Pitzuyei halanat sachar) — Statutory compensation for late wages (Wage Protection Law s. 17).
@@ -705,10 +726,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **צו (בהשגה)** (tzav) — Order deciding an income-tax objection when no agreement is reached (ITO s. 152(ב)).
 - **צו ארעי** (Tzav ar'i) — Temporary order given without hearing the respondent (procedure regs, reg. 9א).
 - **צו ביניים** (Tzav beinayim) — Interim order pending the decision (HCJ Procedure Regulations reg. 19).
+- **צו הארנונה** (tzav ha-arnona) — The council's annual arnona order setting classifications, zones and rates.
 - **צו הגבלה** (Tzav hagbala) — Restriction order against a spouse who does not comply with a divorce judgment.
 - **צו הגנה** (Tzav hagana) — Protection order (Prevention of Family Violence Law 1991).
 - **צו הורות** (Tzav horut) — Parentage order given to intended parents after a surrogacy birth.
 - **צו הרחבה** (Tzav harhava) — Extension order spreading a general collective agreement to others.
+- **צו הריסה מינהלי** (tzav harisa minhali) — Administrative demolition order given without a court for recent work (s. 221).
 - **צו ירושה** (tzav yerusha) — Succession order declaring heirs and shares on intestacy (s. 66).
 - **צו מרווה** (Tzav Mareva) — Freezing order acting on the person; given as a temporary injunction (reg. 109).
 - **צו על תנאי** (Tzav al tnai) — Order nisi: an order to the respondent to show cause why relief should not be granted.
@@ -760,6 +783,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רשות האכיפה והגבייה** (Reshut ha'akifa vehagvi'a) — Enforcement and Collection Authority, which runs the Execution Offices.
 - **רשות מכוננת / סמכות מכוננת** (Rashut mekhonenet / samkhut mekhonenet) — Constituent authority / constituent power: the power to make a constitution, which the Knesset exercises when enacting Basic Laws (Bank Mizrahi, majority view).
 - **רשות מקרקעי ישראל (רמ״י)** (Reshut mekarke'ei yisra'el) — Israel Land Authority, which manages state, Development Authority and JNF land, mostly by long leases.
+- **רשות רישוי** (reshut rishui) — Licensing authority: the local committee chair and engineer together, who grant ordinary permits (s. 30).
 - **רשימת הבקשות** (Reshimat habakashot) — List of motions filed before the first pre-trial hearing (reg. 49(ג)).
 - **רשלנות** (Rashlanut) — Negligence: careless conduct towards someone owed a duty, causing damage (ss. 35–36).
 - **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
@@ -786,6 +810,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שיהוי** (Shihui) — Delay (laches): subjective delay, objective delay and the rule-of-law interest (Aviram).
 - **שימוע** (Shimu'a) — Pre-dismissal hearing.
 - **שימוע לפני הגשת כתב אישום** (Shimu'a) — Pre-indictment hearing: a felony suspect's written request not to be indicted (CPL s. 60א).
+- **שימוש חורג** (shimush horeg) — Non-conforming use permitted by the local committee for a limited time (ss. 146, 148).
 - **שימוש לרעה בהליך** (Shimush lera'a bahalich) — Abuse of process (reg. 4): a step meant to disrupt, delay or harass, or disproportionate to the case.
 - **שימוש לרעה בזכות** (shimush le-ra'a bi-zkhut) — abuse of a right.
 - **שימוש לרעה בסמכות המכוננת** (Shimush lera'a ba-samkhut ha-mekhonenet) — Abuse of constituent power: using the form of a Basic Law for a norm that lacks stability, generality or fit with the constitutional fabric (Bar-On, Shafir).
@@ -799,6 +824,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שכר ראוי** (Skhar ra'ui) — Reasonable payment for use, owed by a co-owner who used the common property (Land Law s. 33).
 - **שלטון החוק הפורמלי / המהותי** (Shilton ha-hok ha-formali / ha-mahuti) — The formal (thin) and substantive (thick) conceptions of the rule of law.
 - **שמאי** (Shamai) — Loss adjuster, assessor.
+- **שמאי מכריע** (shamai makhri'a) — Decisive appraiser who decides disputes on the amount of a levy or compensation.
 - **שנאת הפסד** (Sin'at hefsed) — Loss aversion: losses weigh roughly twice as much as equal gains.
 - **שעבוד** (Shi'bud) — Charge (security interest) registered over a company's assets.
 - **שפיטות** (Shfitut) — Justiciability, institutional and normative.
@@ -834,6 +860,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תכלית אובייקטיבית** (tachlit obyektivit) — Objective purpose: the purpose reflecting the legal system's values.
 - **תכלית סובייקטיבית** (tachlit subyektivit) — Subjective purpose: what the legislature actually intended.
 - **תכלית ראויה** (Takhlit re'uya) — Proper purpose, a condition of the limitation clause.
+- **תכנית מיתאר ארצית (תמ״א)** (tokhnit mit'ar artzit) — National outline plan; prevails over all other plans unless it says otherwise (s. 131).
+- **תכנית מפורטת** (tokhnit meforetet) — Detailed plan with plot-level provisions from which permits are issued (s. 69).
 - **תלונה** (Tluna) — A complaint to the police (Criminal Procedure Law s. 58).
 - **תלוש שכר** (Tlush sachar) — Payslip, which must contain the details in the Wage Protection Law Schedule.
 - **תלמוד** (Talmud) — The Babylonian and Jerusalem discussions of the Mishnah; records disputes and rulings.

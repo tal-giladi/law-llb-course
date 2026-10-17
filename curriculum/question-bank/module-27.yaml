@@ -1,0 +1,1348 @@
+- id: m27-001
+  module: 27
+  lesson: "27.1"
+  subject: planning-institutions
+  difficulty: 1
+  question: >-
+    Who chairs a district planning committee?
+  options:
+    - >-
+      The mayor of the district's largest city.
+    - >-
+      The representative of the Interior Minister.
+    - >-
+      A retired judge appointed by the Justice Minister.
+    - >-
+      The district planner of the Planning Administration.
+  correct: 1
+  explanation: >-
+    Section 7(א)(1) makes the Interior Minister's representative the chair; the district planner
+    and others serve as members or advisers.
+- id: m27-002
+  module: 27
+  lesson: "27.1"
+  subject: planning-institutions
+  difficulty: 1
+  question: >-
+    Who chairs a district appeals committee for planning matters?
+  options:
+    - >-
+      A lawyer of at least five years' standing versed in planning.
+    - >-
+      The district committee's chair, sitting on appeal from local decisions.
+    - >-
+      A planner chosen by the local authorities of the district.
+    - >-
+      A member of the National Council chosen by rotation each year.
+  correct: 0
+  explanation: >-
+    Section 12א(א)(1): an experienced lawyer versed in planning, appointed jointly by the Interior
+    and Justice ministers, chairs the appeals committee.
+- id: m27-003
+  module: 27
+  lesson: "27.1"
+  subject: planning-institutions
+  difficulty: 2
+  question: >-
+    A regional council's villages are served by one planning committee for several authorities.
+    Who appoints its chair?
+  options:
+    - >-
+      The heads of the regional councils, by rotation.
+    - >-
+      The residents, in the local elections.
+    - >-
+      The Interior Minister.
+    - >-
+      The district appeals committee.
+  correct: 2
+  explanation: >-
+    Under s. 19(א)(1) the chair of a committee covering several authorities is appointed by the
+    Interior Minister, with exceptions for areas dominated by one large authority.
+- id: m27-004
+  module: 27
+  lesson: "27.1"
+  subject: planning-institutions
+  difficulty: 2
+  question: >-
+    Which body decides a request for relief (הקלה) from a plan's building line?
+  options:
+    - >-
+      The licensing authority (chair and engineer) alone.
+    - >-
+      The district committee, because it approved the plan.
+    - >-
+      The appeals committee, at first instance.
+    - >-
+      The local committee, after publication.
+  correct: 3
+  explanation: >-
+    Relief and non-conforming use are decided by the local committee (ss. 146–147, 149), not by the
+    licensing authority that grants ordinary permits under s. 30.
+- id: m27-005
+  module: 27
+  lesson: "27.1"
+  subject: forum
+  difficulty: 2
+  question: >-
+    Which court reviews, by petition, a local committee's decision approving a permit, where no
+    statutory appeal is available to the petitioner?
+  options:
+    - >-
+      The Administrative Affairs Court.
+    - >-
+      The High Court of Justice.
+    - >-
+      The local-affairs court.
+    - >-
+      The magistrates' court for the area.
+  correct: 0
+  explanation: >-
+    Planning and building matters (except Chapter 10 enforcement) are in the First Schedule of the
+    Administrative Courts Law, so petitions go to the Administrative Affairs Court.
+- id: m27-006
+  module: 27
+  lesson: "27.1"
+  subject: planning-institutions
+  difficulty: 3
+  question: >-
+    A city councillor who also sits on the local planning committee applies to be a public
+    representative on the district appeals committee. What is the likely answer?
+  options:
+    - >-
+      Accepted, because councillors bring local knowledge to appeals.
+    - >-
+      Accepted, if he resigns from the local committee only.
+    - >-
+      Refused, because council and committee members are barred.
+    - >-
+      Refused, unless the district planner consents in writing.
+  correct: 2
+  explanation: >-
+    Section 12א(א)(4)(ג) bars council members, local committee members and their employees from
+    serving as public representatives, to keep appeals independent.
+- id: m27-007
+  module: 27
+  lesson: "27.1"
+  subject: independent-committee
+  difficulty: 3
+  question: >-
+    Why does it matter to an objector that a local committee is "independent" under s. 31א?
+  options:
+    - >-
+      Its plans need no deposit and no objections.
+    - >-
+      Its decisions cannot be challenged in any court.
+    - >-
+      Its permits are exempt from the betterment levy.
+    - >-
+      It approves more plans; objectors may need leave.
+  correct: 3
+  explanation: >-
+    Independent committees may approve plans beyond the basic s. 62א list, and under s. 112(א1)
+    objectors appeal their plan decisions only with the appeals committee chair's leave.
+- id: m27-008
+  module: 27
+  lesson: "27.2"
+  subject: plan-hierarchy
+  difficulty: 1
+  question: >-
+    Which plan prevails over all others unless it provides otherwise?
+  options:
+    - >-
+      The latest approved detailed plan.
+    - >-
+      The national outline plan.
+    - >-
+      The local comprehensive plan.
+    - >-
+      The district outline plan.
+  correct: 1
+  explanation: >-
+    Section 131: the national outline plan prevails over every other plan unless it states
+    otherwise.
+- id: m27-009
+  module: 27
+  lesson: "27.2"
+  subject: plan-types
+  difficulty: 1
+  question: >-
+    Which plan is usually the basis on which building permits are issued?
+  options:
+    - >-
+      A detailed plan.
+    - >-
+      A national outline plan.
+    - >-
+      A district outline plan.
+    - >-
+      A s. 77 notice of preparation.
+  correct: 0
+  explanation: >-
+    Detailed plans contain plot-level building provisions (s. 69) from which permits are issued;
+    higher plans usually require further planning first.
+- id: m27-010
+  module: 27
+  lesson: "27.2"
+  subject: s62a
+  difficulty: 2
+  question: >-
+    Which change can a local committee (not independent) approve under s. 62א(א)?
+  options:
+    - >-
+      Changing a residential zone to an industrial zone.
+    - >-
+      Adding 40% to the total floor area of a district-approved plan.
+    - >-
+      Changing a building line set in a plan.
+    - >-
+      Creating a new neighbourhood on farmland.
+  correct: 2
+  explanation: >-
+    Section 62א(א)(4) lists setting or changing a building line. Changes of zone, large additions of
+    area and new neighbourhoods need the district committee.
+- id: m27-011
+  module: 27
+  lesson: "27.2"
+  subject: plan-submission
+  difficulty: 2
+  question: >-
+    A landowner wants to submit a detailed plan for his plot. Is that possible?
+  options:
+    - >-
+      No, only local committees and ministries may submit plans.
+    - >-
+      Only through the mayor, who must sign the submission.
+    - >-
+      Only for national infrastructure plans.
+    - >-
+      Yes, owners and those with an interest in the land may submit.
+  correct: 3
+  explanation: >-
+    Section 61א(ב) allows an owner or anyone with an interest in the land to prepare and submit a
+    local or detailed plan; it must be professionally prepared.
+- id: m27-012
+  module: 27
+  lesson: "27.2"
+  subject: interim-restrictions
+  difficulty: 2
+  question: >-
+    After a plan is deposited, the local committee forbids new permits in its area until approval.
+    An owner affected wants to challenge this. Where?
+  options:
+    - >-
+      The appeals committee (s. 98(ב)).
+    - >-
+      The High Court of Justice directly.
+    - >-
+      The arnona appeals committee.
+    - >-
+      The National Council, in every case.
+  correct: 0
+  explanation: >-
+    Section 98(ב) gives an appeal to the appeals committee against a local committee's restriction;
+    a district committee's restriction goes to the National Council (s. 98(ג)).
+- id: m27-013
+  module: 27
+  lesson: "27.2"
+  subject: information-for-permit
+  difficulty: 1
+  question: >-
+    For how long is "information for a permit" valid as a rule?
+  options:
+    - >-
+      Six months.
+    - >-
+      Two years.
+    - >-
+      Six years.
+    - >-
+      Until the next plan is deposited, without limit.
+  correct: 1
+  explanation: >-
+    Reg. 23(א) of the Licensing Regulations: two years from delivery (four for staged projects),
+    subject to later plans and restrictions under reg. 23(ג).
+- id: m27-014
+  module: 27
+  lesson: "27.2"
+  subject: reading-plans
+  difficulty: 3
+  question: >-
+    A buyer checks only the 1975 detailed plan for a flat and concludes a fifth floor may be added.
+    What is the main flaw in his check?
+  options:
+    - >-
+      Detailed plans from before 1980 are no longer valid.
+    - >-
+      Only the land registry extract shows building rights.
+    - >-
+      He ignored later or higher plans and deposited plans.
+    - >-
+      Building rights are set by the arnona order, not plans.
+  correct: 2
+  explanation: >-
+    Later local outline plans, district and national plans may change or override the old detailed
+    plan (ss. 129–131), and a deposited plan may restrict permits (s. 98).
+- id: m27-015
+  module: 27
+  lesson: "27.3"
+  subject: objection-deadline
+  difficulty: 1
+  question: >-
+    What is the basic period to object to a deposited plan?
+  options:
+    - >-
+      Thirty days from the Reshumot publication.
+    - >-
+      Two months from the later newspaper notice.
+    - >-
+      Ninety days from the sign on the site.
+    - >-
+      Fifteen days from personal notice.
+  correct: 1
+  explanation: >-
+    Section 102: two months from the later newspaper publication, extendable by the institution to
+    up to three months.
+- id: m27-016
+  module: 27
+  lesson: "27.3"
+  subject: objection-standing
+  difficulty: 2
+  question: >-
+    A tenant who walks her dog daily in a park that a deposited plan would build on wants to
+    object. She owns no land. Can she?
+  options:
+    - >-
+      Yes, harm to "any other planning detail" can give standing.
+    - >-
+      No, only owners of land within the plan may object.
+    - >-
+      Only through an approved environmental organisation.
+    - >-
+      Only if the park is in a national outline plan.
+  correct: 0
+  explanation: >-
+    Section 100 allows objection by anyone with an interest in land, a building or "any other
+    planning detail" who is harmed; users of public space are commonly heard.
+- id: m27-017
+  module: 27
+  lesson: "27.3"
+  subject: objection-form
+  difficulty: 1
+  question: >-
+    What must accompany an objection for it to be heard?
+  options:
+    - >-
+      A fee and an appraiser's report.
+    - >-
+      Signatures of 50 residents.
+    - >-
+      An affidavit verifying its facts.
+    - >-
+      A lawyer's signature on the objection.
+  correct: 2
+  explanation: >-
+    Section 103א: written, detailed reasons and an affidavit verifying the facts; no fee or lawyer
+    is required.
+- id: m27-018
+  module: 27
+  lesson: "27.3"
+  subject: objection-where
+  difficulty: 2
+  question: >-
+    A plan is within the local committee's power. Where does the objection go?
+  options:
+    - >-
+      To the district committee, with a copy to the local committee.
+    - >-
+      To the appeals committee, with a copy to the planner.
+    - >-
+      To the National Council only.
+    - >-
+      To the local committee, with a copy to the district committee.
+  correct: 3
+  explanation: >-
+    Section 103(3): for a plan in local power, to the local committee with a copy to the district
+    committee; reg. 4 requires proof of the copy.
+- id: m27-019
+  module: 27
+  lesson: "27.3"
+  subject: hearing
+  difficulty: 2
+  question: >-
+    Many residents filed nearly identical objections. Must the institution hear each of them?
+  options:
+    - >-
+      No, it may hear representative objectors for the same interest.
+    - >-
+      Yes, every objector has an absolute right to be heard.
+    - >-
+      No, identical objections are struck out automatically.
+    - >-
+      Yes, and it must appoint an investigator for each one.
+  correct: 0
+  explanation: >-
+    Section 106(ג) allows hearing only some objectors who represent an identical interest or place,
+    and refusing repetitive, unreasoned or vexatious objections.
+- id: m27-020
+  module: 27
+  lesson: "27.3"
+  subject: appeals
+  difficulty: 3
+  question: >-
+    The local committee rejected your objection to a plan in its power (it is not independent).
+    You want to appeal. Which is correct?
+  options:
+    - >-
+      Ask the district chair for leave within 15 days.
+    - >-
+      Appeal to the National Council within 30 days.
+    - >-
+      Appeal to the appeals committee within 15 days.
+    - >-
+      Appeal to the district committee within 7 days.
+  correct: 2
+  explanation: >-
+    Section 112(א)(6) and (ב): an objector whose objection was rejected appeals to the appeals
+    committee within 15 days of service; further appeal to the district committee needs leave
+    (s. 111).
+- id: m27-021
+  module: 27
+  lesson: "27.3"
+  subject: costs
+  difficulty: 2
+  question: >-
+    The committee accepts your objection in part and finds it was justified. What may it order?
+  options:
+    - >-
+      That the State pay you damages for distress.
+    - >-
+      That the developer pay your costs of the procedure.
+    - >-
+      That the plan be withdrawn and resubmitted after a year.
+    - >-
+      That your objection fee be refunded twice.
+  correct: 1
+  explanation: >-
+    Section 106(ד)(2) lets the institution order the plan's initiator to pay a justified objector's
+    costs; s. 106(ד)(1) allows the reverse for vexatious objections.
+- id: m27-022
+  module: 27
+  lesson: "27.3"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. An objection reads: "I object to the plan. It is bad for the neighbourhood.
+    I will explain at the hearing. Signed, Dana." What is the most serious defect?
+  options:
+    - >-
+      It does not cite case law from the Supreme Court.
+    - >-
+      It is too short to be read by the committee.
+    - >-
+      It is not addressed to the Interior Minister.
+    - >-
+      No reasons and no affidavit.
+  correct: 3
+  explanation: >-
+    Section 103א requires detailed reasons and an affidavit, and reg. 14 limits the hearing to the
+    written grounds. Case law is not required.
+- id: m27-023
+  module: 27
+  lesson: "27.3"
+  subject: deemed-approval
+  difficulty: 2
+  question: >-
+    A local plan was deposited and no one objected within the period. What happens?
+  options:
+    - >-
+      It is deemed approved 30 days after the period.
+    - >-
+      It must be re-deposited for a further two months.
+    - >-
+      It lapses automatically after six months.
+    - >-
+      It goes to the National Council for approval.
+  correct: 0
+  explanation: >-
+    Section 108(ג): absent objections, the plan is deemed approved 30 days after the objection
+    period ends unless the institution decides otherwise (and subject to s. 109).
+- id: m27-024
+  module: 27
+  lesson: "27.4"
+  subject: permit-required
+  difficulty: 1
+  question: >-
+    Which of these needs no building permit under s. 145(א)(2)?
+  options:
+    - >-
+      Adding a room on the roof.
+    - >-
+      Moving a non-structural internal wall.
+    - >-
+      Enclosing a balcony with glass walls.
+    - >-
+      Replacing the building's façade cladding.
+  correct: 1
+  explanation: >-
+    An internal change that does not affect the exterior, structure, common property or shared
+    systems, others, the flat's area or the number of units needs no permit.
+- id: m27-025
+  module: 27
+  lesson: "27.4"
+  subject: exemptions
+  difficulty: 2
+  question: >-
+    A family installs a 6 m² light-material storeroom in the garden, unconnected to utilities.
+    What else does the Exemption Regulations require?
+  options:
+    - >-
+      Nothing; storerooms are fully exempt.
+    - >-
+      Approval of the district committee.
+    - >-
+      Notice to the licensing authority.
+    - >-
+      A betterment levy payment in advance.
+  correct: 2
+  explanation: >-
+    Reg. 29(5) requires notice on the prescribed form within 45 days of building it; it must also
+    conform to the plan and not stand on a designated parking area.
+- id: m27-026
+  module: 27
+  lesson: "27.4"
+  subject: exemptions
+  difficulty: 2
+  question: >-
+    Which statement about an exempt pergola is correct?
+  options:
+    - >-
+      It may be built anywhere on the plot, since it is exempt.
+    - >-
+      It needs a permit if covered by a transparent roof.
+    - >-
+      It is exempt only in buildings under preservation.
+    - >-
+      It must still conform to the plan and spatial guidelines.
+  correct: 3
+  explanation: >-
+    Section 145ג(ד) and reg. 2(4): exemptions do not allow work contrary to plans or spatial
+    guidelines; a transparent roof is allowed under reg. 12(2א) within the pergola's footprint.
+- id: m27-027
+  module: 27
+  lesson: "27.4"
+  subject: relief
+  difficulty: 2
+  question: >-
+    Which can never be granted as relief (הקלה)?
+  options:
+    - >-
+      Adding an extra floor.
+    - >-
+      A small change in a building line.
+    - >-
+      A change in the arrangement of windows.
+    - >-
+      A minor change in the building's height.
+  correct: 0
+  explanation: >-
+    Section 151(ב)(1): relief may not add building area, housing units or floors, and may not be a
+    substantial deviation.
+- id: m27-028
+  module: 27
+  lesson: "27.4"
+  subject: permit-appeal
+  difficulty: 2
+  question: >-
+    Your permit application was refused. Within what period may you appeal, and to whom?
+  options:
+    - >-
+      Within 15 days, to the district committee.
+    - >-
+      Within 30 days, to the appeals committee.
+    - >-
+      Within 45 days, to the Administrative Affairs Court.
+    - >-
+      Within 90 days, to the National Council.
+  correct: 1
+  explanation: >-
+    Section 152(א)(1): within 30 days of service of the refusal, to the appeals committee, which
+    decides within 30 days (s. 152(ג)).
+- id: m27-029
+  module: 27
+  lesson: "27.4"
+  subject: co-owner-consent
+  difficulty: 3
+  question: >-
+    A flat owner applies for a permit to extend into the shared garden. Two co-owners did not
+    consent. What happens under the Licensing Regulations?
+  options:
+    - >-
+      The application is rejected without notice to them.
+    - >-
+      The committee decides the property dispute itself.
+    - >-
+      They receive notice and may object within 15 days.
+    - >-
+      Their consent is irrelevant to the permit process.
+  correct: 2
+  explanation: >-
+    Regs. 36–37: rights holders who did not consent receive notice and may object within 15 days.
+    The property question (consent under the Land Law) remains separate.
+- id: m27-030
+  module: 27
+  lesson: "27.4"
+  subject: permit-validity
+  difficulty: 1
+  question: >-
+    How long is a building permit valid as a rule?
+  options:
+    - >-
+      One year.
+    - >-
+      Three years.
+    - >-
+      Ten years.
+    - >-
+      Six years.
+  correct: 3
+  explanation: >-
+    Reg. 59(א) of the Licensing Regulations: six years, extendable by the licensing authority up to
+    nine for large or complex works.
+- id: m27-031
+  module: 27
+  lesson: "27.4"
+  subject: non-conforming-use
+  difficulty: 3
+  question: >-
+    A dentist wants to open a clinic in a flat in a residential zone. Which statement is right?
+  options:
+    - >-
+      It needs non-conforming use after publication.
+    - >-
+      It is an internal change, so no permit is needed.
+    - >-
+      It needs only a business licence from the municipality.
+    - >-
+      It needs a new detailed plan approved by the district.
+  correct: 0
+  explanation: >-
+    A use contrary to the plan needs non-conforming use (s. 146) after the s. 149 procedure; from a
+    plan it is granted for a limited time (s. 148). A business licence may also be required.
+- id: m27-032
+  module: 27
+  lesson: "27.4"
+  subject: permit-delay
+  difficulty: 2
+  question: >-
+    The licensing authority has not decided on a complete permit application within the statutory
+    period. What does the law provide?
+  options:
+    - >-
+      The permit is deemed granted and works may begin.
+    - >-
+      It is deemed refused and may go to the appeals committee.
+    - >-
+      The applicant must wait for the next committee session.
+    - >-
+      The application lapses and must be refiled.
+  correct: 1
+  explanation: >-
+    Section 157(א) treats failure to decide within the s. 145(ב1) period as refusal; the appeals
+    committee decides within 30 days.
+- id: m27-033
+  module: 27
+  lesson: "27.5"
+  subject: enforcement-tools
+  difficulty: 1
+  question: >-
+    Which enforcement tool was widened by Amendment 116 (2017) and needs no court?
+  options:
+    - >-
+      A demolition order in a criminal sentence.
+    - >-
+      A judicial stop order.
+    - >-
+      An administrative demolition order.
+    - >-
+      A demolition order without criminal proceedings.
+  correct: 2
+  explanation: >-
+    Administrative orders (ss. 216–221) are given by officials on an inspector's report or affidavit;
+    the others are court orders.
+- id: m27-034
+  module: 27
+  lesson: "27.5"
+  subject: admin-demolition
+  difficulty: 2
+  question: >-
+    An unpermitted shed was finished four months before the inspector's affidavit. Is an
+    administrative demolition order possible?
+  options:
+    - >-
+      No, it is limited to unfinished work only.
+    - >-
+      Only after a criminal conviction.
+    - >-
+      Only if the shed is on agricultural land.
+    - >-
+      Yes, it is within six months of completion.
+  correct: 3
+  explanation: >-
+    Section 221(א) allows an order if the work was not finished or was finished no more than six
+    months before the affidavit (with a 30-day occupation limit for dwellings).
+- id: m27-035
+  module: 27
+  lesson: "27.5"
+  subject: cancel-order
+  difficulty: 2
+  question: >-
+    Where does a request to cancel a local committee chair's administrative order go?
+  options:
+    - >-
+      The local-affairs court for the area.
+    - >-
+      The planning appeals committee of the district.
+    - >-
+      The Administrative Affairs Court.
+    - >-
+      The district committee chair.
+  correct: 0
+  explanation: >-
+    Section 228(ב)(2): orders of local officials go to the local-affairs court where the land is, or
+    the nearest magistrates' court where there is none.
+- id: m27-036
+  module: 27
+  lesson: "27.5"
+  subject: who-liable
+  difficulty: 2
+  question: >-
+    Who may be charged for prohibited building work under s. 243(ג)?
+  options:
+    - >-
+      Only the person who physically built it.
+    - >-
+      Owner, occupier, permit holder or builder.
+    - >-
+      Only the registered owner at the time of the indictment.
+    - >-
+      Only the contractor, if he holds a licence.
+  correct: 1
+  explanation: >-
+    Section 243(ג) lists the permit holder or the person obliged to obtain one, the owner (with
+    co-ownership limits), the person in control, the occupier and the person who did the work.
+- id: m27-037
+  module: 27
+  lesson: "27.5"
+  subject: fines
+  difficulty: 2
+  question: >-
+    Before an administrative fine for prohibited use, what does the 2018 fine regulations generally
+    require?
+  options:
+    - >-
+      A court order approving the fine.
+    - >-
+      A hearing before the district planner.
+    - >-
+      A warning giving 30 days to fix.
+    - >-
+      Consent of the National Council.
+  correct: 2
+  explanation: >-
+    Reg. 5 requires a warning that the fine will be imposed unless the violation is corrected or
+    the previous state restored within 30 days, unless earlier proceedings took place.
+- id: m27-038
+  module: 27
+  lesson: "27.5"
+  subject: stays
+  difficulty: 3
+  question: >-
+    A final demolition order concerns a building contrary to the applicable plan. The owner asks a
+    stay to pursue a new plan. What is the likely result?
+  options:
+    - >-
+      A stay of up to three years while the plan is pending.
+    - >-
+      A stay if he pays a deposit equal to the building's value.
+    - >-
+      A stay at the court's full discretion, without limits.
+    - >-
+      No stay: s. 254ט(ד)(2) bars it for work contrary to the plan.
+  correct: 3
+  explanation: >-
+    Section 254ט(ד)(2) bars a stay of a demolition order where the work does not conform to the
+    applicable plan or continued after service; stays are otherwise limited in time.
+- id: m27-039
+  module: 27
+  lesson: "27.5"
+  subject: buyer-check
+  difficulty: 2
+  question: >-
+    Where may a buyer find a sign that an administrative demolition order was given on a flat?
+  options:
+    - >-
+      In the land registry, as a note.
+    - >-
+      Only in the municipality's arnona file.
+    - >-
+      In Reshumot, where all orders are published.
+    - >-
+      Only in the criminal records database.
+  correct: 0
+  explanation: >-
+    Section 254יא(ג) lets the enforcing authority register a note of an administrative demolition
+    order; notes are also placed in the committee's building file (s. 254יא(ד)).
+- id: m27-040
+  module: 27
+  lesson: "27.5"
+  subject: admin-fines-procedure
+  difficulty: 3
+  question: >-
+    You asked the prosecutor to cancel an administrative fine. He refused. Can you still ask to be
+    tried?
+  options:
+    - >-
+      No, choosing cancellation waives the right to a trial.
+    - >-
+      Yes, within 30 days of the decision on your request.
+    - >-
+      Only with the court's leave after paying the fine.
+    - >-
+      Only if the fine exceeds ₪100,000.
+  correct: 1
+  explanation: >-
+    Section 8א(ה) of the Administrative Offences Law: after a refusal, the person may notify a wish
+    to be tried within 30 days of the decision, even if he paid.
+- id: m27-041
+  module: 27
+  lesson: "27.6"
+  subject: levy-rate
+  difficulty: 1
+  question: >-
+    What is the rate of the betterment levy?
+  options:
+    - >-
+      A quarter of the increase in value.
+    - >-
+      The full increase in value.
+    - >-
+      Half of the increase in value.
+    - >-
+      Ten percent of the property's value.
+  correct: 2
+  explanation: >-
+    Third Schedule s. 3: the levy is half of the increase; reduced rates apply to certain
+    earthquake-resilience permits (s. 19(ב)(10א)).
+- id: m27-042
+  module: 27
+  lesson: "27.6"
+  subject: realisation
+  difficulty: 2
+  question: >-
+    Which transfer is not a "realisation" that triggers the levy?
+  options:
+    - >-
+      A sale of the flat to a stranger.
+    - >-
+      A long lease of the land for value.
+    - >-
+      A gift of the flat to a friend.
+    - >-
+      A gift of the flat to a daughter.
+  correct: 3
+  explanation: >-
+    Third Schedule s. 1(א) excludes transfers by law and gifts to a relative (spouse, parent,
+    descendant, sibling and their spouses); a gift to a friend is a realisation.
+- id: m27-043
+  module: 27
+  lesson: "27.6"
+  subject: levy-challenge
+  difficulty: 2
+  question: >-
+    You dispute whether any levy is due at all, because you think the plan did not affect your plot.
+    Which route fits?
+  options:
+    - >-
+      An appeal to the levy appeals committee.
+    - >-
+      A decisive appraiser, who decides liability and amount.
+    - >-
+      An objection to the arnona director within 90 days.
+    - >-
+      A petition to the High Court within 45 days.
+  correct: 0
+  explanation: >-
+    The decisive appraiser is for disputes on amount only (s. 14(ב)); disputes on liability go to the
+    appeals committee for compensation and levy within 45 days (s. 14(א)).
+- id: m27-044
+  module: 27
+  lesson: "27.6"
+  subject: levy-exemption
+  difficulty: 2
+  question: >-
+    A homeowner adds a protected room (ממ״ד) within the area set under civil-defence rules. Levy?
+  options:
+    - >-
+      Full levy, since floor area was added.
+    - >-
+      Exempt under s. 19(ב)(9).
+    - >-
+      Half levy, as for relief.
+    - >-
+      Levy only on sale, at double rate.
+  correct: 1
+  explanation: >-
+    Third Schedule s. 19(ב)(9) exempts the increase from building a protected space within the
+    civil-defence area, or a room with protective improvements where a shelter cannot be built.
+- id: m27-045
+  module: 27
+  lesson: "27.6"
+  subject: compensation
+  difficulty: 2
+  question: >-
+    Who may claim compensation under s. 197?
+  options:
+    - >-
+      Anyone in the city whose quality of life was affected.
+    - >-
+      Only owners whose land was expropriated by the plan.
+    - >-
+      Owners or rights holders of land in or adjoining the plan.
+    - >-
+      Only owners who objected during the deposit period.
+  correct: 2
+  explanation: >-
+    Section 197(א): the owner or rights holder on the plan's commencement day, of land within or
+    adjoining the plan harmed by it otherwise than by expropriation.
+- id: m27-046
+  module: 27
+  lesson: "27.6"
+  subject: s200
+  difficulty: 3
+  question: >-
+    A plan lowers the permitted height on your plot from four floors to three, reducing value by
+    6%. The committee rejects your s. 197 claim. On what basis is it most likely to rely?
+  options:
+    - >-
+      Height changes are never compensable in Israel.
+    - >-
+      The claim had to be filed within one year.
+    - >-
+      Only plans adjoining your plot can give compensation.
+    - >-
+      Section 200: reasonable harm from height provisions.
+  correct: 3
+  explanation: >-
+    Section 200(א)(4) lists provisions on buildings' height among those that do not give
+    compensation if the harm is within reasonable bounds and justice does not require payment.
+- id: m27-047
+  module: 27
+  lesson: "27.6"
+  subject: levy-certificate
+  difficulty: 1
+  question: >-
+    Which registration needs no betterment levy certificate?
+  options:
+    - >-
+      A mortgage on the land.
+    - >-
+      A sale of the land.
+    - >-
+      A long lease for value.
+    - >-
+      A transfer to a company you own.
+  correct: 0
+  explanation: >-
+    Third Schedule s. 10(א1) exempts the registration of a mortgage from the certificate
+    requirement.
+- id: m27-048
+  module: 27
+  lesson: "27.6"
+  subject: levy-permit
+  difficulty: 3
+  question: >-
+    An owner building a home for his son disputes the levy assessment and has appealed. The
+    committee refuses to issue the permit until he pays. What may he do?
+  options:
+    - >-
+      Nothing; the permit waits until the appeal is decided.
+    - >-
+      Give security for the disputed sum and receive the permit.
+    - >-
+      Build without the permit, since the appeal suspends the duty.
+    - >-
+      Pay a quarter of the levy as a statutory deposit.
+  correct: 1
+  explanation: >-
+    Third Schedule s. 14(ה): for a permit for one's own or a relative's home, the appeal does not
+    delay the permit if security is given for the disputed levy.
+- id: m27-049
+  module: 27
+  lesson: "27.7"
+  subject: local-authorities
+  difficulty: 1
+  question: >-
+    Which law mainly governs cities in Israel?
+  options:
+    - >-
+      The Local Councils Order (B).
+    - >-
+      The Planning and Building Law.
+    - >-
+      The Municipalities Ordinance.
+    - >-
+      The Regional Councils Law.
+  correct: 2
+  explanation: >-
+    Cities are governed by the Municipalities Ordinance; local and regional councils by the Local
+    Councils Ordinance and the Local Councils Orders (A) and (B).
+- id: m27-050
+  module: 27
+  lesson: "27.7"
+  subject: bylaws
+  difficulty: 2
+  question: >-
+    How long must a mayor wait after delivering an approved bylaw to the minister before publishing
+    it, if the minister says nothing?
+  options:
+    - >-
+      Fourteen days.
+    - >-
+      Thirty days.
+    - >-
+      Ninety days.
+    - >-
+      Sixty days.
+  correct: 3
+  explanation: >-
+    Section 258(ב): sixty days, unless the minister earlier states he has no objection; the minister
+    may delay, disqualify or return it (s. 258(ג)–(ד)).
+- id: m27-051
+  module: 27
+  lesson: "27.7"
+  subject: elections
+  difficulty: 1
+  question: >-
+    What is the minimum age to be a candidate for a city council?
+  options:
+    - >-
+      21.
+    - >-
+      18.
+    - >-
+      17.
+    - >-
+      25.
+  correct: 0
+  explanation: >-
+    Elections Law s. 7(א)(2): a candidate must be 21 on the day the list is filed; voters must be
+    17 by election day (s. 11).
+- id: m27-052
+  module: 27
+  lesson: "27.7"
+  subject: council-meetings
+  difficulty: 2
+  question: >-
+    By when must a city publish the minutes of an open council meeting on its website?
+  options:
+    - >-
+      Within thirty days of the meeting.
+    - >-
+      Two working days after approval.
+    - >-
+      Only on request under the FOI Law.
+    - >-
+      At the end of the budget year.
+  correct: 1
+  explanation: >-
+    Section 248ב(2) of the Municipalities Ordinance: within two working days of approval, with
+    recordings or transcripts.
+- id: m27-053
+  module: 27
+  lesson: "27.7"
+  subject: supervision
+  difficulty: 3
+  question: >-
+    A council fails for months to function as a planning committee. What can the Interior
+    Minister do under s. 143?
+  options:
+    - >-
+      Transfer the city's area to a neighbouring city at once.
+    - >-
+      Nothing until the next regular elections.
+    - >-
+      Order new elections or appoint a council or committee.
+    - >-
+      Ask the High Court to dissolve the council.
+  correct: 2
+  explanation: >-
+    Section 143(א)(2) covers failure to perform duties, including as a local planning committee;
+    the minister may order elections or appoint a mayor and council or a committee, not within the
+    year before elections.
+- id: m27-054
+  module: 27
+  lesson: "27.7"
+  subject: equality
+  difficulty: 2
+  question: >-
+    What principle did Poraz v. Mayor of Tel Aviv (1988) apply to a council's decision?
+  options:
+    - >-
+      Councils may decide religious matters by majority alone.
+    - >-
+      Bylaws need ministerial approval to take effect.
+    - >-
+      Councillors are immune from judicial review.
+    - >-
+      Gender equality binds councils as administrative bodies.
+  correct: 3
+  explanation: >-
+    The High Court cancelled the exclusion of women from the rabbi-electing assembly because the
+    council ignored equality and relied on improper considerations.
+- id: m27-055
+  module: 27
+  lesson: "27.8"
+  subject: arnona-holder
+  difficulty: 1
+  question: >-
+    Who is liable for arnona on a rented flat?
+  options:
+    - >-
+      The tenant, as holder.
+    - >-
+      The owner, always.
+    - >-
+      Owner and tenant equally.
+    - >-
+      Whoever the lease names.
+  correct: 0
+  explanation: >-
+    Arrangements Law s. 8(א) and Municipalities Ordinance s. 1: arnona is paid by the holder, the
+    person in actual possession, including a tenant.
+- id: m27-056
+  module: 27
+  lesson: "27.8"
+  subject: arnona-area
+  difficulty: 2
+  question: >-
+    How is the area of a property rounded for arnona?
+  options:
+    - >-
+      Always rounded up to the next whole square metre.
+    - >-
+      To the nearest metre; a half rounds down.
+    - >-
+      To the nearest ten square metres.
+    - >-
+      Not rounded; the exact figure is charged.
+  correct: 1
+  explanation: >-
+    Arrangements Law s. 8(ב1)(2): part of a square metre is rounded to the nearest whole metre, and
+    half a metre is rounded down.
+- id: m27-057
+  module: 27
+  lesson: "27.8"
+  subject: arnona-discounts
+  difficulty: 2
+  question: >-
+    A new immigrant registered under the Law of Return asks for an arnona discount. What may the
+    council give?
+  options:
+    - >-
+      100% on the whole flat for three years.
+    - >-
+      50% on up to 70 m² for six months.
+    - >-
+      Up to 90% on 100 m² for 12 of the first 24 months.
+    - >-
+      Nothing; immigrants receive benefits only from the State.
+  correct: 2
+  explanation: >-
+    Reg. 2(א)(6)(א) of the 1993 Discount Regulations: up to 90% on up to 100 m² for 12 months out of
+    the 24 from registration as an immigrant.
+- id: m27-058
+  module: 27
+  lesson: "27.8"
+  subject: empty-building
+  difficulty: 2
+  question: >-
+    An owner's flat stands empty and unused. What discount may the council allow at the start?
+  options:
+    - >-
+      None; empty property pays full arnona always.
+    - >-
+      50% for the first month only.
+    - >-
+      66.66% for the first three years.
+    - >-
+      Up to 100% for six months.
+  correct: 3
+  explanation: >-
+    Reg. 13(א): up to 100% for six months, then up to 66.66% to month 12, then up to 50% to month 36,
+    counted cumulatively per ownership.
+- id: m27-059
+  module: 27
+  lesson: "27.8"
+  subject: discount-lapse
+  difficulty: 2
+  question: >-
+    A pensioner received a 25% discount for 2026 but had not paid the full year's balance by
+    31 December. What happens?
+  options:
+    - >-
+      The discount is cancelled.
+    - >-
+      The discount is reduced to 10%.
+    - >-
+      Nothing, if she pays within the following year.
+    - >-
+      The discount moves to the next year.
+  correct: 0
+  explanation: >-
+    Reg. 16: a discount holder who did not pay the full balance by 31 December loses the discount
+    from that day, and it is added to the balance.
+- id: m27-060
+  module: 27
+  lesson: "27.8"
+  subject: destroyed-building
+  difficulty: 3
+  question: >-
+    A house was damaged in a fire and is uninhabitable and empty. The holder gave written notice.
+    What is the arnona position?
+  options:
+    - >-
+      Full arnona continues until the house is demolished.
+    - >-
+      No arnona for three years, then a minimum.
+    - >-
+      Half arnona until the insurer pays.
+    - >-
+      A discount only through the hardship committee.
+  correct: 1
+  explanation: >-
+    Municipalities Ordinance s. 330: after notice, no further arnona for three years, then the
+    minimum amount for five years, then exempt again on further notice.
+- id: m27-061
+  module: 27
+  lesson: "27.10"
+  subject: arnona-deadlines
+  difficulty: 1
+  question: >-
+    Within what period must an arnona objection be filed?
+  options:
+    - >-
+      30 days from the director's answer.
+    - >-
+      60 days from the start of the year.
+    - >-
+      90 days from receiving the payment notice.
+    - >-
+      Six months from the payment date.
+  correct: 2
+  explanation: >-
+    Arnona Appeals Law s. 3(א): within 90 days of receiving the payment notice; the appeal is within
+    30 days of the answer (s. 6(א)).
+- id: m27-062
+  module: 27
+  lesson: "27.10"
+  subject: arnona-appeal-form
+  difficulty: 2
+  question: >-
+    How many copies of a notice of appeal must be filed with the arnona appeals committee?
+  options:
+    - >-
+      One original, by email.
+    - >-
+      Two, one for each party.
+    - >-
+      Three, for each committee member.
+    - >-
+      Four copies.
+  correct: 3
+  explanation: >-
+    Reg. 3 of the 1977 Procedure Regulations: four copies, delivered to the committee or sent by
+    registered mail.
+- id: m27-063
+  module: 27
+  lesson: "27.10"
+  subject: which-forum
+  difficulty: 3
+  question: >-
+    Which claim belongs in an arnona objection to the director?
+  options:
+    - >-
+      "I moved out and gave written notice, so I am not the holder."
+    - >-
+      "The council raised rates above the statutory index without approval."
+    - >-
+      "As a single parent I deserve a 20% discount."
+    - >-
+      "The arnona order discriminates between neighbourhoods."
+  correct: 0
+  explanation: >-
+    Not being the holder is a ground in s. 3(א)(3). Illegality of rates or the order (s. 3(ב)) goes
+    by petition; discounts go by application.
+- id: m27-064
+  module: 27
+  lesson: "27.10"
+  subject: deemed-acceptance
+  difficulty: 2
+  question: >-
+    The director answered your objection on day 75 without any extension by the appeals committee.
+    What is the legal effect?
+  options:
+    - >-
+      The answer is valid; you must appeal within 30 days.
+    - >-
+      The objection was already deemed accepted on day 60.
+    - >-
+      The answer restarts the 90-day period.
+    - >-
+      The late answer goes automatically to the appeals committee.
+  correct: 1
+  explanation: >-
+    Section 4(ב): no answer within 60 days, absent an extension of up to 30 days by the appeals
+    committee, is treated as acceptance of the objection.
+- id: m27-065
+  module: 27
+  lesson: "27.9"
+  subject: plan-objection-practice
+  difficulty: 2
+  question: >-
+    Which remedy in a plan objection is most useful to the committee?
+  options:
+    - >-
+      "Reject the plan entirely and start again."
+    - >-
+      "Do what is fair for the residents."
+    - >-
+      "Move the building line back to 5 metres."
+    - >-
+      "Hold another public meeting next year."
+  correct: 2
+  explanation: >-
+    A concrete change that the institution can adopt under s. 106(ב) is far more effective than a
+    general demand.
+- id: m27-066
+  module: 27
+  lesson: "27.9"
+  subject: plan-objection-practice
+  difficulty: 3
+  question: >-
+    Neighbours want to file one objection about cutting down old trees in a public garden. Must each
+    of them sign an affidavit?
+  options:
+    - >-
+      Yes, every objector must file a separate affidavit.
+    - >-
+      No, affidavits are not needed for environmental matters.
+    - >-
+      Only the oldest resident needs to sign.
+    - >-
+      No, one objector's affidavit may serve the group.
+  correct: 3
+  explanation: >-
+    Section 103א(ב): in public matters of sites, nature, landscape, quality of life and
+    environment, an objector representing a group may file the affidavit and others with similar
+    objections may rely on it.

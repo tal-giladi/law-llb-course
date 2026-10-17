@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You support an urban-renewal plan in principle but dislike where it moves the playground. How
+    should your objection be framed?
+  options:
+    - >-
+      As a general objection to the plan, so the committee takes it seriously.
+    - >-
+      As an objection to specific provisions, with a concrete alternative location.
+    - >-
+      As a letter to the mayor, since objections are only for opponents of a plan.
+    - >-
+      As a complaint to the Ombudsman about the playground's relocation.
+  correct: 1
+  explanation: >-
+    The institution may accept an objection in part and change the plan (s. 106(ב)). Specific
+    provisions with adoptable remedies are far more effective than a general objection.
+- id: q2
+  question: >-
+    Your draft has strong grounds and annexes but you planned to "explain the traffic problem at the
+    hearing" without writing it. What is the risk?
+  options:
+    - >-
+      None, because hearings are public and anyone may speak.
+    - >-
+      The committee will postpone the hearing to receive a written traffic study.
+    - >-
+      The traffic argument may not be heard because it is not in the objection.
+    - >-
+      The developer may ask the court to strike out the whole objection.
+  correct: 2
+  explanation: >-
+    Reg. 14 limits the hearing to the grounds stated in the objection unless the institution decides
+    otherwise for special reasons. Write every ground.
+- id: q3
+  question: >-
+    The plan is in district power. You filed the objection with the district committee. What else
+    must you do?
+  options:
+    - >-
+      Send a copy to the local committee and keep proof of delivery.
+    - >-
+      Nothing; the district committee forwards copies to everyone.
+    - >-
+      Send a copy to the National Council, which supervises district plans.
+    - >-
+      Publish your objection in a newspaper within 15 days.
+  correct: 0
+  explanation: >-
+    Section 103(2) requires a copy to the local committee for a plan in district power, and reg. 4
+    requires the objector to provide proof of delivery and its date.
+- id: q4
+  question: >-
+    In your objection you argue the site sign should have been in Arabic, but Arabic speakers are
+    about 4% of your town's planning area. What should you do with that ground?
+  options:
+    - >-
+      Keep it; any resident may require notices in any language.
+    - >-
+      Keep it; the 10% test refers to the neighbourhood, not the planning area.
+    - >-
+      Keep it, but move it to the end so it attracts less attention.
+    - >-
+      Drop it: the s. 89א(ב) duty applies only from 10% of the planning area.
+  correct: 3
+  explanation: >-
+    Section 89א(ב) requires Arabic on the sign only where Arabic speakers are at least 10% of the
+    local planning area's population. An unfounded legal ground weakens the whole objection.

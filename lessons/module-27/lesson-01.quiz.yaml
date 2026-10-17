@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your city has one municipality and its own planning area. Who sits as the local planning
+    committee, and what is the status of the Interior Ministry's representative there?
+  options:
+    - >-
+      A panel of planners appointed by the minister, with the mayor as an observer.
+    - >-
+      The elected city council; the ministry representative has an advisory voice only.
+    - >-
+      The district committee, sitting locally, with a vote for the city engineer.
+    - >-
+      The appeals committee chair together with two councillors and the engineer.
+  correct: 1
+  explanation: >-
+    Under s. 18(א) the council of a single local authority is the local committee. Ministry
+    representatives and professionals are invited permanently but have an advisory voice (s. 18(ב)).
+- id: q2
+  question: >-
+    You applied for an ordinary building permit that fully conforms to the plan. Which body
+    decides it?
+  options:
+    - >-
+      The full local committee in a public session after hearing neighbours.
+    - >-
+      The district committee, because every permit needs district approval.
+    - >-
+      The licensing authority: the committee chair and engineer acting together.
+    - >-
+      The appeals committee, which approves permits before they are issued.
+  correct: 2
+  explanation: >-
+    Section 30 makes the chair and the engineer, jointly, the local licensing authority for permits
+    under s. 145. Deviations such as relief or non-conforming use need the local committee itself.
+- id: q3
+  question: >-
+    A neighbour says she will "go straight to the High Court of Justice" against a local committee's
+    approval of a plan. What is the more accurate route?
+  options:
+    - >-
+      The statutory planning appeal if available, otherwise a petition to the Administrative Affairs Court.
+    - >-
+      A claim in the magistrates' court, because planning disputes are civil disputes about land.
+    - >-
+      A complaint to the State Comptroller, which can cancel planning decisions.
+    - >-
+      The High Court is right, since every planning decision is a decision of a public body.
+  correct: 0
+  explanation: >-
+    Planning and building matters (except enforcement) are in the First Schedule of the
+    Administrative Courts Law, and many decisions first have a statutory appeal (ss. 111, 112, 152).
+    The High Court is the wrong first forum.
+- id: q4
+  question: >-
+    Why does the law bar local councillors from serving as public representatives on the district
+    appeals committee?
+  options:
+    - >-
+      Because councillors already decide all appeals inside the local committee.
+    - >-
+      Because appeals committees deal only with national plans, not local matters.
+    - >-
+      Because councillors may not hold any other public office under the Municipalities Ordinance.
+    - >-
+      So that appeals are heard by a body independent of the authority whose decision is challenged.
+  correct: 3
+  explanation: >-
+    Section 12א(א)(4)(ג) excludes council and committee members and employees, and the chair is an
+    experienced lawyer appointed by two ministers, to keep the appeal independent of local pressure.

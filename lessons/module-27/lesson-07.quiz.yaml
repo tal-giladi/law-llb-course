@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The city council approved a new bylaw on dog parks last month, and the city website shows the
+    text. You were fined under it yesterday. What should you check first?
+  options:
+    - >-
+      Whether the mayor's signature appears on the website copy.
+    - >-
+      Whether the council vote was unanimous or by majority.
+    - >-
+      Whether it was published in Reshumot after ministerial review.
+    - >-
+      Whether the Knesset Interior Committee approved the fine amount.
+  correct: 2
+  explanation: >-
+    Under s. 258 a bylaw is published in Reshumot only after 60 days from delivery to the minister
+    (unless he clears it earlier); without publication it is not in force.
+- id: q2
+  question: >-
+    A permanent resident of East Jerusalem who is not an Israeli citizen asks whether she may vote
+    in the Jerusalem municipal elections. What is the answer under the Elections Law?
+  options:
+    - >-
+      Yes, if she is 17 and registered as a resident of the city.
+    - >-
+      No, only citizens aged 18 may vote in any Israeli election.
+    - >-
+      Only if she has lived in the city for five years and is 21.
+    - >-
+      Only in the mayoral vote, not in the council vote.
+  correct: 0
+  explanation: >-
+    Section 11 includes in the register every person aged 17 by election day who is registered in
+    the population register as a resident of the authority; citizenship is not required.
+- id: q3
+  question: >-
+    A council closed an entire meeting on next year's budget "to allow open discussion". A
+    resident wants to attend. What is the legal position?
+  options:
+    - >-
+      The council may close any meeting by a simple majority vote.
+    - >-
+      Budget meetings are always closed because they concern finances.
+    - >-
+      Only the Interior Minister may close a council meeting.
+    - >-
+      Meetings are public; closure is only for security or privacy.
+  correct: 3
+  explanation: >-
+    Second Schedule s. 18 makes council meetings public, except parts the mayor closes for reasons
+    of state security or privacy. "Open discussion" is not a listed reason.
+- id: q4
+  question: >-
+    In the Adalah case on Arabic signs, what was the legal basis for the majority's decision?
+  options:
+    - >-
+      A specific bylaw that required bilingual signs in mixed cities.
+    - >-
+      The s. 249 power read in light of equality and Arabic's status.
+    - >-
+      A Knesset law passed in 2000 on languages in municipal signs.
+    - >-
+      An international treaty that Israel had incorporated into law.
+  correct: 1
+  explanation: >-
+    President Barak held that the signage power comes from the general services power in s. 249 and
+    must be exercised in light of its purpose and basic values, including equality and language
+    rights.

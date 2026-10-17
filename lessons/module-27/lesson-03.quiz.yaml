@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A deposit notice appeared in one newspaper on 1 March and in a second newspaper on 6 March.
+    The institution did not extend the period. When does the objection period end?
+  options:
+    - >-
+      Two months from 1 March, the first publication.
+    - >-
+      Two months from 6 March, the later newspaper publication.
+    - >-
+      Thirty days from the date the sign was posted on the site.
+    - >-
+      Three months from publication in Reshumot, whatever the newspapers say.
+  correct: 1
+  explanation: >-
+    Section 102 gives two months and fixes the publication date as the later of the newspaper
+    publications. The institution may extend to up to three months, but did not here.
+- id: q2
+  question: >-
+    Your objection lists three planning grounds and is signed, but has no affidavit. The hearing is
+    in three weeks. What should you do?
+  options:
+    - >-
+      Nothing; affidavits are needed only for objections by public bodies.
+    - >-
+      Bring witnesses to the hearing instead, which replaces the affidavit.
+    - >-
+      Ask to correct it now by filing a sworn affidavit under reg. 7.
+    - >-
+      Withdraw it and file an administrative petition instead.
+  correct: 2
+  explanation: >-
+    Section 103א says an objection without an affidavit is not heard; reg. 7 lets the institution
+    allow a correction instead of striking it out. Witnesses at the hearing need leave (reg. 15) and
+    do not cure the defect.
+- id: q3
+  question: >-
+    At the hearing you want to argue that the plan conflicts with the district plan, a point you did
+    not write in your objection. What is the likely response?
+  options:
+    - >-
+      The argument may be refused unless the institution gives special leave.
+    - >-
+      The argument must be heard, because hearings are public under s. 107.
+    - >-
+      The argument may be raised only by the local committee, not by objectors.
+    - >-
+      The argument goes automatically to the National Council for decision.
+  correct: 0
+  explanation: >-
+    Reg. 14 limits argument to the grounds in the objection (or the local committee's opinion)
+    unless the institution decides otherwise for special reasons. Public hearing does not widen the
+    scope.
+- id: q4
+  question: >-
+    The district committee rejected your objection and approved a plan. You want to appeal to the
+    National Council. What is the first step?
+  options:
+    - >-
+      File the appeal with the National Council within 30 days as of right.
+    - >-
+      File an appeal with the district appeals committee within 15 days.
+    - >-
+      Ask the National Council to reopen objections within 60 days.
+    - >-
+      Ask the district committee chair for leave within 15 days of service.
+  correct: 3
+  explanation: >-
+    Under s. 110 an objector whose objection was rejected appeals a district decision only with the
+    district chair's leave, requested within 15 days; the appeal itself is filed within 30 days.

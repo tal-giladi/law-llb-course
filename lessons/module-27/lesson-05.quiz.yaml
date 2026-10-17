@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A local committee engineer served an administrative demolition order on a roof room that was
+    finished eight months before the inspector's affidavit and is used as a storeroom. What is the
+    owner's best argument in a request to cancel?
+  options:
+    - >-
+      The room is small, so only a fine may be imposed for it.
+    - >-
+      The order is invalid because no criminal case was opened first.
+    - >-
+      The work was finished over six months before the affidavit (s. 221(א)).
+    - >-
+      Only the National Enforcement Authority may order demolition.
+  correct: 2
+  explanation: >-
+    An administrative demolition order requires that the work was unfinished or finished no more
+    than six months before the affidavit. The local committee engineer is authorised, and no
+    criminal case is needed.
+- id: q2
+  question: >-
+    An administrative stop-work order was served on you on 3 May. When must a request to cancel it
+    reach the court, and does filing stop the order?
+  options:
+    - >-
+      Within 15 days; filing alone does not stay the order.
+    - >-
+      Within 30 days; filing stays the order until the hearing.
+    - >-
+      Within 45 days, like an administrative petition; no stay.
+    - >-
+      Within 7 days; the order is stayed automatically.
+  correct: 0
+  explanation: >-
+    Section 228(א) gives 15 days from service, and s. 228(ג) says filing does not by itself stay
+    execution. A stay must be requested separately under s. 254ח.
+- id: q3
+  question: >-
+    After a demolition order was served, the owner kept building for two more weeks. She now asks
+    the court to stay the order. What is the likely result?
+  options:
+    - >-
+      A stay of up to six months, since it is her first request.
+    - >-
+      A stay if she pays the fees and levies avoided.
+    - >-
+      A stay if the work conforms to a deposited plan.
+    - >-
+      No stay: works continued after service (s. 254ח(ד)).
+  correct: 3
+  explanation: >-
+    Sections 254ח(ד) and 254ט(ד)(2) bar a stay of a demolition order where the prohibited work
+    continued after the order was served, whatever the other conditions.
+- id: q4
+  question: >-
+    You received an administrative fine notice for prohibited use. You think the use is lawful
+    under an old permit. What can you do, and by when?
+  options:
+    - >-
+      Pay it, then sue the committee in small claims for a refund.
+    - >-
+      Seek cancellation or ask to be tried, within 30 days.
+    - >-
+      Appeal to the planning appeals committee within 15 days.
+    - >-
+      Ask the arnona director to set it off against your arnona.
+  correct: 1
+  explanation: >-
+    Under the Administrative Offences Law the person fined may request cancellation from the
+    authorised prosecutor within 30 days (s. 8א) or notify a wish to be tried within 30 days
+    (s. 8(ג)). The request does not postpone the payment date.

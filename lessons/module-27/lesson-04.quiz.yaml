@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You plan a 30 m² wooden pergola in your garden. It meets the size limit of the Exemption
+    Regulations but would stand 1 metre beyond the plan's rear building line. What is the position?
+  options:
+    - >-
+      It is exempt, because size is the only test for pergolas.
+    - >-
+      It is exempt if the neighbours sign a consent form.
+    - >-
+      It needs a permit only if it has a transparent roof.
+    - >-
+      It is not exempt; exemptions never override the plan.
+  correct: 3
+  explanation: >-
+    Section 145ג(ד) and reg. 2(4) require exempt works to conform to the plans and spatial
+    guidelines. Beyond the building line the pergola needs a permit with relief, or must be moved.
+- id: q2
+  question: >-
+    Your neighbour received an ordinary permit for a two-storey house that fully conforms to the
+    plan. You think the design is ugly. What can you do before the appeals committee?
+  options:
+    - >-
+      Nothing there: s. 152 gives no appeal to a neighbour of a conforming permit.
+    - >-
+      Appeal within 30 days, because every neighbour is a person harmed.
+    - >-
+      Appeal within 15 days together with one other neighbour.
+    - >-
+      Ask the appeals committee to hold a public hearing on the design.
+  correct: 0
+  explanation: >-
+    Section 152(א)(1) lets the refused applicant and a person whose objection to relief or
+    non-conforming use was rejected appeal. A neighbour of a conforming permit has no statutory
+    appeal; only a petition, on legal grounds, remains.
+- id: q3
+  question: >-
+    A flat owner wants to enclose a 10 m² balcony to make a room. The plan has no unused building
+    rights. Can the committee approve it as relief (הקלה)?
+  options:
+    - >-
+      Yes, relief is designed for small additions like this.
+    - >-
+      No, relief may not add floor area under s. 151(ב).
+    - >-
+      Yes, if all neighbours in the building consent in writing.
+    - >-
+      No, because balconies may never be enclosed in Israel.
+  correct: 1
+  explanation: >-
+    Section 151(ב)(1) bars relief that adds building area, units or floors. Without unused rights,
+    the owner needs a plan change, which may be within local power under s. 62א.
+- id: q4
+  question: >-
+    The licensing authority received a complete permit application and has not decided after
+    45 working days. What does the law let the applicant do?
+  options:
+    - >-
+      Start building, since silence counts as approval of the permit.
+    - >-
+      Complain to the Ombudsman, which is the only available step.
+    - >-
+      Treat it as a refusal and bring the application to the appeals committee.
+    - >-
+      File a civil claim for damages in the magistrates' court.
+  correct: 2
+  explanation: >-
+    Section 157(א) treats failure to decide within the s. 145(ב1) period as a refusal and lets the
+    applicant go to the appeals committee, which decides within 30 days. Building without a permit
+    remains an offence.

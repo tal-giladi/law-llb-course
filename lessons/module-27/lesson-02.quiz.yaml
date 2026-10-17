@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A detailed plan allows four floors on your street, but a later local outline plan for the whole
+    town limits the street to three floors and says nothing about its relation to detailed plans.
+    Which governs?
+  options:
+    - >-
+      The detailed plan, because a specific plan always beats a general one.
+    - >-
+      Neither, until the district committee rules on which plan applies.
+    - >-
+      The detailed plan, because the earlier approved plan always prevails.
+    - >-
+      The local outline plan, which has priority under s. 129.
+  correct: 3
+  explanation: >-
+    Section 129 gives a local outline plan priority over a detailed plan unless the outline plan
+    provides otherwise. Specificity and date do not override the statutory hierarchy.
+- id: q2
+  question: >-
+    A local committee that is not "independent" approved a plan that adds 30% to the total floor
+    area allowed on a block and adds two floors. What is your strongest legal argument?
+  options:
+    - >-
+      It is outside s. 62א and needed the district committee.
+    - >-
+      Local committees may never change the number of floors in any plan.
+    - >-
+      Any change of height needs the National Council's prior approval.
+    - >-
+      The plan is valid only if the engineer signed it before the vote.
+  correct: 0
+  explanation: >-
+    Section 62א lists the only matters a local committee may approve; adding total floor area beyond
+    the list is a district matter. Courts read the list strictly (עע״ם 1446/06), so lack of power is a
+    strong ground.
+- id: q3
+  question: >-
+    On Mavat a plan for the lot opposite your home shows the status "deposited". What does that mean
+    for you?
+  options:
+    - >-
+      The plan is in force and permits may already be issued under it.
+    - >-
+      It is on public display and you may still object in time.
+    - >-
+      The plan was rejected and is kept online for the record only.
+    - >-
+      The plan is only an early idea and there is nothing to read yet.
+  correct: 1
+  explanation: >-
+    Deposit (הפקדה) is the stage of public display that opens the objection period (lesson 27.3).
+    Approval and its publication come later; until then the plan is not in force.
+- id: q4
+  question: >-
+    You want the official list of all plans and restrictions that apply to your plot before
+    designing an extension. What do you request?
+  options:
+    - >-
+      A land-registry extract, which lists every plan that applies to a parcel.
+    - >-
+      A certificate of occupancy for the building from the fire authority.
+    - >-
+      Information for a permit (מידע להיתר) from the committee engineer.
+    - >-
+      A betterment levy assessment, which lists the plans that affect value.
+  correct: 2
+  explanation: >-
+    Section 145(א1) and reg. 20 of the Licensing Regulations require the engineer to provide the
+    applicable and deposited plans, restrictions and rights; the land registry records ownership,
+    not planning.

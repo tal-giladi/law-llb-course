@@ -1,0 +1,29 @@
+- **מוסד תכנון** (mosad tikhnun) — Planning institution under the Planning and Building Law 1965: the National Council, district, local, special and joint committees.
+- **המועצה הארצית לתכנון ולבניה** (ha-mo'atza ha-artzit le-tikhnun u-vniya) — National Planning and Building Council; advises the Government and prepares national outline plans (s. 2).
+- **ועדה מחוזית לתכנון ולבניה** (va'ada mehozit) — District planning committee, chaired by the Interior Minister's representative (s. 7).
+- **ועדה מקומית לתכנון ולבניה** (va'ada mekomit) — Local planning committee; in a single-authority area, the elected council itself (s. 18).
+- **ועדה מרחבית** (va'ada merhavit) — Local planning committee covering several authorities, with a chair appointed by the Interior Minister (s. 19).
+- **רשות רישוי** (reshut rishui) — Licensing authority: the local committee chair and engineer together, who grant ordinary permits (s. 30).
+- **ועדת ערר (תכנון ובנייה)** (va'adat erer) — District appeals committee for planning, chaired by an experienced lawyer (ss. 12א–12ב).
+- **ועדת ערר לפיצויים ולהיטל השבחה** (va'adat erer le-pitzuyim ve-hetel hashbaha) — Appeals committee for compensation and betterment levy disputes (s. 12ו).
+- **תכנית מיתאר ארצית (תמ״א)** (tokhnit mit'ar artzit) — National outline plan; prevails over all other plans unless it says otherwise (s. 131).
+- **תכנית מפורטת** (tokhnit meforetet) — Detailed plan with plot-level provisions from which permits are issued (s. 69).
+- **הפקדת תכנית** (hafkadat tokhnit) — Deposit of a plan for public inspection and objections (ss. 85–92).
+- **התנגדות לתכנית** (hitnagdut le-tokhnit) — Objection to a deposited plan, in writing with reasons and an affidavit, within two months (ss. 100–103א).
+- **מידע להיתר** (meida le-heter) — Official planning information for a plot given by the committee engineer before a permit application (s. 145(א1)).
+- **היתר בנייה** (heter bniya) — Building permit required for building, adding, demolishing and listed works (s. 145).
+- **פטור מהיתר** (ptor me-heter) — Exemption from a permit for simple listed works under the 2014 Exemption Regulations (s. 145ג).
+- **הקלה** (hakala) — Relief: a permitted minor deviation from a plan, which may not add area, units or floors (ss. 147, 151).
+- **שימוש חורג** (shimush horeg) — Non-conforming use permitted by the local committee for a limited time (ss. 146, 148).
+- **עבודה אסורה** (avoda asura) — Prohibited work: work without or contrary to a permit (Chapter 10).
+- **צו הריסה מינהלי** (tzav harisa minhali) — Administrative demolition order given without a court for recent work (s. 221).
+- **הרשות לאכיפה במקרקעין** (ha-rashut le-akhifa be-mekarke'in) — National Land Enforcement Authority, the national planning enforcement unit (s. 203).
+- **היטל השבחה** (hetel hashbaha) — Betterment levy: half of the increase in land value from a plan, relief or non-conforming use (Third Schedule).
+- **מימוש זכויות** (mimush zekhuyot) — Realisation of rights (a permit using new rights, first use, or a transfer), when the levy is paid.
+- **שמאי מכריע** (shamai makhri'a) — Decisive appraiser who decides disputes on the amount of a levy or compensation.
+- **חוק עזר** (hok ezer) — Municipal bylaw, in force only after ministerial review and publication in Reshumot (Municipalities Ordinance s. 258).
+- **ועדה ממונה** (va'ada memuna) — Committee appointed by the Interior Minister to replace a failing council (Municipalities Ordinance s. 143).
+- **מחזיק (ארנונה)** (mahzik) — Holder liable for arnona: the person in actual possession (Municipalities Ordinance s. 1).
+- **צו הארנונה** (tzav ha-arnona) — The council's annual arnona order setting classifications, zones and rates.
+- **מנהל הארנונה** (menahel ha-arnona) — Arnona director, who hears objections under the Arnona Appeals Law (s. 2).
+- **ועדת ערר לענייני ארנונה** (va'adat erer le-inyanei arnona) — Arnona appeals committee of three persons eligible for the council (s. 5).

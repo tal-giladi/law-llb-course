@@ -25,3 +25,4 @@
 - Modules 23–24: about 14 evidence and criminal-procedure rulings sourced from Hebrew Wikipedia only; Evidence Ordinance s. 56א (2022) wording and start date not read from Reshumot.
 - Module 26: all 7 inheritance rulings rest on Hebrew Wikipedia; Registrar fees (objection, publication) from Kol-Zchut need a manual check.
 - Module 25: all 6 tax rulings from Hebrew Wikipedia; Work Grant amounts and deadlines, 2026 late-filing fine and voluntary-disclosure status after 31.8.2026 need checking.
+- Module 27: planning rulings mostly from Hebrew Wikipedia (Adalah 4112/99 via Cardozo); confirm whether objections can be filed online for free and whether non-lawyers may represent before planning appeals committees.

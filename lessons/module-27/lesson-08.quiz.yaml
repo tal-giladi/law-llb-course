@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You moved out of a rented flat in Netanya in January 2025 but never told the municipality. In
+    2026 you receive a bill for all of 2025. What is your legal position?
+  options:
+    - >-
+      Liability continues until written notice (s. 325); give it now.
+    - >-
+      You owe nothing, because the actual holder is liable from the day you left.
+    - >-
+      The landlord alone is liable, because he owns the flat.
+    - >-
+      You owe nothing if you object within 90 days of the new bill.
+  correct: 0
+  explanation: >-
+    Section 325 ends liability only from written notice; before it the former holder remains
+    liable for what accrues. Give notice now and argue the period after it.
+- id: q2
+  question: >-
+    A pensioner receives an old-age pension and income support. Her city adopted the maximum
+    discounts. What can she get, and how?
+  options:
+    - >-
+      25% on the whole flat, automatically, through NII.
+    - >-
+      Up to 100% on 100 m², applying on Form 1 to the arnona department.
+    - >-
+      Up to 70%, only through the discounts committee for people in need.
+    - >-
+      Up to 100% on the whole flat, by objecting to the arnona director.
+  correct: 1
+  explanation: >-
+    Reg. 2(א)(1)(ב) allows up to 100% on 100 m² for a senior pensioner who also receives income
+    support; discounts are requested by application (reg. 4), not by objection.
+- id: q3
+  question: >-
+    A family is eligible both for a 20% single-parent discount and a 40% disability discount on
+    the same flat. What will they receive?
+  options:
+    - >-
+      Both, combined to 60%, as they relate to different people.
+    - >-
+      The first discount they applied for in that year.
+    - >-
+      The 40% discount only, as the higher of the two.
+    - >-
+      Neither, until the discounts committee chooses one.
+  correct: 2
+  explanation: >-
+    Reg. 17(א) gives only one discount, the highest, where several apply; and no discount to
+    another holder of the same property.
+- id: q4
+  question: >-
+    You believe your city's whole arnona order for 2026 was approved unlawfully after the deadline.
+    Where does that argument belong?
+  options:
+    - >-
+      In an objection to the arnona director, on the ground of wrong zone.
+    - >-
+      In a discount application, since it reduces your payment.
+    - >-
+      In a small claim against the municipality for the overpayment.
+    - >-
+      In a prior demand and then an administrative petition.
+  correct: 3
+  explanation: >-
+    Section 3(ב) of the Arnona Appeals Law bars the director and the appeals committee from deciding
+    illegality claims beyond the listed grounds; such claims go by petition to the Administrative
+    Affairs Court.

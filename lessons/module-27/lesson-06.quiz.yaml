@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A plan approved in 2023 doubled the building rights on your plot. You have built nothing and now
+    sell the plot. When is the betterment levy paid, and by whom under the law?
+  options:
+    - >-
+      In 2023, by the owner, when the plan was approved.
+    - >-
+      On the sale, by the owner, as a realisation of rights.
+    - >-
+      By the buyer, when the buyer later applies for a permit.
+    - >-
+      Never, because no building took place on the plot.
+  correct: 1
+  explanation: >-
+    A transfer of the land for value is a realisation of rights (Third Schedule s. 1), and the levy
+    is due no later than realisation (s. 7). The Land Registry will not register the sale without the
+    committee's certificate (s. 10(א)).
+- id: q2
+  question: >-
+    You agree that you owe a levy but think the committee's appraiser overvalued the increase. You
+    received the assessment 20 days ago. What is the appropriate step?
+  options:
+    - >-
+      Petition the Administrative Affairs Court within 45 days.
+    - >-
+      File an arnona-style objection with the committee's director within 90 days.
+    - >-
+      Ask for a decisive appraiser within the 45 days.
+    - >-
+      Wait until the sale and argue the amount before the Land Registrar.
+  correct: 2
+  explanation: >-
+    Under Third Schedule s. 14(ב) an owner who disputes only the amount may ask for a decisive
+    appraiser within the 45-day period; liability disputes go to the compensation and levy appeals
+    committee.
+- id: q3
+  question: >-
+    A family extends its own home from 100 m² to 135 m² under rights from a recent plan. What is the
+    levy position?
+  options:
+    - >-
+      No levy now: own-home building up to 140 m² is not realisation.
+    - >-
+      Levy on the whole 35 m², because new rights were used.
+    - >-
+      Levy only if the family sells within ten years.
+    - >-
+      Levy at a quarter rate, as for earthquake strengthening.
+  correct: 0
+  explanation: >-
+    Third Schedule s. 19(ג)(1) says building or extending a home for the holder or a relative is not
+    realisation if the home after the work does not exceed 140 m²; levy is paid on area above that.
+- id: q4
+  question: >-
+    A district plan published in Reshumot on 1 June 2026 designates the plot next to your house for a
+    bus depot, lowering your house's value. What must you do to claim compensation?
+  options:
+    - >-
+      Sue the bus company in the magistrates' court within seven years.
+    - >-
+      Object to the arnona director, since the value of your home fell.
+    - >-
+      Appeal to the National Council within 30 days of publication.
+    - >-
+      File a s. 197 claim at the local committee by 1 June 2029.
+  correct: 3
+  explanation: >-
+    Section 197 gives compensation to owners of land within or adjoining a plan that harms it, against
+    the local committee, claimed within three years of the plan's commencement; s. 200 may limit it.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You filed an arnona objection on 1 March. By 15 May you have no answer and the appeals committee
+    did not extend the period. What is the legal position?
+  options:
+    - >-
+      You must appeal to the appeals committee within 30 days of 30 April.
+    - >-
+      The objection is deemed accepted; ask the director to correct the bill.
+    - >-
+      The objection lapsed because you did not send a reminder.
+    - >-
+      You must petition the Administrative Affairs Court for an answer.
+  correct: 1
+  explanation: >-
+    Under s. 4(ב) of the Arnona Appeals Law, if the director does not answer within 60 days, and the
+    appeals committee did not extend the period by up to 30 days, the objection is treated as
+    accepted.
+- id: q2
+  question: >-
+    Your notice of appeal states your reasons and the property, but not the date you received the
+    director's answer or whether you want to appear. What should you do?
+  options:
+    - >-
+      Nothing; the committee will find the date in the director's file.
+    - >-
+      Withdraw and file an administrative appeal in court instead.
+    - >-
+      Correct the notice quickly to include all the items of reg. 2.
+    - >-
+      Wait for the director's reply and add the missing items then.
+  correct: 2
+  explanation: >-
+    Reg. 2 of the 1977 Procedure Regulations lists five required items, including the date the
+    answer was received and whether you ask to appear. Correct the defect before the director
+    objects to it.
+- id: q3
+  question: >-
+    The appeals committee rejected your appeal on classification. You think it misread a clause of
+    the arnona order that will affect you every year. What is the next step and its period?
+  options:
+    - >-
+      An administrative appeal to the court, within 60 days.
+    - >-
+      A second objection to the director on the same ground, within 90 days.
+    - >-
+      An appeal to the Interior Minister, within 30 days.
+    - >-
+      A High Court petition, within 45 days.
+  correct: 0
+  explanation: >-
+    Section 6(ב) allows an administrative appeal to the Administrative Affairs Court; with no special
+    period in the Arnona Appeals Law, the general 60 days of reg. 23(ב) apply.
+- id: q4
+  question: >-
+    While your objection on area is pending, what should you do about paying the bill?
+  options:
+    - >-
+      Stop paying entirely until the objection is decided.
+    - >-
+      Pay double, to show good faith to the committee.
+    - >-
+      Pay only after the appeals committee rules, with no interest.
+    - >-
+      Pay the undisputed part on time to avoid arrears.
+  correct: 3
+  explanation: >-
+    Filing does not suspend the bill. Paying what you do not dispute avoids arrears, interest and
+    collection steps, and keeps discounts that require full payment by year-end (reg. 16).

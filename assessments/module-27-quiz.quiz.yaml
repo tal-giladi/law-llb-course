@@ -1,0 +1,183 @@
+- id: q1
+  question: >-
+    A district committee deposited a plan for a 25-storey tower next to your building. The later
+    newspaper notice appeared 50 days ago. You have photos and a shadow study by a friend who is an
+    architect. What is the best next step?
+  options:
+    - >-
+      Object in writing with an affidavit to the district committee.
+    - >-
+      Wait for approval and then appeal to the appeals committee within 15 days.
+    - >-
+      Petition the Administrative Affairs Court now to stop the deposit.
+    - >-
+      Send your objection to the local committee, which will forward it.
+  correct: 0
+  explanation: >-
+    Objections to a plan in district power go to the district committee with a copy to the local
+    committee (s. 103), within two months of the later newspaper notice (s. 102), with reasons and an
+    affidavit (s. 103א). Ten days remain.
+- id: q2
+  question: >-
+    You want to enclose your 12 m² balcony as a room. The plan's building rights on your plot are
+    fully used. A contractor says "it's an internal change, no permit needed". What is right?
+  options:
+    - >-
+      He is right, since the balcony is inside your flat's boundaries.
+    - >-
+      It needs a permit and, with no rights left, a plan change, not relief.
+    - >-
+      It is exempt if the enclosure is made of light materials only.
+    - >-
+      It needs only the consent of two-thirds of the condominium owners.
+  correct: 1
+  explanation: >-
+    Enclosing a balcony changes the façade and adds area, so it is not an internal change
+    (s. 145(א)(2)). Relief cannot add floor area (s. 151(ב)); without rights a plan change is needed,
+    and the co-owners' consent is a separate requirement.
+- id: q3
+  question: >-
+    On 2 September an administrative demolition order was served on an extension that a family
+    finished in June and moved into in early July. The inspector's affidavit is dated 25 August. What
+    should the family do first?
+  options:
+    - >-
+      Apply for a permit and ignore the order, which lapses when an application is filed.
+    - >-
+      Appeal to the planning appeals committee within 30 days.
+    - >-
+      Ask the court to cancel it within 15 days of service.
+    - >-
+      Pay the administrative fine, which cancels the demolition order.
+  correct: 2
+  explanation: >-
+    A request to cancel goes to the local-affairs or magistrates' court within 15 days of service
+    (s. 228). For a dwelling, the order requires occupation of no more than 30 days at the affidavit
+    date (s. 221(א)); here it was about eight weeks.
+- id: q4
+  question: >-
+    You are selling your flat. A plan approved three years ago added building rights to your
+    building, but you never used them. The buyer's lawyer says the sale cannot be registered yet. Why?
+  options:
+    - >-
+      The buyer must first apply for a permit to use the new rights.
+    - >-
+      Sales are frozen for five years after any new plan is approved.
+    - >-
+      The arnona director must confirm the flat's new classification.
+    - >-
+      A sale is a realisation and needs the levy certificate.
+  correct: 3
+  explanation: >-
+    A sale is a realisation of rights (Third Schedule s. 1), and the Land Registry registers it only
+    with the committee chair's certificate that the levy due was paid (s. 10(א)).
+- id: q5
+  question: >-
+    Your neighbour received relief to build 2 metres closer to your boundary. You received the
+    s. 149 notice and objected in time, but the local committee rejected your objection. What can you
+    do?
+  options:
+    - >-
+      Petition the High Court of Justice within 45 days.
+    - >-
+      Nothing; neighbours have no appeal against permits.
+    - >-
+      Appeal to the district appeals committee within 30 days of service.
+    - >-
+      Object again to the licensing authority before the permit is issued.
+  correct: 2
+  explanation: >-
+    Section 152(א)(1) gives a person whose objection under s. 149 was rejected an appeal to the
+    appeals committee within 30 days; while the appeal is pending no permit is issued unless the
+    committee decides otherwise (s. 152(ב)).
+- id: q6
+  question: >-
+    A new interchange plan was published in Reshumot two and a half years ago. Your house's value
+    fell by 15%. The committee will argue "reasonable harm". What is your position?
+  options:
+    - >-
+      You are out of time; compensation claims must be filed within one year.
+    - >-
+      Object to the arnona director to lower your arnona instead.
+    - >-
+      Claim from the National Roads Company in the magistrates' court within seven years.
+    - >-
+      Claim at the local committee now, showing why the harm is not reasonable for you.
+  correct: 3
+  explanation: >-
+    Section 197(ב) gives three years from the plan's commencement; s. 200 denies compensation only
+    for harm within reasonable bounds. The courts set no fixed percentage (Horowitz), so evidence of
+    unusual harm matters.
+- id: q7
+  question: >-
+    A municipality fines a street musician under a bylaw on "noise in public places". He finds that
+    the council approved the bylaw last month but it has not been published in Reshumot. What is his
+    best argument?
+  options:
+    - >-
+      The bylaw is not in force without publication in Reshumot (s. 258).
+    - >-
+      Music is protected expression, so no bylaw can regulate it.
+    - >-
+      Bylaws need a Knesset committee's approval before they apply.
+    - >-
+      Fines can be imposed only by the police, not by municipalities.
+  correct: 0
+  explanation: >-
+    Section 258 requires the bylaw to be signed and published in Reshumot after the minister's 60-day
+    review; without publication it has no force. Free-expression arguments go to proportionality,
+    not validity.
+- id: q8
+  question: >-
+    Leah sold her flat in Haifa in March 2025 and told the buyer to "deal with the city". In 2026 she
+    receives arnona demands for April–December 2025. What is her best course?
+  options:
+    - >-
+      Pay, because a seller is liable until the buyer registers ownership.
+    - >-
+      Notify now and object as not the holder.
+    - >-
+      Ask the buyer to file an objection on her behalf.
+    - >-
+      Ignore them; the buyer is the holder and only he can be billed.
+  correct: 1
+  explanation: >-
+    The seller must notify the municipality of the sale and the new holder (s. 326); liability ends
+    from written notice (s. 325). She should notify now and object on the "not the holder" ground
+    (s. 3(א)(3)) within 90 days of the payment notice.
+- id: q9
+  question: >-
+    A pensioner on income support asks the arnona appeals committee to give her the 100% discount
+    the city refused. What will the committee most likely say?
+  options:
+    - >-
+      It lacks power: discounts go by application.
+    - >-
+      It will grant the discount if she proves her income support.
+    - >-
+      It will refer the case to the discounts committee for hardship.
+    - >-
+      It will grant half the discount pending the director's review.
+  correct: 0
+  explanation: >-
+    The objection and appeal route covers only the s. 3(א) grounds; discounts are decided on
+    application under the 1993 Regulations, and a refusal is challenged by a request and then an
+    administrative petition.
+- id: q10
+  question: >-
+    A local committee that is not "independent" approved, under s. 62א, a plan that also adds
+    20% to the total main floor area on several plots. You objected and lost. Which step fits best?
+  options:
+    - >-
+      An appeal to the National Council with leave of the district chair.
+    - >-
+      An appeal to the appeals committee within 15 days, arguing lack of power.
+    - >-
+      A complaint to the State Comptroller, which can annul plans.
+    - >-
+      A second objection to the district committee within two months.
+  correct: 1
+  explanation: >-
+    Decisions on local-committee plans are appealed to the appeals committee within 15 days by an
+    objector whose objection was rejected (s. 112). Adding main floor area beyond the s. 62א list is a
+    strong ground of lack of power (עע״ם 1446/06).
