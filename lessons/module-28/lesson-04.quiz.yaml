@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Eli has five execution files totalling ₪60,000. After necessary expenses he can pay ₪800 a month,
+    and his creditors will not agree to a longer period. He asks to consolidate. What is the likely
+    outcome?
+  options:
+    - >-
+      Consolidation is granted, because consolidation is a debtor's right once requested.
+    - >-
+      Consolidation is granted, but only for the two largest files.
+    - >-
+      Refusal: he cannot repay all files within the statutory periods.
+    - >-
+      He is declared a limited means debtor and his files are frozen indefinitely.
+  correct: 2
+  explanation: >-
+    Section 74ט allows consolidation only if the debtor can repay all files within the s. 7א1 periods or
+    all creditors agree. ₪800 over the permitted period is far below ₪60,000. No new limited-means
+    declarations have been possible since 2019 (s. 69י1).
+- id: q2
+  question: >-
+    Shani files a consolidation request on form 7. A week later she wants to fly to a family wedding
+    abroad. What should she know?
+  options:
+    - >-
+      Filing a consolidation request triggers an exit ban that she must ask to lift.
+    - >-
+      Travel is unaffected because no restriction can be imposed without a 30-day notice.
+    - >-
+      The exit ban applies only if one of the creditors asks for it in writing.
+    - >-
+      She must withdraw her request, travel, and refile it when she returns.
+  correct: 0
+  explanation: >-
+    Section 74ד(א) requires the registrar to order an exit ban when a consolidation request is filed;
+    he may decline or lift it for special reasons on an affidavit, usually with security (s. 74ד(ג)).
+- id: q3
+  question: >-
+    While deciding Avner's payment-order request in one file, the registrar notices three other files
+    against him. What does the law require the registrar to do?
+  options:
+    - >-
+      Nothing; each file is decided separately unless a form 7 request is filed.
+    - >-
+      Close the other files, since only the oldest file may be enforced.
+    - >-
+      Refer Avner to insolvency because he has more than one file.
+    - >-
+      Consider consolidating all his files under the payment order, with his consent.
+  correct: 3
+  explanation: >-
+    Section 74טו1 obliges the registrar, when giving a payment order, to consider consolidating all the
+    debtor's files under it after explaining the consequences, if the debtor agrees.
+- id: q4
+  question: >-
+    In 2026 a debtor asks to be declared a "limited means debtor" as his neighbour was in 2012. What is
+    the answer?
+  options:
+    - >-
+      The declaration is granted if his debts exceed the statutory threshold.
+    - >-
+      No new declarations have been made since the Insolvency Law took effect in 2019.
+    - >-
+      The declaration is available only to debtors over pension age.
+    - >-
+      The declaration is granted only with the consent of all his creditors.
+  correct: 1
+  explanation: >-
+    Section 69י1 bars new limited-means declarations from the Insolvency Law's commencement. A debtor
+    who cannot pay within the s. 7א1 periods files a s. 7א2 notice or applies for insolvency.

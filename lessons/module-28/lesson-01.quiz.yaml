@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Dov finds an execution warning in his mailbox. The envelope shows it was posted ten days ago, but
+    he signed the registered-mail receipt only today. From which day does the warning period run?
+  options:
+    - >-
+      From the day the creditor filed the request to execute, as shown in the file.
+    - >-
+      From the day the warning was posted, since posting is deemed service.
+    - >-
+      From today, the day he signed for it, which is the day of service.
+    - >-
+      From the date of the judgment, since the warning only repeats it.
+  correct: 2
+  explanation: >-
+    Section 7(א) counts the period from service of the warning. Signing the receipt is service; the
+    filing date, posting date and judgment date do not start the debtor's clock.
+- id: q2
+  question: >-
+    Rina cannot pay a ₪12,000 judgment in one sum but can pay something every month. She writes to the
+    office "I can pay ₪200 a month" and attaches nothing. What is the likely result?
+  options:
+    - >-
+      The registrar fixes ₪200 a month, since the creditor did not object within the period.
+    - >-
+      The office does not accept the request without the documented statement and the waiver.
+    - >-
+      The letter is treated as a notice of inability and opens insolvency proceedings.
+    - >-
+      The letter counts as appearing for a means inquiry, so she cannot be deemed an evader.
+  correct: 1
+  explanation: >-
+    Section 7א(א1) bars the office from accepting a payment-order request without a reasoned statement
+    supported by documents and a signed waiver of confidentiality. Only a request that meets s. 7א
+    counts as appearing for a means inquiry (reg. 12ב).
+- id: q3
+  question: >-
+    A debtor ignores the warning entirely and does not appear for a means inquiry. What does the law
+    say about him?
+  options:
+    - >-
+      Nothing changes until the creditor proves in a hearing that he has assets.
+    - >-
+      The file is suspended until he is located and served again in person.
+    - >-
+      He is automatically imprisoned for up to 21 days to compel his appearance.
+    - >-
+      He is deemed a debtor with means who evades payment, opening the way to restrictions.
+  correct: 3
+  explanation: >-
+    Section 67(ד) deems a debtor who does not appear a debtor with means who evades payment. That
+    status is one of the conditions for restrictions under s. 66ב; it does not mean automatic arrest.
+- id: q4
+  question: >-
+    The office staff attached Yael's car two days after the warning reached her, before the warning
+    period ended, with no registrar's order. Where does she turn first?
+  options:
+    - >-
+      An objection (ערר) to the execution registrar against the office's act.
+    - >-
+      An appeal as of right to the district court against the attachment.
+    - >-
+      A petition to the High Court of Justice against the Enforcement Authority.
+    - >-
+      A new claim in the magistrates' court to cancel the judgment.
+  correct: 0
+  explanation: >-
+    Acts of the office director or staff are challenged by an objection to the registrar (s. 80(א), reg.
+    118), filed quickly. Enforcement before the period ends needs a registrar's decision (s. 7(ה)).

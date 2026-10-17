@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    Rami receives an execution warning on a judgment he believes was wrong; he also cannot pay it in
+    full. He has two weeks left of the warning period. What should he do in the Execution Office?
+  options:
+    - >-
+      File an opposition, so the registrar sends the judgment back to the court.
+    - >-
+      Seek a documented payment order, and challenge the judgment in court.
+    - >-
+      File an "I have paid" claim, since he does not owe the money in his view.
+    - >-
+      Wait for the means inquiry invitation, since nothing happens before he is invited.
+  correct: 1
+  explanation: >-
+    The Execution Office cannot reopen a judgment; that belongs to the court that gave it. Within the
+    warning period he protects himself with a s. 7א request; opposition is only for bills and fixed-sum
+    claims, and "I have paid" is for payment after judgment.
+- id: q2
+  question: >-
+    A creditor asks for an exit ban against Sigal. She was never fully served; she has filed nothing in
+    the file; she has not been found to have means. What should the registrar do?
+  options:
+    - >-
+      Impose the ban, because restrictions are the standard tool after the warning period.
+    - >-
+      Impose the ban only if the debt exceeds the short-track ceiling.
+    - >-
+      Refuse for now: restrictions need full service or appearance and a s. 66ב condition.
+    - >-
+      Refuse permanently, because exit bans are reserved for maintenance debts.
+  correct: 2
+  explanation: >-
+    Section 7(ג) bars restrictions without full service or the debtor's appearance, and s. 66ב requires
+    a condition such as deemed evasion plus time and amount, or a maintenance debt.
+- id: q3
+  question: >-
+    A self-employed gardener's ride-on mower and pickup truck are seized in execution. Both are needed
+    for his work and are within the regulatory value cap. The creditor is a bank, not the seller.
+    What is the likely outcome of his request?
+  options:
+    - >-
+      The lien is cancelled, as tools of the trade including a vehicle are exempt.
+    - >-
+      The lien stays, because exemptions protect only employees' wages.
+    - >-
+      The lien stays until he deposits security for their value.
+    - >-
+      The items are sold and he receives the protected wage amount from the proceeds.
+  correct: 0
+  explanation: >-
+    Section 22(א)(4) exempts tools, machines and a vehicle needed for the debtor's livelihood within the
+    value cap; the exception for the financing seller (s. 22(ב)) does not apply to a bank creditor.
+- id: q4
+  question: >-
+    Neta paid a gym ₪2,400 by bank transfer after the small-claims judgment against her. The gym opened
+    an execution file for the full sum. What is her route and who must prove what?
+  options:
+    - >-
+      Opposition within 30 days; the gym must prove the debt in court.
+    - >-
+      An appeal to the magistrates' court; the registrar's calculation is presumed wrong.
+    - >-
+      A consolidation request; payments are credited when files are consolidated.
+    - >-
+      An "I have paid" claim; she bears the burden, which her transfer record meets.
+  correct: 3
+  explanation: >-
+    Under s. 19(א) the debtor claiming payment bears the burden of proof; a bank transfer is strong
+    evidence. The gym's failure to report the payment (s. 19א) may cost it.
+- id: q5
+  question: >-
+    Moshe has four execution files totalling ₪48,000 and can pay ₪1,600 a month after necessary
+    expenses. What is the most fitting route?
+  options:
+    - >-
+      An application to the Insolvency Commissioner, since he has more than three files.
+    - >-
+      Consolidation, ideally through a payment order, since he can pay within the period.
+    - >-
+      A declaration as a limited means debtor to freeze all files.
+    - >-
+      Opposition in each file to gain time until his income rises.
+  correct: 1
+  explanation: >-
+    ₪1,600 a month over the permitted period exceeds ₪48,000, so the s. 74ט test can be met; the
+    registrar must consider consolidation with a payment order (s. 74טו1). Limited-means declarations
+    are closed since 2019.
+- id: q6
+  question: >-
+    In 2026 Dalia owes ₪95,000 to several creditors and cannot pay within any execution period. She has
+    an execution file open. What is the simplest way into insolvency proceedings?
+  options:
+    - >-
+      A petition to the district court, which hears every individual's insolvency.
+    - >-
+      An online application to the Insolvency Commissioner, which handles all debt levels.
+    - >-
+      A notice of inability to pay in the execution file, treated as an application.
+    - >-
+      A consolidation request that the registrar will convert into insolvency.
+  correct: 2
+  explanation: >-
+    Below the linked threshold (about ₪177,000 in 2026), Execution Law s. 7א2 and Insolvency Law s. 187
+    treat a notice of inability to pay as an application before a dedicated execution registrar.
+- id: q7
+  question: >-
+    After the opening order, Avi's trustee learns that eight months before the application Avi sold his
+    motorcycle to his cousin for a tenth of its value. What follows?
+  options:
+    - >-
+      The trustee may seek to undo it, and the period may be longer.
+    - >-
+      Nothing, because the sale was more than three months before the application.
+    - >-
+      The opening order is cancelled automatically and execution files resume.
+    - >-
+      The cousin becomes a co-debtor for all of Avi's debts.
+  correct: 0
+  explanation: >-
+    Section 220 reaches undervalue transfers within two years (four for a relative) while insolvent;
+    s. 163(ג)(3) allows a longer payment period for such acts. Cancellation of the order is a
+    discretionary remedy for serious misconduct (s. 183), not automatic.
+- id: q8
+  question: >-
+    Roni's earning capacity is ₪7,000 and his living allowance ₪5,800. He cooperated fully and has no
+    bad-faith grounds. What rehabilitation order is most likely?
+  options:
+    - >-
+      Immediate discharge, because his income is modest.
+    - >-
+      An open-ended payment period until all debts are paid.
+    - >-
+      Payments of ₪7,000 a month for one year, then discharge.
+    - >-
+      Payments of about ₪1,200 a month for three years, then discharge.
+  correct: 3
+  explanation: >-
+    Section 162 sets payment at earning capacity minus living allowance; s. 163(א) makes three years the
+    default; immediate discharge (s. 167) applies only when capacity does not exceed the allowance.
+- id: q9
+  question: >-
+    A company that employed Yael for six years enters insolvency owing her three months' wages and
+    severance. How is she best protected?
+  options:
+    - >-
+      By continuing her labour-court claim, which is not affected by the stay.
+    - >-
+      By a debt claim to the trustee and the National Insurance benefit, with wage priority.
+    - >-
+      By attaching the company's bank account in the Execution Office before the trustee acts.
+    - >-
+      By suing the directors personally, which is the only route for employees.
+  correct: 1
+  explanation: >-
+    Proceedings against the company are stayed (s. 29); employees file debt claims without fee, receive
+    the National Insurance insolvency benefit and rank first among priority debts up to caps (s. 234).
+- id: q10
+  question: >-
+    A self-employed debtor with ₪600,000 of business debts believes most creditors would accept 40%
+    over two years. In 2026, what option does Amendment No. 9 give him before any opening order?
+  options:
+    - >-
+      Declaration as a limited means debtor while he negotiates.
+    - >-
+      Automatic discharge if three-quarters of creditors agree in writing.
+    - >-
+      A court-ordered temporary stay to negotiate an arrangement.
+    - >-
+      A consolidation order covering all his business debts for up to seven years.
+  correct: 2
+  explanation: >-
+    Amendment No. 9 (2026) added ss. 319יז–319כ: an individual may ask the court for a temporary stay to
+    form and approve a debt arrangement, for a limited period, if there is a reasonable chance of
+    approval and no fraud or abuse.

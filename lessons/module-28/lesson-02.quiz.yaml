@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A plumber's van, which carries his tools and is his only way to reach jobs, is seized in an
+    execution file for a credit-card debt. Its value is within the cap set in the regulations. What
+    should he ask for?
+  options:
+    - >-
+      Nothing can be done until the van is sold and the surplus returned to him.
+    - >-
+      A stay only if he deposits security equal to the van's value.
+    - >-
+      Cancellation of the lien, since tools of the trade including a vehicle are exempt.
+    - >-
+      An appeal to the district court, since vehicle liens are appealable as of right.
+  correct: 2
+  explanation: >-
+    Section 22(א)(4) exempts tools, machines and a vehicle needed for the debtor's livelihood up to a
+    set value. The debtor asks the registrar to cancel the lien, with proof of use and value.
+- id: q2
+  question: >-
+    Shir's salary is paid into a bank account frozen by an execution lien. What part of it is
+    protected for an ordinary (non-maintenance) creditor?
+  options:
+    - >-
+      None; once wages reach the bank they are ordinary money of the debtor.
+    - >-
+      The income-support amount for her family, up to 80% of net wages.
+    - >-
+      Exactly half of her net wages, whatever her family composition.
+    - >-
+      All of it, because wages can never be attached in execution.
+  correct: 1
+  explanation: >-
+    Wage Protection Law s. 8(א) protects an amount equal to the income-support benefit for the family
+    composition, up to 80% of net wages, and s. 8(ו) keeps it protected for a month after it is paid
+    to the bank. The protection does not apply to maintenance debts.
+- id: q3
+  question: >-
+    The registrar wants to restrict Avi from leaving Israel. Avi was never served personally, did not
+    appear in the file, and the warning was only sent digitally. What is the problem?
+  options:
+    - >-
+      Restrictions need full service of the warning or the debtor's appearance (s. 7(ג)).
+    - >-
+      Exit bans may be imposed only in maintenance files, not in ordinary debts.
+    - >-
+      An exit ban needs a magistrates' court order, not a registrar's decision.
+    - >-
+      There is no problem; digital service is equal to full service for every purpose.
+  correct: 0
+  explanation: >-
+    Section 7(ג) bars restrictions, the evaders' register and arrest unless the debtor appeared or was
+    served with full service. Filing any request would count as full service (s. 7(ג1)).
+- id: q4
+  question: >-
+    A creditor owed ₪30,000 asks to sell the flat where the debtor lives with her children. What must
+    the registrar be satisfied of before ordering a sale?
+  options:
+    - >-
+      Only that the debt is larger than the protected amount for the home.
+    - >-
+      That the debtor was deemed an evader at least six months ago.
+    - >-
+      That the debtor consented in the original loan agreement to a sale.
+    - >-
+      That the family will have reasonable housing, after a hearing with full service.
+  correct: 3
+  explanation: >-
+    Section 38 requires a hearing with full service and proof of reasonable housing or an alternative
+    arrangement; s. 38(ב) borrows the insolvency law's s. 229 rules on what counts as reasonable
+    housing and an alternative arrangement.

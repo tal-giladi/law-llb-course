@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Tamar gave a post-dated cheque to a contractor who never did the work. He opened an execution file
+    on the cheque and the warning was served on her today. What is her main defence?
+  options:
+    - >-
+      An "I have paid" claim, since the contractor's breach cancels the debt.
+    - >-
+      An opposition to execution of the bill, with an affidavit, within 30 days of service.
+    - >-
+      An appeal to the magistrates' court against the opening of the file.
+    - >-
+      A payment-order request, because a cheque cannot be disputed once presented.
+  correct: 1
+  explanation: >-
+    Section 81א(ג)–(ג1) lets the debtor oppose execution of a bill within 30 days of service with an
+    affidavit; the file is stayed and moves to court, where failure of consideration can be argued.
+- id: q2
+  question: >-
+    Ronen says he paid a judgment in cash to the creditor's brother and has no receipt. He files an
+    "I have paid" claim. What should he expect?
+  options:
+    - >-
+      The creditor must prove that the payment was not made, so the claim will succeed.
+    - >-
+      The file is automatically stayed until the registrar hears both sides.
+    - >-
+      The registrar will send the dispute to the court that gave the judgment.
+    - >-
+      He bears the burden of proof, and a baseless claim can earn him special costs.
+  correct: 3
+  explanation: >-
+    Under s. 19(א) the debtor bears the burden; a stay is given only for special reasons, usually
+    against security (s. 19(ב)), and special costs follow a claim with no basis (s. 19(ג)).
+- id: q3
+  question: >-
+    Lior's opposition to a promissory note was transferred to the magistrates' court. The creditor had
+    already attached her bank account before she filed. What is the status of that lien?
+  options:
+    - >-
+      It stays in place unless the court orders otherwise.
+    - >-
+      It is cancelled automatically when the opposition is filed.
+    - >-
+      It becomes void if the creditor does not refile the claim in court.
+    - >-
+      It is converted into a lien on her wages only.
+  correct: 0
+  explanation: >-
+    Regulation 108(ג) treats the stay like a stay under s. 17: steps taken before the stay reached the
+    office, including liens, stand unless the court decides otherwise. She may ask the court to lift it.
+- id: q4
+  question: >-
+    Nadav agreed with his creditor to pay ₪500 a month directly. The creditor notified the office of the
+    arrangement. Nadav pays for four months, but the file still shows the full debt. What can he do?
+  options:
+    - >-
+      Nothing; only the creditor may report payments made outside the office.
+    - >-
+      Open a new court claim against the creditor for over-collection.
+    - >-
+      Report the payments himself; absent a timely reply the debt is cut.
+    - >-
+      File an opposition to execution, since the arrangement replaced the judgment.
+  correct: 2
+  explanation: >-
+    Section 19ב(ד) lets the debtor report payments under an arrangement; the office sends the report to
+    the creditor and, absent a timely response, reduces the principal accordingly.

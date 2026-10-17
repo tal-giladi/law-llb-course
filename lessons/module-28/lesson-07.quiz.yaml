@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A supplier holds an unpaid court judgment for ₪150,000 against a company, served six weeks ago. It
+    wants to open insolvency proceedings. What helps it most?
+  options:
+    - >-
+      Nothing; only the company itself may apply to open proceedings.
+    - >-
+      Proof that the company has more debts than any other customer of the supplier.
+    - >-
+      The presumption of insolvency from an unpaid judgment above the linked amount.
+    - >-
+      A consolidation order from the Execution Office against the company.
+  correct: 2
+  explanation: >-
+    Section 10(א)(4) presumes insolvency where a court judgment above the linked amount (about ₪88,000
+    in 2026) was not paid within 30 days of service; the creditor applies to the district court.
+- id: q2
+  question: >-
+    After an opening order against her employer, Dana wants to continue her execution file for unpaid
+    wages. What is the position?
+  options:
+    - >-
+      Collection is stayed; she files a debt claim with the trustee.
+    - >-
+      She may continue, because wage debts are exempt from the stay.
+    - >-
+      She may continue if she files before the trustee is appointed.
+    - >-
+      The file continues, but only against the company's bank accounts.
+  correct: 0
+  explanation: >-
+    Section 29 stays collection of past debts and legal proceedings against the company. Employees file
+    debt claims (s. 210), rank first among priority debts (s. 234) and may get the National Insurance
+    insolvency benefit.
+- id: q3
+  question: >-
+    For eight months the board of an insolvent company kept taking deposits from customers and did
+    nothing else. What may the trustee seek against the directors?
+  options:
+    - >-
+      Only their removal from office, since the company's debts are not theirs.
+    - >-
+      A criminal indictment, which is the only remedy for trading while insolvent.
+    - >-
+      Nothing, unless the company's articles allow claims against directors.
+    - >-
+      A court order holding them liable for failing to reduce the insolvency (s. 288).
+  correct: 3
+  explanation: >-
+    Section 288 allows the court, on the trustee's or Commissioner's application, to hold a director or
+    CEO liable who knew or should have known of insolvency and took no reasonable steps; the company
+    cannot exempt or indemnify them.
+- id: q4
+  question: >-
+    Which creditor of an insolvent company is paid first among the priority debts listed in s. 234?
+  options:
+    - >-
+      The VAT authority for principal arising in the last 12 months.
+    - >-
+      Employees, for wages and severance up to the linked caps.
+    - >-
+      Suppliers who delivered goods in the last three months.
+    - >-
+      The municipality for arnona under a spread arrangement.
+  correct: 1
+  explanation: >-
+    Section 234(א)(1) puts employees' wages and severance (net of the National Insurance benefit, up to
+    caps) first among priority debts; VAT and spread compulsory payments come later; suppliers are
+    general creditors.

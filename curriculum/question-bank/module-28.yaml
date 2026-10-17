@@ -1,0 +1,1373 @@
+- id: m28-001
+  module: 28
+  lesson: "28.1"
+  subject: execution-warning
+  difficulty: 1
+  question: >-
+    Who decides a debtor's payment-order request in an execution file?
+  options:
+    - >-
+      The director of the execution office.
+    - >-
+      The execution registrar.
+    - >-
+      The magistrates' court judge.
+    - >-
+      The creditor's lawyer, subject to review.
+  correct: 1
+  explanation: >-
+    The execution registrar is the judicial officer who decides requests and orders (s. 3א; s. 7א(ג)).
+    The office director carries out acts, which are challenged by objection to the registrar (s. 80(א)).
+- id: m28-002
+  module: 28
+  lesson: "28.1"
+  subject: execution-warning
+  difficulty: 2
+  question: >-
+    Bar-exam style. A debtor files a request to postpone a hearing in his execution file but claims he
+    was never served with the warning. How is service treated?
+  options:
+    - >-
+      He is deemed fully served on the day he filed the request.
+    - >-
+      He is deemed served only after the office re-serves him personally.
+    - >-
+      Service is irrelevant once a hearing has been scheduled by the registrar.
+    - >-
+      He is deemed served from the date the creditor opened the file.
+  correct: 0
+  explanation: >-
+    Section 7(ג1): a debtor who files a request in the file is treated as fully served on the day of
+    filing, unless the registrar orders otherwise.
+- id: m28-003
+  module: 28
+  lesson: "28.1"
+  subject: execution-warning
+  difficulty: 2
+  question: >-
+    The warning in Oren's file does not mention the means inquiry or the documents to bring. What is
+    the most accurate statement?
+  options:
+    - >-
+      The file is void and the creditor must open a new one.
+    - >-
+      The defect has no significance because the debtor is presumed to know the law.
+    - >-
+      The warning lacks content s. 7(א1) requires; he can raise it with the registrar.
+    - >-
+      He may ignore the warning until a correct one is served, without consequences.
+  correct: 2
+  explanation: >-
+    Section 7(א1) prescribes the content of the warning in plain language. A defect is a ground for a
+    request or objection; it does not void the file, and ignoring the warning is risky.
+- id: m28-004
+  module: 28
+  lesson: "28.1"
+  subject: execution-review
+  difficulty: 2
+  question: >-
+    The registrar rejected Hana's "I have paid" claim. Which route of review is open to her?
+  options:
+    - >-
+      An objection to the director of the office within three days.
+    - >-
+      A petition to the High Court of Justice only.
+    - >-
+      An appeal with leave to the district court.
+    - >-
+      An appeal as of right to the magistrates' court.
+  correct: 3
+  explanation: >-
+    Section 80(ב) lists decisions under s. 19 among those appealable as of right to the magistrates'
+    court; most other registrar decisions need leave.
+- id: m28-005
+  module: 28
+  lesson: "28.1"
+  subject: execution-warning
+  difficulty: 1
+  question: >-
+    What does s. 67(ד) say about a debtor who does not appear for a means inquiry in time?
+  options:
+    - >-
+      He is deemed a debtor with means who evades payment.
+    - >-
+      He is presumed insolvent and referred to the Commissioner.
+    - >-
+      He loses the right to file any request in the file.
+    - >-
+      His debt doubles as a statutory penalty.
+  correct: 0
+  explanation: >-
+    Section 67(ד) deems him a debtor with means who evades payment, which opens the way to restrictions
+    under the conditions of s. 66ב.
+- id: m28-006
+  module: 28
+  lesson: "28.1"
+  subject: execution-warning
+  difficulty: 3
+  question: >-
+    Gal, a debtor, files a payment-order request on day 19 after service, with form 21, documents and
+    the waiver, but does not go to the office in person. Is he exposed as a non-appearing debtor?
+  options:
+    - >-
+      Yes, because only physical appearance counts for the means inquiry.
+    - >-
+      No; a timely request meeting s. 7א is treated as appearing (reg. 12ב).
+    - >-
+      Yes, unless the creditor consents to his request in writing.
+    - >-
+      No, but only if the registrar grants the request in full.
+  correct: 1
+  explanation: >-
+    Regulation 12ב(א) treats a debtor who files a compliant payment-order request in time as having
+    appeared for a means inquiry; if the request is rejected he is invited to appear.
+- id: m28-007
+  module: 28
+  lesson: "28.1"
+  subject: forum
+  difficulty: 2
+  question: >-
+    Which forum and remedy? A debtor wants to argue that the small-claims judgment against him was given
+    in his absence without proper service.
+  options:
+    - >-
+      The execution registrar, by an "I have paid" claim.
+    - >-
+      The execution registrar, by an objection under s. 80(א).
+    - >-
+      The small-claims court, by asking to set aside the judgment.
+    - >-
+      The district court, by an appeal as of right.
+  correct: 2
+  explanation: >-
+    The Execution Office cannot review the judgment. A default judgment is attacked in the court that
+    gave it; the debtor can ask that court to stay execution (s. 17).
+- id: m28-008
+  module: 28
+  lesson: "28.1"
+  subject: execution-warning
+  difficulty: 3
+  question: >-
+    Spot the mistake. A debtor's letter to the office says: "I cannot pay, so please open insolvency
+    proceedings; my debts are ₪400,000." What is wrong with expecting the notice to open proceedings?
+  options:
+    - >-
+      Nothing; any notice of inability opens proceedings in the Execution Office.
+    - >-
+      A notice can open proceedings only if a creditor agrees.
+    - >-
+      Notices of inability to pay are accepted only from companies, never from individuals.
+    - >-
+      Above the threshold, the office just explains how to apply to the Commissioner.
+  correct: 3
+  explanation: >-
+    Under s. 7א2, a notice is treated as an application only where total debts do not exceed the linked
+    threshold; above it the office informs the debtor how to apply to the Commissioner.
+- id: m28-009
+  module: 28
+  lesson: "28.2"
+  subject: protected-assets
+  difficulty: 1
+  question: >-
+    Which item is exempt from attachment under s. 22?
+  options:
+    - >-
+      A family's beds and basic kitchen equipment.
+    - >-
+      A second car kept for weekends.
+    - >-
+      Business stock kept in a shop the debtor runs from home.
+    - >-
+      Jewellery of high value.
+  correct: 0
+  explanation: >-
+    Section 22(א)(2) exempts furniture, clothing, beds, kitchen and household items used by the debtor
+    and family, except items used for a business run from home.
+- id: m28-010
+  module: 28
+  lesson: "28.2"
+  subject: protected-assets
+  difficulty: 1
+  question: >-
+    A creditor attaches a debtor's child's laptop and the debtor's personal phone. The debtor is an
+    individual and does not use them for business. What follows?
+  options:
+    - >-
+      They may be sold only if their value exceeds the debt.
+    - >-
+      They are exempt as personal phones and computers of an individual and family.
+    - >-
+      They are exempt only if the debtor proves they are needed for school.
+    - >-
+      They may be attached, but the debtor gets a cheaper replacement.
+  correct: 1
+  explanation: >-
+    Section 22(א)(6א) exempts mobile phones and personal computers of an individual debtor and family
+    members living with him, unless used for a business.
+- id: m28-011
+  module: 28
+  lesson: "28.2"
+  subject: protected-wages
+  difficulty: 2
+  question: >-
+    Bar-exam style. Is the Wage Protection Law s. 8 protected amount available against a creditor
+    collecting child maintenance?
+  options:
+    - >-
+      Yes, it is absolute against every creditor.
+    - >-
+      Yes, but reduced to half for maintenance creditors.
+    - >-
+      No; s. 8(ב) excludes attachment for maintenance.
+    - >-
+      Only if the maintenance is collected by National Insurance.
+  correct: 2
+  explanation: >-
+    Section 8(ב) of the Wage Protection Law says the protection does not apply to attachment for
+    maintenance; s. 50(ב) of the Execution Law has a similar rule for many third-party protections.
+- id: m28-012
+  module: 28
+  lesson: "28.2"
+  subject: restrictions
+  difficulty: 1
+  question: >-
+    A restriction notice reaches Meir today. What gives him time to act before it takes effect?
+  options:
+    - >-
+      Nothing; restrictions take effect when the registrar signs them.
+    - >-
+      Seven days for an objection to the director of the office.
+    - >-
+      Ninety days during which the creditor must confirm the request.
+    - >-
+      Thirty days from service of the notice, to pay or show he does not evade.
+  correct: 3
+  explanation: >-
+    Section 66ג: a restriction takes effect 30 days after the notice is served, unless the debt is paid,
+    the debtor appears and convinces the registrar he is not evading, or another decision is given.
+- id: m28-013
+  module: 28
+  lesson: "28.2"
+  subject: restrictions
+  difficulty: 3
+  question: >-
+    Yael is subject to an exit ban. She now pays every month under a payment order. What may she ask
+    for, and on what basis?
+  options:
+    - >-
+      Cancellation, which s. 66ד(ג) requires while she complies.
+    - >-
+      Nothing until the debt is fully paid under s. 66ד(א).
+    - >-
+      Suspension for trips shorter than a week, at the registrar's discretion only.
+    - >-
+      Cancellation only if the creditor consents in writing.
+  correct: 0
+  explanation: >-
+    Section 66ד(ג) obliges the registrar to cancel a restriction if the debtor complies with a payment
+    order or agreement; it may be reimposed if he stops complying.
+- id: m28-014
+  module: 28
+  lesson: "28.2"
+  subject: home-protection
+  difficulty: 1
+  question: >-
+    Before ordering the sale of a debtor's home in execution, the registrar must be satisfied of what?
+  options:
+    - >-
+      That the debt exceeds the value of the debtor's movables.
+    - >-
+      Reasonable housing for the family, after a hearing.
+    - >-
+      That all other creditors consent to the sale.
+    - >-
+      That the debtor was deemed an evader at least a year ago.
+  correct: 1
+  explanation: >-
+    Section 38(א)–(א1) requires proof of reasonable housing, the ability to fund it, or an alternative
+    arrangement, and a hearing with full service; the unrepresented debtor may ask for time for counsel.
+- id: m28-015
+  module: 28
+  lesson: "28.2"
+  subject: arrest
+  difficulty: 2
+  question: >-
+    In which kind of execution file can an arrest order still be given against a debtor with means?
+  options:
+    - >-
+      Any file above ₪10,000 where the debtor evades payment.
+    - >-
+      A file on a bounced cheque after a criminal complaint.
+    - >-
+      A maintenance file, under strict conditions.
+    - >-
+      A tax-collection file transferred to the Execution Office.
+  correct: 2
+  explanation: >-
+    The modern law limits arrest to maintenance debts (ss. 70, 74), against a debtor with means, after
+    other measures and notice; never against a minor or a person without capacity (s. 71).
+- id: m28-016
+  module: 28
+  lesson: "28.2"
+  subject: protected-assets
+  difficulty: 3
+  question: >-
+    A furniture shop sold Avi a work table on credit and now executes the debt for it, seeking to attach
+    that same table, which Avi uses in his carpentry trade. Is the table exempt?
+  options:
+    - >-
+      Yes, tools of the trade are always exempt.
+    - >-
+      Yes, if its value is within the regulatory cap.
+    - >-
+      Only if Avi has no other tools.
+    - >-
+      No, not against the debt for buying that item.
+  correct: 3
+  explanation: >-
+    Section 22(ב): the exemptions for tools of the trade, disability aids and Fifth-Schedule items do not
+    apply to a debt incurred in buying the item whose attachment is sought.
+- id: m28-017
+  module: 28
+  lesson: "28.2"
+  subject: liens
+  difficulty: 1
+  question: >-
+    A bank receives a lien order on "all the debtor's assets". What does it catch?
+  options:
+    - >-
+      What it holds on service day and receives within three months.
+    - >-
+      Only the balance on the day of service.
+    - >-
+      Everything the debtor deposits from then on, until the whole debt is paid.
+    - >-
+      Only salary deposits, not other money.
+  correct: 0
+  explanation: >-
+    Section 44(א): the order covers the debtor's assets held by the third party on the day of service or
+    reaching it within three months; the third party reports within ten days.
+- id: m28-018
+  module: 28
+  lesson: "28.2"
+  subject: evaders-register
+  difficulty: 2
+  question: >-
+    When may a debtor be entered in the register of debtors with means who evade payment?
+  options:
+    - >-
+      Automatically when the warning period passes without payment.
+    - >-
+      When justified after other measures fail, above a debt threshold.
+    - >-
+      Only after a criminal conviction for concealing assets.
+    - >-
+      Only with the consent of all creditors in all files.
+  correct: 1
+  explanation: >-
+    Section 66ה requires the registrar to find it justified considering the harm and that other measures,
+    including information requests and restrictions, are insufficient, plus a minimum debt and timing.
+- id: m28-019
+  module: 28
+  lesson: "28.3"
+  subject: opposition
+  difficulty: 1
+  question: >-
+    What is the period to oppose execution of a cheque in the Execution Office?
+  options:
+    - >-
+      Twenty days from the opening of the file.
+    - >-
+      Forty-five days from presentation of the cheque.
+    - >-
+      Thirty days from service of the warning.
+    - >-
+      Ninety days from the cheque's date.
+  correct: 2
+  explanation: >-
+    Section 81א(ג1) sets 30 days from service of the warning, departing from the general warning period
+    in s. 7(א). See current numbers.
+- id: m28-020
+  module: 28
+  lesson: "28.3"
+  subject: opposition
+  difficulty: 2
+  question: >-
+    After a timely opposition to a promissory note is transferred to court, what is the creditor's
+    execution request treated as?
+  options:
+    - >-
+      A request for a temporary injunction.
+    - >-
+      A small claim heard without pleadings.
+    - >-
+      A petition to the registrar for leave to execute.
+    - >-
+      A statement of claim in summary procedure.
+  correct: 3
+  explanation: >-
+    Execution Regulations reg. 108(ב): once transferred, the request is treated as a summary-procedure
+    claim, and the debtor seeks leave to defend.
+- id: m28-021
+  module: 28
+  lesson: "28.3"
+  subject: opposition
+  difficulty: 3
+  question: >-
+    Spot the mistake. A debtor files "התנגדות" to a cheque on day 25 by letter, with the cheque copy and
+    a detailed story, but unsigned and without an affidavit. What is the problem?
+  options:
+    - >-
+      The opposition must be supported by an affidavit stating the facts.
+    - >-
+      Oppositions must be filed in the district court, not the office.
+    - >-
+      The cheque copy may not be attached to an opposition.
+    - >-
+      Oppositions are allowed only after a means inquiry.
+  correct: 0
+  explanation: >-
+    Section 81א(ג) and reg. 106(ב) require an affidavit verifying the facts and grounds; without it there
+    is no proper opposition and no stay. He should refile at once or apply to extend time.
+- id: m28-022
+  module: 28
+  lesson: "28.3"
+  subject: i-paid
+  difficulty: 2
+  question: >-
+    What can an "I have paid" claim properly cover?
+  options:
+    - >-
+      A claim that the court miscalculated damages.
+    - >-
+      Payment or release occurring after the judgment.
+    - >-
+      Any defence the debtor forgot to raise at trial.
+    - >-
+      A complaint about the creditor's lawyer's conduct.
+  correct: 1
+  explanation: >-
+    Section 19 concerns compliance with the judgment or the debt ceasing after it; it is not a way to
+    reopen liability, which belongs to the court that gave the judgment.
+- id: m28-023
+  module: 28
+  lesson: "28.3"
+  subject: i-paid
+  difficulty: 2
+  question: >-
+    When does the registrar stay execution while an "I have paid" claim is decided?
+  options:
+    - >-
+      Always, as soon as the claim is filed.
+    - >-
+      Only if the creditor does not respond within 14 days.
+    - >-
+      For special reasons recorded, usually against security.
+    - >-
+      Never; payment claims do not affect the file.
+  correct: 2
+  explanation: >-
+    Section 19(א)–(ב): a stay only for special recorded reasons, and the registrar orders security
+    unless he decides otherwise in the circumstances.
+- id: m28-024
+  module: 28
+  lesson: "28.3"
+  subject: creditor-duties
+  difficulty: 1
+  question: >-
+    A creditor receives a payment directly from the debtor outside the office. What must he do?
+  options:
+    - >-
+      Nothing, unless the debtor asks for a receipt.
+    - >-
+      Report it only when the file is closed.
+    - >-
+      Deduct it from the lawyer's fees in the file.
+    - >-
+      Report it to the office within the s. 19א period.
+  correct: 3
+  explanation: >-
+    Section 19א(א) requires reporting every direct payment within a short period; failure can lead to
+    costs offset against the debt (s. 19א(ג)).
+- id: m28-025
+  module: 28
+  lesson: "28.3"
+  subject: fixed-sum-claim
+  difficulty: 2
+  question: >-
+    A gym files a "fixed-sum claim" in the Execution Office for a membership the debtor cancelled in
+    writing. How does the debtor contest it?
+  options:
+    - >-
+      By opposition within 30 days of service; the claim goes to court.
+    - >-
+      By an "I have paid" claim, since the contract was cancelled.
+    - >-
+      By an appeal to the magistrates' court within 20 days.
+    - >-
+      By a consumer complaint, which suspends the file.
+  correct: 0
+  explanation: >-
+    Section 81א1(ד)–(ה) gives 30 days from service of the warning to oppose, including on the ground that
+    the claim does not qualify; the registrar stays it and sends it to court.
+- id: m28-026
+  module: 28
+  lesson: "28.3"
+  subject: opposition
+  difficulty: 3
+  question: >-
+    Shir missed the opposition period on a note by ten days because she was hospitalised. What should
+    she file?
+  options:
+    - >-
+      A new opposition, since hospitalisation automatically extends periods.
+    - >-
+      An application to extend time, with an affidavit and the main grounds.
+    - >-
+      An "I have paid" claim, which has no deadline.
+    - >-
+      A request to cancel the file for defective service.
+  correct: 1
+  explanation: >-
+    Regulation 109 provides for an application to extend the time to oppose, filed with an affidavit and
+    the main grounds of the opposition; the court decides.
+- id: m28-027
+  module: 28
+  lesson: "28.3"
+  subject: over-collection
+  difficulty: 2
+  question: >-
+    After several liens, the office collected ₪1,200 more than the judgment debt and passed it to the
+    creditor. What is the remedy?
+  options:
+    - >-
+      A separate small claim against the creditor for unjust enrichment only.
+    - >-
+      Nothing; surplus is kept as a fee for the office.
+    - >-
+      A registrar's order to return it, enforceable against the creditor.
+    - >-
+      An appeal to the district court against the liens.
+  correct: 2
+  explanation: >-
+    Section 20(א): anything collected above the debt is paid to the debtor; if given to the creditor, the
+    registrar may order its return, enforceable like a judgment in the debtor's favour.
+- id: m28-028
+  module: 28
+  lesson: "28.3"
+  subject: forum
+  difficulty: 3
+  question: >-
+    Which forum and remedy? A debtor has an arrangement notified under s. 19ב, keeps paying, but the
+    creditor renews proceedings without any notice to him.
+  options:
+    - >-
+      The magistrates' court, by a claim for breach of contract.
+    - >-
+      Consolidation of files to stop the creditor.
+    - >-
+      An opposition to execution within 30 days.
+    - >-
+      The registrar: renewal needs notice and a waiting period.
+  correct: 3
+  explanation: >-
+    Section 19ב(ג) lets a creditor renew only after reporting receipts, sending a registered-mail notice
+    and waiting the set period; the debtor asks the registrar to stop the renewed proceedings.
+- id: m28-029
+  module: 28
+  lesson: "28.4"
+  subject: payment-orders
+  difficulty: 1
+  question: >-
+    What is the maximum period of a payment order for a debt of ₪80,000 without the creditor's consent
+    and before any extension?
+  options:
+    - >-
+      Three years.
+    - >-
+      Five years.
+    - >-
+      Seven years.
+    - >-
+      Ten years.
+  correct: 0
+  explanation: >-
+    Section 7א1(א): three years for debts up to ₪100,000, four above it; the registrar may extend by up to
+    three more years with reasons; longer only with both parties' consent.
+- id: m28-030
+  module: 28
+  lesson: "28.4"
+  subject: consolidation
+  difficulty: 1
+  question: >-
+    Which file cannot be included in a consolidation of execution files?
+  options:
+    - >-
+      A file on a credit-card judgment.
+    - >-
+      A maintenance file.
+    - >-
+      A file on a bank overdraft judgment.
+    - >-
+      A file on a fixed-sum claim not opposed.
+  correct: 1
+  explanation: >-
+    Section 74א excludes maintenance files, non-money matters and bill files transferred to court and not
+    yet finally decided.
+- id: m28-031
+  module: 28
+  lesson: "28.4"
+  subject: consolidation
+  difficulty: 2
+  question: >-
+    What must a debtor do on filing a consolidation request, besides the forms?
+  options:
+    - >-
+      Deposit security equal to 10% of all debts.
+    - >-
+      Obtain the written consent of the largest creditor.
+    - >-
+      Pay his offered monthly sum now and monthly until decided.
+    - >-
+      Appear before a judge of the magistrates' court.
+  correct: 2
+  explanation: >-
+    Section 74ו(ג)–(ד): the debtor pays the offered monthly amount on filing and every month until the
+    decision, unless the registrar decides otherwise.
+- id: m28-032
+  module: 28
+  lesson: "28.4"
+  subject: consolidation
+  difficulty: 3
+  question: >-
+    Spot the mistake. A consolidation request lists four debts but omits a disputed debt to a former
+    landlord and a car sold to a cousin three years ago. What is the risk?
+  options:
+    - >-
+      None; disputed debts and old sales are irrelevant to consolidation.
+    - >-
+      Only a fine for incomplete paperwork.
+    - >-
+      The cousin may be joined as a co-debtor in the files.
+    - >-
+      Refusal or later cancellation for incomplete disclosure.
+  correct: 3
+  explanation: >-
+    Section 74ז requires disclosure of assets over five years and all debts, even disputed ones;
+    incomplete disclosure is a ground to refuse (s. 74י) or cancel (s. 74טו).
+- id: m28-033
+  module: 28
+  lesson: "28.4"
+  subject: limited-means
+  difficulty: 1
+  question: >-
+    Since when can no new "limited means debtor" declarations be made?
+  options:
+    - >-
+      Since the Insolvency Law came into force in September 2019.
+    - >-
+      Since the 2008–2009 reform of the Execution Law.
+    - >-
+      Since Amendment No. 9 to the Insolvency Law in 2026.
+    - >-
+      Such declarations are still available on request.
+  correct: 0
+  explanation: >-
+    Section 69י1 bars new declarations from the Insolvency Law's commencement (15 September 2019).
+- id: m28-034
+  module: 28
+  lesson: "28.4"
+  subject: consolidation
+  difficulty: 2
+  question: >-
+    A debtor files a consolidation request a week before a planned trip abroad. What happens to the
+    trip?
+  options:
+    - >-
+      Nothing; exit bans need a 30-day notice.
+    - >-
+      An exit ban is ordered on filing; he must ask to lift it.
+    - >-
+      He may travel if he pays one monthly instalment in advance.
+    - >-
+      The ban applies only if a creditor applies for it.
+  correct: 1
+  explanation: >-
+    Section 74ד requires an exit ban once a consolidation request is filed; the registrar may refuse or
+    lift it for special reasons on an affidavit and on conditions such as security.
+- id: m28-035
+  module: 28
+  lesson: "28.4"
+  subject: arrangements
+  difficulty: 2
+  question: >-
+    During a means inquiry before an execution investigator, the creditor and debtor agree on ₪700 a
+    month. What gives the agreement force?
+  options:
+    - >-
+      A notarised signature on the agreement.
+    - >-
+      Filing it in the magistrates' court as a settlement.
+    - >-
+      Registrar approval, giving it a payment order's force.
+    - >-
+      Nothing; it binds only the parties contractually.
+  correct: 2
+  explanation: >-
+    Section 68א(ח): an agreement reached before the investigator is submitted for the registrar's
+    approval; once approved it has the force of a payment order.
+- id: m28-036
+  module: 28
+  lesson: "28.4"
+  subject: route-choice
+  difficulty: 3
+  question: >-
+    Which remedy? A debtor owes ₪210,000 in nine files and can spare ₪1,200 a month; creditors refuse
+    longer periods.
+  options:
+    - >-
+      Consolidation through a payment order under s. 74טו1.
+    - >-
+      A limited-means declaration with a seven-year order.
+    - >-
+      An "I have paid" claim for the interest component.
+    - >-
+      An application to the Insolvency Commissioner.
+  correct: 3
+  explanation: >-
+    ₪1,200 over the maximum s. 7א1 periods (four years plus up to three) cannot repay ₪210,000, so s. 74ט
+    fails; above the 2026 threshold the door is the Commissioner.
+- id: m28-037
+  module: 28
+  lesson: "28.4"
+  subject: payment-orders
+  difficulty: 2
+  question: >-
+    Six months into a payment order, Rina loses her job. What should she do?
+  options:
+    - >-
+      Notify the registrar and ask to vary the order.
+    - >-
+      Stop paying until she finds work; the order is suspended automatically.
+    - >-
+      File a new consolidation request to restart the periods.
+    - >-
+      Ask the creditor to close the file because of hardship.
+  correct: 0
+  explanation: >-
+    A debtor whose ability changes must notify the registrar and may apply to vary the order (ss. 7א(ו),
+    69ב). Stopping payments risks restrictions returning.
+- id: m28-038
+  module: 28
+  lesson: "28.5"
+  subject: insolvency-test
+  difficulty: 1
+  question: >-
+    Under s. 2 of the Insolvency Law, which situation is insolvency?
+  options:
+    - >-
+      The debtor has missed one payment to one creditor.
+    - >-
+      His liabilities, including future ones, exceed his assets.
+    - >-
+      The debtor has an open execution file of any size.
+    - >-
+      The debtor's credit rating has fallen below a bank threshold.
+  correct: 1
+  explanation: >-
+    Section 2 uses a cash-flow test (cannot pay debts when due) or a balance-sheet test (liabilities,
+    including future and contingent ones, exceed assets).
+- id: m28-039
+  module: 28
+  lesson: "28.5"
+  subject: insolvency-door
+  difficulty: 2
+  question: >-
+    In 2026 an individual with ₪250,000 of debts wants to start insolvency proceedings. Where does he
+    apply?
+  options:
+    - >-
+      To the execution registrar's insolvency track.
+    - >-
+      To the district court.
+    - >-
+      To the Insolvency Commissioner, online.
+    - >-
+      To the magistrates' court as a petitioner.
+  correct: 2
+  explanation: >-
+    Section 103(א) and s. 104: an individual whose debts exceed the linked threshold applies to the
+    Commissioner; s. 104(ד) allows online filing.
+- id: m28-040
+  module: 28
+  lesson: "28.5"
+  subject: insolvency-application
+  difficulty: 1
+  question: >-
+    How far back must an individual's report in an application to the Commissioner reach?
+  options:
+    - >-
+      Six months.
+    - >-
+      One year.
+    - >-
+      Seven years.
+    - >-
+      Two years.
+  correct: 3
+  explanation: >-
+    Section 104(ב)(2) requires a report on the two years before the application, verified by affidavit
+    and supported by documents.
+- id: m28-041
+  module: 28
+  lesson: "28.5"
+  subject: opening-order
+  difficulty: 2
+  question: >-
+    A creditor thinks an individual's opening order was obtained by hiding assets. What can it do and
+    by when?
+  options:
+    - >-
+      Apply to the court to cancel it within 45 days of publication.
+    - >-
+      Object to the Commissioner within 14 days of the application.
+    - >-
+      Appeal to the district court within 60 days of the order.
+    - >-
+      Continue its execution file; orders do not bind creditors who object.
+  correct: 0
+  explanation: >-
+    Section 108: anyone harmed by the order may apply to the court to cancel it within 45 days of
+    publication; the court may suspend the order meanwhile.
+- id: m28-042
+  module: 28
+  lesson: "28.5"
+  subject: low-debt-track
+  difficulty: 2
+  question: >-
+    In the low-debt track, what happens before the registrar gives an opening order?
+  options:
+    - >-
+      A trustee's nine-month investigation.
+    - >-
+      A payment-arrangement meeting with creditors.
+    - >-
+      A hearing before a magistrates' court judge.
+    - >-
+      Publication of the application in a newspaper.
+  correct: 1
+  explanation: >-
+    Sections 190–199: the registrar convenes a payment-arrangement meeting; only if no arrangement is
+    agreed or approved does he give an opening order (s. 199).
+- id: m28-043
+  module: 28
+  lesson: "28.5"
+  subject: low-debt-track
+  difficulty: 3
+  question: >-
+    Bar-exam style. In a low-debt creditors' meeting, creditors in execution debts holding 70% of those
+    debts vote in favour, as do all non-execution creditors party to it. Is the arrangement approved?
+  options:
+    - >-
+      Yes, a simple majority by value suffices.
+    - >-
+      Yes, if the registrar finds it fair.
+    - >-
+      No; it falls short of three-quarters of the debts.
+    - >-
+      No, because unanimity is required in the low-debt track.
+  correct: 2
+  explanation: >-
+    Section 195(א)(1) requires a majority of those voting holding at least three-quarters of the
+    execution debts party to the arrangement; 70% falls short.
+- id: m28-044
+  module: 28
+  lesson: "28.5"
+  subject: opening-order
+  difficulty: 1
+  question: >-
+    What happens to execution liens and restrictions against an individual when an opening order is
+    given?
+  options:
+    - >-
+      They stay until each creditor files a debt claim.
+    - >-
+      Only restrictions fall away; liens stay.
+    - >-
+      They are transferred to the trustee for enforcement.
+    - >-
+      Proceedings stop and collection restrictions lapse.
+  correct: 3
+  explanation: >-
+    Section 121(א)(3) stays proceedings against the individual and cancels restrictions imposed in
+    collection proceedings; interim statutory restrictions then apply (s. 142).
+- id: m28-045
+  module: 28
+  lesson: "28.5"
+  subject: interim-period
+  difficulty: 2
+  question: >-
+    During the interim period, may the individual take a new car loan?
+  options:
+    - >-
+      Only with the Commissioner's approval, save basic needs.
+    - >-
+      Yes, any credit not exceeding his monthly income.
+    - >-
+      Yes, if the lender is told of the proceedings.
+    - >-
+      No credit of any kind until discharge, without exception.
+  correct: 0
+  explanation: >-
+    Section 123: no credit without the Commissioner's approval, except for necessary living expenses
+    within amounts he sets; s. 124 requires disclosure of the insolvency when taking credit.
+- id: m28-046
+  module: 28
+  lesson: "28.5"
+  subject: creditor-petition
+  difficulty: 3
+  question: >-
+    A former employee holds a labour-court judgment of ₪15,000 against an individual employer, unpaid
+    for two months after service. Can she petition for insolvency on a presumption?
+  options:
+    - >-
+      No; presumptions require debts above the general linked amount.
+    - >-
+      Yes; labour-court judgments have a lower presumption amount.
+    - >-
+      No; only the Attorney General may petition against individuals.
+    - >-
+      Yes, but only to the execution registrar's track.
+  correct: 1
+  explanation: >-
+    Section 110(א)(4) presumes insolvency where a labour-court judgment above a lower linked amount
+    (about ₪11,800 in 2026) is unpaid 30 days after service; the petition goes to the court.
+- id: m28-047
+  module: 28
+  lesson: "28.5"
+  subject: amendment-9
+  difficulty: 2
+  question: >-
+    What did Amendment No. 9 (2026) add to s. 121 of the Insolvency Law?
+  options:
+    - >-
+      Automatic discharge after two years of payments.
+    - >-
+      An exemption from all administrative orders during the interim period.
+    - >-
+      That it leaves all legal duties except paying past debts.
+    - >-
+      A higher threshold for applications to the Commissioner.
+  correct: 2
+  explanation: >-
+    New s. 121(ב): the opening order does not release the individual from duties under any law,
+    including administrative decisions, except paying past debts, subject to s. 31.
+- id: m28-048
+  module: 28
+  lesson: "28.6"
+  subject: rehabilitation-order
+  difficulty: 1
+  question: >-
+    What is the default payment period in an economic rehabilitation order?
+  options:
+    - >-
+      One year.
+    - >-
+      Five years.
+    - >-
+      Until all debts are paid.
+    - >-
+      Three years.
+  correct: 3
+  explanation: >-
+    Section 163(א) sets three years from the rehabilitation order, shorter or longer only on the grounds
+    in s. 163(ב)–(ה).
+- id: m28-049
+  module: 28
+  lesson: "28.6"
+  subject: rehabilitation-order
+  difficulty: 2
+  question: >-
+    How is the monthly payment in a rehabilitation order calculated?
+  options:
+    - >-
+      Earning capacity minus the living allowance.
+    - >-
+      A fixed percentage of the total debt divided by 36.
+    - >-
+      Whatever the largest creditor proposes.
+    - >-
+      Net income minus rent only.
+  correct: 0
+  explanation: >-
+    Section 162(א)(1): payment is based on earning capacity after deducting the living allowance; the
+    court may instead set a percentage of earning capacity to encourage work (s. 162(א)(2)).
+- id: m28-050
+  module: 28
+  lesson: "28.6"
+  subject: trustee
+  difficulty: 1
+  question: >-
+    By when must the trustee normally submit the findings report on an individual?
+  options:
+    - >-
+      Within 60 days of the opening order.
+    - >-
+      Within nine months of appointment, extendable.
+    - >-
+      Within three years, at the end of the payment period.
+    - >-
+      Within 45 days of publication of the order.
+  correct: 1
+  explanation: >-
+    Section 153(א)–(ב): no later than nine months from appointment, extendable by the Commissioner for
+    complexity or non-cooperation.
+- id: m28-051
+  module: 28
+  lesson: "28.6"
+  subject: discharge
+  difficulty: 2
+  question: >-
+    Which debt survives discharge under s. 175(א)?
+  options:
+    - >-
+      A supplier's judgment debt for goods delivered.
+    - >-
+      A bank overdraft on a current account.
+    - >-
+      Child maintenance owed under a judgment.
+    - >-
+      Arnona arrears owed to the municipality.
+  correct: 2
+  explanation: >-
+    Section 175(א) excludes penal payments, fraud and listed-offence debts and judgment maintenance; the
+    court may exceptionally discharge maintenance arrears (s. 175(ב)).
+- id: m28-052
+  module: 28
+  lesson: "28.6"
+  subject: avoidance
+  difficulty: 3
+  question: >-
+    Bar-exam style. Two months before the application, an insolvent individual paid ₪4,000 to his
+    electrician (not a relative) for a past job. Can the trustee set it aside as a preference?
+  options:
+    - >-
+      Yes; every payment in the three months before the application is a preference.
+    - >-
+      Yes, because the electrician is an unsecured creditor.
+    - >-
+      No, because preferences apply only to companies.
+    - >-
+      Likely not; small payments to non-relatives below the linked cap are excepted.
+  correct: 3
+  explanation: >-
+    Section 219(ב)(3) excludes, for an individual, payments to a non-relative up to a linked amount (about
+    ₪5,900 in 2026); ordinary-course payments are also protected (s. 219(ב)(2)).
+- id: m28-053
+  module: 28
+  lesson: "28.6"
+  subject: immediate-discharge
+  difficulty: 2
+  question: >-
+    When does the court grant immediate discharge?
+  options:
+    - >-
+      When capacity does not exceed the allowance, absent extension grounds.
+    - >-
+      When creditors holding most of the debts agree to release him early.
+    - >-
+      When the debtor is over pension age and has no regular income.
+    - >-
+      When the trustee finds no assets at all to realise for creditors.
+  correct: 0
+  explanation: >-
+    Section 167(א)–(ב): no payment obligation and immediate discharge where earning capacity does not
+    exceed the allowance, unless an extension ground exists without special circumstances.
+- id: m28-054
+  module: 28
+  lesson: "28.6"
+  subject: assets
+  difficulty: 2
+  question: >-
+    An individual in proceedings wants to withdraw money from his provident fund to cover his child's
+    medical treatment. What is needed?
+  options:
+    - >-
+      The trustee's approval alone.
+    - >-
+      The court's approval.
+    - >-
+      Nothing; provident funds are his own money.
+    - >-
+      The consent of all creditors.
+  correct: 1
+  explanation: >-
+    Section 228 makes any withdrawal from a provident fund by an individual in proceedings subject to the
+    court's approval, with limits on pension money.
+- id: m28-055
+  module: 28
+  lesson: "28.6"
+  subject: pension
+  difficulty: 3
+  question: >-
+    In ע״א 8990/22 Menorah v. Yankovitz (2025), what did the Supreme Court decide about a bankrupt's
+    pension fund money after he died?
+  options:
+    - >-
+      It went to the trustee, because all assets vest in the estate on death.
+    - >-
+      It was split equally between creditors and his heirs.
+    - >-
+      It went to the fund's beneficiaries, never having vested in the trustee.
+    - >-
+      It was returned to the employer who made the contributions.
+  correct: 2
+  explanation: >-
+    Because the insolvency court had not vested the pension money in the trustee during his life, on
+    death it passed to the beneficiaries under the pension arrangement, not the creditors.
+- id: m28-056
+  module: 28
+  lesson: "28.6"
+  subject: debt-arrangement
+  difficulty: 2
+  question: >-
+    Under Amendment No. 9, for how long may a court grant an individual a temporary stay to form a debt
+    arrangement, before extensions?
+  options:
+    - >-
+      Thirty days.
+    - >-
+      One year.
+    - >-
+      Until creditors vote.
+    - >-
+      Up to ninety days.
+  correct: 3
+  explanation: >-
+    Section 319יט(ג): up to 90 days, extendable by further periods not exceeding 45 days in total if
+    approval is reasonably likely.
+- id: m28-057
+  module: 28
+  lesson: "28.6"
+  subject: discharge
+  difficulty: 3
+  question: >-
+    Three years after discharge, it emerges that the debtor hid an inheritance he received during the
+    payment period. What can the court do?
+  options:
+    - >-
+      Revoke the discharge retroactively and change the order.
+    - >-
+      Nothing; discharge is final once the Commissioner certifies it.
+    - >-
+      Only fine him for false statements.
+    - >-
+      Order a new insolvency application by the creditors.
+  correct: 0
+  explanation: >-
+    Section 176: the court may at any time revoke the discharge retroactively and vary the order where new
+    facts would have justified a longer period or the debtor failed to cooperate.
+- id: m28-058
+  module: 28
+  lesson: "28.7"
+  subject: corporate-stay
+  difficulty: 1
+  question: >-
+    After an opening order against a company, may a supplier start a lawsuit against it?
+  options:
+    - >-
+      Yes, lawsuits are unaffected by the stay.
+    - >-
+      Only with the court's permission.
+    - >-
+      Only after the trustee's report is filed.
+    - >-
+      Yes, in the magistrates' court only.
+  correct: 1
+  explanation: >-
+    Section 29(5): no legal proceeding may be opened or continued against the company without the
+    court's permission, given for special reasons.
+- id: m28-059
+  module: 28
+  lesson: "28.7"
+  subject: priorities
+  difficulty: 1
+  question: >-
+    In a corporate insolvency, what is the ranking of an employee's wage claim above the s. 234 cap?
+  options:
+    - >-
+      It remains a priority debt without limit.
+    - >-
+      It becomes a secured debt.
+    - >-
+      The excess is a general debt.
+    - >-
+      The excess is forfeited.
+  correct: 2
+  explanation: >-
+    Section 234(א)(1) gives priority up to linked caps; the balance is a general (unsecured) debt under
+    s. 235.
+- id: m28-060
+  module: 28
+  lesson: "28.7"
+  subject: officers
+  difficulty: 2
+  question: >-
+    What protects a director from liability under s. 288?
+  options:
+    - >-
+      An indemnity clause in the company's articles covering all directors.
+    - >-
+      Resigning once the company is insolvent.
+    - >-
+      Proof that he owned no shares in the company.
+    - >-
+      Having acted on turnaround help, an arrangement or proceedings.
+  correct: 3
+  explanation: >-
+    Section 288(ב) presumes reasonable steps where the director assessed the company's state and acted
+    for turnaround help, a debt arrangement or insolvency proceedings; exemption and indemnity are barred.
+- id: m28-061
+  module: 28
+  lesson: "28.7"
+  subject: corporate-application
+  difficulty: 2
+  question: >-
+    Which court hears insolvency proceedings against a company?
+  options:
+    - >-
+      The district court of its seat, business or assets.
+    - >-
+      The magistrates' court where its office is.
+    - >-
+      The labour court, if it has employees.
+    - >-
+      The Insolvency Commissioner, without a court.
+  correct: 0
+  explanation: >-
+    Section 4: for a corporation, the district court of the area where it is registered or has its main
+    place of business or assets; individuals go to the magistrates' court.
+- id: m28-062
+  module: 28
+  lesson: "28.7"
+  subject: debt-claims
+  difficulty: 1
+  question: >-
+    Does an employee pay a fee to file a debt claim for unpaid wages and severance?
+  options:
+    - >-
+      Yes, the standard debt-claim fee.
+    - >-
+      No; wage and severance claims are exempt.
+    - >-
+      Yes, a percentage of the claim.
+    - >-
+      Only if the claim exceeds the priority cap.
+  correct: 1
+  explanation: >-
+    Fee Regulations reg. 6(ב): the debt-claim fee does not apply to claims for wages under the Wage
+    Protection Law and severance under the Severance Pay Law.
+- id: m28-063
+  module: 28
+  lesson: "28.7"
+  subject: gulliver
+  difficulty: 3
+  question: >-
+    In רע״א 7708/23 Gulliver Energy (2024), who was entitled to a VAT refund generated by payments made
+    under a creditors' arrangement?
+  options:
+    - >-
+      The companies, as the registered VAT dealers.
+    - >-
+      The buyer of the companies' shares.
+    - >-
+      The creditors' arrangement funds.
+    - >-
+      The tax authority, as a set-off against older debts.
+  correct: 2
+  explanation: >-
+    The Supreme Court held that the creditors' arrangement funds had a quasi-proprietary right to the
+    refund, which arose from dividends and fees they paid, and dismissed the companies' appeal.
+- id: m28-064
+  module: 28
+  lesson: "28.8"
+  subject: lab-execution
+  difficulty: 3
+  question: >-
+    In a household with three execution files (two judgments, one note), which plan best reflects the
+    module's method?
+  options:
+    - >-
+      Pay the creditor who calls most often, and ignore the others until it is paid.
+    - >-
+      Oppose all three files to gain time, then negotiate.
+    - >-
+      File one combined letter to the office explaining the family situation.
+    - >-
+      Diary service dates; oppose the note; payment order for the judgments.
+  correct: 3
+  explanation: >-
+    Each file's rights depend on its document type and service date: opposition fits only the note;
+    judgments call for payment orders (and consolidation, s. 74טו1) or "I have paid".
+- id: m28-065
+  module: 28
+  lesson: "28.8"
+  subject: lab-execution
+  difficulty: 2
+  question: >-
+    Spot the mistake in a settlement letter to a bank: "I admit I owe ₪62,000 and will pay whatever you
+    decide." What should change?
+  options:
+    - >-
+      A concrete documented offer, without prejudice, with a s. 19ב notice.
+    - >-
+      Nothing; an open admission shows good faith.
+    - >-
+      It should be sent to the registrar instead of the bank.
+    - >-
+      It should threaten insolvency proceedings if the bank does not agree within a week.
+  correct: 0
+  explanation: >-
+    A useful proposal gives a specific amount and schedule based on a documented budget, is marked
+    "without prejudice", and asks the creditor to notify the office so proceedings stop (s. 19ב).
+- id: m28-066
+  module: 28
+  lesson: "28.9"
+  subject: lab-insolvency
+  difficulty: 2
+  question: >-
+    In the insolvency lab, why must the applicant stop repaying his sister once he decides to file?
+  options:
+    - >-
+      Because loans from relatives are void in insolvency.
+    - >-
+      Because such payments to a relative are likely preferences.
+    - >-
+      Because the sister must file a criminal complaint to be paid.
+    - >-
+      Because family debts are paid before all others.
+  correct: 1
+  explanation: >-
+    Payments to a relative within a year before the application while insolvent can be set aside
+    (s. 219) and may lengthen the payment period (s. 163(ג)(3)).
+- id: m28-067
+  module: 28
+  lesson: "28.9"
+  subject: lab-insolvency
+  difficulty: 3
+  question: >-
+    A debtor's total debts in 2026 are ₪120,000; she has an open bank execution file. What is the most
+    efficient first filing?
+  options:
+    - >-
+      An online application to the Commissioner with the full fee.
+    - >-
+      A petition to the magistrates' court as her own creditor.
+    - >-
+      A s. 7א2 notice in the bank's file with the s. 104(ב) documents.
+    - >-
+      A consolidation request, then a notice if it is refused.
+  correct: 2
+  explanation: >-
+    Below the 2026 threshold, a s. 7א2 notice in an execution file is treated as an application in the
+    low-debt track (Insolvency Law s. 187(א)(1)), with the s. 104(ב) documents attached.

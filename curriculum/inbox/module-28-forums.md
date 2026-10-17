@@ -1,0 +1,13 @@
+# Module 28: rows for references/can-i-act-without-a-lawyer.md
+
+New and corrected rows (checked 2026-10-18):
+
+| Forum | Act for yourself? | Who else may represent you | Source | Covered in |
+|---|---|---|---|---|
+| Execution Office (expand the existing row) | Yes, creditor and debtor. Debtors file requests (payment order, "I have paid", release, consolidation, objection under s. 80(א)) through the Authority's personal area (general request code 988 when no dedicated form), the online general-request form, or a branch by appointment; call centre *35592. A search of gov.il service pages lists creditors and debtors as filers through the personal area (⚠️ manual check: page returned 403) | Only a lawyer (Bar Association Law s. 20) | https://www.gov.il/he/service/general-request-execution ⚠️ ; https://he.wikisource.org/wiki/חוק_ההוצאה_לפועל | Modules 8, 12, 28 (28.1–28.4, 28.8) |
+| Opposition to execution of a bill or fixed-sum claim, then the magistrates' court (new) | Yes; affidavit signed before a lawyer or other authorised person; in court the request becomes a summary-procedure claim and the debtor may defend himself | A lawyer | Execution Law ss. 81א, 81א1; Execution Regulations regs 106–109, https://he.wikisource.org/wiki/תקנות_ההוצאה_לפועל#סעיף_106 | Module 28 (28.3) |
+| Insolvency Commissioner, individual's application (new) | Yes, in his own name, online or at the district office (Insolvency Law ss. 102(1), 104(ד)) | A lawyer; Legal Aid for eligible applicants (no up-front fee, Fee Regulations reg. 4(1)) | https://he.wikisource.org/wiki/חוק_חדלות_פירעון_ושיקום_כלכלי#סעיף_104 | Module 28 (28.5, 28.9) |
+| Dedicated execution registrar, low-debt insolvency track (new) | Yes, by a s. 7א2 notice in an execution file or an application at a branch with an insolvency track; the debtor must attend the payment-arrangement meeting (s. 191(ג)) | A lawyer | Insolvency Law ss. 186–208; Execution Law s. 7א2 | Module 28 (28.5, 28.9) |
+| Magistrates' court, individual insolvency (new) | Yes, for the debtor (rehabilitation-order hearing, responses) and for an individual creditor | A lawyer | Insolvency Law s. 4 ("בית משפט" (2)), ss. 108, 155, 161 | Module 28 (28.5, 28.6) |
+| Trustee, debt claim (new) | Yes, any individual creditor files his own debt claim; employees' wage and severance claims carry no fee | A lawyer | Insolvency Law s. 210; Fee Regulations reg. 6(ב) | Module 28 (28.6, 28.7) |
+| District court, corporate insolvency (new) | Individuals (employees, suppliers) may file their own debt claims with the trustee; a company applying or appearing needs a lawyer under the general corporate-representation rule (Unverified, as in the general rules) | A lawyer | Insolvency Law s. 4 ("בית משפט" (1)) | Module 28 (28.7) |

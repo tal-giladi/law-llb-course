@@ -1,0 +1,30 @@
+- **רשם ההוצאה לפועל** (rasham hahotza'a lapo'al) — Execution registrar: the judicial officer who decides requests and orders in an execution file (Execution Law s. 3א).
+- **מנהל לשכת ההוצאה לפועל** (menahel lishkat hahotza'a lapo'al) — Director of an execution office; his acts are challenged by an objection to the registrar (s. 80(א)).
+- **המצאה מלאה** (hamtza'a mele'a) — Full service of the execution warning; needed before restrictions, the evaders' register or arrest (s. 7(ג)).
+- **הוראת תשלום** (hora'at tashlum) — Standard payment instruction under the Authority's rules, attached to the warning for individual debtors (s. 69א).
+- **חייב בעל יכולת המשתמט** (chayav ba'al yecholet hamishtamet) — Debtor with means who evades payment; a debtor who does not appear for a means inquiry is deemed one (s. 67(ד)).
+- **ערר** (arar) — Objection to the execution registrar against an act of the office (s. 80(א), reg. 118).
+- **מיטלטלין שאינם ניתנים לעיקול** (metaltelin she'einam nitanim le'ikul) — Movables exempt from attachment (Execution Law s. 22).
+- **שכר הפטור מעיקול** (sachar hapatur me'ikul) — The protected part of wages, tied to the income-support level and capped at 80% of net wages (Wage Protection Law s. 8).
+- **סידור חלוף** (sidur chaluf) — Alternative housing arrangement required before the debtor's home is sold (Execution Law s. 38; Insolvency Law s. 229).
+- **מרשם החייבים המשתמטים** (mirsham hachayavim hamishtamtim) — Register of debtors with means who evade payment (Execution Law s. 66ה).
+- **צו הבאה** (tzav hava'a) — Order to bring a debtor before the registrar (s. 69יב).
+- **התנגדות לביצוע שטר** (hitnagdut levitzu'a shtar) — Opposition to execution of a cheque, note or bill, with an affidavit, within 30 days of service; the dispute moves to court (s. 81א).
+- **תביעה על סכום קצוב** (tvi'a al schum katzuv) — Claim for a fixed sum filed directly in the Execution Office, up to a ceiling (s. 81א1).
+- **הסדר עם החייב** (hesder im hachayav) — Creditor–debtor arrangement notified to the office, which stops proceedings while kept (s. 19ב).
+- **איחוד תיקים** (ichud tikim) — Consolidation of a debtor's execution files under one payment order (ss. 74א–74טו1).
+- **חייב מוגבל באמצעים** (chayav mugbal be'emtza'im) — "Limited means debtor"; no new declarations since 15.9.2019 (s. 69י1).
+- **חדלות פירעון** (chadlut pira'on) — Insolvency: inability to pay debts when due, or liabilities exceeding assets (Insolvency Law s. 2).
+- **הממונה על הליכי חדלות פירעון ושיקום כלכלי** (hamemuneh al halichei chadlut pira'on veshikum kalkali) — The Insolvency Commissioner, who opens and manages individuals' proceedings above the low-debt threshold.
+- **צו לפתיחת הליכים** (tzav liftichat halichim) — Order to open insolvency proceedings (Insolvency Law s. 3).
+- **יחיד בעל חובות בסכום נמוך** (yachid ba'al chovot bescum namuch) — Individual with low debts, whose proceedings run before a dedicated execution registrar (Insolvency Law ch. 12).
+- **קופת הנשייה** (kupat hanshiya) — The insolvency estate available to creditors.
+- **דמי מחיה** (dmei michya) — Living allowance left to an individual in insolvency (ss. 156, 160).
+- **כושר השתכרות** (kosher hishtakrut) — Earning capacity, the basis of the monthly payment in a rehabilitation order (ss. 160, 162).
+- **צו לשיקום כלכלי** (tzav leshikum kalkali) — Economic rehabilitation order fixing payments, period, assets and surviving debts (s. 161).
+- **הפטר** (hefter) — Discharge from past debts at the end of the payment period (s. 174).
+- **הפטר לאלתר** (hefter le'altar) — Immediate discharge when earning capacity does not exceed the living allowance (s. 167).
+- **תביעת חוב** (tvi'at chov) — Proof of debt filed with the trustee (Insolvency Law s. 210).
+- **הסדר חוב** (hesder chov) — Debt arrangement between a debtor and its creditors under Part 10 of the Insolvency Law.
+- **צו עיכוב הליכים זמני** (tzav ikuv halichim zmani) — Temporary stay of proceedings to form a debt arrangement, for companies and individuals (Amendment No. 9, 2026; ss. 319ג, 319יז).
+- **חובות בדין קדימה** (chovot bedin kdima) — Priority debts in insolvency, led by employees' wages and severance up to caps (s. 234).

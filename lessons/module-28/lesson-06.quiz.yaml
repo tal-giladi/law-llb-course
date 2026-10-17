@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    The trustee finds that Liat's earning capacity is ₪6,000 a month and her living allowance for
+    herself and two children is ₪6,300. She has acted in good faith throughout. What should the
+    rehabilitation order provide?
+  options:
+    - >-
+      A payment of ₪300 a month for the default three years.
+    - >-
+      No payments and immediate discharge.
+    - >-
+      A payment of 10% of her income, since some payment is always required.
+    - >-
+      Postponement of the order until her income rises above the allowance.
+  correct: 1
+  explanation: >-
+    Under s. 167(א), if earning capacity does not exceed the living allowance, the court imposes no
+    payment obligation and grants discharge at once, absent an extension ground.
+- id: q2
+  question: >-
+    Ten months before applying, Moti transferred his share in a plot to his sister for no payment, while
+    already unable to pay his debts. What can the trustee do?
+  options:
+    - >-
+      Nothing; only transfers made in the three months before the application can be undone.
+    - >-
+      Ask the Commissioner to add the plot to the sister's own insolvency file.
+    - >-
+      Report it to the police; civil remedies are not available for gifts.
+    - >-
+      Ask the court to set it aside as a transfer without value to a relative within four years.
+  correct: 3
+  explanation: >-
+    Section 220 covers transfers for no or inadequate value within two years, or four years for a
+    relative, while insolvent; s. 221 reaches concealment within seven years. Three months is the
+    preference period for non-relatives (s. 219).
+- id: q3
+  question: >-
+    At the end of Hagit's three-year payment period she is discharged. Which of her debts does she
+    still owe?
+  options:
+    - >-
+      A court fine and child maintenance arrears under a judgment.
+    - >-
+      Her bank overdraft and an unpaid credit-card balance.
+    - >-
+      An unpaid electricity bill and a supplier's judgment debt.
+    - >-
+      A loan from a friend that the trustee did not approve.
+  correct: 0
+  explanation: >-
+    Section 175(א) excludes penal payments, debts from fraud or listed offences, and maintenance under a
+    judgment from discharge; ordinary past debts are discharged (s. 174).
+- id: q4
+  question: >-
+    Boaz's discharge took effect. The bank now sues his father, who guaranteed Boaz's loan. Is the
+    father protected by the discharge?
+  options:
+    - >-
+      Yes, because a guarantor's liability depends on the main debt, which no longer exists.
+    - >-
+      Yes, if the father files a debt claim with the trustee before the end of the period.
+    - >-
+      No; discharge releases the individual alone, so the guarantor can still be sued.
+    - >-
+      No, unless the father also had his own insolvency order within seven years.
+  correct: 2
+  explanation: >-
+    Section 174(א) frees "the individual, and he alone" from past debts. Guarantors keep their own
+    defences (for example under the Guarantee Law), but the discharge does not release them.

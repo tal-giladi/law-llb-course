@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    In the lab case, Yonatan paid ₪2,000 to the phone company after the judgment and has the bank
+    confirmation, but file A shows the full debt. What is the best step?
+  options:
+    - >-
+      An opposition to execution, since the file overstates the debt.
+    - >-
+      An appeal to the magistrates' court against the debt calculation.
+    - >-
+      Ignoring it; the office will learn of the payment from the bank.
+    - >-
+      An "I have paid" request with the transfer confirmation and a payment table.
+  correct: 3
+  explanation: >-
+    A judgment-based file is corrected by an "I have paid" claim under s. 19, where the debtor carries
+    the burden; the creditor's failure to report the payment (s. 19א) can justify costs against it.
+- id: q2
+  question: >-
+    The furniture shop's file B is based on a promissory note; the sofa arrived broken. The warning was
+    served personally on 28 October. Which response and deadline fit?
+  options:
+    - >-
+      A payment-order request within 20 days, since notes cannot be disputed.
+    - >-
+      An opposition with an affidavit within 30 days of service.
+    - >-
+      An "I have paid" claim at any time, since he never received value.
+    - >-
+      A consumer complaint, which automatically stays the file.
+  correct: 1
+  explanation: >-
+    Section 81א(ג1) gives 30 days from service to oppose execution of a bill; failure of consideration
+    between immediate parties is argued in court once the file is transferred.
+- id: q3
+  question: >-
+    Yonatan's salary was frozen by the bank's lien in file C. What should his request to release money
+    rely on?
+  options:
+    - >-
+      The Wage Protection Law protected amount for his family, with payslip and statement.
+    - >-
+      The rule that wages can never be attached once paid into a bank account.
+    - >-
+      The exit-ban notice, which suspends all other measures for 30 days.
+    - >-
+      The opposition in file B, which stays every file against the same debtor.
+  correct: 0
+  explanation: >-
+    Wage Protection Law s. 8 protects an amount tied to the income-support level for the family
+    (capped at 80% of net wages), for a month after payment to the bank. An opposition in one file does
+    not stay others.
+- id: q4
+  question: >-
+    The bank accepts Yonatan's offer of ₪1,000 a month by phone. What makes the arrangement stop
+    enforcement in file C?
+  options:
+    - >-
+      Nothing more; an oral agreement binds the office once the first payment is made.
+    - >-
+      A consolidation request including all three files.
+    - >-
+      A written arrangement and the creditor's notice to the office under s. 19ב.
+    - >-
+      An approval by the magistrates' court of the arrangement as a settlement.
+  correct: 2
+  explanation: >-
+    Under s. 19ב the creditor notifies the office of the arrangement and proceedings stop while the
+    debtor keeps it; the debtor may report his payments himself (s. 19ב(ד)).

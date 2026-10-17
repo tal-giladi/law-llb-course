@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    In 2026 Orit, a salaried employee, owes ₪120,000 in total and cannot pay it within any instalment
+    period the Execution Office allows. Where do her insolvency proceedings start?
+  options:
+    - >-
+      With an application to the Insolvency Commissioner, who handles every individual.
+    - >-
+      With a petition to the district court, which handles individual bankruptcy.
+    - >-
+      With the dedicated execution registrar, since her debts are below the linked threshold.
+    - >-
+      With a consolidation request, which must be refused before insolvency is possible.
+  correct: 2
+  explanation: >-
+    Section 103(ב) and ch. 12 send individuals whose debts do not exceed the linked threshold (about
+    ₪177,000 in 2026) to a dedicated execution registrar, by a s. 7א2 notice or an application.
+- id: q2
+  question: >-
+    The Commissioner gives Yossi an opening order. Two days earlier an exit ban was imposed on him in an
+    execution file. What happens to it?
+  options:
+    - >-
+      It falls away, but the statutory interim exit restriction applies.
+    - >-
+      It stays in force until the execution creditor agrees to lift it.
+    - >-
+      It falls away and Yossi is free to travel abroad without any restriction.
+    - >-
+      It becomes permanent until discharge, as a condition of the order.
+  correct: 0
+  explanation: >-
+    Section 121(א)(3) cancels restrictions imposed in collection proceedings, but s. 142 imposes interim
+    restrictions by law, including an exit restriction, which the Commissioner may lift (s. 143).
+- id: q3
+  question: >-
+    In the low-debt track, the registrar's representative drafts a payment arrangement. Creditors
+    holding 80% of the execution debts and a majority of those voting support it; one bank opposes.
+    What is needed for it to bind everyone?
+  options:
+    - >-
+      Nothing more; a majority of creditors is always enough under the low-debt track.
+    - >-
+      The bank's consent, since any creditor can veto an arrangement.
+    - >-
+      Approval by the magistrates' court after a full hearing of the bank's objection.
+    - >-
+      The registrar's approval as fair, giving the bank at least its order share.
+  correct: 3
+  explanation: >-
+    Section 195 requires a majority of those voting holding at least three-quarters of the execution
+    debts (and every non-execution creditor party to it); s. 196 then requires the registrar's
+    approval, which is refused if a dissenter gets less than under a rehabilitation order.
+- id: q4
+  question: >-
+    After the opening order, a supplier tells Gil he no longer has to obey a municipal demolition order
+    for an illegal extension, "because everything is frozen". Is that right?
+  options:
+    - >-
+      Yes, because all proceedings against the individual are stayed by the order.
+    - >-
+      No; the order exempts him only from paying past debts.
+    - >-
+      Yes, as long as the municipality filed a debt claim with the trustee.
+    - >-
+      No, but only because demolition orders are criminal, not administrative.
+  correct: 1
+  explanation: >-
+    Section 121(ב), added by Amendment No. 9 (2026), states that the order does not exempt the
+    individual from any legal duty, including administrative decisions, except paying past debts.

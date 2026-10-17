@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A household can spare ₪1,500 a month and the husband owes ₪330,000. Before choosing insolvency,
+    what comparison should the lab's assessment make?
+  options:
+    - >-
+      Whether the debts are older than the Execution Office's limitation period.
+    - >-
+      Whether the wife's income alone could cover the debts within ten years.
+    - >-
+      Whether any creditor would accept a 50% discount in exchange for a lump sum.
+    - >-
+      Capacity times the longest permitted payment-order period against the total debt.
+  correct: 3
+  explanation: >-
+    Consolidation and payment orders work only if the debtor can repay within the s. 7א1 periods
+    (s. 74ט). If capacity over those periods falls far short, insolvency is the honest route.
+- id: q2
+  question: >-
+    Two months before applying, the applicant repaid his brother ₪15,000 while already unable to pay
+    other creditors. How should the application deal with it?
+  options:
+    - >-
+      Disclose it; the trustee may set it aside and it can lengthen the payment period.
+    - >-
+      Leave it out, since loans from relatives are private matters.
+    - >-
+      Ask the brother to return it quietly before filing so nothing needs to be reported.
+    - >-
+      Mention it only if a creditor asks about it after the opening order.
+  correct: 0
+  explanation: >-
+    A payment to a relative within a year before the application while insolvent is a preference
+    (s. 219) and a ground to extend the period (s. 163(ג)(3)); concealment is worse (ss. 163(ג)(1), 183).
+- id: q3
+  question: >-
+    Eyal owes a ₪1,500 traffic fine and a bank loan guaranteed by his mother. After discharge, which
+    statement is correct?
+  options:
+    - >-
+      Both the fine and the mother's guarantee are extinguished with the discharge.
+    - >-
+      The fine is discharged, but the mother remains liable on the guarantee.
+    - >-
+      He still owes the fine, and his mother is still liable on her guarantee.
+    - >-
+      Neither survives if he paid all monthly payments on time for three years.
+  correct: 2
+  explanation: >-
+    Penal payments are not dischargeable (s. 175(א)(1)), and discharge releases "the individual, and he
+    alone" (s. 174(א)), so the guarantor remains liable.
+- id: q4
+  question: >-
+    An applicant not eligible for Legal Aid files with the Commissioner in 2026. How is the
+    application fee paid?
+  options:
+    - >-
+      In full on filing, with no refund if he withdraws.
+    - >-
+      A fixed part up front, with the balance paid from the estate.
+    - >-
+      Nothing up front; the whole fee always comes from the estate.
+    - >-
+      Only after the rehabilitation order, out of the first monthly payment.
+  correct: 1
+  explanation: >-
+    Fee Regulations reg. 4(2): an individual not represented by Legal Aid and not meeting its tests pays
+    a fixed sum up front and the rest of the fee is paid from the estate; withdrawal before the order
+    refunds half of what was paid (reg. 7).
