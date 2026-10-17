@@ -1,0 +1,50 @@
+- id: q1
+  question: >-
+    In rebuilding Inbal's 2024 tax, you notice the NII withheld ₪580 from her unemployment benefit. How do
+    you treat the benefit in the computation?
+  options:
+    - >-
+      Ignore it, because NII benefits are outside income tax.
+    - >-
+      Treat the ₪580 as a credit but leave the benefit out of income.
+    - >-
+      Add the ₪5,800 to income and the ₪580 to tax withheld.
+    - >-
+      Ask the NII to refund the ₪580 directly to her.
+  correct: 2
+  explanation: >-
+    The benefit is taxable income for the year and the tax withheld from it counts toward the total
+    withheld; both go into the annual computation.
+- id: q2
+  question: >-
+    Inbal finished her army service in October 2019. Why are there no discharged-soldier points in her 2024
+    computation?
+  options:
+    - >-
+      The points last 36 months after the end of service, which ended in 2022.
+    - >-
+      The points apply only to soldiers who served 36 months or more.
+    - >-
+      Women receive the woman's half point instead of those points.
+    - >-
+      The points are lost if not claimed through Form 101.
+  correct: 0
+  explanation: >-
+    Section 39א gives a fraction of a point for each of the 36 months after the month in which regular
+    service ended; for Inbal that period ended in 2022.
+- id: q3
+  question: >-
+    Your refund file covers 2022, 2023 and 2024. What is the best way to present it?
+  options:
+    - >-
+      One combined computation, since the assessing officer looks at totals.
+    - >-
+      Only the most recent year, since older years are reviewed automatically.
+    - >-
+      A letter asking the officer to find any refund due in any year.
+    - >-
+      A separate request and computation for each year, with its own exhibits.
+  correct: 3
+  explanation: >-
+    Each tax year is assessed separately and the six-year window runs per year, so each needs its own
+    request, computation and documents.

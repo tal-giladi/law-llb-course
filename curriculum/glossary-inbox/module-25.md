@@ -1,0 +1,31 @@
+- **פקודת מס הכנסה** (pkudat mas hachnasa) — The Income Tax Ordinance [New Version], the main income-tax statute.
+- **תושב ישראל** (toshav Israel) — Israeli resident for tax purposes: an individual whose centre of life is in Israel (ITO s. 1).
+- **מרכז חיים** (merkaz hayim) — Centre of life: the residency test based on family, economic and social ties, with rebuttable day-count presumptions (ITO s. 1).
+- **מקור הכנסה** (makor hachnasa) — Source of income: one of the categories in ITO s. 2 (business, employment, dividends and interest, rent, etc.).
+- **הכנסה מיגיעה אישית** (hachnasa mi-yegi'a ishit) — Income from personal exertion, taxed on the lower brackets of ITO s. 121.
+- **הכנסה הונית / פירותית** (hachnasa honit / perotit) — Capital versus revenue income; distinguished by the Magid indications.
+- **נקודת זיכוי** (nekudat zikui) — Credit point: a fixed annual amount set off against tax (₪2,904 a year in 2024–2027; ITO s. 33א).
+- **זיכוי / ניכוי** (zikui / nikui) — Credit (reduces the tax) / deduction (reduces taxable income).
+- **טופס 101** (tofes 101) — Employee's card on which the employer bases tax withholding and credit points.
+- **טופס 106** (tofes 106) — Employer's annual certificate of salary and tax withheld.
+- **תיאום מס** (te'um mas) — Tax coordination between several employers.
+- **טופס 135** (tofes 135) — Refund request of an individual not required to file an annual return.
+- **מס יתר** (mas yeter) — Overpaid tax, refundable with linkage and interest (ITO ss. 159א, 160).
+- **מס תשומות / מס עסקאות** (mas tsumot / mas iska'ot) — Input tax / output tax in VAT.
+- **מספר הקצאה** (mispar haktza'a) — Allocation number required on large tax invoices for the buyer to deduct input VAT (VAT Law s. 38(א1)).
+- **בעל עסק זעיר** (ba'al esek za'ir) — Small-business owner who may deduct 30% of turnover as deemed expenses (ITO ss. 87ב–87ד).
+- **מקדמות** (mikdamot) — Advance payments of income tax during the year (ITO s. 175).
+- **שומה עצמית** (shuma atzmit) — Self-assessment: a filed return or declaration treated as the assessment (ITO s. 145; Real Estate Taxation Law s. 78).
+- **שומה לפי מיטב השפיטה** (shuma lefi meitav hashfita) — Best-judgment assessment by the tax official.
+- **השגה** (hasaga) — Objection to a tax assessment, filed with the assessing official within 30 days.
+- **צו (בהשגה)** (tzav) — Order deciding an income-tax objection when no agreement is reached (ITO s. 152(ב)).
+- **ערעור מס** (ir'ur mas) — Tax appeal to the District Court (ITO s. 153; VAT Law s. 83).
+- **מס רכישה** (mas rechisha) — Purchase tax paid by the buyer of a right in land (Real Estate Taxation Law s. 9).
+- **דירה יחידה** (dira yehida) — Single (only) apartment, entitled to reduced purchase-tax brackets and to the appreciation-tax exemption.
+- **מס שבח מקרקעין** (mas shevah mekarke'in) — Land appreciation tax on the real gain from selling land.
+- **דירת מגורים מזכה** (dirat megurim mezaka) — Qualifying residential apartment for the appreciation-tax exemption (Real Estate Taxation Law s. 49).
+- **ועדת ערר (מיסוי מקרקעין)** (va'adat arar) — Real-estate taxation appeals committee chaired by a judge (Real Estate Taxation Law ss. 88–89).
+- **קנס גירעון** (knas gera'on) — Deficiency fine on under-reported tax (ITO s. 191).
+- **כופר כסף** (kofer kesef) — Composition fine that ends criminal proceedings with the person's consent (ITO s. 221).
+- **גילוי מרצון** (giluy meratzon) — Voluntary disclosure: a Tax Authority procedure for coming forward before an investigation.
+- **מענק עבודה** (ma'anak avoda) — Work grant ("negative income tax") paid by the Tax Authority to low-income workers on application.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Orly never filed a return for 2022, although she had rental income. The assessing officer issued a
+    best-judgment assessment. She sends a letter: "I object, the figures are too high." What is wrong?
+  options:
+    - >-
+      Nothing; any written objection within 30 days is valid.
+    - >-
+      She should have appealed directly to the District Court.
+    - >-
+      A non-filer can object only by filing the return for that year.
+    - >-
+      Objections to best-judgment assessments must go to the Director.
+  correct: 2
+  explanation: >-
+    Under s. 150(ב), where no return was filed and a s. 145(ב) assessment was issued, only a return filed
+    for that year counts as an objection.
+- id: q2
+  question: >-
+    Amos filed his 2021 return in 2022 and objected to an assessment on 1 March 2025. No agreement and no
+    order had been made by November 2026. What is the status of his objection?
+  options:
+    - >-
+      Still open: the officer has until the end of 2026 to decide.
+    - >-
+      Accepted, because a year has passed since the objection.
+    - >-
+      Rejected by default, so Amos must now appeal.
+    - >-
+      Suspended until Amos asks the officer for a decision.
+  correct: 0
+  explanation: >-
+    Section 152(ג) uses the later of four years from the end of the year the return was filed (end of
+    2026) and one year from the objection (1 March 2026). Until the end of 2026 the officer may still
+    decide.
+- id: q3
+  question: >-
+    The assessing officer issued an order under s. 152(ב) confirming Batya's assessment. It was served on
+    5 August. What must she do to challenge it?
+  options:
+    - >-
+      File a second objection with a senior assessing officer within 30 days.
+    - >-
+      Petition the High Court of Justice within 45 days of the order.
+    - >-
+      Appeal to the Supreme Court as in civil appeals within 45 days.
+    - >-
+      Appeal to the District Court within 30 days of service.
+  correct: 3
+  explanation: >-
+    Section 153 gives an appeal to the District Court from the order, and reg. 2 of the Appeals
+    Regulations sets 30 days from service.
+- id: q4
+  question: >-
+    In Hanan's tax appeal, the assessing officer claims unreported income. Hanan kept no admissible books.
+    Who must prove what?
+  options:
+    - >-
+      The officer must prove the unreported income beyond reasonable doubt.
+    - >-
+      Hanan must show that the assessment is excessive.
+    - >-
+      Each party bears an equal burden on every disputed item.
+    - >-
+      The court decides the burden case by case, with no statutory rule.
+  correct: 1
+  explanation: >-
+    Section 155 puts the burden of proving the assessment excessive on the appellant, with an exception
+    for an appellant who kept admissible books.

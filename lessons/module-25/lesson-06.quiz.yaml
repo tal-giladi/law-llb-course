@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Rachel buys her first apartment in 2026 for ₪2,200,000. Her husband owns a 50% share of a Tel Aviv
+    apartment he bought with a friend. Which purchase-tax scale applies?
+  options:
+    - >-
+      The single-apartment scale, because Rachel herself owns nothing.
+    - >-
+      The single-apartment scale, because a 50% share is always disregarded.
+    - >-
+      The additional-apartment scale, since the couple is one buyer.
+    - >-
+      No purchase tax, because first-time buyers are exempt up to the first bracket.
+  correct: 2
+  explanation: >-
+    Spouses are one buyer (s. 9(ג1ג)(4)(ג)). A share is disregarded only within s. 49ג(3): up to a third,
+    or up to a half if inherited; a purchased 50% share is not.
+- id: q2
+  question: >-
+    Kobi signs a contract on 10 March 2026 to buy an apartment. By when must he file his buyer's
+    declaration and pay the tax?
+  options:
+    - >-
+      Declaration within 30 days; payment within 60 days of the sale.
+    - >-
+      Declaration and payment within 30 days of the contract.
+    - >-
+      Declaration within 60 days; payment when the apartment is registered.
+    - >-
+      Only when the seller's lawyer files the seller's declaration.
+  correct: 0
+  explanation: >-
+    Section 73(ג) requires the buyer's declaration within 30 days of the purchase, and s. 90א requires
+    payment within 60 days of the sale after the notice of tax.
+- id: q3
+  question: >-
+    The director rejected Shira's objection to a purchase-tax assessment. Where does she go next, and
+    by when?
+  options:
+    - >-
+      To the District Court, within 30 days, as in income-tax appeals.
+    - >-
+      To the Supreme Court on any question, within 45 days.
+    - >-
+      To the administrative affairs court, within 45 days of the decision.
+    - >-
+      To the appeals committee chaired by a judge, within 30 days.
+  correct: 3
+  explanation: >-
+    Section 88 gives an appeal (ערר) to the appeals committee within 30 days of the decision; only its
+    decision may be appealed, on a point of law, to the Supreme Court within 45 days (s. 90).
+- id: q4
+  question: >-
+    Natan buys a ₪3,000,000 apartment as an additional apartment in November 2026. Roughly how much
+    purchase tax will he pay?
+  options:
+    - >-
+      About ₪49,000, using the single-apartment brackets.
+    - >-
+      About ₪240,000, at 8% under the temporary scale.
+    - >-
+      About ₪180,000, at 6% as for non-residential land.
+    - >-
+      Nothing on the first ₪1,978,745 and 8% on the rest.
+  correct: 1
+  explanation: >-
+    Until 31.12.2026 a residential purchase that is not a single apartment pays 8% up to ₪6,055,070
+    (s. 9(ג1ו)); 8% of ₪3,000,000 is ₪240,000.

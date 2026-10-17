@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Moshe, a licensed dealer, bought a printer in March 2026 and found the invoice in a drawer in
+    November 2026. Can he deduct the input VAT in his November–December report?
+  options:
+    - >-
+      Yes, input tax may be deducted at any time within the tax year.
+    - >-
+      Yes, if he pays the supplier interest for the late report.
+    - >-
+      No, unless the supplier issues a new invoice with a later date.
+    - >-
+      No, the deduction must be made within six months of the invoice.
+  correct: 3
+  explanation: >-
+    Section 38(א) allows the deduction only within six months from the day the invoice was issued; a
+    replacement invoice with a false date would itself be a problem.
+- id: q2
+  question: >-
+    Tamar, an exempt dealer, expects 2026 turnover of ₪160,000. Her occupation is not listed in reg. 13.
+    What should she do?
+  options:
+    - >-
+      Ask to become a licensed dealer, since she will pass the 2026 ceiling.
+    - >-
+      Nothing until her turnover has passed the ceiling for two years in a row.
+    - >-
+      Stay exempt and report the excess in her annual income-tax return.
+    - >-
+      Open a second exempt-dealer file so each stays below the ceiling.
+  correct: 0
+  explanation: >-
+    The ceiling counts turnover "from all his businesses" (s. 1). Above it she must be a licensed dealer;
+    the two-year rule works the other way, for moving from licensed back to exempt (s. 59).
+- id: q3
+  question: >-
+    The VAT office assessed Yoram for a period, disallowing several invoices. He received the
+    assessment on 1 March. What is his next step?
+  options:
+    - >-
+      An appeal to the District Court within 30 days of the assessment.
+    - >-
+      A reasoned written objection to the director within 30 days.
+    - >-
+      A complaint to the Tax Authority's ombudsman within 90 days.
+    - >-
+      An administrative petition within 45 days of the assessment.
+  correct: 1
+  explanation: >-
+    Section 82 requires a reasoned objection within 30 days of service; the appeal to the District Court
+    (s. 83) is from the decision on the objection.
+- id: q4
+  question: >-
+    Lior, a sole trader with turnover of ₪100,000 and very low real expenses, asks whether to use the
+    small-business track. What does it give him?
+  options:
+    - >-
+      A full exemption from income tax on turnover below the ceiling.
+    - >-
+      A deduction of 30% of turnover in place of proving his actual expenses.
+    - >-
+      The right to stop paying advances and settle once a year.
+    - >-
+      A reduced 10% flat tax rate on all business income for the year.
+  correct: 1
+  explanation: >-
+    Sections 87ב–87ד let a registered small-business owner (turnover up to the exempt-dealer ceiling)
+    deduct 30% of turnover as deemed expenses; the income is then taxed at the ordinary rates.

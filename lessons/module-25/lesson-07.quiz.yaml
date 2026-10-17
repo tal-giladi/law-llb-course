@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Oren bought a new home in March 2024 and is selling his old one, his only other apartment, in
+    May 2026. He has lived in the old home for ten years. Can he sell it exempt?
+  options:
+    - >-
+      No, because he owned two apartments on the day of the sale.
+    - >-
+      Yes, but only if the price is below the purchase-tax first bracket.
+    - >-
+      No, because the replacement presumption covers only 12 months.
+    - >-
+      Yes; the new home was bought within 24 months before the sale.
+  correct: 3
+  explanation: >-
+    Under s. 49ג(1) the sold apartment is still the single apartment if the other one was bought as its
+    replacement in the 24 months before the sale; the other conditions of s. 49ב(2) are met.
+- id: q2
+  question: >-
+    Michal sells her only apartment in 2026 for ₪6,000,000; all the conditions of s. 49ב(2) are met.
+    What is the tax position?
+  options:
+    - >-
+      The whole sale is exempt, since it is her single apartment.
+    - >-
+      The part up to ₪5,008,000 is exempt; the excess is taxed proportionally.
+    - >-
+      The whole gain is taxable, since the price exceeds the ceiling.
+    - >-
+      She pays purchase tax instead of appreciation tax on the excess.
+  correct: 1
+  explanation: >-
+    Section 49א(א1) limits the exemption to the part of the sale value up to the ceiling (₪5,008,000,
+    frozen for 2025–2027); the difference is treated as a taxable sale of a proportional part.
+- id: q3
+  question: >-
+    Avraham's late father owned only one apartment. Avraham owns his own home. He wants to sell the
+    inherited apartment. Which exemption may apply?
+  options:
+    - >-
+      The inheritance exemption in s. 49ב(5), if his father would have been exempt.
+    - >-
+      None; the single-apartment exemption fails because he owns his own home.
+    - >-
+      The single-apartment exemption, if he sells his own home first.
+    - >-
+      A one-time exemption available only to the deceased's spouse.
+  correct: 0
+  explanation: >-
+    Section 49ב(5) exempts a descendant who sells an apartment inherited from a person who owned only
+    one apartment and would himself have been exempt; the heir's own home does not matter.
+- id: q4
+  question: >-
+    Esther bought land in 2010 and sells it in 2026 at a large real gain. How is the gain taxed in
+    outline?
+  options:
+    - >-
+      At 25% on the whole real gain, whatever the purchase date.
+    - >-
+      At her marginal income-tax rate, up to 47%, on the whole gain.
+    - >-
+      By periods: up to 20% on the part before 2012 and up to 25% after.
+    - >-
+      It is exempt because she held the land for more than ten years.
+  correct: 2
+  explanation: >-
+    For assets bought before the change date (1.1.2012), s. 48א(ב1) splits the real gain by time: up to
+    20% for the period from 7.11.2001 to the change date, and up to 25% after.

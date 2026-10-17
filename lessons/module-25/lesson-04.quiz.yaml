@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    It is October 2026. Ruth, a salaried employee who was exempt from filing, realises she overpaid tax in
+    2019, 2020 and 2023. For which years can she still get a refund under s. 160?
+  options:
+    - >-
+      Only 2023, because refunds are limited to the last three years.
+    - >-
+      All three, because the six years run from when she discovered the overpayment.
+    - >-
+      2020 and 2023, if she files by the end of 2026; 2019 is closed.
+    - >-
+      All three, if she proves she did not know about the overpayment.
+  correct: 2
+  explanation: >-
+    Section 160(א) requires the report for the year to be filed within six years after its end: 2019
+    closed at the end of 2025; 2020 closes at the end of 2026.
+- id: q2
+  question: >-
+    Daniel's only 2025 income was salary from two employers and unemployment benefit, all below the
+    ceiling, with no reg. 3 exclusion. He thinks he overpaid. How should he claim?
+  options:
+    - >-
+      With Form 135 or the online refund service for employees.
+    - >-
+      By asking each employer to repay him the tax withheld for 2025.
+    - >-
+      By filing an objection to the withholding with the assessing officer.
+    - >-
+      With a claim against the State in the small-claims court.
+  correct: 0
+  explanation: >-
+    He is exempt from filing under reg. 2, so he asks for a refund with the request for an individual not
+    required to file; the assessing officer computes the annual tax and refunds the excess.
+- id: q3
+  question: >-
+    Nir served 30 days of combat reserve duty in 2025. In which tax year are his reservist credit points
+    taken into account?
+  options:
+    - >-
+      In 2025, the year of the service itself.
+    - >-
+      In 2026, the year after the service.
+    - >-
+      Spread equally over the three years after the service.
+    - >-
+      Only in the year he is discharged from reserve duty.
+  correct: 1
+  explanation: >-
+    Section 39ב gives the points "in the tax year" for service as a combatant "in the previous tax year";
+    a claim for them in the year of service is in the wrong year.
+- id: q4
+  question: >-
+    Hila overpaid ₪4,000 in 2021 and claims it in 2026. What will the refund include?
+  options:
+    - >-
+      ₪4,000 only, because late claims lose linkage and interest.
+    - >-
+      ₪4,000 less a fixed handling fee for late requests.
+    - >-
+      ₪4,000 with linkage, but interest only from the date of her request.
+    - >-
+      ₪4,000 with linkage and interest from the end of 2021.
+  correct: 3
+  explanation: >-
+    Section 160(א) adds linkage differences and interest (s. 159א(א)) from the end of the tax year or the
+    payment date, whichever is later, until the refund.

@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    The assessing officer found that Ronen reported ₪20,000 of tax when ₪50,000 was due. Ronen shows
+    no evidence that he was careful. Which addition does s. 191 provide?
+  options:
+    - >-
+      A fine of 15% of the ₪30,000 deficiency, because it exceeds half the tax due.
+    - >-
+      No fine, because deficiency fines apply only after a criminal conviction.
+    - >-
+      A fine equal to twice the deficiency, because any shortfall is evasion.
+    - >-
+      Only linkage and interest, because fines apply only to late filing.
+  correct: 0
+  explanation: >-
+    The deficiency (₪30,000) exceeds 50% of the tax due (₪50,000), so unless he shows he was not
+    negligent a 15% fine applies; the double fine requires a wilful intent to evade (s. 191(ג)).
+- id: q2
+  question: >-
+    What separates the offence in s. 220 from the offence in s. 217?
+  options:
+    - >-
+      Section 220 applies only to companies, s. 217 to individuals.
+    - >-
+      Section 220 applies only above a minimum amount of tax evaded.
+    - >-
+      Section 220 requires wilful conduct with intent to evade tax.
+    - >-
+      Section 220 applies only when false invoices were used.
+  correct: 2
+  explanation: >-
+    Section 217 covers an incorrect return "without reasonable justification"; s. 220 requires wilful
+    conduct with intent to evade, and carries up to seven years and a ten-year limitation period (s. 225).
+- id: q3
+  question: >-
+    Yael receives a summons from the Tax Authority's investigations unit to "give her version" about
+    unreported income. What is the lawful first step?
+  options:
+    - >-
+      Go alone and explain everything, to show good faith.
+    - >-
+      File a voluntary disclosure at once, before the meeting.
+    - >-
+      Send her accountant to answer on her behalf.
+    - >-
+      Consult a criminal-tax lawyer before saying anything.
+  correct: 3
+  explanation: >-
+    An investigations summons is criminal: the suspect's rights apply and legal advice comes first.
+    Voluntary disclosure generally requires coming forward before an investigation has begun.
+- id: q4
+  question: >-
+    Dov admits an offence under s. 217. The Director proposes a composition fine. What does it mean?
+  options:
+    - >-
+      A conviction with a fine that cannot be appealed.
+    - >-
+      An agreed payment that ends the proceedings.
+    - >-
+      An automatic 15% fine added to his tax assessment.
+    - >-
+      A fine imposed by a court after a plea bargain.
+  correct: 1
+  explanation: >-
+    Under s. 221 the Director may, with the person's consent, take a composition fine for offences under
+    ss. 215–220, and the proceedings for that offence stop.

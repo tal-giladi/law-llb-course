@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Hana, 30, a mother of two, earned ₪4,500 a month in 2025 and paid no income tax because her credit
+    points exceeded her tax. A friend says she "gets nothing from the tax system". What should Hana check?
+  options:
+    - >-
+      Whether her unused credit points will be refunded in cash.
+    - >-
+      Whether she is entitled to the work grant for 2025 and claim it online.
+    - >-
+      Whether she can transfer her unused points to her employer.
+    - >-
+      Whether the NII will add her unused points to her child allowance.
+  correct: 1
+  explanation: >-
+    Unused credit points are lost; the work grant is the payment aimed at low-income working parents. It
+    is claimed after the year through the Tax Authority's online service.
+- id: q2
+  question: >-
+    Ofer received unemployment benefit for four months of 2025, from which the NII withheld tax, and
+    worked the rest of the year. Why might he be due a refund?
+  options:
+    - >-
+      Because unemployment benefit is exempt and the withholding was unlawful.
+    - >-
+      Because the NII must refund all tax it withholds at the end of the year.
+    - >-
+      Because withholding on part of the year often exceeds the tax on the whole year.
+    - >-
+      Because benefits are taxed only if they exceed the average wage.
+  correct: 2
+  explanation: >-
+    Wage-replacing benefits are taxable, but each payer withholds without the full annual picture; a
+    refund request or return settles the actual tax for the year.
+- id: q3
+  question: >-
+    Rami, self-employed, paid ₪10,000 in National Insurance contributions and health tax on his business
+    income in 2025. How does this affect his income tax?
+  options:
+    - >-
+      He may deduct ₪5,200, 52% of the amount, from his income.
+    - >-
+      He receives a credit of 35% of the amount against his tax.
+    - >-
+      There is no effect, because NII payments are not a tax matter.
+    - >-
+      He may deduct the full ₪10,000 as a business expense.
+  correct: 0
+  explanation: >-
+    Section 47א allows an individual a deduction of 52% of the NII contributions and health tax paid on
+    income that is not employment income.
+- id: q4
+  question: >-
+    Batel wants to claim the work grant for 2024. It is October 2026. What is the safest course?
+  options:
+    - >-
+      Wait for the Tax Authority to pay it automatically from employer data.
+    - >-
+      Apply through her employer, who forwards the claim with Form 106.
+    - >-
+      Claim it at the NII branch together with her child allowance.
+    - >-
+      Apply online now, since the deadline for 2024 is near the end of 2026.
+  correct: 3
+  explanation: >-
+    The grant is paid only on application through the Tax Authority's service; per the service page the
+    2024 grant could be claimed until 31.12.2026 (check the current deadline).

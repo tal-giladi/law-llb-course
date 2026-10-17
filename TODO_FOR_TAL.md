@@ -24,3 +24,4 @@
 - Year 2 QA (curriculum/qa/neutrality-report.md, Year 2 section): 8 review items, incl. repeated character patterns, territory-term house style, and a possibly wrong justice in the 5658/23 split. Module 22: labour-court online service and family-court Form 1 online filing for unrepresented parties unconfirmed.
 - Modules 23–24: about 14 evidence and criminal-procedure rulings sourced from Hebrew Wikipedia only; Evidence Ordinance s. 56א (2022) wording and start date not read from Reshumot.
 - Module 26: all 7 inheritance rulings rest on Hebrew Wikipedia; Registrar fees (objection, publication) from Kol-Zchut need a manual check.
+- Module 25: all 6 tax rulings from Hebrew Wikipedia; Work Grant amounts and deadlines, 2026 late-filing fine and voluntary-disclosure status after 31.8.2026 need checking.

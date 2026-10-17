@@ -1,0 +1,1321 @@
+- id: m25-001
+  module: 25
+  lesson: "25.1"
+  subject: residency
+  difficulty: 1
+  question: >-
+    Under s. 1 of the Income Tax Ordinance, which test decides whether an individual is an Israeli resident?
+  options:
+    - >-
+      Israeli citizenship held during the tax year.
+    - >-
+      The centre of life, judged by family, economic and social ties.
+    - >-
+      Registration in the Population Register at an Israeli address.
+    - >-
+      Payment of National Insurance contributions in Israel.
+  correct: 1
+  explanation: >-
+    Section 1 defines a resident individual as one whose centre of life is in Israel, weighing all family,
+    economic and social ties; the day counts are only rebuttable presumptions.
+- id: m25-002
+  module: 25
+  lesson: "25.1"
+  subject: residency
+  difficulty: 2
+  question: >-
+    Which combination of days triggers the second residency presumption for 2026?
+  options:
+    - >-
+      At least 90 days in 2026 and 300 days over 2025–2026.
+    - >-
+      At least 183 days over 2024–2026 in total.
+    - >-
+      At least 30 days in 2026 and 425 days over 2024–2026.
+    - >-
+      At least 60 days in each of 2024, 2025 and 2026.
+  correct: 2
+  explanation: >-
+    Section 1, para. (א)(2)(ב): 30 days or more in the tax year and 425 days or more in that year and the
+    two before it; part of a day counts as a day.
+- id: m25-003
+  module: 25
+  lesson: "25.1"
+  subject: sources
+  difficulty: 1
+  question: >-
+    A non-resident owns an apartment in Haifa and lets it. Is the rent taxable in Israel?
+  options:
+    - >-
+      Yes; non-residents are taxed on income produced in Israel.
+    - >-
+      No; non-residents are taxed only on employment income.
+    - >-
+      Only if the tenant is an Israeli company.
+    - >-
+      Only if the owner visits Israel during the year.
+  correct: 0
+  explanation: >-
+    Section 2 taxes a non-resident's income produced in Israel, and rent from Israeli land (s. 2(6)) is
+    produced in Israel.
+- id: m25-004
+  module: 25
+  lesson: "25.1"
+  subject: capital-revenue
+  difficulty: 3
+  question: >-
+    Bar-exam style. A retired teacher sold, once, a plot she had held for 30 years, financed with her
+    savings, without improving it. The assessing officer claims business income. Which Magid indications
+    favour her?
+  options:
+    - >-
+      Her expertise in teaching and the size of the price.
+    - >-
+      The use of a broker and the fact that land is valuable.
+    - >-
+      The fact that she paid purchase tax when she bought.
+    - >-
+      Long holding, one transaction, own savings, no improvement.
+  correct: 3
+  explanation: >-
+    Holding period, frequency, financing and lack of improvement or marketing are Magid indications of a
+    capital asset; together they point to a capital gain.
+- id: m25-005
+  module: 25
+  lesson: "25.1"
+  subject: interpretation
+  difficulty: 2
+  question: >-
+    In a tax appeal, the taxpayer argues that any doubt in a taxing section must be resolved in his
+    favour. What answer does Kibbutz Hatzor give?
+  options:
+    - >-
+      Agreed; tax statutes remain strictly construed in Israel.
+    - >-
+      Tax statutes are read like others, by their purpose.
+    - >-
+      Doubt is resolved for the State because tax funds the public.
+    - >-
+      Only the Knesset Finance Committee may interpret tax laws.
+  correct: 1
+  explanation: >-
+    Hatzor rejected strict construction: the wording is the start, and the court chooses the meaning that
+    fits the provision's purpose, which may favour either side.
+- id: m25-006
+  module: 25
+  lesson: "25.1"
+  subject: rates
+  difficulty: 2
+  question: >-
+    Why does it matter whether an individual's income is "from personal exertion"?
+  options:
+    - >-
+      It is exempt from National Insurance contributions.
+    - >-
+      It is taxed only when it exceeds the average wage.
+    - >-
+      It qualifies for the lower brackets starting at 10% in s. 121.
+    - >-
+      It must be reported monthly instead of annually.
+  correct: 2
+  explanation: >-
+    Section 121(ב) applies the 10%–31% brackets to income from personal exertion (and income of a person
+    aged 60 or more); other income starts at 31%.
+- id: m25-007
+  module: 25
+  lesson: "25.2"
+  subject: credit-points
+  difficulty: 1
+  question: >-
+    What is a credit point worth in 2026, per the Wikisource note to s. 33א?
+  options:
+    - >-
+      ₪2,904 a year, or ₪242 a month.
+    - >-
+      ₪2,820 a year, or ₪235 a month.
+    - >-
+      ₪3,120 a year, or ₪260 a month.
+    - >-
+      ₪2,400 a year, or ₪200 a month.
+  correct: 0
+  explanation: >-
+    The note gives ₪2,904 for 2024–2027; the value is frozen for those years.
+- id: m25-008
+  module: 25
+  lesson: "25.2"
+  subject: credit-points
+  difficulty: 1
+  question: >-
+    How many credit points does every resident woman have before any points for children or studies?
+  options:
+    - >-
+      2 points.
+    - >-
+      2¼ points.
+    - >-
+      2½ points.
+    - >-
+      2¾ points.
+  correct: 3
+  explanation: >-
+    Resident 2 (s. 34) + travel ¼ (s. 36) + woman ½ (s. 36א) = 2¾.
+- id: m25-009
+  module: 25
+  lesson: "25.2"
+  subject: credit-points
+  difficulty: 2
+  question: >-
+    Oded completed a two-year M.A. in 2025. What does s. 40ג give him?
+  options:
+    - >-
+      One point a year for 2026 and 2027.
+    - >-
+      Half a point in 2026 and 2027.
+    - >-
+      Half a point for 2025 only.
+    - >-
+      One point for 2026 only.
+  correct: 1
+  explanation: >-
+    A second degree gives half a point a year from the year after the studies end, for as many years as
+    the studies lasted, up to two.
+- id: m25-010
+  module: 25
+  lesson: "25.2"
+  subject: filing-duty
+  difficulty: 2
+  question: >-
+    Which person is NOT covered by the exemption from filing in reg. 2, even if his income is salary only?
+  options:
+    - >-
+      A teacher whose salary is ₪200,000 a year with tax withheld.
+    - >-
+      A nurse who also received maternity pay from the NII.
+    - >-
+      A controlling shareholder in his own small company.
+    - >-
+      A clerk who donated to a recognised charity.
+  correct: 2
+  explanation: >-
+    Reg. 3(א)(1) excludes a person who, or whose spouse, is a controlling shareholder; the others may
+    remain exempt.
+- id: m25-011
+  module: 25
+  lesson: "25.2"
+  subject: credits
+  difficulty: 2
+  question: >-
+    Why is a ₪1,000 credit worth the same to every taxpayer who pays at least that much tax, while a
+    ₪1,000 deduction is not?
+  options:
+    - >-
+      A credit cuts the tax; a deduction cuts taxable income.
+    - >-
+      A deduction is refunded in cash, a credit is not.
+    - >-
+      Credits apply only to employees, deductions only to the self-employed.
+    - >-
+      A deduction is linked to the index and a credit is not.
+  correct: 0
+  explanation: >-
+    A credit is subtracted from the tax; a deduction lowers taxable income, so its value depends on the
+    rate that would have applied.
+- id: m25-012
+  module: 25
+  lesson: "25.2"
+  subject: two-jobs
+  difficulty: 3
+  question: >-
+    Spot the mistake. Tali has two part-time jobs and gave her full credit points on Form 101 at both
+    employers. What will happen?
+  options:
+    - >-
+      Nothing; points can be used at any number of employers.
+    - >-
+      Both employers will withhold at the maximum rate.
+    - >-
+      The second employer must refund her points at year end.
+    - >-
+      Too little tax is withheld, leading to a bill after the year.
+  correct: 3
+  explanation: >-
+    Points belong to the main employer; using them twice reduces withholding below the tax due, and the
+    difference is assessed later. Tax coordination is the correct tool.
+- id: m25-013
+  module: 25
+  lesson: "25.2"
+  subject: filing-deadline
+  difficulty: 1
+  question: >-
+    By statute, when is an online annual return of an individual with business income due?
+  options:
+    - >-
+      31 January after the tax year.
+    - >-
+      31 May after the tax year.
+    - >-
+      30 April after the tax year.
+    - >-
+      31 December after the tax year.
+  correct: 1
+  explanation: >-
+    Section 132(ב)(1א) sets 31 May for an online self-filed return; the general date is 30 April
+    (s. 132(א)). Extensions are often announced.
+- id: m25-014
+  module: 25
+  lesson: "25.3"
+  subject: vat-rate
+  difficulty: 1
+  question: >-
+    What VAT rate applies to a transaction in Israel in 2026, per the order noted in VAT Law s. 2?
+  options:
+    - >-
+      17%.
+    - >-
+      16%.
+    - >-
+      18%.
+    - >-
+      19%.
+  correct: 2
+  explanation: >-
+    The Wikisource note to s. 2 records the order setting the rate at 18%.
+- id: m25-015
+  module: 25
+  lesson: "25.3"
+  subject: exempt-dealer
+  difficulty: 2
+  question: >-
+    What is the 2026 exempt-dealer ceiling, and what must still be checked?
+  options:
+    - >-
+      ₪122,833; confirm it on the Tax Authority's site.
+    - >-
+      ₪120,000; it has not changed since 2024.
+    - >-
+      ₪150,000; it applies only to new businesses.
+    - >-
+      ₪102,292; it was frozen for 2025–2027.
+  correct: 0
+  explanation: >-
+    The Wikisource note to s. 1 and a press guide give ₪122,833 for 2026; the official Tax Authority notice
+    should be checked.
+- id: m25-016
+  module: 25
+  lesson: "25.3"
+  subject: input-tax
+  difficulty: 2
+  question: >-
+    A licensed dealer holds a tax invoice issued in the name of his brother for a laptop he uses in the
+    business. Can he deduct the input VAT?
+  options:
+    - >-
+      Yes, if he can show the laptop is used in his business.
+    - >-
+      Yes, if his brother confirms in writing that he paid.
+    - >-
+      Only if the invoice has an allocation number.
+    - >-
+      No; the invoice must be issued to him lawfully.
+  correct: 3
+  explanation: >-
+    Section 38(א) allows deduction of input tax included in a tax invoice lawfully issued to the dealer.
+- id: m25-017
+  module: 25
+  lesson: "25.3"
+  subject: vat-reports
+  difficulty: 1
+  question: >-
+    A licensed dealer had no sales in May–June. What does s. 67(ב) require?
+  options:
+    - >-
+      Nothing, because no tax is due.
+    - >-
+      A report within 15 days after the period anyway.
+    - >-
+      A note in the annual income-tax return.
+    - >-
+      A report only if the next period also has no sales.
+  correct: 1
+  explanation: >-
+    The periodic report is due within 15 days after the period even with no activity, unless the business
+    has ceased and the director was notified.
+- id: m25-018
+  module: 25
+  lesson: "25.3"
+  subject: small-business
+  difficulty: 2
+  question: >-
+    Who may use the small-business track of ss. 87ב–87ד?
+  options:
+    - >-
+      Any company with fewer than five employees.
+    - >-
+      Any individual in the first three years of business.
+    - >-
+      A registered resident individual below the exempt ceiling.
+    - >-
+      Any licensed dealer whose expenses exceed 30% of turnover.
+  correct: 2
+  explanation: >-
+    A small-business owner is a resident individual whose turnover does not exceed the exempt-dealer
+    ceiling and who is registered by the assessing officer (s. 87ב); he deducts 30% of turnover.
+- id: m25-019
+  module: 25
+  lesson: "25.3"
+  subject: advances
+  difficulty: 2
+  question: >-
+    A freelancer's income doubled this year, but his advances are still based on two years ago. What is
+    the risk and the fix?
+  options:
+    - >-
+      A balance with interest; ask to update them.
+    - >-
+      Nothing; advances are refunded if they are too low.
+    - >-
+      Loss of his VAT registration; register again.
+    - >-
+      A criminal charge; stop paying advances until assessed.
+  correct: 0
+  explanation: >-
+    Advances on an old base leave a balance that carries linkage and interest (s. 190); the assessing
+    officer can update the advances.
+- id: m25-020
+  module: 25
+  lesson: "25.3"
+  subject: vat-objection
+  difficulty: 3
+  question: >-
+    Bar-exam style. A VAT objection was filed on 1 February 2025. The director has not decided by
+    3 February 2026. What is the legal position?
+  options:
+    - >-
+      The director may decide at any time within four years.
+    - >-
+      The dealer must appeal to the District Court to avoid losing.
+    - >-
+      The objection lapses and the assessment becomes final.
+    - >-
+      The objection is treated as accepted.
+  correct: 3
+  explanation: >-
+    Under VAT Law s. 82(ד), if the director does not decide within a year of the objection, it is treated
+    as accepted.
+- id: m25-021
+  module: 25
+  lesson: "25.3"
+  subject: vat-offences
+  difficulty: 2
+  question: >-
+    What is the maximum sentence for a VAT offence committed with intent to evade tax, without aggravated
+    circumstances?
+  options:
+    - >-
+      One year.
+    - >-
+      Five years.
+    - >-
+      Seven years.
+    - >-
+      Ten years.
+  correct: 1
+  explanation: >-
+    VAT Law s. 117(ב): five years; aggravated circumstances raise it to seven (s. 117(ב2)).
+- id: m25-022
+  module: 25
+  lesson: "25.4"
+  subject: refund-window
+  difficulty: 1
+  question: >-
+    Under s. 160(א), what is the deadline for the report of a year in which tax was overpaid?
+  options:
+    - >-
+      Three years after the end of the year.
+    - >-
+      Four years after the end of the year.
+    - >-
+      Six years after the end of the year.
+    - >-
+      Seven years after the end of the year.
+  correct: 2
+  explanation: >-
+    The report must be filed no later than six years after the end of the tax year.
+- id: m25-023
+  module: 25
+  lesson: "25.4"
+  subject: refund-route
+  difficulty: 2
+  question: >-
+    Maya had salary and foreign bank balances above the reg. 3 threshold in 2024. She overpaid tax. How
+    does she claim?
+  options:
+    - >-
+      In an annual return, as a required filer.
+    - >-
+      With Form 135, because she is salaried.
+    - >-
+      By asking her bank to refund the tax.
+    - >-
+      Through her employer's payroll in the next year.
+  correct: 0
+  explanation: >-
+    The foreign-balance exclusion in reg. 3 makes her a required filer, so the refund is claimed in the
+    annual return.
+- id: m25-024
+  module: 25
+  lesson: "25.4"
+  subject: refund-timing
+  difficulty: 2
+  question: >-
+    A return based on proper documents filed on 1 March shows an overpayment. When must it be refunded
+    under s. 159א(ב)?
+  options:
+    - >-
+      Within 30 days of filing.
+    - >-
+      By 31 December of the filing year.
+    - >-
+      Within six months of filing.
+    - >-
+      90 days or 31 July, if later.
+  correct: 3
+  explanation: >-
+    Section 159א(ב) sets 90 days from filing or 31 July of the year after the tax year, whichever is
+    later, with linkage and interest.
+- id: m25-025
+  module: 25
+  lesson: "25.4"
+  subject: refund-signs
+  difficulty: 1
+  question: >-
+    Which situation most often signals an employee overpaid tax?
+  options:
+    - >-
+      He received a salary rise in January.
+    - >-
+      He worked only part of the year.
+    - >-
+      He took annual leave in the summer.
+    - >-
+      His employer moved offices.
+  correct: 1
+  explanation: >-
+    Monthly withholding assumes a full year's salary; partial years usually lead to overpayment.
+- id: m25-026
+  module: 25
+  lesson: "25.4"
+  subject: non-filer
+  difficulty: 3
+  question: >-
+    Rafi had unreported business income in 2021 and never filed, though he had to. He asks for a refund of
+    tax withheld from his salary that year. What does s. 160(ב) require?
+  options:
+    - >-
+      Nothing; withholding is always refunded on request.
+    - >-
+      A guarantee from a bank for any tax later assessed.
+    - >-
+      Proof that his failure was not fraud or wilful default.
+    - >-
+      Payment of a composition fine before any refund.
+  correct: 2
+  explanation: >-
+    A person who did not file when required gets a refund only if he proves the failure did not stem from
+    fraud or a wilful act or omission.
+- id: m25-027
+  module: 25
+  lesson: "25.4"
+  subject: reservists
+  difficulty: 2
+  question: >-
+    What does s. 39ב give a combat reservist?
+  options:
+    - >-
+      Points the next year, by days served.
+    - >-
+      A tax exemption on all reserve-duty pay.
+    - >-
+      A one-time grant paid by the Tax Authority.
+    - >-
+      A deduction of reserve-duty days from taxable income.
+  correct: 0
+  explanation: >-
+    Section 39ב gives points in the tax year after the service according to days served, capped at four;
+    a temporary scale applies in 2026–2027.
+- id: m25-028
+  module: 25
+  lesson: "25.4"
+  subject: refund-interest
+  difficulty: 2
+  question: >-
+    What interest rate is added to the index in "linkage differences and interest" under s. 159א(א)?
+  options:
+    - >-
+      Prime plus 2%.
+    - >-
+      8% a year.
+    - >-
+      Bank of Israel rate.
+    - >-
+      4% a year.
+  correct: 3
+  explanation: >-
+    The definition adds 4% a year to the index-linked amount (the rate under the Taxes (Change of Interest
+    Rate) Order).
+- id: m25-029
+  module: 25
+  lesson: "25.5"
+  subject: assessment
+  difficulty: 1
+  question: >-
+    How long does the assessing officer have to examine a self-assessment (a filed return)?
+  options:
+    - >-
+      Three years from the filing date.
+    - >-
+      Four years from the end of the filing year.
+    - >-
+      Six years from the end of the tax year concerned.
+    - >-
+      Unlimited time, if he has reasonable grounds.
+  correct: 1
+  explanation: >-
+    Section 145(א)(2): four years from the end of the tax year in which the return was filed.
+- id: m25-030
+  module: 25
+  lesson: "25.5"
+  subject: hearing
+  difficulty: 2
+  question: >-
+    Shira, who filed a return, received a best-judgment assessment without ever being invited to state her
+    case. Which section does she rely on?
+  options:
+    - >-
+      Section 145(ב), which allows assessment without a return.
+    - >-
+      Section 236, which allows representation by accountants.
+    - >-
+      Section 158א, requiring a reasonable opportunity to be heard.
+    - >-
+      Section 160, which governs refunds after assessment.
+  correct: 2
+  explanation: >-
+    Section 158א(א) bars a best-judgment assessment without a reasonable opportunity to be heard, for a
+    person who filed a return.
+- id: m25-031
+  module: 25
+  lesson: "25.5"
+  subject: objection
+  difficulty: 2
+  question: >-
+    Danny was abroad for work when an assessment arrived and returned after 40 days. What can he do?
+  options:
+    - >-
+      Ask the officer for an extension.
+    - >-
+      Nothing; the 30 days are absolute.
+    - >-
+      Appeal directly to the District Court instead.
+    - >-
+      File a new return for the year to reopen it.
+  correct: 0
+  explanation: >-
+    Section 150(א) allows the officer to extend the time if the taxpayer was abroad, ill or had another
+    reasonable cause.
+- id: m25-032
+  module: 25
+  lesson: "25.5"
+  subject: deemed-acceptance
+  difficulty: 3
+  question: >-
+    Bar-exam style. A return for 2023 was filed in 2024; an objection was filed on 1 June 2028. By when
+    must the officer reach agreement or issue an order?
+  options:
+    - >-
+      By 1 June 2029, one year from the objection.
+    - >-
+      By the end of 2028, four years from the end of 2024.
+    - >-
+      By the end of 2029, five years from the end of 2024.
+    - >-
+      By 1 June 2029, the later of the two limits.
+  correct: 3
+  explanation: >-
+    Section 152(ג) uses the later of four years from the end of the year the return was filed (end 2028)
+    and one year from the objection (1 June 2029): 1 June 2029.
+- id: m25-033
+  module: 25
+  lesson: "25.5"
+  subject: appeal
+  difficulty: 1
+  question: >-
+    Where is an appeal against an income-tax order heard, and how?
+  options:
+    - >-
+      In the Magistrates' Court, in public.
+    - >-
+      In the District Court, in private.
+    - >-
+      Before an appeals committee chaired by a judge.
+    - >-
+      In the Supreme Court, as a first instance.
+  correct: 1
+  explanation: >-
+    Sections 153 and 154(ג): the District Court of the officer's district, behind closed doors unless the
+    appellant asks otherwise.
+- id: m25-034
+  module: 25
+  lesson: "25.5"
+  subject: appeal-procedure
+  difficulty: 2
+  question: >-
+    After a tax appeal is filed, who files the first statement of grounds, and when?
+  options:
+    - >-
+      The appellant, within 15 days of filing.
+    - >-
+      The court, by fixing a pre-trial date.
+    - >-
+      The assessing officer, within 30 days.
+    - >-
+      Both parties together, within 60 days.
+  correct: 2
+  explanation: >-
+    Reg. 5(א): the respondent files the grounds of assessment within 30 days; the appellant then files the
+    grounds of appeal within 30 days (reg. 5(ג)).
+- id: m25-035
+  module: 25
+  lesson: "25.5"
+  subject: representation
+  difficulty: 1
+  question: >-
+    Who may represent a taxpayer before the assessing officer under s. 236?
+  options:
+    - >-
+      Any family member with a power of attorney.
+    - >-
+      Any bookkeeper the taxpayer employs.
+    - >-
+      Only a lawyer.
+    - >-
+      An accountant, tax adviser or lawyer.
+  correct: 3
+  explanation: >-
+    Section 236 lists accountants and representing tax advisers (and others) and preserves lawyers' rights.
+- id: m25-036
+  module: 25
+  lesson: "25.5"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. Ofra's objection, filed on day 25, reads: "I object to the assessment and ask you to
+    cancel it." What is missing?
+  options:
+    - >-
+      Exact grounds with evidence.
+    - >-
+      A lawyer's signature, required in income-tax objections.
+    - >-
+      A copy sent to the District Court.
+    - >-
+      Payment of the full assessed tax.
+  correct: 0
+  explanation: >-
+    Section 150(א) requires the objection to set out its grounds exactly; a bare request is liable to be
+    rejected.
+- id: m25-037
+  module: 25
+  lesson: "25.6"
+  subject: purchase-tax
+  difficulty: 1
+  question: >-
+    Who pays purchase tax on the sale of a right in land?
+  options:
+    - >-
+      The seller.
+    - >-
+      The buyer.
+    - >-
+      The seller and buyer equally.
+    - >-
+      The local authority.
+  correct: 1
+  explanation: >-
+    Section 9(א): the buyer is liable for purchase tax.
+- id: m25-038
+  module: 25
+  lesson: "25.6"
+  subject: purchase-tax
+  difficulty: 1
+  question: >-
+    What is the purchase-tax rate on buying a shop (not a residential apartment)?
+  options:
+    - >-
+      8%.
+    - >-
+      3.5%.
+    - >-
+      6%.
+    - >-
+      5%.
+  correct: 2
+  explanation: >-
+    Purchase Tax Regulations reg. 2(1): 6% for land other than a residential apartment.
+- id: m25-039
+  module: 25
+  lesson: "25.6"
+  subject: purchase-tax
+  difficulty: 2
+  question: >-
+    A single-apartment buyer pays ₪2,300,000 in 2026. Roughly how much purchase tax is due?
+  options:
+    - >-
+      About ₪11,240 (3.5% on the slice above ₪1,978,745).
+    - >-
+      About ₪80,500 (3.5% on the whole price).
+    - >-
+      About ₪184,000 (8% on the whole price).
+    - >-
+      Nothing, because single apartments are exempt.
+  correct: 0
+  explanation: >-
+    3.5% × (₪2,300,000 − ₪1,978,745) = ₪11,244; the price is below the 5% slice.
+- id: m25-040
+  module: 25
+  lesson: "25.6"
+  subject: buyer-unit
+  difficulty: 2
+  question: >-
+    Which of these is NOT part of the "one buyer" unit in s. 9(ג1ג)(4)(ג)?
+  options:
+    - >-
+      The buyer's spouse living with him.
+    - >-
+      The couple's unmarried 15-year-old.
+    - >-
+      The buyer himself.
+    - >-
+      The couple's married 17-year-old.
+  correct: 3
+  explanation: >-
+    Minor children are included except a married child or an orphaned child; a spouse living permanently
+    apart is also excluded.
+- id: m25-041
+  module: 25
+  lesson: "25.6"
+  subject: replacement
+  difficulty: 3
+  question: >-
+    Elad buys a new apartment from a contractor; delivery is due on 1 March 2027 and happens on time. By
+    when must he sell his old apartment to keep the single-apartment scale?
+  options:
+    - >-
+      Within 24 months of the contract.
+    - >-
+      Within 12 months of due delivery.
+    - >-
+      Before he receives the keys.
+    - >-
+      Within 18 months of the contract.
+  correct: 1
+  explanation: >-
+    For a purchase from a contractor the old apartment must be sold within 12 months from when possession
+    was due under the contract (s. 9(ג1ג)(2)(ב)).
+- id: m25-042
+  module: 25
+  lesson: "25.6"
+  subject: reliefs
+  difficulty: 2
+  question: >-
+    A father gives his apartment, without consideration, to his son. What purchase tax does the son pay?
+  options:
+    - >-
+      The full tax on the market value.
+    - >-
+      No tax, because it is a gift.
+    - >-
+      One third of the regular purchase tax.
+    - >-
+      Half of the regular purchase tax.
+  correct: 2
+  explanation: >-
+    Reg. 20 of the Purchase Tax Regulations: a sale without consideration to a relative pays one third of
+    the regular tax.
+- id: m25-043
+  module: 25
+  lesson: "25.6"
+  subject: procedure
+  difficulty: 2
+  question: >-
+    What happens if a buyer files his declaration three months late?
+  options:
+    - >-
+      A fine for each two weeks of delay.
+    - >-
+      The purchase is void.
+    - >-
+      The buyer loses the single-apartment scale.
+    - >-
+      Nothing, if the tax was paid.
+  correct: 0
+  explanation: >-
+    Section 94א imposes a fine for every two weeks of delay (₪310 in 2026 per the Wikisource note); the
+    director may waive it for justified reasons.
+- id: m25-044
+  module: 25
+  lesson: "25.6"
+  subject: appeals-committee
+  difficulty: 3
+  question: >-
+    Bar-exam style. Which statement about the real-estate taxation appeals committee is correct?
+  options:
+    - >-
+      It hears appeals from the District Court in tax matters.
+    - >-
+      It may review only points of law.
+    - >-
+      Its members are all judges.
+    - >-
+      It may review discretionary decisions.
+  correct: 3
+  explanation: >-
+    Sections 88–89: a committee of three chaired by a judge, with at least one public representative; it
+    may decide any matter within the director's discretion. Appeal from it is on law only (s. 90).
+- id: m25-045
+  module: 25
+  lesson: "25.6"
+  subject: temporary-scale
+  difficulty: 2
+  question: >-
+    Until when does the 8%/10% temporary scale for residential purchases that are not a single apartment
+    apply, per the Wikisource note?
+  options:
+    - >-
+      31 December 2025.
+    - >-
+      31 December 2026.
+    - >-
+      15 January 2027.
+    - >-
+      31 December 2027.
+  correct: 1
+  explanation: >-
+    Section 9(ג1ו) was extended to 31.12.2026 by order; a further extension of up to two years is possible.
+- id: m25-046
+  module: 25
+  lesson: "25.6"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. A buyer's worksheet says: "My wife owns a flat in Eilat, but it is in her name, so
+    I buy as a single-apartment buyer." What is wrong?
+  options:
+    - >-
+      Nothing; ownership is personal.
+    - >-
+      The Eilat flat counts only if it is let.
+    - >-
+      Spouses count as one buyer.
+    - >-
+      Flats in Eilat are disregarded for purchase tax.
+  correct: 2
+  explanation: >-
+    Under s. 9(ג1ג)(4)(ג) the buyer and spouse (unless permanently apart) are one buyer, so her flat counts.
+- id: m25-047
+  module: 25
+  lesson: "25.7"
+  subject: appreciation-tax
+  difficulty: 1
+  question: >-
+    What is the maximum appreciation-tax rate for an individual on the real gain accrued after
+    1.1.2012?
+  options:
+    - >-
+      25%.
+    - >-
+      20%.
+    - >-
+      47%.
+    - >-
+      30%.
+  correct: 0
+  explanation: >-
+    Section 48א(ב)(1): up to 25%; 30% applies to a substantial shareholder in a real-estate association.
+- id: m25-048
+  module: 25
+  lesson: "25.7"
+  subject: exemption
+  difficulty: 2
+  question: >-
+    Rina bought her only apartment 14 months ago and is selling it. Can she use s. 49ב(2)?
+  options:
+    - >-
+      Yes; any single apartment is exempt.
+    - >-
+      Yes, if the price is below the ceiling.
+    - >-
+      Only if she buys another apartment within a year.
+    - >-
+      No; she has not owned it 18 months.
+  correct: 3
+  explanation: >-
+    Section 49ב(2) requires ownership for at least 18 months from the day it became a residential
+    apartment.
+- id: m25-049
+  module: 25
+  lesson: "25.7"
+  subject: qualifying-apartment
+  difficulty: 2
+  question: >-
+    What makes an apartment a "qualifying residential apartment" under s. 49(א)?
+  options:
+    - >-
+      It is registered in the Land Registry.
+    - >-
+      Mainly lived in for ⅘ of the period.
+    - >-
+      It is the seller's registered address.
+    - >-
+      It was bought from a contractor.
+  correct: 1
+  explanation: >-
+    Section 49(א): mainly used for residence during at least ⅘ of the gain period or the four years before
+    the sale; unused periods count as residential.
+- id: m25-050
+  module: 25
+  lesson: "25.7"
+  subject: ceiling
+  difficulty: 2
+  question: >-
+    Why is the 2026 single-apartment exemption ceiling ₪5,008,000, the same as the 2025 figure?
+  options:
+    - >-
+      The ceiling has never been linked to the index.
+    - >-
+      The Tax Authority forgot to publish an update.
+    - >-
+      Indexation is suspended for 2025–2027 by s. 49א(א1).
+    - >-
+      The ceiling applies only to new apartments.
+  correct: 2
+  explanation: >-
+    Section 49א(א1) adjusts the amount every year except 2025 to 2027.
+- id: m25-051
+  module: 25
+  lesson: "25.7"
+  subject: presumptions
+  difficulty: 3
+  question: >-
+    Bar-exam style. Which second apartment does NOT keep the sold apartment a "single apartment" under
+    s. 49ג?
+  options:
+    - >-
+      A half share of an apartment bought with a sibling.
+    - >-
+      An apartment under protected tenancy let before 1997.
+    - >-
+      A replacement apartment bought 20 months before the sale.
+    - >-
+      A third of an inherited apartment.
+  correct: 0
+  explanation: >-
+    A purchased share counts only up to a third (s. 49ג(3)); half is allowed only for inherited apartments.
+- id: m25-052
+  module: 25
+  lesson: "25.7"
+  subject: inheritance
+  difficulty: 2
+  question: >-
+    Under s. 49ב(5), which heir may NOT sell the deceased's only apartment exempt?
+  options:
+    - >-
+      The deceased's widow.
+    - >-
+      The deceased's granddaughter.
+    - >-
+      The husband of the deceased's daughter.
+    - >-
+      The deceased's brother.
+  correct: 3
+  explanation: >-
+    The exemption is for the spouse, a descendant or a descendant's spouse; a sibling is not listed.
+- id: m25-053
+  module: 25
+  lesson: "25.7"
+  subject: combination-deal
+  difficulty: 3
+  question: >-
+    In a combination deal, the director added 15% "developer's profit" to the value of construction
+    services received by the landowners. What did the Supreme Court hold in Yekutieli?
+  options:
+    - >-
+      The addition is required in every combination deal.
+    - >-
+      The addition was rejected as contrary to established case law.
+    - >-
+      Combination deals are exempt from appreciation tax.
+    - >-
+      Only the appeals committee may value construction services.
+  correct: 1
+  explanation: >-
+    The court accepted the landowners' appeal and held that adding developer's profit undermined
+    established case law (ע״א 6672/19, as summarised in secondary sources).
+- id: m25-054
+  module: 25
+  lesson: "25.7"
+  subject: procedure
+  difficulty: 1
+  question: >-
+    How does a seller claim the single-apartment exemption?
+  options:
+    - >-
+      It is granted automatically after registration.
+    - >-
+      By a letter to the Land Registry.
+    - >-
+      By requesting it in the declaration.
+    - >-
+      By filing an annual income-tax return.
+  correct: 2
+  explanation: >-
+    Section 49א(א) requires a request at the time of the declaration under s. 73, due within 30 days.
+- id: m25-055
+  module: 25
+  lesson: "25.8"
+  subject: fines
+  difficulty: 1
+  question: >-
+    What is added to income tax paid late?
+  options:
+    - >-
+      Linkage plus 4% a year.
+    - >-
+      A fixed 10% surcharge.
+    - >-
+      Nothing, if paid within a year.
+    - >-
+      Double the unpaid amount.
+  correct: 0
+  explanation: >-
+    Linkage differences and interest under s. 159א(א), applied by s. 190 and other sections.
+- id: m25-056
+  module: 25
+  lesson: "25.8"
+  subject: offences
+  difficulty: 2
+  question: >-
+    What is the limitation period for prosecuting an offence under s. 220 (wilful evasion)?
+  options:
+    - >-
+      Three years from the tax year.
+    - >-
+      Six years from the tax year.
+    - >-
+      Seven years from discovery.
+    - >-
+      Ten years from that tax year.
+  correct: 3
+  explanation: >-
+    Section 225: six years generally, ten years for s. 220.
+- id: m25-057
+  module: 25
+  lesson: "25.8"
+  subject: composition
+  difficulty: 2
+  question: >-
+    Which statement about a composition fine under s. 221 is correct?
+  options:
+    - >-
+      It is imposed by a court after conviction.
+    - >-
+      It needs consent and ends the case.
+    - >-
+      It applies only to VAT offences.
+    - >-
+      It is automatic whenever tax is underpaid.
+  correct: 1
+  explanation: >-
+    The Director may take a composition fine with the person's consent for offences under ss. 215–220, and
+    the proceedings stop.
+- id: m25-058
+  module: 25
+  lesson: "25.8"
+  subject: voluntary-disclosure
+  difficulty: 2
+  question: >-
+    What is the legal basis of voluntary disclosure in Israeli tax law?
+  options:
+    - >-
+      A section of the Income Tax Ordinance granting immunity.
+    - >-
+      A Supreme Court ruling binding the Tax Authority.
+    - >-
+      A Tax Authority procedure approved by the AG.
+    - >-
+      An international treaty on tax transparency.
+  correct: 2
+  explanation: >-
+    It is a procedure, not a statute; the 2025 version ran until 31.8.2026, and its successor must be
+    checked.
+- id: m25-059
+  module: 25
+  lesson: "25.8"
+  subject: illegal-income
+  difficulty: 3
+  question: >-
+    Bar-exam style. An embezzler repays stolen money three years after taking it. Under Damari, how is
+    the repayment treated?
+  options:
+    - >-
+      As an expense in the year it is repaid.
+    - >-
+      As cancelling the income retroactively for the year of the theft.
+    - >-
+      As irrelevant, because illegal income is not taxable.
+    - >-
+      As a credit equal to 35% of the amount repaid.
+  correct: 0
+  explanation: >-
+    The money is income in the year taken; repayment is an expense in the year of repayment and later
+    years; the further hearing ruled out carrying it back.
+- id: m25-060
+  module: 25
+  lesson: "25.8"
+  subject: deficiency-fine
+  difficulty: 2
+  question: >-
+    When is the 15% deficiency fine of s. 191(ב) imposed?
+  options:
+    - >-
+      On any difference between reported and assessed tax.
+    - >-
+      Only after a criminal conviction.
+    - >-
+      Only for companies.
+    - >-
+      Deficiency over half the tax, negligence.
+  correct: 3
+  explanation: >-
+    The fine applies where the deficiency exceeds 50% of the tax due and the taxpayer does not show he
+    was not negligent.
+- id: m25-061
+  module: 25
+  lesson: "25.9"
+  subject: work-grant
+  difficulty: 1
+  question: >-
+    Who pays the work grant (מענק עבודה)?
+  options:
+    - >-
+      The National Insurance Institute.
+    - >-
+      The Tax Authority, on application.
+    - >-
+      The employer, through payroll.
+    - >-
+      The local authority's welfare department.
+  correct: 1
+  explanation: >-
+    The grant is paid by the Tax Authority after the year, on the worker's application.
+- id: m25-062
+  module: 25
+  lesson: "25.9"
+  subject: work-grant
+  difficulty: 2
+  question: >-
+    Why does the work grant complement credit points?
+  options:
+    - >-
+      It replaces credit points for all parents.
+    - >-
+      It is a credit that reduces the tax of high earners.
+    - >-
+      It reaches earners too poor to use points.
+    - >-
+      It refunds VAT paid by low-income families.
+  correct: 2
+  explanation: >-
+    Unused credit points are lost; the grant pays low-income workers who gain nothing from points.
+- id: m25-063
+  module: 25
+  lesson: "25.9"
+  subject: nii-deduction
+  difficulty: 2
+  question: >-
+    What share of NII contributions and health tax paid on non-employment income may an individual deduct
+    under s. 47א?
+  options:
+    - >-
+      52%.
+    - >-
+      35%.
+    - >-
+      25%.
+    - >-
+      100%.
+  correct: 0
+  explanation: >-
+    Section 47א(א) allows a deduction of 52% of the amount paid.
+- id: m25-064
+  module: 25
+  lesson: "25.9"
+  subject: benefits-tax
+  difficulty: 2
+  question: >-
+    Which NII payment is a common source of a tax refund because tax is withheld from it?
+  options:
+    - >-
+      The child allowance.
+    - >-
+      A one-time birth grant.
+    - >-
+      A mobility allowance.
+    - >-
+      Unemployment benefit.
+  correct: 3
+  explanation: >-
+    Wage-replacing benefits like unemployment and maternity pay are taxable with withholding, often too
+    high for a partial year.
+- id: m25-065
+  module: 25
+  lesson: "25.10"
+  subject: refund-file
+  difficulty: 3
+  question: >-
+    Spot the mistake. A refund computation adds both Forms 106 to income but leaves out the NII
+    certificate showing unemployment benefit and tax withheld. What is the effect?
+  options:
+    - >-
+      None; NII benefits are outside the computation.
+    - >-
+      Income and withholding are both understated.
+    - >-
+      The refund will be paid by the NII instead.
+    - >-
+      The year is treated as one requiring a full return.
+  correct: 1
+  explanation: >-
+    The benefit is taxable income and its withholding counts toward the total; leaving both out distorts
+    the computation.
+- id: m25-066
+  module: 25
+  lesson: "25.11"
+  subject: objection
+  difficulty: 3
+  question: >-
+    Which forum is correct? A buyer's objection to a purchase-tax assessment was rejected, and he thinks
+    the director misread s. 49ג(3).
+  options:
+    - >-
+      An appeal to the District Court within 30 days.
+    - >-
+      An administrative petition within 45 days.
+    - >-
+      An appeal (ערר) to the appeals committee within 30 days.
+    - >-
+      An appeal to the Supreme Court within 45 days.
+  correct: 2
+  explanation: >-
+    Section 88 sends appeals from the director's decision to the appeals committee within 30 days; the
+    Supreme Court hears appeals from the committee on law (s. 90).

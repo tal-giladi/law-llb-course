@@ -73,6 +73,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בית משפט לתביעות קטנות** (Beit mishpat letvi'ot ktanot) — Small claims court.
 - **בעל דין** (ba'al din) — party to legal proceedings, litigant.
 - **בעל דין שאינו מיוצג** (ba'al din she-eino meyutzag) — self-represented (unrepresented) party.
+- **בעל עסק זעיר** (ba'al esek za'ir) — Small-business owner who may deduct 30% of turnover as deemed expenses (ITO ss. 87ב–87ד).
 - **בעל שיחה** (Ba'al sicha) — Party to a conversation (the speaker or the person it is addressed to).
 - **בעל שליטה** (Ba'al shlita) — Controlling shareholder.
 - **בעלות** (Ba'alut) — Ownership: the right to possess, use and deal with property (Land Law s. 2; Movable Property Law s. 2).
@@ -89,6 +90,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **גוש / חלקה / תת־חלקה** (Gush / helka / tat-helka) — Block / parcel / sub-parcel (a flat in a condominium).
 - **גזל** (Gezel) — Conversion of goods (s. 52).
 - **גזר דין** (Gzar din) — Sentence.
+- **גילוי מרצון** (giluy meratzon) — Voluntary disclosure: a Tax Authority procedure for coming forward before an investigation.
 - **גישור** (Gishur) — Mediation: a mediator helps the parties agree, without power to decide (Courts Law s. 79ג).
 - **גלגול שלישי** (Gilgul shlishi) — Third instance; leave given only for issues beyond the parties (Haniyon Haifa).
 - **גמול שעות נוספות** (Gmul sha'ot nosafot) — Overtime premium: 125% for the first two daily overtime hours, 150% after.
@@ -118,8 +120,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דיני נזיקין** (Dinei nezikin) — Tort law.
 - **דיני עונשין** (Dinei onshin) — Criminal law.
 - **דיני ראיות** (dinei re'ayot) — Evidence law: the rules on who may testify, what the court may receive, what it proves and who must prove it.
+- **דירה יחידה** (dira yehida) — Single (only) apartment, entitled to reduced purchase-tax brackets and to the appreciation-tax exemption.
 - **דירה ראויה למגורים** (Dira re'uya le-megurim) — Habitable apartment under the First Schedule to the Rental and Borrowing Law.
 - **דירקטוריון** (Direktoryon) — Board of directors.
+- **דירת מגורים מזכה** (dirat megurim mezaka) — Qualifying residential apartment for the appreciation-tax exemption (Real Estate Taxation Law s. 49).
 - **דלתיים סגורות** (dlatayim sgurot) — Closed doors (in camera); family matters are heard so by default (Courts Law s. 68(ה)).
 - **דמוקרטיה מתגוננת** (Demokratya mitgonenet) — Defensive (militant) democracy, which may bar those who seek to destroy it.
 - **דמי אבטלה** (Dmei avtala) — Unemployment benefit.
@@ -182,6 +186,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **היתר פיטורים** (Heter piturim) — Ministerial permit needed to dismiss a pregnant employee or one after maternity leave or in fertility treatment.
 - **הכחשה מפורשת ומפורטת** (Hakchasha meforeshet umefuretet) — Express and detailed denial required to avoid deemed admission (reg. 14(ב)).
 - **הכנה** (Hakhana) — Preparation, not punishable by itself.
+- **הכנסה הונית / פירותית** (hachnasa honit / perotit) — Capital versus revenue income; distinguished by the Magid indications.
+- **הכנסה מיגיעה אישית** (hachnasa mi-yegi'a ishit) — Income from personal exertion, taxed on the lower brackets of ITO s. 121.
 - **הכרה** (Hakara) — Recognition of a State or government by another State; a political act with legal effects.
 - **הכרזה על בטלות** (Hakhraza al batlut) — Declaration of invalidity of a statutory provision.
 - **הכרעה על יסוד הכתב** (Hachra'a al yesod haktav) — Decision on the written record (small claims reg. 13(ג)).
@@ -278,10 +284,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ועדת השרים לענייני חקיקה** (Va'adat ha-sarim le-inyenei hakika) — Ministerial Committee for Legislation, which decides the Government's position on bills.
 - **ועדת חריגים** (va'adat charigim) — Exceptions committee (e.g. for rent assistance outside the rules).
 - **ועדת מכרזים** (Va'adat michrazim) — Tender committee.
+- **ועדת ערר (מיסוי מקרקעין)** (va'adat arar) — Real-estate taxation appeals committee chaired by a judge (Real Estate Taxation Law ss. 88–89).
 - **ועדת ערר (שירותי הסעד)** (va'adat arar) — Welfare appeals committee hearing appeals against municipal social services departments (Welfare Services Law s. 2).
 - **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
 - **זוכה** (Zocheh) — Judgment creditor in an execution file.
 - **זוכה על פי צוואה** (zokhe al pi tzava'a) — Beneficiary under a will.
+- **זיכוי / ניכוי** (zikui / nikui) — Credit (reduces the tax) / deduction (reduces taxable income).
 - **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
 - **זיקת הנאה** (Zikat hana'a) — Easement: a burden on land for a benefit without possession (Land Law s. 5); acquired also by 30 years of use (s. 94).
 - **זכויות קוגנטיות** (Zchuyot kognetiviyot) — Cogent labour rights that cannot be waived by contract.
@@ -361,6 +369,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חתימת קיום** (Hatimat kiyum) — Ministerial countersignature required for most of the President's official acts.
 - **טובת הכלל** (Tovat ha-klal) — The common good, the end that a just law serves (Aquinas, Finnis).
 - **טוען רבני** (to'en rabani) — licensed rabbinical pleader, who may represent parties in rabbinical courts.
+- **טופס 101** (tofes 101) — Employee's card on which the employer bases tax withholding and credit points.
+- **טופס 106** (tofes 106) — Employer's annual certificate of salary and tax withheld.
+- **טופס 135** (tofes 135) — Refund request of an individual not required to file an annual return.
 - **טיוטת כתב אישום** (tyutat ktav ishum) — Draft indictment prepared before a conditional arrangement (CPL s. 67ב).
 - **טעות** (ta'ut) — mistake (s. 14).
 - **טעות במצב דברים** (Ta'ut be-matzav dvarim) — Mistake of fact (s. 34יח).
@@ -391,6 +402,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **כוונה** (Kavana) — Intent (purpose) to bring about a result.
 - **כונס נכסים זמני** (Kones nechasim zmani) — Temporary receiver (regs 111–122).
 - **כופין על מידת סדום** (Kofin al midat sdom) — One is compelled not to refuse a benefit that costs one nothing.
+- **כופר כסף** (kofer kesef) — Composition fine that ends criminal proceedings with the person's consent (ITO s. 221).
 - **כורח** (Korah) — Duress (s. 34יב).
 - **כליאת שווא** (Kli'at shav) — False imprisonment (s. 26).
 - **כלכלה התנהגותית** (Kalkala hitnahagutit) — Behavioural economics: the study of systematic departures from rational choice.
@@ -465,26 +477,35 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מנהל עיזבון** (menahel izavon) — Estate administrator appointed by the court or, by consent, the Registrar (s. 78).
 - **מנוחה שבועית** (Menuha shvu'it) — Weekly rest of at least 36 consecutive hours.
 - **מניין חוקי** (Minyan hukki) — Quorum.
+- **מס יתר** (mas yeter) — Overpaid tax, refundable with linkage and interest (ITO ss. 159א, 160).
+- **מס רכישה** (mas rechisha) — Purchase tax paid by the buyer of a right in land (Real Estate Taxation Law s. 9).
+- **מס שבח מקרקעין** (mas shevah mekarke'in) — Land appreciation tax on the real gain from selling land.
+- **מס תשומות / מס עסקאות** (mas tsumot / mas iska'ot) — Input tax / output tax in VAT.
 - **מסוימות** (mesuyamut) — certainty (definiteness) of the essential terms.
 - **מסייע** (Mesaye'a) — Accessory (aider) (s. 31).
 - **מסירה חלקית** (Mesira helkit) — Partial disclosure with exempt parts removed (FOI Law s. 11).
 - **מסך הבערות** (Masakh ha-ba'arut) — Veil of ignorance (Rawls): choosing principles of justice without knowing one's place in society.
 - **מסלול** (maslul) — Track: the route a matter must take (internal step, forum, appeal), which sets its deadlines.
 - **מסלול מקוצר** (Maslul mekutzar) — Short track for small money debts in the Execution Office (s. 20ב).
+- **מספר הקצאה** (mispar haktza'a) — Allocation number required on large tax invoices for the buyer to deduct input VAT (VAT Law s. 38(א1)).
 - **מעוול** (Me'avel) — Tortfeasor, wrongdoer.
 - **מעוולים יחד** (Me'avlim yachad) — Joint tortfeasors, liable jointly and severally (s. 11).
 - **מעין צוואה** (Me'ein tzava'a) — Quasi-will: a surviving cohabitant's statutory inheritance under Succession Law s. 55.
 - **מען להמצאת כתבי בי־דין** (ma'an le-hamtza'at kitvei bi-din) — Address for service; for a self-represented party, the home address.
+- **מענק עבודה** (ma'anak avoda) — Work grant ("negative income tax") paid by the Tax Authority to low-income workers on application.
 - **מעסיק בפועל** (Ma'asik ba-po'al) — Actual (user) employer of a manpower-agency worker.
 - **מעצר בפיקוח אלקטרוני** (ma'atzar befikuach elektroni) — Electronically monitored detention, with the defendant's consent (Arrests Law s. 22ב).
 - **מעצר ימים** (ma'atzar yamim) — Remand before indictment to complete the investigation, up to 15 days per order (Arrests Law ss. 13, 17).
 - **מעצר עד תום ההליכים** (ma'atzar ad tom hahalichim) — Detention until the end of proceedings after an indictment (Arrests Law s. 21).
 - **מפרט** (Mifrat) — The statutory specification a developer must attach to a sale contract (Sale (Apartments) Law ss. 2–3).
 - **מפת דרכים** (Mapat drachim) — Roadmap: the passage at the end of an introduction that says what each part of the paper does.
+- **מקדמות** (mikdamot) — Advance payments of income tax during the year (ITO s. 175).
 - **מקום שיפוט / סמכות מקומית** (Mekom shiput / samchut mekomit) — Venue: which district a claim is filed in (regs 7–8).
+- **מקור הכנסה** (makor hachnasa) — Source of income: one of the categories in ITO s. 2 (business, employment, dividends and interest, rent, etc.).
 - **מקרה קשה** (Mikre kashe) — Hard case, where the rules do not clearly decide the outcome.
 - **מקרקעין** (Mekarke'in) — Land, including everything built, planted or permanently attached to it, except separable attachments (Land Law s. 1).
 - **מקרקעין מוסדרים** (Mekarke'in musdarim) — Settled land, registered after settlement of title; the register is conclusive for it (Land Law s. 125).
+- **מרכז חיים** (merkaz hayim) — Centre of life: the residency test based on family, economic and social ties, with rebuttable day-count presumptions (ITO s. 1).
 - **מרכז מידע טלפוני** (Merkaz meida telefoni) — The Judiciary's telephone information centre.
 - **מרכיבי היסוד** (markivei ha-yesod) — The "basic elements" of each will form, required before a defect can be cured (s. 25(ב)).
 - **מרקם פתוח** (Mirkam patu'ah) — Open texture: the zone of doubtful cases (penumbra) around a rule's clear core.
@@ -537,6 +558,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נציבות שוויון הזדמנויות בעבודה** (Netzivut shivyon hizdamnuyot ba-avoda) — Equal Employment Opportunities Commission in the Ministry of Labour.
 - **נציגות הבית המשותף** (Netzigut ha-bayit ha-meshutaf) — The representative (house) committee, the owners' agent for management (Land Law ss. 65, 69).
 - **נציגי ציבור** (netzigei tzibur) — Public representatives sitting with the labour-court judge, one from employees and one from employers.
+- **נקודת זיכוי** (nekudat zikui) — Credit point: a fixed annual amount set off against tax (₪2,904 a year in 2024–2027; ITO s. 33א).
 - **נקודת יציאה** (Nekudat yetsi'a) — Walk-away figure: the lowest settlement one will accept, set before negotiating.
 - **ס״ע (סכסוך עבודה)** (sela) — File prefix of an individual labour dispute in the regional labour court.
 - **סבירות איזונית** (Svirut izunit) — "Balancing" reasonableness, the test developed in Dapei Zahav (1980).
@@ -620,6 +642,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ערעור בזכות** (Ir'ur bizchut) — Appeal as of right.
 - **ערעור ברשות** (ir'ur bi-rshut) — appeal by leave.
 - **ערעור מינהלי** (Ir'ur minhali) — Administrative appeal against a statutory body's decision, where a law provides one.
+- **ערעור מס** (ir'ur mas) — Tax appeal to the District Court (ITO s. 153; VAT Law s. 83).
 - **ערעור שכנגד** (Ir'ur shekeneged) — Cross-appeal (reg. 137(ב)).
 - **ערר** (erer) — appeal to an appeals committee or tribunal.
 - **עשיית עושר ולא במשפט** (Asiyat osher ve-lo be-mishpat) — Unjust enrichment: a benefit received from another without a legal basis must be returned.
@@ -664,6 +687,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פעולה משפטית** (pe'ula mishpatit) — legal (juristic) act; the Contracts Law applies to non-contractual legal acts through s. 61(ב).
 - **פקודה בלתי חוקית בעליל** (Pkuda bilti hukit be-alil) — Manifestly unlawful order; obedience to it is no defence (Penal Law s. 34יג(2); the "black flag" test of the Kafr Qasim trial).
 - **פקודת הנזיקין [נוסח חדש]** (Pkudat hanezikin) — The Civil Wrongs Ordinance [New Version], the main tort statute (Mandate 1944, re-enacted 1968).
+- **פקודת מס הכנסה** (pkudat mas hachnasa) — The Income Tax Ordinance [New Version], the main income-tax statute.
 - **פקיד תביעות** (Pkid tvi'ot) — NII claims officer who decides benefit claims.
 - **פרוטוקול הוועדה** (protokol ha-va'ada) — A committee's minutes; the record a court reviews on an appeal on law.
 - **פרוסמינר** (Proseminar) — First research-paper course in the LL.B., before the seminar; at TAU a 3-credit condition for the year-3 seminar.
@@ -678,6 +702,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פשרה לפי סעיף 79א** (Pshara lefi se'if 79א) — Decision by way of compromise with the parties' consent (Courts Law s. 79א).
 - **צדק חלוקתי** (Tsedek halukati) — Distributive justice: how the State allocates benefits and burdens.
 - **צדק מתקן** (Tsedek metaken) — Corrective justice: how one party repairs a wrong done to another.
+- **צו (בהשגה)** (tzav) — Order deciding an income-tax objection when no agreement is reached (ITO s. 152(ב)).
 - **צו ארעי** (Tzav ar'i) — Temporary order given without hearing the respondent (procedure regs, reg. 9א).
 - **צו ביניים** (Tzav beinayim) — Interim order pending the decision (HCJ Procedure Regulations reg. 19).
 - **צו הגבלה** (Tzav hagbala) — Restriction order against a spouse who does not comply with a divorce judgment.
@@ -716,6 +741,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **קיפוח** (Kipuah) — Oppression (unfair prejudice) of shareholders (Companies Law s. 191).
 - **קלות דעת** (Kalut da'at) — Rashness: taking an unreasonable risk while hoping to avoid the result.
 - **קליטה** (klita) — reception of foreign law into the local legal system.
+- **קנס גירעון** (knas gera'on) — Deficiency fine on under-reported tax (ITO s. 191).
 - **קצב שמיעת התיקים (CR)** (Ketsev shmi'at ha-tikim) — Clearance rate: cases closed divided by cases opened in a period.
 - **קרנית** (Karnit) — The fund that compensates road-accident victims when no insurer can pay.
 - **קשר לעשות פשע** (Kesher la'asot pesha) — Conspiracy to commit a felony (s. 499).
@@ -749,6 +775,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שוויון בנטל** (Shivyon ba-netel) — Equality in bearing the burden, central in Ressler v. Knesset (2012).
 - **שוויון מהותי** (Shivyon mahuti) — Substantive equality, as opposed to formal equality; the basis of affirmative action in Israel Women's Network (1994).
 - **שולחן ערוך** (Shulchan Arukh) — Rabbi Joseph Karo's 16th-century code; civil law in its Choshen Mishpat part, with the Rema's glosses.
+- **שומה לפי מיטב השפיטה** (shuma lefi meitav hashfita) — Best-judgment assessment by the tax official.
+- **שומה עצמית** (shuma atzmit) — Self-assessment: a filed return or declaration treated as the assessment (ITO s. 145; Real Estate Taxation Law s. 78).
 - **שומר שכר** (Shomer sachar) — Paid bailee, liable unless the loss was unforeseeable and unavoidable (Bailees Law s. 2(ב)).
 - **שומרי סף** (Shomrei saf) — Gatekeepers: the Attorney General, legal advisers and the Comptroller.
 - **שונות רלוונטית** (Shonut relevantit) — Relevant difference that justifies different treatment.
@@ -791,12 +819,14 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תום לב** (tom lev) — good faith (Contracts Law ss. 12, 39).
 - **תוספת ראשונה** (Tosefet rishona) — First Schedule of the Administrative Affairs Courts Law: subjects of administrative petitions.
 - **תורה שבכתב / תורה שבעל פה** (Torah she-bikhtav / torah she-be'al peh) — The Written Law (Pentateuch) / the Oral Law (the interpretive tradition).
+- **תושב ישראל** (toshav Israel) — Israeli resident for tax purposes: an individual whose centre of life is in Israel (ITO s. 1).
 - **תזכיר** (Tazkir) — Memorandum of association; exists only for companies formed before the Companies Law 1999.
 - **תזכיר חוק** (Tazkir hok) — Bill memorandum: a ministry's draft bill with explanatory notes, published for public comment before it goes to the Ministerial Committee for Legislation.
 - **תזכיר משפטי** (tazkir mishpati) — A legal research memo.
 - **תחולה נדחית** (Tkhula nidhet) — Deferred application, a remedy used in HCJ 2412/23.
 - **תחלוף** (Tachluf) — Subrogation: the paying insurer takes over the insured's claim against the wrongdoer (s. 62).
 - **תחליף המצאה** (Tachalif hamtza'a) — Substituted service ordered by the court (reg. 164).
+- **תיאום מס** (te'um mas) — Tax coordination between several employers.
 - **תיעוד חזותי** (ti'ud chazuti) — Video recording of a suspect's interrogation, required at the station for offences of ten years or more (Interrogation of Suspects Law s. 7).
 - **תיק עובדות** (Tik uvdot) — Facts file: the working file for one dispute (cover page, parties, chronology, exhibits, remedy).
 - **תיקון כתב טענות** (Tikun ktav ta'anot) — Amendment of a pleading (regs 46–47).

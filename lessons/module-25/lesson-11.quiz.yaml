@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Noam's objection says: "The assessment is wrong; I own only an inherited share." Under s. 87(א),
+    what else must it contain?
+  options:
+    - >-
+      A valuation by a licensed appraiser of the inherited apartment.
+    - >-
+      The tax that follows from his grounds and how it is computed.
+    - >-
+      His sister's written consent to the objection.
+    - >-
+      An undertaking to sell the Ashkelon share within 24 months.
+  correct: 1
+  explanation: >-
+    Section 87(א) requires the objection to set out the grounds, the amount of tax that follows from them
+    and its computation (the undisputed amount).
+- id: q2
+  question: >-
+    The director's assessment is dated 20 August; Noam received it on 25 August. When is the last day for
+    his objection?
+  options:
+    - >-
+      19 September, 30 days from the date of the assessment.
+    - >-
+      20 October, two months from the date of the assessment.
+    - >-
+      24 September, 30 days from the day the notice was received.
+    - >-
+      Eight months from his declaration, when the review period ends.
+  correct: 2
+  explanation: >-
+    The 30 days in s. 87(א) run from the day the assessment notice was delivered to him, not from the date
+    written on it.
+- id: q3
+  question: >-
+    A buyer owns 40% of an apartment she bought with her brother as an investment. Is it disregarded for
+    the single-apartment scale?
+  options:
+    - >-
+      No; a purchased share is disregarded only up to a third.
+    - >-
+      Yes; any share below half is disregarded.
+    - >-
+      Yes, if the brother lives in the apartment.
+    - >-
+      No; only shares in protected-tenancy apartments are disregarded.
+  correct: 0
+  explanation: >-
+    Section 49ג(3), applied through s. 9(ג1ג)(4)(א), disregards a share up to a third, or up to a half
+    only for an inherited apartment.
+- id: q4
+  question: >-
+    The director rejected Noam's objection in a reasoned decision received on 1 December. What is the next
+    step and its deadline?
+  options:
+    - >-
+      An appeal to the District Court within 30 days.
+    - >-
+      A petition to the High Court of Justice within 45 days.
+    - >-
+      A second objection to the director's superior within 30 days.
+    - >-
+      An appeal to the appeals committee within 30 days.
+  correct: 3
+  explanation: >-
+    Section 88 gives an appeal (ערר) to the appeals committee within 30 days of receiving the decision;
+    only from there is there an appeal on law to the Supreme Court (s. 90).

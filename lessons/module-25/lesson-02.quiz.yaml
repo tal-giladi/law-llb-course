@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Eli finished a three-year B.A. in June 2025. His employer has never been told. For which tax years is he
+    entitled to the degree credit point?
+  options:
+    - >-
+      Only for 2025, the year in which his studies ended.
+    - >-
+      For 2026, 2027 and 2028, one point in each year.
+    - >-
+      For every year he works in a job that requires the degree.
+    - >-
+      Only if he claims it on Form 101 before the degree is awarded.
+  correct: 1
+  explanation: >-
+    Under s. 40ג a first degree gives one point a year, starting in the tax year after the studies ended,
+    for as many years as the studies lasted and no more than three.
+- id: q2
+  question: >-
+    Shira earns a low salary; her monthly tax before credit points is ₪400 and her credit points are worth
+    ₪1,500 a month. What happens to the unused ₪1,100?
+  options:
+    - >-
+      The Tax Authority pays it to her as a refund after the year.
+    - >-
+      It is carried forward and used against next year's tax.
+    - >-
+      It is lost; points only reduce tax that is actually due.
+    - >-
+      Her employer pays it to her with the next month's salary.
+  correct: 2
+  explanation: >-
+    A credit point is set off against the tax for the year (s. 33א); it is not paid out. Support for low
+    earners comes through the work grant, not through unused points.
+- id: q3
+  question: >-
+    Avi's only income in 2025 was a salary of ₪180,000 with tax fully withheld. He also holds ₪2.5 million
+    in a foreign bank account. Must he file an annual return?
+  options:
+    - >-
+      Yes, because foreign balances above the threshold cancel the exemption in reg. 3.
+    - >-
+      No, because his salary is below the ceiling for the exemption from filing.
+    - >-
+      No, because interest earned abroad is taxed only in the foreign country.
+    - >-
+      Only if the assessing officer sends him a written demand to file.
+  correct: 0
+  explanation: >-
+    Reg. 3(א)(7) excludes from the exemption a person whose foreign bank balances exceed the threshold
+    (₪2,086,000 for 2023–2026 in the Wikisource note), even if his income is only salary.
+- id: q4
+  question: >-
+    Gal donated ₪5,000 to a recognised public institution in 2026 and has the receipt. How does this
+    affect his tax?
+  options:
+    - >-
+      It reduces his taxable income by ₪5,000, at his marginal rate.
+    - >-
+      It reduces his tax by 35% of the donation, ₪1,750, within the cap.
+    - >-
+      It gives him one extra credit point for the year.
+    - >-
+      It has no effect unless he is self-employed and files a return.
+  correct: 1
+  explanation: >-
+    Section 46(א) gives an individual a credit of 35% of a donation above the minimum to a recognised
+    institution, within the overall cap in s. 46א. A credit reduces the tax itself.

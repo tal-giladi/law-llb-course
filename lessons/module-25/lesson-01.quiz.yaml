@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Dana spent 150 days in Israel in 2026, 300 days in 2025 and 340 days in 2024. Her husband and
+    children live in Tel Aviv and she works for a Tel Aviv company, travelling abroad for projects. Is she
+    an Israeli resident for 2026?
+  options:
+    - >-
+      No, because she was in Israel for fewer than 183 days in 2026.
+    - >-
+      Yes; the 30/425-day presumption applies and her family and job confirm it.
+    - >-
+      Only if she spends at least 183 days in Israel in 2027 as well.
+    - >-
+      Yes, but only for the months in which she was physically in Israel.
+  correct: 1
+  explanation: >-
+    She was in Israel more than 30 days in 2026 and more than 425 days over 2024–2026, so the second
+    presumption in s. 1 applies; her family, home and job in Israel point the same way. Residency is
+    decided for the whole tax year.
+- id: q2
+  question: >-
+    Yossi spent 200 days in Israel in 2026 caring for a sick parent, but his wife, children, home and job
+    have been in London for five years. What is the correct analysis?
+  options:
+    - >-
+      He is a resident, since 183 days or more is conclusive under s. 1.
+    - >-
+      He is a resident only for the days he was in Israel during 2026.
+    - >-
+      The presumption applies, but he may rebut it by showing his ties are in London.
+    - >-
+      He is a non-resident only if Britain also taxes him as its resident.
+  correct: 2
+  explanation: >-
+    The day-count presumptions are rebuttable by the individual and by the assessing officer
+    (s. 1, para. (א)(3)); the centre-of-life test, based on all family, economic and social ties, decides.
+- id: q3
+  question: >-
+    Rina, a teacher, bought and sold 40 apartments over three years using short-term bank loans and a
+    team of contractors who renovated each one. She says her profits are capital gains. Which approach
+    will the court take?
+  options:
+    - >-
+      Land is always a capital asset, so the profits are capital gains.
+    - >-
+      Her main job is teaching, so any other income must be capital.
+    - >-
+      Profits are business income only if she registered a business for VAT.
+    - >-
+      It weighs the Magid indications, which here point strongly to business income.
+  correct: 3
+  explanation: >-
+    Frequency, short-term financing, an organised apparatus and improvement of the asset are among the
+    Magid indications of revenue (business) income; the nature of the asset is only one indication.
+- id: q4
+  question: >-
+    A taxpayer finds a literal gap in an exemption section: read word for word, it covers his case,
+    though the section's clear purpose does not. What does Kibbutz Hatzor mean for his argument?
+  options:
+    - >-
+      The court will choose the meaning that fits the purpose, so the gap is unlikely to help.
+    - >-
+      Tax statutes are read strictly, so any doubt is resolved in his favour.
+    - >-
+      Tax statutes are read by purpose only when the Tax Authority asks for it.
+    - >-
+      The wording binds the court unless the Knesset has amended the section.
+  correct: 0
+  explanation: >-
+    Hatzor held that tax laws are interpreted like other statutes: the wording is the starting point, and
+    among the possible meanings the court chooses the one that serves the provision's purpose.

@@ -1,0 +1,171 @@
+- id: q1
+  question: >-
+    Ariel moved to Canada in April 2026 with his wife and children for a permanent job, sold his car and
+    let his Israeli apartment. He spent 95 days in Israel in 2026, after years living in Israel. How should
+    he approach his 2026 residency?
+  options:
+    - >-
+      He is automatically a non-resident because he spent fewer than 183 days in Israel.
+    - >-
+      He is a resident for 2026 because of the 425-day presumption, with no way to rebut it.
+    - >-
+      The 425-day presumption applies, but he can rebut it with evidence that his ties moved.
+    - >-
+      Residency is decided month by month, so he is a resident only until April.
+  correct: 2
+  explanation: >-
+    More than 30 days in 2026 and more than 425 over three years trigger the presumption in s. 1, which
+    either side may rebut by showing where the centre of life is; residency is decided per tax year.
+- id: q2
+  question: >-
+    Reut, a salaried nurse, finished her B.Sc. in 2024 and had a baby in 2025. Her employer still uses the
+    Form 101 she signed in 2023. Her only income is salary. What is the best course?
+  options:
+    - >-
+      Give the employer a new Form 101 with documents and claim a refund for past years.
+    - >-
+      File a full annual return every year from now on to claim her points.
+    - >-
+      Wait for the Tax Authority to update her points from the Population Register.
+    - >-
+      Ask the employer to pay her the missed points as a bonus.
+  correct: 0
+  explanation: >-
+    Payroll uses Form 101, so updating it fixes the current year; past overpayments are reclaimed by a
+    refund request because a salaried person within reg. 2 is exempt from filing.
+- id: q3
+  question: >-
+    Amit, a licensed dealer, received a ₪20,000 + VAT invoice for equipment in July 2026 without an
+    allocation number, and deducted the VAT. The VAT office disallowed it. What explains the decision?
+  options:
+    - >-
+      Input tax on equipment can never be deducted by a licensed dealer.
+    - >-
+      He deducted it too late, because the window is three months.
+    - >-
+      Invoices above ₪5,000 must be paid by bank transfer to be deductible.
+    - >-
+      Invoices above the threshold need an allocation number for the deduction.
+  correct: 3
+  explanation: >-
+    Section 38(א1) bars deducting input tax on an invoice above the threshold (₪5,000 from June 2026 per
+    the Wikisource note) that lacks an allocation number issued by the Tax Authority.
+- id: q4
+  question: >-
+    Shlomi, a salaried worker exempt from filing, overpaid tax in 2020. It is November 2026. What should
+    he do?
+  options:
+    - >-
+      Nothing; years older than four are closed to the taxpayer.
+    - >-
+      File the refund request for 2020 before the end of 2026.
+    - >-
+      Object to the 2020 withholding within 30 days of discovering it.
+    - >-
+      Sue the employer in the small-claims court for the excess.
+  correct: 1
+  explanation: >-
+    Section 160(א) allows a refund if the report for the year is filed within six years after its end;
+    2020 is open until the end of 2026.
+- id: q5
+  question: >-
+    Efrat received an income-tax order under s. 152(ב) confirming an assessment she objected to. The
+    order was delivered on 3 May. Which step and deadline are correct?
+  options:
+    - >-
+      Appeal to the District Court within 30 days of delivery.
+    - >-
+      A second objection to the Director within 30 days.
+    - >-
+      An appeal to the Supreme Court within 45 days.
+    - >-
+      An appeal to the appeals committee within 30 days.
+  correct: 0
+  explanation: >-
+    The appeal from an order is to the District Court (s. 153), within 30 days of delivery (Appeals
+    Regulations reg. 2); the appeals committee is the real-estate-tax forum.
+- id: q6
+  question: >-
+    Gilad and Noga, married, buy an apartment for ₪2,000,000 in 2026. Noga owns a third of an apartment
+    she bought with two friends years ago. Which statement is correct?
+  options:
+    - >-
+      They pay the additional-apartment rate because Noga owns part of another apartment.
+    - >-
+      They pay no tax because the price is within the first bracket for all buyers.
+    - >-
+      They pay the single-apartment scale; a purchased share up to a third is disregarded.
+    - >-
+      Only Gilad is the buyer, so Noga's share is irrelevant.
+  correct: 2
+  explanation: >-
+    Spouses are one buyer, but a share up to a third (half if inherited) is disregarded (ss. 9(ג1ג)(4)(א),
+    49ג(3)); on the single-apartment scale ₪2,000,000 pays 3.5% only on the part above ₪1,978,745.
+- id: q7
+  question: >-
+    Mor bought a new home in 2023 and still has not sold her old one in late 2026; both are in her name.
+    She now sells the old home. What happens to the single-apartment exemption on the sale?
+  options:
+    - >-
+      It applies, because the old home was her residence for many years.
+    - >-
+      It applies, because she sells within 36 months of buying the new home.
+    - >-
+      It applies only to half of the gain, because she owned two apartments.
+    - >-
+      It fails, because the replacement presumption covers only 24 months.
+  correct: 3
+  explanation: >-
+    Under s. 49ג(1) the other apartment is disregarded only if bought as a replacement in the 24 months
+    before the sale; after that the old home is not her single apartment for s. 49ב(2).
+- id: q8
+  question: >-
+    Doron realises he forgot to report rent for several years. He did not hide documents. What is the
+    lawful course?
+  options:
+    - >-
+      Wait out the limitation period, since rent is rarely checked.
+    - >-
+      Report, pay with interest and ask to waive the fines.
+    - >-
+      Back-date a lease to show the rent was lower than it was.
+    - >-
+      Transfer the apartment to a relative before reporting.
+  correct: 1
+  explanation: >-
+    An honest omission is corrected by filing and paying, with a request under s. 192 to reduce fines;
+    altering records is a separate offence, and advice is wise because non-filing can be an offence.
+- id: q9
+  question: >-
+    Lea, a self-employed cleaner and mother of three, earns very little and pays no income tax. A friend
+    says the tax system cannot help her. What should Lea check?
+  options:
+    - >-
+      Whether she can sell her unused credit points to her clients.
+    - >-
+      Whether the NII pays her unused points with her child allowance.
+    - >-
+      Whether she is entitled to the work grant and claim it online.
+    - >-
+      Whether she can switch to employee status to receive her points.
+  correct: 2
+  explanation: >-
+    The work grant is paid through the Tax Authority, on application, to low-income workers including the
+    self-employed and especially working parents.
+- id: q10
+  question: >-
+    The director assessed Itzik's purchase tax by best judgment, and Itzik disputes it. His objection says
+    only "the assessment is wrong". What is the main defect?
+  options:
+    - >-
+      It was not signed by a lawyer, which the law requires.
+    - >-
+      It omits the undisputed tax and how it is computed.
+    - >-
+      It should have been sent to the District Court instead.
+    - >-
+      It must be filed only after the tax has been paid in full.
+  correct: 1
+  explanation: >-
+    Section 87(א) requires the objection to set out the grounds, the tax that follows from them and its
+    computation; a bare disagreement does not meet it.
