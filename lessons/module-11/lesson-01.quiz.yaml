@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A bakery's exhaust fan bothers one neighbour. Fixing the fan costs ₪8,000; the neighbour values the
+    quiet at ₪3,000; the two get on well and can easily talk. According to the Coase theorem, what is
+    the likely outcome if the neighbour has the right to stop the noise?
+  options:
+    - >-
+      The bakery fixes the fan, because the neighbour holds the right and can insist on it.
+    - >-
+      The court orders damages of ₪3,000, because an injunction is never given for noise.
+    - >-
+      The bakery pays the neighbour something between ₪3,000 and ₪8,000, and the fan stays as it is.
+    - >-
+      Nothing happens, because the neighbour cannot sell a right granted by statute.
+  correct: 2
+  explanation: >-
+    With low transaction costs the right goes to whoever values it more. The bakery values running the
+    fan (₪8,000 saved) more than the neighbour values quiet (₪3,000), so it buys the right; the legal
+    rule decides who pays, not the result.
+- id: q2
+  question: >-
+    A noisy factory argues that a court should award its neighbour damages instead of an injunction,
+    because the factory employs hundreds of people. Which Israeli rule and precedent does the neighbour
+    rely on?
+  options:
+    - >-
+      Remedies Law s. 14 and Tnuva v. Raabi, because the neighbour must mitigate the damage first.
+    - >-
+      Civil Wrongs Ordinance s. 74, read narrowly, and Ata v. Schwartz on a large employer.
+    - >-
+      Courts Law s. 60, because the small-claims court can stop the factory within weeks.
+    - >-
+      Remedies Law s. 3, which applies to all civil wrongs and requires enforcement.
+  correct: 1
+  explanation: >-
+    Section 74 allows damages instead of an injunction only if the harm is small, measurable and
+    compensable and an injunction would be oppressive. In Ata the Supreme Court upheld an order to stop
+    the noise despite the harm to employment.
+- id: q3
+  question: >-
+    Which of these is the best example of a liability rule in the Calabresi-Melamed sense?
+  options:
+    - >-
+      A tenant's right that the landlord perform the lease, enforced by an order to perform.
+    - >-
+      A neighbour's right to quiet, enforced by an injunction against a workshop.
+    - >-
+      A citizen's right to vote, which cannot be sold to anyone at any price.
+    - >-
+      A pedestrian's right not to be injured by careless drivers, protected by an award of damages.
+  correct: 3
+  explanation: >-
+    Under a liability rule the entitlement can be taken if the taker pays a price set by a court, as in
+    negligence damages. Injunctions and specific performance are property rules; the vote is inalienable.
+- id: q4
+  question: >-
+    A supplier delivered late. The buyer could have bought the goods elsewhere for ₪500 more but waited
+    two months and lost a ₪6,000 order. What does Remedies Law s. 14 most likely mean for the claim?
+  options:
+    - >-
+      The buyer recovers about ₪500, the loss reasonable mitigation would have left, not the ₪6,000.
+    - >-
+      The buyer recovers the full ₪6,000, because the supplier breached first.
+    - >-
+      The buyer recovers nothing, because any failure to mitigate cancels the claim.
+    - >-
+      The buyer recovers ₪6,000 plus ₪500, because mitigation costs are always added.
+  correct: 0
+  explanation: >-
+    The breaching party does not pay for loss the injured party could reasonably have avoided, but does
+    pay reasonable mitigation costs. The rule puts the avoidable loss on the person best placed to avoid it.

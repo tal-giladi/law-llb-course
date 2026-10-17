@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    You estimate a 70% chance of winning ₪10,000, a 50% chance of collecting from the defendant (who has
+    few assets), and ₪1,000 of fees and lost work days. Ignoring costs awards and interest, what is your
+    expected net result from suing?
+  options:
+    - >-
+      ₪6,000, because you only multiply the claim by the chance of winning.
+    - >-
+      ₪2,500, because both the chance of winning and of collecting reduce the value.
+    - >-
+      ₪9,000, because fees are recovered from the defendant if you win.
+    - >-
+      ₪3,500, because collection risk applies only to the part above ₪5,000.
+  correct: 1
+  explanation: >-
+    EV = 0.7 × 0.5 × 10,000 − 1,000 = 3,500 − 1,000 = ₪2,500. A judgment you cannot collect is worth
+    little, so the chance of collecting belongs in the calculation.
+- id: q2
+  question: >-
+    You represent yourself in the magistrates' court and win. You spent ₪650 on copies, travel and a
+    certified translation. What must you do to have these expenses awarded?
+  options:
+    - >-
+      Nothing; the court awards a fixed sum for expenses to every winning party.
+    - >-
+      File a separate claim for the expenses after the judgment is given.
+    - >-
+      List them explicitly and in detail in your summations, with supporting documents.
+    - >-
+      Ask the Bar Association to certify them under its minimum recommended tariff.
+  correct: 2
+  explanation: >-
+    Regulation 155(א) allows legal expenses only if the party itemised them in its closing submissions and
+    attached documents. The minimum tariff in reg. 153 concerns lawyers' fees.
+- id: q3
+  question: >-
+    Your ₪60,000 magistrates' court claim settles at the second pre-trial hearing. What do the Courts
+    (Fees) Regulations most likely mean for the fee you paid on filing?
+  options:
+    - >-
+      It is refunded less a fixed deduction, and the second half is not due.
+    - >-
+      It is forfeited in full, since a fee once paid is never refunded.
+    - >-
+      It is refunded in full with interest, since the court never decided the case.
+    - >-
+      It is refunded only if the defendant agrees to pay the second half.
+  correct: 0
+  explanation: >-
+    Regulation 6(ב) refunds the fee, less a fixed deduction, if the case ends by settlement before the end
+    of the third pre-trial hearing; reg. 6(ג) exempts the second half if the case ends before the hearing begins.
+- id: q4
+  question: >-
+    You claimed ₪30,000 and the court awarded you ₪6,000. Under reg. 153(ג), how may this affect the
+    costs awarded to you?
+  options:
+    - >-
+      Not at all, because costs depend only on who won the case.
+    - >-
+      The court must award you costs of 20% of the sum you claimed.
+    - >-
+      You will be ordered to pay the defendant's full costs, because you lost.
+    - >-
+      The court may reduce your costs in view of the gap.
+  correct: 3
+  explanation: >-
+    Among the factors in reg. 153(ג) is the value of the relief granted and its ratio to the sum claimed.
+    Inflating a claim can therefore reduce what you recover even when you win.
+- id: q5
+  question: >-
+    Your expected net value from suing is about ₪4,700. The other side offers ₪4,500, paid within 7
+    days. Your evidence is good but the hearing is 6–9 months away. What is the most reasonable view?
+  options:
+    - >-
+      Reject it, because any offer below your claim means you are being cheated.
+    - >-
+      Accept only if the other side also apologises in writing.
+    - >-
+      Treat it as close to your EV; a sure, quick sum has extra value.
+    - >-
+      Reject it, because the court will certainly add costs that raise your result.
+  correct: 2
+  explanation: >-
+    An offer near your expected value, paid now and certain, is often rational to accept or to counter
+    slightly above, because risk and delay have a cost the formula does not fully capture.

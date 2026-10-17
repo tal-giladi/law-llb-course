@@ -1,0 +1,1316 @@
+# Module 11 question bank (not imported). Feeds the daily practice tool.
+- id: m11-001
+  module: 11
+  lesson: "11.1"
+  subject: kaldor-hicks
+  difficulty: 1
+  question: >-
+    A new rule makes a factory pay ₪50,000 a year for filters and saves its neighbours ₪80,000 a year in
+    health costs, but the neighbours pay the factory nothing. Under which standard is the rule efficient?
+  options:
+    - >-
+      Pareto, because nobody is worse off after the rule takes effect.
+    - >-
+      Kaldor-Hicks, because the gains exceed the losses even without compensation.
+    - >-
+      Neither, because the factory loses money and so the rule cannot be efficient.
+    - >-
+      Both, because any rule that reduces harm is efficient in every sense.
+  correct: 1
+  explanation: >-
+    The factory is worse off, so the rule is not a Pareto improvement. It is Kaldor-Hicks efficient because
+    the winners gain more than the losers lose and could in principle compensate them.
+- id: m11-002
+  module: 11
+  lesson: "11.1"
+  subject: coase-core
+  difficulty: 1
+  question: >-
+    What is the core claim of the Coase theorem?
+  options:
+    - >-
+      Courts should always award damages rather than injunctions in nuisance cases.
+    - >-
+      Polluters should always pay for the harm they cause, whatever the cost of prevention.
+    - >-
+      With costless bargaining, resources go to their most valued use whatever the legal rule.
+    - >-
+      Legal rules never affect behaviour, because people ignore them in practice.
+  correct: 2
+  explanation: >-
+    Coase showed that with zero transaction costs the parties bargain to the efficient outcome whatever the
+    initial allocation; the rule decides only who pays. His real lesson was that transaction costs make the
+    rule matter.
+- id: m11-003
+  module: 11
+  lesson: "11.1"
+  subject: reciprocal-harm
+  difficulty: 2
+  question: >-
+    Coase described harm as "reciprocal". In a dispute between a noisy bakery and a neighbour, what does
+    this mean?
+  options:
+    - >-
+      Stopping the bakery harms the bakery just as the noise harms the neighbour.
+    - >-
+      Both parties are equally at fault, so the court should split the damages.
+    - >-
+      The neighbour caused the harm by moving next to the bakery.
+    - >-
+      Each side must pay the other's legal costs whatever the result.
+  correct: 0
+  explanation: >-
+    The question is not who is the wrongdoer but which harm to avoid: the neighbour's loss of quiet or the
+    bakery's loss of business. Israeli law still answers it through s. 44, where coming to the nuisance is no defence.
+- id: m11-004
+  module: 11
+  lesson: "11.1"
+  subject: property-liability-rules
+  difficulty: 1
+  question: >-
+    Which remedy protects an entitlement by a property rule?
+  options:
+    - >-
+      Damages for a car damaged in a road accident, assessed by the court afterwards.
+    - >-
+      Compensation set by statute for land taken by the state.
+    - >-
+      Damages for loss of earnings after a fall in a shop.
+    - >-
+      An order requiring a seller to transfer the flat he agreed to sell.
+  correct: 3
+  explanation: >-
+    Under a property rule the entitlement can be taken only with the holder's consent; specific performance
+    (Remedies Law s. 3) forces the seller to perform. The others are liability rules: a court- or law-set price.
+- id: m11-005
+  module: 11
+  lesson: "11.1"
+  subject: section-74
+  difficulty: 2
+  question: >-
+    Which combination of facts most clearly allows a court to refuse a nuisance injunction under Civil
+    Wrongs Ordinance s. 74?
+  options:
+    - >-
+      Serious, continuing harm to sleep, and a defendant who would lose some profit.
+    - >-
+      Small harm that money can measure and compensate, and an injunction that would be oppressive.
+    - >-
+      Any harm, provided the defendant offers to pay generous damages in advance.
+    - >-
+      Harm to a tenant rather than an owner, since tenants cannot obtain injunctions.
+  correct: 1
+  explanation: >-
+    Section 74 requires small harm, assessable and adequately compensable in money, and oppression to the
+    defendant. Serious sleep loss does not fit. Ata v. Schwartz read the exception narrowly.
+- id: m11-006
+  module: 11
+  lesson: "11.1"
+  subject: ata-v-schwartz
+  difficulty: 2
+  question: >-
+    In Ata v. Schwartz (1976), what did the Supreme Court decide about the textile factory's noise?
+  options:
+    - >-
+      It replaced the injunction with damages because of the factory's importance to employment.
+    - >-
+      It held that nuisance requires negligence, which the neighbour failed to prove.
+    - >-
+      It upheld the order to stop the nuisance despite the harm to employment and the economy.
+    - >-
+      It sent the case to arbitration because economic questions are outside the court's expertise.
+  correct: 2
+  explanation: >-
+    The magistrates' court's order was upheld on two appeals. The Supreme Court discussed the
+    Calabresi-Melamed framework and refused to let the company pay its way out of the injunction.
+- id: m11-007
+  module: 11
+  lesson: "11.1"
+  subject: mitigation
+  difficulty: 2
+  question: >-
+    A caterer cancels a wedding contract a month before the event. The couple find another caterer for
+    ₪3,000 more but instead, out of anger, hire an expensive one for ₪12,000 more. What can they recover?
+  options:
+    - >-
+      ₪12,000, because the breach caused the whole extra cost.
+    - >-
+      Nothing, because they chose to spend more than necessary.
+    - >-
+      ₪12,000 plus a penalty, since cancellation close to the event is especially harmful.
+    - >-
+      About ₪3,000, the extra cost that reasonable mitigation would have left.
+  correct: 3
+  explanation: >-
+    Remedies Law s. 14 excludes loss the injured party could reasonably have avoided; reasonable mitigation
+    costs are recoverable. The rule puts avoidable loss on the person best placed to avoid it.
+- id: m11-008
+  module: 11
+  lesson: "11.1"
+  subject: incentives-expected-sanction
+  difficulty: 2
+  question: >-
+    A company earns ₪200 extra from each customer by an unlawful fee. Only 1 in 100 customers would sue,
+    and courts award ₪500. What does the expected-sanction model predict?
+  options:
+    - >-
+      The company keeps charging, because the expected cost per customer is about ₪5.
+    - >-
+      The company stops, because ₪500 in damages is more than the ₪200 it gains per customer.
+    - >-
+      The company stops, because any lawsuit damages its reputation fatally.
+    - >-
+      The model predicts nothing, because companies always obey the law.
+  correct: 0
+  explanation: >-
+    Expected cost = p × D = 0.01 × 500 = ₪5, far below the ₪200 gain. Aggregation through class actions, or
+    regulatory fines, raises p × D; that is why Tnuva v. Raabi matters.
+- id: m11-009
+  module: 11
+  lesson: "11.1"
+  subject: tnuva-class-action
+  difficulty: 2
+  question: >-
+    In Tnuva v. Raabi (2011), why could the court not simply pay each class member their damages?
+  options:
+    - >-
+      Because silicone in milk is not a legally recognised harm in Israel.
+    - >-
+      Members could not be identified, so the award went to public uses under s. 20(ג).
+    - >-
+      Because Tnuva had already compensated every buyer through discounts.
+    - >-
+      Because class actions in Israel may award only injunctions and declarations, never money to members.
+  correct: 1
+  explanation: >-
+    Individual buyers and their harms could not be identified or proven, so the Court used s. 20(ג) of the
+    Class Actions Law to direct the reduced award (₪38.5 million) to public-benefit uses.
+- id: m11-010
+  module: 11
+  lesson: "11.1"
+  subject: transaction-costs-forum
+  difficulty: 3
+  question: >-
+    A family wants a neighbour's workshop to stop its machines in the morning, and also ₪3,000 for
+    cleaning dust. Where should they file to get both?
+  options:
+    - >-
+      The small-claims court, since the money is well within its ceiling.
+    - >-
+      The district court, since injunctions are given only there.
+    - >-
+      The magistrates' court, which can give an injunction as well as damages.
+    - >-
+      The local planning committee, which decides all neighbour disputes.
+  correct: 2
+  explanation: >-
+    The small-claims court can award money and some consumer remedies but cannot order a neighbour to stop
+    a nuisance (lesson 04.4). The magistrates' court can give both.
+- id: m11-011
+  module: 11
+  lesson: "11.1"
+  subject: critique-distribution
+  difficulty: 3
+  question: >-
+    An economist argues that a factory should be allowed to continue a nuisance because it "values" the
+    right more than poor neighbours, who could only offer little to stop it. What is the strongest
+    objection?
+  options:
+    - >-
+      Willingness to pay reflects wealth, so the test may simply favour the richer party.
+    - >-
+      Factories never value anything more than residents do.
+    - >-
+      Economic analysis cannot be used in any Israeli court.
+    - >-
+      The neighbours' harm is not real or measurable if they cannot afford to pay to stop it.
+  correct: 0
+  explanation: >-
+    Distributive critics point out that willingness to pay depends on ability to pay. Ata v. Schwartz voiced
+    a similar concern by refusing to let the company buy its way out.
+- id: m11-012
+  module: 11
+  lesson: "11.1"
+  subject: fourth-rule
+  difficulty: 3
+  question: >-
+    In Calabresi and Melamed's "fourth rule", what happens in a nuisance dispute?
+  options:
+    - >-
+      The polluter may continue and pays court-set damages to the neighbours.
+    - >-
+      The neighbours may stop the polluter only by obtaining a criminal conviction.
+    - >-
+      Neither side may sell its rights, so the court decides permanently.
+    - >-
+      The polluter can be stopped, but only if the neighbours compensate it.
+  correct: 3
+  explanation: >-
+    The fourth rule gives the polluter the entitlement, protected by a liability rule: the neighbours may
+    take it by paying a court-set price. It is rarely used but clarifies the choice of rules.
+- id: m11-013
+  module: 11
+  lesson: "11.2"
+  subject: anchoring
+  difficulty: 1
+  question: >-
+    What is anchoring?
+  options:
+    - >-
+      Refusing to change your mind once a court has decided against you.
+    - >-
+      Being pulled towards an initial number when estimating a value.
+    - >-
+      Preferring a sure gain to a gamble with a higher average.
+    - >-
+      Valuing what you own more than the same thing you do not own.
+  correct: 1
+  explanation: >-
+    Anchoring is the pull of a first number on later estimates. The other options describe risk aversion
+    for gains and the endowment effect.
+- id: m11-014
+  module: 11
+  lesson: "11.2"
+  subject: loss-aversion
+  difficulty: 1
+  question: >-
+    According to Kahneman's Nobel lecture, how much steeper is the value function for losses than for
+    gains?
+  options:
+    - >-
+      About the same; losses and gains are weighted equally.
+    - >-
+      About ten times steeper for losses.
+    - >-
+      By a factor of about 2–2.5.
+    - >-
+      Steeper only for losses above ₪10,000.
+  correct: 2
+  explanation: >-
+    Kahneman describes the value function as loss-averse, steeper for losses than for gains by a factor of
+    about 2–2.5. Losses hurt roughly twice as much as equal gains please.
+- id: m11-015
+  module: 11
+  lesson: "11.2"
+  subject: endowment-effect
+  difficulty: 1
+  question: >-
+    A tenant would pay ₪2,000 at most for a parking space, but refuses to give up the one she has for less
+    than ₪6,000. Which effect does this illustrate?
+  options:
+    - >-
+      Anchoring on the landlord's first offer.
+    - >-
+      Self-serving bias about fairness.
+    - >-
+      The sunk-cost fallacy.
+    - >-
+      The endowment effect.
+  correct: 3
+  explanation: >-
+    People demand more to give up something they have than they would pay to get it. The gap makes Coase
+    bargains harder than the model predicts.
+- id: m11-016
+  module: 11
+  lesson: "11.2"
+  subject: self-serving-bias
+  difficulty: 2
+  question: >-
+    Both parties to a contract dispute honestly believe a "fair" result is close to their own position.
+    Which concept from Jolls, Sunstein and Thaler explains why such cases fail to settle?
+  options:
+    - >-
+      Self-serving bias in judgments of fairness.
+    - >-
+      The Coase theorem with zero transaction costs.
+    - >-
+      Status-quo bias in consumer contracts.
+    - >-
+      Risk neutrality in the domain of losses.
+  correct: 0
+  explanation: >-
+    Self-serving bias distorts each side's view of what is fair, so each expects more than the other will
+    give, and negotiations fail more often than a rational model predicts.
+- id: m11-017
+  module: 11
+  lesson: "11.2"
+  subject: framing-defendant
+  difficulty: 2
+  question: >-
+    You want a defendant to accept a settlement. How should you frame it in your letter, given prospect theory?
+  options:
+    - >-
+      As a gain for him, since everyone prefers gains.
+    - >-
+      As a loss he avoids: the fee, costs, interest and time of a trial.
+    - >-
+      As neutral, avoiding any reference to what he risks.
+    - >-
+      As a threat to report him to the police if he does not pay within the week.
+  correct: 1
+  explanation: >-
+    A defendant sees paying as a loss and may gamble on trial. Pointing to the larger losses a trial brings
+    shifts his reference point. Threatening criminal proceedings to collect a civil debt is improper.
+- id: m11-018
+  module: 11
+  lesson: "11.2"
+  subject: post-judgment-bargaining
+  difficulty: 2
+  question: >-
+    According to the Farnsworth study cited by Jolls, Sunstein and Thaler, what happened after courts
+    decided nuisance injunctions?
+  options:
+    - >-
+      Almost every losing party bought the right from the winner.
+    - >-
+      Parties usually renegotiated the terms through the court's mediation unit after judgment.
+    - >-
+      In none of about twenty cases did the parties even try to bargain around the order.
+    - >-
+      Courts usually replaced the injunctions with damages on appeal.
+  correct: 2
+  explanation: >-
+    Economic theory predicts post-judgment bargaining; it did not happen, even where transaction costs were
+    low. Acrimony and endowment make the time to settle before judgment.
+- id: m11-019
+  module: 11
+  lesson: "11.2"
+  subject: s13a-auto-renewal
+  difficulty: 2
+  question: >-
+    Under Consumer Protection Law s. 13א, who bears the burden of proving that a consumer agreed to extend
+    a fixed-term transaction?
+  options:
+    - >-
+      The consumer, who must prove she did not agree.
+    - >-
+      The regulator, which must investigate each complaint.
+    - >-
+      The court, which decides on its own initiative.
+    - >-
+      The dealer, who must prove the consumer agreed.
+  correct: 3
+  explanation: >-
+    Section 13א(ה) puts the burden on the dealer. Together with the voiding of automatic continuation, it
+    reverses the default that consumer inertia would otherwise favour.
+- id: m11-020
+  module: 11
+  lesson: "11.2"
+  subject: cancellation-methods
+  difficulty: 1
+  question: >-
+    You want to cancel a continuing internet service. Under s. 14ט, which method must the provider accept?
+  options:
+    - >-
+      Email, among other listed methods such as phone and registered mail.
+    - >-
+      Only a signed letter delivered by hand to the provider's head office in person.
+    - >-
+      Only a cancellation form available at the provider's branches.
+    - >-
+      Only a notice through a lawyer.
+  correct: 0
+  explanation: >-
+    Section 14ט(א) requires the dealer to allow cancellation by phone or oral notice, registered mail,
+    email, fax if it has one, internet where the deal can be made online, and other methods the minister sets.
+- id: m11-021
+  module: 11
+  lesson: "11.2"
+  subject: judges-biases
+  difficulty: 2
+  question: >-
+    What did Guthrie, Rachlinski and Wistrich find when testing 167 federal magistrate judges?
+  options:
+    - >-
+      Judges were immune to all cognitive illusions because of their legal training and experience.
+    - >-
+      All five illusions had significant effects, some weaker than in lay people.
+    - >-
+      Only hindsight bias affected judges; anchoring had no effect at all.
+    - >-
+      Judges were more susceptible to every illusion than lay people.
+  correct: 1
+  explanation: >-
+    Anchoring, framing, hindsight, representativeness and egocentric biases all affected the judges;
+    framing and representativeness somewhat less than lay people. Judges are expert but human.
+- id: m11-022
+  module: 11
+  lesson: "11.2"
+  subject: inflated-claim
+  difficulty: 3
+  question: >-
+    Spot the mistake. A self-represented plaintiff with ₪8,000 of documented loss writes: "I claim ₪35,000,
+    because a high figure will anchor the judge." What is the main problem?
+  options:
+    - >-
+      There is none; higher claims always produce higher awards.
+    - >-
+      The small-claims court cannot hear any claim above ₪10,000, so the claim will be struck out.
+    - >-
+      It raises the fee and can reduce costs under reg. 153(ג), and it costs credibility.
+    - >-
+      Anchoring only works on the other party, never on judges.
+  correct: 2
+  explanation: >-
+    The fee grows with the claim; reg. 153(ג) considers the relief granted against the sum claimed; and an
+    unsupported figure damages credibility. Anchors work when they are reasoned.
+- id: m11-023
+  module: 11
+  lesson: "11.2"
+  subject: judge-proposal
+  difficulty: 3
+  question: >-
+    At pre-trial the judge proposes a compromise under the Regulations' power to suggest a settlement. The
+    other side, represented by a lawyer, accepts at once and presses you to agree. What is the best step?
+  options:
+    - >-
+      Agree, because refusing a judge's proposal will lead to a judgment against you.
+    - >-
+      Refuse firmly, because a proposal shows the judge has already decided against you.
+    - >-
+      Ask the other side's lawyer to explain whether the proposal is fair to you.
+    - >-
+      Ask for time to consider and answer in writing, after comparing it with your expected value.
+  correct: 3
+  explanation: >-
+    A judge's proposal is a strong anchor but not a ruling. You may ask for time. The other side's lawyer
+    represents the other side and cannot advise you.
+- id: m11-024
+  module: 11
+  lesson: "11.2"
+  subject: total-cost-framing
+  difficulty: 1
+  question: >-
+    A phone plan is advertised as "only ₪29.90 a month" for a 24-month commitment. What is its total cost?
+  options:
+    - >-
+      ₪717.60.
+    - >-
+      ₪29.90.
+    - >-
+      ₪358.80.
+    - >-
+      ₪299.00.
+  correct: 0
+  explanation: >-
+    24 × ₪29.90 = ₪717.60. Converting a monthly price into a total cost removes the framing that makes
+    long commitments look small.
+- id: m11-025
+  module: 11
+  lesson: "11.2"
+  subject: standard-contracts
+  difficulty: 2
+  question: >-
+    Why do behavioural scholars argue that competition alone does not remove unfair terms from standard
+    consumer contracts?
+  options:
+    - >-
+      Because Israeli law forbids companies from competing with each other on contract terms.
+    - >-
+      Few customers read terms they cannot negotiate, and optimism hides the risks.
+    - >-
+      Because all standard contracts are approved in advance by a court.
+    - >-
+      Because customers always prefer longer contracts.
+  correct: 1
+  explanation: >-
+    If customers do not read or weigh the fine print, firms gain little by improving it. Standard Contracts
+    Law ss. 3–4 lets courts cancel or change depriving terms instead.
+- id: m11-026
+  module: 11
+  lesson: "11.2"
+  subject: sunk-cost
+  difficulty: 3
+  question: >-
+    After a year of litigation and ₪6,000 spent on an expert, a plaintiff's new evidence shows her chance of
+    winning is now low. She says, "I can't stop now, I have already spent so much." What is the error?
+  options:
+    - >-
+      None; past spending is the best guide to future value.
+    - >-
+      She should have hired a lawyer from the start, who would now recover the ₪6,000 for her.
+    - >-
+      The sunk-cost fallacy: the decision should depend only on future costs and benefits.
+    - >-
+      Loss aversion requires her to continue until judgment.
+  correct: 2
+  explanation: >-
+    Money already spent cannot be recovered by continuing. Re-run the expected-value worksheet with the new
+    probability and decide on future costs and benefits only.
+- id: m11-027
+  module: 11
+  lesson: "11.3"
+  subject: law-in-books-action
+  difficulty: 1
+  question: >-
+    Who coined the phrase "law in books and law in action"?
+  options:
+    - >-
+      Roscoe Pound, in 1910.
+    - >-
+      Ronald Coase, in 1960.
+    - >-
+      Daniel Kahneman, in 2002.
+    - >-
+      Guido Calabresi, in 1972.
+  correct: 0
+  explanation: >-
+    Pound contrasted the rules in the books with how law operates in practice. Coase, Kahneman and Calabresi
+    are associated with law and economics and behavioural economics.
+- id: m11-028
+  module: 11
+  lesson: "11.3"
+  subject: dispute-pyramid
+  difficulty: 1
+  question: >-
+    In the dispute pyramid, what is "naming"?
+  options:
+    - >-
+      Suing the other side by name in a statement of claim.
+    - >-
+      Recognising that what happened is a problem, perhaps a legal one.
+    - >-
+      Identifying the judge who will hear the case.
+    - >-
+      Publicly accusing the other side in the media or on social networks.
+  correct: 1
+  explanation: >-
+    Naming is the first step: seeing an experience as an injury or a problem. Blaming attributes it to
+    someone, claiming makes a demand. Many rights are lost before naming.
+- id: m11-029
+  module: 11
+  lesson: "11.3"
+  subject: legal-needs-survey
+  difficulty: 1
+  question: >-
+    According to the Ministry of Justice legal-needs survey (fieldwork August 2022), roughly what share of
+    Israelis met at least one legal need within two years that they could not solve alone?
+  options:
+    - >-
+      About 10%.
+    - >-
+      About 30%.
+    - >-
+      About 70%.
+    - >-
+      Almost 100%.
+  correct: 2
+  explanation: >-
+    About 70% reported such a need, with an average of 3.5 needs per person over two years.
+- id: m11-030
+  module: 11
+  lesson: "11.3"
+  subject: legal-needs-court-use
+  difficulty: 2
+  question: >-
+    In the survey, about what share of attempts to resolve a legal problem went to court?
+  options:
+    - >-
+      About 60%, because Israelis are very litigious.
+    - >-
+      About 35%, the same as the share of people who took no step.
+    - >-
+      About 25%, mostly in the small-claims court.
+    - >-
+      About 10%, with variation between communities.
+  correct: 3
+  explanation: >-
+    About 10% of attempts went to court; Arab respondents went relatively more often (18%) and Haredi
+    respondents somewhat less (9%) than non-Haredi Jews (12%). Most attempts were direct approaches to the other side.
+- id: m11-031
+  module: 11
+  lesson: "11.3"
+  subject: repeat-players
+  difficulty: 2
+  question: >-
+    Which is an advantage of a repeat player in Galanter's sense?
+  options:
+    - >-
+      It can settle cases it might lose and litigate those likely to make good rules.
+    - >-
+      It is always represented by lawyers who once clerked for the judges.
+    - >-
+      It is exempt from court fees in all proceedings it brings or defends.
+    - >-
+      It may choose which judge hears each of its cases in advance.
+  correct: 0
+  explanation: >-
+    Repeat players can play for rules: settle risky cases quietly and litigate the ones likely to produce
+    useful precedents. They also spread costs over many cases.
+- id: m11-032
+  module: 11
+  lesson: "11.3"
+  subject: legal-aid-merit
+  difficulty: 2
+  question: >-
+    On what grounds may the head of a Legal Aid office refuse a request under s. 4 of the Legal Aid Law?
+  options:
+    - >-
+      The applicant earns more than the national average wage, whatever the merits.
+    - >-
+      The case is vexatious or has no reasonable basis in law, facts or evidence.
+    - >-
+      The other side is a public body.
+    - >-
+      The applicant has been refused aid before in another matter.
+  correct: 1
+  explanation: >-
+    Section 4 allows refusal of a vexatious case or one without a reasonable basis. Means are tested under
+    s. 3 and the regulations; a refusal can be appealed to the district court (s. 5).
+- id: m11-033
+  module: 11
+  lesson: "11.3"
+  subject: legal-aid-costs
+  difficulty: 3
+  question: >-
+    You were represented by Legal Aid and won ₪5,000 in costs. To whom are the costs treated as awarded?
+  options:
+    - >-
+      To you, in full, since you are the winning party and paid nothing yourself.
+    - >-
+      To the Legal Aid lawyer personally, as a fee.
+    - >-
+      To the State Treasury, which repays your reasonable expenses from them.
+    - >-
+      To the other side's insurer, to offset its payment.
+  correct: 2
+  explanation: >-
+    Legal Aid Law s. 6 treats costs and lawyer's fees awarded to an aided person as awarded to the Treasury;
+    the office repays the person's reasonable expenses from them.
+- id: m11-034
+  module: 11
+  lesson: "11.3"
+  subject: legal-aid-2025
+  difficulty: 1
+  question: >-
+    According to the Ministry of Justice report for 2025, about how many appointments for representation
+    in new proceedings did Legal Aid make that year?
+  options:
+    - >-
+      About 10,000.
+    - >-
+      About 40,000.
+    - >-
+      About 500,000.
+    - >-
+      About 108,800.
+  correct: 3
+  explanation: >-
+    The report gives 108,812 appointments in new proceedings in 2025 and warns that a new operating system
+    changed how requests and appointments are measured.
+- id: m11-035
+  module: 11
+  lesson: "11.3"
+  subject: comptroller-disability
+  difficulty: 2
+  question: >-
+    What did the State Comptroller find about guardianship proceedings in the report on people with
+    disabilities in legal proceedings?
+  options:
+    - >-
+      In 95% or more of guardian appointments, the person concerned was not heard at all.
+    - >-
+      Most guardianship cases were decided by the Legal Aid office rather than by a court.
+    - >-
+      Guardians were appointed only after a full trial with witnesses.
+    - >-
+      All courts had completed accessibility training by 2018.
+  correct: 0
+  explanation: >-
+    The Comptroller found that in 95% or more of cases the person's position was not heard, a stark gap
+    between the law in books and in action.
+- id: m11-036
+  module: 11
+  lesson: "11.3"
+  subject: small-claims-lawyers
+  difficulty: 1
+  question: >-
+    Which forum: you want to sue a phone company over a ₪2,400 overcharge and prefer that the company not
+    bring a lawyer. Where do you file?
+  options:
+    - >-
+      The district court, since the defendant is a large company.
+    - >-
+      The small-claims court, where lawyers appear only with the court's leave.
+    - >-
+      The labour court, since the company employs many people.
+    - >-
+      The High Court of Justice, since telecoms are regulated by the state.
+  correct: 1
+  explanation: >-
+    An individual may sue a company in small claims within the ceiling; Courts Law s. 63(א) admits lawyers
+    only with leave for special reasons.
+- id: m11-037
+  module: 11
+  lesson: "11.3"
+  subject: help-sources
+  difficulty: 2
+  question: >-
+    The survey found that getting help raised the chance of solving a legal problem. Which source did
+    most people turn to first?
+  options:
+    - >-
+      Lawyers.
+    - >-
+      Courts.
+    - >-
+      Family and friends.
+    - >-
+      Members of the Knesset.
+  correct: 2
+  explanation: >-
+    Family and friends were the most common source (48%); among professional sources Kol-Zchut (31%) and
+    lawyers (30%) led. Family advice often lacks professional knowledge.
+- id: m11-038
+  module: 11
+  lesson: "11.3"
+  subject: cheapest-route
+  difficulty: 3
+  question: >-
+    A municipality wrongly charges you a fee and ignores your email. Which route is the cheapest that can
+    still work, before any court?
+  options:
+    - >-
+      A petition to the High Court of Justice.
+    - >-
+      A complaint to the police.
+    - >-
+      A class action on behalf of all the residents of the city.
+    - >-
+      A written demand and then a complaint to the Ombudsman.
+  correct: 3
+  explanation: >-
+    Climb the pyramid one step at a time: a written demand, then the Ombudsman (the State Comptroller's free
+    complaints service). Courts remain the backstop.
+- id: m11-039
+  module: 11
+  lesson: "11.3"
+  subject: access-costs-balance
+  difficulty: 2
+  question: >-
+    Regulation 151(ב) of the Civil Procedure Regulations requires a costs decision to balance which values?
+  options:
+    - >-
+      Access to the courts, the individual's property and equality between the parties.
+    - >-
+      The speed of the trial, the judge's workload and the State's budget for the courts.
+    - >-
+      The plaintiff's income, the defendant's profits and inflation.
+    - >-
+      Public interest, media attention and precedent.
+  correct: 0
+  explanation: >-
+    Regulation 151(ב) names access to courts, property and equality. It recognises that costs rules can
+    deter litigation.
+- id: m11-040
+  module: 11
+  lesson: "11.3"
+  subject: delegalisation-critique
+  difficulty: 3
+  question: >-
+    A critic says pushing disputes to mediation and self-help "hides injustice". Which reply best states
+    the other side of the debate?
+  options:
+    - >-
+      Mediation is always illegal in public-law disputes.
+    - >-
+      Most people want quick solutions, and users rated mediation clearer and fairer.
+    - >-
+      Courts never produce useful precedents in small disputes, so nothing is lost by avoiding them.
+    - >-
+      Self-help is the only route the law allows for consumers.
+  correct: 1
+  explanation: >-
+    The survey found mediation and informal processes rated clearer, fairer and quicker than average, but
+    used in only about 6% of cases. The critic's concern about visibility of injustice remains a real debate.
+- id: m11-041
+  module: 11
+  lesson: "11.4"
+  subject: clearance-rate
+  difficulty: 1
+  question: >-
+    How is the clearance rate (CR) in the Judiciary's annual report calculated?
+  options:
+    - >-
+      Pending cases divided by judges.
+    - >-
+      Cases opened divided by cases pending.
+    - >-
+      Cases closed divided by cases opened.
+    - >-
+      Judgments given divided by appeals filed.
+  correct: 2
+  explanation: >-
+    The report defines CR as cases closed divided by cases opened. Below 100% means the pending stock is growing.
+- id: m11-042
+  module: 11
+  lesson: "11.4"
+  subject: report-2023-figures
+  difficulty: 1
+  question: >-
+    What was the clearance rate for all courts and labour tribunals in 2023, according to the Judiciary's
+    annual report?
+  options:
+    - >-
+      101.5%.
+    - >-
+      110.5%.
+    - >-
+      82.8%.
+    - >-
+      93.4%.
+  correct: 3
+  explanation: >-
+    In 2023, 838,259 cases were closed and 897,342 opened: a CR of 93.4%, affected by the emergency regime,
+    judicial vacancies and more new cases.
+- id: m11-043
+  module: 11
+  lesson: "11.4"
+  subject: backlog-calc
+  difficulty: 2
+  question: >-
+    A court closed 2,400 cases last year and has 1,800 pending. Roughly how many months of work are waiting?
+  options:
+    - >-
+      About 9 months.
+    - >-
+      About 1.3 months.
+    - >-
+      About 18 months.
+    - >-
+      About 4 months.
+  correct: 0
+  explanation: >-
+    Monthly closures are 2,400 ÷ 12 = 200; 1,800 ÷ 200 = 9 months. It is a crude queue measure, not the
+    waiting time of any one case.
+- id: m11-044
+  module: 11
+  lesson: "11.4"
+  subject: average-life
+  difficulty: 2
+  question: >-
+    The 2023 report gives an average life of 4.8 months for small claims and 10.9 months for civil cases in
+    the magistrates' courts. Which caution is most important?
+  options:
+    - >-
+      The figures are invented and should not be used.
+    - >-
+      Averages mix simple and complex cases, and 2023 was an unusual year.
+    - >-
+      Small claims always take longer than civil cases in practice, whatever the report says.
+    - >-
+      Averages apply only to cases filed by lawyers.
+  correct: 1
+  explanation: >-
+    Averages include simple, undefended cases and can be pulled by extremes; 2023 included the emergency
+    regime after 7 October. Use them as a base rate and adjust.
+- id: m11-045
+  module: 11
+  lesson: "11.4"
+  subject: parole-study
+  difficulty: 1
+  question: >-
+    What pattern did Danziger, Levav and Avnaim-Pesso report in Israeli parole decisions?
+  options:
+    - >-
+      Favourable rulings rose steadily through the day.
+    - >-
+      Favourable rulings were the same at all times of day.
+    - >-
+      They fell from about 65% to near zero in each session and recovered after breaks.
+    - >-
+      Favourable rulings depended only on the prisoner's offence and earlier criminal record.
+  correct: 2
+  explanation: >-
+    The study found the drop-and-recovery pattern around food breaks and concluded that extraneous factors
+    can sway rulings. The reply challenged the causal claim.
+- id: m11-046
+  module: 11
+  lesson: "11.4"
+  subject: confounder-representation
+  difficulty: 2
+  question: >-
+    In Weinshall-Margel and Shapard's data, how did represented and unrepresented prisoners compare?
+  options:
+    - >-
+      Unrepresented prisoners succeeded more often, about 35% against 15%.
+    - >-
+      There was no difference in success rates.
+    - >-
+      Representation data were not available, so no comparison was made.
+    - >-
+      Represented prisoners succeeded more often, about 35% against 15%.
+  correct: 3
+  explanation: >-
+    Unrepresented prisoners, about a third of the cases and usually heard last, succeeded in about 15% of
+    cases against 35% for represented ones, which can produce the time-of-day pattern.
+- id: m11-047
+  module: 11
+  lesson: "11.4"
+  subject: selection-effect
+  difficulty: 2
+  question: >-
+    Why might plaintiffs' win rate in tried cases tend towards 50%, according to Priest and Klein?
+  options:
+    - >-
+      Because clear cases settle, so the cases tried are the close ones.
+    - >-
+      Because judges deliberately split their decisions evenly.
+    - >-
+      Because the law requires a balanced number of wins and losses.
+    - >-
+      Because plaintiffs always claim twice what they are owed.
+  correct: 0
+  explanation: >-
+    The selection effect: parties settle the cases whose outcome is predictable, leaving close cases for
+    trial. Later work qualified the 50% prediction.
+- id: m11-048
+  module: 11
+  lesson: "11.4"
+  subject: supreme-court-base-rates
+  difficulty: 2
+  question: >-
+    Eisenberg, Fisher and Rosen-Zvi studied Supreme Court cases from 2006–2007. About how often was leave
+    to appeal granted in civil requests?
+  options:
+    - >-
+      About 60%.
+    - >-
+      About 15%.
+    - >-
+      About 2%.
+    - >-
+      About 40%.
+  correct: 1
+  explanation: >-
+    Leave was granted in about 15% of civil and 6% of criminal requests. The data are old, so check for
+    newer studies, but they show how rare leave is.
+- id: m11-049
+  module: 11
+  lesson: "11.4"
+  subject: nominal-real
+  difficulty: 2
+  question: >-
+    The report gives an average magistrates' court claim of ₪76,765 in 2023 and ₪55,472 "at 2005 prices".
+    What explains the difference?
+  options:
+    - >-
+      Small claims are excluded from the second figure.
+    - >-
+      The second figure counts only claims by companies.
+    - >-
+      The second figure adjusts for inflation to compare with 2005.
+    - >-
+      The first figure includes court fees and the second does not.
+  correct: 2
+  explanation: >-
+    Constant prices remove inflation. Comparing nominal sums over many years overstates real growth.
+- id: m11-050
+  module: 11
+  lesson: "11.4"
+  subject: measurement-change
+  difficulty: 3
+  question: >-
+    Legal Aid's figures for 2025 are much higher than for an earlier year. Before concluding that demand
+    rose, what should you check first?
+  options:
+    - >-
+      Whether the Knesset debated Legal Aid that year.
+    - >-
+      Whether the report was published in Hebrew or English.
+    - >-
+      Whether Legal Aid's outside lawyers were paid more in 2025 than before.
+    - >-
+      Whether the way requests and appointments were counted changed.
+  correct: 3
+  explanation: >-
+    The 2025 report says a new operating system changed how requests and appointments are measured. A change
+    in measurement can create an apparent trend.
+- id: m11-051
+  module: 11
+  lesson: "11.4"
+  subject: base-rate-adjust
+  difficulty: 3
+  question: >-
+    Spot the mistake. A litigant writes in her plan: "Average small claim takes 4.8 months, so my hearing
+    will be in exactly 4.8 months, and I will book a holiday right after." What is wrong?
+  options:
+    - >-
+      She treated a national average of closed cases as a prediction for her case.
+    - >-
+      Small claims are never heard within a year of filing, so the plan is too early.
+    - >-
+      The figure refers only to labour courts.
+    - >-
+      Litigants are forbidden to plan holidays during proceedings.
+  correct: 0
+  explanation: >-
+    A base rate is a starting point; her court, a defence, experts and postponements change it. Plan with a
+    range, not a point.
+- id: m11-052
+  module: 11
+  lesson: "11.4"
+  subject: foi-data
+  difficulty: 2
+  question: >-
+    You need court data that the annual report does not publish. Which law gives you a route to request it?
+  options:
+    - >-
+      The Courts Law, s. 79א.
+    - >-
+      The Freedom of Information Law.
+    - >-
+      The Legal Aid Law.
+    - >-
+      The Consumer Protection Law, 1981.
+  correct: 1
+  explanation: >-
+    Public authorities must publish annual reports (FOI Law s. 5) and answer requests for information under
+    the Law, subject to its exceptions (lesson 02.7).
+- id: m11-053
+  module: 11
+  lesson: "11.5"
+  subject: ev-basic
+  difficulty: 1
+  question: >-
+    You have a 50% chance of winning ₪8,000 from a solvent defendant, with ₪500 of unrecoverable costs.
+    Ignoring costs awards and interest, what is your expected value?
+  options:
+    - >-
+      ₪8,000.
+    - >-
+      ₪4,000.
+    - >-
+      ₪3,500.
+    - >-
+      ₪7,500.
+  correct: 2
+  explanation: >-
+    0.5 × 8,000 − 500 = ₪3,500. With a solvent defendant the chance of collecting is close to 1.
+- id: m11-054
+  module: 11
+  lesson: "11.5"
+  subject: costs-default
+  difficulty: 1
+  question: >-
+    Under reg. 152 of the Civil Procedure Regulations 2018, what is the default rule at the end of a hearing?
+  options:
+    - >-
+      Each party bears its own costs.
+    - >-
+      Costs are awarded only if a party asks in writing before the hearing.
+    - >-
+      Costs are awarded only against companies.
+    - >-
+      Reasonable and fair costs, unless there are special reasons not to.
+  correct: 3
+  explanation: >-
+    Costs are the default. A self-represented party who loses should expect to pay something.
+- id: m11-055
+  module: 11
+  lesson: "11.5"
+  subject: min-tariff
+  difficulty: 2
+  question: >-
+    When a winning party had a lawyer, what is the floor for the lawyer's fee the court awards, under reg.
+    153(א)?
+  options:
+    - >-
+      The Bar's minimum recommended tariff, unless special reasons justify less.
+    - >-
+      The actual fee the winner paid to the lawyer, whatever its amount, with VAT.
+    - >-
+      10% of the sum awarded, by law.
+    - >-
+      There is no floor; the court decides freely.
+  correct: 0
+  explanation: >-
+    Regulation 153(א) sets the minimum recommended tariff as a floor, subject to special reasons; reg.
+    153(ג) lists the factors for the amount.
+- id: m11-056
+  module: 11
+  lesson: "11.5"
+  subject: fee-two-halves
+  difficulty: 2
+  question: >-
+    In a magistrates' court claim for a fixed sum, when is the second half of the court fee paid?
+  options:
+    - >-
+      Only if the plaintiff wins, together with the judgment.
+    - >-
+      Before the first hearing date, linked to the index.
+    - >-
+      With the appeal, if there is one.
+    - >-
+      Never; the full fee is paid on filing.
+  correct: 1
+  explanation: >-
+    Courts (Fees) Regulations reg. 6(א): half on filing, the second half before the first hearing date with
+    linkage. It is not due if the case ends before the hearing begins (reg. 6(ג)).
+- id: m11-057
+  module: 11
+  lesson: "11.5"
+  subject: fee-refund-settlement
+  difficulty: 2
+  question: >-
+    Which event gives a plaintiff a refund of the court fee, less a fixed deduction, under reg. 6(ב)?
+  options:
+    - >-
+      The plaintiff wins at trial after five hearings.
+    - >-
+      The defendant fails to file a defence on time and judgment is given.
+    - >-
+      The case settles before the end of the third pre-trial hearing.
+    - >-
+      The judge is replaced during the proceedings.
+  correct: 2
+  explanation: >-
+    Withdrawal, settlement, arbitration or successful mediation before the end of the third pre-trial hearing
+    brings a refund less a fixed deduction (Schedule items 34–35).
+- id: m11-058
+  module: 11
+  lesson: "11.5"
+  subject: fee-exemption
+  difficulty: 2
+  question: >-
+    You cannot afford the court fee for a claim you believe is strong. What does reg. 14 of the Fees
+    Regulations allow?
+  options:
+    - >-
+      Paying the whole fee only after judgment, without making any prior request.
+    - >-
+      Filing without a fee if the claim is under ₪10,000.
+    - >-
+      Asking the defendant to pay the fee in advance.
+    - >-
+      A request for exemption with the first filing, with an affidavit on means.
+  correct: 3
+  explanation: >-
+    The request is filed with the claim, with an affidavit on property and income; the court may exempt in
+    full or in part if the proceeding shows a cause of action. Some benefits are prima facie evidence of inability.
+- id: m11-059
+  module: 11
+  lesson: "11.5"
+  subject: interest-period
+  difficulty: 2
+  question: >-
+    Under s. 2(ב) of the Adjudication of Interest and Linkage Law, from when does interest on the judgment
+    sum run by default?
+  options:
+    - >-
+      From the day the claim was filed until payment.
+    - >-
+      From the day of judgment only.
+    - >-
+      From the day the plaintiff first complained.
+    - >-
+      Interest is never awarded on judgment sums.
+  correct: 0
+  explanation: >-
+    For the sum awarded, the default period runs from filing to payment; for costs, from the decision. The
+    court may set another start date, not earlier than the cause of action arose.
+- id: m11-060
+  module: 11
+  lesson: "11.5"
+  subject: collection-risk
+  difficulty: 3
+  question: >-
+    You are sure to win ₪15,000 against a former friend who has no job, no assets and other debts. Your
+    costs and time come to ₪2,000. What is the main weakness of suing?
+  options:
+    - >-
+      The court will refuse to hear a claim between former friends.
+    - >-
+      The chance of collecting is low, so the expected value may be negative.
+    - >-
+      The limitation period is always one year for personal debts.
+    - >-
+      A certain win means the defendant must pay your costs in advance.
+  correct: 1
+  explanation: >-
+    EV = p × c × J − costs; with c near zero, even a certain judgment is worth little. Consider waiting, a
+    payment arrangement, or execution later if his position changes.
+- id: m11-061
+  module: 11
+  lesson: "11.5"
+  subject: security-for-costs
+  difficulty: 3
+  question: >-
+    The defendant asks the court to order you, the plaintiff, to give security for its costs under reg.
+    157. What happens if the court orders it and you do not give it on time?
+  options:
+    - >-
+      The defendant must give security instead.
+    - >-
+      The court continues the case and deducts the sum from any award.
+    - >-
+      The statement of claim is struck out.
+    - >-
+      You are fined by the court's registry.
+  correct: 2
+  explanation: >-
+    Regulation 157(ב): if the security is not given within the time set, the claim is struck out. A request
+    for security is a signal to get advice.
+- id: m11-062
+  module: 11
+  lesson: "11.5"
+  subject: settlement-range
+  difficulty: 3
+  question: >-
+    Your EV from suing is ₪6,000. The defendant's expected cost of defending (judgment, interest, his lawyer,
+    costs, time) is ₪9,000. Where should a rational settlement fall?
+  options:
+    - >-
+      Below ₪6,000, because the plaintiff always bears the risk.
+    - >-
+      Above ₪9,000, because the defendant must pay a premium.
+    - >-
+      Exactly at your claim, since settlement is only a discount on the claim.
+    - >-
+      Between ₪6,000 and ₪9,000, where both are better off than at trial.
+  correct: 3
+  explanation: >-
+    Any figure between your expected value and the defendant's expected cost leaves both better off than a
+    trial. Set your walk-away figure near the bottom of the range.
+- id: m11-063
+  module: 11
+  lesson: "11.5"
+  subject: motion-costs
+  difficulty: 2
+  question: >-
+    Bar-exam style. Under reg. 53 of the Civil Procedure Regulations 2018, when are the costs of a motion
+    decided?
+  options:
+    - >-
+      When each motion is decided, whatever the main result, unless special reasons apply.
+    - >-
+      Only at the end of the whole case, together with the main costs and the lawyer's fees.
+    - >-
+      Only if the motion was filed by a lawyer.
+    - >-
+      Never; motions carry no costs in the magistrates' court.
+  correct: 0
+  explanation: >-
+    Regulation 53 requires the court to decide the costs of each motion when it is decided, unrelated to the
+    outcome of the main case. Unnecessary motions cost money.
+- id: m11-064
+  module: 11
+  lesson: "11.5"
+  subject: mediation-no-show
+  difficulty: 2
+  question: >-
+    Bar-exam style. A party does not attend the mediation-intake meeting (מהו״ת) under reg. 37. What may
+    follow?
+  options:
+    - >-
+      Nothing; attendance is voluntary.
+    - >-
+      Costs of the mediator and of the parties who came, unless there are reasons not to.
+    - >-
+      Automatic dismissal of the claim.
+    - >-
+      A criminal fine for contempt of court, imposed by the judge who referred the case later.
+  correct: 1
+  explanation: >-
+    Regulation 37(י) provides for costs of the mediator and of the parties who attended, unless reasons not
+    to charge are found. Attendance at the meeting is compulsory; mediation itself is voluntary.

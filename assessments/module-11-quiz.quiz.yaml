@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    A hummus restaurant's ventilation smells reach twenty flats in the building above it. Fitting a
+    filter costs ₪15,000; the residents together value clean air at ₪40,000. The residents cannot agree
+    among themselves and distrust the owner. What does the Coase theorem suggest about the legal rule?
+  options:
+    - >-
+      It does not matter, since the parties will always bargain to the filter whatever the rule.
+    - >-
+      It matters, because with twenty parties and mistrust bargaining is costly, so the rule decides.
+    - >-
+      It matters only if the restaurant is a company, since companies cannot bargain with residents.
+    - >-
+      It does not matter, since nuisance law is not concerned with economic efficiency.
+  correct: 1
+  explanation: >-
+    Coase's result needs low transaction costs. With many parties, collective-action problems and
+    mistrust, a deal is unlikely, so whether residents can get an injunction decides whether the filter
+    is fitted.
+- id: q2
+  question: >-
+    A quarry argues in the magistrates' court that it should pay its neighbour damages rather than stop
+    blasting at night, because it supplies a large public project. Which reply best reflects Israeli law?
+  options:
+    - >-
+      The court must always prefer damages when the defendant's activity has public value.
+    - >-
+      The neighbour must first prove the quarry was negligent before any injunction is possible.
+    - >-
+      Damages replace an injunction only where s. 74's narrow conditions are all met.
+    - >-
+      Injunctions are available only in the district court, so the claim must be transferred.
+  correct: 2
+  explanation: >-
+    Civil Wrongs Ordinance s. 74 sets narrow conditions for damages instead of an injunction; Ata v.
+    Schwartz upheld an injunction against a major employer. Nuisance does not require negligence.
+- id: q3
+  question: >-
+    Your landlord kept ₪6,000 of your deposit. His first message offers ₪1,000 "out of goodwill". You
+    have an inventory, photos and a cleaning receipt for ₪400. What is the best reply in behavioural terms?
+  options:
+    - >-
+      An itemised demand for ₪5,600 tied to the documents, framed around the costs he avoids by paying now.
+    - >-
+      A counter-offer of ₪3,500, splitting the difference between his figure and your loss.
+    - >-
+      A demand for ₪12,000, double the deposit, to anchor the talks far above your loss.
+    - >-
+      No reply until he makes a better offer, so that you do not reveal your position first.
+  correct: 0
+  explanation: >-
+    His ₪1,000 is a low anchor. A reasoned figure tied to documents re-anchors the talks, and loss framing
+    speaks to his loss aversion. Splitting the difference accepts his anchor; an inflated demand costs
+    credibility and, if you sue, fee and costs.
+- id: q4
+  question: >-
+    A streaming service gave you six months at half price under a contract that "renews automatically at
+    full price". No notice was sent, and you were charged full price for two months. What is your
+    strongest position?
+  options:
+    - >-
+      The renewal is valid because you agreed to it, so you can only cancel from now on.
+    - >-
+      The renewal is valid unless you prove the service was of poor quality during those months.
+    - >-
+      The renewal is void only if the service is listed in a schedule requiring written consent.
+    - >-
+      The continuation term has no effect under s. 13א, so you can ask for the two months back.
+  correct: 3
+  explanation: >-
+    A discounted period is a fixed-term transaction under Consumer Protection Law s. 13א; a term that the
+    contract continues after its end date is void unless the consumer consented, and the dealer must prove
+    consent. Some listed services are an exception only if written notice was given in time.
+- id: q5
+  question: >-
+    A friend says, "Nobody in our town sues their employer over unpaid wages, so employers here must be
+    paying properly." What does the Israeli legal-needs survey suggest?
+  options:
+    - >-
+      The friend is right, because employment problems rarely arise in Israel.
+    - >-
+      Employment problems have some of the highest rates of no action at all, so few claims prove little.
+    - >-
+      Most employment problems go to the labour court, so a low local number means compliance.
+    - >-
+      The survey covered only consumer problems, so it says nothing about employment.
+  correct: 1
+  explanation: >-
+    The survey found that in about a third of problems people took no active step, with consumer,
+    employment and benefits problems highest. A low number of claims can reflect barriers, not compliance.
+- id: q6
+  question: >-
+    You are suing a national insurer in the small-claims court. The insurer asks to be represented by its
+    outside law firm. What is the legal position?
+  options:
+    - >-
+      Any party may be represented by a lawyer in small claims as of right.
+    - >-
+      A company must always be represented by a lawyer in every Israeli court.
+    - >-
+      A lawyer may appear only with leave, for special recorded reasons.
+    - >-
+      The insurer may send a lawyer only if you also hire one.
+  correct: 2
+  explanation: >-
+    Courts Law s. 63(א) limits lawyers in small claims to cases where the court allows it for special
+    reasons. The rule reduces the advantage of repeat players such as insurers.
+- id: q7
+  question: >-
+    A news item says: "Courts closed more than 838,000 cases in 2023, a record of efficiency." The
+    Judiciary's report shows 897,342 cases opened that year. What is the most accurate reading?
+  options:
+    - >-
+      The clearance rate was about 93%, so the pending caseload grew that year.
+    - >-
+      The clearance rate was about 107%, so the backlog shrank sharply.
+    - >-
+      The figures cannot be compared, because opened and closed cases are different courts.
+    - >-
+      Closing more cases than any year before proves that waiting times fell.
+  correct: 0
+  explanation: >-
+    838,259 ÷ 897,342 is about 93.4%. Below 100% the pending stock grows. The report links the figure partly
+    to the emergency regime after 7 October 2023.
+- id: q8
+  question: >-
+    Two litigants compare notes: "In my case the judge decided right after lunch and I won." "In mine it
+    was late in the day and I lost." Based on the parole-board debate, what is the soundest conclusion?
+  options:
+    - >-
+      Always ask for a hearing right after a break, since the meal effect is proven.
+    - >-
+      Judges are never affected by fatigue, as the reply to the study showed.
+    - >-
+      Anecdotes prove nothing, but hearing times never matter in Israeli courts.
+    - >-
+      Case order and representation can explain such patterns as well as fatigue.
+  correct: 3
+  explanation: >-
+    The reply to Danziger et al. showed that case order and representation could produce the pattern. It
+    did not prove judges are immune to fatigue; it showed the evidence did not isolate a meal effect.
+- id: q9
+  question: >-
+    You expect a 60% chance of winning ₪20,000 against a company that is solvent. Fees, expenses and your
+    time come to ₪2,000; costs if you lose may be ₪1,500; ignore other items. The company offers ₪9,000
+    now. What does the expected-value analysis suggest?
+  options:
+    - >-
+      Reject it, because your expected value is ₪20,000 and the offer is less than half.
+    - >-
+      Accept it, because any risk of losing makes a certain sum the only rational choice.
+    - >-
+      Your EV is about ₪9,400, so the offer is close; a modest counter-offer is reasonable.
+    - >-
+      Your EV is about ₪12,000, because costs if you lose are recovered from the company.
+  correct: 2
+  explanation: >-
+    EV = 0.6 × 20,000 − 2,000 − 0.4 × 1,500 = 12,000 − 2,000 − 600 = ₪9,400. The offer is close to it, and
+    a certain sum now has extra value for most people, so a small counter is sensible.
+- id: q10
+  question: >-
+    You won a magistrates' court case without a lawyer. In your summations you wrote only, "I ask for my
+    expenses." The judgment awards you nothing for expenses. What went wrong?
+  options:
+    - >-
+      Self-represented parties can never receive any costs or expenses.
+    - >-
+      Expenses are awarded only if itemised in the summations with supporting documents.
+    - >-
+      Expenses must be claimed in a separate claim within 30 days of judgment.
+    - >-
+      Expenses are paid only by the court and require a request to the court president.
+  correct: 1
+  explanation: >-
+    Regulation 155(א) of the Civil Procedure Regulations 2018 makes an award of legal expenses conditional
+    on listing them explicitly and in detail in the summations with documents.

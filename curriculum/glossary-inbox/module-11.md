@@ -1,0 +1,24 @@
+- **הניתוח הכלכלי של המשפט** (Ha-nituah ha-kalkali shel ha-mishpat) — Economic analysis of law (law and economics): reading legal rules as prices that change behaviour and judging them by efficiency.
+- **יעילות** (Ye'ilut) — Efficiency; Pareto (someone better off, nobody worse off) or Kaldor-Hicks (winners gain more than losers lose).
+- **תמריצים** (Tamritsim) — Incentives: the rewards and costs a rule creates for those deciding whether to obey it.
+- **עלויות עסקה** (Aluyot iska) — Transaction costs: the costs of finding, negotiating with and trusting the other side; when high, the legal rule decides the outcome (Coase).
+- **החצנה** (Hachtsana) — Externality: a cost one person's activity imposes on others who did not agree to it.
+- **כלל קניין** (Klal kinyan) — Property rule: an entitlement that can be taken only with the holder's consent, protected by an injunction or specific performance.
+- **כלל אחריות** (Klal ahrayut) — Liability rule: an entitlement that can be taken on payment of a price set by a court, protected by damages.
+- **הקטנת הנזק** (Haktanat ha-nezek) — Mitigation of damage: no damages for loss the injured party could reasonably have avoided (Remedies Law s. 14).
+- **כלכלה התנהגותית** (Kalkala hitnahagutit) — Behavioural economics: the study of systematic departures from rational choice.
+- **עיגון** (Igun) — Anchoring: the pull of a first number on later estimates.
+- **שנאת הפסד** (Sin'at hefsed) — Loss aversion: losses weigh roughly twice as much as equal gains.
+- **אפקט הבעלות** (Efekt ha-ba'alut) — Endowment effect: valuing what one has more than the same thing one does not have.
+- **הטיה אנוכית** (Hataya anokhit) — Self-serving bias: seeing fairness in the light most favourable to oneself.
+- **עסקה לתקופה קצובה** (Iska li-tkufa ktsuva) — Fixed-term consumer transaction; a term continuing it automatically after its end date is void (Consumer Protection Law s. 13א).
+- **נגישות למשפט** (Negishut la-mishpat) — Access to justice: people's ability to get a fair, quick and affordable answer to their legal needs.
+- **צורך משפטי** (Tsorekh mishpati) — Legal need: a problem a person cannot solve without legal help or a legal process.
+- **שחקן חוזר** (Sahkan hozer) — Repeat player: a litigant (insurer, bank, the state) that litigates often and gains structural advantages over one-shotters.
+- **קצב שמיעת התיקים (CR)** (Ketsev shmi'at ha-tikim) — Clearance rate: cases closed divided by cases opened in a period.
+- **מלאי תיקים** (Mlai tikim) — Pending caseload (stock) at a given date.
+- **שיעור בסיס** (Shi'ur basis) — Base rate: the typical frequency or duration in comparable cases, the starting point for an estimate.
+- **הטיית בחירה** (Hatayat bkhira) — Selection effect: tried cases are not a random sample of disputes, because clear cases settle.
+- **תוחלת** (Tohelet) — Expected value: the probability-weighted average of possible outcomes, net of costs.
+- **ערובה להוצאות** (Arevut le-hotza'ot) — Security for costs a plaintiff may be ordered to give; the claim is struck out if it is not given (CPR reg. 157).
+- **נקודת יציאה** (Nekudat yetsi'a) — Walk-away figure: the lowest settlement one will accept, set before negotiating.

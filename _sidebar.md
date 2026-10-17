@@ -102,3 +102,10 @@
   - [75 · Practice lab: find Jewish-law reasoning in a Supreme Court ruling](lessons/module-10/lesson-05.md)
   - [76 · Practice lab: a self-represented party in the rabbinical court (procedure, documents, the to'en rabbani)](lessons/module-10/lesson-06.md)
   - [Module 10 quiz](assessments/module-10-quiz.md)
+- **Module 11 — Law, Economics and Society (about 15 hours)**
+  - [77 · Law and economics: efficiency, incentives, Coase](lessons/module-11/lesson-01.md)
+  - [78 · Behavioural law and economics](lessons/module-11/lesson-02.md)
+  - [79 · Law and society: how law works in practice](lessons/module-11/lesson-03.md)
+  - [80 · Empirical legal studies: reading data about courts](lessons/module-11/lesson-04.md)
+  - [81 · Practice lab: should you sue? Expected value, costs, risk and time](lessons/module-11/lesson-05.md)
+  - [Module 11 quiz](assessments/module-11-quiz.md)

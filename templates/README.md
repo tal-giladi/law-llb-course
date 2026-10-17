@@ -10,6 +10,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Comment on a draft bill or regulation (הערות לתזכיר חוק או לטיוטת תקנות)](comment-on-draft-legislation.md)
 - [Consumer withdrawal notice (הודעת ביטול עסקה צרכנית)](consumer-withdrawal-notice.md)
 - [Contract review checklist (רשימת בדיקה לחוזה)](contract-review-checklist.md)
+- [Decision worksheet: should you sue? (גיליון החלטה: האם לתבוע?)](should-you-sue-worksheet.md)
 - [Demand letter to a company (מכתב דרישה לחברה)](demand-letter-company.md)
 - [Execution request checklist (רשימת בדיקה לפתיחת תיק בהוצאה לפועל)](execution-request-checklist.md)
 - [Forum check worksheet (דף בדיקת ערכאה)](forum-check-worksheet.md)

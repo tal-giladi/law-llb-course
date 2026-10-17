@@ -1,0 +1,73 @@
+- id: q1
+  question: >-
+    You are owed ₪4,600 by a contractor for a defective job and hold invoices for the repair. He
+    phones and asks, "What do you want?" Based on anchoring research, what is the best first move?
+  options:
+    - >-
+      Ask him to name a figure first, so that you learn his position before revealing yours.
+    - >-
+      Name a round figure well above ₪4,600, since any high number anchors the talks.
+    - >-
+      Say you will leave the figure to the court, so that you appear reasonable and calm.
+    - >-
+      Name ₪4,600 itemised against your invoices, with a deadline and the costs of a claim for him.
+  correct: 3
+  explanation: >-
+    A reasoned first figure anchors the talks and is hard to dismiss because each line is documented.
+    An unsupported inflated number risks credibility, and letting him go first anchors the talks at his
+    low figure.
+- id: q2
+  question: >-
+    Plaintiff and defendant both estimate a 50% chance that the court will award ₪20,000. Prospect
+    theory predicts which pattern?
+  options:
+    - >-
+      Both are risk-neutral and settle at exactly ₪10,000.
+    - >-
+      The plaintiff leans to settle, while the defendant leans to gamble on trial.
+    - >-
+      The plaintiff, facing a loss, leans to gamble; the defendant leans to settle quickly.
+    - >-
+      Both prefer trial, because loss aversion makes any settlement feel like a loss.
+  correct: 1
+  explanation: >-
+    People are risk-averse for gains and risk-seeking for losses. The plaintiff frames a settlement as a
+    gain and the defendant as a loss, so the defendant is the more likely to gamble. Framing your offer as
+    a loss avoided speaks to this.
+- id: q3
+  question: >-
+    Your gym membership was a 12-month deal at a discounted price. The contract says it "continues
+    automatically at the regular price unless cancelled". The gym sent no notice and kept charging you
+    for 3 months after the year ended. What does Consumer Protection Law s. 13א most likely mean?
+  options:
+    - >-
+      The continuation term is void, so you can claim back the extra charges without your consent.
+    - >-
+      The term is valid because you signed it, but you may cancel with one month's notice.
+    - >-
+      The term is valid only if the regular price is no more than 10% above the discount.
+    - >-
+      The term is void only if you complain to the regulator within 30 days of the first charge.
+  correct: 0
+  explanation: >-
+    In a fixed-term transaction a term continuing the contract after the end date has no effect; the
+    contract is treated as ending on that date, and an extension needs the consumer's consent, which the
+    dealer must prove. The rule reverses the default that inertia would exploit.
+- id: q4
+  question: >-
+    At the pre-trial hearing the judge proposes that the defendant pay you ₪6,000 of your ₪10,000
+    claim. You had not worked out your own figures. What is the most sensible response?
+  options:
+    - >-
+      Accept at once, because a judge's proposal shows how the court will rule.
+    - >-
+      Reject at once, because accepting would admit your claim was exaggerated.
+    - >-
+      Ask for time to consider and answer in writing after comparing it with your expected value.
+    - >-
+      Ask the judge to raise the figure, since proposals are opening bids in a negotiation.
+  correct: 2
+  explanation: >-
+    A judge's number is a strong anchor, but it is a proposal, not a ruling. Asking for time and
+    comparing it with your expected value (lesson 11.5) protects you from both the anchor and your own
+    optimism.

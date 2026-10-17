@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A court opened 12,000 cases last year and closed 10,800. It had 9,000 cases pending at year end.
+    Which reading is correct?
+  options:
+    - >-
+      The clearance rate is 111%, so the court is reducing its backlog.
+    - >-
+      The clearance rate is 90%; pending cases grew by about 1,200, about 10 months of work.
+    - >-
+      The clearance rate is 75%, because 9,000 of the 12,000 new cases are still pending.
+    - >-
+      The clearance rate cannot be computed without the average life of a case.
+  correct: 1
+  explanation: >-
+    CR is closed divided by opened (10,800 ÷ 12,000 = 90%). Opened minus closed is about 1,200 more pending
+    cases, and 9,000 ÷ (10,800 ÷ 12) is about 10 months of work.
+- id: q2
+  question: >-
+    A blog post says: "Parole boards free 65% of prisoners after lunch and almost none before it, so
+    judges decide on an empty stomach." Which objection, raised in the published reply, is most serious?
+  options:
+    - >-
+      The study used too few judges to say anything at all about Israeli courts.
+    - >-
+      Parole boards are not courts, so no finding about them can apply to judges.
+    - >-
+      Case order was not random: unrepresented prisoners tended to be heard last.
+    - >-
+      The researchers did not record what the judges actually ate at each break.
+  correct: 2
+  explanation: >-
+    A confounder can produce the same pattern. Weinshall-Margel and Shapard showed that cases were grouped
+    by prison and that unrepresented prisoners usually came last in a session, with much lower success rates.
+- id: q3
+  question: >-
+    You read that "plaintiffs win about half of the cases that go to trial in this court". How should
+    this affect your estimate of your own chance of winning?
+  options:
+    - >-
+      Very little: tried cases are the close ones left after clear cases settle.
+    - >-
+      Strongly: your chance is about 50% whatever the facts of your case.
+    - >-
+      It shows the court is biased towards defendants, so you should lower your estimate.
+    - >-
+      It shows the law in your area is unclear, so you should not sue at all.
+  correct: 0
+  explanation: >-
+    The selection effect (Priest and Klein) means tried cases are not a random sample of disputes. Start
+    from the facts and documents of your own case, using base rates only as a check.
+- id: q4
+  question: >-
+    The average life of a small claim in 2023 was 4.8 months. Your claim is defended and the judge may
+    appoint an expert. What is the best way to plan?
+  options:
+    - >-
+      Plan for 4.8 months exactly, since the figure is the official national average.
+    - >-
+      Ignore the figure, since national averages say nothing about individual cases.
+    - >-
+      Plan for several years, since contested cases in Israel always take that long.
+    - >-
+      Start from 4.8 months and adjust upwards for a defence and an expert.
+  correct: 3
+  explanation: >-
+    A base rate is the right starting point, then adjust for what makes your case different. Defended
+    cases with experts take longer than the average, which includes simple cases.

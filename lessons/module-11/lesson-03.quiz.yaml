@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A city council member says, "Our tenants' rights law works well: hardly any tenants sue under it."
+    What is the strongest socio-legal objection?
+  options:
+    - >-
+      Few lawsuits prove that landlords comply, since courts are the only place rights are tested.
+    - >-
+      Few lawsuits may mean tenants never name, claim or pursue their rights, not that the law is obeyed.
+    - >-
+      Few lawsuits show that the law is too strict and should be repealed to reduce litigation.
+    - >-
+      Few lawsuits are irrelevant, since the number of claims never tells us anything about a law.
+  correct: 1
+  explanation: >-
+    The dispute pyramid shows that most grievances never become claims. Israel's survey found that only
+    about 10% of resolution attempts reach a court, so a low number of lawsuits says little about compliance.
+- id: q2
+  question: >-
+    You are suing a mobile-phone company over overcharging. Which feature of Israeli law most directly
+    reduces the company's advantage as a repeat player?
+  options:
+    - >-
+      The rule that the court must always award you full lawyer's fees if you win.
+    - >-
+      The rule that a company may never settle a consumer claim before judgment.
+    - >-
+      The small-claims rule that lawyers appear only with the court's leave for special reasons.
+    - >-
+      The rule that a company must file its defence before you file your claim.
+  correct: 2
+  explanation: >-
+    Courts Law s. 63(א) keeps lawyers out of small claims unless the court allows them, so the company
+    cannot bring its law firm. The other options describe rules that do not exist.
+- id: q3
+  question: >-
+    According to the Ministry of Justice legal-needs survey, which statement about how Israelis deal
+    with legal problems is accurate?
+  options:
+    - >-
+      Most people go to court first, and only a minority try to talk to the other side.
+    - >-
+      Almost everyone who seeks help gets it, so the main gap is in court delays.
+    - >-
+      Mediation is the most common route, used in roughly half of all problems.
+    - >-
+      Most seek help, mostly from family and friends; about half get what they need.
+  correct: 3
+  explanation: >-
+    About 80% try to get help, most often from family and friends (48%), but only about half say they got
+    what they needed. Court is used in about 10% of attempts and mediation in about 6%.
+- id: q4
+  question: >-
+    Legal Aid refused your request because, in its view, your claim has no reasonable basis in the facts.
+    What can you do under the Legal Aid Law?
+  options:
+    - >-
+      Appeal the refusal to the district court, where a single judge decides.
+    - >-
+      Ask the Public Defender to take the civil case instead.
+    - >-
+      Nothing; a refusal on the merits is final and cannot be challenged.
+    - >-
+      File a petition to the High Court of Justice as the only available remedy.
+  correct: 0
+  explanation: >-
+    Section 4 allows refusal of a case with no reasonable basis, and s. 5 gives an appeal to the district
+    court, heard by one judge, whose decision is final. The Public Defender handles criminal matters.
