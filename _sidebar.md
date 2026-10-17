@@ -47,3 +47,13 @@
   - [32 · Practice lab: a tort demand letter and the insurance claim](lessons/module-04/lesson-08.md)
   - [33 · Practice lab: small claim for property damage (dry run)](lessons/module-04/lesson-09.md)
   - [Module 4 quiz](assessments/module-04-quiz.md)
+- **Module 5 — Criminal Law (about 20 hours)**
+  - [34 · Principles: legality, culpability and the general part of the Penal Law 1977](lessons/module-05/lesson-01.md)
+  - [35 · The elements of an offence: conduct, circumstances, result, mental element](lessons/module-05/lesson-02.md)
+  - [36 · Attempt, accomplices and inchoate offences](lessons/module-05/lesson-03.md)
+  - [37 · Defences: self-defence, necessity, duress, mistake, de minimis](lessons/module-05/lesson-04.md)
+  - [38 · Core offences: against the person, property and public order](lessons/module-05/lesson-05.md)
+  - [39 · Sentencing: structuring discretion (Amendment 113)](lessons/module-05/lesson-06.md)
+  - [40 · Practice lab: filing a police complaint as a victim and using the Crime Victims' Rights Law](lessons/module-05/lesson-07.md)
+  - [41 · Practice lab: appealing a decision to close a file; the private criminal complaint (קובלנה פלילית)](lessons/module-05/lesson-08.md)
+  - [Module 5 quiz](assessments/module-05-quiz.md)

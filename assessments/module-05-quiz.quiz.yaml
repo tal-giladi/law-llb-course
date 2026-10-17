@@ -1,0 +1,173 @@
+- id: q1
+  question: >-
+    A law raising the maximum penalty for threats came into force in June. A man is tried in
+    September for threats made in April. Which maximum applies?
+  options:
+    - >-
+      The new, higher maximum, because the trial is after June.
+    - >-
+      The court chooses, giving reasons.
+    - >-
+      The maximum in force in April, the lower one.
+    - >-
+      The average of the two maximums.
+  correct: 2
+  explanation: >-
+    A heavier penalty does not apply to acts done before its publication or commencement (s. 3(ב)),
+    and s. 5 applies the law more lenient to the accused.
+- id: q2
+  question: >-
+    A woman bought a "new" phone from a stranger at a third of its price, suspected it was stolen and
+    deliberately did not check its serial number. She is charged with receiving stolen property and
+    says she did not know. What is the strongest answer to her claim?
+  options:
+    - >-
+      She is liable only if the seller testifies against her.
+    - >-
+      Her suspicion plus refusal to check counts as awareness.
+    - >-
+      She can only be liable for negligence, a lesser offence.
+    - >-
+      Ignorance of the law is no defence.
+  correct: 1
+  explanation: >-
+    Section 20(ג)(1) treats a person who suspected a circumstance and refrained from checking as
+    aware of it (wilful blindness). Mistake of law is irrelevant here: the issue is a fact.
+- id: q3
+  question: >-
+    Three men robbed a kiosk: one threatened the seller, one took the cash, and one waited in the car
+    and drove them away, as planned. Writing your complaint as the kiosk owner, how do you describe
+    the driver?
+  options:
+    - >-
+      As a participant who drove the car.
+    - >-
+      As a witness who may know who the robbers are.
+    - >-
+      Not at all, since he never entered the kiosk.
+    - >-
+      As an accessory after the fact only.
+  correct: 0
+  explanation: >-
+    A planned getaway driver takes part in executing the offence or at least aids it before and
+    during (ss. 29, 31). Describe his acts and role; the prosecutor chooses the section.
+- id: q4
+  question: >-
+    A drunk man tries to grab your bag at a bus stop. You push him away and he falls. Then, while he
+    is on the ground, you kick him several times. He complains. What is the likely legal view?
+  options:
+    - >-
+      Everything you did was self-defence, because he attacked first.
+    - >-
+      Nothing was self-defence, because you used your feet.
+    - >-
+      The push and the kicks are both de minimis.
+    - >-
+      The push may be self-defence; the later kicks likely are not.
+  correct: 3
+  explanation: >-
+    Self-defence needs an act immediately necessary to repel the attack (s. 34י). Once he was on the
+    ground the danger had passed, so the kicks fall outside it, as in Yamar.
+- id: q5
+  question: >-
+    A seller took ₪4,000 from you for a sofa through an online ad that he never meant to deliver,
+    and then disappeared. The police closed the file for insufficient evidence. What is your best
+    criminal-law route?
+  options:
+    - >-
+      A private criminal complaint for fraud in the magistrates' court.
+    - >-
+      An appeal against the closure, pointing to evidence not yet checked.
+    - >-
+      A request to the court to reopen the file itself.
+    - >-
+      Nothing: fraud between private persons is always a civil matter.
+  correct: 1
+  explanation: >-
+    Fraud (s. 415) is not in the Second Schedule, so no private complaint. The complainant may appeal
+    under s. 64, for example pointing to the bank account and phone used in the ad.
+- id: q6
+  question: >-
+    At sentencing for an assault, the judge sets a range of 4–12 months, then gives 2 months because
+    the defendant completed a rehabilitation programme. On what basis can this be lawful?
+  options:
+    - >-
+      Section 40ד allows departure below the range for rehabilitation.
+    - >-
+      Judges may always go below the range if the victim agrees.
+    - >-
+      It is unlawful: the sentence must stay within the range.
+    - >-
+      Individual deterrence allows lowering the sentence below the range.
+  correct: 0
+  explanation: >-
+    Amendment 113 allows going below the range where the defendant has been rehabilitated or has a
+    real chance of it (s. 40ד), with reasons (s. 40יד); deterrence works only within the range.
+- id: q7
+  question: >-
+    You were the victim of an attempted rape. The prosecution is negotiating a plea bargain. Which of
+    these is your right under the Crime Victims' Rights Law?
+  options:
+    - >-
+      To approve or reject the plea bargain yourself.
+    - >-
+      To address the court in place of the prosecutor.
+    - >-
+      To be told of it and give the prosecutor your view first.
+    - >-
+      To appoint your own prosecutor for the plea hearing.
+  correct: 2
+  explanation: >-
+    For serious sexual or violent offences, s. 17 (with s. 8(ג)(2)) gives the victim notice of a
+    plea bargain and a chance to express a view before the decision. Legal Aid may also help.
+- id: q8
+  question: >-
+    You complained that a neighbour threatened you. You never asked to be kept informed. Eight months
+    later you learn the file was closed long ago. What was the key step you missed?
+  options:
+    - >-
+      Paying a fee to open the investigation.
+    - >-
+      Filing the complaint through a lawyer.
+    - >-
+      Asking the court to supervise the investigation.
+    - >-
+      Asking in writing to be told of stages.
+  correct: 3
+  explanation: >-
+    Section 8(ג)(1) gives stage notices to a victim "שביקש זאת". The closure notice also starts the
+    appeal period (s. 65), so ask for an extension now and explain the delay.
+- id: q9
+  question: >-
+    A neighbour (not a relative) keyed your car and the police declined to investigate. You have a
+    clear video. You consider a private criminal complaint. Which statement is correct?
+  options:
+    - >-
+      Malicious damage is listed, so it is possible.
+    - >-
+      You need the police's consent before filing it.
+    - >-
+      Private complaints are heard only by the district court.
+    - >-
+      The district attorney must prosecute it for you.
+  correct: 0
+  explanation: >-
+    Section 452 is in item (1) of the Second Schedule. You conduct the case yourself, unless the
+    district attorney announces within 15 days that the State will take it over (s. 71).
+- id: q10
+  question: >-
+    Your appeal against closure of a threats file says only: "I am sure he did it and I am very
+    afraid." It is rejected. What should a better appeal have contained?
+  options:
+    - >-
+      A request that the suspect be arrested at once.
+    - >-
+      The evidence and missing steps per element.
+    - >-
+      A longer description of your feelings and fears.
+    - >-
+      Copies of articles about violence in your town.
+  correct: 1
+  explanation: >-
+    The decision-maker asks whether there is a concrete prima facie foundation that further
+    investigation could complete; map elements to evidence and name the gaps (lessons 05.2, 05.8).

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A new offence of "harassing a public servant online" was published on 1 May 2026. A citizen
+    posted abusive messages to a clerk in March 2026. The clerk asks the police to charge him under
+    the new offence. What is the legal position?
+  options:
+    - >-
+      He can be charged, because the conduct was already wrong before May.
+    - >-
+      Not under the new offence: it does not apply to earlier acts.
+    - >-
+      He can be charged if the messages stayed online after 1 May 2026.
+    - >-
+      He can be charged, but only with a reduced penalty.
+  correct: 1
+  explanation: >-
+    Penal Law s. 3(א) bars applying an offence to acts done before its publication or commencement.
+    Other, older offences (such as threats) may still fit the March messages.
+- id: q2
+  question: >-
+    An offence carries a maximum of three years' imprisonment, and courts usually give a suspended
+    sentence for it. How is it classified under s. 24?
+  options:
+    - >-
+      A contravention, because the usual sentence involves no prison time.
+    - >-
+      A felony, because three years is the felony threshold.
+    - >-
+      A misdemeanour, because the maximum is not more than three years.
+    - >-
+      It depends on the sentence the court gives in the specific case.
+  correct: 2
+  explanation: >-
+    Classification follows the maximum set in the law. A felony needs a maximum of more than three
+    years; above three months and up to three years is a misdemeanour.
+- id: q3
+  question: >-
+    A criminal provision can reasonably be read in two ways even after considering its purpose: one
+    covers the accused's conduct, one does not. What does the court do?
+  options:
+    - >-
+      Chooses the reading that best protects the victim.
+    - >-
+      Applies the reading that is most lenient to the accused.
+    - >-
+      Asks the Knesset committee for its intended meaning.
+    - >-
+      Chooses the wider reading, since criminal law protects the public.
+  correct: 1
+  explanation: >-
+    Section 34כא: purpose first, and if several reasonable readings remain, the one most lenient to
+    the person who would bear criminal liability prevails.
+- id: q4
+  question: >-
+    You complain to the police that a buyer never paid the last ₪8,000 for your car. Nothing shows he
+    lied when he bought it; he says he lost his job. What answer should you expect?
+  options:
+    - >-
+      The file will be closed as not a criminal matter; your route is a civil claim.
+    - >-
+      He will be charged with fraud, since not paying is obtaining by deceit.
+    - >-
+      He will be charged with theft of the car because ownership did not pass.
+    - >-
+      The police must investigate because every complaint opens an investigation.
+  correct: 0
+  explanation: >-
+    Fraud (s. 415) needs deceit in obtaining the thing; a later failure to pay is a breach of
+    contract. Without an offence there is nothing for the police to investigate.

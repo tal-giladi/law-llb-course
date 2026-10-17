@@ -20,7 +20,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 2 — Legal Research and Writing
 - [x] Module 3 — Contract Law
 - [x] Module 4 — Tort Law
-- [ ] Module 5 — Criminal Law
+- [x] Module 5 — Criminal Law
 - [ ] Module 6 — Constitutional Law
 - [ ] Module 7 — Legislation and Regulation
 - [ ] Module 8 — Introduction to Procedure
@@ -37,7 +37,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 5: sub-agent A
+- Module 7: sub-agent A
 - Module 6: sub-agent B
 
 ## Decisions and open questions

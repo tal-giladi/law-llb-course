@@ -1,0 +1,1356 @@
+# Module 05 question bank (not imported). Feeds the daily practice tool.
+- id: m05-001
+  module: 5
+  lesson: "05.1"
+  subject: legality
+  difficulty: 1
+  question: >-
+    Which section of the Penal Law states that there is no offence and no punishment unless set by
+    or under a law?
+  options:
+    - >-
+      Section 34כא.
+    - >-
+      Section 24.
+    - >-
+      Section 1.
+    - >-
+      Section 19.
+  correct: 2
+  explanation: >-
+    Section 1: "אין עבירה ואין עונש עליה אלא אם כן נקבעו בחוק או על־פיו".
+- id: m05-002
+  module: 5
+  lesson: "05.1"
+  subject: regulations-offences
+  difficulty: 2
+  question: >-
+    A minister's regulation creates an offence with a penalty of one year's imprisonment. What is
+    wrong with it?
+  options:
+    - >-
+      Imprisonment set by a regulation may not exceed six months.
+    - >-
+      Regulations may never create offences.
+    - >-
+      Only the Knesset plenum may approve such regulations.
+    - >-
+      Regulations may create only fines, never imprisonment.
+  correct: 0
+  explanation: >-
+    Section 2(א) allows regulations to create offences, but imprisonment set in a regulation may not
+    exceed six months; s. 2(ב) requires approval by a Knesset committee.
+- id: m05-003
+  module: 5
+  lesson: "05.1"
+  subject: lenient-change
+  difficulty: 2
+  question: >-
+    After a man's offence but before his final judgment, the Knesset lowers the maximum penalty for
+    it. Which penalty applies to him?
+  options:
+    - >-
+      The higher penalty in force at the time of the act.
+    - >-
+      Whichever the prosecutor chooses.
+    - >-
+      The penalty in force when the indictment was filed.
+    - >-
+      The new, lower penalty.
+  correct: 3
+  explanation: >-
+    Section 5(א) applies the law more lenient to the offender when the law changes before a final
+    judgment.
+- id: m05-004
+  module: 5
+  lesson: "05.1"
+  subject: repeal
+  difficulty: 2
+  question: >-
+    An offence is repealed while a man is serving a sentence for it. What happens?
+  options:
+    - >-
+      He finishes the sentence, since the judgment is final.
+    - >-
+      The sentence stops being carried out.
+    - >-
+      He may apply for a pardon only.
+    - >-
+      The sentence is halved.
+  correct: 1
+  explanation: >-
+    Section 4: when an offence is repealed, criminal liability ends, proceedings stop, and a sentence
+    already given stops being carried out.
+- id: m05-005
+  module: 5
+  lesson: "05.1"
+  subject: classification
+  difficulty: 1
+  question: >-
+    An offence carries a maximum of six months' imprisonment. How is it classified?
+  options:
+    - >-
+      Felony.
+    - >-
+      Contravention.
+    - >-
+      Misdemeanour.
+    - >-
+      It depends on the sentence given.
+  correct: 2
+  explanation: >-
+    Above three months and up to three years is a misdemeanour (s. 24(2)); classification follows the
+    maximum in the law.
+- id: m05-006
+  module: 5
+  lesson: "05.1"
+  subject: reasonable-doubt
+  difficulty: 2
+  question: >-
+    At trial the evidence leaves a reasonable doubt whether the accused acted in self-defence. The
+    prosecution proved all elements of the offence. What is the result?
+  options:
+    - >-
+      Acquittal: the doubt goes to the accused.
+    - >-
+      Conviction, because the accused must prove the defence on balance.
+    - >-
+      Conviction with a reduced sentence.
+    - >-
+      A retrial before another judge.
+  correct: 0
+  explanation: >-
+    Section 34כב(ב): if a reasonable doubt arises that a defence applies and it is not removed, the
+    defence applies.
+- id: m05-007
+  module: 5
+  lesson: "05.1"
+  subject: police-discretion
+  difficulty: 3
+  question: >-
+    You complain of an offence carrying five years' imprisonment. A police officer tells you "we
+    don't investigate this kind of thing". What is the legal position?
+  options:
+    - >-
+      Any officer may decline to investigate any offence.
+    - >-
+      The police may decline only with the court's approval.
+    - >-
+      The police may decline if the suspect has no record.
+    - >-
+      It is a felony, so the police must open an investigation.
+  correct: 3
+  explanation: >-
+    Under CPL s. 59 the police must investigate an offence they learn of; only for non-felonies may an
+    officer of rank pakad or above decide not to. Five years is a felony (s. 24).
+- id: m05-008
+  module: 5
+  lesson: "05.1"
+  subject: general-part-scope
+  difficulty: 3
+  question: >-
+    An offence in the Planning and Building Law does not say what mental element it requires. Which
+    rule applies?
+  options:
+    - >-
+      Strict liability, because planning offences are regulatory.
+    - >-
+      Criminal intent, by the general part, unless that law says otherwise.
+    - >-
+      Negligence, because planning offences protect the public.
+    - >-
+      No mental element, since the general part applies only to the Penal Law.
+  correct: 1
+  explanation: >-
+    Section 34כג applies the general part to offences in other laws; s. 19 sets criminal intent as
+    the default, and strict liability needs an express statement (s. 22).
+- id: m05-009
+  module: 5
+  lesson: "05.2"
+  subject: elements
+  difficulty: 1
+  question: >-
+    In "החובל בחברו חבלה חמורה שלא כדין", what is the result element?
+  options:
+    - >-
+      The grievous harm.
+    - >-
+      The unlawfulness.
+    - >-
+      The other person.
+    - >-
+      The intent to harm.
+  correct: 0
+  explanation: >-
+    Grievous harm is a result caused by the conduct; "שלא כדין" and the victim are circumstances; the
+    mental element is separate.
+- id: m05-010
+  module: 5
+  lesson: "05.2"
+  subject: omission
+  difficulty: 2
+  question: >-
+    A lifeguard on duty watches a swimmer drown and does nothing. A passer-by also does nothing. Who
+    may be liable for an offence by omission?
+  options:
+    - >-
+      Both, since anyone may call for help.
+    - >-
+      Neither, because Israel punishes only acts.
+    - >-
+      Only the passer-by, who was closer.
+    - >-
+      The lifeguard, who had a duty to act.
+  correct: 3
+  explanation: >-
+    An omission is a failure to do what law or contract requires (s. 18(ג)). The lifeguard had such a
+    duty; a stranger generally has none.
+- id: m05-011
+  module: 5
+  lesson: "05.2"
+  subject: indifference
+  difficulty: 2
+  question: >-
+    A man fires into a crowd at a wedding "to celebrate", aware someone might be killed and not caring
+    either way. A guest dies. Which mental state is this?
+  options:
+    - >-
+      Rashness (hope to avoid it)
+    - >-
+      Negligence only
+    - >-
+      Indifference
+    - >-
+      Intent.
+  correct: 2
+  explanation: >-
+    Indifference is awareness of the possible result with equanimity towards it (s. 20(א)(2)(א)); after
+    2019 it suffices for murder (s. 300).
+- id: m05-012
+  module: 5
+  lesson: "05.2"
+  subject: rashness
+  difficulty: 2
+  question: >-
+    A driver overtakes on a blind bend, aware of the risk and hoping no car comes. What distinguishes
+    his state of mind from indifference?
+  options:
+    - >-
+      He was not aware of any risk.
+    - >-
+      He hoped to avoid the result.
+    - >-
+      He wanted the result to happen.
+    - >-
+      He broke a traffic law.
+  correct: 1
+  explanation: >-
+    Rashness is taking an unreasonable risk "מתוך תקווה להצליח למנען" (s. 20(א)(2)(ב)); indifference
+    lacks that hope.
+- id: m05-013
+  module: 5
+  lesson: "05.2"
+  subject: transferred-intent
+  difficulty: 2
+  question: >-
+    A man throws a stone at his rival but hits a child standing nearby. He argues he never intended to
+    hurt the child. Is that a defence?
+  options:
+    - >-
+      Yes, intent must be towards the specific victim.
+    - >-
+      Only if the child was hidden from view.
+    - >-
+      No, a different victim does not matter.
+    - >-
+      Yes, but he is liable for negligence only.
+  correct: 2
+  explanation: >-
+    Section 20(ג)(2): it makes no difference that the act was done to a different person or property
+    than intended.
+- id: m05-014
+  module: 5
+  lesson: "05.2"
+  subject: causation
+  difficulty: 3
+  question: >-
+    A man stabs another, who is taken to hospital; a doctor treating him in good faith and with normal
+    skill makes an error and the victim dies. Who caused the death in criminal law?
+  options:
+    - >-
+      Only the doctor, whose error was the immediate cause.
+    - >-
+      Nobody, since the chain of causation was broken.
+    - >-
+      The hospital as a corporation.
+    - >-
+      The stabber, despite the medical error.
+  correct: 3
+  explanation: >-
+    Section 309(1) treats the person who caused bodily harm needing treatment as causing the death,
+    even if the treatment was mistaken, provided it was in good faith with ordinary skill.
+- id: m05-015
+  module: 5
+  lesson: "05.2"
+  subject: strict-liability
+  difficulty: 3
+  question: >-
+    A shop owner is charged with a strict-liability offence of selling expired food. He proves he had
+    a checking system and did everything possible, but one item slipped through. What follows?
+  options:
+    - >-
+      He is not liable under s. 22(ב).
+    - >-
+      He is liable, because strict liability ignores fault.
+    - >-
+      He is liable but cannot be imprisoned.
+    - >-
+      He is liable only if a customer was harmed.
+  correct: 0
+  explanation: >-
+    Section 22(ב) exempts a person who acted without intent or negligence and did everything possible
+    to prevent the offence; he bears the burden of proving it.
+- id: m05-016
+  module: 5
+  lesson: "05.2"
+  subject: complaint-evidence
+  difficulty: 1
+  question: >-
+    You were hit and bruised. Which step most helps prove the result element of assault causing harm?
+  options:
+    - >-
+      Posting about it on social media.
+    - >-
+      Same-day medical report and photos.
+    - >-
+      A letter from your employer.
+    - >-
+      A statement of how angry you felt.
+  correct: 1
+  explanation: >-
+    The result ("חבלה של ממש", s. 380) is proved by medical evidence and dated photos taken promptly.
+- id: m05-017
+  module: 5
+  lesson: "05.3"
+  subject: attempt
+  difficulty: 1
+  question: >-
+    Which is the mental element of an attempt under s. 25?
+  options:
+    - >-
+      Indifference to the result.
+    - >-
+      Negligence about the circumstances.
+    - >-
+      Purpose to commit it.
+    - >-
+      Any awareness of risk.
+  correct: 2
+  explanation: >-
+    Section 25 requires acting "במטרה לבצעה", the purpose of committing the offence.
+- id: m05-018
+  module: 5
+  lesson: "05.3"
+  subject: preparation
+  difficulty: 2
+  question: >-
+    A man buys a crowbar and gloves and writes down a neighbour's working hours. He is stopped before
+    going near the flat. What is the likely view?
+  options:
+    - >-
+      Preparation only, not yet an attempted break-in.
+    - >-
+      An attempted break-in, because the plan was clear.
+    - >-
+      A completed break-in, because intent is enough.
+    - >-
+      No offence of any kind can apply.
+  correct: 0
+  explanation: >-
+    An attempt needs an act beyond mere preparation (s. 25). Conspiracy would need another person;
+    possession of break-in tools may be a separate offence (s. 409).
+- id: m05-019
+  module: 5
+  lesson: "05.3"
+  subject: attempt-penalty
+  difficulty: 2
+  question: >-
+    An offence has a minimum penalty. A defendant is convicted of attempting it. Does the minimum
+    apply?
+  options:
+    - >-
+      Yes, attempt carries the same minimum.
+    - >-
+      Yes, but halved.
+    - >-
+      Only if the attempt nearly succeeded.
+    - >-
+      No, they do not apply.
+  correct: 3
+  explanation: >-
+    Section 27: a provision setting a mandatory or minimum penalty does not apply to an attempt.
+- id: m05-020
+  module: 5
+  lesson: "05.3"
+  subject: inducement
+  difficulty: 1
+  question: >-
+    A woman repeatedly urges her brother to beat a man who insulted her, and he does. What is her
+    role?
+  options:
+    - >-
+      Accessory.
+    - >-
+      Inducer.
+    - >-
+      Witness.
+    - >-
+      Accessory after the fact.
+  correct: 1
+  explanation: >-
+    Bringing another to commit an offence by persuasion, encouragement or demand is inducement (s. 30).
+- id: m05-021
+  module: 5
+  lesson: "05.3"
+  subject: aiding-penalty
+  difficulty: 1
+  question: >-
+    What is the maximum penalty for aiding an offence whose maximum is six years?
+  options:
+    - >-
+      Six years.
+    - >-
+      Two years.
+    - >-
+      Three years.
+    - >-
+      One year.
+  correct: 2
+  explanation: >-
+    Section 32: aiding carries half the maximum for the principal offence, subject to special rules
+    for life and mandatory sentences.
+- id: m05-022
+  module: 5
+  lesson: "05.3"
+  subject: contraventions
+  difficulty: 3
+  question: >-
+    A friend helped someone commit a contravention punishable by one month. Can the friend be charged
+    with aiding?
+  options:
+    - >-
+      No, it is not punishable.
+    - >-
+      Yes, with half the penalty.
+    - >-
+      Yes, with the full penalty.
+    - >-
+      Only if he was paid.
+  correct: 0
+  explanation: >-
+    Section 34ג: attempt, inducement, attempted inducement and aiding are not punishable for an
+    offence that is a contravention.
+- id: m05-023
+  module: 5
+  lesson: "05.3"
+  subject: perpetrator-by-means
+  difficulty: 3
+  question: >-
+    An adult tells a 10-year-old to take a phone from a shop counter and bring it to him. Who is the
+    principal?
+  options:
+    - >-
+      The child, who took the phone.
+    - >-
+      Nobody, since the child cannot be liable.
+    - >-
+      The shop, for leaving the phone exposed.
+    - >-
+      The adult, as perpetrator by means of another.
+  correct: 3
+  explanation: >-
+    A child under 12 bears no criminal liability (s. 34ו); the adult who used him as a tool is a
+    perpetrator by means of another (s. 29(ג)(1)).
+- id: m05-024
+  module: 5
+  lesson: "05.3"
+  subject: additional-offence
+  difficulty: 3
+  question: >-
+    Two men plan a burglary. During it, one beats the occupant who woke up. The other did not want
+    violence. Can he be liable for the beating?
+  options:
+    - >-
+      No, he never agreed to violence.
+    - >-
+      Yes, if it was foreseeable.
+    - >-
+      Yes, always, with the same mental element.
+    - >-
+      Only if he was in the same room.
+  correct: 1
+  explanation: >-
+    Section 34א: joint principals may be liable for a different or additional offence that a
+    reasonable person could have foreseen, at a reduced mental level if it was intentional.
+- id: m05-025
+  module: 5
+  lesson: "05.4"
+  subject: self-defence-elements
+  difficulty: 1
+  question: >-
+    Which is NOT a condition of self-defence under s. 34י?
+  options:
+    - >-
+      An unlawful attack.
+    - >-
+      A real danger.
+    - >-
+      The attacker's record.
+    - >-
+      An immediately necessary act.
+  correct: 2
+  explanation: >-
+    Section 34י needs an unlawful attack, real danger to listed interests and an immediately
+    necessary act; the attacker's record is irrelevant to the conditions.
+- id: m05-026
+  module: 5
+  lesson: "05.4"
+  subject: provoked-attack
+  difficulty: 2
+  question: >-
+    A man insults and shoves a stranger to start a fight, foreseeing that he will hit back, then
+    stabs him when he does. Can he claim self-defence?
+  options:
+    - >-
+      Yes, the stranger's blow was unlawful.
+    - >-
+      Yes, if the knife was used once.
+    - >-
+      Only if he tried to retreat first.
+    - >-
+      No, he provoked the attack.
+  correct: 3
+  explanation: >-
+    Section 34י excludes one who brought about the attack by wrongful conduct while foreseeing how
+    things might develop.
+- id: m05-027
+  module: 5
+  lesson: "05.4"
+  subject: necessity-vs-duress
+  difficulty: 1
+  question: >-
+    A hiker breaks into a locked cabin in a snowstorm to avoid freezing. Which exemption fits?
+  options:
+    - >-
+      Necessity.
+    - >-
+      Duress.
+    - >-
+      Justification by consent.
+    - >-
+      Self-defence.
+  correct: 0
+  explanation: >-
+    Necessity (s. 34יא) covers an act immediately needed to save from real danger arising from a
+    situation, with no other way.
+- id: m05-028
+  module: 5
+  lesson: "05.4"
+  subject: duty-to-face-danger
+  difficulty: 2
+  question: >-
+    A firefighter refuses to enter a burning building, leaving a person inside, and claims necessity
+    to save himself. What limits his claim?
+  options:
+    - >-
+      Nothing; necessity covers saving one's own life.
+    - >-
+      His duty by law or office to face the danger.
+    - >-
+      The building owner's consent.
+    - >-
+      The age of the trapped person.
+  correct: 1
+  explanation: >-
+    Section 34טו: necessity and duress do not apply where a person had a legal or official duty to
+    face the danger.
+- id: m05-029
+  module: 5
+  lesson: "05.4"
+  subject: mistake-of-fact
+  difficulty: 2
+  question: >-
+    At night a man honestly believes a person climbing his fence is a burglar; it is his son who lost
+    his key. He strikes him. How is his liability judged?
+  options:
+    - >-
+      On the facts as he imagined them.
+    - >-
+      Strictly, because he struck his own son.
+    - >-
+      Only for negligence in every case.
+    - >-
+      As if he knew it was his son.
+  correct: 0
+  explanation: >-
+    Section 34יח(א): a person who acted imagining a non-existent state of facts is liable only to the
+    extent he would be if the facts were as he imagined (putative self-defence).
+- id: m05-030
+  module: 5
+  lesson: "05.4"
+  subject: mistake-of-law
+  difficulty: 2
+  question: >-
+    A man fishing in a protected reserve says he did not know fishing there was banned. When could
+    this help him?
+  options:
+    - >-
+      Always, if he is a first offender.
+    - >-
+      If the sign was in Hebrew only.
+    - >-
+      If reasonably unavoidable.
+    - >-
+      Never, under any circumstances.
+  correct: 2
+  explanation: >-
+    Section 34יט: mistake about the existence or meaning of a prohibition is no defence unless it was
+    reasonably unavoidable.
+- id: m05-031
+  module: 5
+  lesson: "05.4"
+  subject: de-minimis
+  difficulty: 3
+  question: >-
+    A pensioner takes a single plastic bag from a supermarket roll without paying. What does s. 34יז
+    ask?
+  options:
+    - >-
+      Whether the shop wants to press charges.
+    - >-
+      Whether she has done it before.
+    - >-
+      Whether the value is below a fixed shekel amount.
+    - >-
+      Whether the act is trivial overall.
+  correct: 3
+  explanation: >-
+    De minimis looks at the act's nature, circumstances, results and the public interest; there is
+    no fixed amount, and the victim's wishes are not the test.
+- id: m05-032
+  module: 5
+  lesson: "05.4"
+  subject: pcati
+  difficulty: 3
+  question: >-
+    Why did the High Court in HCJ 5100/94 refuse to treat the necessity defence as authority for
+    interrogation methods?
+  options:
+    - >-
+      Because necessity never applies to State employees.
+    - >-
+      A defence excuses; it does not authorise.
+    - >-
+      Because international law forbids any defence for interrogators.
+    - >-
+      Because necessity requires the Knesset's consent in each case.
+  correct: 1
+  explanation: >-
+    The court held that necessity may be available to an individual after the fact but cannot be the
+    source of advance authority; that would need express legislation.
+- id: m05-033
+  module: 5
+  lesson: "05.5"
+  subject: murder-2019
+  difficulty: 1
+  question: >-
+    After the 2019 reform, which mental elements are enough for murder under s. 300?
+  options:
+    - >-
+      Intent only.
+    - >-
+      Intent or rashness.
+    - >-
+      Intent or indifference
+    - >-
+      Any awareness of risk.
+  correct: 2
+  explanation: >-
+    Section 300(א): "הגורם בכוונה או באדישות למותו של אדם".
+- id: m05-034
+  module: 5
+  lesson: "05.5"
+  subject: aggravated-murder
+  difficulty: 2
+  question: >-
+    A man kills a witness to stop her testifying against him. What sentence follows if he is convicted
+    of murder in aggravating circumstances?
+  options:
+    - >-
+      Mandatory life imprisonment.
+    - >-
+      Up to life imprisonment, at the court's discretion.
+    - >-
+      Twenty years.
+    - >-
+      Fifteen years.
+  correct: 0
+  explanation: >-
+    Section 301א(א)(3) lists killing a witness; the penalty is "מאסר עולם ועונש זה בלבד".
+- id: m05-035
+  module: 5
+  lesson: "05.5"
+  subject: reduced-responsibility
+  difficulty: 3
+  question: >-
+    A woman kills her husband after years of severe abuse by him, in a state of severe mental
+    distress. Which provision is designed for this?
+  options:
+    - >-
+      Section 304, causing death by negligence.
+    - >-
+      Section 301א, because the victim was her spouse.
+    - >-
+      Section 34י, self-defence, in every such case.
+    - >-
+      Section 301ב(א), reduced responsibility.
+  correct: 3
+  explanation: >-
+    Section 301ב(א) covers killing in severe mental distress due to severe and prolonged abuse by the
+    victim, with a lower maximum. Self-defence applies only if its own conditions are met.
+- id: m05-036
+  module: 5
+  lesson: "05.5"
+  subject: assault-definition
+  difficulty: 1
+  question: >-
+    Under s. 378, which of these can be an assault?
+  options:
+    - >-
+      Shouting at someone from across the street.
+    - >-
+      Shining a strong laser into someone's eyes.
+    - >-
+      Sending an insulting email.
+    - >-
+      Refusing to shake someone's hand.
+  correct: 1
+  explanation: >-
+    Assault includes applying force directly or indirectly, including light, heat, electricity, gas or
+    smell, if it can cause harm or discomfort.
+- id: m05-037
+  module: 5
+  lesson: "05.5"
+  subject: theft-claim-of-right
+  difficulty: 2
+  question: >-
+    A tenant takes back a heater from the landlord's storeroom, honestly believing it is his own. It
+    is the landlord's. Is it theft?
+  options:
+    - >-
+      Yes, because it belonged to the landlord.
+    - >-
+      Yes, if he did not ask first.
+    - >-
+      No: claim of right in good faith.
+    - >-
+      No, because heaters are fixtures.
+  correct: 2
+  explanation: >-
+    Section 383(א)(1) requires taking "בלי תביעת זכות בתום לב"; an honest claim of right negates
+    theft.
+- id: m05-038
+  module: 5
+  lesson: "05.5"
+  subject: fraud-vs-breach
+  difficulty: 2
+  question: >-
+    A builder took a ₪30,000 advance, worked two weeks and abandoned the job after his firm
+    collapsed. You want to complain of fraud. What is the key question?
+  options:
+    - >-
+      Whether he meant to deceive you when he took the money.
+    - >-
+      Whether the amount exceeds the small claims ceiling.
+    - >-
+      Whether he has other unhappy customers on social media.
+    - >-
+      Whether you signed a written contract.
+  correct: 0
+  explanation: >-
+    Obtaining by deceit (s. 415) needs deceit at the time of obtaining. A later failure to perform is
+    a breach of contract and a civil matter.
+- id: m05-039
+  module: 5
+  lesson: "05.5"
+  subject: second-schedule
+  difficulty: 1
+  question: >-
+    Which offence may be prosecuted by private criminal complaint?
+  options:
+    - >-
+      Theft from a shop.
+    - >-
+      Fraud in an online sale.
+    - >-
+      Robbery at knifepoint.
+    - >-
+      Malicious damage (s. 452).
+  correct: 3
+  explanation: >-
+    Section 452 is in item (1) of the CPL Second Schedule; theft, fraud and robbery are not.
+- id: m05-040
+  module: 5
+  lesson: "05.5"
+  subject: second-schedule-family
+  difficulty: 3
+  question: >-
+    Your ex-husband threatened you by text. The police closed the file. Why can't you file a private
+    criminal complaint for threats?
+  options:
+    - >-
+      Threats is not in the Second Schedule.
+    - >-
+      Family members are excluded.
+    - >-
+      Private complaints must be filed within 30 days.
+    - >-
+      Only the Attorney General may prosecute threats.
+  correct: 1
+  explanation: >-
+    Item (1) of the Second Schedule excludes listed offences committed against a family member as
+    defined in the Prevention of Family Violence Law. Appeal the closure and consider a protection
+    order.
+- id: m05-041
+  module: 5
+  lesson: "05.5"
+  subject: public-servant-assault
+  difficulty: 2
+  question: >-
+    A patient's relative pushes a nurse in an emergency room. Which offence reflects the setting?
+  options:
+    - >-
+      Simple assault only.
+    - >-
+      Disorderly conduct in a public place.
+    - >-
+      Assault of an emergency worker.
+    - >-
+      Insult in a public place.
+  correct: 2
+  explanation: >-
+    Section 382א(ג) sets a higher penalty for assaulting an emergency worker treating a person in
+    danger or working in an emergency room.
+- id: m05-042
+  module: 5
+  lesson: "05.5"
+  subject: najar
+  difficulty: 3
+  question: >-
+    In Najar (CrimA 10828/03), what argument did the court reject?
+  options:
+    - >-
+      That the defendant had no intent to kill.
+    - >-
+      That the trial court misread the confession.
+    - >-
+      That the victim's family had forgiven him.
+    - >-
+      That family honour reduces the offence.
+  correct: 3
+  explanation: >-
+    The court refused to accept "family honour" as a ground to mitigate a killing; the victim's
+    dignity and the sanctity of life prevail.
+- id: m05-043
+  module: 5
+  lesson: "05.6"
+  subject: guiding-principle
+  difficulty: 1
+  question: >-
+    What is the guiding principle of sentencing under Amendment 113?
+  options:
+    - >-
+      Proportionality (helima).
+    - >-
+      Rehabilitation of the offender.
+    - >-
+      Deterrence of the public.
+    - >-
+      The victim's wishes.
+  correct: 0
+  explanation: >-
+    Section 40ב: "העיקרון המנחה בענישה הוא קיומו של יחס הולם".
+- id: m05-044
+  module: 5
+  lesson: "05.6"
+  subject: within-range
+  difficulty: 2
+  question: >-
+    Which factor may the court weigh only when placing the sentence within the range, not when
+    setting the range?
+  options:
+    - >-
+      The planning before the offence.
+    - >-
+      The harm caused to the victim.
+    - >-
+      Acceptance of responsibility.
+    - >-
+      Abuse of power over the victim.
+  correct: 2
+  explanation: >-
+    Acceptance of responsibility is in s. 40יא (unrelated circumstances); the others are offence
+    circumstances in s. 40ט.
+- id: m05-045
+  module: 5
+  lesson: "05.6"
+  subject: trial-not-held-against
+  difficulty: 1
+  question: >-
+    A defendant pleaded not guilty and went to trial; he was convicted. The prosecutor asks for a
+    harsher sentence "because he did not admit". What does the law say?
+  options:
+    - >-
+      It may not count against him.
+    - >-
+      It is a legitimate aggravating factor.
+    - >-
+      It doubles the range.
+    - >-
+      It requires a probation report.
+  correct: 0
+  explanation: >-
+    Section 40יא(6): "כפירה באשמה וניהול משפט על ידי הנאשם לא ייזקפו לחובתו".
+- id: m05-046
+  module: 5
+  lesson: "05.6"
+  subject: public-safety
+  difficulty: 3
+  question: >-
+    When may a court go above the appropriate range to protect the public?
+  options:
+    - >-
+      Whenever the offence is common in the area.
+    - >-
+      When the victim asks for it.
+    - >-
+      When the defendant refused a plea bargain.
+    - >-
+      With a record or expert opinion, modestly.
+  correct: 3
+  explanation: >-
+    Section 40ה allows departure upward for public safety only with a significant criminal record or
+    a professional opinion, and without substantial aggravation beyond the range.
+- id: m05-047
+  module: 5
+  lesson: "05.6"
+  subject: multiple-events
+  difficulty: 2
+  question: >-
+    A defendant is convicted of three burglaries on three different nights. How does s. 40יג require
+    the court to proceed?
+  options:
+    - >-
+      One range for all three, since they are similar.
+    - >-
+      A range per event, then sentences.
+    - >-
+      Only the most serious burglary is sentenced.
+    - >-
+      Three ranges added together automatically.
+  correct: 1
+  explanation: >-
+    Several events get a range each; the court may then give a separate sentence per event, setting
+    overlap or accumulation, or one overall sentence.
+- id: m05-048
+  module: 5
+  lesson: "05.6"
+  subject: compensation
+  difficulty: 2
+  question: >-
+    After a conviction for assault, the victim wants compensation without a separate civil suit. What
+    can the criminal court do?
+  options:
+    - >-
+      Nothing; compensation needs a civil claim.
+    - >-
+      Order a fine paid to the victim.
+    - >-
+      Order compensation up to a cap.
+    - >-
+      Order the State to pay the victim.
+  correct: 2
+  explanation: >-
+    Penal Law s. 77 lets the court order a convicted person to compensate the person harmed, up to a
+    ceiling per offence; a civil claim remains possible for the rest.
+- id: m05-049
+  module: 5
+  lesson: "05.6"
+  subject: spot-mistake-statement
+  difficulty: 3
+  question: >-
+    Spot the main mistake in this victim statement: "The defendant is a liar and deserves the maximum
+    sentence. I lost two weeks of work."
+  options:
+    - >-
+      It should have been filed directly with the judge.
+    - >-
+      It must be notarised to be valid.
+    - >-
+      It mentions lost work, which is irrelevant.
+    - >-
+      It argues guilt instead of harm.
+  correct: 3
+  explanation: >-
+    Section 18 is about the harm caused. Opinions on guilt and sentence carry little weight; the lost
+    work should be documented with salary records.
+- id: m05-050
+  module: 5
+  lesson: "05.6"
+  subject: peretz
+  difficulty: 3
+  question: >-
+    A trial court rejected a plea bargain and gave a harsher sentence. On the defendant's appeal, what
+    should the prosecution usually do, according to Peretz?
+  options:
+    - >-
+      Defend the plea bargain.
+    - >-
+      Defend the harsher sentence, since the court chose it.
+    - >-
+      Take no position.
+    - >-
+      Withdraw the indictment.
+  correct: 0
+  explanation: >-
+    In CrimFH 1187/03 the court held that as a rule the prosecution should defend the plea bargain on
+    appeal, departing only where the public interest clearly overrides.
+- id: m05-051
+  module: 5
+  lesson: "05.7"
+  subject: who-may-complain
+  difficulty: 1
+  question: >-
+    You saw a stranger being beaten in the street. May you file a police complaint?
+  options:
+    - >-
+      No, only the victim may complain.
+    - >-
+      Yes, anyone may complain.
+    - >-
+      Only with the victim's written consent.
+    - >-
+      Only if you were also hurt.
+  correct: 1
+  explanation: >-
+    CPL s. 58: "כל אדם רשאי להגיש תלונה למשטרה על שבוצעה עבירה". Victims' rights, however, belong
+    to the person harmed.
+- id: m05-052
+  module: 5
+  lesson: "05.7"
+  subject: victim-definition
+  difficulty: 2
+  question: >-
+    A man was killed in an assault. Who has the rights of a victim under the Crime Victims' Rights
+    Law?
+  options:
+    - >-
+      Only his employer.
+    - >-
+      Anyone who knew him.
+    - >-
+      His family, in legal order.
+    - >-
+      Nobody, because the victim died.
+  correct: 2
+  explanation: >-
+    Sections 2 and 22 give the rights to family members of a person whose death the offence caused,
+    in order of priority: spouse, children, parents, siblings.
+- id: m05-053
+  module: 5
+  lesson: "05.7"
+  subject: personal-details
+  difficulty: 2
+  question: >-
+    A victim of a serious violent offence fears the accused will learn her new address from the
+    investigation file. What protects her?
+  options:
+    - >-
+      Section 7 withholds them.
+    - >-
+      Nothing; the defence sees the whole file.
+    - >-
+      Only a court order she requests herself.
+    - >-
+      She must move again before trial.
+  correct: 0
+  explanation: >-
+    For serious sexual or violent offences in First Schedule A part A, s. 7(ב) bars passing her
+    personal details to the defence, subject to exceptions and a court order under s. 7(ו).
+- id: m05-054
+  module: 5
+  lesson: "05.7"
+  subject: spot-mistake-complaint
+  difficulty: 3
+  question: >-
+    Spot the main weakness in this complaint: "He has bothered me for months. He is dangerous. Please
+    do something."
+  options:
+    - >-
+      It is not addressed to the Attorney General.
+    - >-
+      It does not name the section of the Penal Law.
+    - >-
+      It was not written by a lawyer.
+    - >-
+      No dates, exact words, acts or evidence are given.
+  correct: 3
+  explanation: >-
+    Investigators need a dated chronology, exact words, acts and evidence. A section number helps but
+    is optional; no lawyer is required.
+- id: m05-055
+  module: 5
+  lesson: "05.7"
+  subject: police-officer-suspect
+  difficulty: 2
+  question: >-
+    A police officer hit you during an arrest at a protest. Where do you complain?
+  options:
+    - >-
+      Police Investigations Department.
+    - >-
+      To the officer's station commander only.
+    - >-
+      To the Judicial Ombudsman.
+    - >-
+      To the municipality.
+  correct: 0
+  explanation: >-
+    Offences by police officers are investigated by the Police Investigations Department (the body
+    the Crime Victims' Rights Law calls "המחלקה לחקירת שוטרים").
+- id: m05-056
+  module: 5
+  lesson: "05.7"
+  subject: domestic-request
+  difficulty: 3
+  question: >-
+    A woman complains that her partner slapped her, then asks the police not to investigate. Can the
+    police close the file for that reason alone?
+  options:
+    - >-
+      Yes, the victim's wish always decides.
+    - >-
+      No, not as the sole reason.
+    - >-
+      Yes, if she withdraws in writing.
+    - >-
+      No, the police must always arrest the partner.
+  correct: 1
+  explanation: >-
+    CPL s. 59א(ב): a partner-victim's request not to investigate a listed sexual or violent offence
+    is not, by itself, a sole reason to decide not to investigate; special approval is required.
+- id: m05-057
+  module: 5
+  lesson: "05.7"
+  subject: legal-aid-victims
+  difficulty: 2
+  question: >-
+    Which victims get free Legal Aid representation for their rights in the criminal process without
+    a means test?
+  options:
+    - >-
+      Every victim of any offence at all.
+    - >-
+      Only victims who are under 18.
+    - >-
+      Sexual-offence victims; homicide families.
+    - >-
+      Only victims who are also witnesses.
+  correct: 2
+  explanation: >-
+    The Legal Aid Law's schedule covers victims of listed sexual offences (from the investigation
+    stage under the 2025 temporary order) and family members of homicide victims.
+- id: m05-058
+  module: 5
+  lesson: "05.7"
+  subject: evidence-preservation
+  difficulty: 1
+  question: >-
+    Your car was damaged in a mall car park with cameras. What should you do on the day you
+    complain?
+  options:
+    - >-
+      Wait for the police to contact the mall.
+    - >-
+      Ask in writing to secure it.
+    - >-
+      Post a request for witnesses online only.
+    - >-
+      Wait to see if your insurer pays.
+  correct: 1
+  explanation: >-
+    Footage is often overwritten within days. Ask the police and the operator in writing to secure it
+    immediately, and note it in the complaint.
+- id: m05-059
+  module: 5
+  lesson: "05.8"
+  subject: appeal-forum
+  difficulty: 2
+  question: >-
+    The police prosecution closed your assault file for insufficient evidence. Who decides your appeal?
+  options:
+    - >-
+      The magistrates' court that would try it.
+    - >-
+      The station commander who closed it.
+    - >-
+      The Minister of National Security.
+    - >-
+      A district attorney or head of appeals.
+  correct: 3
+  explanation: >-
+    Section 64(א)(1): decisions of the investigating body or police prosecutors are appealed to a
+    district attorney or a senior State Attorney's Office lawyer appointed to head appeals.
+- id: m05-060
+  module: 5
+  lesson: "05.8"
+  subject: appeal-filing
+  difficulty: 1
+  question: >-
+    Through whom is the appeal against closure filed under s. 65?
+  options:
+    - >-
+      The police or the prosecutor.
+    - >-
+      Through the court registry.
+    - >-
+      Through a lawyer only.
+    - >-
+      Through the Knesset Constitution Committee.
+  correct: 0
+  explanation: >-
+    Section 65: "הערר יוגש באמצעות המשטרה או התובע, הכל לפי הענין".
+- id: m05-061
+  module: 5
+  lesson: "05.8"
+  subject: late-appeal
+  difficulty: 1
+  question: >-
+    You missed the appeal period because you were in hospital. What can you do?
+  options:
+    - >-
+      Nothing; the period is absolute.
+    - >-
+      File a private complaint instead for any offence.
+    - >-
+      Ask the authority to extend it.
+    - >-
+      Ask the court to extend it.
+  correct: 2
+  explanation: >-
+    Section 65 lets the authority deciding the appeal extend the period. Explain the reason and
+    attach evidence.
+- id: m05-062
+  module: 5
+  lesson: "05.8"
+  subject: private-takeover
+  difficulty: 2
+  question: >-
+    You filed a private criminal complaint. What can the district attorney do within 15 days of
+    receiving a copy?
+  options:
+    - >-
+      Dismiss it without a hearing.
+    - >-
+      Order you to pay court fees twice.
+    - >-
+      Nothing; the State has no role.
+    - >-
+      Take over the prosecution.
+  correct: 3
+  explanation: >-
+    Section 71: if the district attorney gives notice within 15 days, the State takes over and an
+    indictment replaces the complaint (s. 72).
+- id: m05-063
+  module: 5
+  lesson: "05.8"
+  subject: state-employee
+  difficulty: 3
+  question: >-
+    A civil servant in a government office shouted threats at you while
+    handling your file. What extra condition applies to a private complaint against him?
+  options:
+    - >-
+      The Attorney General's consent.
+    - >-
+      The minister's written consent.
+    - >-
+      A prior complaint to the Ombudsman.
+    - >-
+      None; the usual rules apply.
+  correct: 0
+  explanation: >-
+    Section 69: no private complaint against a State employee for an act done in the course of his
+    duties without the Attorney General's consent.
+- id: m05-064
+  module: 5
+  lesson: "05.8"
+  subject: private-risk
+  difficulty: 3
+  question: >-
+    You filed a private complaint for assault but stop coming to hearings. What may happen?
+  options:
+    - >-
+      The State must take over automatically.
+    - >-
+      The court may treat it as withdrawal of the charge.
+    - >-
+      The defendant is convicted in your absence.
+    - >-
+      Nothing; the case waits until you return.
+  correct: 1
+  explanation: >-
+    Section 133 applies to a prosecutor who does not appear (s. 70 makes the complainant a
+    prosecutor); the court may act as if the charge was withdrawn. Section 73 also allows a stay.
+- id: m05-065
+  module: 5
+  lesson: "05.8"
+  subject: which-route
+  difficulty: 3
+  question: >-
+    Your online seller defrauded you of ₪1,200, the police closed the file for lack of public
+    interest, and you mainly want your money back. What is the most effective combination?
+  options:
+    - >-
+      A private criminal complaint for fraud, then a civil claim.
+    - >-
+      A High Court petition against the police.
+    - >-
+      An appeal against the closure and a small claim for the money.
+    - >-
+      Waiting for the police to reopen the file by themselves.
+  correct: 2
+  explanation: >-
+    Fraud is not in the Second Schedule. Appeal the closure under s. 64 and, to recover money, file a
+    small claim; criminal compensation needs a conviction.
+- id: m05-066
+  module: 5
+  lesson: "05.8"
+  subject: spot-mistake-appeal
+  difficulty: 2
+  question: >-
+    Spot the mistake in this appeal: "The file was closed on 1 May. I am appealing on 15 July because
+    I only now had time." The notice arrived on 3 May.
+  options:
+    - >-
+      It should be addressed to the judge.
+    - >-
+      It must be signed by a lawyer.
+    - >-
+      It should name the suspect's lawyer.
+    - >-
+      It is late with no extension request.
+  correct: 3
+  explanation: >-
+    The period runs from receipt of the notice (s. 65). A late appeal must ask the deciding authority
+    to extend the period and give real reasons.

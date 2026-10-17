@@ -4,6 +4,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 
 ## All templates
 
+- [Appeal against a decision to close a criminal file (ערר על החלטה לסגור תיק)](appeal-against-closing-file.md)
 - [Case brief (תקציר פסק דין)](case-brief.md)
 - [Consumer withdrawal notice (הודעת ביטול עסקה צרכנית)](consumer-withdrawal-notice.md)
 - [Contract review checklist (רשימת בדיקה לחוזה)](contract-review-checklist.md)
@@ -12,6 +13,8 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Insurance claim letter (דרישה לתשלום תגמולי ביטוח)](insurance-claim-letter.md)
 - [Letter to a public authority (פנייה לרשות ציבורית)](letter-to-authority.md)
 - [Notice of breach and cancellation (הודעה על הפרת חוזה וביטולו)](notice-of-breach-and-cancellation.md)
+- [Police complaint and victims' rights request (תלונה במשטרה ובקשה למימוש זכויות נפגע עבירה)](police-complaint-victim.md)
+- [Private criminal complaint (קובלנה פלילית)](private-criminal-complaint.md)
 - [Research memo (תזכיר משפטי)](research-memo.md)
 - [Small claim for property damage (כתב תביעה – תביעה קטנה בגין נזק לרכוש)](small-claim-property-damage.md)
 - [Tort demand letter (מכתב דרישה לפיצוי בגין נזק)](tort-demand-letter.md)

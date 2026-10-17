@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A man punches you in a bar and walks away. Five minutes later you follow him outside and hit him
+    from behind. He complains. Does self-defence cover your blow?
+  options:
+    - >-
+      Yes, because he attacked first and you were responding to his attack.
+    - >-
+      Yes, if your blow was no harder than his punch.
+    - >-
+      Only if a witness confirms that he started the fight.
+    - >-
+      No: the danger had already passed by then.
+  correct: 3
+  explanation: >-
+    Section 34י requires an act immediately necessary to repel an attack. Striking after the attacker
+    left is retaliation, not defence, whoever started.
+- id: q2
+  question: >-
+    A woman is ordered by a gang member, at knifepoint, to drive him away from a robbery. Which
+    exemption is the natural one to examine?
+  options:
+    - >-
+      Duress, because she was ordered to act under a threat.
+    - >-
+      Necessity, because she faced a dangerous situation.
+    - >-
+      Self-defence, because the knife was an unlawful attack.
+    - >-
+      De minimis, because driving is a minor act.
+  correct: 0
+  explanation: >-
+    Section 34יב covers acts a person was commanded to do under a threat of serious harm. Necessity
+    (s. 34יא) covers dangers arising from a situation rather than an order.
+- id: q3
+  question: >-
+    At night a man hears someone breaking into his locked shop to steal and hits the intruder with a
+    stick. When does the special home and business defence (s. 34י1) fail?
+  options:
+    - >-
+      Whenever the intruder was not armed.
+    - >-
+      Whenever a less harmful response was available.
+    - >-
+      When the response was manifestly unreasonable.
+    - >-
+      When the intruder is injured more than the shop was damaged.
+  correct: 2
+  explanation: >-
+    Section 34י1(ב)(1) removes the defence only if the act was "לא סביר בעליל" (manifestly
+    unreasonable), a wider margin than the general reasonableness limit in s. 34טז.
+- id: q4
+  question: >-
+    A security service argues that the necessity defence allows it to approve harsh interrogation
+    methods in advance for ticking-bomb cases. What did the High Court hold in 1999?
+  options:
+    - >-
+      Necessity may be approved in advance by the Attorney General for each case.
+    - >-
+      It is a defence after the fact, not advance authority.
+    - >-
+      Necessity never applies to state officials.
+    - >-
+      Necessity applies only if the Knesset committee is informed.
+  correct: 1
+  explanation: >-
+    In HCJ 5100/94 the court held that necessity may protect an individual afterwards but cannot be
+    the legal basis for authorising methods in advance; that would need express legislation.

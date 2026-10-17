@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The police closed your assault complaint for "lack of public interest". A friend says you can
+    appeal only closures for insufficient evidence. Is he right?
+  options:
+    - >-
+      Yes, public-interest closures are final.
+    - >-
+      Yes, but you may petition the High Court directly.
+    - >-
+      No, s. 64 allows an appeal on that ground too.
+    - >-
+      No, but only a lawyer may file that kind of appeal.
+  correct: 2
+  explanation: >-
+    Section 64(א) covers decisions based on the circumstances not suiting prosecution, insufficient
+    evidence and no guilt. The complainant may file the appeal himself.
+- id: q2
+  question: >-
+    Your closure notice is dated 1 March; it reached you by registered mail on 12 March. From when do
+    you count the appeal period?
+  options:
+    - >-
+      From 12 March, when the notice was delivered to you.
+    - >-
+      From 1 March, the date printed on the notice.
+    - >-
+      From the date you filed the original complaint.
+    - >-
+      From the day you ask for the detailed reasons.
+  correct: 0
+  explanation: >-
+    Section 65 counts the period from when the notice "נמסרה למתלונן". Keep the envelope or tracking
+    record, and ask for an extension in time if you need the reasons first.
+- id: q3
+  question: >-
+    Which appeal argument is most likely to persuade the senior prosecutor deciding your appeal
+    against closure for insufficient evidence?
+  options:
+    - >-
+      That the suspect is known in the neighbourhood as violent.
+    - >-
+      That you suffered greatly and the police did not care.
+    - >-
+      That the police should believe you rather than the suspect.
+    - >-
+      That a named witness and the shop's camera were never checked.
+  correct: 3
+  explanation: >-
+    Appeals succeed by showing a concrete evidentiary foundation and missing investigative steps
+    (compare the prima facie test in Adalah), not by general complaints.
+- id: q4
+  question: >-
+    Your brother-in-law, who lives with you as your sister's husband, threatened you. The police
+    closed the file. Can you file a private criminal complaint for threats?
+  options:
+    - >-
+      Yes, threats is in the Second Schedule without exceptions.
+    - >-
+      Not if he counts as a "family member" in law.
+    - >-
+      No, private complaints are allowed only for property offences.
+    - >-
+      Yes, but only with the Attorney General's consent.
+  correct: 1
+  explanation: >-
+    Item (1) of the Second Schedule excludes listed offences "שנעברו כלפי בן משפחה" as defined in
+    the Prevention of Family Violence Law. Check whether that definition covers him.

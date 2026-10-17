@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You were punched in the street (assault, a misdemeanour). A month later you receive a letter that
+    the police decided not to investigate. What must that letter contain?
+  options:
+    - >-
+      Only the file number; reasons are given on request.
+    - >-
+      The reason for the decision not to investigate.
+    - >-
+      The suspect's name and address so you can sue him.
+    - >-
+      A summary of the evidence the police collected.
+  correct: 1
+  explanation: >-
+    CPL s. 63(א)(1) requires written notice to the complainant of a decision not to investigate "בציון
+    עילת סגירת התיק". For a decision not to prosecute, the reason is usually available on request.
+- id: q2
+  question: >-
+    You filed a complaint about a burglary of your home. Six months later you learn by chance that
+    the suspect was indicted and convicted. Why were you not told?
+  options:
+    - >-
+      Burglary victims have no right to information.
+    - >-
+      The police must inform only the suspect's family.
+    - >-
+      You probably did not ask; stage updates are given on request.
+    - >-
+      Information is given only when a victims' lawyer asks for it.
+  correct: 2
+  explanation: >-
+    Section 8(ג)(1) of the Crime Victims' Rights Law entitles a victim "שביקש זאת" to be told of the
+    stages in the Second Schedule. Ask in writing when you file.
+- id: q3
+  question: >-
+    A woman complains of a sexual assault and asks to be questioned by a female investigator, with her
+    sister present. What does the law provide?
+  options:
+    - >-
+      Both are rights, with narrow recorded exceptions.
+    - >-
+      Neither; the choice of investigator belongs to the police.
+    - >-
+      Only the presence of a lawyer may be requested.
+    - >-
+      The sister may attend only if she is also a witness.
+  correct: 0
+  explanation: >-
+    Sections 14 and 14א give a sexual-offence victim an accompanying person of her choice and the
+    choice of the investigator's sex, unless an officer records special reasons.
+- id: q4
+  question: >-
+    A shop owner was robbed at knifepoint. Which statement about the rights that apply is correct?
+  options:
+    - >-
+      He has no special rights, because robbery is a property offence.
+    - >-
+      He must file a private complaint to be informed of plea bargains.
+    - >-
+      He may veto any plea bargain the prosecution proposes.
+    - >-
+      He may ask to be told of a plea bargain and give his view first.
+  correct: 3
+  explanation: >-
+    Robbery (s. 402) is a serious violent offence (First Schedule A, part A), so ss. 8(ג)(2) and 17
+    give him notice and a chance to express his view before the decision. It is not a veto.

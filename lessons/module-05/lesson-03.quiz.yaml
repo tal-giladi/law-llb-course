@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A pickpocket slips his hand into your coat pocket on a train, but the pocket is empty. A passenger
+    grabs him. The officer says "nothing was stolen, so there is no case". What is the correct view?
+  options:
+    - >-
+      The officer is right: theft needs something taken and carried away.
+    - >-
+      It is only a contravention, so attempt does not apply.
+    - >-
+      It is an attempted theft; the empty pocket does not matter.
+    - >-
+      It is a crime only if he admits what he intended to take.
+  correct: 2
+  explanation: >-
+    Section 26 makes impossibility irrelevant to attempt. Putting a hand into the pocket goes beyond
+    preparation, and theft is a misdemeanour, so attempt is punishable.
+- id: q2
+  question: >-
+    In a street fight, one man held the victim's arms while another punched him. In your complaint as
+    the victim, how should you describe the man who held you?
+  options:
+    - >-
+      As a witness, since he struck no blow at all.
+    - >-
+      As an accessory after the fact.
+    - >-
+      As someone not liable, since he only restrained you.
+    - >-
+      As a participant acting with the attacker.
+  correct: 3
+  explanation: >-
+    Holding the victim while another strikes is taking part in the execution: likely joint principal
+    (s. 29(ב)), at least an accessory (s. 31). Describe his acts; the prosecutor chooses the section.
+- id: q3
+  question: >-
+    A man halfway through breaking into a flat hears a child crying inside, feels remorse and leaves.
+    The door lock is broken. For what can he still be liable?
+  options:
+    - >-
+      The damage to the lock, but not the attempt.
+    - >-
+      Nothing, because withdrawal out of remorse cancels all liability.
+    - >-
+      The full attempted break-in, because remorse is never a defence.
+    - >-
+      Only a civil claim for the lock, since he left voluntarily.
+  correct: 0
+  explanation: >-
+    Section 28 exempts a person who voluntarily and out of remorse stops, but only from the attempt;
+    a completed offence along the way, such as malicious damage, remains.
+- id: q4
+  question: >-
+    Two people agree by text message to burn a rival's car next week. The police find the messages
+    before anything else happens. Which offence is already complete?
+  options:
+    - >-
+      Attempted arson, because the plan was specific.
+    - >-
+      Conspiracy, because the agreement itself is the offence.
+    - >-
+      None, because no act beyond the messages was done.
+    - >-
+      Inducement, because each persuaded the other.
+  correct: 1
+  explanation: >-
+    Section 499 punishes the agreement to commit a felony or misdemeanour. Attempt needs an act beyond
+    preparation, which has not happened yet.

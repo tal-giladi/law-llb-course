@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A driver speeding through a red light kills a pedestrian. He was aware of the risk and hoped
+    nobody would be hurt. Under the 2019 homicide scheme, which offence fits this mental state best?
+  options:
+    - >-
+      Killing by rashness (s. 301ג).
+    - >-
+      Murder (s. 300), because he was aware of the risk.
+    - >-
+      Causing death by negligence (s. 304) only.
+    - >-
+      Murder in aggravating circumstances, because a life was endangered.
+  correct: 0
+  explanation: >-
+    Taking an unreasonable risk while hoping to avoid the result is rashness (s. 20(א)(2)(ב)), the
+    mental element of s. 301ג. Murder needs intent or indifference; negligence means no awareness.
+- id: q2
+  question: >-
+    Your neighbour slapped you in the stairwell; it hurt for an hour and left a red mark you
+    photographed. Which offence is the better fit for your complaint?
+  options:
+    - >-
+      Wounding, because there was a visible mark.
+    - >-
+      Assault causing actual bodily harm.
+    - >-
+      Threats, because the slap frightened you.
+    - >-
+      Insult in a public place, because the stairwell is shared.
+  correct: 1
+  explanation: >-
+    "חבלה" includes pain or injury even if passing (s. 34כד), so s. 380 fits. Wounding means breaking
+    the skin; threats need a threat of future harm.
+- id: q3
+  question: >-
+    The police closed your file against a man who stole your bike. You want to prosecute him
+    yourself by private criminal complaint. What is the problem?
+  options:
+    - >-
+      None: any offence can be prosecuted privately after a file is closed.
+    - >-
+      You must first wait for the limitation period to end.
+    - >-
+      You need the court's leave, which is given only for property offences.
+    - >-
+      Theft is not in the Second Schedule at all.
+  correct: 3
+  explanation: >-
+    Section 68 allows a private complaint only for offences in the Second Schedule. Theft is not
+    there; your routes are an appeal against the closure (s. 64) and a civil claim.
+- id: q4
+  question: >-
+    A man killed his sister and argued that, in his community, her conduct shamed the family, so his
+    crime should be reduced. What did the Supreme Court hold in Najar?
+  options:
+    - >-
+      The community's norms set the standard of the ordinary person.
+    - >-
+      Family honour may reduce the sentence but not the offence.
+    - >-
+      Family honour is no ground to reduce the offence.
+    - >-
+      The question must be decided by expert evidence on the community.
+  correct: 2
+  explanation: >-
+    In CrimA 10828/03 the court dismissed the appeal: "family honour" is not accepted as a motive that
+    reduces responsibility for killing; the sanctity of life and the victim's dignity come first.

@@ -1,0 +1,68 @@
+- **דיני עונשין** (Dinei onshin) — Criminal law.
+- **חוק העונשין** (Hok ha-onshin) — The Penal Law 1977, the main criminal statute; its general part was rewritten in 1994 (Amendment 39).
+- **עקרון החוקיות** (Ekron ha-hukiyut) — Principle of legality: no offence and no punishment except by or under a law (Penal Law s. 1).
+- **אין עונשין למפרע** (Ein onshin le-mafre'a) — No retroactive punishment (s. 3).
+- **פרשנות מקלה** (Parshanut mekila) — Lenient construction: where a law has several reasonable meanings, the one more lenient to the accused is chosen (s. 34כא).
+- **עקרון האשמה** (Ekron ha-ashma) — Culpability principle: no punishment without personal fault.
+- **ספק סביר** (Safek savir) — Reasonable doubt; guilt must be proved beyond it (s. 34כב).
+- **פשע** (Pesha) — Felony: an offence with a maximum penalty above three years' imprisonment (s. 24).
+- **עוון** (Avon) — Misdemeanour: maximum above three months and up to three years (s. 24).
+- **חטא** (Het) — Contravention: maximum up to three months, or a fine only (s. 24).
+- **החלק הכללי** (Ha-helek ha-klali) — The general part of the Penal Law (elements, attempt, complicity, defences).
+- **התיישנות עבירה** (Hityashnut avera) — Limitation period for prosecution (Criminal Procedure Law s. 9).
+- **היסוד העובדתי** (Ha-yesod ha-uvdati) — The factual element (actus reus): conduct, circumstances and, in result offences, the result (s. 18).
+- **היסוד הנפשי** (Ha-yesod ha-nafshi) — The mental element (mens rea).
+- **מחדל** (Mehdal) — Omission, a failure to act where the law imposes a duty.
+- **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
+- **כוונה** (Kavana) — Intent (purpose) to bring about a result.
+- **אדישות** (Adishut) — Indifference: one of the two kinds of recklessness towards a result.
+- **קלות דעת** (Kalut da'at) — Rashness: taking an unreasonable risk while hoping to avoid the result.
+- **עצימת עיניים** (Atzimat einayim) — Wilful blindness, treated as awareness (s. 20(ג)(1)).
+- **אחריות קפידה** (Ahrayut kpida) — Strict liability (s. 22).
+- **ניסיון** (Nisayon) — Attempt: conduct beyond preparation, with intent to commit the offence (s. 25).
+- **הכנה** (Hakhana) — Preparation, not punishable by itself.
+- **פטור עקב חרטה** (Ptor ekev harata) — Exemption for voluntary withdrawal from an attempt or complicity (s. 28, s. 34).
+- **מבצע בצוותא** (Mevatze'a be-tzavta) — Joint principal (co-perpetrator) (s. 29).
+- **מבצע באמצעות אחר** (Mevatze'a be-emtza'ut aher) — Perpetrator by means of another (innocent agent) (s. 29(ג)).
+- **משדל** (Meshadel) — Inducer (instigator) (s. 30).
+- **מסייע** (Mesaye'a) — Accessory (aider) (s. 31).
+- **קשר לעשות פשע** (Kesher la'asot pesha) — Conspiracy to commit a felony (s. 499).
+- **סייג לאחריות פלילית** (Seyag le-ahrayut plilit) — Exemption (defence) from criminal liability (Penal Law chapter ה1).
+- **הגנה עצמית** (Hagana atzmit) — Self-defence (s. 34י).
+- **צורך** (Tzorekh) — Necessity (s. 34יא).
+- **כורח** (Korah) — Duress (s. 34יב).
+- **צידוק** (Tziduk) — Justification: lawful authority, consent to medical treatment, sport (s. 34יג).
+- **טעות במצב דברים** (Ta'ut be-matzav dvarim) — Mistake of fact (s. 34יח).
+- **טעות במצב משפטי** (Ta'ut be-matzav mishpati) — Mistake of law, a defence only if unavoidable (s. 34יט).
+- **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
+- **מידתיות** (Midatiyut) — Proportionality; with immediacy and necessity, one of the conditions of self-defence and necessity. A defence does not apply where the act was not reasonable in the circumstances (s. 34טז).
+- **התגרות** (Hitgarut) — Provocation; relevant to reduced-responsibility killing (s. 301ב).
+- **רצח בנסיבות מחמירות** (Retzah be-nesibot mahmirot) — Murder in aggravating circumstances (s. 301א).
+- **המתה בקלות דעת** (Hamata be-kalut da'at) — Reckless homicide (s. 301ג).
+- **גרימת מוות ברשלנות** (Grimat mavet be-rashlanut) — Causing death by negligence (s. 304).
+- **תקיפה הגורמת חבלה של ממש** (Tkifa ha-goremet havala shel mamash) — Assault causing actual bodily harm (s. 380).
+- **חבלה חמורה** (Havala hamura) — Grievous harm (s. 333).
+- **איומים** (Iyumim) — Threats (s. 192).
+- **קבלת דבר במרמה** (Kabalat davar be-mirma) — Obtaining by deceit (fraud) (s. 415).
+- **היזק בזדון** (Hezek be-zadon) — Malicious damage to property (s. 452).
+- **גזר דין** (Gzar din) — Sentence.
+- **הלימה** (Helima) — Proportionality (desert), the guiding principle of sentencing (s. 40ב).
+- **מתחם העונש ההולם** (Mitham ha-onesh ha-holem) — Appropriate sentencing range (s. 40ג).
+- **הרתעת הרבים** (Harta'at ha-rabim) — General deterrence (s. 40ז).
+- **הסדר טיעון** (Hesder ti'un) — Plea bargain.
+- **הצהרת נפגע** (Hatzharat nifga) — Victim impact statement (Crime Victims' Rights Law s. 18).
+- **פיצוי לנפגע** (Pitzuy la-nifga) — Compensation to the victim ordered on conviction (Penal Law s. 77).
+- **עבודות שירות** (Avodot sherut) — Imprisonment served as community work.
+- **מאסר על תנאי** (Maasar al tnai) — Suspended sentence.
+- **תלונה** (Tluna) — A complaint to the police (Criminal Procedure Law s. 58).
+- **מתלונן** (Mitlonen) — Complainant.
+- **נפגע עבירה** (Nifga avera) — Victim of an offence (Crime Victims' Rights Law s. 2).
+- **פל״א** (Pla) — The police file number given to a complaint.
+- **צו הגנה** (Tzav hagana) — Protection order (Prevention of Family Violence Law 1991).
+- **סגירת תיק** (Sgirat tik) — Closing a criminal file.
+- **עילת סגירה** (Ilat sgira) — Ground for closing a file: insufficient evidence, no guilt, or lack of public interest.
+- **חוסר עניין לציבור** (Hoser inyan la-tzibur) — Lack of public interest; in the law "the circumstances as a whole do not suit an investigation or prosecution" (CPL s. 62).
+- **ערר** (Arar) — Here: a complainant's administrative appeal against closing a file (CPL s. 64).
+- **השלמת חקירה** (Hashlamat hakira) — Further investigation ordered to complete the file.
+- **קובלנה** (Kovlana) — Private criminal complaint, for offences in the Second Schedule of the Criminal Procedure Law (s. 68).
+- **קובל** (Kovel) — Private prosecutor, the person who files a private criminal complaint.

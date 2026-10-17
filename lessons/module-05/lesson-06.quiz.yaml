@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A judge sets the appropriate range for a burglary at 8–20 months, then imposes 28 months
+    "to deter the public from the wave of burglaries". On appeal, what is the strongest argument?
+  options:
+    - >-
+      General deterrence may be weighed only within the range, not to exceed it.
+    - >-
+      Deterrence is never a permitted sentencing consideration in Israel.
+    - >-
+      The range should have been set by the probation officer.
+    - >-
+      A judge may only go above the range for rehabilitation.
+  correct: 0
+  explanation: >-
+    Section 40ז allows general deterrence "ובלבד שהעונש לא יחרוג ממתחם העונש ההולם". Going above the
+    range is allowed only for public safety under s. 40ה's conditions.
+- id: q2
+  question: >-
+    Which of these facts belongs to the first stage (setting the range) rather than the second
+    (placing the sentence within it)?
+  options:
+    - >-
+      The defendant's clean criminal record.
+    - >-
+      The cruelty shown to the victim during the offence.
+    - >-
+      The defendant's efforts to compensate the victim after arrest.
+    - >-
+      The effect of prison on the defendant's children.
+  correct: 1
+  explanation: >-
+    Cruelty to the victim is a circumstance of the offence (s. 40ט(א)(10)) and shapes the range; the
+    others are unrelated circumstances under s. 40יא.
+- id: q3
+  question: >-
+    You were robbed and injured. The prosecutor plans a plea bargain. What right does the Crime
+    Victims' Rights Law give you, if you asked to be kept informed?
+  options:
+    - >-
+      A veto over the bargain.
+    - >-
+      The right to cross-examine the defendant at the plea hearing.
+    - >-
+      No right, because plea bargains are internal to the prosecution.
+    - >-
+      To be told and to give the prosecutor your view.
+  correct: 3
+  explanation: >-
+    Robbery is a serious violent offence under the First Schedule A, so s. 17 gives the victim the
+    right to be informed and to express a view before the decision; it is not a veto.
+- id: q4
+  question: >-
+    You are preparing your victim statement. Which content is most useful to the court?
+  options:
+    - >-
+      Your opinion that the defendant is lying about how it happened.
+    - >-
+      A request that the judge impose the maximum sentence.
+    - >-
+      Your documented physical, emotional and money harm.
+    - >-
+      A comparison with sentences in other cases you read about.
+  correct: 2
+  explanation: >-
+    Section 18 is about "כל פגיעה ונזק שנגרמו לו בשל העבירה". Guilt and the sentence are for the
+    prosecutor and court; documented harm informs both the sentence and compensation.

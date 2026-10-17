@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A man sets fire to his own shop to collect insurance. He knows the night guard is asleep inside and
+    sees the guard's death as almost certain, though he does not want it. The guard dies. How does the
+    law treat his state of mind towards the death?
+  options:
+    - >-
+      As negligence, because killing the guard was not his aim.
+    - >-
+      As rashness, because he hoped the guard might wake up.
+    - >-
+      As no mental element at all, since his only aim was the insurance money.
+    - >-
+      As intent, because he foresaw the death as almost certain.
+  correct: 3
+  explanation: >-
+    Under s. 20(ב), foreseeing a result as a near-certain possibility is treated as intending it,
+    even if the result was not the person's purpose.
+- id: q2
+  question: >-
+    A passer-by sees a stranger collapse on the street and walks on without calling for help. A
+    relative of the stranger asks whether the passer-by committed an offence by omission. What is the
+    first question to ask?
+  options:
+    - >-
+      Whether a law or contract required him to act.
+    - >-
+      Whether he could have helped without danger to himself.
+    - >-
+      Whether the stranger later died or recovered.
+    - >-
+      Whether he felt sorry afterwards.
+  correct: 0
+  explanation: >-
+    Section 18(ג) defines an omission as failing to do what a law or contract requires. Without a
+    duty there is no criminal omission, however morally wrong the conduct.
+- id: q3
+  question: >-
+    A dealer bought a phone at a third of its price from a stranger in a car park, suspected it was
+    stolen and deliberately did not ask. He says he "did not know". How does the Penal Law view this?
+  options:
+    - >-
+      He lacked awareness, so only negligence can be proved.
+    - >-
+      He is treated as aware, because he suspected and chose not to check.
+    - >-
+      He is liable only if the seller admits the phone was stolen.
+    - >-
+      Suspicion is irrelevant when the price was agreed freely.
+  correct: 1
+  explanation: >-
+    Section 20(ג)(1) treats a person who suspected a circumstance and refrained from checking as if
+    he was aware of it: wilful blindness.
+- id: q4
+  question: >-
+    A new law creates a felony that can be committed by negligence. A defendant argues that this part
+    of the law cannot work. Is he right?
+  options:
+    - >-
+      No, the Knesset may set any mental element for any offence.
+    - >-
+      No, negligence is always enough for offences that cause harm.
+    - >-
+      Yes, because s. 21(ב) allows negligence only for non-felonies.
+    - >-
+      Yes, because negligence offences must be strict liability.
+  correct: 2
+  explanation: >-
+    Section 21(ב) says negligence can be set as a sufficient mental element only for an offence that
+    is not a felony. A later special law could in theory depart from it expressly, but the general
+    rule supports him.
