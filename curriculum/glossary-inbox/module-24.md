@@ -1,0 +1,30 @@
+- **עיכוב** (ikuv) — Detention on the spot: a short police stop on reasonable suspicion to identify, question or hand documents, at most three hours (Arrests Law ss. 67, 73).
+- **עבירה בת מעצר** (avera bat ma'atzar) — Arrestable offence: any offence except a contravention (Arrests Law s. 23(א)(7)).
+- **הקצין הממונה** (hakatzin hamemune) — Officer in charge at the station who reviews an arrest and may release, set police bail or hold the detainee for a judge (Arrests Law ss. 27–28, 42).
+- **מעצר ימים** (ma'atzar yamim) — Remand before indictment to complete the investigation, up to 15 days per order (Arrests Law ss. 13, 17).
+- **מעצר עד תום ההליכים** (ma'atzar ad tom hahalichim) — Detention until the end of proceedings after an indictment (Arrests Law s. 21).
+- **חלופת מעצר** (chalufat ma'atzar) — Alternative to detention: release on bail and conditions that achieve the purpose with less harm to liberty.
+- **מעצר בפיקוח אלקטרוני** (ma'atzar befikuach elektroni) — Electronically monitored detention, with the defendant's consent (Arrests Law s. 22ב).
+- **עיון חוזר** (iyun chozer) — Request for review of a detention or bail decision on new facts, changed circumstances or the passage of time (Arrests Law s. 52).
+- **חיפוש בהסכמה** (chipus behaskama) — Consent search; valid only with informed consent, after the person is told he may refuse (Ben Haim, LCrimA 10141/09).
+- **חדירה לחומר מחשב** (chadira lechomer machshev) — Searching computer material; needs a warrant that expressly allows it (Search Ordinance s. 23א).
+- **חקירה באזהרה** (chakira be'azhara) — Questioning under caution, as a suspect.
+- **תיעוד חזותי** (ti'ud chazuti) — Video recording of a suspect's interrogation, required at the station for offences of ten years or more (Interrogation of Suspects Law s. 7).
+- **דבר מה נוסף** (dvar ma nosaf) — "Something extra": the minimal corroboration needed to convict on a confession.
+- **עילת סגירה** (ilat sgira) — Closure ground of a criminal file: lack of guilt, insufficient evidence, circumstances as a whole, arrangement, and others.
+- **סגירה בהסדר / הסדר מותנה** (sgira behesder / hesder mutne) — Conditional arrangement: closing a file after the suspect admits the facts and meets conditions (CPL ss. 67א–67יב).
+- **טיוטת כתב אישום** (tyutat ktav ishum) — Draft indictment prepared before a conditional arrangement (CPL s. 67ב).
+- **פנייה לפי סעיף 60א** (pniya lefi se'if 60א) — A felony suspect's reasoned written request to the prosecution not to indict (CPL s. 60א); often called a pre-indictment hearing (שימוע).
+- **דיון מקדמי** (diyun mukdam) — Preliminary hearing at the start of a criminal trial to narrow disputes or end the case, only with a represented defendant (CPL s. 143א).
+- **הסדר טיעון** (hesder ti'un) — Plea bargain between prosecution and defendant; not binding on the court, binding on the prosecution (Peretz).
+- **אין להשיב לאשמה** (ein lehashiv la'ashma) — "No case to answer": acquittal at the end of the prosecution case when guilt is not proved even prima facie (CPL s. 158).
+- **ביטול הרשעה** (bitul harsha'a) — Cancelling a conviction before sentence and ordering probation or community service without conviction (CPL s. 192א).
+- **עיכוב ביצוע** (ikuv bitzu'a) — Stay of execution of a sentence pending appeal (Schwartz, CrimA 111/99).
+- **מידע פלילי** (meida plili) — Criminal information: the contents of the criminal register and the police register (Criminal Information Law 2019 s. 1).
+- **המרשם המשטרתי** (hamirsham hamishtarti) — Police register of pending and closed files, stays and acquittals (Criminal Information Law s. 27).
+- **התיישנות פרט רישום** (hityashnut prat rishum) — Limitation of a record entry, after which it is given only to listed bodies (Criminal Information Law ss. 18–20).
+- **מחיקת פרט רישום** (mechikat prat rishum) — Deletion of a record entry after a further period (Criminal Information Law ss. 21–23).
+- **ביטול רישום משטרתי** (bitul rishum mishtarti) — Cancellation of a police-register entry about a closed file (Criminal Information Law s. 33).
+- **הודעת תשלום קנס** (hoda'at tashlum knas) — Fine-payment notice for a fine offence (CPL s. 228(ב)).
+- **ברירת משפט** (breirat mishpat) — Choice of trial: the procedure for fine offences, letting the recipient pay, ask to cancel or ask to be tried (CPL ss. 228–230).
+- **בקשה להישפט** (bakasha lehishafet) — Request to be tried for a fine offence, within 90 days of service (CPL s. 229(א)(2)).

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A magistrates' court convicted Ofer and gave its verdict without reasons on 10 April; the reasons
+    were given on 1 May, and the sentence the same day. From when does the appeal period run?
+  options:
+    - >-
+      From 10 April, the day the verdict was announced.
+    - >-
+      From the day Ofer received a copy by post.
+    - >-
+      From 1 May, the day the reasons were given.
+    - >-
+      From the day the prosecution decides not to appeal.
+  correct: 2
+  explanation: >-
+    CPL s. 199: the period runs from the judgment, and if the verdict was given without reasons, from the
+    day the reasons were given.
+- id: q2
+  question: >-
+    Dafna was convicted of a minor offence and fears losing her teaching licence. The judge has not yet
+    sentenced her. What may she ask for?
+  options:
+    - >-
+      That the court cancel the conviction (s. 192א).
+    - >-
+      That the court delete the indictment from the file as if never filed.
+    - >-
+      That the prosecution withdraw the charge after the verdict.
+    - >-
+      That the President pardon her before the sentencing hearing.
+  correct: 0
+  explanation: >-
+    Section 192א lets the court, after conviction and before sentence, cancel the conviction and order
+    probation, community service or an undertaking without conviction; it requires concrete harm and an
+    offence that allows it.
+- id: q3
+  question: >-
+    Shai appealed against his sentence; the prosecution did not appeal. At the hearing the judges say
+    the sentence looks too lenient. What can they do?
+  options:
+    - >-
+      Increase the sentence, since the appeal opens the whole judgment.
+    - >-
+      Dismiss Shai's appeal, but not increase the sentence.
+    - >-
+      Order a new trial at which a heavier sentence may be imposed.
+    - >-
+      Ask the prosecution to file a late appeal during the hearing.
+  correct: 1
+  explanation: >-
+    CPL s. 217: the appeal court will not increase a sentence unless an appeal against its leniency was
+    filed. Without a prosecution appeal, the court may only dismiss or allow Shai's appeal.
+- id: q4
+  question: >-
+    The district court, sitting on appeal from a magistrates' court, dismissed Lea's appeal. She wants to
+    go to the Supreme Court. What must she file?
+  options:
+    - >-
+      A notice of appeal as of right within 45 days.
+    - >-
+      A petition to the High Court of Justice against the district court.
+    - >-
+      A request for a further hearing before an expanded panel.
+    - >-
+      An application for leave to appeal (רע״פ) within the period.
+  correct: 3
+  explanation: >-
+    A second appeal from the district court sitting on appeal needs leave; the application is filed
+    within the s. 199 period, and leave is given mainly for questions of general importance.

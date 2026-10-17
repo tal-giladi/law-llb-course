@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Two years ago Liat's file for fraud was closed because "the circumstances as a whole do not suit
+    prosecution". A friend tells her that a closed file is never recorded. What is correct?
+  options:
+    - >-
+      The friend is right; only convictions are recorded anywhere.
+    - >-
+      The file appears in the criminal register as if it were a conviction.
+    - >-
+      It was deleted automatically on the day the file was closed.
+    - >-
+      It is in the police register as a closed file until cancelled.
+  correct: 3
+  explanation: >-
+    Criminal Information Law s. 27(א)(2) lists closed files, including closure on the "circumstances as a
+    whole" ground, in the police register; only lack of guilt removes the entry (CPL s. 62(ב)(4)).
+- id: q2
+  question: >-
+    A shop owner, who is not an entitled body, makes job applicants sign a declaration that they have no
+    open or closed criminal files. What does the 2019 law say?
+  options:
+    - >-
+      The demand is lawful if the applicant agrees to sign.
+    - >-
+      The demand is unlawful, even with the applicant's consent.
+    - >-
+      The demand is lawful for closed files but not for convictions.
+    - >-
+      The demand is lawful if the shop sells alcohol or tobacco.
+  correct: 1
+  explanation: >-
+    Section 3(ב) forbids demanding criminal information outside the law, directly or indirectly,
+    including by declaration or questionnaire; consent does not make an unentitled person entitled.
+- id: q3
+  question: >-
+    Yuval, an adult with no other entries, was convicted in 2021 and fined, with no prison, for a
+    misdemeanour that is not sexual, violent or a drug offence. When does the entry reach limitation?
+  options:
+    - >-
+      Four years after the judgment, in 2025.
+    - >-
+      Seven years after the offence was committed.
+    - >-
+      Ten years after the fine was fully paid.
+    - >-
+      Never; misdemeanours stay until the President acts.
+  correct: 0
+  explanation: >-
+    Section 19(א)(1): a conviction without prison and without another entry lapses after four years
+    (five for sexual, violent or drug offences), counted from the judgment (s. 18(א)); deletion follows
+    four years after limitation (s. 22(1)).
+- id: q4
+  question: >-
+    A closed file in a misdemeanour from an event nine years ago still shows in Rina's police record.
+    What is her strongest argument?
+  options:
+    - >-
+      The entry must be cancelled at once because all closed files expire after one year.
+    - >-
+      Only the President can remove the entry, by a pardon.
+    - >-
+      Non-felony closed files are cancelled seven years after the event (s. 33(ג)).
+    - >-
+      The entry is valid until she is acquitted in a new trial.
+  correct: 2
+  explanation: >-
+    Section 33(ג): a police-register entry of a closed file in an offence that is not a felony is
+    cancelled seven years after the event (five for minors), unless the criteria provide otherwise.

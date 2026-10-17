@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A man is charged with an offence carrying a maximum of five years' imprisonment. No special list
+    applies. In which court will he be tried?
+  options:
+    - >-
+      The district court, because the offence is a felony.
+    - >-
+      The magistrates' court, which tries offences of up to seven years.
+    - >-
+      The local-affairs court, because it is not a fine offence.
+    - >-
+      The Supreme Court as a court of first instance for felonies.
+  correct: 1
+  explanation: >-
+    Courts Law s. 51(א)(1) gives the magistrates' court offences punishable by a fine or up to seven
+    years' imprisonment; being a felony (over three years) does not by itself send a case to the
+    district court.
+- id: q2
+  question: >-
+    A defendant held in custody argues that the remand provisions must be read narrowly because of
+    Basic Law: Human Dignity and Liberty, although the provisions were enacted before 1992. Which
+    ruling supports him?
+  options:
+    - >-
+      Peretz, which held that plea bargains bind the court.
+    - >-
+      Ganimat, which held that older laws are interpreted in light of the Basic Law.
+    - >-
+      Yissacharov, which held that pre-1992 laws are void if they limit liberty.
+    - >-
+      Bank Mizrahi, which held that remand is a matter for the Knesset alone.
+  correct: 1
+  explanation: >-
+    In CrimFH 2316/95 Ganimat the Court held that all legislation, including older laws, is
+    interpreted in light of the right to liberty, and that detention for dangerousness needs concrete
+    evidence about the defendant.
+- id: q3
+  question: >-
+    Rania pays a parking fine she believes was wrong, "to save time". What has she legally done?
+  options:
+    - >-
+      Nothing permanent: payment is an administrative step with no legal effect.
+    - >-
+      Reserved her right to ask for a trial within the following year.
+    - >-
+      She is treated as having admitted, been convicted and served the sentence.
+    - >-
+      She has filed a request to cancel the notice by paying under protest.
+  correct: 2
+  explanation: >-
+    CPL s. 229(ח): a person who pays a fine is treated as if he admitted guilt before a court, was
+    convicted and served his sentence. If you dispute the fine, ask for cancellation or to be tried
+    within the periods instead.
+- id: q4
+  question: >-
+    Investigation material in a felony file (not on any special list) is ready. To whom do the police
+    send it?
+  options:
+    - >-
+      To the district attorney's office, without a recommendation on whether to indict.
+    - >-
+      To a police prosecutor, who decides on indictment with the investigators' recommendation.
+    - >-
+      Directly to the magistrates' court, which decides whether there is a case.
+    - >-
+      To the Attorney General personally, who must approve every felony indictment.
+  correct: 0
+  explanation: >-
+    CPL s. 60(ב) sends felony material to the district attorney; under s. 60(יא) the police send it
+    without their position on indictment, attaching only a written view of the evidence.

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A patrol officer stops a driver who argued with him about a parking contravention and announces
+    that he is arresting him "for disrespect". No other offence is suspected. Is the arrest lawful?
+  options:
+    - >-
+      Yes, because any offence allows arrest if the officer considers the person uncooperative.
+    - >-
+      Yes, provided the driver is brought before a judge within 24 hours of the arrest.
+    - >-
+      No, because a contravention is not an arrestable offence under Arrests Law s. 23.
+    - >-
+      No, because only a judge may arrest a person for any offence in a public place.
+  correct: 2
+  explanation: >-
+    Arrest without a warrant needs a reasonable suspicion of an arrestable offence, defined in s.
+    23(א)(7) as any offence except a contravention, plus a ground; and it is barred where detention would
+    suffice.
+- id: q2
+  question: >-
+    At a bus station an officer asks Lior, with no specific suspicion, "Can I take a look in your bag?"
+    He does not say Lior may refuse. Lior opens the bag. What does Ben Haim say about this search?
+  options:
+    - >-
+      The consent is valid because Lior opened the bag himself.
+    - >-
+      The consent is not informed, so the search was not lawfully based on consent.
+    - >-
+      The search is lawful because bus stations are public places.
+    - >-
+      The search is lawful if a supervisor approves it in writing within a day.
+  correct: 1
+  explanation: >-
+    LCrimA 10141/09 Ben Haim: without a statutory power, consent justifies a search only if it is
+    informed, which requires telling the person that he may refuse and that refusal will not be held
+    against him.
+- id: q3
+  question: >-
+    Police search Yael's flat under a warrant. No civilians are present, there is no urgency and she did
+    not ask to waive witnesses. What can she rely on afterwards?
+  options:
+    - >-
+      Search Ordinance s. 26: two non-police witnesses, unless an exception applies.
+    - >-
+      Nothing, because a warrant replaces every other safeguard in the Ordinance.
+    - >-
+      Arrests Law s. 73, which limits a search of a home to three hours.
+    - >-
+      The Body Search Law, which requires a person of the same sex to search a flat.
+  correct: 0
+  explanation: >-
+    Section 26 requires every search, with or without a warrant, to be held before two witnesses who are
+    not police officers, unless urgency (recorded), a judge's permission or the occupier's request
+    exempts it.
+- id: q4
+  question: >-
+    During a lawful search of his home for stolen goods, police take Omar's laptop and start opening its
+    files. The warrant mentions only "stolen electronic goods". What is the strongest objection?
+  options:
+    - >-
+      Laptops can never be seized because they belong to the family.
+    - >-
+      Seizure is lawful but the police must pay rent for the laptop.
+    - >-
+      Searching the files needs a warrant that expressly allows it (s. 23א).
+    - >-
+      Only the State Attorney may approve seizing a laptop in any case.
+  correct: 2
+  explanation: >-
+    Search Ordinance s. 23א treats penetrating computer material as a search that needs a judge's warrant
+    expressly permitting it and setting its purposes and conditions.

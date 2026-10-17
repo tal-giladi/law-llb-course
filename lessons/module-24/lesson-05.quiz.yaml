@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Gal's file for theft was closed. At the station she learns the ground was "insufficient evidence".
+    She has documents proving the item was hers. What is her best next step?
+  options:
+    - >-
+      Nothing; once closed, a file has no further effect on her record or life.
+    - >-
+      Petition the High Court of Justice to annul the closure decision.
+    - >-
+      Ask the prosecutor to change the ground to lack of guilt.
+    - >-
+      File an appeal under s. 64, as complainants do, within the deadline.
+  correct: 2
+  explanation: >-
+    CPL s. 62(ב)(4) lets the suspect ask the prosecutor who closed the file to change the ground; a file
+    closed for lack of guilt is removed from the police record. Section 64 appeals belong to complainants.
+- id: q2
+  question: >-
+    A suspect with a conviction from three years ago is suspected of a misdemeanour for which the fitting
+    sentence is a fine. Can the prosecutor close the file by a conditional arrangement?
+  options:
+    - >-
+      Yes, because the offence is a misdemeanour and prison is not expected.
+    - >-
+      No; a record entry in the prior five years bars it.
+    - >-
+      Yes, provided the victim agrees in writing to the arrangement.
+    - >-
+      No, because arrangements are only for felonies listed in a schedule.
+  correct: 1
+  explanation: >-
+    Section 67א(ד)(2) requires that no record entry was registered against the suspect in the five years
+    before the offence, including a previous arrangement, and no other pending files.
+- id: q3
+  question: >-
+    Eli signed a conditional arrangement admitting the facts, then breached a condition and was indicted
+    on the draft. At trial the prosecution wants to prove the charge using his admission in the
+    arrangement. Can it?
+  options:
+    - >-
+      No; that admission is not evidence against him on those facts.
+    - >-
+      Yes; the breach cancels every protection the arrangement gave him.
+    - >-
+      Yes, but only for sentencing and not for the verdict on guilt.
+    - >-
+      Only if he also admitted the breach in writing to the prosecutor.
+  correct: 0
+  explanation: >-
+    CPL s. 67ז(ו): a suspect's admission within an arrangement shall not serve as evidence against him in
+    criminal proceedings on those facts; the prosecution must prove the charge with other evidence.
+- id: q4
+  question: >-
+    Rami received a s. 60א notice in a felony file on 1 March by registered mail and only opened it on
+    20 March. He wants to write to the prosecution. What should he do first?
+  options:
+    - >-
+      Wait for the indictment, since the notice does not require any action.
+    - >-
+      Ask the court to extend the period, since only a judge can extend it.
+    - >-
+      Send a detailed personal statement of the events within the same week.
+    - >-
+      Treat the period as running and ask the prosecution for an extension.
+  correct: 3
+  explanation: >-
+    A notice sent by registered mail is deemed served (s. 60א(ג)), and the period runs from receipt. The
+    State Attorney, district attorney or head of the prosecution unit may extend it (s. 60א(ד)); a
+    detailed statement should not be sent without advice.

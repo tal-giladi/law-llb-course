@@ -1,0 +1,184 @@
+- id: q1
+  question: >-
+    At 23:00 police knock on Sivan's door with a warrant to search for stolen tools. No civilians are with
+    them and there is no urgency. Sivan wants to protect herself lawfully. What should she do?
+  options:
+    - >-
+      Block the door until the police bring witnesses, since the search is unlawful.
+    - >-
+      Let them in, ask for two civilian witnesses and the seizure list, and note the details.
+    - >-
+      Refuse entry because searches at night are forbidden by the Search Ordinance.
+    - >-
+      Leave the flat so that nothing she says can be used against her.
+  correct: 1
+  explanation: >-
+    Search Ordinance ss. 26 and 28 give her the right to two non-police witnesses and to a signed seizure
+    list. She must not resist or obstruct; she asserts the rights and records the details for a later
+    challenge.
+- id: q2
+  question: >-
+    Arrested at 15:00 on Thursday, Amjad asks at once to consult a lawyer. Nothing urgent is happening in
+    the investigation. The officer says he will see a lawyer "after the weekend". What is the legal
+    position?
+  options:
+    - >-
+      Lawful, because lawyer meetings may be delayed by up to 48 hours in every case.
+    - >-
+      Lawful, because the 24-hour rule replaces the right to a lawyer.
+    - >-
+      Unlawful; the meeting must be allowed without delay unless a listed ground is recorded.
+    - >-
+      Unlawful, but Amjad must wait until he is brought before a judge to complain.
+  correct: 2
+  explanation: >-
+    Arrests Law s. 34 requires the meeting without delay; delays are allowed only on the grounds in s.
+    34(ד)–(ו), in a reasoned decision and within limits. A violation may later affect the admissibility of
+    statements (Yissacharov).
+- id: q3
+  question: >-
+    Kobi is indicted for a drug-trafficking offence. At the detention hearing the prosecution says he is
+    presumed dangerous. His lawyer offers house arrest at his parents' with two supervisors. What must the
+    court decide?
+  options:
+    - >-
+      Whether the offence is common in the area, which alone justifies detention.
+    - >-
+      Only whether the parents have enough money to guarantee the bail.
+    - >-
+      Nothing more: a listed offence makes detention until the end of proceedings automatic.
+    - >-
+      Whether there is prima facie evidence and whether the alternative would achieve the purpose.
+  correct: 3
+  explanation: >-
+    Arrests Law s. 21: a listed offence creates a presumed ground, but the court must find prima facie
+    evidence and must not detain if bail and conditions would achieve the purpose with less harm (s.
+    21(ב)(1); Ganimat).
+- id: q4
+  question: >-
+    Two months after a fight, Lior receives a letter: the investigation material in a felony file has
+    reached the district attorney, with an address for arguments. He has video evidence that he was
+    attacked first. What is the best course?
+  options:
+    - >-
+      Within the period, send a reasoned s. 60א request with the video, checked by a lawyer.
+    - >-
+      Do nothing until the indictment, then raise self-defence at trial only.
+    - >-
+      Call the complainant and offer compensation in exchange for withdrawing.
+    - >-
+      Post the video online so that the prosecutor sees the public reaction.
+  correct: 0
+  explanation: >-
+    CPL s. 60א lets a felony suspect ask, in writing and with reasons, not to be indicted; evidence of
+    self-defence is exactly what such a request should contain. Contacting the complainant or creating
+    public pressure risks obstruction and harms the defence.
+- id: q5
+  question: >-
+    A prosecutor offers Gili, who has no record, a conditional arrangement for a misdemeanour: she would
+    admit the facts, pay a sum and undertake not to offend for a year. What should she know before
+    signing?
+  options:
+    - >-
+      Signing creates a conviction in the criminal register for four years.
+    - >-
+      She may inspect the material and the draft first; her admission cannot be used against her at trial.
+    - >-
+      If she refuses, the prosecutor may then seek a heavier sentence including actual prison as of right.
+    - >-
+      The arrangement erases every trace of the file from all police records at once.
+  correct: 1
+  explanation: >-
+    CPL s. 67ד lets her inspect the material and draft indictment before signing, and s. 67ז(ו) bars use
+    of the admission as evidence on those facts. The file is closed "בהסדר" and recorded in the police
+    register, not the criminal register; after a refusal the prosecutor needs new information to seek
+    actual prison (s. 67ז(ה)).
+- id: q6
+  question: >-
+    Elad, unrepresented, is tried in the magistrates' court for a theft. The prosecutor gave notice that it
+    may seek actual imprisonment. Elad wants to continue alone. What is the legal position?
+  options:
+    - >-
+      He may continue alone; the court may then sentence him to actual prison.
+    - >-
+      The trial must be moved to the district court because of the prison notice.
+    - >-
+      A defender must be appointed because of the prison notice.
+    - >-
+      The court must acquit him, because unrepresented trials are void.
+  correct: 2
+  explanation: >-
+    CPL ss. 15(א)(5) and 15א(ג): after a notice that actual imprisonment may be sought, a defender is
+    appointed for an unrepresented defendant; s. 15ב bars actual imprisonment of an unrepresented
+    defendant in any case.
+- id: q7
+  question: >-
+    Tali, a law student, was convicted of a minor offence. Before sentencing she shows the court that a
+    conviction would bar her from the Bar internship. What can the court do?
+  options:
+    - >-
+      Cancel the conviction and order community service or probation without conviction.
+    - >-
+      Nothing; a conviction can only be removed by a pardon from the President.
+    - >-
+      Order that the conviction be kept secret from the Bar Association only.
+    - >-
+      Transfer the case to a disciplinary tribunal of the Bar.
+  correct: 0
+  explanation: >-
+    CPL s. 192א allows the court, after conviction and before sentence, to cancel the conviction and
+    order probation, community service or an undertaking; the case law requires concrete harm and an
+    offence that permits it. The order is still recorded, with shorter periods.
+- id: q8
+  question: >-
+    Nadav received a speed-camera notice as the car's owner. His sister was driving; he has her written
+    confirmation. The notice was served 20 days ago. What is the right step?
+  options:
+    - >-
+      Pay the fine and ask the sister to repay him, since payment has no legal effect.
+    - >-
+      Ask to be tried and explain at the hearing in a year.
+    - >-
+      Ignore it, since only the driver can be liable for a camera offence.
+    - >-
+      Ask the prosecutor to cancel it, naming the driver, within the period for owners.
+  correct: 3
+  explanation: >-
+    CPL s. 229(א)(1) allows a cancellation request, and an owner proving another driver has 90 days.
+    Paying is a conviction (s. 229(ח)); ignoring the notice leads to a deemed conviction (s. 229(ח2)).
+- id: q9
+  question: >-
+    An insurance company, not an entitled body, asks Yael on a job form: "Have you ever had a criminal
+    file, open or closed?" Her only entry is a closed file from 2019. How may she answer lawfully?
+  options:
+    - >-
+      She must disclose it, because she signed the form voluntarily.
+    - >-
+      She must bring an official printout of her record from the police.
+    - >-
+      She need not disclose it; the question is not permitted.
+    - >-
+      She must disclose it only if the file was closed for lack of guilt.
+  correct: 2
+  explanation: >-
+    Criminal Information Law s. 3(ב) forbids demanding criminal information outside the law, even by
+    questionnaire or consent; s. 37 says a person need not disclose a closed file to someone not
+    entitled to it, without liability.
+- id: q10
+  question: >-
+    Inspecting his record, Ido finds a felony file from 2020, closed for "insufficient evidence"; he was in
+    fact the victim. He is applying for a gun licence. Which combination of steps is best?
+  options:
+    - >-
+      Wait seven years, since all closed files are cancelled automatically.
+    - >-
+      Ask to change the ground and to cancel the entry.
+    - >-
+      Appeal the closure as a complainant under s. 64 of the CPL.
+    - >-
+      Ask the President for a pardon covering the closed file.
+  correct: 1
+  explanation: >-
+    CPL s. 62(ב)(4) lets the suspect ask to change the ground (lack of guilt removes the entry), and
+    Criminal Information Law s. 33(א) lets the police cancel a closed-file entry; automatic cancellation
+    after seven years applies only to non-felonies (s. 33(ג)).

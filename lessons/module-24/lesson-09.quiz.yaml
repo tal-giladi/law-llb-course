@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Yoni received a parking fine on 1 March. On 20 March he asked the municipal prosecutor to cancel it;
+    the refusal was served on 10 June. He now wants a trial. What is the deadline?
+  options:
+    - >-
+      None; the 90 days from 1 March have passed, so he must pay.
+    - >-
+      Within 30 days of the refusal being served, by 10 July.
+    - >-
+      Within 90 days of the refusal being served, by early September.
+    - >-
+      Within one year of the offence, under s. 225א.
+  correct: 1
+  explanation: >-
+    CPL s. 229(א) closing paragraph: a person who asked for cancellation may ask to be tried within 30
+    days of service of the decision on cancellation.
+- id: q2
+  question: >-
+    Hila asked to be tried for a fine offence, then did not come to the hearing and sent no lawyer. What
+    is the likely result?
+  options:
+    - >-
+      The case is struck out because the defendant was absent.
+    - >-
+      She is treated as admitting the facts (s. 240).
+    - >-
+      The court must issue an arrest warrant to bring her to the next hearing.
+    - >-
+      The hearing is postponed automatically until she attends.
+  correct: 1
+  explanation: >-
+    Section 240(א)(2)–(3): a defendant in a fine offence who does not appear is treated as admitting the
+    facts in the indictment unless a defender appears, and may be tried in absence if no miscarriage of
+    justice results, but not sentenced to prison.
+- id: q3
+  question: >-
+    A camera photographed Eyal's car running a red light. The fine notice is served on him six months
+    later. He was the driver. What should he check first?
+  options:
+    - >-
+      Whether it was served within the s. 225א period.
+    - >-
+      Whether the prosecutor signed the notice personally and by hand.
+    - >-
+      Whether the offence is listed in the criminal register.
+    - >-
+      Whether the company that owns the camera has a business licence.
+  correct: 0
+  explanation: >-
+    Section 225א(א1): for camera-based traffic offences, no notice or indictment may be served on the
+    owner after four months from the offence (with an extension where the owner proves another driver).
+- id: q4
+  question: >-
+    In a felony file, Daniel wants to write a s. 60א request himself and include a detailed new account
+    of the fight, including facts no witness has mentioned. What is the best advice?
+  options:
+    - >-
+      Include every detail, since the prosecutor cannot use the letter.
+    - >-
+      Do not write at all, since requests are pointless.
+    - >-
+      Send it only after the indictment is filed, under s. 74.
+    - >-
+      Rely on documents and law; have a lawyer check new facts.
+  correct: 3
+  explanation: >-
+    The s. 60א request is a right, but what a suspect writes may be used later. A request built on
+    documents, legal arguments and personal circumstances, checked by a lawyer, is safer and usually more
+    persuasive.

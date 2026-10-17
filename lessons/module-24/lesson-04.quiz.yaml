@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A suspect has been held in remand for 30 days in a row in connection with the same event. The police
+    want another 10 days. What is needed?
+  options:
+    - >-
+      Nothing special; a magistrate may extend remand by 15 days at a time indefinitely.
+    - >-
+      The suspect's written consent to stay in custody for further questioning.
+    - >-
+      An indictment must be filed first, since remand ends at 30 days in every case.
+    - >-
+      A request approved by the Attorney General, under Arrests Law s. 17(ב).
+  correct: 3
+  explanation: >-
+    Each remand order is up to 15 days, but a suspect may not be held more than 30 days in a row for the
+    same event unless the request for further remand was approved by the Attorney General (s. 17(ב)).
+- id: q2
+  question: >-
+    A defendant charged with a drug-trafficking offence argues that he should be released because the
+    prosecution has not proved he is dangerous. Under s. 21, what is the legal position?
+  options:
+    - >-
+      The listed offence creates a presumed ground, which he may try to rebut.
+    - >-
+      The prosecution must always prove danger with specific evidence of threats.
+    - >-
+      Drug offences never justify detention because they are victimless.
+    - >-
+      Detention is automatic for drug offences and alternatives are not considered.
+  correct: 0
+  explanation: >-
+    Drug offences other than use are listed in s. 21(א)(1)(ג), creating a presumption of danger. The court
+    still needs prima facie evidence and must consider whether a less harmful alternative would do (s.
+    21(ב)(1)).
+- id: q3
+  question: >-
+    Five months after being released to house arrest, Dana has had no incidents and has a job offer.
+    The original decision was correct when made. What is the right procedure?
+  options:
+    - >-
+      An appeal to the district court, filed at any time without a deadline.
+    - >-
+      A request for review in the same court, citing changed circumstances and time passed.
+    - >-
+      A petition to the High Court of Justice against the house-arrest order.
+    - >-
+      Simply starting work and informing the police station by phone.
+  correct: 1
+  explanation: >-
+    Arrests Law s. 52 allows a request for review on new facts, changed circumstances or considerable
+    time. An appeal under s. 53 attacks the decision itself and must be filed within 30 days. Starting
+    work without a court decision is a breach.
+- id: q4
+  question: >-
+    Moshe signed as guarantor and supervisor for his nephew, who then left the house without him. The
+    prosecution asks to forfeit the guarantee. What right does Moshe have?
+  options:
+    - >-
+      None; forfeiture is automatic once any breach is reported.
+    - >-
+      To demand that the nephew be detained instead of forfeiting anything.
+    - >-
+      To be heard before the court decides on forfeiting his guarantee.
+    - >-
+      To transfer the guarantee to the police officer who set the conditions.
+  correct: 2
+  explanation: >-
+    Arrests Law s. 51(ג): a request to forfeit a third-party guarantee is not heard unless the guarantor
+    was given an opportunity to state his arguments.

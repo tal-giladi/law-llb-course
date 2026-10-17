@@ -1,0 +1,1409 @@
+# Module 24 question bank (not imported). Feeds the daily practice tool.
+- id: m24-001
+  module: 24
+  lesson: "24.1"
+  subject: constitutional-frame
+  difficulty: 1
+  question: >-
+    Which section of Basic Law: Human Dignity and Liberty protects against taking or restricting liberty
+    by imprisonment, arrest or extradition?
+  options:
+    - >-
+      Section 2.
+    - >-
+      Section 5.
+    - >-
+      Section 7.
+    - >-
+      Section 11.
+  correct: 1
+  explanation: >-
+    Section 5: "אין נוטלים ואין מגבילים את חירותו של אדם במאסר, במעצר, בהסגרה או בכל דרך אחרת".
+- id: m24-002
+  module: 24
+  lesson: "24.1"
+  subject: jurisdiction
+  difficulty: 2
+  question: >-
+    Bar-exam style. An offence carries a maximum of six years, and no special list applies. Which court
+    has subject-matter jurisdiction at first instance?
+  options:
+    - >-
+      The district court.
+    - >-
+      The Supreme Court.
+    - >-
+      The magistrates' court.
+    - >-
+      The local-affairs court only.
+  correct: 2
+  explanation: >-
+    Courts Law s. 51(א)(1): the magistrates' court tries offences punishable by a fine or by up to seven
+    years' imprisonment, subject to listed exceptions.
+- id: m24-003
+  module: 24
+  lesson: "24.1"
+  subject: prosecutors
+  difficulty: 1
+  question: >-
+    Who is the accuser in an ordinary criminal trial in Israel?
+  options:
+    - >-
+      The State, represented by a prosecutor.
+    - >-
+      The victim, assisted by the police.
+    - >-
+      The investigating police officer personally.
+    - >-
+      The court, which calls the evidence itself.
+  correct: 0
+  explanation: >-
+    CPL s. 11: the accuser is the State, represented by a prosecutor; the private complaint (s. 68) is
+    the exception.
+- id: m24-004
+  module: 24
+  lesson: "24.1"
+  subject: allocation
+  difficulty: 2
+  question: >-
+    Investigation material in a misdemeanour not listed in any schedule is ready. Who will usually decide
+    whether to indict?
+  options:
+    - >-
+      A district attorney at the State Attorney's Office.
+    - >-
+      The Attorney General personally.
+    - >-
+      The magistrates' judge on duty.
+    - >-
+      A police prosecutor.
+  correct: 3
+  explanation: >-
+    CPL s. 60(ג)(1): material in offences that are not felonies (and not in Part A of the First Schedule
+    A) goes to a police prosecutor.
+- id: m24-005
+  module: 24
+  lesson: "24.1"
+  subject: ganimat
+  difficulty: 3
+  question: >-
+    A prosecutor argues that because burglaries have become very common in a town, every burglary
+    defendant should be detained until the end of proceedings. Which ruling answers him?
+  options:
+    - >-
+      Peretz, on the prosecution's duty to defend plea bargains.
+    - >-
+      Ganimat, requiring proof of personal danger.
+    - >-
+      Milstein, on silence at trial as corroboration.
+    - >-
+      Schwartz, on staying prison sentences pending appeal.
+  correct: 1
+  explanation: >-
+    CrimFH 2316/95 Ganimat held that the prevalence of an offence alone does not show that a particular
+    defendant is dangerous; detention requires concrete grounds and a search for alternatives.
+- id: m24-006
+  module: 24
+  lesson: "24.1"
+  subject: fine-offences
+  difficulty: 2
+  question: >-
+    What is the legal effect of paying a fine-payment notice for a fine offence?
+  options:
+    - >-
+      None; it is an administrative fee without legal effect.
+    - >-
+      It is treated as admission, conviction and service of sentence.
+    - >-
+      It suspends the case until the authority decides whether to prosecute.
+    - >-
+      It enters the criminal register for seven years.
+  correct: 1
+  explanation: >-
+    CPL s. 229(ח). Fine offences are not entered in the criminal register (Criminal Information Law s.
+    8(ג)), but payment is still a conviction.
+- id: m24-007
+  module: 24
+  lesson: "24.1"
+  subject: time-limits
+  difficulty: 3
+  question: >-
+    The police investigation took far longer than the periods in the Attorney General's guidelines. The
+    prosecutor now wants to indict. What does CPL s. 57א require?
+  options:
+    - >-
+      Nothing; the guidelines have no legal effect on indictments.
+    - >-
+      The file must be closed, because limitation has expired.
+    - >-
+      The Attorney General's consent to file the indictment.
+    - >-
+      A court order approving the delay before indictment.
+  correct: 2
+  explanation: >-
+    Section 57א(א): if the periods in the procedures and guidelines have passed, no indictment is filed
+    without the Attorney General's consent. Limitation under s. 9 is a separate question.
+- id: m24-008
+  module: 24
+  lesson: "24.2"
+  subject: detention
+  difficulty: 1
+  question: >-
+    What is the maximum length of a detention on the spot (עיכוב), apart from the extension for many
+    people involved?
+  options:
+    - >-
+      Three hours.
+    - >-
+      Six hours.
+    - >-
+      Twenty-four hours.
+    - >-
+      Forty-eight hours.
+  correct: 0
+  explanation: >-
+    Arrests Law s. 73(ב): no detention beyond three hours, extendable by three more in incidents with many
+    people.
+- id: m24-009
+  module: 24
+  lesson: "24.2"
+  subject: arrest-without-warrant
+  difficulty: 2
+  question: >-
+    An officer could achieve his purpose by detaining a suspect for an hour to identify him, but arrests
+    him instead. What does the Arrests Law say?
+  options:
+    - >-
+      Arrest is always allowed when detention is.
+    - >-
+      Arrest needs a judge's warrant in every case.
+    - >-
+      Arrest is lawful if the suspect was impolite.
+    - >-
+      No arrest if detention would suffice.
+  correct: 3
+  explanation: >-
+    Arrests Law s. 23(ג): "לא ייעצר אדם לפי סעיף זה אם ניתן להסתפק בעיכוב".
+- id: m24-010
+  module: 24
+  lesson: "24.2"
+  subject: arrest-duties
+  difficulty: 2
+  question: >-
+    An officer in plain clothes arrests Omer without identifying himself or saying why, though nothing
+    prevented him. What is the legal significance?
+  options:
+    - >-
+      None, as long as the reason is written in the arrest report later.
+    - >-
+      The duties are a condition of the arrest's legality.
+    - >-
+      Only a disciplinary matter for the officer, with no effect on legality.
+    - >-
+      The arrest is lawful if Omer is released within 24 hours.
+  correct: 1
+  explanation: >-
+    Arrests Law s. 24(ג): complying with the duty to identify and explain is a condition of the legality
+    of the arrest, unless an exception in s. 24(ב) applied.
+- id: m24-011
+  module: 24
+  lesson: "24.2"
+  subject: search-warrantless
+  difficulty: 2
+  question: >-
+    Neighbours call the police reporting screams for help from a flat. Officers enter without a warrant.
+    Which provision most directly allows it?
+  options:
+    - >-
+      Search Ordinance s. 25(א).
+    - >-
+      Arrests Law s. 67.
+    - >-
+      The Body Search Law.
+    - >-
+      None; warrantless entry is never allowed.
+  correct: 0
+  explanation: >-
+    Search Ordinance s. 25(א) allows warrantless entry where, among others, a person there calls for
+    police help and there is reason to believe an offence is being committed, or a felony is being
+    committed there.
+- id: m24-012
+  module: 24
+  lesson: "24.2"
+  subject: ben-haim
+  difficulty: 3
+  question: >-
+    Spot the mistake. A police training note says: "If there is no suspicion, ask the citizen to open his
+    bag; if he agrees, the search is lawful." What is wrong under Ben Haim?
+  options:
+    - >-
+      Nothing; any agreement makes the search lawful.
+    - >-
+      Bags may be searched only by a person of the same sex.
+    - >-
+      He must be told he may refuse.
+    - >-
+      Searches without suspicion are allowed only at night.
+  correct: 2
+  explanation: >-
+    LCrimA 10141/09 Ben Haim requires informed consent: the officer must explain that the person may
+    refuse and that refusal will not be held against him.
+- id: m24-013
+  module: 24
+  lesson: "24.2"
+  subject: computer-search
+  difficulty: 2
+  question: >-
+    Police hold a warrant to search a home for documents. May they open the files on a laptop found
+    there?
+  options:
+    - >-
+      Yes; computers are documents for the purpose of every warrant.
+    - >-
+      Yes, if the owner is present and does not object.
+    - >-
+      No; computers may never be searched in criminal cases.
+    - >-
+      Only if the warrant expressly allows it.
+  correct: 3
+  explanation: >-
+    Search Ordinance s. 23א treats penetrating computer material as a search requiring a judge's warrant
+    that expressly allows it and sets its purposes and conditions.
+- id: m24-014
+  module: 24
+  lesson: "24.2"
+  subject: seizure-return
+  difficulty: 2
+  question: >-
+    Police seized Hen's car during a search; no charges followed and months passed. Which forum and
+    provision fit her request to get it back?
+  options:
+    - >-
+      The magistrates' court, on a request under Search Ordinance s. 34.
+    - >-
+      The High Court of Justice, on a petition against the police.
+    - >-
+      The Execution Office, on an application to release property.
+    - >-
+      The labour court, if she uses the car for work.
+  correct: 0
+  explanation: >-
+    Search Ordinance s. 34 lets a person claiming a right in a seized object ask the magistrates' court to
+    order its delivery to him.
+- id: m24-015
+  module: 24
+  lesson: "24.2"
+  subject: compensation
+  difficulty: 2
+  question: >-
+    Rotem was arrested, held for a day and released without indictment; the court finds there was no
+    basis for the arrest. Under which provision may it award compensation?
+  options:
+    - >-
+      CPL s. 74.
+    - >-
+      Search Ordinance s. 26.
+    - >-
+      Arrests Law s. 38.
+    - >-
+      Public Defender Law s. 22.
+  correct: 2
+  explanation: >-
+    Arrests Law s. 38(א): if a person arrested is released without indictment and there was no basis for
+    the arrest, the court may order the State to pay compensation and defence costs.
+- id: m24-016
+  module: 24
+  lesson: "24.3"
+  subject: privilege
+  difficulty: 1
+  question: >-
+    What is the statutory source of a person's right not to answer police questions that would
+    incriminate him?
+  options:
+    - >-
+      The Testimony Ordinance s. 2.
+    - >-
+      The Courts Law s. 51.
+    - >-
+      The Public Defender Law s. 18.
+    - >-
+      The Criminal Information Law s. 37.
+  correct: 0
+  explanation: >-
+    Criminal Procedure (Testimony) Ordinance s. 2(2): a person questioned must answer truthfully, except
+    questions whose answers would expose him to a criminal charge.
+- id: m24-017
+  module: 24
+  lesson: "24.3"
+  subject: caution
+  difficulty: 1
+  question: >-
+    What does the caution given to a suspect say?
+  options:
+    - >-
+      That he must answer every question truthfully or be arrested.
+    - >-
+      That he need not incriminate himself, and his words may be evidence.
+    - >-
+      That his statement cannot be used if he later pleads not guilty.
+    - >-
+      That he may leave whenever he wishes without consequences.
+  correct: 1
+  explanation: >-
+    Arrests Law s. 28(א): he need not say anything that may incriminate him, and anything he says may be
+    used as evidence against him.
+- id: m24-018
+  module: 24
+  lesson: "24.3"
+  subject: lawyer-delay
+  difficulty: 3
+  question: >-
+    Police arrest one of three suspects in a robbery. The officer in charge fears that an immediate
+    lawyer meeting may frustrate the arrest of the other two. What may he do?
+  options:
+    - >-
+      Refuse any lawyer meeting until the indictment is filed.
+    - >-
+      Allow the meeting only in the presence of an investigator.
+    - >-
+      Nothing; the meeting must take place immediately in every case.
+    - >-
+      Postpone it by a reasoned written decision, up to 24 hours.
+  correct: 3
+  explanation: >-
+    Arrests Law s. 34(ה): if the meeting may frustrate the arrest of other suspects or the discovery of
+    evidence, the officer may postpone it by a reasoned written decision for no more than 24 hours.
+- id: m24-019
+  module: 24
+  lesson: "24.3"
+  subject: recording
+  difficulty: 1
+  question: >-
+    A suspect in an offence punishable by five years is questioned at the station. Which form of
+    recording does the Interrogation of Suspects Law require?
+  options:
+    - >-
+      Video only, with no exceptions.
+    - >-
+      Audio and video together.
+    - >-
+      Video, audio or writing.
+    - >-
+      No record at all for such offences.
+  correct: 2
+  explanation: >-
+    Interrogation Law s. 7(3): offences not in the Schedule (ten years or more) may be recorded on video,
+    audio or in writing.
+- id: m24-020
+  module: 24
+  lesson: "24.3"
+  subject: re-enactment
+  difficulty: 1
+  question: >-
+    Police take a suspect to the scene for a re-enactment (שחזור). How must it be recorded?
+  options:
+    - >-
+      On video only.
+    - >-
+      In writing, signed by two witnesses.
+    - >-
+      On audio, if no camera is available.
+    - >-
+      In any form the officer chooses.
+  correct: 0
+  explanation: >-
+    Interrogation Law s. 9: questioning outside the station may be recorded in any form, but a
+    re-enactment of the offence by the suspect is recorded on video only.
+- id: m24-021
+  module: 24
+  lesson: "24.3"
+  subject: public-defender
+  difficulty: 1
+  question: >-
+    A detainee cannot afford a lawyer. What must the officer in charge of the station tell him?
+  options:
+    - >-
+      That a lawyer will be provided only after indictment.
+    - >-
+      That he may ask for a Public Defender if he is eligible.
+    - >-
+      That Legal Aid represents all criminal suspects for free.
+    - >-
+      That a friend may represent him instead of a lawyer.
+  correct: 1
+  explanation: >-
+    Public Defender Law s. 19(א); detainees without means are eligible under s. 18(א)(7). Legal Aid does
+    not cover criminal defence; a non-lawyer friend cannot represent (Bar Association Law s. 20).
+- id: m24-022
+  module: 24
+  lesson: "24.3"
+  subject: torture
+  difficulty: 3
+  question: >-
+    Bar-exam style. In Public Committee Against Torture, what did the Court hold about the necessity
+    defence?
+  options:
+    - >-
+      It authorises interrogators in advance to use moderate physical pressure.
+    - >-
+      It cannot serve as an advance authorisation for interrogation methods.
+    - >-
+      It applies only to police interrogators, not to the security service.
+    - >-
+      It was abolished by the Court as unconstitutional.
+  correct: 1
+  explanation: >-
+    HCJ 5100/94: the GSS had no authority to use the challenged methods; the necessity defence may at
+    most be considered after the fact, not as an advance authorisation.
+- id: m24-023
+  module: 24
+  lesson: "24.3"
+  subject: obstruction
+  difficulty: 2
+  question: >-
+    After being questioned, Yossi wants to message a witness "to remind her what really happened". What
+    is the right advice?
+  options:
+    - >-
+      It is fine as long as he does not threaten her.
+    - >-
+      It is fine if he copies the investigator on the message.
+    - >-
+      He should not contact witnesses about the case at all.
+    - >-
+      He should ask the witness to give a new statement for him.
+  correct: 2
+  explanation: >-
+    Contacting witnesses about the case risks an obstruction-of-justice suspicion (Penal Law s. 244),
+    arrest and bail conditions; any contact about the case should go through a lawyer.
+- id: m24-024
+  module: 24
+  lesson: "24.4"
+  subject: remand-periods
+  difficulty: 1
+  question: >-
+    What is the maximum length of a single remand order before indictment made in the suspect's
+    presence?
+  options:
+    - >-
+      5 days.
+    - >-
+      10 days.
+    - >-
+      30 days.
+    - >-
+      15 days.
+  correct: 3
+  explanation: >-
+    Arrests Law s. 17(א): each order up to 15 days, renewable, subject to the 30-day limit without the
+    Attorney General's approval (s. 17(ב)).
+- id: m24-025
+  module: 24
+  lesson: "24.4"
+  subject: release-75-days
+  difficulty: 2
+  question: >-
+    A suspect has been in custody 75 days and no indictment has been filed. What follows, absent a
+    Supreme Court order?
+  options:
+    - >-
+      He is released, with or without bail.
+    - >-
+      Remand continues while the investigation lasts.
+    - >-
+      The file is closed for lack of guilt.
+    - >-
+      The district court decides on further remand.
+  correct: 0
+  explanation: >-
+    Arrests Law s. 59: a suspect not indicted within 75 days of arrest is released, with or without bail,
+    unless a Supreme Court justice extends detention (s. 62).
+- id: m24-026
+  module: 24
+  lesson: "24.4"
+  subject: section-21
+  difficulty: 2
+  question: >-
+    Which is NOT one of the conditions for detention until the end of proceedings under Arrests Law s.
+    21?
+  options:
+    - >-
+      Prima facie evidence of guilt.
+    - >-
+      A ground such as danger or obstruction.
+    - >-
+      No less harmful alternative.
+    - >-
+      A previous conviction of the same kind.
+  correct: 3
+  explanation: >-
+    Section 21 requires prima facie evidence, a ground and no adequate alternative (and representation);
+    a previous conviction is a relevant fact, not a condition.
+- id: m24-027
+  module: 24
+  lesson: "24.4"
+  subject: police-bail
+  difficulty: 2
+  question: >-
+    The officer in charge releases Ruth on condition that she stays home for ten days. Ruth consents but
+    later thinks it unreasonable. What is her route?
+  options:
+    - >-
+      An appeal to the district court within 45 days.
+    - >-
+      An appeal to the magistrates' court (s. 43).
+    - >-
+      A complaint to the Police Investigations Department only.
+    - >-
+      Nothing; police conditions cannot be challenged once accepted.
+  correct: 1
+  explanation: >-
+    Arrests Law s. 43 lets a person released on police bail appeal to the magistrates' court on the amount
+    or reasonableness of the conditions within the set period. Note also that police house arrest is
+    limited to five days (s. 42(ב)(7)).
+- id: m24-028
+  module: 24
+  lesson: "24.4"
+  subject: review-vs-appeal
+  difficulty: 3
+  question: >-
+    Three weeks after a district court ordered Maor detained, his lawyer thinks the decision was wrong
+    from the start; nothing has changed. Which route fits?
+  options:
+    - >-
+      A request for review in the same court.
+    - >-
+      A new bail application to the magistrates' court.
+    - >-
+      An appeal (ערר) to the Supreme Court within 30 days.
+    - >-
+      A petition to the High Court of Justice.
+  correct: 2
+  explanation: >-
+    Arrests Law s. 53: an appeal against a district court's detention decision goes to the Supreme Court,
+    single judge, within 30 days. A request for review (s. 52) needs new facts, changed circumstances or
+    the passage of considerable time.
+- id: m24-029
+  module: 24
+  lesson: "24.4"
+  subject: bail-conditions
+  difficulty: 2
+  question: >-
+    Under Arrests Law s. 46, what must a judge consider when setting the amount of bail?
+  options:
+    - >-
+      Only the seriousness of the offence charged.
+    - >-
+      Among others, the person's means.
+    - >-
+      The average bail set in the district in the previous year.
+    - >-
+      The victim's wishes, which bind the judge.
+  correct: 1
+  explanation: >-
+    Section 46(ב) lists the offence, the prosecution's information, the record, the person's means and
+    ability to provide the bail, and the ability to comply; the conditions must not exceed what is needed
+    (s. 46(א)).
+- id: m24-030
+  module: 24
+  lesson: "24.4"
+  subject: azbarga
+  difficulty: 3
+  question: >-
+    A defendant under house arrest asks for permission to attend weekly prayers. The prosecution objects
+    that any exception weakens supervision. What approach did Azbarga take?
+  options:
+    - >-
+      A tailored, gradual exception, widened after a period without incident.
+    - >-
+      No exceptions may be made to house arrest for religious reasons.
+    - >-
+      House arrest must be cancelled whenever it limits a constitutional right.
+    - >-
+      The defendant must choose between prayer and house arrest.
+  correct: 0
+  explanation: >-
+    In CrimApp 10697/05 Justice Rubinstein allowed weekly prayer at the nearest mosque at once and daily
+    prayer after three months without incident: conditions are tailored and revisited.
+- id: m24-031
+  module: 24
+  lesson: "24.4"
+  subject: electronic-monitoring
+  difficulty: 1
+  question: >-
+    What is required, among other things, before a court orders electronically monitored detention?
+  options:
+    - >-
+      The victim's written consent.
+    - >-
+      A conviction in the case.
+    - >-
+      The defendant's consent.
+    - >-
+      Approval of the Attorney General.
+  correct: 2
+  explanation: >-
+    Arrests Law s. 22ב(א)(1): electronically monitored detention needs the defendant's consent and the
+    court's finding that it achieves the purpose of detention.
+- id: m24-032
+  module: 24
+  lesson: "24.5"
+  subject: closure-grounds
+  difficulty: 1
+  question: >-
+    Which closure ground removes a file from the police register?
+  options:
+    - >-
+      Insufficient evidence.
+    - >-
+      Lack of guilt.
+    - >-
+      The circumstances as a whole.
+    - >-
+      Closure by arrangement.
+  correct: 1
+  explanation: >-
+    CPL s. 62(ב)(4): a file closed for lack of guilt is removed from the police register; the other
+    grounds leave a closed-file entry (Criminal Information Law s. 27(א)(2)).
+- id: m24-033
+  module: 24
+  lesson: "24.5"
+  subject: closure-notice
+  difficulty: 2
+  question: >-
+    Shimon receives a notice that his file (not a sexual or violent offence) was closed, with no ground
+    stated. How can he learn the ground?
+  options:
+    - >-
+      Only by petitioning the High Court of Justice.
+    - >-
+      Only through a lawyer's request under CPL s. 74.
+    - >-
+      He cannot; the ground is confidential to the prosecution.
+    - >-
+      At any police station or in the ways listed in the notice.
+  correct: 3
+  explanation: >-
+    CPL s. 62(ב)(1): the notice does not state the ground but says the suspect may learn it at any police
+    station and in other ways the police set and list in the notice.
+- id: m24-034
+  module: 24
+  lesson: "24.5"
+  subject: arrangement-limits
+  difficulty: 2
+  question: >-
+    For which suspect is a conditional arrangement unavailable by law?
+  options:
+    - >-
+      An adult first offender in a misdemeanour.
+    - >-
+      An adult suspected of a contravention.
+    - >-
+      A 16-year-old suspected of a misdemeanour.
+    - >-
+      An adult whose fitting sentence is a fine.
+  correct: 2
+  explanation: >-
+    CPL s. 67א(ו): the arrangement provisions do not apply to minors as defined in the Youth Law; minors
+    have their own diversion routes.
+- id: m24-035
+  module: 24
+  lesson: "24.5"
+  subject: arrangement-breach
+  difficulty: 2
+  question: >-
+    Nimrod signed an arrangement, paid part of the sum, then stopped paying. The prosecutor indicts him on
+    the draft. What happens to what he already did?
+  options:
+    - >-
+      The court considers it at sentencing.
+    - >-
+      Nothing; the payments are forfeited and ignored.
+    - >-
+      The indictment is void because he partly performed.
+    - >-
+      He must first pay the full sum before trial.
+  correct: 0
+  explanation: >-
+    CPL s. 67ז(ד): once indicted after an arrangement, the arrangement is cancelled; if he fulfilled part
+    of the conditions, the court takes it into account when sentencing.
+- id: m24-036
+  module: 24
+  lesson: "24.5"
+  subject: section-60a-exclusion
+  difficulty: 3
+  question: >-
+    Who does NOT receive a s. 60א notice before a felony indictment?
+  options:
+    - >-
+      A suspect released on bail during the investigation.
+    - >-
+      A suspect who was never arrested.
+    - >-
+      A suspect living abroad with a known address.
+    - >-
+      One indicted while still in custody.
+  correct: 3
+  explanation: >-
+    CPL s. 60א(ז): subsection (א) does not apply to someone who was in custody when the material was
+    transferred and was indicted while in custody. Regulations also exclude some family-violence offences.
+- id: m24-037
+  module: 24
+  lesson: "24.5"
+  subject: section-60a-oral
+  difficulty: 2
+  question: >-
+    After a written s. 60א request, may the suspect present his arguments orally?
+  options:
+    - >-
+      Yes, as of right, in every felony case.
+    - >-
+      Only before a judge at a special hearing.
+    - >-
+      The prosecution may invite him to argue orally.
+    - >-
+      No; oral arguments are forbidden before indictment.
+  correct: 2
+  explanation: >-
+    CPL s. 60א(ח): the prosecution may invite the suspect to present his arguments orally, and must give
+    him written notice of its decision as soon as possible.
+- id: m24-038
+  module: 24
+  lesson: "24.5"
+  subject: review-of-prosecution
+  difficulty: 3
+  question: >-
+    A suspect who was refused in his s. 60א request is indicted. He wants the High Court of Justice to
+    cancel the decision as unreasonable. What is the most realistic assessment?
+  options:
+    - >-
+      Intervention is exceptional; raise it at trial.
+    - >-
+      The High Court routinely reviews every refused s. 60א request.
+    - >-
+      The indictment is automatically suspended once a petition is filed.
+    - >-
+      The criminal court may not hear arguments about the prosecution's decision.
+  correct: 0
+  explanation: >-
+    Courts show restraint in reviewing prosecution decisions (compare Adalah); after indictment, flaws are
+    usually raised in the criminal court, including under s. 149(10).
+- id: m24-039
+  module: 24
+  lesson: "24.6"
+  subject: defender-appointment
+  difficulty: 1
+  question: >-
+    Bar-exam style. Which defendant must the court appoint a defender for, under CPL s. 15(א)?
+  options:
+    - >-
+      Any defendant who asks, regardless of the charge.
+    - >-
+      A 15-year-old tried outside the juvenile court.
+    - >-
+      Any defendant whose trial lasts more than a year.
+    - >-
+      A defendant who is a public employee.
+  correct: 1
+  explanation: >-
+    Section 15(א)(2): a defendant under 16 brought before a court other than the juvenile court; the list
+    also covers serious charges, disabilities, mandatory imprisonment and prison notices.
+- id: m24-040
+  module: 24
+  lesson: "24.6"
+  subject: disclosure
+  difficulty: 2
+  question: >-
+    After indictment, the defence learns that a document listed as collected was not made available. What
+    is the procedure?
+  options:
+    - >-
+      Ask the prosecutor; if refused, ask the court under CPL s. 74(ב).
+    - >-
+      Ask the police directly to hand it over without the prosecutor.
+    - >-
+      Petition the High Court of Justice against the prosecutor.
+    - >-
+      Nothing; the prosecutor decides finally what to disclose.
+  correct: 0
+  explanation: >-
+    Section 74(ב)–(ד): the defendant may ask the court to order the prosecutor to allow inspection of
+    material he claims is investigation material; a single judge decides, with an appeal within 30 days.
+- id: m24-041
+  module: 24
+  lesson: "24.6"
+  subject: preliminary-arguments
+  difficulty: 1
+  question: >-
+    Which of these is a preliminary argument listed in CPL s. 149?
+  options:
+    - >-
+      The complainant is not credible.
+    - >-
+      The defendant has a good character.
+    - >-
+      The sentence sought is excessive.
+    - >-
+      The offence is time-barred.
+  correct: 3
+  explanation: >-
+    Section 149(8) lists limitation; credibility and character are matters for the evidence and
+    sentencing, not preliminary arguments.
+- id: m24-042
+  module: 24
+  lesson: "24.6"
+  subject: borovitz
+  difficulty: 3
+  question: >-
+    Under the Borovitz test, after finding a flaw in the proceedings and that continuing would seriously
+    offend fairness, what is the third question?
+  options:
+    - >-
+      Whether the defendant is in fact guilty.
+    - >-
+      Whether the prosecutor acted in bad faith.
+    - >-
+      Whether a milder remedy can cure it.
+    - >-
+      Whether the victim agrees to cancelling the indictment.
+  correct: 2
+  explanation: >-
+    CrimA 4855/02 Borovitz: the third step asks whether the harm can be cured by more moderate remedies
+    (narrowing the charge, a lighter sentence) before cancelling the indictment.
+- id: m24-043
+  module: 24
+  lesson: "24.6"
+  subject: alibi
+  difficulty: 2
+  question: >-
+    A defendant first claims at the defence stage that he was in Eilat at the time. What does s. 152
+    say?
+  options:
+    - >-
+      He may bring evidence of the alibi only with the court's leave.
+    - >-
+      The alibi must be accepted unless the prosecution disproves it.
+    - >-
+      Alibis may be raised only at the end of the prosecution case.
+    - >-
+      The prosecution must ask for an adjournment to investigate.
+  correct: 0
+  explanation: >-
+    Section 152(ג)–(ד): the alibi must be raised at once in the answer to the charge, naming the place;
+    otherwise evidence of it needs the court's leave.
+- id: m24-044
+  module: 24
+  lesson: "24.6"
+  subject: preliminary-hearing
+  difficulty: 1
+  question: >-
+    What is a condition for holding a preliminary hearing (דיון מקדמי) under CPL s. 143א?
+  options:
+    - >-
+      That the defendant is unrepresented.
+    - >-
+      That the defendant is represented by a defender.
+    - >-
+      That the victim attends the hearing.
+    - >-
+      That the offence is tried in the district court by a panel.
+  correct: 1
+  explanation: >-
+    Section 143א(ג): the defendant received notice and consented, is represented by a defender, and the
+    prosecutor agrees; offences tried by a district-court panel are excluded (s. 143א(ח)).
+- id: m24-045
+  module: 24
+  lesson: "24.6"
+  subject: plea-bargain
+  difficulty: 3
+  question: >-
+    In a plea bargain the parties jointly recommend a fine. Is the court bound by it?
+  options:
+    - >-
+      Yes; a joint recommendation binds the court like a contract.
+    - >-
+      Yes, unless the victim objects in writing.
+    - >-
+      No, though the prosecution is bound by it.
+    - >-
+      No; the court ignores plea bargains entirely.
+  correct: 2
+  explanation: >-
+    The court is not bound by a plea bargain but usually respects it; the prosecution, as a public
+    authority, must stand by it, including on appeal (Peretz).
+- id: m24-046
+  module: 24
+  lesson: "24.6"
+  subject: silence-at-trial
+  difficulty: 2
+  question: >-
+    A defendant chooses not to testify. What may the court do with his silence, as a rule?
+  options:
+    - >-
+      Nothing; it must ignore it completely.
+    - >-
+      Convict on that basis alone.
+    - >-
+      Treat it as an admission of all facts.
+    - >-
+      Treat it as support for the prosecution.
+  correct: 3
+  explanation: >-
+    CPL s. 162(א): not testifying may strengthen the prosecution's evidence and serve as corroboration
+    where required, with exceptions for people with intellectual or mental disabilities.
+- id: m24-047
+  module: 24
+  lesson: "24.6"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. A self-represented defendant's note says: "At the first hearing I'll admit the
+    facts to show good faith, and later, if I see the evidence is weak, I'll just take it back." What is
+    wrong?
+  options:
+    - >-
+      Admissions at the first hearing are not recorded.
+    - >-
+      Retracting needs the court's leave.
+    - >-
+      Only lawyers may admit facts on behalf of defendants.
+    - >-
+      Admissions may be withdrawn freely until the verdict.
+  correct: 1
+  explanation: >-
+    CPL ss. 153–154: an admitted fact is treated as proved; the defendant may retract only with the
+    court's permission for special reasons recorded.
+- id: m24-048
+  module: 24
+  lesson: "24.7"
+  subject: appeal-period
+  difficulty: 1
+  question: >-
+    What is the period for filing a criminal appeal from a judgment given with reasons?
+  options:
+    - >-
+      30 days.
+    - >-
+      60 days.
+    - >-
+      45 days.
+    - >-
+      90 days.
+  correct: 2
+  explanation: >-
+    CPL s. 199: 45 days from the judgment, or from the reasons if the verdict was given without them.
+- id: m24-049
+  module: 24
+  lesson: "24.7"
+  subject: leave-period
+  difficulty: 1
+  question: >-
+    Leave to appeal was granted on 1 August. By when must the notice of appeal be filed?
+  options:
+    - >-
+      Within 30 days of the grant of leave.
+    - >-
+      Within 45 days of the original judgment.
+    - >-
+      Within 7 days of the grant of leave.
+    - >-
+      There is no deadline once leave is granted.
+  correct: 0
+  explanation: >-
+    CPL s. 199: where leave is required, the application is filed within the period and the notice of
+    appeal within 30 days of the grant of leave; s. 205 lets the court treat the application as an appeal.
+- id: m24-050
+  module: 24
+  lesson: "24.7"
+  subject: late-appeal
+  difficulty: 2
+  question: >-
+    Hagit missed the appeal deadline by a week because she was hospitalised. What can she do?
+  options:
+    - >-
+      Nothing; criminal deadlines can never be extended.
+    - >-
+      File a petition to the High Court of Justice instead.
+    - >-
+      Ask the trial court to give its judgment again.
+    - >-
+      Apply to the appeal court for permission to appeal late.
+  correct: 3
+  explanation: >-
+    CPL s. 201 allows the court, on the appellant's request, to permit filing an appeal or an application
+    for leave after the periods in ss. 199–200.
+- id: m24-051
+  module: 24
+  lesson: "24.7"
+  subject: non-conviction
+  difficulty: 3
+  question: >-
+    Bar-exam style. Which factor most strengthens a request under CPL s. 192א to cancel a conviction?
+  options:
+    - >-
+      That the defendant regrets the long trial.
+    - >-
+      Proof that a conviction costs a profession.
+    - >-
+      That the prosecutor did not oppose a short adjournment.
+    - >-
+      That the offence carries a high maximum penalty.
+  correct: 1
+  explanation: >-
+    Case law requires concrete serious harm from a conviction and an offence whose type and circumstances
+    allow giving up the conviction; a documented loss of a profession is the classic example.
+- id: m24-052
+  module: 24
+  lesson: "24.7"
+  subject: reformatio
+  difficulty: 2
+  question: >-
+    Only the defendant appealed against his sentence. Can the appeal court increase it?
+  options:
+    - >-
+      No, without a prosecution appeal.
+    - >-
+      Yes, if it finds the sentence too lenient.
+    - >-
+      Yes, but only by up to a quarter.
+    - >-
+      Only if the victim asks it to.
+  correct: 0
+  explanation: >-
+    CPL s. 217: the appeal court will not increase a sentence unless an appeal against its leniency was
+    filed.
+- id: m24-053
+  module: 24
+  lesson: "24.7"
+  subject: stay-schwartz
+  difficulty: 3
+  question: >-
+    A defendant sentenced to four months' prison asks to stay it until his appeal, which will be heard in
+    eight months. Which Schwartz factor most supports him?
+  options:
+    - >-
+      The seriousness of the offence charged.
+    - >-
+      The prosecution's general policy on stays.
+    - >-
+      The sentence would end before the appeal.
+    - >-
+      The fact that he was detained during the trial.
+  correct: 2
+  explanation: >-
+    In CrimA 111/99 Schwartz the Court listed considerations for a stay, among them the length of the
+    sentence relative to the time until the appeal: a short sentence may be fully served first, making
+    the appeal pointless.
+- id: m24-054
+  module: 24
+  lesson: "24.8"
+  subject: two-registers
+  difficulty: 1
+  question: >-
+    In which register does an acquittal appear?
+  options:
+    - >-
+      The criminal register.
+    - >-
+      Neither register.
+    - >-
+      The traffic register only.
+    - >-
+      The police register.
+  correct: 3
+  explanation: >-
+    Criminal Information Law s. 27(א)(4) lists acquittals in the police register; information on them is
+    not given out except to listed security bodies (s. 32).
+- id: m24-055
+  module: 24
+  lesson: "24.8"
+  subject: replaced-law
+  difficulty: 1
+  question: >-
+    An old guide cites "section 16 of the Criminal Register and Rehabilitation of Offenders Law 1981" on
+    deletion. What should you know?
+  options:
+    - >-
+      That law was replaced in July 2022.
+    - >-
+      The 1981 law still applies to all convictions after 2022.
+    - >-
+      Section 16 now deals with closed files instead of deletion.
+    - >-
+      The 1981 law applies only to minors.
+  correct: 0
+  explanation: >-
+    The Criminal Information and Rehabilitation of Offenders Law 2019 replaced the 1981 law on 12 July
+    2022; deletion is now in ss. 21–23.
+- id: m24-056
+  module: 24
+  lesson: "24.8"
+  subject: limitation-calc
+  difficulty: 3
+  question: >-
+    An adult with no other entries is sentenced to one year's actual prison on 1 January 2022. When does
+    the entry reach limitation?
+  options:
+    - >-
+      1 January 2026.
+    - >-
+      1 January 2029.
+    - >-
+      1 January 2030.
+    - >-
+      Never, because prison was imposed.
+  correct: 2
+  explanation: >-
+    Section 19(א)(3): prison up to five years lapses after seven years plus the prison term, counted from
+    the judgment: seven plus one year gives 1 January 2030 (and not before the sentence is served, s.
+    18(ב)).
+- id: m24-057
+  module: 24
+  lesson: "24.8"
+  subject: new-entry
+  difficulty: 3
+  question: >-
+    Dov's 2020 conviction would lapse in 2024, but he was convicted again in 2023. What happens to the
+    2020 entry?
+  options:
+    - >-
+      It lapses in 2024, exactly as planned.
+    - >-
+      It lapses when the later one does.
+    - >-
+      It is deleted from the register at once.
+    - >-
+      It becomes a closed-file entry instead.
+  correct: 1
+  explanation: >-
+    Section 18(ז): a new entry during the limitation period of another postpones the end of all periods
+    to the latest one.
+- id: m24-058
+  module: 24
+  lesson: "24.8"
+  subject: abroad
+  difficulty: 2
+  question: >-
+    Ron needs his criminal record for a visa abroad. How is it provided under the 2019 law?
+  options:
+    - >-
+      As a printout handed to Ron at the station.
+    - >-
+      Through a lawyer only, by court order.
+    - >-
+      As a screenshot Ron takes during inspection.
+    - >-
+      Sent via the Foreign Ministry or embassy.
+  correct: 3
+  explanation: >-
+    Section 15(א): information needed for a right in a foreign state is sent at the person's request to
+    the grantor through the Foreign Ministry, the foreign embassy or another way the police set; deleted
+    entries are excluded.
+- id: m24-059
+  module: 24
+  lesson: "24.8"
+  subject: weighing
+  difficulty: 2
+  question: >-
+    An entitled licensing authority receives a 12-year-old minor conviction about an applicant. Which
+    consideration must it weigh under s. 36?
+  options:
+    - >-
+      The time passed and his age then.
+    - >-
+      The applicant's political views.
+    - >-
+      The number of applicants for the licence.
+    - >-
+      The police officer's personal recommendation.
+  correct: 0
+  explanation: >-
+    Section 36(א)–(ב): the nature and seriousness of the offence, time passed, age at the time, other
+    entries, and the link between the information and the right sought.
+- id: m24-060
+  module: 24
+  lesson: "24.9"
+  subject: request-to-be-tried
+  difficulty: 1
+  question: >-
+    Within what period from service may a person who received a fine notice give notice that he wishes
+    to be tried, if he did not ask for cancellation?
+  options:
+    - >-
+      30 days.
+    - >-
+      90 days.
+    - >-
+      One year.
+    - >-
+      14 days.
+  correct: 1
+  explanation: >-
+    CPL s. 229(א)(2): within 90 days of service, in the way set in the regulations (reg. 42, the Form 8א
+    slip).
+- id: m24-061
+  module: 24
+  lesson: "24.9"
+  subject: deemed-conviction
+  difficulty: 2
+  question: >-
+    Ariel neither paid a fine notice nor asked for cancellation or trial, and the periods passed. What is
+    his legal position?
+  options:
+    - >-
+      The notice lapses and the matter ends.
+    - >-
+      He is summoned to trial automatically.
+    - >-
+      He is treated as convicted.
+    - >-
+      The authority must issue a new notice.
+  correct: 2
+  explanation: >-
+    CPL s. 229(ח2): when the periods pass without payment or a request, he is treated as convicted and
+    sentenced to the fine in the notice; surcharges are added (s. 229(ב)).
+- id: m24-062
+  module: 24
+  lesson: "24.9"
+  subject: which-forum
+  difficulty: 2
+  question: >-
+    Which forum? Gadi asked to be tried for a municipal bylaw fine (illegal dumping of rubbish). Where
+    will the trial take place?
+  options:
+    - >-
+      The local-affairs court.
+    - >-
+      The district court.
+    - >-
+      The small-claims court.
+    - >-
+      The administrative affairs court.
+  correct: 0
+  explanation: >-
+    Municipal bylaw offences are tried in the local-affairs court, a magistrates' court with special
+    jurisdiction; traffic offences go to the traffic court.
+- id: m24-063
+  module: 24
+  lesson: "24.9"
+  subject: fine-after-trial
+  difficulty: 3
+  question: >-
+    Shani asks to be tried and is convicted. She hopes for a lower fine than in the notice. What is the
+    rule?
+  options:
+    - >-
+      The court must halve the fine for anyone who goes to trial.
+    - >-
+      The court may impose only the fine in the notice.
+    - >-
+      The court must add the trial costs to the fine.
+    - >-
+      No lower than the notice, save special circumstances.
+  correct: 3
+  explanation: >-
+    CPL s. 230: on conviction after a request to be tried, the fine will not be lower than the amount in
+    the notice unless the court finds special circumstances.
+- id: m24-064
+  module: 24
+  lesson: "24.9"
+  subject: spot-the-mistake
+  difficulty: 2
+  question: >-
+    Spot the mistake. A cancellation request says: "I paid the fine yesterday under protest, and now ask
+    you to cancel it because I was not the driver." What is the main problem?
+  options:
+    - >-
+      The request must be sent to the court, not the prosecutor.
+    - >-
+      Payment already counts as a conviction.
+    - >-
+      Owners can never ask for cancellation of camera notices.
+    - >-
+      Cancellation requests must be signed by a lawyer.
+  correct: 1
+  explanation: >-
+    Under s. 229(ח) payment is treated as admission and conviction; the prosecutor may still cancel
+    under s. 229(ג) and refund (s. 229(ח1)), but the right course was to ask before paying.
+- id: m24-065
+  module: 24
+  lesson: "24.10"
+  subject: inspection
+  difficulty: 1
+  question: >-
+    Where may a person inspect the criminal information about himself?
+  options:
+    - >-
+      Only at the police station nearest his home.
+    - >-
+      Only on the police website after login.
+    - >-
+      At a police station of his choice, on a screen.
+    - >-
+      Only at the Ministry of Justice in Jerusalem.
+  correct: 2
+  explanation: >-
+    Criminal Information Law s. 4(ג) and Inspection Regulations reg. 2(א)–(ב): at a police station of his
+    choice, displayed on a computer screen.
+- id: m24-066
+  module: 24
+  lesson: "24.10"
+  subject: stayed-file
+  difficulty: 3
+  question: >-
+    Mika's police record shows a file in which proceedings were stayed (עיכוב הליכים). She asks the police
+    to cancel it under s. 33. What extra requirement applies?
+  options:
+    - >-
+      The Attorney General's consent.
+    - >-
+      A court order from the court where the indictment was filed.
+    - >-
+      The complainant's written consent.
+    - >-
+      Nothing; stayed files are cancelled like any closed file.
+  correct: 0
+  explanation: >-
+    Section 33(א): cancelling a police-register entry about a stayed file requires the consent of the
+    Attorney General or his authorised delegate.
+- id: m24-067
+  module: 24
+  lesson: "24.10"
+  subject: route-finder
+  difficulty: 2
+  question: >-
+    Which forum? Bar finds that his record shows a conviction that belongs to someone with a similar name.
+    What should he ask for first?
+  options:
+    - >-
+      Cancellation of a police record under s. 33.
+    - >-
+      A pardon from the President.
+    - >-
+      A change of closure ground from the prosecutor.
+    - >-
+      Correction of an error by the police under s. 7.
+  correct: 3
+  explanation: >-
+    Criminal Information Law s. 7: where an entry is wrong, the police correct it and notify the person.
+- id: m24-068
+  module: 24
+  lesson: "24.10"
+  subject: request-quality
+  difficulty: 2
+  question: >-
+    Which sentence belongs in a s. 33(א) cancellation request?
+  options:
+    - >-
+      "I demand deletion because the police always exaggerate."
+    - >-
+      "Five clean years; it blocks my foster application (attached)."
+    - >-
+      "Please delete it; my cousin is a police officer and knows me."
+    - >-
+      "The entry is a mistake because I never liked the complainant."
+  correct: 1
+  explanation: >-
+    Section 33(ב) criteria include the time passed, other information and personal circumstances; a
+    request supported by facts and documents is persuasive, while accusations or personal connections are
+    not.

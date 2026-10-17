@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    At the station, Roni sees a 2015 conviction (fine only) and asks the officer to cancel it under s. 33.
+    What is the problem?
+  options:
+    - >-
+      Section 33 covers closed-file entries, not convictions.
+    - >-
+      Section 33 requests can only be made through a lawyer.
+    - >-
+      Only the court that convicted may cancel a conviction entry.
+    - >-
+      The officer at the station must cancel it on the spot.
+  correct: 0
+  explanation: >-
+    Section 33 covers police-register entries about closed (and stayed) files. Criminal-register entries
+    such as convictions lapse and are deleted by time (ss. 18–23), or the President may shorten the
+    periods (s. 25).
+- id: q2
+  question: >-
+    Ziv was attacked and the file against him (and the attacker) was closed for "insufficient evidence".
+    He is sure he did nothing wrong. Which request best removes the entry?
+  options:
+    - >-
+      An appeal under s. 64, as a complainant, against the closure.
+    - >-
+      A petition to the President for a pardon.
+    - >-
+      A request to the prosecutor to change the ground to lack of guilt.
+    - >-
+      A request to the court to cancel the conviction under s. 192א.
+  correct: 2
+  explanation: >-
+    CPL s. 62(ב)(4) lets a suspect ask the prosecutor who closed the file to change the closure ground;
+    a file closed for lack of guilt is removed from the police register. A s. 33 request is a parallel
+    route.
+- id: q3
+  question: >-
+    Which of these does NOT belong in a strong s. 33(א) cancellation request?
+  options:
+    - >-
+      The time since the event and the absence of new entries.
+    - >-
+      Your age at the time of the event and your circumstances now.
+    - >-
+      The concrete harm the entry causes, with a document.
+    - >-
+      A request that the officer ignore the criteria because of urgency.
+  correct: 3
+  explanation: >-
+    Section 33(ב) lists time, age, personal circumstances, other criminal information and the nature and
+    seriousness of the offences. A request should address them, not ask to set them aside.
+- id: q4
+  question: >-
+    During inspection at the station, Adi takes out her phone to photograph the screen. What does the law
+    say?
+  options:
+    - >-
+      She may photograph it, since the information is about her.
+    - >-
+      She may not photograph or copy it, but may take notes.
+    - >-
+      She may photograph it only with a lawyer present.
+    - >-
+      She must buy an official printout at the station instead.
+  correct: 1
+  explanation: >-
+    Section 4(ג)(2) forbids photographing or copying the information shown; Inspection Regulations reg.
+    2(ה) allows taking notes, and reg. 2(ד) lets the officer require cameras to be deposited.

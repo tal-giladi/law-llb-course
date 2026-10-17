@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    Shira is invited to the station to "give a statement" about a fight she saw. Halfway through, the
+    investigator suggests she threw the first punch. What should happen now?
+  options:
+    - >-
+      She must keep answering every question, because she came as a witness.
+    - >-
+      The questioning continues as before; the caution is needed only after arrest.
+    - >-
+      She may leave and must not return without a court summons.
+    - >-
+      She should be cautioned as a suspect, and may ask to consult a lawyer first.
+  correct: 3
+  explanation: >-
+    A witness must answer except self-incriminating questions (Testimony Ordinance s. 2). Once she is
+    treated as a suspect, the caution applies and she may ask to consult a lawyer before answering.
+- id: q2
+  question: >-
+    A detainee asks at 01:00 to consult a lawyer. Nothing urgent is under way. The officer says the
+    meeting will be "after the morning briefing". Is this lawful under Arrests Law s. 34?
+  options:
+    - >-
+      Yes, any delay of up to 48 hours is within the officer's general discretion.
+    - >-
+      No; it must be allowed without delay unless a listed ground is recorded.
+    - >-
+      Yes, because lawyer meetings take place only during office hours.
+    - >-
+      No, but the only remedy is a complaint to the Bar Association.
+  correct: 1
+  explanation: >-
+    Section 34(ב) requires the meeting "ללא דיחוי". Delays are allowed only on the grounds in s.
+    34(ד)–(ו) (an ongoing investigation step, frustration of other arrests or evidence, saving life),
+    by a reasoned written decision and within time limits.
+- id: q3
+  question: >-
+    A suspect in an offence punishable by twelve years is questioned at the station. The officer records
+    it only in writing, with no written decision explaining why. What is the problem?
+  options:
+    - >-
+      None; written records are always enough for adults.
+    - >-
+      The questioning should have been held in English for an international record.
+    - >-
+      Offences of ten years or more must be video-recorded at the station.
+    - >-
+      The questioning should have taken place at the suspect's home instead.
+  correct: 2
+  explanation: >-
+    Interrogation Law s. 7(1) and the Schedule require video recording of station questioning about
+    offences punishable by ten years or more; audio or writing is allowed only by an officer's written
+    decision for a technical fault or substantive need (s. 7(2)).
+- id: q4
+  question: >-
+    Amir confessed on video, then pleaded not guilty and chose not to testify. The prosecution asks the
+    court to treat his silence at trial as the "something extra" needed to convict. What does Milstein
+    say?
+  options:
+    - >-
+      As a rule no; only in rare cases meeting strict conditions.
+    - >-
+      Always yes, because silence at trial is an admission under the law.
+    - >-
+      Never; silence at trial may not be considered for any purpose.
+    - >-
+      Yes, but only if a judge watched the video in the defendant's presence.
+  correct: 0
+  explanation: >-
+    In LCrimA 4142/04 the majority held that silence at trial is generally not "something extra" for a
+    confession, but may be in exceptional cases meeting three conditions, a discretion to be used
+    sparingly.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Nir represents himself on a theft charge. The prosecutor gave no notice about prison. After
+    conviction the judge considers that actual imprisonment may be fitting. What must happen?
+  options:
+    - >-
+      The judge may sentence Nir to prison, since he chose to act alone.
+    - >-
+      The judge must acquit, since an unrepresented criminal trial is void.
+    - >-
+      A defender must be appointed before any prison sentence.
+    - >-
+      Nir must pay for a private lawyer before the sentencing hearing.
+  correct: 2
+  explanation: >-
+    CPL s. 15(א)(6) requires appointing a defender where, after conviction, the court thinks actual
+    imprisonment possible, and s. 15ב bars actual imprisonment of an unrepresented defendant.
+- id: q2
+  question: >-
+    Midway through the prosecution case, a defendant first claims that the indictment is defective
+    because it does not specify the date of the offence. What does the law say?
+  options:
+    - >-
+      He may, but only with the court's leave.
+    - >-
+      He may raise any preliminary argument at any time without leave.
+    - >-
+      The argument is lost for good because it was not raised at the first hearing.
+    - >-
+      Only the prosecutor may raise defects in an indictment it drafted.
+  correct: 0
+  explanation: >-
+    Section 151 allows preliminary arguments at a later stage, except territorial jurisdiction (s.
+    149(1)) and a defect in the indictment (s. 149(3)), which need the court's leave.
+- id: q3
+  question: >-
+    The trial court rejected a plea bargain and imposed a heavier sentence. On the defendant's appeal,
+    the prosecution now wants to support the heavier sentence. What did Peretz hold?
+  options:
+    - >-
+      The prosecution may freely support whichever sentence it now prefers.
+    - >-
+      As a rule, the prosecution must defend the plea bargain it made.
+    - >-
+      The appeal court must impose the bargain sentence automatically.
+    - >-
+      The defendant's admission is cancelled and a new trial is ordered.
+  correct: 1
+  explanation: >-
+    In CrimFH 1187/03 an expanded panel held that the prosecution should, as a rule, defend its plea
+    bargain on appeal even if the trial court rejected it, departing only in exceptional circumstances.
+- id: q4
+  question: >-
+    At the end of the prosecution case in a minor assault trial, no witness identified the defendant as
+    the person who pushed the complainant. What may the defendant do?
+  options:
+    - >-
+      Nothing; he must now testify himself to avoid a conviction.
+    - >-
+      Ask the prosecutor to call more witnesses on his behalf.
+    - >-
+      File a preliminary argument of limitation under s. 149(8).
+    - >-
+      Submit that there is no case to answer (s. 158).
+  correct: 3
+  explanation: >-
+    Under s. 158, if guilt has not been proved even prima facie at the end of the prosecution case, the
+    court acquits, on the defendant's submission or its own initiative, after hearing the prosecutor.
