@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your small claim was opened in June 2026. The judge gave judgment at the end of the hearing on
+    20 July 2026, with both parties present, during the summer recess. When does the period for leave to
+    appeal end?
+  options:
+    - >-
+      15 days after the judgment is served by post.
+    - >-
+      30 days after the end of the summer recess.
+    - >-
+      30 days from 20 July 2026, counting the recess days.
+    - >-
+      45 days from 20 July 2026, because recess adds 15 days.
+  correct: 2
+  explanation: >-
+    For proceedings opened from 11.4.2025 the period is 30 days (reg. 16(א)); a decision given in the
+    parties' presence is counted from the hearing, and recess days count unless the court orders
+    otherwise (reg. 16א).
+- id: q2
+  question: >-
+    The judgment gave the defendant 30 days to pay. On day 10 the defendant files an application for leave
+    to appeal. On day 31 nothing has been paid. Can you open an execution file?
+  options:
+    - >-
+      Yes; the application does not stay enforcement unless a court orders a stay.
+    - >-
+      No; any application for leave freezes the judgment until it is decided.
+    - >-
+      No; you must first ask the district court for permission to enforce.
+    - >-
+      Only if the defendant consents in writing to enforcement pending leave.
+  correct: 0
+  explanation: >-
+    Filing an appeal or an application for leave does not stay execution (CPR reg. 145(א), applied through
+    reg. 16(ג)); the debtor must ask for a stay. The payment date has passed, so s. 6(ב) allows filing.
+- id: q3
+  question: >-
+    You lost a deposit claim because the judge believed the landlord's account of the flat's condition
+    over your photos. Is an application for leave to appeal a good idea?
+  options:
+    - >-
+      Yes; leave is granted as of right in every small-claims case.
+    - >-
+      Yes; the district court will rehear the witnesses from the beginning.
+    - >-
+      Yes, if you file within 15 days and pay the fee, leave follows automatically.
+    - >-
+      Usually not; leave is rarely given to re-weigh findings of fact.
+  correct: 3
+  explanation: >-
+    Appeal from small claims is only with leave (Courts Law s. 64). Leave is for errors of law or serious
+    procedural failures; findings of fact by the judge who heard the parties are rarely disturbed.
+- id: q4
+  question: >-
+    Which item must the heading of an application for leave to appeal state, under CPR reg. 134?
+  options:
+    - >-
+      The names of the witnesses who testified at the hearing.
+    - >-
+      The date of the judgment, the date it was served, and the fee and security.
+    - >-
+      A summary of every settlement offer made before the hearing.
+    - >-
+      The amount the applicant would accept to withdraw the application.
+  correct: 1
+  explanation: >-
+    Reg. 134(א)(1) lists, among other things, the court and case number of the decision, its date, the
+    date of service, the competent court, the fee and the security for the respondent's costs.

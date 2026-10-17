@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A shop posted a returns policy allowing refunds within 14 days, but refused your refund on day 5
+    when you asked at the counter. You want exemplary damages under Consumer Protection Law s. 31א. What must happen before you sue for them?
+  options:
+    - >-
+      Nothing more; the oral request at the counter proves the breach.
+    - >-
+      You must first complain to the Consumer Protection and Fair Trade Authority.
+    - >-
+      You must first send the shop a written request, which can be by email.
+    - >-
+      You must first obtain a written refusal from the shop's management.
+  correct: 2
+  explanation: >-
+    Section 31א(ב) bars a claim for exemplary damages unless the consumer first sent the dealer a written
+    request (email counts). An oral request at the counter is not enough; no regulator complaint or
+    written refusal is required.
+- id: q2
+  question: >-
+    The landlord offers ₪6,000 by phone on your ₪10,620 deposit claim. You have not decided. What is the
+    best immediate step?
+  options:
+    - >-
+      Accept on the spot, because phone offers cannot be withdrawn once made.
+    - >-
+      Say you will answer in writing, then confirm his offer by message the same day.
+    - >-
+      Reject it loudly, so that he understands you will only accept the full sum.
+    - >-
+      Post the offer in a tenants' Facebook group to put pressure on him.
+  correct: 1
+  explanation: >-
+    Confirming the offer in writing preserves a record without committing you. Accepting before you
+    check your walk-away figure, or publicising the dispute, can cost you money or create liability.
+- id: q3
+  question: >-
+    Which clause is most important to add to a settlement signed before any claim was filed?
+  options:
+    - >-
+      A clause that the full claim revives if the agreed sum is not paid on time.
+    - >-
+      A clause that the court has already given the agreement the force of a judgment.
+    - >-
+      A clause that neither side may ever speak about the dispute, on pain of a penalty.
+    - >-
+      A clause that the other side admits he acted in bad faith from the start.
+  correct: 0
+  explanation: >-
+    Before a case is open, a settlement is only a contract; a default clause protects you if payment does
+    not arrive. The force of a judgment needs an open case (Courts Law s. 79א(ב)).
+- id: q4
+  question: >-
+    Spot the mistake in this pre-action letter: "Pay ₪4,300 by 14.11.2026, or I will file a claim in the
+    Eilat small claims court and also report you to the police for fraud."
+  options:
+    - >-
+      The deadline is too short, since the law requires at least 30 days.
+    - >-
+      A pre-action letter may not name the court in which you will sue.
+    - >-
+      The amount should be left open so the court can fix it.
+    - >-
+      Threatening a police complaint to obtain payment in a civil dispute.
+  correct: 3
+  explanation: >-
+    A dated deadline, an amount and a named court are what a good letter needs. Threatening a criminal
+    complaint to get paid is improper pressure and can expose the writer to liability.

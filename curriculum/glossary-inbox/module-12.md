@@ -1,0 +1,24 @@
+- **תיק עובדות** (Tik uvdot) — Facts file: the working file for one dispute (cover page, parties, chronology, exhibits, remedy).
+- **יומן תיק** (Yoman tik) — Case log: a running record of every step, communication and deadline in a dispute.
+- **הודאה בקיום זכות** (Hoda'a bekiyum zchut) — Acknowledgement of a claim in writing or before a court, which restarts limitation (Prescription Law s. 9).
+- **ערובה (בשכירות)** (Arubah) — Security deposit under a residential lease; uses and return governed by Rental and Borrowing Law s. 25י.
+- **האזנת סתר** (Ha'azanat seter) — Secret eavesdropping: listening to a conversation without the consent of any of its parties; a crime (Eavesdropping Law ss. 1–2).
+- **בעל שיחה** (Ba'al sicha) — Party to a conversation (the speaker or the person it is addressed to).
+- **פגיעה בפרטיות** (Pgi'a bapratiyut) — Infringement of privacy, as listed in Protection of Privacy Law s. 2.
+- **חומר פסול לראיה** (Chomer pasul lir'aya) — Material obtained by infringing privacy, inadmissible unless the court allows it (Privacy Law s. 32).
+- **זכות עיון במידע** (Zchut iyun bameida) — Right to inspect personal information about you held in a database (Privacy Law s. 13).
+- **תמליל** (Tamlil) — Transcript of a recording.
+- **פיצויים לדוגמה** (Pitzuyim ledugma) — Exemplary (statutory, no-proof) damages, e.g. Consumer Protection Law s. 31א, Communications Law s. 30א(י).
+- **מבלי לפגוע בזכויות** (Mibli lifgo'a bazchuyot) — "Without prejudice": a label on settlement offers.
+- **ויתור וסילוק** (Vitur vesiluk) — Release and discharge clause in a settlement.
+- **הממונה על הגנת הצרכן** (Hamemuneh al haganat hatzarchan) — Consumer Protection Commissioner, head of the Consumer Protection and Fair Trade Authority.
+- **המועצה הישראלית לצרכנות** (Hamo'etza hayisra'elit letzarchanut) — Israel Consumer Council, a statutory body that advises, assists and may represent consumers.
+- **פניות הציבור** (Pniyot hatzibur) — Public-enquiries (complaints) unit of a regulator or a business.
+- **הכרעה על יסוד הכתב** (Hachra'a al yesod haktav) — Decision on the written record without a hearing (Small Claims Regulations reg. 13(ג)).
+- **פסק דין על דרך הפשרה** (Psak din al derech hapshara) — Decision by way of compromise, with both parties' consent (Courts Law s. 79א(א)).
+- **רת״ק (רשות ערעור תביעות קטנות)** (Ratak) — Application for leave to appeal a small-claims decision to the district court.
+- **ערובה להוצאות המשיב** (Aruba lehotza'ot hameshiv) — Security for the respondent's costs on an appeal or leave application (CPR reg. 135).
+- **עיכוב ביצוע** (Ikuv bitzu'a) — Stay of execution; not automatic on appeal (CPR reg. 145).
+- **פגרה** (Pagra) — Court recess; counts in small-claims periods unless the court orders otherwise (reg. 16א(ב)).
+- **מבחן כלכלי** (Mivchan kalkali) — Legal Aid means test.
+- **מרכז מידע טלפוני** (Merkaz meida telefoni) — The Judiciary's telephone information centre.

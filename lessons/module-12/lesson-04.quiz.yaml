@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You complained to the Bank of Israel's Banking Supervision unit about a wrongful fee. Eight months
+    later the unit is still investigating, and a contractual period for claiming against the bank is
+    about to end. What follows from s. 16(ד)(2) of the Banking (Service to Customer) Law?
+  options:
+    - >-
+      The period is suspended until the unit gives its findings.
+    - >-
+      The period keeps running; file your claim if you need to.
+    - >-
+      The period is extended automatically by the time the unit took.
+    - >-
+      The period ends, but the unit's finding can replace a judgment.
+  correct: 1
+  explanation: >-
+    Filing or investigating a complaint does not extend a deadline set by law, and findings give no new
+    right in court. Protect the deadline yourself.
+- id: q2
+  question: >-
+    Your insurer rejected a water-damage claim. You filed a small claim and the hearing took place last
+    week, with a further session set. You now want the Capital Market Authority to investigate. What is
+    likely?
+  options:
+    - >-
+      It will investigate at once, because the court and the regulator never overlap.
+    - >-
+      It will investigate only if the insurer agrees to its involvement.
+    - >-
+      It will order the court to wait until it finishes its own investigation.
+    - >-
+      It will normally decline, because the court hearing has already begun.
+  correct: 3
+  explanation: >-
+    Under s. 60(ב) of the Insurance Supervision Law the Commissioner does not investigate a matter whose
+    hearing has begun in court, except for special reasons. Complain before the hearing starts.
+- id: q3
+  question: >-
+    Your private landlord in Be'er Sheva kept your deposit. Which public body can investigate and order
+    him to return it?
+  options:
+    - >-
+      None; there is no regulator for private landlords, so you write, negotiate or sue.
+    - >-
+      The Consumer Protection and Fair Trade Authority, because you are a consumer.
+    - >-
+      The Bank of Israel, because the deposit was paid by bank transfer.
+    - >-
+      The municipality's rental department, which supervises all leases in the city.
+  correct: 0
+  explanation: >-
+    A private landlord is not a "dealer" under the Consumer Protection Law and no regulator supervises
+    him. Your routes are the demand letter, negotiation or mediation, and a small claim.
+- id: q4
+  question: >-
+    A shop refused a refund it promised in its posted returns policy. You want the maximum remedy,
+    including exemplary damages. Which route can give you that?
+  options:
+    - >-
+      A complaint to the Consumer Protection and Fair Trade Authority.
+    - >-
+      A complaint to the Israel Consumer Council asking for a compensation order.
+    - >-
+      A small claim after a written request to the shop, under s. 31א.
+    - >-
+      A complaint to the Ministry of Economy's licensing division.
+  correct: 2
+  explanation: >-
+    Exemplary damages are awarded by a court (s. 31א(א)) and only after a prior written request (s. 31א(ב)).
+    Regulators can find a breach and sanction the dealer, but they do not award damages.

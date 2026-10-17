@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You were properly notified of the hearing but missed it because of a family emergency. The defendant
+    attended. What happened, and what can you do?
+  options:
+    - >-
+      The hearing was postponed automatically; wait for the new date.
+    - >-
+      Judgment was given for the defendant's counterclaim; you can only appeal.
+    - >-
+      Claim dismissed; apply within 30 days of service to set it aside.
+    - >-
+      Your claim was decided on the papers; nothing further can be done.
+  correct: 2
+  explanation: >-
+    If the defendant attends and the plaintiff does not, the claim is dismissed (reg. 11). A decision
+    given in a party's absence may be set aside on an application within 30 days of service (reg. 12).
+- id: q2
+  question: >-
+    The judge asks: "Do the parties agree that I decide by way of compromise?" What are you agreeing to
+    if you say yes?
+  options:
+    - >-
+      That the judge decides as he sees fit rather than strictly on the law, leaving little to appeal.
+    - >-
+      That the parties will negotiate privately and come back with an agreed figure.
+    - >-
+      That the judge will decide strictly on the law, with full written reasons for each finding.
+    - >-
+      That the case will be sent to a court-annexed mediator for a separate meeting.
+  correct: 0
+  explanation: >-
+    Courts Law s. 79א(א) lets the court, with both parties' consent, decide by way of compromise. By
+    consenting you accept a compromise outcome; it differs from a settlement proposal you may refuse.
+- id: q3
+  question: >-
+    During the hearing the landlord says, for the first time, that you promised to repaint the flat. How
+    should you respond?
+  options:
+    - >-
+      Turn to the landlord and tell him firmly that he is lying.
+    - >-
+      Stay silent, since the record covers only what the judge says.
+    - >-
+      Ask for an adjournment so that you can bring a lawyer.
+    - >-
+      Ask that it be recorded, and point to the lease clause.
+  correct: 3
+  explanation: >-
+    The record contains the gist of what was said (reg. 14). Getting a new allegation recorded and
+    answering it with a document is how you deal with it; speak to the judge, not to the other side.
+- id: q4
+  question: >-
+    Which question is best suited to put to the other side in a small-claims hearing?
+  options:
+    - >-
+      "Why did you decide to keep my money when you knew it was mine?"
+    - >-
+      "Your quote is dated 15 October, after you received my claim, correct?"
+    - >-
+      "Can you explain to the court your entire approach to deposits?"
+    - >-
+      "Would you agree that you have treated me unfairly from the start?"
+  correct: 1
+  explanation: >-
+    A good question is short, closed and tied to a document. Open "why" questions and questions about
+    fairness invite speeches; the dated quote tests one fact.

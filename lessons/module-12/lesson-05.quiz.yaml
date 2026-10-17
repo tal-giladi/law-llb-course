@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You bought a sofa online from a Haifa company and live in Eilat. The website terms say "disputes
+    only in Tel Aviv courts". Where may you file your small claim, under reg. 2?
+  options:
+    - >-
+      Only in Tel Aviv, because the parties agreed on that jurisdiction.
+    - >-
+      In Eilat or Haifa: for online trade your area also counts.
+    - >-
+      Only in Haifa, because the plaintiff's home address never counts.
+    - >-
+      In any small claims court in Israel you choose.
+  correct: 1
+  explanation: >-
+    Venue under reg. 2 applies whatever an agreement says; for internet trade the claim goes where the
+    defendant or the plaintiff lives or does business (reg. 2(ב)).
+- id: q2
+  question: >-
+    Your draft claim is seven pages long: four pages of facts, two of grounds, one of amounts. What should
+    you do before filing a case opened today?
+  options:
+    - >-
+      File it; the page limit applies only to defences.
+    - >-
+      Move the facts into an attached affidavit so that they do not count.
+    - >-
+      Shorten the body to five pages, keeping facts with exhibit references.
+    - >-
+      File it and ask the judge at the hearing to accept the extra pages.
+  correct: 2
+  explanation: >-
+    For proceedings opened from 11.4.2025 the body may not exceed five pages (reg. 3(ה)). Cutting adjectives
+    and repetition, and pointing to exhibits, usually brings it well under.
+- id: q3
+  question: >-
+    Which item is now required in the body of a small claim and is most often forgotten?
+  options:
+    - >-
+      A summary of the defendant's financial situation.
+    - >-
+      A statement that you tried mediation before suing.
+    - >-
+      The name of the judge you would prefer to hear the case.
+    - >-
+      The number of small claims you filed during the past year.
+  correct: 3
+  explanation: >-
+    Reg. 3(ג)(7) requires the number of small claims you filed in the last year, alongside your hearing
+    preference (reg. 3(ג)(6)). Mediation is not a condition for filing.
+- id: q4
+  question: >-
+    The landlord got the keys back on 31.7.2026 and kept the whole deposit. From which date is it most
+    accurate to claim interest?
+  options:
+    - >-
+      From 30.9.2026, after the 60-day period ended.
+    - >-
+      From 1.8.2024, the day the deposit was paid.
+    - >-
+      From 31.7.2026, the day the keys were returned.
+    - >-
+      From the date of the hearing, when the court decides the debt.
+  correct: 0
+  explanation: >-
+    The security must be returned within 60 days of the flat's return (s. 25י(ה)), so it fell due on
+    29.9.2026; interest runs from when payment was due and not made.

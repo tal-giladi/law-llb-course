@@ -1,0 +1,1308 @@
+- id: m12-001
+  module: 12
+  lesson: "12.1"
+  subject: dispute-selection
+  difficulty: 1
+  question: >-
+    Which of these disputes passes all five clinic filters of lesson 12.1?
+  options:
+    - >-
+      Your employer has not paid your last month's salary of ₪9,000.
+    - >-
+      An online shop refuses to refund ₪1,400 for a heater you cancelled in time.
+    - >-
+      Your brother's landlord kept his ₪6,000 deposit while he is abroad.
+    - >-
+      A neighbour's contractor injured your back with debris falling from scaffolding.
+  correct: 1
+  explanation: >-
+    Salary goes to the labour court, your brother's claim is his, and bodily injury is lawyer territory.
+    A consumer refund of your own within the ceiling is a model clinic dispute.
+- id: m12-002
+  module: 12
+  lesson: "12.1"
+  subject: parties
+  difficulty: 1
+  question: >-
+    Where do you most reliably find the exact legal name and number of a company you want to sue?
+  options:
+    - >-
+      On the shop's sign, its website banner and its Instagram page.
+    - >-
+      From the business card the salesperson handed you at the counter.
+    - >-
+      In the mall's printed directory of tenants near the entrance.
+    - >-
+      On the receipt or contract, checked with the Companies Registrar.
+  correct: 3
+  explanation: >-
+    Receipts and contracts must name the legal entity; the Registrar's free search confirms the name,
+    number and registered address you will need for the claim and for enforcement.
+- id: m12-003
+  module: 12
+  lesson: "12.1"
+  subject: limitation
+  difficulty: 2
+  question: >-
+    A customer owes you ₪3,000 for a 2019 translation job. In 2022 he paid ₪500 "on account". When does
+    limitation now run out?
+  options:
+    - >-
+      Seven years from the 2022 part payment, which counts as an acknowledgement.
+    - >-
+      Seven years from 2019, because part payments never affect limitation.
+    - >-
+      Three years from 2022, the special period that applies to unpaid invoices.
+    - >-
+      It never runs out at all once any part payment has been made.
+  correct: 0
+  explanation: >-
+    Under Prescription Law s. 9, an act that performs part of the right is treated as an acknowledgement,
+    and the period starts again from that day.
+- id: m12-004
+  module: 12
+  lesson: "12.1"
+  subject: small-claims-eligibility
+  difficulty: 2
+  question: >-
+    You run a sole-trader graphic design business (עוסק מורשה) and a client company owes you ₪6,000. Can
+    you sue in small claims?
+  options:
+    - >-
+      No; businesses of any kind may only sue in the magistrates' court.
+    - >-
+      No; a commercial debt is outside the small claims court's jurisdiction.
+    - >-
+      Yes; a sole trader is an individual suing in his own right.
+    - >-
+      Yes, but only if the client company agrees to small claims in writing.
+  correct: 2
+  explanation: >-
+    The bar is on companies as plaintiffs and on assigned debts; a sole trader is an individual (יחיד), and
+    the debt is his own.
+- id: m12-005
+  module: 12
+  lesson: "12.1"
+  subject: facts-file
+  difficulty: 1
+  question: >-
+    What belongs on the cover page of your facts file?
+  options:
+    - >-
+      A full narrative of the dispute from your point of view, with your feelings.
+    - >-
+      The claim in two sentences, opponent, amount, limitation date, forum.
+    - >-
+      Copies of all the exhibits, in the order in which you found them.
+    - >-
+      A list of everything the other side did wrong to you over the years.
+  correct: 1
+  explanation: >-
+    The cover page lets anyone see at a glance who owes what, how much, where and by when. Exhibits and
+    the chronology have their own parts.
+- id: m12-006
+  module: 12
+  lesson: "12.1"
+  subject: deposit-law
+  difficulty: 2
+  question: >-
+    After a two-year lease the landlord wants to keep part of the deposit for "repainting because of wear".
+    What does s. 25ח(א) of the Rental and Borrowing Law suggest?
+  options:
+    - >-
+      The tenant always pays for repainting at the end of any lease.
+    - >-
+      The landlord may keep the whole deposit if the lease mentions painting.
+    - >-
+      The deposit covers any cost the landlord incurs after the tenant leaves.
+    - >-
+      The tenant answers for defects from unreasonable use, not ordinary wear.
+  correct: 3
+  explanation: >-
+    The tenant is responsible for defects caused by unreasonable use; ordinary wear is not such a defect,
+    and the security may be used only for the purposes in s. 25י(ג).
+- id: m12-007
+  module: 12
+  lesson: "12.1"
+  subject: case-log
+  difficulty: 1
+  question: >-
+    Why should you log every phone call with the other side on the same day?
+  options:
+    - >-
+      Because the court requires a phone log in every small claim.
+    - >-
+      Because it records what was promised and shows that you acted reasonably.
+    - >-
+      Because phone calls are inadmissible unless they are logged.
+    - >-
+      Because the log replaces the need for any written letter.
+  correct: 1
+  explanation: >-
+    A same-day note (date, time, name, words) is the file's memory and supports your account; confirming
+    the call in writing afterwards makes it stronger.
+- id: m12-008
+  module: 12
+  lesson: "12.1"
+  subject: dispute-selection
+  difficulty: 3
+  question: >-
+    Your dispute: a ₪45,000 renovation overcharge by a company. The ceiling is lower. Which clinic choice is
+    best?
+  options:
+    - >-
+      Split it into two small claims, each under the ceiling.
+    - >-
+      Cut it to the ceiling and file in small claims without considering the loss.
+    - >-
+      Choose a different, smaller dispute for the clinic and get advice on this one.
+    - >-
+      File it in small claims at full value and ask the judge to waive the ceiling.
+  correct: 2
+  explanation: >-
+    Splitting is not allowed, and cutting forfeits the excess. A claim of this size and complexity calls
+    for advice and probably the magistrates' court; the clinic needs a dispute that fits.
+- id: m12-009
+  module: 12
+  lesson: "12.2"
+  subject: eavesdropping
+  difficulty: 1
+  question: >-
+    Under the Eavesdropping Law, "secret eavesdropping" (האזנת סתר) means listening:
+  options:
+    - >-
+      without the consent of any of the parties to the conversation.
+    - >-
+      without the consent of every party to the conversation.
+    - >-
+      without telling the other side that a recording is being made.
+    - >-
+      to any phone call, whether or not a party consents.
+  correct: 0
+  explanation: >-
+    Section 1 defines secret eavesdropping as eavesdropping without the consent of any of the parties. A
+    participant's own recording therefore falls outside it.
+- id: m12-010
+  module: 12
+  lesson: "12.2"
+  subject: eavesdropping
+  difficulty: 2
+  question: >-
+    You attend a meeting with a contractor and his partner and record it on your phone. After you leave,
+    the phone, forgotten on the table, keeps recording them. Which part may you use?
+  options:
+    - >-
+      Both parts, because you placed the phone openly on the table.
+    - >-
+      Neither part, because the contractor did not know about the recording.
+    - >-
+      Only the part after you left, because you were not influencing them.
+    - >-
+      Only the part while you were present; the rest records others.
+  correct: 3
+  explanation: >-
+    While you took part, you were a party to the conversation. After you left, the device captured
+    others' conversation without any party's consent: that part is secret eavesdropping and inadmissible.
+- id: m12-011
+  module: 12
+  lesson: "12.2"
+  subject: privacy
+  difficulty: 2
+  question: >-
+    To prove your upstairs neighbour's leaking balcony, which evidence is safest to collect?
+  options:
+    - >-
+      Photos of the leak and the damage taken from inside your own flat.
+    - >-
+      Photos taken from a drone hovering over his balcony while he is there.
+    - >-
+      Photos taken through his window to show the pipes inside.
+    - >-
+      Screenshots from his partner's phone of messages about the pipes.
+  correct: 0
+  explanation: >-
+    Photographing a person in his private domain and copying writings not addressed to you infringe
+    privacy (Privacy Law s. 2(3), (5)). Your own flat and the damage in it are yours to photograph.
+- id: m12-012
+  module: 12
+  lesson: "12.2"
+  subject: privacy-evidence
+  difficulty: 2
+  question: >-
+    What does s. 32 of the Privacy Law say about material obtained by infringing privacy?
+  options:
+    - >-
+      It is always admissible in small claims, because evidence rules are relaxed there.
+    - >-
+      Inadmissible without the victim's consent, unless the court allows it or a defence applies.
+    - >-
+      It is admissible in every court only if the infringement was not also a criminal offence.
+    - >-
+      It is admissible if the party who obtained it pays the court a special evidence fee.
+  correct: 1
+  explanation: >-
+    Section 32 makes such material inadmissible without consent, unless the court permits it for recorded
+    reasons or the infringer has a defence or exemption under the Law. The exclusion is relative.
+- id: m12-013
+  module: 12
+  lesson: "12.2"
+  subject: access-to-information
+  difficulty: 1
+  question: >-
+    You want the recording of your own sales call with a phone company. Which right helps you ask for it?
+  options:
+    - >-
+      The Freedom of Information Law, which applies to private companies.
+    - >-
+      The Consumer Protection Law's right to cancel a distance transaction.
+    - >-
+      The right to inspect information about you held in a database (s. 13).
+    - >-
+      The small claims court's duty to collect evidence for unrepresented parties.
+  correct: 2
+  explanation: >-
+    Section 13 entitles you to inspect personal information about you held in a database; ask in writing
+    and diary a follow-up. FOI applies to public authorities, not private companies.
+- id: m12-014
+  module: 12
+  lesson: "12.2"
+  subject: evidence-preservation
+  difficulty: 2
+  question: >-
+    A shop's employee shoved your trolley into your car in the car park. The shop has cameras. What is the
+    best first step for the evidence?
+  options:
+    - >-
+      Wait until the defence is filed, then ask the court to order the footage.
+    - >-
+      Film the shop's monitor with your phone while staff are busy.
+    - >-
+      Ask a friend who works at the shop to copy the footage quietly.
+    - >-
+      Ask the shop in writing the same day to preserve and release the footage.
+  correct: 3
+  explanation: >-
+    Footage is often overwritten within days; a same-day written request creates a record. Covert copying
+    creates new legal risks for you and your friend.
+- id: m12-015
+  module: 12
+  lesson: "12.2"
+  subject: exhibits
+  difficulty: 1
+  question: >-
+    How should a recording of your own phone call be presented with a small claim?
+  options:
+    - >-
+      The original file on a USB drive, with a transcript of the relevant part.
+    - >-
+      A shortened edit containing only the sentences that help your case.
+    - >-
+      A written summary in your own words, without the audio file itself.
+    - >-
+      Played aloud on speakerphone to the registry clerk when you file.
+  correct: 0
+  explanation: >-
+    Keep and submit the unedited original, delivered on USB as the court instructs, with a transcript of the
+    relevant part. Edited recordings destroy credibility.
+- id: m12-016
+  module: 12
+  lesson: "12.2"
+  subject: evidence-strategy
+  difficulty: 3
+  question: >-
+    Your only proof of an oral promise of a discount is your word. The seller denies it. What is a lawful
+    way to try to strengthen your case?
+  options:
+    - >-
+      Hide a recorder in the seller's office during your next visit and leave it there.
+    - >-
+      Ask the seller's employee to send you internal emails about the promise.
+    - >-
+      Call the seller, ask calmly about the promised discount, and record your call.
+    - >-
+      Post the dispute online so that customers come forward with similar stories.
+  correct: 2
+  explanation: >-
+    Recording your own call is lawful and may capture an admission. A device left in his office records
+    others' conversations; internal emails are not addressed to you; public posts risk a defamation claim.
+- id: m12-017
+  module: 12
+  lesson: "12.3"
+  subject: letter-choice
+  difficulty: 1
+  question: >-
+    You ordered a sofa online 5 days ago, it arrived yesterday, and you have changed your mind. Which letter
+    comes first?
+  options:
+    - >-
+      A pre-action letter naming the small claims court.
+    - >-
+      A consumer cancellation notice within the statutory period.
+    - >-
+      A tort demand letter for the cost of the sofa.
+    - >-
+      A complaint to the Consumer Protection Authority.
+  correct: 1
+  explanation: >-
+    Inside a distance-sale cancellation period, the cancellation notice is the step that creates the
+    dealer's refund duty (lesson 03.10); later letters follow only if the dealer does not refund.
+- id: m12-018
+  module: 12
+  lesson: "12.3"
+  subject: exemplary-damages
+  difficulty: 2
+  question: >-
+    Which is a condition of claiming exemplary damages under Consumer Protection Law s. 31א?
+  options:
+    - >-
+      Proof that you suffered financial loss of at least the amount claimed.
+    - >-
+      A finding by the Consumer Protection Authority that the dealer broke the law.
+    - >-
+      A prior written request to the dealer, which may be sent by email.
+    - >-
+      That the dealer has previously been convicted under the Law.
+  correct: 2
+  explanation: >-
+    Exemplary damages do not depend on loss, but s. 31א(ב) requires a prior written request. A prior
+    conviction may be considered in fixing the amount (s. 31א(ד)) but is not a condition.
+- id: m12-019
+  module: 12
+  lesson: "12.3"
+  subject: proof-of-delivery
+  difficulty: 1
+  question: >-
+    What is the best way to send a demand letter to a company so that delivery can be proved?
+  options:
+    - >-
+      A message to the company's Facebook page and its Instagram account.
+    - >-
+      A phone call to customer service, followed by a thank-you SMS.
+    - >-
+      A letter handed to a cashier at a branch, without keeping a copy.
+    - >-
+      Email to the contract address plus registered mail with delivery proof.
+  correct: 3
+  explanation: >-
+    Two channels, one of them with a delivery receipt, leave no doubt that the letter arrived and when.
+- id: m12-020
+  module: 12
+  lesson: "12.3"
+  subject: negotiation
+  difficulty: 2
+  question: >-
+    When should you fix your walk-away figure in a negotiation?
+  options:
+    - >-
+      Before the first call, in writing, with your reasons.
+    - >-
+      After hearing the other side's first offer.
+    - >-
+      Only at the hearing, after the judge's proposal.
+    - >-
+      Never; it is better to decide each offer on instinct.
+  correct: 0
+  explanation: >-
+    A written figure, based on your chances, time and collection costs, protects you from accepting or
+    refusing an offer on the spot under pressure.
+- id: m12-021
+  module: 12
+  lesson: "12.3"
+  subject: settlement
+  difficulty: 3
+  question: >-
+    Spot the main weakness in this settlement: "Avraham will pay Tsega ₪9,500. The parties have no further
+    claims." Nothing else is written.
+  options:
+    - >-
+      It should state that Avraham admits he acted in bad faith from the start.
+    - >-
+      No date, method or default clause, and the waiver is unconditional.
+    - >-
+      It must be signed before a notary to be valid and binding on the parties.
+    - >-
+      It must be approved by the small claims court before it binds anyone at all.
+  correct: 1
+  explanation: >-
+    Without a date and default clause, and with a waiver not conditioned on payment, Tsega has given up her
+    claim for a promise. A pre-claim settlement is a contract and needs no court approval.
+- id: m12-022
+  module: 12
+  lesson: "12.3"
+  subject: costs-conduct
+  difficulty: 2
+  question: >-
+    Why does a clear, dated demand letter matter for costs if you later win in court?
+  options:
+    - >-
+      Because the law fixes double costs for any defendant who ignored a letter.
+    - >-
+      Because costs are only awarded to plaintiffs who sent a letter.
+    - >-
+      Because the court may weigh the parties' conduct when awarding costs.
+    - >-
+      Because the letter is filed instead of the statement of claim.
+  correct: 2
+  explanation: >-
+    Under CPR reg. 151(א), costs reflect the outcome, the resources required and the parties' conduct;
+    the small claims court has the magistrates' court's procedural powers (Small Claims Regulations reg. 9).
+- id: m12-023
+  module: 12
+  lesson: "12.3"
+  subject: improper-pressure
+  difficulty: 3
+  question: >-
+    A shop owes you ₪2,000. Which addition to your letter creates the greatest risk for you?
+  options:
+    - >-
+      A statement that you are open to mediation before the stated deadline.
+    - >-
+      A reservation of all your rights, claims and remedies under any law.
+    - >-
+      A numbered list of the exhibits attached to the letter.
+    - >-
+      A warning that you will post its name and your story in local groups.
+  correct: 3
+  explanation: >-
+    Threatening public shaming to obtain payment invites a defamation claim and looks like improper
+    pressure. Mediation offers, reservations of rights and exhibit lists are all good practice.
+- id: m12-024
+  module: 12
+  lesson: "12.3"
+  subject: settlement-force
+  difficulty: 3
+  question: >-
+    Your small claim is already open and you reach a settlement with the defendant on the phone. What step
+    makes the settlement directly enforceable at the Execution Office?
+  options:
+    - >-
+      Asking the court to give the settlement the force of a judgment.
+    - >-
+      Sending the defendant a WhatsApp confirming the agreed sum.
+    - >-
+      Withdrawing your claim and keeping a copy of the agreement.
+    - >-
+      Having two witnesses sign the settlement at a post office.
+  correct: 0
+  explanation: >-
+    Courts Law s. 79א(ב) lets the court give the parties' settlement the force of a judgment; it can then
+    be executed. Withdrawing the claim leaves you with only a contract.
+- id: m12-025
+  module: 12
+  lesson: "12.4"
+  subject: regulator-choice
+  difficulty: 1
+  question: >-
+    Which body handles public complaints about an insurer's handling of your claim?
+  options:
+    - >-
+      The Bank of Israel's Banking Supervision unit.
+    - >-
+      The Ministry of Communications' complaints unit.
+    - >-
+      The Capital Market, Insurance and Savings Authority.
+    - >-
+      The Consumer Protection and Fair Trade Authority only.
+  correct: 2
+  explanation: >-
+    The Commissioner of Insurance (Capital Market Authority) investigates complaints about insurers and
+    agents under ss. 60–62 of the Insurance Supervision Law.
+- id: m12-026
+  module: 12
+  lesson: "12.4"
+  subject: regulator-limits
+  difficulty: 2
+  question: >-
+    What can the Banking Supervision unit's finding that your complaint was justified NOT do?
+  options:
+    - >-
+      Tell the bank how to fix the fault that the investigation found.
+    - >-
+      Explain the findings of its investigation to you in writing.
+    - >-
+      Inform the bank in writing that your complaint was justified.
+    - >-
+      Extend the limitation period for your claim against the bank.
+  correct: 3
+  explanation: >-
+    Section 16(ד) of the Banking (Service to Customer) Law: findings give no new right in court and do not
+    extend a statutory deadline. The unit can notify both sides and explain how to fix the fault.
+- id: m12-027
+  module: 12
+  lesson: "12.4"
+  subject: regulator-order
+  difficulty: 2
+  question: >-
+    Before complaining to the Banking Supervision unit, what should you normally do?
+  options:
+    - >-
+      Complain to the bank itself and attach its answer to your complaint.
+    - >-
+      File a small claim first so that the unit can see the court case number.
+    - >-
+      Obtain a lawyer's written opinion that the bank broke the banking law.
+    - >-
+      Close your account first so that the bank cannot retaliate against you.
+  correct: 0
+  explanation: >-
+    Regulators expect you to go to the business first; the unit asks for the bank's answer (Kol-Zchut,
+    ⚠️ manual check). A claim is not required, and closing the account is unnecessary.
+- id: m12-028
+  module: 12
+  lesson: "12.4"
+  subject: consumer-council
+  difficulty: 1
+  question: >-
+    Under its statute, what may the Israel Consumer Council do for consumers?
+  options:
+    - >-
+      Impose fines on dealers and order their businesses closed.
+    - >-
+      Give binding judgments that the Execution Office enforces.
+    - >-
+      Advise and assist consumers, including representing them in court.
+    - >-
+      Approve or cancel standard-contract terms by itself, without a court.
+  correct: 2
+  explanation: >-
+    Council Law s. 2 lists advice, assistance with businesses, legal proceedings and representation of
+    consumers. Fines belong to the Commissioner; judgments to courts.
+- id: m12-029
+  module: 12
+  lesson: "12.4"
+  subject: spam
+  difficulty: 2
+  question: >-
+    You receive ten advertising text messages after asking the sender in writing to stop. Which route can
+    award you damages without proof of loss?
+  options:
+    - >-
+      A complaint to the Ministry of Communications, which pays per message.
+    - >-
+      A small claim under s. 30א(י) of the Communications Law.
+    - >-
+      A complaint to the Consumer Protection Authority's price unit.
+    - >-
+      A request to your phone company to compensate you.
+  correct: 1
+  explanation: >-
+    Section 30א(י)(1) lets a court award exemplary damages per message sent knowingly in breach. Regulators
+    do not award damages.
+- id: m12-030
+  module: 12
+  lesson: "12.4"
+  subject: regulator-or-court
+  difficulty: 3
+  question: >-
+    A telecom company overcharged you ₪60 a month for 8 months. You want your money back with the least
+    cost, but you also want to keep the option of exemplary damages. Which plan fits best?
+  options:
+    - >-
+      Sue at once for exemplary damages and skip any written request.
+    - >-
+      Complain to the Ministry only, and wait for it to award compensation.
+    - >-
+      Post a public review and wait for the company to call you.
+    - >-
+      Send a written refund request, complain to the Ministry, and sue if needed.
+  correct: 3
+  explanation: >-
+    The written request satisfies s. 31א(ב) and may itself bring a refund; the Ministry complaint is free;
+    the small claim remains open, and the regulator does not award damages.
+- id: m12-031
+  module: 12
+  lesson: "12.4"
+  subject: insurance-timing
+  difficulty: 3
+  question: >-
+    Your small claim against an insurer had its first hearing yesterday and was adjourned. You now complain
+    to the Capital Market Authority. What should you expect?
+  options:
+    - >-
+      It will normally decline, because the court hearing has begun.
+    - >-
+      It will freeze the court case until it decides.
+    - >-
+      It will join the court case as a party on your side.
+    - >-
+      It must investigate, because insurance complaints have priority.
+  correct: 0
+  explanation: >-
+    Under s. 60(ב) of the Insurance Supervision Law the Commissioner does not investigate a matter whose
+    hearing has begun before a court, except for special reasons.
+- id: m12-032
+  module: 12
+  lesson: "12.4"
+  subject: regulator-complaint-content
+  difficulty: 2
+  question: >-
+    Which part of a regulator complaint is most often missing and most reduces its effect?
+  options:
+    - >-
+      The complainant's date of birth and place of birth.
+    - >-
+      A summary of Israeli consumer law in general.
+    - >-
+      The specific correction you ask the regulator to require.
+    - >-
+      A list of other companies in the market with the same problem.
+  correct: 2
+  explanation: >-
+    Without a specific correction (refund ₪X, cancel the fee) the regulator can only answer generally.
+    State the remedy sought, attach the business's answer and number your documents.
+- id: m12-033
+  module: 12
+  lesson: "12.5"
+  subject: claim-heading
+  difficulty: 1
+  question: >-
+    Which detail must the heading of a small claim include for a corporate defendant, under reg. 3(ב)?
+  options:
+    - >-
+      The name of its chief executive.
+    - >-
+      Its registration number.
+    - >-
+      Its annual turnover.
+    - >-
+      Its lawyer's licence number.
+  correct: 1
+  explanation: >-
+    The heading gives the defendant's name and ID number if it can be found, and for a corporation its
+    registration number, with address and contact details as far as you can find them.
+- id: m12-034
+  module: 12
+  lesson: "12.5"
+  subject: page-limit
+  difficulty: 1
+  question: >-
+    For a small claim opened in 2026, what is the maximum length of the body of the statement of claim?
+  options:
+    - >-
+      Two pages.
+    - >-
+      Nine pages.
+    - >-
+      No limit at all.
+    - >-
+      Five pages.
+  correct: 3
+  explanation: >-
+    Reg. 3(ה), for proceedings opened from 11.4.2025: the body may not exceed five pages. Attachments are
+    outside that count.
+- id: m12-035
+  module: 12
+  lesson: "12.5"
+  subject: venue
+  difficulty: 2
+  question: >-
+    A Jerusalem resident hired a Petah Tikva moving company to move her from Jerusalem to Haifa; the
+    damage happened while unloading in Haifa. Where may she file?
+  options:
+    - >-
+      Petah Tikva or Haifa: the firm's base or where it happened.
+    - >-
+      Only Jerusalem, where she lived when she signed the contract.
+    - >-
+      Only Petah Tikva, the defendant's registered address.
+    - >-
+      Any court she chooses, since the contract says nothing.
+  correct: 0
+  explanation: >-
+    Reg. 2(א): the defendant's home or place of business, or the place of the act or omission. The
+    plaintiff's own area counts only in internet publication or trade cases (reg. 2(ב)).
+- id: m12-036
+  module: 12
+  lesson: "12.5"
+  subject: grounds
+  difficulty: 2
+  question: >-
+    Which grounds paragraph best fits a small claim for a kept deposit?
+  options:
+    - >-
+      "The landlord is a dishonest person who always treats his tenants very badly."
+    - >-
+      "I am entitled to my money because it is mine, as everyone in the building knows."
+    - >-
+      "The deposit was due under s. 25י(ה); no s. 25י(ג) purpose or notice existed (exh. 4–5)."
+    - >-
+      "The court is asked to do justice and to return what was unfairly taken from me."
+  correct: 2
+  explanation: >-
+    Grounds should state the right, the breach and the remedy, each with its section and exhibit. Opinions
+    and general appeals to justice do not help the judge.
+- id: m12-037
+  module: 12
+  lesson: "12.5"
+  subject: declaration
+  difficulty: 1
+  question: >-
+    What must the declaration attached to a small claim state, besides that its contents are true?
+  options:
+    - >-
+      The source of your knowledge of the facts.
+    - >-
+      That a lawyer has reviewed the claim.
+    - >-
+      That you have no other claims against anyone.
+    - >-
+      The amount you would accept in settlement.
+  correct: 0
+  explanation: >-
+    Reg. 3(ד)(2): a declaration that the contents are true or to the best of your knowledge, including the
+    source of that knowledge (personal knowledge, documents).
+- id: m12-038
+  module: 12
+  lesson: "12.5"
+  subject: hearing-preference
+  difficulty: 2
+  question: >-
+    You are confident in your documents but the defendant is a large company with experienced staff. In
+    the claim, which hearing preference is reasonable to state?
+  options:
+    - >-
+      Nothing; the regulations do not ask about hearing preferences.
+    - >-
+      A decision on the papers only, whatever the defendant says.
+    - >-
+      A video hearing, because it is the only option in 2026.
+    - >-
+      In-court hearing; no paper decision unless both sides agree.
+  correct: 3
+  explanation: >-
+    Reg. 3(ג)(6) requires you to state your preference for a remote hearing and for a decision on the
+    papers; the court weighs preferences and power gaps (reg. 13(ג)).
+- id: m12-039
+  module: 12
+  lesson: "12.5"
+  subject: amount
+  difficulty: 3
+  question: >-
+    Your ₪2,800 consumer claim includes a ₪10,000 line for "exemplary damages" but you never sent a written
+    request. What is the best fix before filing?
+  options:
+    - >-
+      Keep the line; the judge will decide whether it applies.
+    - >-
+      Send the written request now and wait before claiming that head.
+    - >-
+      Raise the line to ₪20,000 so that a reduction still leaves ₪10,000.
+    - >-
+      Move the line into the "distress" head under another name.
+  correct: 1
+  explanation: >-
+    Without a prior written request, exemplary damages cannot be claimed (s. 31א(ב)). Send it, give the
+    dealer time, and claim the head only if the conditions are met.
+- id: m12-040
+  module: 12
+  lesson: "12.5"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake: a claim names "Mega Phone" as defendant, places the act in "the mall", asks for "my
+    money back with compensation", and lists eight exhibits by number.
+  options:
+    - >-
+      Exhibits should not be numbered in a small claim.
+    - >-
+      A claim must be filed by a lawyer when a company is sued.
+    - >-
+      The defendant, place and remedy are too vague for reg. 3.
+    - >-
+      Eight exhibits exceed the number allowed in small claims.
+  correct: 2
+  explanation: >-
+    The heading needs the legal name and number, the body the place of the act and the remedy sought, with
+    an amount. Numbered exhibits are good practice; there is no exhibit limit or lawyer requirement.
+- id: m12-041
+  module: 12
+  lesson: "12.5"
+  subject: filing-decision
+  difficulty: 3
+  question: >-
+    Your claim is ready. The landlord has just offered ₪8,500 in writing on your ₪10,620 claim, payable in
+    7 days. Your written walk-away figure is ₪9,000. What is a sound decision?
+  options:
+    - >-
+      File at once and refuse to answer the offer, to show strength.
+    - >-
+      Accept at once, because any written offer beats a hearing.
+    - >-
+      Counter at ₪9,500 with a date; file if there is no deal by then.
+    - >-
+      Ignore the offer and wait until limitation approaches.
+  correct: 2
+  explanation: >-
+    The offer is below your walk-away figure but close; a dated counter-offer keeps the settlement option
+    open while protecting your timetable. Record the decision in your case log.
+- id: m12-042
+  module: 12
+  lesson: "12.6"
+  subject: non-appearance
+  difficulty: 1
+  question: >-
+    Both parties were properly notified and neither came to the hearing. What happens?
+  options:
+    - >-
+      The claim is struck out.
+    - >-
+      Judgment is given for the plaintiff.
+    - >-
+      The hearing is postponed automatically.
+    - >-
+      Judgment is given for the defendant.
+  correct: 0
+  explanation: >-
+    Reg. 11: if neither party appears the claim is struck out; if only the plaintiff appears, judgment may
+    follow on the claim; if only the defendant appears, the claim is dismissed.
+- id: m12-043
+  module: 12
+  lesson: "12.6"
+  subject: non-appearance
+  difficulty: 2
+  question: >-
+    You attended; the defendant company did not, though it was served. What must you do to obtain judgment?
+  options:
+    - >-
+      Ask for a new date, because judgment cannot be given in a party's absence.
+    - >-
+      Present your witnesses for a full trial as in the magistrates' court.
+    - >-
+      Serve the claim again and come back in 60 days.
+    - >-
+      Declare before the court that your claim is true.
+  correct: 3
+  explanation: >-
+    Reg. 11: where the plaintiff appears and the defendant does not, the court gives judgment on the claim,
+    provided the plaintiff declares its truth. The defendant may later apply to set it aside (reg. 12).
+- id: m12-044
+  module: 12
+  lesson: "12.6"
+  subject: active-judge
+  difficulty: 1
+  question: >-
+    Who decides the order in which evidence and arguments are presented in a small-claims hearing?
+  options:
+    - >-
+      The plaintiff, who opened the case.
+    - >-
+      The judge, who investigates actively.
+    - >-
+      The defendant, if represented with leave.
+    - >-
+      The registrar, before the hearing starts.
+  correct: 1
+  explanation: >-
+    Reg. 13(א): the court sets the order of evidence and arguments as it sees fit and investigates the
+    dispute actively.
+- id: m12-045
+  module: 12
+  lesson: "12.6"
+  subject: record
+  difficulty: 2
+  question: >-
+    The defendant admits during the hearing that he never sent you a repair request. Why ask that this be
+    recorded?
+  options:
+    - >-
+      Because otherwise the admission is automatically inadmissible.
+    - >-
+      Because only recorded statements may be quoted in the judgment.
+    - >-
+      The record keeps the gist of what was said; you may need it later.
+    - >-
+      Because recording an admission doubles the damages awarded.
+  correct: 2
+  explanation: >-
+    Reg. 14: the record contains a summary of witnesses' words and other things said. An important
+    admission in the record is useful at judgment and on any application for leave to appeal.
+- id: m12-046
+  module: 12
+  lesson: "12.6"
+  subject: representation
+  difficulty: 2
+  question: >-
+    Your cousin, a paralegal who sometimes helps people in small claims for a fee, offers to speak for you
+    at the hearing. What does s. 63 of the Courts Law allow?
+  options:
+    - >-
+      No: a non-lawyer who represents regularly or for pay is excluded.
+    - >-
+      Anything, because small claims allow any helper chosen by the party.
+    - >-
+      Representation, provided he is a member of your family.
+    - >-
+      Representation, provided you pay him only after the hearing.
+  correct: 0
+  explanation: >-
+    A non-lawyer may represent with the court's approval and a power of attorney, but not if he represents
+    regularly, in the course of business or for payment. Family ties do not create an exception.
+- id: m12-047
+  module: 12
+  lesson: "12.6"
+  subject: compromise
+  difficulty: 2
+  question: >-
+    You refuse both the judge's settlement proposal and consent to a decision by way of compromise. What
+    happens next?
+  options:
+    - >-
+      The claim is dismissed for failure to cooperate with the court.
+    - >-
+      The case is sent to mediation, which you must attend.
+    - >-
+      You must explain your refusal in a written affidavit.
+    - >-
+      The court decides the case on the merits.
+  correct: 3
+  explanation: >-
+    A proposal may be refused, and a s. 79א(א) compromise decision needs both parties' consent. Refusing
+    carries no penalty; the court then decides on the merits.
+- id: m12-048
+  module: 12
+  lesson: "12.6"
+  subject: questioning
+  difficulty: 2
+  question: >-
+    Which is the best question for the other side's witness, the landlord's painter?
+  options:
+    - >-
+      "Your quote is dated 15 October, after the claim was filed?"
+    - >-
+      "Why exactly are you helping the landlord cheat me like this?"
+    - >-
+      "Tell the court everything you know about this flat."
+    - >-
+      "Would you agree that painters usually overcharge customers?"
+  correct: 0
+  explanation: >-
+    Short, closed questions tied to a document test one fact at a time. Accusations, open invitations and
+    generalisations give the witness room for speeches.
+- id: m12-049
+  module: 12
+  lesson: "12.6"
+  subject: hearing-strategy
+  difficulty: 3
+  question: >-
+    Mid-hearing, the judge says: "The photos are clear, but the lease has a painting clause. I suggest
+    ₪8,000." Your written range starts at ₪9,000, but you now see the clause is a real risk. What is the
+    most reasoned response?
+  options:
+    - >-
+      Refuse, because your written range can never be changed.
+    - >-
+      Reassess the risk; counter near ₪8,500 or accept with a date.
+    - >-
+      Accept, and ask the judge to rule later on the clause's validity.
+    - >-
+      Ask to withdraw the claim and refile it before a different judge.
+  correct: 1
+  explanation: >-
+    Your range is a tool, not a cage: the judge's comment is new information about risk. A reasoned
+    counter or acceptance with a payment date is sound; refiling to change judges is not.
+- id: m12-050
+  module: 12
+  lesson: "12.6"
+  subject: logistics
+  difficulty: 3
+  question: >-
+    Three weeks before the hearing you learn you will be abroad that day. What is the right step?
+  options:
+    - >-
+      Do nothing; the court will postpone when you do not appear.
+    - >-
+      Send a friend to explain your absence at the hearing.
+    - >-
+      Apply in writing now to postpone, with reasons and proof.
+    - >-
+      Withdraw the claim and refile it after you return.
+  correct: 2
+  explanation: >-
+    If you do not appear and the defendant does, your claim is dismissed (reg. 11). A timely written
+    application for postponement with proof is the proper way; a friend cannot represent you without approval.
+- id: m12-051
+  module: 12
+  lesson: "12.7"
+  subject: leave-period
+  difficulty: 1
+  question: >-
+    What is the period to apply for leave to appeal a small-claims judgment in a case opened in 2026?
+  options:
+    - >-
+      15 days.
+    - >-
+      45 days.
+    - >-
+      30 days.
+    - >-
+      60 days.
+  correct: 2
+  explanation: >-
+    Reg. 16(א) as amended: 30 days for proceedings opened from 11.4.2025; the older 15-day period applies
+    to earlier proceedings.
+- id: m12-052
+  module: 12
+  lesson: "12.7"
+  subject: counting
+  difficulty: 2
+  question: >-
+    Judgment was given in writing five days after the hearing and sent to you through Net HaMishpat. From
+    when do you count the leave period, under reg. 16א(א)?
+  options:
+    - >-
+      From the day of the hearing.
+    - >-
+      From the day it was served on you.
+    - >-
+      From the day you first opened the file.
+    - >-
+      From the first day after the next recess.
+  correct: 1
+  explanation: >-
+    Counting starts from service of the document; only where the decision was given in the parties'
+    presence is it counted from the hearing.
+- id: m12-053
+  module: 12
+  lesson: "12.7"
+  subject: recess
+  difficulty: 2
+  question: >-
+    Do court recess days count in the small-claims leave-to-appeal period for cases opened from
+    11.4.2025?
+  options:
+    - >-
+      No, recess is always excluded in civil matters.
+    - >-
+      Only Passover recess counts; summer recess does not.
+    - >-
+      Only if the defendant is a company.
+    - >-
+      Yes, unless the court orders otherwise.
+  correct: 3
+  explanation: >-
+    Reg. 16א(ב): recess counts in the periods under the Small Claims Regulations unless the court orders
+    otherwise, unlike the general rule in CPR reg. 179(ב).
+- id: m12-054
+  module: 12
+  lesson: "12.7"
+  subject: stay
+  difficulty: 2
+  question: >-
+    The losing company filed for leave to appeal. What does that do to your right to enforce?
+  options:
+    - >-
+      Nothing by itself; only a court-ordered stay stops it.
+    - >-
+      It suspends enforcement until the district court decides.
+    - >-
+      It cancels the judgment until leave is refused.
+    - >-
+      It requires you to deposit security before enforcing.
+  correct: 0
+  explanation: >-
+    CPR reg. 145(א), applied via Small Claims Regulations reg. 16(ג): an appeal does not stay execution. The
+    company must ask for a stay; the court may set conditions such as depositing the sum.
+- id: m12-055
+  module: 12
+  lesson: "12.7"
+  subject: execution-timing
+  difficulty: 1
+  question: >-
+    The judgment says "payable within 30 days". When may you first open an execution file?
+  options:
+    - >-
+      The day after the judgment.
+    - >-
+      After the 30-day payment period.
+    - >-
+      Only after leave to appeal is refused.
+    - >-
+      Only after a confirmation hearing.
+  correct: 1
+  explanation: >-
+    Execution Law s. 6(ב): after the date set in the judgment for payment. No confirmation hearing is
+    needed, and a pending application for leave does not stop you.
+- id: m12-056
+  module: 12
+  lesson: "12.7"
+  subject: leave-grounds
+  difficulty: 3
+  question: >-
+    Which ground gives an application for leave to appeal the best chance?
+  options:
+    - >-
+      The judge preferred the defendant's witness to yours.
+    - >-
+      The judge awarded ₪7,000 instead of the ₪8,000 you claimed.
+    - >-
+      You found a new receipt you forgot to bring to the hearing.
+    - >-
+      The judge refused your key document on a wrong legal view.
+  correct: 3
+  explanation: >-
+    Leave is for errors of law and serious procedural failures, such as refusing essential evidence on a
+    wrong legal view. Weighing credibility and amounts is for the trial judge; late evidence is rarely admitted.
+- id: m12-057
+  module: 12
+  lesson: "12.7"
+  subject: security
+  difficulty: 2
+  question: >-
+    You are applying for leave to appeal a small-claims judgment. What does CPR reg. 135 require on filing?
+  options:
+    - >-
+      Security for the respondent's costs, unless exempted.
+    - >-
+      Paying the full judgment sum into the court.
+    - >-
+      Attaching a lawyer's certificate of merit.
+    - >-
+      Obtaining the respondent's written consent.
+  correct: 0
+  explanation: >-
+    Reg. 135(א) requires security in the amount in the Third Schedule (which lists one for leave to appeal a
+    small-claims decision); the court may exempt or change it (reg. 135(ב)).
+- id: m12-058
+  module: 12
+  lesson: "12.7"
+  subject: collection
+  difficulty: 3
+  question: >-
+    You won ₪6,700. The debtor, a private person, has not paid, and you are tempted to wait a year or two
+    before going to the Execution Office. What is the main legal risk?
+  options:
+    - >-
+      None; a judgment can be executed at any time with full interest.
+    - >-
+      The judgment expires after 60 days without execution.
+    - >-
+      Filing over a year late limits interest; assets may also vanish.
+    - >-
+      The debtor gains an automatic right to pay in instalments.
+  correct: 2
+  explanation: >-
+    Execution Law s. 6(ב2) limits interest where the creditor files more than a year after it could; in
+    practice, delay also gives the debtor time to move assets.
+- id: m12-059
+  module: 12
+  lesson: "12.8"
+  subject: section-20
+  difficulty: 1
+  question: >-
+    What does s. 20 of the Bar Association Law reserve to lawyers?
+  options:
+    - >-
+      Reading legislation and court decisions in a public library.
+    - >-
+      Filing your own small claim in your own name.
+    - >-
+      Explaining court procedure to members of your family for free.
+    - >-
+      Representing and advising others, as an occupation or for pay.
+  correct: 3
+  explanation: >-
+    Section 20 reserves representation, drafting for others and legal advice; it does not stop you acting
+    for yourself or explaining what you learned.
+- id: m12-060
+  module: 12
+  lesson: "12.8"
+  subject: legal-aid
+  difficulty: 1
+  question: >-
+    Which three tests does Legal Aid generally apply to a civil applicant?
+  options:
+    - >-
+      Subject, means and merit.
+    - >-
+      Age, citizenship and residence.
+    - >-
+      Income, employment and marital status.
+    - >-
+      Urgency, complexity and publicity.
+  correct: 0
+  explanation: >-
+    Legal Aid covers listed matters (reg. 5), for those who cannot afford a lawyer (Legal Aid Law s. 3 and
+    reg. 2), where the case has a reasonable chance; some Schedule groups are exempt from the means test.
+- id: m12-061
+  module: 12
+  lesson: "12.8"
+  subject: legal-aid-scope
+  difficulty: 2
+  question: >-
+    Legal Aid accepts your small-claims matter but does not appoint a lawyer. What may it do instead under
+    reg. 4(א)(5)?
+  options:
+    - >-
+      Refer you to a paid private lawyer at a discount.
+    - >-
+      Have you appear yourself, with written instructions.
+    - >-
+      File the claim in its own name on your behalf.
+    - >-
+      Ask the court to decide on the papers without a fee.
+  correct: 1
+  explanation: >-
+    The head of the office may decide that the applicant will appear in person and give written
+    instructions on how to proceed, a form of help that fits small claims.
+- id: m12-062
+  module: 12
+  lesson: "12.8"
+  subject: decision-checklist
+  difficulty: 3
+  question: >-
+    Which situation is an amber answer on the checklist (get advice), not a red one?
+  options:
+    - >-
+      A counterclaim above the small-claims ceiling.
+    - >-
+      A police complaint has been filed against you over the dispute.
+    - >-
+      The case turns on a statute with no clear answer.
+    - >-
+      The real issue turns out to be ownership of land.
+  correct: 2
+  explanation: >-
+    An unclear statute calls for advice; counterclaims above the ceiling, criminal exposure and land rights
+    are red answers that call for a lawyer.
+- id: m12-063
+  module: 12
+  lesson: "12.8"
+  subject: free-help
+  difficulty: 2
+  question: >-
+    You need to know whether your hearing has been moved and which documents the registry still needs. Who
+    is the most suitable first contact?
+  options:
+    - >-
+      The Bar Association's ethics committee.
+    - >-
+      The Consumer Protection Authority.
+    - >-
+      The Execution Office call centre.
+    - >-
+      The Judiciary's information centre.
+  correct: 3
+  explanation: >-
+    The Judiciary's information centre gives general information and information on pending cases; have
+    your case number ready. It does not give legal advice.
+- id: m12-064
+  module: 12
+  lesson: "12.8"
+  subject: lawyer-decision
+  difficulty: 3
+  question: >-
+    After your small claim, the defendant's lawyer writes that he will sue you for defamation over your
+    Facebook post about the dispute unless you delete it. What is the best response?
+  options:
+    - >-
+      Get advice promptly, post nothing more, keep a copy.
+    - >-
+      Ignore it; small-claims parties are immune from defamation suits.
+    - >-
+      Post the lawyer's letter publicly to show you are not intimidated.
+    - >-
+      Delete everything at once, including your copies, and deny it.
+  correct: 0
+  explanation: >-
+    A defamation threat is an amber-to-red answer on the checklist. Get advice, avoid escalating, and keep
+    a copy: destroying material can look like destroying evidence.

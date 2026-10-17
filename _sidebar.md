@@ -109,3 +109,13 @@
   - [80 · Empirical legal studies: reading data about courts](lessons/module-11/lesson-04.md)
   - [81 · Practice lab: should you sue? Expected value, costs, risk and time](lessons/module-11/lesson-05.md)
   - [Module 11 quiz](assessments/module-11-quiz.md)
+- **Module 12 — Clinic I: Your Everyday Civil Dispute, Start to Finish (about 30 hours)**
+  - [82 · Choosing a dispute and the facts file](lessons/module-12/lesson-01.md)
+  - [83 · Evidence you can collect lawfully](lessons/module-12/lesson-02.md)
+  - [84 · The demand letter and negotiating a settlement](lessons/module-12/lesson-03.md)
+  - [85 · Consumer complaints and regulators before court](lessons/module-12/lesson-04.md)
+  - [86 · Writing the small-claims statement](lessons/module-12/lesson-05.md)
+  - [87 · The hearing: presenting, questioning, settlement proposals](lessons/module-12/lesson-06.md)
+  - [88 · After judgment: payment, enforcement, request for leave to appeal](lessons/module-12/lesson-07.md)
+  - [89 · When to stop and get a lawyer, and where to get free help](lessons/module-12/lesson-08.md)
+  - [Module 12 quiz](assessments/module-12-quiz.md)

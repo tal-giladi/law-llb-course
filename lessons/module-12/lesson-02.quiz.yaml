@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You call your landlord and, without telling him, record the call in which he admits he has no
+    painter's quote. Under the Eavesdropping Law, what is the status of this recording?
+  options:
+    - >-
+      It is secret eavesdropping, because he did not know he was being recorded.
+    - >-
+      It is lawful only if you warned him at the start of the call.
+    - >-
+      It is not secret eavesdropping, because you are a party to the conversation.
+    - >-
+      It is lawful, but a small claims court may never hear a recording.
+  correct: 2
+  explanation: >-
+    "האזנת סתר" is listening without the consent of any party to the conversation (s. 1). A participant
+    who records his own conversation is not eavesdropping on another's conversation.
+- id: q2
+  question: >-
+    After a meeting at the shop, you leave your phone recording on the counter and come back an hour later.
+    It caught the manager telling staff to "never refund that customer". What should you do with it?
+  options:
+    - >-
+      Do not use or share it; recording others without consent is a crime.
+    - >-
+      Submit it, because the small claims court is not bound by the rules of evidence.
+    - >-
+      Submit only the relevant sentence, which avoids the privacy problem.
+    - >-
+      Send it to the manager first, so he can consent before you use it.
+  correct: 0
+  explanation: >-
+    You were not a party; no party consented, so this is secret eavesdropping (s. 2), and its product is
+    inadmissible (s. 13). Using or disclosing it is itself an offence. Relaxed evidence rules do not cure it.
+- id: q3
+  question: >-
+    Your neighbour's ex-tenant forwards you screenshots of WhatsApp messages the landlord sent him about
+    "keeping deposits". What is the best way to use that information?
+  options:
+    - >-
+      Attach the screenshots as an exhibit; anything relevant is admissible in small claims.
+    - >-
+      Ask the ex-tenant to testify about messages he received, rather than using his screenshots yourself.
+    - >-
+      Post the screenshots online first, so that they become public and therefore usable.
+    - >-
+      Ask the landlord's consent in your demand letter, then attach them anyway if he refuses.
+  correct: 1
+  explanation: >-
+    Messages not addressed to you are writings "not meant for publication" (Privacy Law s. 2(5)); using
+    them risks exclusion (s. 32) and a counterclaim. The addressee can testify, and may choose to produce them.
+- id: q4
+  question: >-
+    A delivery truck damaged your parked car outside a supermarket that has cameras. What is the most
+    useful step today?
+  options:
+    - >-
+      Wait for the court to order the footage after you file the claim.
+    - >-
+      Photograph the cashier's screen when nobody is watching.
+    - >-
+      Ask a friend who works there to copy the footage to a USB drive.
+    - >-
+      Write to the supermarket today asking it to preserve and release the footage.
+  correct: 3
+  explanation: >-
+    Footage is often overwritten within days. A written request on the day creates a record and gives
+    the business a chance to preserve it; covert copying by an employee creates new legal problems.

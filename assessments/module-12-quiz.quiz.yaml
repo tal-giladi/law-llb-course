@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    Your mother asks you to sue her former landlord for her ₪8,000 deposit because "you did the law
+    course". She would sign whatever you need. What is the right approach for this clinic?
+  options:
+    - >-
+      Sue in your own name after she assigns the deposit claim to you in writing.
+    - >-
+      File in her name and attend the hearing for her with a power of attorney.
+    - >-
+      Help her understand the steps, and let her file and attend in her own name.
+    - >-
+      Ask the court to appoint you as her representative because you are family.
+  correct: 2
+  explanation: >-
+    An assigned right cannot be sued in small claims (Courts Law s. 60(א)), and running someone else's case
+    is reserved to lawyers (Bar Association Law s. 20). She is the party; you may explain, not represent.
+- id: q2
+  question: >-
+    Before suing a moving company that damaged your piano, you record your phone call with its manager, in
+    which he admits the movers dropped it. You did not tell him you were recording. Can you rely on it?
+  options:
+    - >-
+      Yes; you were a party to the call, so it is not secret eavesdropping.
+    - >-
+      No; any recording made without warning is a five-year offence.
+    - >-
+      Only if a police officer certifies the recording before the hearing.
+    - >-
+      Only if the manager later confirms in writing that he consents.
+  correct: 0
+  explanation: >-
+    Secret eavesdropping is listening without the consent of any party (Eavesdropping Law s. 1). A party
+    who records his own conversation is outside the offence; bring the file and a transcript.
+- id: q3
+  question: >-
+    An online store refused to refund a cancelled order and you plan to claim exemplary damages under
+    Consumer Protection Law s. 31א. So far you have only complained in a phone call. What do you do next?
+  options:
+    - >-
+      File the claim now; the phone call is enough to show the request.
+    - >-
+      Complain to the Consumer Protection Authority, which will award the damages.
+    - >-
+      Post a public review first, so that the court sees you warned the store.
+    - >-
+      Send the store a written request by email, then sue if it is not met.
+  correct: 3
+  explanation: >-
+    A claim for exemplary damages requires a prior written request, email included (s. 31א(ב)). The
+    Authority does not award damages, and public posts are not the required request.
+- id: q4
+  question: >-
+    Your bank charged a fee you never agreed to. The bank's own complaints unit refused a refund. You prefer
+    not to go to court for ₪900. What is the most suitable next step?
+  options:
+    - >-
+      A complaint to the Consumer Protection and Fair Trade Authority's price-control unit.
+    - >-
+      A complaint to the Bank of Israel's Banking Supervision unit, attaching the bank's answer.
+    - >-
+      A petition to the High Court of Justice against the bank's decision.
+    - >-
+      An execution file against the bank for the ₪900, attaching your statements.
+  correct: 1
+  explanation: >-
+    The Supervisor of Banks investigates complaints about banks (Banking (Service to Customer) Law s. 16)
+    after you went to the bank first. It costs nothing, though its findings do not stop limitation.
+- id: q5
+  question: >-
+    Spot the main problem in this draft small claim filed in 2026: eight pages of narrative, exhibits
+    attached at the end without numbers, no statement of hearing preference, signed declaration included.
+  options:
+    - >-
+      The declaration should be omitted because small claims need no declaration.
+    - >-
+      The exhibits should be held back until the defendant files a defence.
+    - >-
+      The body exceeds five pages and lacks the required items and exhibit references.
+    - >-
+      The claim must first be approved by the court's registrar as complete.
+  correct: 2
+  explanation: >-
+    For proceedings opened from 11.4.2025 the body may not exceed five pages (reg. 3(ה)) and must include,
+    among other things, the documents list and the hearing preference (reg. 3(ג)); exhibits should be
+    numbered and referred to in the facts.
+- id: q6
+  question: >-
+    At the hearing, the judge proposes that the shop pay you ₪3,000 of the ₪4,200 claimed. Your written
+    walk-away figure is ₪3,500, and the judge's questions suggested he finds your receipts convincing.
+    What is a sound response?
+  options:
+    - >-
+      Accept immediately, since refusing a judge's proposal angers the court.
+    - >-
+      Refuse and announce that you will appeal any judgment below ₪4,200.
+    - >-
+      Ask the judge to decide by way of compromise, which guarantees the full sum.
+    - >-
+      Say respectfully that you prefer a judgment, or propose ₪3,800 with a payment date.
+  correct: 3
+  explanation: >-
+    A settlement proposal may be refused; you then get a judgment on the merits. Answering from your
+    written range, with a payment date, is the prepared response. A s. 79א(א) compromise decision
+    guarantees nothing.
+- id: q7
+  question: >-
+    You were absent from your hearing because the court's notice went to an old address. Judgment was
+    given for the defendant and served on you 10 days ago. What is the first step?
+  options:
+    - >-
+      Apply within 30 days of service to set the decision aside.
+    - >-
+      Apply to the district court for leave to appeal on the merits.
+    - >-
+      File a new small claim on the same facts at a different court.
+    - >-
+      Complain to the Judicial Ombudsman, which can cancel the judgment.
+  correct: 0
+  explanation: >-
+    A decision given in a party's absence can be set aside on an application within 30 days of service
+    (reg. 12), explaining why you did not appear. A new claim on the same cause is barred, and the
+    Ombudsman does not decide cases.
+- id: q8
+  question: >-
+    Your case was opened in September 2025. Judgment was given in both parties' presence on 15 July 2026
+    and you want leave to appeal. Which statement is correct?
+  options:
+    - >-
+      You have 15 days, counted from service, and recess is excluded.
+    - >-
+      You have 30 days from 15 July, and the summer recess days count.
+    - >-
+      You have 30 days from the end of the summer recess.
+    - >-
+      You have 60 days, because appeals in civil cases always take 60.
+  correct: 1
+  explanation: >-
+    For proceedings opened from 11.4.2025 the period is 30 days (reg. 16(א)); a decision given in the
+    parties' presence is counted from the hearing, and recess counts unless the court orders otherwise
+    (reg. 16א).
+- id: q9
+  question: >-
+    You won ₪9,800 payable within 30 days. On day 25 the defendant applies for leave to appeal and does
+    not ask for a stay. On day 31 nothing has been paid. What do you do?
+  options:
+    - >-
+      Wait for the district court's decision, since enforcement is frozen meanwhile.
+    - >-
+      Ask the small claims court to double the sum because of the delay.
+    - >-
+      Send a payment request, then open an execution file; there is no stay.
+    - >-
+      Withdraw the judgment so the defendant cannot pursue the application.
+  correct: 2
+  explanation: >-
+    An application for leave does not stay enforcement (CPR reg. 145(א)); the payment date has passed, so
+    the Execution Office may be approached (Execution Law s. 6(ב)).
+- id: q10
+  question: >-
+    Which situation in your clinic file is a red answer on the lesson's decision checklist, meaning get a
+    lawyer now?
+  options:
+    - >-
+      The defendant is a large company and sent a polite answer from customer service.
+    - >-
+      The other side's defence quotes a statute you had not read before.
+    - >-
+      The hearing is in five weeks and you have not yet printed your exhibits.
+    - >-
+      The defendant counterclaims ₪60,000 and the judge mentions a transfer.
+  correct: 3
+  explanation: >-
+    A counterclaim above the small-claims ceiling, with a possible transfer to the magistrates' court,
+    changes the stakes and procedure. The other items are things you can handle with preparation.

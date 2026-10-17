@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You sued a contractor for ₪7,000 in small claims. His defence includes a counterclaim for ₪58,000.
+    According to the lesson's checklist, what should you do?
+  options:
+    - >-
+      Carry on alone; small claims judges protect unrepresented parties.
+    - >-
+      Withdraw your claim at once so that the counterclaim disappears too.
+    - >-
+      Ignore the counterclaim, because small claims cannot hear it anyway.
+    - >-
+      Treat it as a red flag and get a lawyer's advice before the next step.
+  correct: 3
+  explanation: >-
+    A counterclaim above the ceiling changes the case: it may be transferred to the magistrates' court
+    and your exposure is now far larger than your claim. That is a red answer on the checklist.
+- id: q2
+  question: >-
+    Your neighbour, who speaks little Hebrew, asks you to write and file his small claim against a shop,
+    and offers to pay you ₪300. What does the law say?
+  options:
+    - >-
+      You may, because small claims allow any helper to represent a party.
+    - >-
+      You may not do it for pay; help him file in his own name or find free help.
+    - >-
+      You may, if he signs a power of attorney in your favour beforehand.
+    - >-
+      You may, as long as you do not go with him to the hearing itself.
+  correct: 1
+  explanation: >-
+    Drafting legal documents or representing others for pay is reserved to lawyers (Bar Association Law
+    s. 20); a non-lawyer may represent in small claims only with the court's approval and never for pay
+    (Courts Law s. 63). Point him to Legal Aid, a volunteer desk or an interpreter.
+- id: q3
+  question: >-
+    A 72-year-old was pressured at home into buying an overpriced product, exploiting her poor Hebrew.
+    Her income is above the usual Legal Aid ceiling. Can Legal Aid help?
+  options:
+    - >-
+      Possibly yes: a Schedule item for people aged 65+ waives the means test.
+    - >-
+      No, because Legal Aid never handles any kind of consumer dispute.
+    - >-
+      No, because her income is above the ceiling, which applies to everyone.
+    - >-
+      Only if she first wins a small claim and the shop refuses to pay.
+  correct: 0
+  explanation: >-
+    Schedule item 16 of the Legal Aid Law (5786) waives the means test for people aged 65 and over in
+    proceedings for consumer deceit or unfair influence exploiting difficulty, weakness or language problems.
+- id: q4
+  question: >-
+    You booked a one-hour paid consultation about your deposit claim. What will make it most useful?
+  options:
+    - >-
+      Bringing every paper you have, unsorted, so nothing is missed.
+    - >-
+      Asking the lawyer to explain small-claims procedure from the start.
+    - >-
+      A one-page summary with the next deadline, and five written questions.
+    - >-
+      Arriving without documents, so the lawyer forms an unbiased view.
+  correct: 2
+  explanation: >-
+    A summary (parties, claim, amount, key documents, stage, next deadline) and focused questions let the
+    lawyer spend the hour on judgement rather than on reading or explaining procedure you already know.

@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your company's client owes the company ₪8,000. The company cannot sue in small claims, so you
+    consider suing there yourself. Is this a suitable clinic dispute?
+  options:
+    - >-
+      Yes, because you own the company and the money will reach you anyway.
+    - >-
+      No, the claim belongs to the company; you are not the creditor in your own right.
+    - >-
+      Yes, if the company first assigns the debt to you in writing.
+    - >-
+      Yes, as long as the amount stays within the small-claims ceiling.
+  correct: 1
+  explanation: >-
+    Only an individual suing in his own right may use small claims, and an assigned right is excluded
+    (Courts Law s. 60(א)). The company is the creditor and must sue in the magistrates' court.
+- id: q2
+  question: >-
+    A shop's sign reads "Mega Phone", the receipt reads "מ.פ. סלולר בע״מ, ח״פ 51-xxxxxxx". What goes in the
+    "opponent" line of your facts file?
+  options:
+    - >-
+      "Mega Phone", because that is the name on the sign and the website.
+    - >-
+      The name of the branch manager who refused the refund.
+    - >-
+      "מ.פ. סלולר בע״מ" and its number, checked with the Registrar.
+    - >-
+      Both the sign name and the mall management company, to be safe.
+  correct: 2
+  explanation: >-
+    You sue the legal person that owes the money. The receipt names it; the Registrar confirms the exact
+    name and registered address, which you need for the claim and later for enforcement.
+- id: q3
+  question: >-
+    In 2019 a friend borrowed ₪6,000. In March 2026 he sent you a WhatsApp: "I know I owe you the 6,000,
+    I'll pay soon." When does the limitation period now end, under Prescription Law ss. 5 and 9?
+  options:
+    - >-
+      Seven years from March 2026, because a written acknowledgement restarts the period.
+    - >-
+      Seven years from the loan in 2019, because messages never affect limitation.
+    - >-
+      Never, because a friend's loan is a moral debt that cannot become time-barred.
+    - >-
+      Three years from the message, the shorter period that applies to private loans.
+  correct: 0
+  explanation: >-
+    A written acknowledgement of the right, without a limitation plea, starts the period again from the
+    day of the acknowledgement (s. 9). Keep that message as an exhibit.
+- id: q4
+  question: >-
+    Which chronology row is written the way a facts file needs it?
+  options:
+    - >-
+      "August: the landlord behaved dishonestly and ignored me for weeks."
+    - >-
+      "The landlord always planned to keep my money, as everyone in the building knows."
+    - >-
+      "Summer 2026: we argued a lot about the deposit on the phone."
+    - >-
+      "2.8.2026: landlord wrote on WhatsApp 'אחזיר לך את הפיקדון' (exhibit 4)."
+  correct: 3
+  explanation: >-
+    A chronology row is one dated fact, in the words used, pointing to the exhibit that proves it.
+    Opinions, rumours and vague dates do not help the judge and cannot be proved.
