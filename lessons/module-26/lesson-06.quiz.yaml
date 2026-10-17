@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    Your father's will was published by the Registrar ten days ago. You believe his carer pressured
+    him. No order has been given yet. What is your correct first step?
+  options:
+    - >-
+      Wait for the order and then appeal to the Family Court within 15 days of it.
+    - >-
+      File an objection with the Registrar, with an affidavit and fee, before the order is given.
+    - >-
+      File a police complaint, since the Registrar cannot act while a complaint is open.
+    - >-
+      Ask the Registrar to cancel the order later under s. 72 when it is issued.
+  correct: 1
+  explanation: >-
+    Any interested person may object within the published period and while no order has been given
+    (s. 67); the objection moves the file to the Family Court (s. 67א). Section 72 is for new facts
+    after an order, and the Registrar may refuse facts you could have raised earlier.
+- id: q2
+  question: >-
+    The heirs of a childless man are his widow, his brother and two nephews. The widow wants to file
+    online to save on the fee. What should she expect?
+  options:
+    - >-
+      Online filing is fine, since the spouse may always use the online service.
+    - >-
+      She must go to the Family Court, because nephews cannot be heirs before the Registrar.
+    - >-
+      She must apply to a religious court, since siblings' shares need religious law.
+    - >-
+      Kol-Zchut says files with siblings or nephews as heirs are handled on paper only.
+  correct: 3
+  explanation: >-
+    According to the Registrar's practice as reported by Kol-Zchut, applications where heirs include
+    siblings, nephews, grandparents, uncles or cousins are filed manually, at the higher paper fee
+    (⚠️ check before filing). The Registrar still decides; no court or religious court is needed.
+- id: q3
+  question: >-
+    Two years after a succession order, Tamar's brother sold the inherited flat to a buyer in good
+    faith. Then Tamar finds a valid will leaving the flat to her. What is the likely position?
+  options:
+    - >-
+      The buyer keeps the flat; Tamar's claim is against her brother for what he received.
+    - >-
+      The sale is void and the flat returns to Tamar once the will is probated.
+    - >-
+      The buyer must pay Tamar the flat's value or return it to the estate.
+    - >-
+      Nothing can be done, because orders cannot be changed after two years.
+  correct: 0
+  explanation: >-
+    A person who acquired a right in good faith and for value relying on a valid order is protected
+    even if the order is later changed (s. 73). Tamar can seek probate and amendment of the order and
+    claim against her brother.
+- id: q4
+  question: >-
+    The Registrar refused to cure a missing date in your mother's handwritten will and dismissed your
+    probate application. The decision was served on 1 November. What can you do?
+  options:
+    - >-
+      File a new application at a different Registrar's office in another district.
+    - >-
+      Object to your own application so the file moves to the court automatically.
+    - >-
+      Appeal to the Family Court within fifteen days of service of the decision.
+    - >-
+      Petition the High Court of Justice against the Registrar as an authority.
+  correct: 2
+  explanation: >-
+    A person aggrieved by a Registrar's decision may appeal to the Family Court, heard by a single
+    judge (s. 151א), within fifteen days of service (reg. 46). A second application for the same estate
+    is blocked (reg. 14(ב)(7)).

@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    Yosef died without a will. He leaves his wife Dina (married 30 years), two adult children and his
+    father. The family car and the furniture were his. How is the estate divided?
+  options:
+    - >-
+      Dina takes the car and furniture, then half of the rest; the children share the other half.
+    - >-
+      Dina, the two children and the father each take a quarter of everything, car included.
+    - >-
+      Dina takes two-thirds of everything, because the marriage lasted more than three years.
+    - >-
+      The children take everything and Dina relies only on her property-relations half instead.
+  correct: 0
+  explanation: >-
+    Section 11(א) gives the spouse the household movables and passenger car, then half of the rest
+    where there are children. Children exclude parents (s. 12), so the father does not inherit. The
+    two-thirds rule applies only when the closest relatives are siblings or grandparents.
+- id: q2
+  question: >-
+    Before dividing the estate of a husband who married in 1990, his widow's sister says "half the
+    apartment registered to him is already hers". What is the correct starting point?
+  options:
+    - >-
+      There is no such rule; everything registered in his name is the estate and goes under s. 11.
+    - >-
+      Her balance-of-resources half is separated first; only his half of the asset is the estate.
+    - >-
+      The widow must choose between her property-relations half and her share as an heir.
+    - >-
+      Half is hers only if the couple signed a property agreement that a court approved.
+  correct: 1
+  explanation: >-
+    Section 5(א) of the Spouses (Property Relations) Law applies when a marriage ends by death, and
+    s. 11(ג) of the Succession Law says that what the spouse receives under it is not deducted from
+    the inheritance. She gets both, subject to exclusions such as pre-marriage assets.
+- id: q3
+  question: >-
+    After her mother's death, Michal wants to give her share of the estate to her mother's best
+    friend, who nursed her mother for years. She plans to file a renunciation "in favour of" the
+    friend. What happens?
+  options:
+    - >-
+      It works, because an heir may renounce her share in favour of any person she chooses.
+    - >-
+      It works only with court approval, because the renunciation benefits a non-relative.
+    - >-
+      It cannot favour the friend; she should inherit and then make a gift to the friend.
+    - >-
+      It works only if all the other heirs sign the renunciation before the order is given.
+  correct: 2
+  explanation: >-
+    Section 6(ב) limits directed renunciation to the deceased's spouse, child or sibling; a general
+    renunciation adds her share to the other heirs (s. 15). To benefit the friend she inherits and
+    then gives the asset as a gift, with any tax consequences of that gift.
+- id: q4
+  question: >-
+    Haim died leaving his wife and no children. His parents died long ago; his brother Moti is alive
+    and his sister Orit died leaving a daughter, Liat. The couple had been married two years and
+    lived in Haim's apartment. What does the widow receive from the apartment?
+  options:
+    - >-
+      The whole apartment, because a widow always keeps the family home she lived in.
+    - >-
+      Half of it, because siblings are treated like children when fixing the spouse's share.
+    - >-
+      Nothing from it until Moti and Liat agree with her on a division of the estate.
+    - >-
+      Two-thirds of it; the whole-apartment rule needs three years of marriage.
+  correct: 3
+  explanation: >-
+    With siblings or their descendants as the closest relatives, the spouse takes two-thirds of the
+    rest (s. 11(א)(2)). The whole apartment goes to the spouse only after three years of marriage and
+    living there. Moti and Liat (by representation, s. 14) share the remaining third.

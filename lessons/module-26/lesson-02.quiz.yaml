@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    Shoshana printed a will from her computer, signed and dated it by hand, and put it in a drawer. No
+    one else saw it. After her death her son asks the Registrar to cure the defect under s. 25. What is
+    the likely result?
+  options:
+    - >-
+      Cured, because the signature and date are in her hand and no one doubts her wishes.
+    - >-
+      Cured only if a handwriting expert confirms that the signature is genuine.
+    - >-
+      Not cured, but it can be treated as an oral will made in her own words.
+    - >-
+      Not cured: no form's basic element exists, since the text is not in her handwriting.
+  correct: 3
+  explanation: >-
+    Section 25 requires the basic element of a form. For a handwritten will that is the whole will in
+    the testator's hand (s. 25(ב)(1)); a printed text has no witnesses either, so no form applies and
+    the estate passes by law.
+- id: q2
+  question: >-
+    Rami wants a will that is hardest to challenge on the question "did he really make it, and when?".
+    Which option gives statutory prima facie proof of who made it and on what day and place?
+  options:
+    - >-
+      A will made before a notary, which counts as a will before an authority.
+    - >-
+      A handwritten will written at home and kept in a bank safe-deposit box.
+    - >-
+      A witnessed will signed in front of his two adult children as witnesses.
+    - >-
+      An oral will recorded on video and kept on his phone for the family.
+  correct: 0
+  explanation: >-
+    A notary counts as a judge for s. 22 (s. 22(ז)), and a will before an authority is prima facie
+    evidence that the named person made it on the stated day and place (s. 22(ו)). Children as
+    witnesses would also void any gift to them (s. 35).
+- id: q3
+  question: >-
+    During a rocket barrage, Hassan, trapped and injured, tells two neighbours how his savings should
+    be divided. He is rescued and recovers fully, and two months later he dies in a car accident. The
+    neighbours had deposited a memorandum. Is the oral will valid?
+  options:
+    - >-
+      Yes, because the memorandum was deposited with the Registrar as the law requires.
+    - >-
+      No, it lapsed one month after the danger passed while he was still alive.
+    - >-
+      Yes, if a court is satisfied under s. 25 that it reflected his free and true wishes.
+    - >-
+      No, because oral wills are valid only if made in a hospital before medical staff.
+  correct: 1
+  explanation: >-
+    Section 23(ג) says an oral will is void one month after the circumstances that justified it ended,
+    if the testator is still alive. Curing under s. 25 cannot revive a will that lapsed by law.
+- id: q4
+  question: >-
+    Nili deposited her handwritten will with the Registrar in 2022. In 2026 she wants to deposit a new
+    one. What should she expect?
+  options:
+    - >-
+      She can deposit the new will next to the old one, and both are kept.
+    - >-
+      She must ask the Registrar's lawyer to cancel the old will by court order first.
+    - >-
+      She takes the old will back in person and deposits the new one; a fee may apply.
+    - >-
+      She cannot change a deposited will; she must make a new will before a notary.
+  correct: 2
+  explanation: >-
+    The testator may take back a deposited will at any time (s. 21(ג); reg. 6(ו)). The deposit fee is
+    waived only for a first deposit or after five years without one, so a fee applies here.

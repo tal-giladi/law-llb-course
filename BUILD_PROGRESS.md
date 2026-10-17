@@ -48,7 +48,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 23 — Evidence
 - [x] Module 24 — Criminal Procedure
 - [ ] Module 25 — Tax Law
-- [ ] Module 26 — Inheritance and Wills
+- [x] Module 26 — Inheritance and Wills
 - [ ] Module 27 — Planning, Building and Local Government
 - [ ] Module 28 — Insolvency and Execution
 - [ ] Module 29 — Commercial Law: Payments, Liens and Consumer Protection
@@ -59,7 +59,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 26: sub-agent A
+- Module 27: sub-agent A
 - Module 25: sub-agent B
 
 

@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    Three siblings divided their father's bank balance equally a week after receiving the succession
+    order, without publishing any notice. Four months later a supplier sues for a ₪60,000 debt that
+    none of them knew about. What is each sibling's exposure?
+  options:
+    - >-
+      None, because heirs are never personally liable for a parent's debts.
+    - >-
+      Only up to what each received, since none of them knew about the debt.
+    - >-
+      Up to the whole estate's value, since no notice was given and none proved unawareness.
+    - >-
+      Unlimited, because they divided the estate without appointing an administrator.
+  correct: 1
+  explanation: >-
+    Without a creditors' invitation each heir is liable up to the whole estate's value (s. 128(א)),
+    but an heir who proves he did not know of the particular debt is liable only up to what he
+    received. Here they did not know, so the cap is their own share.
+- id: q2
+  question: >-
+    An estate has ₪50,000 in cash. Claims: the funeral and tombstone (₪20,000), a personal loan from a
+    friend (₪40,000) and the widow's claim under the property-relations law (₪30,000). How is the cash
+    applied?
+  options:
+    - >-
+      Funeral ₪20,000 first, then ₪30,000 toward the friend's loan; the widow's claim ranks last.
+    - >-
+      The widow's ₪30,000 first, because spouses always rank above other creditors.
+    - >-
+      All three claims are paid pro rata, about 56% each, because they are all debts.
+    - >-
+      The friend's loan first, because debts of the deceased come before any expenses.
+  correct: 0
+  explanation: >-
+    Section 104(א) ranks funeral costs first, then order and administration costs, then the
+    deceased's debts, and then the spouse's claims from the marriage and under the property-relations
+    law. Pro-rata division applies only within the same rank (s. 104(ב)).
+- id: q3
+  question: >-
+    Hila's husband died; she lived with him in his apartment, which by his will goes to his son from a
+    first marriage. Two weeks after the funeral the son demands she leave. What are her rights?
+  options:
+    - >-
+      None, since the will gave the apartment to the son and he may evict her at once.
+    - >-
+      She may stay free of charge for life, because a widow can never be removed from the home.
+    - >-
+      She may stay six months only if she is also an heir; otherwise she must leave now.
+    - >-
+      She may stay at least three months, and then may continue as the son's tenant under s. 115.
+  correct: 3
+  explanation: >-
+    Anyone who lived with the deceased may stay three months, an heir six (s. 108). A spouse who
+    lived in the deceased's own apartment may continue as tenant of the heir who receives it, on
+    agreed or court-set terms (s. 115).
+- id: q4
+  question: >-
+    A father left his whole estate to charity. His 16-year-old daughter, who lived with him, has no
+    other means of support. What can be done for her?
+  options:
+    - >-
+      Nothing, because freedom of testation lets him leave everything to anyone.
+    - >-
+      She inherits a fixed half of the estate as a protected child's share.
+    - >-
+      A maintenance claim against the estate, filed before it is distributed.
+    - >-
+      An objection on undue influence, since excluding a minor proves pressure.
+  correct: 2
+  explanation: >-
+    Children under 18 who need maintenance may claim it from the estate even when it passes by will
+    (ss. 56–57), and a clause excluding maintenance is void (s. 65(ב)). The claim is filed before
+    distribution (s. 60). There is no forced share in Israeli law.

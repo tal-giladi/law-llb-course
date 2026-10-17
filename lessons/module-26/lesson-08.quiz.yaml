@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    You wrote your will by hand on two pages, but on the second page your daughter wrote the date for
+    you because your hand was tired. What should you do?
+  options:
+    - >-
+      Nothing; the Registrar will cure the defect under s. 25 after your death.
+    - >-
+      Ask your daughter to sign as a witness so the will becomes a witnessed will.
+    - >-
+      Add your own initials next to the date your daughter wrote on the page.
+    - >-
+      Rewrite the will, including the full date, entirely in your own hand.
+  correct: 3
+  explanation: >-
+    Section 19 requires the date to be in the testator's hand. Curing under s. 25 is possible but
+    uncertain, and your daughter as a witness would void any gift to her (s. 35). Rewriting removes
+    the risk.
+- id: q2
+  question: >-
+    Your partner offers to deposit your handwritten will for you at the Registrar's office while you
+    are abroad. What is the correct way to deposit it?
+  options:
+    - >-
+      Your partner may deposit it if you sign a power of attorney before a notary.
+    - >-
+      Only you: in person, or online with the original sent within 45 days.
+    - >-
+      Your partner may deposit it if he signs the envelope as the depositor.
+    - >-
+      Deposit is impossible from abroad, so you must wait until you return.
+  correct: 1
+  explanation: >-
+    Deposit is by the testator personally (s. 21(א); reg. 6). Remote deposit through the
+    Administrator General's site is available, with the original delivered within 45 days (reg. 6ב);
+    no agent may deposit or withdraw it.
+- id: q3
+  question: >-
+    Your will leaves your savings "to my brother Avi". Avi might die before you. Which clause best
+    prevents a gap?
+  options:
+    - >-
+      "If Avi dies before me, his share goes to his children equally, or if none, to my sister."
+    - >-
+      "Avi may decide before his death who will receive the savings in his place."
+    - >-
+      "My executor will choose the best person to receive Avi's share if needed."
+    - >-
+      No clause is needed, because Avi's heirs automatically inherit under his own will.
+  correct: 0
+  explanation: >-
+    A substitute clause is allowed (s. 41). Leaving the choice to Avi or the executor is invalid
+    (ss. 28–29), and while s. 49 gives a predeceased beneficiary's descendants his share, it does not
+    cover the case where he leaves none.
+- id: q4
+  question: >-
+    After writing your will, you realise your pension fund lists your former husband as beneficiary.
+    The will leaves "everything" to your children. Who receives the pension death benefit?
+  options:
+    - >-
+      Your children, because "everything" in a will includes pension benefits.
+    - >-
+      The estate, to be divided between your children and your former husband.
+    - >-
+      Your former husband, unless you change the beneficiary with the fund.
+    - >-
+      Your children, because a later will overrides any earlier nomination.
+  correct: 2
+  explanation: >-
+    Sums payable on death to a named beneficiary are not part of the estate (s. 147). You must update
+    the nomination with the fund; the will does not override it.

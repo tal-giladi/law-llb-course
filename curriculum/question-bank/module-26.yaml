@@ -1,0 +1,1376 @@
+- id: m26-001
+  module: 26
+  lesson: "26.1"
+  subject: intestacy-classes
+  difficulty: 1
+  question: >-
+    Which of these people is not an heir by law under s. 10 of the Succession Law?
+  options:
+    - >-
+      The deceased's first cousin, when no closer relatives survive.
+    - >-
+      The deceased's stepchild who was never adopted by the deceased.
+    - >-
+      The deceased's niece, child of a sister who died earlier.
+    - >-
+      The deceased's grandchild, child of a son who died earlier.
+  correct: 1
+  explanation: >-
+    Heirs by law are the spouse and the descendants of the deceased, of his parents and of his
+    grandparents (s. 10). A stepchild is not a descendant unless adopted (s. 16); cousins, nieces and
+    grandchildren are within the classes.
+- id: m26-002
+  module: 26
+  lesson: "26.1"
+  subject: spouse-share
+  difficulty: 2
+  question: >-
+    A widow is the only heir together with the deceased's grandparents, his parents having died. They
+    were married for ten years and lived in his flat. What does she take from the flat and the rest?
+  options:
+    - >-
+      Half of the flat and half of the rest, like a widow with children.
+    - >-
+      The whole of the rest, because grandparents never inherit beside a spouse.
+    - >-
+      His whole share in the flat, and two-thirds of the rest of the estate.
+    - >-
+      Two-thirds of everything, flat included, with a third to the grandparents.
+  correct: 2
+  explanation: >-
+    With grandparents or siblings as the closest relatives, the spouse takes two-thirds, and after
+    three years of marriage and living in a flat in the estate, the whole share in that flat plus
+    two-thirds of the remainder (s. 11(א)(2)).
+- id: m26-003
+  module: 26
+  lesson: "26.1"
+  subject: representation
+  difficulty: 2
+  question: >-
+    Batsheva left three children: Uri, Gila, and Dan, who died before her leaving three children. No
+    spouse. How is the estate divided?
+  options:
+    - >-
+      Uri ⅓, Gila ⅓, and each of Dan's children 1/9.
+    - >-
+      Uri ½ and Gila ½, since Dan died before his mother.
+    - >-
+      Each of the five living descendants takes ⅕.
+    - >-
+      Uri ¼, Gila ¼, and Dan's children ½ between them.
+  correct: 0
+  explanation: >-
+    Children share equally (s. 13); a predeceased child's children take his share equally (s. 14). Dan's
+    third is divided among his three children.
+- id: m26-004
+  module: 26
+  lesson: "26.1"
+  subject: disqualification
+  difficulty: 3
+  question: >-
+    A son was acquitted of murdering his father after the court accepted self-defence. His sister
+    argues he is disqualified from inheriting under s. 5(א)(1). What is the position since the 2024
+    amendment?
+  options:
+    - >-
+      He is disqualified, because he caused the death intentionally whatever the verdict.
+    - >-
+      He is disqualified unless the father's will expressly forgave him.
+    - >-
+      He is disqualified only from half of his share, by statute.
+    - >-
+      He is not disqualified if he proves a criminal-law defence on the civil standard.
+  correct: 3
+  explanation: >-
+    Section 5(ד) says the disqualification for causing death does not apply to an heir who proves, on
+    the civil standard, circumstances of a defence under the Penal Law, such as self-defence. The court
+    may also limit disqualification for special reasons (s. 5(ג)).
+- id: m26-005
+  module: 26
+  lesson: "26.1"
+  subject: future-inheritance-agreements
+  difficulty: 1
+  question: >-
+    While their mother is alive, two brothers sign a contract: "When mother dies, Eyal takes the flat
+    and Ronen the savings." What is the status of this contract?
+  options:
+    - >-
+      Valid, if both brothers signed it before a lawyer.
+    - >-
+      Valid, but only if their mother countersigns it.
+    - >-
+      Void, as an agreement about a living person's inheritance.
+    - >-
+      Valid, but it binds only the two brothers, not other heirs.
+  correct: 2
+  explanation: >-
+    An agreement about a person's inheritance made during that person's life is void (s. 8(א)). The
+    brothers can make a distribution agreement after the death, or the mother can make a will.
+- id: m26-006
+  module: 26
+  lesson: "26.1"
+  subject: cohabitant
+  difficulty: 2
+  question: >-
+    Orna lived with Benny for 15 years in a shared household; neither was married to anyone else. Benny
+    died without a will, leaving two adult children. What does Orna take?
+  options:
+    - >-
+      Nothing, because only a married spouse is an heir by law.
+    - >-
+      What a spouse would inherit, as a deemed will under s. 55.
+    - >-
+      A quarter, as a compromise between spouse and children.
+    - >-
+      Only maintenance from the estate, never a share in it.
+  correct: 1
+  explanation: >-
+    Section 55 treats the surviving cohabitant as if the deceased had left him or her by will what a
+    spouse would inherit, unless a will provides otherwise (lesson 18.3). Maintenance is also
+    available (s. 57(ג)).
+- id: m26-007
+  module: 26
+  lesson: "26.1"
+  subject: state-inheritance
+  difficulty: 1
+  question: >-
+    A man dies with no spouse, no descendants, no parents or their descendants, and no grandparents or
+    their descendants, and no will. Who inherits?
+  options:
+    - >-
+      The State, which uses the estate for education, science, health and welfare.
+    - >-
+      His closest relative of any degree, such as a second cousin.
+    - >-
+      The Administrator General, who holds it until a relative appears.
+    - >-
+      The local authority where he lived, for its welfare budget.
+  correct: 0
+  explanation: >-
+    Without an heir under ss. 10–16, the State inherits as an heir by law (s. 17(א)) and must use the
+    estate for education, science, health and welfare, with possible grants to dependants (s. 17(ב)).
+- id: m26-008
+  module: 26
+  lesson: "26.2"
+  subject: will-forms
+  difficulty: 1
+  question: >-
+    Which of these is not one of the four statutory forms of a will?
+  options:
+    - >-
+      A will made before a member of a religious court.
+    - >-
+      An oral will by a person facing death, before two witnesses.
+    - >-
+      A will written, dated and signed in the testator's own hand.
+    - >-
+      A video recording of the testator stating his wishes.
+  correct: 3
+  explanation: >-
+    Section 18 lists handwritten, witnessed, before an authority and oral wills. A video is not a form
+    of will; it may be evidence of intention, but without a form's basic element s. 25 cannot cure it.
+- id: m26-009
+  module: 26
+  lesson: "26.2"
+  subject: witnessed-will
+  difficulty: 2
+  question: >-
+    Spot the mistake. A typed will reads: "Signed before the witnesses Moshe Levi (my son-in-law) and
+    Shira Levi (my daughter), who sign below; I leave my flat to my daughter Shira." What is wrong?
+  options:
+    - >-
+      Nothing; relatives may witness a will if they are adults.
+    - >-
+      A typed will can never be valid without a notary.
+    - >-
+      The gift to Shira is void because she was a witness.
+    - >-
+      A will must be witnessed by three people when it gives away land.
+  correct: 2
+  explanation: >-
+    A provision benefiting a witness or a witness's spouse is void (s. 35). The form may still be valid
+    (s. 20), and the rest of the will stands, but the flat would pass under the rest of the will or by law.
+- id: m26-010
+  module: 26
+  lesson: "26.2"
+  subject: authority-will
+  difficulty: 2
+  question: >-
+    Mustafa cannot read and wants a will that cannot easily be challenged. What is the best route?
+  options:
+    - >-
+      A will before an authority, read to him and confirmed.
+    - >-
+      A handwritten will, which a relative writes for him while he signs.
+    - >-
+      A witnessed will that his son reads aloud and signs as one witness.
+    - >-
+      An oral will before two friends, recorded later from memory.
+  correct: 0
+  explanation: >-
+    A will before an authority may be stated orally; the text is read to the testator in a language he
+    understands (s. 22(ב)–(ג)), and it is prima facie evidence of making (s. 22(ו)). A handwritten will
+    must be in his own hand; an oral will is only for emergencies.
+- id: m26-011
+  module: 26
+  lesson: "26.2"
+  subject: s25-curing
+  difficulty: 3
+  question: >-
+    A handwritten will, wholly in the testator's hand and signed, has no date. The testator's sister,
+    who benefits under an earlier will, claims it was written when he was confused. Can the Registrar
+    uphold it under s. 25 without a hearing?
+  options:
+    - >-
+      Yes, because the basic element is present and a date is only a detail.
+    - >-
+      Yes, if the sister does not file a formal objection within the period.
+    - >-
+      No, because a handwritten will without a date can never be cured.
+    - >-
+      Not while doubt about free and true wishes is raised; an objection sends it to court.
+  correct: 3
+  explanation: >-
+    The basic element (whole will in his hand) is present, but s. 25 requires no doubt that it reflects
+    free and true wishes. A raised doubt, especially with an objection (s. 67א), moves the matter to the
+    Family Court.
+- id: m26-012
+  module: 26
+  lesson: "26.2"
+  subject: deposit
+  difficulty: 1
+  question: >-
+    What does depositing a handwritten will with the Registrar of Inheritance prove after the testator's
+    death, if it stayed deposited?
+  options:
+    - >-
+      That the will is valid and cannot be challenged on capacity.
+    - >-
+      Prima facie that he made it, by the deposit date.
+    - >-
+      That the will was read and approved by the Registrar's lawyer.
+    - >-
+      That no later will exists, so it must be probated.
+  correct: 1
+  explanation: >-
+    Section 21(ב) makes a deposited will prima facie evidence that the named testator made it, at the
+    latest on the deposit date. Capacity, influence and later wills remain open.
+- id: m26-013
+  module: 26
+  lesson: "26.2"
+  subject: oral-will
+  difficulty: 2
+  question: >-
+    Two witnesses heard an oral will from a dying neighbour but never wrote it down or deposited it.
+    He died the next day. What is the main problem?
+  options:
+    - >-
+      The witnesses failed to record and deposit a memorandum as s. 23(ב) requires.
+    - >-
+      An oral will is valid only if made in Hebrew before Israeli citizens.
+    - >-
+      Oral wills are valid only for movable property, not for land.
+    - >-
+      An oral will lapses on the testator's death unless confirmed in writing.
+  correct: 0
+  explanation: >-
+    The witnesses must record the words with the date and circumstances, sign and deposit them as soon
+    as possible (s. 23(ב)). Without a memorandum, proof is very hard; s. 25 may help only if the basic
+    element (statement before two witnesses facing death) is proved.
+- id: m26-014
+  module: 26
+  lesson: "26.2"
+  subject: forum-will-before-authority
+  difficulty: 1
+  question: >-
+    Before which of these may a person not make a "will before an authority" under s. 22?
+  options:
+    - >-
+      A notary.
+    - >-
+      A Registrar of Inheritance.
+    - >-
+      A member of a religious court.
+    - >-
+      A police officer.
+  correct: 3
+  explanation: >-
+    Section 22 lists a judge, a court registrar, a Registrar of Inheritance and a member of a religious
+    court; a notary counts as a judge (s. 22(ז)). A police officer is not an authority for wills.
+- id: m26-015
+  module: 26
+  lesson: "26.3"
+  subject: capacity
+  difficulty: 2
+  question: >-
+    Which evidence is most relevant to whether a testator could "understand the nature of a will"
+    under s. 26?
+  options:
+    - >-
+      Her diagnosis ten years earlier of a chronic illness unrelated to cognition.
+    - >-
+      Her doctor's notes and the lawyer's record from the week she signed.
+    - >-
+      Her children's opinion that the will's contents are unreasonable.
+    - >-
+      The fact that she was over 90 years old when she signed.
+  correct: 1
+  explanation: >-
+    The test is functional and tied to the time of making. Contemporaneous medical and professional
+    records are the strongest evidence; age, distant diagnoses and dislike of the content are weak.
+- id: m26-016
+  module: 26
+  lesson: "26.3"
+  subject: undue-influence
+  difficulty: 3
+  question: >-
+    A daughter who lived with and cared for her mother for five years is the main beneficiary. She did
+    not attend the lawyer's meeting, and her siblings visited weekly. They object for undue influence.
+    What is the likely result?
+  options:
+    - >-
+      Objection succeeds, because a carer-beneficiary always raises a presumption of influence.
+    - >-
+      Objection succeeds, because the will departs from equal shares among children.
+    - >-
+      Objection fails if the mother was capable, since influence is irrelevant then.
+    - >-
+      Objection likely fails: dependence alone, without isolation or involvement, is not enough.
+  correct: 3
+  explanation: >-
+    Courts weigh dependence, isolation, involvement in making the will and departure from earlier
+    wishes together. Caring alone is not suspect; here the mother was not isolated and the daughter was
+    not involved, so influence is unlikely. Capacity and influence are separate grounds.
+- id: m26-017
+  module: 26
+  lesson: "26.3"
+  subject: mistake-correction
+  difficulty: 2
+  question: >-
+    A will leaves "my apartment at 12 Herzl Street" but the testator's only apartment is at 21 Herzl
+    Street. What is the right remedy?
+  options:
+    - >-
+      Correction of the clerical or description error under s. 32.
+    - >-
+      The gift fails because no apartment exists at number 12.
+    - >-
+      The whole will is void for uncertainty under s. 33.
+    - >-
+      The beneficiary receives the value of an apartment at number 12.
+  correct: 0
+  explanation: >-
+    Section 32 corrects clerical errors and mistakes in describing an asset where the true intention can
+    be clearly established. The Registrar may correct it, or the court if the matter was transferred.
+- id: m26-018
+  module: 26
+  lesson: "26.3"
+  subject: illegal-condition
+  difficulty: 2
+  question: >-
+    A will gives a grandson ₪200,000 "on condition that he divorces his wife". What happens to the gift?
+  options:
+    - >-
+      The gift is void with the condition, since they cannot be separated.
+    - >-
+      The grandson must divorce within a year or the gift passes to the other heirs.
+    - >-
+      The condition is likely void as immoral, and the gift stands without it.
+    - >-
+      The court rewrites the condition into a reasonable one under s. 54.
+  correct: 2
+  explanation: >-
+    An illegal or immoral condition falls away while the gift it conditions stands (s. 38(א)). Courts
+    are wary of conditions interfering with marriage and family life; the outcome depends on the facts.
+- id: m26-019
+  module: 26
+  lesson: "26.3"
+  subject: revocation
+  difficulty: 1
+  question: >-
+    In 2020 Avner left everything to his brother; in 2025 he made a valid will leaving his car to his
+    neighbour, without mentioning the 2020 will. What is the effect?
+  options:
+    - >-
+      The 2025 will revokes the 2020 will entirely.
+    - >-
+      Both stand: the car to the neighbour, the rest to the brother.
+    - >-
+      The 2025 will is void because it did not revoke the earlier one.
+    - >-
+      The brother may choose which of the two wills applies.
+  correct: 1
+  explanation: >-
+    A later will revokes an earlier one only to the extent of conflict, unless it merely adds to it
+    (s. 36(ב)). The car gift conflicts with "everything" only as to the car.
+- id: m26-020
+  module: 26
+  lesson: "26.3"
+  subject: interpretation
+  difficulty: 3
+  question: >-
+    A will says "my savings to my grandchildren". At the time of the will there were three; a fourth
+    was born later, before the death. What approach does s. 54 point to?
+  options:
+    - >-
+      Only the three named in the testator's mind, since wills speak at their making.
+    - >-
+      Nothing, since the gift is uncertain and void under s. 33.
+    - >-
+      The court divides the savings by need, under s. 59 standards.
+    - >-
+      Read by intention; a class gift usually includes the fourth.
+  correct: 3
+  explanation: >-
+    Section 54 reads a will by the testator's intention from its text and, where needed, circumstances,
+    preferring an interpretation that gives effect. A gift to "my grandchildren" is naturally read as a
+    class at death, unless the will or circumstances show otherwise.
+- id: m26-021
+  module: 26
+  lesson: "26.3"
+  subject: time-bar
+  difficulty: 2
+  question: >-
+    Under s. 31, when is a will no longer void for a mistake the testator made?
+  options:
+    - >-
+      Once a probate order has been given, whatever the testator knew.
+    - >-
+      A year after he learned of the mistake, if he could revoke and did not.
+    - >-
+      Seven years after the will was made, under the general limitation law.
+    - >-
+      Never, since a mistaken provision is void whenever it is discovered.
+  correct: 1
+  explanation: >-
+    Section 31: once a year passes from the day the testator learned of the fraud or mistake (or the
+    pressure stopped), and he could revoke but did not, the defect no longer voids or corrects the
+    provision.
+- id: m26-022
+  module: 26
+  lesson: "26.4"
+  subject: gift-on-death
+  difficulty: 2
+  question: >-
+    Which arrangement is most likely valid as a present gift, not a void gift on death?
+  options:
+    - >-
+      "I give my flat to my son; it is his only when I die, and I may cancel this."
+    - >-
+      "On my death my son will receive the flat," signed before two witnesses as a contract.
+    - >-
+      An irrevocable gift deed now, with a caveat registered, and possession deferred.
+    - >-
+      An oral promise at a family dinner, repeated many times before witnesses.
+  correct: 2
+  explanation: >-
+    A gift passing ownership only after death needs will form (s. 8(ב)). A present, irrevocable
+    commitment with deferred delivery, especially secured by a caveat, may be a valid gift. The first
+    two keep control until death; the third does not.
+- id: m26-023
+  module: 26
+  lesson: "26.4"
+  subject: mutual-wills
+  difficulty: 3
+  question: >-
+    Under mutual wills each spouse left everything to the other, then to their children. The husband
+    died; before the estate was distributed, the widow wants to leave her own estate to a charity
+    instead. What must she do under the default rules?
+  options:
+    - >-
+      Renounce what she was to receive under his mutual will, other than in her own favour.
+    - >-
+      Return the value of her own estate to the children before changing her will.
+    - >-
+      Nothing, since mutual wills bind only while both spouses are alive.
+    - >-
+      Obtain the children's written consent to the change of her will.
+  correct: 0
+  explanation: >-
+    After one spouse's death and before distribution, the survivor who wishes to revoke must renounce
+    every gift or share under the deceased's mutual will, not in her own favour, but she may renounce in
+    favour of the deceased's child or sibling (s. 8א(ב)(2)(א)).
+- id: m26-024
+  module: 26
+  lesson: "26.4"
+  subject: witness-beneficiary
+  difficulty: 1
+  question: >-
+    A will's drafter is not a witness and is not named in the will, but his wife receives a painting.
+    What happens to the gift?
+  options:
+    - >-
+      It is valid, because the wife took no part in drafting.
+    - >-
+      It is void, as a gift to the spouse of the drafter.
+    - >-
+      It is valid if the Registrar cures it under s. 25.
+    - >-
+      It is void only if the painting is worth more than the fee.
+  correct: 1
+  explanation: >-
+    Section 35 voids a provision benefiting the drafter, a witness or anyone who took part, and the
+    spouse of any of them. Section 25 cures formal defects only.
+- id: m26-025
+  module: 26
+  lesson: "26.4"
+  subject: successive-heirs
+  difficulty: 2
+  question: >-
+    A will reads: "My flat to my wife, after her to my son, after him to his eldest child, after that
+    child to the eldest grandchild." The great-grandchild was not alive when the will was made. Which
+    part fails?
+  options:
+    - >-
+      The whole will, because successive gifts are not allowed.
+    - >-
+      Only the gift to the son, since a wife always takes absolutely.
+    - >-
+      All gifts after the wife, since only one successor is allowed.
+    - >-
+      The chain beyond two, except for people alive when the will was made.
+  correct: 3
+  explanation: >-
+    A successive gift to more than two is void, except in favour of someone alive when the will was made
+    (s. 42(ד)). The wife and son gifts stand; later links stand only for people then alive.
+- id: m26-026
+  module: 26
+  lesson: "26.4"
+  subject: s147-beneficiaries
+  difficulty: 1
+  question: >-
+    Which asset normally passes outside the estate, regardless of the will?
+  options:
+    - >-
+      A life-insurance payout to a named beneficiary.
+    - >-
+      The deceased's half of a joint bank account.
+    - >-
+      Shares registered in the deceased's name.
+    - >-
+      A car registered to the deceased.
+  correct: 0
+  explanation: >-
+    Sums payable on death under insurance or pension arrangements to a named beneficiary are not part of
+    the estate unless the estate is the beneficiary (s. 147).
+- id: m26-027
+  module: 26
+  lesson: "26.4"
+  subject: negative-will
+  difficulty: 3
+  question: >-
+    Bar-exam style. A document, valid in form, says only: "My son Gil shall receive nothing from my
+    estate." What is the safest statement of Israeli law?
+  options:
+    - >-
+      It is a valid will, and Gil's share goes to the State.
+    - >-
+      It is void as illegal, since children cannot be disinherited.
+    - >-
+      Courts doubted a bare exclusion is a will; give positively.
+    - >-
+      It is valid only if the reason for excluding Gil is stated.
+  correct: 2
+  explanation: >-
+    In Shapira v. Klibansky a document with only exclusions was held not to be a will; later obiter
+    remarks (Lishitzky) suggested negative wills are not barred. The safe drafting is to give the whole
+    estate positively to others.
+- id: m26-028
+  module: 26
+  lesson: "26.4"
+  subject: obligations-on-heirs
+  difficulty: 2
+  question: >-
+    A will gives a flat to a daughter and obliges her to let her uncle live there until his death. The
+    daughter wants to sell with vacant possession. Who may enforce the obligation?
+  options:
+    - >-
+      Only the executor, and only within a year of the probate order.
+    - >-
+      Any interested person, including the uncle himself.
+    - >-
+      No one, because obligations on heirs are moral wishes only.
+    - >-
+      Only the other heirs, who may claim damages from her.
+  correct: 1
+  explanation: >-
+    A testator may impose obligations on an heir; anyone interested may demand performance, and the
+    Attorney General if there is a public interest (s. 45).
+- id: m26-029
+  module: 26
+  lesson: "26.5"
+  subject: debt-priority
+  difficulty: 1
+  question: >-
+    Under s. 104, which debt of the estate is paid first?
+  options:
+    - >-
+      The deceased's income-tax debt.
+    - >-
+      The costs of the funeral, burial and tombstone.
+    - >-
+      The widow's claim under her ketubah.
+    - >-
+      The heirs' legal fees for the succession order.
+  correct: 1
+  explanation: >-
+    Funeral, burial and tombstone costs rank first (s. 104(א)(1)); then order and administration costs;
+    then the deceased's debts including a reasonable ketubah; then the spouse's marital claims. Taxes
+    follow their own laws (s. 104(ג)).
+- id: m26-030
+  module: 26
+  lesson: "26.5"
+  subject: heirs-liability
+  difficulty: 3
+  question: >-
+    An heir hid a ₪100,000 debt from the others so they would divide the estate quickly; it was never
+    paid. Which rule governs his liability to the creditor?
+  options:
+    - >-
+      He is liable only for his proportional share, like any heir.
+    - >-
+      He is not liable, because liability attaches only to the estate.
+    - >-
+      He is liable up to the value of the whole estate at distribution.
+    - >-
+      He is liable without any limit, including his own assets beyond the estate value.
+  correct: 2
+  explanation: >-
+    An heir who hid a debt or otherwise frustrated its payment is liable for it up to the value of the
+    whole estate at distribution (s. 129(2)), whatever the creditors' notice.
+- id: m26-031
+  module: 26
+  lesson: "26.5"
+  subject: administrator-approval
+  difficulty: 2
+  question: >-
+    A court-appointed administrator wants to sell the deceased's apartment to pay debts. What does s. 97
+    require?
+  options:
+    - >-
+      The heirs' majority consent, given in writing.
+    - >-
+      The Registrar of Inheritance's approval.
+    - >-
+      Nothing, since paying debts is the administrator's duty.
+    - >-
+      The court's prior approval of the sale.
+  correct: 3
+  explanation: >-
+    Transferring an apartment, and any act whose validity depends on registration, needs the court's
+    prior approval (s. 97(1), (3)). Assets sold for debts are offered first to the heirs (s. 100(ב)).
+- id: m26-032
+  module: 26
+  lesson: "26.5"
+  subject: transitional-housing
+  difficulty: 1
+  question: >-
+    A non-heir partner of the deceased lived with him in his rented flat. How long may she stay after
+    his death under s. 108?
+  options:
+    - >-
+      Three months.
+    - >-
+      Six months.
+    - >-
+      One year.
+    - >-
+      Until the order is given.
+  correct: 0
+  explanation: >-
+    Anyone who lived with the deceased may stay three months; an heir six months (s. 108(א)). A
+    cohabitant may also have heir status under s. 55.
+- id: m26-033
+  module: 26
+  lesson: "26.5"
+  subject: maintenance-from-estate
+  difficulty: 2
+  question: >-
+    A father left everything to his second wife. His 20-year-old son is a student with no income. Can the
+    son claim maintenance from the estate?
+  options:
+    - >-
+      No, because maintenance from the estate ends at 18 without exception.
+    - >-
+      Yes, automatically until 25, as for any student.
+    - >-
+      Possibly, up to 23, if the court finds it proper in the circumstances.
+    - >-
+      No, because the will expressly gave everything to the wife.
+  correct: 2
+  explanation: >-
+    Adult children may receive maintenance until 23 where the court sees fit (s. 57(א)(3)). A will
+    cannot exclude maintenance (s. 65(ב)); training costs may be included (s. 58).
+- id: m26-034
+  module: 26
+  lesson: "26.5"
+  subject: indivisible-assets
+  difficulty: 2
+  question: >-
+    Two heirs cannot agree who keeps their father's small shop, which would lose value if split. There
+    is no administrator and no will provision. What rule applies by default?
+  options:
+    - >-
+      The shop is split in two physically, each taking half.
+    - >-
+      It goes to the highest-bidding heir, at market value or more.
+    - >-
+      It goes to the older heir, who pays the other half its value.
+    - >-
+      It is always sold publicly and the proceeds divided.
+  correct: 1
+  explanation: >-
+    An indivisible asset, or one that would lose much value if divided, goes to the heir bidding the
+    most, at least the market price; if no heir wants it, it is sold (s. 113). The court may set terms.
+- id: m26-035
+  module: 26
+  lesson: "26.5"
+  subject: creditors-invitation
+  difficulty: 2
+  question: >-
+    Spot the mistake. A family's creditors' notice reads: "Creditors of the late Y. Azulay must submit
+    claims within 30 days of this notice." What is wrong?
+  options:
+    - >-
+      Nothing; heirs may choose any reasonable period.
+    - >-
+      Only an administrator may publish a creditors' notice.
+    - >-
+      The notice must be published by the Registrar.
+    - >-
+      The period must be at least three months from publication.
+  correct: 3
+  explanation: >-
+    Sections 99 and 123 require a period of at least three months from publication. A short notice does
+    not give heirs the protection of s. 127.
+- id: m26-036
+  module: 26
+  lesson: "26.5"
+  subject: family-home-s115
+  difficulty: 3
+  question: >-
+    A widower lived in his late wife's apartment, which passes by her will to her daughter. He has his own
+    flat which he rents out. The daughter asks the court to end his stay. What may the court do?
+  options:
+    - >-
+      Order that only those with no other home may stay, which may exclude him.
+    - >-
+      Nothing, since s. 115 gives a spouse an absolute right to stay for life.
+    - >-
+      Order the daughter to pay him the value of the right to stay.
+    - >-
+      Give him ownership of half the apartment under s. 11.
+  correct: 0
+  explanation: >-
+    Section 115(ב)(1) allows the court, on the heirs' request, to limit the right to stay to those who
+    have no other home. The rent and terms otherwise are agreed or set by the court (s. 115(א)).
+- id: m26-037
+  module: 26
+  lesson: "26.6"
+  subject: registrar-transfer
+  difficulty: 1
+  question: >-
+    In which case must the Registrar of Inheritance transfer an application to the Family Court?
+  options:
+    - >-
+      When the estate is worth more than a fixed ceiling.
+    - >-
+      When an objection to the application is filed.
+    - >-
+      When one heir lives abroad.
+    - >-
+      When the will was handwritten.
+  correct: 1
+  explanation: >-
+    Section 67א(א) lists the grounds: an objection, the State as a party, the Attorney General's
+    intervention, the Administrator General representing a party, or the Registrar's discretion. Value
+    and residence are not grounds.
+- id: m26-038
+  module: 26
+  lesson: "26.6"
+  subject: appeal-registrar
+  difficulty: 2
+  question: >-
+    Which forum hears an appeal against a decision of the Registrar of Inheritance, and within what time?
+  options:
+    - >-
+      The District Court, within 45 days.
+    - >-
+      The Administrator General, within 30 days.
+    - >-
+      The Family Court, within 15 days of service.
+    - >-
+      The Magistrates' Court, within 60 days of the decision.
+  correct: 2
+  explanation: >-
+    Section 151א gives an appeal to the Family Court, heard by one judge; reg. 46 sets fifteen days from
+    service of the decision.
+- id: m26-039
+  module: 26
+  lesson: "26.6"
+  subject: duty-to-deliver
+  difficulty: 1
+  question: >-
+    You find your late aunt's will that disinherits you. What does the law require?
+  options:
+    - >-
+      Nothing, unless a beneficiary asks you for it.
+    - >-
+      Keep it until you consult a lawyer about its validity.
+    - >-
+      Give it to the beneficiaries named in it.
+    - >-
+      Deliver it to the Registrar immediately.
+  correct: 3
+  explanation: >-
+    Anyone holding a will must deliver it to the Registrar immediately on learning of the death
+    (s. 75(א)); breach is an offence (s. 75(ב)). You may still object on any valid ground.
+- id: m26-040
+  module: 26
+  lesson: "26.6"
+  subject: s72-amendment
+  difficulty: 3
+  question: >-
+    Two years after a succession order, Dana asks the Registrar to amend it because she has learned that
+    her late father had a child from a relationship abroad. She could not have known earlier. What is
+    the likely procedure?
+  options:
+    - >-
+      The Registrar may amend the order on facts not before it when the order was given.
+    - >-
+      The Registrar cannot act; only an appeal within 15 days was possible.
+    - >-
+      The order is final against the world and cannot be amended.
+    - >-
+      Dana must file a new succession application, which replaces the old order.
+  correct: 0
+  explanation: >-
+    Section 72(א) lets the body that gave the order amend or cancel it on facts or arguments not before
+    it; facts that could have been raised earlier go to the court. Orders bind everyone only until
+    amended (s. 71).
+- id: m26-041
+  module: 26
+  lesson: "26.6"
+  subject: religious-court-orders
+  difficulty: 2
+  question: >-
+    Druze heirs file in the Druze religious court for a succession order. One heir files an objection
+    that does not consent to the court's jurisdiction. What does the court do?
+  options:
+    - >-
+      It decides the objection under Druze law.
+    - >-
+      It strikes out the application.
+    - >-
+      It transfers the file to the Registrar of Inheritance.
+    - >-
+      It appoints a guardian to consent for the objector.
+  correct: 1
+  explanation: >-
+    An objection that does not consent to the religious court's jurisdiction requires it to strike out
+    the application (reg. 50(א)); jurisdiction rests on everyone's consent (s. 155). The heirs can then
+    apply to the Registrar.
+- id: m26-042
+  module: 26
+  lesson: "26.6"
+  subject: publication
+  difficulty: 2
+  question: >-
+    Since the 2023 amendment to reg. 17, where is a succession-order application published?
+  options:
+    - >-
+      In two daily newspapers chosen by the applicant.
+    - >-
+      Only on a notice board in the Registrar's office.
+    - >-
+      On the Administrator General's website and in Reshumot.
+    - >-
+      Only by registered letters to the heirs, without public notice.
+  correct: 2
+  explanation: >-
+    Reg. 17(א) provides publication on the Administrator General's website and in Reshumot, with at least
+    two weeks for objections; letters to heirs are an additional requirement (reg. 14(ב)(4)).
+- id: m26-043
+  module: 26
+  lesson: "26.6"
+  subject: partial-will
+  difficulty: 2
+  question: >-
+    A will gives only the car to a friend and says nothing about the rest. Which order is needed?
+  options:
+    - >-
+      A probate order for the whole estate, since a will exists.
+    - >-
+      A succession order only, since the will covers so little.
+    - >-
+      A probate order for the car and a succession order for the rest.
+    - >-
+      No order for the car, which passes on delivery.
+  correct: 2
+  explanation: >-
+    Where the testator disposed of part of the estate, a probate order is given for that part and a
+    succession order for the rest (s. 66(ב)); they can be combined in one order (reg. 24(ג), Form 6).
+- id: m26-044
+  module: 26
+  lesson: "26.7"
+  subject: land-registration
+  difficulty: 1
+  question: >-
+    After a succession order from the Registrar, who signs the application to register the heirs in the
+    Land Registry?
+  options:
+    - >-
+      All heirs together, before a notary.
+    - >-
+      Any one heir, with a verified signature.
+    - >-
+      The Registrar of Inheritance on the heirs' behalf.
+    - >-
+      Only the heir with the largest share.
+  correct: 1
+  explanation: >-
+    Inheritance is registered on any interested person's application (reg. 17(ב)); Kol-Zchut describes
+    the request as signed by at least one heir and verified by a lawyer or registrar (⚠️ manual check).
+    A distribution agreement not approved by a court needs all the heirs.
+- id: m26-045
+  module: 26
+  lesson: "26.7"
+  subject: heirs-share-transfer
+  difficulty: 3
+  question: >-
+    Before distribution, an heir signs a contract selling "my share in the estate's Holon apartment" to
+    a buyer. What is the legal problem?
+  options:
+    - >-
+      None; an heir may sell his interest in any estate asset at any time.
+    - >-
+      The sale needs the Registrar of Inheritance's approval.
+    - >-
+      It must be registered as a caveat within 30 days.
+    - >-
+      Before distribution only his share in the estate can be sold.
+  correct: 3
+  explanation: >-
+    Section 7(א) allows transfer of a share in the estate by a written agreement; s. 7(ד) bars transfer
+    of a right in a specific estate asset until distribution.
+- id: m26-046
+  module: 26
+  lesson: "26.7"
+  subject: epa-signing
+  difficulty: 1
+  question: >-
+    Before whom must a property-and-personal enduring power of attorney be signed?
+  options:
+    - >-
+      A lawyer trained by the Administrator General.
+    - >-
+      Any notary, who certifies the grantor's identity.
+    - >-
+      Two adult witnesses who do not benefit from it.
+    - >-
+      A Family Court judge at a hearing.
+  correct: 0
+  explanation: >-
+    Section 32יד(א) requires signature before a lawyer who completed the Administrator General's
+    training and has no personal interest (training under EPA Regulations reg. 19). A medical-only power
+    may be signed before listed health professionals (s. 32טו).
+- id: m26-047
+  module: 26
+  lesson: "26.7"
+  subject: epa-attorney-qualification
+  difficulty: 2
+  question: >-
+    Who cannot be appointed as attorney under an enduring power of attorney for property?
+  options:
+    - >-
+      The grantor's 19-year-old granddaughter.
+    - >-
+      The grantor's friend who is attorney for two other people.
+    - >-
+      A paid carer who provides the grantor nursing care.
+    - >-
+      The grantor's son who lives abroad.
+  correct: 2
+  explanation: >-
+    Section 32ג(א)(4) excludes those who give the grantor medical, social, nursing or rehabilitative care
+    for pay. Age 18+, living abroad and up to three grantors for a non-relative are allowed.
+- id: m26-048
+  module: 26
+  lesson: "26.7"
+  subject: epa-entry-into-force
+  difficulty: 2
+  question: >-
+    When does an enduring power for personal matters come into force?
+  options:
+    - >-
+      On signature before the lawyer.
+    - >-
+      On deposit with the Administrator General.
+    - >-
+      When a court declares the grantor incompetent.
+    - >-
+      On incapacity, after the attorney's declaration.
+  correct: 3
+  explanation: >-
+    It comes into force when the grantor stops being able to understand the matter, provided the
+    attorney files a declaration with the Administrator General that the conditions are met and the
+    informed persons were notified (s. 32יט(א)). Deposit is a precondition, not the trigger.
+- id: m26-049
+  module: 26
+  lesson: "26.7"
+  subject: epa-prohibited-acts
+  difficulty: 3
+  question: >-
+    An attorney under an enduring power wants to renounce the grantor's share in his late brother's
+    estate in favour of the brother's children, to keep peace in the family. What is required?
+  options:
+    - >-
+      Nothing, since renunciation in favour of the deceased's children is always allowed.
+    - >-
+      Prior approval, through the Administrator General under s. 74א.
+    - >-
+      The brother's children's consent in a notarised affidavit.
+    - >-
+      It is forbidden outright, like making a will for the grantor.
+  correct: 1
+  explanation: >-
+    Renouncing a share or gift in an estate is one of the acts needing prior approval (s. 32ו(ד)(5)); the
+    request goes to the Administrator General, who approves or refers it to the court (s. 74א).
+- id: m26-050
+  module: 26
+  lesson: "26.7"
+  subject: advance-directives
+  difficulty: 2
+  question: >-
+    Shula's deposited advance directives under s. 35א name her niece as her preferred guardian. Years
+    later the court decides a guardian is needed. Whom will it appoint?
+  options:
+    - >-
+      The niece, unless that would cause her real harm.
+    - >-
+      Her closest relative under the default priority rules.
+    - >-
+      The Administrator General, as for every adult.
+    - >-
+      Whoever the social worker recommends.
+  correct: 0
+  explanation: >-
+    Where a person gave deposited advance directives, the court appoints the person named and orders
+    them to follow the directives, unless the s. 32לא exceptions apply or real harm would result
+    (s. 35א(ד)).
+- id: m26-051
+  module: 26
+  lesson: "26.8"
+  subject: handwritten-will-drafting
+  difficulty: 1
+  question: >-
+    Which instruction is correct when writing your own handwritten will?
+  options:
+    - >-
+      Ask a beneficiary to check your spelling and correct it in their hand.
+    - >-
+      Type a clean copy and sign it to avoid reading problems.
+    - >-
+      Write every word, the date and the signature in your own hand.
+    - >-
+      Have two neighbours sign below to make it stronger.
+  correct: 2
+  explanation: >-
+    Section 19 requires the whole will, date and signature in the testator's hand. Anyone else's
+    handwriting risks the basic element; witnesses add nothing to a handwritten will and could lose
+    gifts (s. 35).
+- id: m26-052
+  module: 26
+  lesson: "26.8"
+  subject: substitute-clause
+  difficulty: 2
+  question: >-
+    Spot the mistake in this clause: "My savings to my friend Rina; if she dies before me, my executor
+    will decide who gets them."
+  options:
+    - >-
+      Nothing; executors may choose beneficiaries.
+    - >-
+      Friends cannot inherit under a will.
+    - >-
+      Savings must be divided between at least two people.
+    - >-
+      The choice of beneficiary cannot be delegated.
+  correct: 3
+  explanation: >-
+    The testator may not leave it to another person to choose the beneficiary or share, except from a
+    group named in the will (s. 29). Name a substitute instead (s. 41).
+- id: m26-053
+  module: 26
+  lesson: "26.8"
+  subject: deposit-procedure
+  difficulty: 1
+  question: >-
+    What happens to a will when you deposit it in person at a Registrar of Inheritance office?
+  options:
+    - >-
+      It is scanned, sealed, recorded, and you get a certificate.
+    - >-
+      It is read by the Registrar, who confirms its validity in writing.
+    - >-
+      It is sent to the Family Court, which keeps it until your death.
+    - >-
+      It is published in Reshumot so that heirs can object.
+  correct: 0
+  explanation: >-
+    Under reg. 6, the will is scanned as a backup, sealed in an envelope signed by you and the clerk,
+    recorded in the national register, and you receive a deposit certificate. Its content is not
+    reviewed or published.
+- id: m26-054
+  module: 26
+  lesson: "26.8"
+  subject: new-will-deposit
+  difficulty: 2
+  question: >-
+    You deposited a will in 2024 and wrote a new one in 2026. What should you do with the deposit?
+  options:
+    - >-
+      Nothing; the newer will automatically replaces the deposited one.
+    - >-
+      Take the old will back in person and deposit the new one.
+    - >-
+      Send the new will by post; the Registrar files it next to the old one.
+    - >-
+      Ask a family member to collect the old will with a power of attorney.
+  correct: 1
+  explanation: >-
+    Only the testator may deposit and withdraw (s. 21; reg. 6(ו)); Kol-Zchut reports one deposited will
+    is held at a time (⚠️ manual check). Even without re-deposit, a later valid will revokes conflicting
+    provisions (s. 36(ב)), but it may never be found.
+- id: m26-055
+  module: 26
+  lesson: "26.8"
+  subject: exclusion-planning
+  difficulty: 3
+  question: >-
+    You want to leave nothing to your estranged daughter. Which drafting is safest?
+  options:
+    - >-
+      "My daughter gets nothing," with no other gifts.
+    - >-
+      "My daughter gets ₪1, to show I did not forget her," and nothing else.
+    - >-
+      A list of reasons for excluding her, without naming other beneficiaries.
+    - >-
+      Give the whole estate positively to named others, with substitutes.
+  correct: 3
+  explanation: >-
+    A bare exclusion risks not being a will at all (Shapira v. Klibansky). Positive gifts of the whole
+    estate achieve the exclusion. A needy minor child could still claim maintenance (s. 56).
+- id: m26-056
+  module: 26
+  lesson: "26.8"
+  subject: language-of-will
+  difficulty: 2
+  question: >-
+    Elena writes her handwritten will in Russian, her best language. What follows?
+  options:
+    - >-
+      It is invalid; wills must be in Hebrew or Arabic.
+    - >-
+      It is valid; on probate a notarised translation will be needed.
+    - >-
+      It is valid only if a translator signs it as a witness.
+    - >-
+      It must be re-made before a notary to be accepted.
+  correct: 1
+  explanation: >-
+    The Law sets no language for a handwritten will. Documents in a foreign language other than English
+    filed with the Registrar need a notarised translation (Kol-Zchut; reg. 54א, ⚠️ manual check).
+- id: m26-057
+  module: 26
+  lesson: "26.8"
+  subject: will-not-reaching-pension
+  difficulty: 2
+  question: >-
+    Your will says "everything to my wife". Your provident fund names your sister as beneficiary. Who
+    gets the provident fund on your death?
+  options:
+    - >-
+      Your sister, unless you change the nomination.
+    - >-
+      Your wife, because the later will overrides the nomination.
+    - >-
+      Your wife and sister equally, as the court decides.
+    - >-
+      Your estate, divided under the intestacy rules.
+  correct: 0
+  explanation: >-
+    Sums paid on death to a named beneficiary are not part of the estate (s. 147). Update the
+    nomination with the fund if you want your wife to receive it.
+- id: m26-058
+  module: 26
+  lesson: "26.9"
+  subject: online-eligibility
+  difficulty: 1
+  question: >-
+    Which application is open to online filing under the Second Schedule of the Succession Regulations?
+  options:
+    - >-
+      Any application, by anyone, since all filing is now online.
+    - >-
+      Only applications filed by a lawyer.
+    - >-
+      Probate, or succession filed by close family.
+    - >-
+      Only applications for estates below a fixed value.
+  correct: 2
+  explanation: >-
+    The Second Schedule lists succession applications by children and their descendants, parents and
+    their descendants, or the spouse, and probate applications. Represented applicants must file online
+    (reg. 14(ד)).
+- id: m26-059
+  module: 26
+  lesson: "26.9"
+  subject: notices
+  difficulty: 2
+  question: >-
+    Spot the mistake. Avi files a succession application and attaches proof of registered letters to his
+    two sisters, but not to his late brother's son, an heir by representation. What happens?
+  options:
+    - >-
+      Nothing; the nephew will see the public notice.
+    - >-
+      The nephew loses his share for failing to object.
+    - >-
+      The Registrar sends the notice on Avi's behalf.
+    - >-
+      It is not accepted until notice to all heirs is proved.
+  correct: 3
+  explanation: >-
+    Reg. 14(ב)(4) requires proof of notice to every heir in the application. The Registrar does not
+    supply the missing notice.
+- id: m26-060
+  module: 26
+  lesson: "26.9"
+  subject: minor-heir
+  difficulty: 2
+  question: >-
+    One heir is an 8-year-old grandchild. The adult heirs want him to renounce in favour of his
+    grandmother. What is required?
+  options:
+    - >-
+      His mother's signature on the renunciation affidavit is enough.
+    - >-
+      Court approval of the renunciation.
+    - >-
+      Nothing; minors' shares go to the surviving spouse automatically.
+    - >-
+      The Registrar's approval after a hearing with the child.
+  correct: 1
+  explanation: >-
+    A minor's renunciation requires court approval (s. 6(ג); reg. 16(ד)). The application must also mark
+    the minor (reg. 14(א)).
+- id: m26-061
+  module: 26
+  lesson: "26.9"
+  subject: fees-route
+  difficulty: 1
+  question: >-
+    An unrepresented heir eligible for online filing wants to pay the lowest application fee. What should
+    she do?
+  options:
+    - >-
+      File online, where the fee is 85% of the paper fee.
+    - >-
+      File on paper by registered mail, which is free.
+    - >-
+      Ask for a fee waiver, which every heir receives on request.
+    - >-
+      File at a religious court, where no fee is charged.
+  correct: 0
+  explanation: >-
+    The Fees Regulations set the online fee at 85% of the listed amount (reg. 1(א)). Waivers apply only
+    to listed bodies and bereaved families (reg. 4); see current numbers for amounts.
+- id: m26-062
+  module: 26
+  lesson: "26.9"
+  subject: after-order
+  difficulty: 3
+  question: >-
+    The order is issued. The estate has a flat, a bank account and a car, and the deceased had an old
+    guarantee for a friend's business loan. Which sequence is best?
+  options:
+    - >-
+      Divide the bank money, sell the car, then register the flat.
+    - >-
+      Register the flat and sell it at once to pay all heirs equally.
+    - >-
+      Notify creditors, pay known debts, then divide the cash.
+    - >-
+      Transfer everything to one heir, who handles any later claims alone.
+  correct: 2
+  explanation: >-
+    A possible guarantee claim makes a creditors' notice (s. 123) and payment of known debts essential
+    before dividing, to keep heirs' exposure within s. 127. Registration of the flat can proceed, but
+    division of cash should wait.
+- id: m26-063
+  module: 26
+  lesson: "26.9"
+  subject: which-forum
+  difficulty: 2
+  question: >-
+    Which forum? All heirs agree on the shares, but one heir wants a court-appointed administrator to
+    manage rental properties for a year. Everyone consents to the appointment. Where is the request filed?
+  options:
+    - >-
+      The Family Court only, since administrators are always court-appointed.
+    - >-
+      The District Court, because rental income is a commercial matter.
+    - >-
+      The Execution Office, which manages property for creditors.
+    - >-
+      The Registrar of Inheritance, since all parties consent.
+  correct: 3
+  explanation: >-
+    A request to appoint an administrator made with the consent of all parties is filed with the
+    Registrar, who may appoint (s. 78(ב)); otherwise the Family Court decides (s. 78(א)).
+- id: m26-064
+  module: 26
+  lesson: "26.1"
+  subject: renunciation-timing
+  difficulty: 3
+  question: >-
+    Bar-exam style. Moran wants to renounce her share in her father's estate in favour of her brother.
+    The estate's bank account was already divided under a distribution agreement a month ago. Can she
+    still renounce?
+  options:
+    - >-
+      Yes, at any time while she still holds the money.
+    - >-
+      No; renunciation must come before distribution.
+    - >-
+      Yes, but only with the Family Court's approval.
+    - >-
+      No, because renunciation in favour of a sibling is not allowed.
+  correct: 1
+  explanation: >-
+    An heir may renounce after the death "as long as the estate has not been distributed" (s. 6(א)).
+    After distribution she can only give her brother a gift, with any tax consequences.
+- id: m26-065
+  module: 26
+  lesson: "26.6"
+  subject: proof-of-copy
+  difficulty: 3
+  question: >-
+    The original of a will was destroyed in a house fire after the testator's death; a clear photocopy
+    remains. Can a probate order be given?
+  options:
+    - >-
+      No, a will may be proved only by the original.
+    - >-
+      Yes, automatically, since the fire was not the testator's act.
+    - >-
+      Possibly; proof by a copy may be allowed.
+    - >-
+      Only if every heir by law signs a consent to the copy.
+  correct: 2
+  explanation: >-
+    Section 68(ב) allows proof by a copy or otherwise if the original was destroyed in circumstances
+    that do not revoke the will, or cannot be produced. A request under reg. 14(ב)(3) accompanies the
+    application.

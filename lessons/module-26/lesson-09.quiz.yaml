@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    You are preparing a succession order application for your late father. One of your brothers lives
+    in Canada and does not answer emails. What must you do before filing?
+  options:
+    - >-
+      Nothing; the Registrar's publication in Reshumot is notice to everyone, abroad included.
+    - >-
+      Leave him out of the application until he contacts the family himself.
+    - >-
+      Send him notice by international registered mail and keep the proof.
+    - >-
+      Ask the Family Court to appoint a guardian for him before applying.
+  correct: 2
+  explanation: >-
+    Reg. 14(ב)(4) requires proof that notice was sent by registered mail, or delivered personally, to
+    every heir named in the application. Publication is additional, not a substitute.
+- id: q2
+  question: >-
+    Your mother's handwritten will was found at home. You filed the probate application online on
+    Sunday. What must you do with the original will?
+  options:
+    - >-
+      Keep it safe at home and produce it only if the Registrar asks for it later.
+    - >-
+      Deliver it to the Registrar within seven days of the online filing.
+    - >-
+      Upload a scan; the original is needed only if someone objects to probate.
+    - >-
+      Deposit it in your own name so the Registrar records it in the national register.
+  correct: 1
+  explanation: >-
+    Online filing attaches copies, but the original will must be delivered to the Registrar within
+    seven days (reg. 14(ד)(1)); a will is proved by the original (s. 68(ב)). Only a testator may
+    deposit a will.
+- id: q3
+  question: >-
+    Your grandmother died without a will. You are her grandson; your mother, her only child, died
+    before her. Which form and route fit best?
+  options:
+    - >-
+      Form 1 (succession order), filed with the Registrar; online is open to descendants of children.
+    - >-
+      Form 2 (probate order), because a grandchild can inherit only under a will.
+    - >-
+      A Family Court claim, because representation of a dead heir needs a judge.
+    - >-
+      A religious court application, because inheritance by grandchildren follows religious law.
+  correct: 0
+  explanation: >-
+    Without a will the application is for a succession order on Form 1. You inherit by representation
+    (s. 14), and the Second Schedule allows online filing by the deceased's children and their
+    descendants. No court is needed unless someone objects.
+- id: q4
+  question: >-
+    The succession order arrived by email this morning. The estate has ₪120,000 in the bank and your
+    father ran a small shop. Your siblings want to divide the money today. What do you advise?
+  options:
+    - >-
+      Divide it today; the order protects heirs against all later creditor claims.
+    - >-
+      Divide it, but each sibling should keep receipts in case the Tax Authority asks.
+    - >-
+      Wait one year, since creditors may sue heirs only within a year of the order.
+    - >-
+      First publish a creditors' notice and pay known debts; then divide the balance.
+  correct: 3
+  explanation: >-
+    Heirs who divide without inviting creditors and paying known debts face liability up to the whole
+    estate's value (s. 128). A notice under s. 123 with at least three months, and payment of known
+    debts, limits exposure (s. 127).

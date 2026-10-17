@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    Parents sign a document titled "gift deed": "We give our flat to our daughter Noa; ownership will
+    pass to her only after the death of both of us." They keep full control and may sell. After both
+    die, Noa's brothers object. What is the likely result?
+  options:
+    - >-
+      Valid, because a gift deed signed by both parents binds their heirs.
+    - >-
+      Valid only if Noa registered a caveat on the flat during their lives.
+    - >-
+      Void as a gift on death not made in will form; the flat passes as the estate.
+    - >-
+      Void only as to the brothers' shares, which are protected as forced shares.
+  correct: 2
+  explanation: >-
+    Section 8(ב) makes a gift intended to pass only after the giver's death valid only if made in a
+    will. A present, irrevocable gift with deferred delivery is different, but here the parents kept
+    full control. Israeli law has no forced shares.
+- id: q2
+  question: >-
+    Spouses made mutual wills: each to the survivor, then to their two children. The husband died and
+    the estate was distributed to the wife. Two years later she wants to leave everything to one child.
+    Absent other provisions, what must she do?
+  options:
+    - >-
+      Return what she inherited under his mutual will, or its value, and then change hers.
+    - >-
+      Nothing special; a survivor may change her own will freely at any time.
+    - >-
+      Notify both children in writing; the notice revokes both wills at once.
+    - >-
+      Ask the Family Court for permission, which it gives only for special reasons.
+  correct: 0
+  explanation: >-
+    After distribution, a survivor who wants to revoke must return what she inherited under the
+    mutual will, in kind or in value (s. 8א(ב)(2)(ב)). Written notice works only while both spouses
+    are alive.
+- id: q3
+  question: >-
+    Amos's neighbour typed his will and signed as one of the two witnesses. The will leaves Amos's
+    stamp collection to the neighbour's wife and the rest to Amos's children. Which statement is
+    correct?
+  options:
+    - >-
+      The whole will is void because a drafter acted as a witness.
+    - >-
+      The gift to the neighbour's wife is void; the rest of the will stands.
+    - >-
+      The gift is valid because the wife herself did not draft or witness it.
+    - >-
+      The gift is valid if the Registrar cures the defect under s. 25.
+  correct: 1
+  explanation: >-
+    Section 35 voids a provision benefiting the drafter, a witness or a participant, or the spouse of
+    any of them. Only that provision fails (s. 38(ב)), and s. 25 cures formal defects, not s. 35.
+- id: q4
+  question: >-
+    Dalia's will says: "My apartment to my husband, and after his death to my niece Tali." The husband
+    inherits, sells the apartment, spends half the money and leaves the rest by his own will to his
+    brother. What is Tali entitled to?
+  options:
+    - >-
+      Nothing, because once the husband sold the apartment the gift to Tali lapsed.
+    - >-
+      The full value of the apartment, because the husband could not sell it.
+    - >-
+      Half the value, because a successive gift is divided between the two heirs.
+    - >-
+      What remained of the proceeds, since his will cannot defeat her successive gift.
+  correct: 3
+  explanation: >-
+    A first successive heir may use the property as his own, and the second takes only what remains;
+    but the first cannot defeat the second's right by will (s. 42(ב)). Tali takes what is left.

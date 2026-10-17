@@ -1,0 +1,24 @@
+- **מוריש** (morish) — The deceased whose estate passes on death (Succession Law s. 1).
+- **עיזבון** (izavon) — The estate: the deceased's assets and debts.
+- **יורש על פי דין** (yoresh al pi din) — Heir on intestacy: the spouse and the relatives listed in Succession Law s. 10.
+- **זוכה על פי צוואה** (zokhe al pi tzava'a) — Beneficiary under a will.
+- **הסתלקות** (histalkut) — Renunciation of an inheritance share, in writing to the Registrar, before distribution, and directed only to the deceased's spouse, child or sibling (s. 6).
+- **פסלות לרשת** (pslut lareshet) — Disqualification from inheriting, e.g. for causing the deceased's death or forging the will (s. 5).
+- **צוואה בכתב יד** (tzava'a bikhtav yad) — Handwritten will: wholly written, dated and signed by the testator (s. 19).
+- **צוואה בעדים** (tzava'a be-edim) — Witnessed will: signed by the testator before two witnesses who sign at the same occasion (s. 20).
+- **צוואה בפני רשות** (tzava'a bifnei rashut) — Will made before a judge, registrar, religious-court member or notary (s. 22).
+- **צוואה בעל־פה** (tzava'a be'al pe) — Oral will of a person facing death, before two witnesses; lapses a month after the danger passes (s. 23).
+- **מרכיבי היסוד** (markivei ha-yesod) — The "basic elements" of each will form, required before a defect can be cured (s. 25(ב)).
+- **הפקדת צוואה** (hafkadat tzava'a) — Deposit of a will with the Registrar of Inheritance by the testator personally (s. 21).
+- **צוואות הדדיות** (tzava'ot hadadiyot) — Mutual wills of spouses made in reliance on each other, with special revocation rules (s. 8א).
+- **יורש אחר יורש** (yoresh ahar yoresh) — Successive heir who takes what remains after the first heir (s. 42).
+- **צו ירושה** (tzav yerusha) — Succession order declaring heirs and shares on intestacy (s. 66).
+- **צו קיום צוואה** (tzav kiyum tzava'a) — Probate order declaring a will valid (s. 66).
+- **הרשם לענייני ירושה** (ha-rasham le-inyanei yerusha) — Registrar of Inheritance, part of the Administrator General, who gives uncontested orders (s. 65א).
+- **מנהל עיזבון** (menahel izavon) — Estate administrator appointed by the court or, by consent, the Registrar (s. 78).
+- **הזמנת נושים** (hazmanat nosim) — Public invitation to the estate's creditors, at least three months (ss. 99, 123).
+- **מזונות מן העיזבון** (mezonot min ha-izavon) — Maintenance from the estate for a needy spouse, children or parents, even against a will (ss. 56–65).
+- **ייפוי כוח מתמשך** (yipui ko'ah mitmashekh) — Enduring power of attorney that takes effect on loss of capacity (Capacity and Guardianship Law s. 32ב).
+- **הנחיות מקדימות** (hanhayot makdimot) — Advance directives binding an attorney (s. 32לא) or a court choosing a guardian (s. 35א).
+- **אדם מיודע** (adam meyuda) — "Informed person" notified when an enduring power takes effect and entitled to reports (s. 32טז).
+- **רישום ירושה** (rishum yerusha) — Registration of an inheritance in the Land Registry (Land Management and Registration Regulations reg. 17).

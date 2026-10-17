@@ -1,0 +1,186 @@
+- id: q1
+  question: >-
+    Nissim died without a will, leaving his wife (married 25 years), one daughter, and his parents.
+    The couple's flat was registered to both. The daughter says she and her grandparents share half
+    of the whole flat. What is the correct division of the flat?
+  options:
+    - >-
+      Wife ¾ (her own half plus half of his half); daughter ¼; the parents take nothing.
+    - >-
+      Wife ½, daughter ¼ and parents ¼, since parents inherit alongside children.
+    - >-
+      Wife ½ and daughter ½, since the whole flat is the estate and is split equally.
+    - >-
+      Wife takes the whole flat under the apartment rule, as they married over three years ago.
+  correct: 0
+  explanation: >-
+    The wife's registered half is hers; only his half is the estate. She takes half of it (s. 11(א)(1))
+    and the daughter the other half; children exclude parents (s. 12). The apartment rule applies only
+    when the closest relatives are siblings or grandparents.
+- id: q2
+  question: >-
+    After a car accident, Yonatan, conscious and believing he is dying, tells two paramedics who
+    should get his savings. They write it down and sign it that night, and deposit it two days later.
+    He dies a week later in hospital. Is this a valid will?
+  options:
+    - >-
+      No, because a will must be in writing signed by the testator himself.
+    - >-
+      Yes, as an oral will made by a person who saw himself facing death.
+    - >-
+      No, because paramedics are on duty and cannot act as witnesses to a will.
+    - >-
+      Yes, but only after the Family Court cures it under s. 25 at a hearing.
+  correct: 1
+  explanation: >-
+    Section 23 allows a person who reasonably sees himself facing death to make an oral will before
+    two witnesses who understand him; they record it with the date and circumstances, sign and deposit
+    it promptly. It did not lapse, because he never recovered.
+- id: q3
+  question: >-
+    A will was signed by the testator, then the two witnesses signed it the next day at the lawyer's
+    office after the testator had declared it to them. No one doubts it reflects his free wishes. What
+    is the likely outcome?
+  options:
+    - >-
+      Void, because witnesses must sign at the same occasion and s. 25 cannot help.
+    - >-
+      Valid automatically, because the date of the witnesses' signature is irrelevant.
+    - >-
+      Valid as a handwritten will, since the testator's signature is in his hand.
+    - >-
+      Curable under s. 25: the basic element is present, a written will brought to two witnesses.
+  correct: 3
+  explanation: >-
+    The basic element of a witnessed will is a written will brought before two witnesses (s. 25(ב)(2)).
+    A defect in the procedure of s. 20 can be cured by a reasoned decision if there is no doubt about
+    free and true wishes. It is not a handwritten will unless wholly in his hand.
+- id: q4
+  question: >-
+    Leah, 91, left her flat to the carer who lived with her, chose the lawyer, drove her there and sat
+    in during the meeting. Leah had stopped seeing her children in her last two years. On which ground
+    do the children have the strongest objection?
+  options:
+    - >-
+      That the will is unfair, since a child is entitled to a share of a parent's flat.
+    - >-
+      That a carer cannot inherit, because paid carers are disqualified under s. 5.
+    - >-
+      Undue influence under s. 30(א): dependence, isolation and involvement in making the will.
+    - >-
+      That the lawyer drafted the will, so every gift in it is void under s. 35.
+  correct: 2
+  explanation: >-
+    Dependence on the beneficiary, isolation from family and the beneficiary's involvement in making
+    the will are the classic indicators of undue influence. Israel has no forced share; s. 5 covers
+    killing or forging; s. 35 voids gifts to the drafter, not to others.
+- id: q5
+  question: >-
+    Spouses made mutual wills in one document in 2015, each to the other and then to their children.
+    In 2026, while both are alive, the wife wants to cancel. What must she do?
+  options:
+    - >-
+      Give her husband written notice of revocation; on notice, both mutual wills are void.
+    - >-
+      Make a new will; her husband's will stays in force and still benefits her.
+    - >-
+      Obtain her husband's written consent, without which she cannot revoke at all.
+    - >-
+      Apply to the Family Court, which may allow revocation for special reasons only.
+  correct: 0
+  explanation: >-
+    While both spouses are alive, a mutual will is revoked by written notice to the other spouse, and
+    the notice voids both wills (s. 8א(ב)(1)). A clause that wholly bans revocation in their lifetimes
+    would be void (s. 8א(ג)).
+- id: q6
+  question: >-
+    Three heirs divided an estate after publishing a creditors' notice and paying all known debts. Five
+    months later a creditor who ignored the notice without good reason sues one heir for the full debt.
+    What is the heir's position?
+  options:
+    - >-
+      The heir must pay the whole debt and then claim from the other two heirs.
+    - >-
+      The heir owes only his proportional share of the debt, and only within two years.
+    - >-
+      The heir owes nothing, because the creditor missed the deadline in the notice.
+    - >-
+      The heir must pay unless he can show the estate had no money left at all.
+  correct: 1
+  explanation: >-
+    A creditor who did not respond to the invitation without justification may claim from an heir only
+    a part proportional to his share, and within two years after the notice period (s. 132(ב)). If he
+    had responded, the heir's liability would be capped by s. 127.
+- id: q7
+  question: >-
+    The Registrar published your uncle's probate application. You hold a later handwritten will of his
+    that revokes the earlier one. The objection period ends tomorrow. What should you do?
+  options:
+    - >-
+      Wait until the order is given and then apply under s. 72 to cancel it.
+    - >-
+      Keep the later will and file your own probate application after the first one ends.
+    - >-
+      Deliver the later will to the Registrar and file an objection before the order is given.
+    - >-
+      Send the later will to the other heirs and ask them to withdraw their application.
+  correct: 2
+  explanation: >-
+    Anyone holding a will must deliver it to the Registrar on learning of the death (s. 75). An
+    objection must be filed within the published period and before the order (s. 67); it moves the
+    file to the Family Court. Section 72 may refuse facts you could have raised earlier.
+- id: q8
+  question: >-
+    A succession order names a widow ½ and two sons ¼ each in a flat. The sons and the widow want
+    the flat registered entirely to the widow. What must they do at the Land Registry?
+  options:
+    - >-
+      Nothing; the Registrar's digital order registers the widow as sole owner automatically.
+    - >-
+      The widow alone files an inheritance request and the registry divides as she asks.
+    - >-
+      Ask the Registrar of Inheritance to amend the order so that it names only the widow.
+    - >-
+      Register the order, and register a distribution agreement on all three heirs' application.
+  correct: 3
+  explanation: >-
+    The order registers the statutory shares; a distribution agreement not approved by a court is
+    registered only on the application of all the heirs (reg. 17(ב)). Renunciation in her favour
+    before distribution was an alternative (s. 6(ב)), but amending the order is not.
+- id: q9
+  question: >-
+    Rami, 68 and well, wants his daughter to manage his money and medical care if he loses capacity,
+    and wants to keep control until then. Which plan fits the law?
+  options:
+    - >-
+      An enduring power signed before a trained lawyer, deposited, effective on loss of capacity.
+    - >-
+      An ordinary bank power of attorney, which continues after he loses capacity.
+    - >-
+      A clause in his will appointing his daughter to manage his affairs during his lifetime.
+    - >-
+      A Family Court application now to appoint his daughter as his guardian in advance.
+  correct: 0
+  explanation: >-
+    An enduring power covering property and personal and medical matters is signed before a lawyer
+    trained by the Administrator General, deposited, and comes into force when he can no longer
+    understand the matter (ss. 32יד, 32יז, 32יט). A will speaks only on death; an ordinary agency
+    does not survive incapacity.
+- id: q10
+  question: >-
+    Hussein's estate passes by law. All the heirs, Muslim, agree to apply to the sharia court for the
+    succession order under religious law. One heir is 12 years old. What limit applies?
+  options:
+    - >-
+      None; once all adults consent, the sharia court applies religious law to everyone.
+    - >-
+      The minor's share and maintenance rights may not be less than under the Succession Law.
+    - >-
+      The sharia court cannot act at all, because a minor can never consent to its jurisdiction.
+    - >-
+      The minor must renounce his share for the religious distribution to proceed.
+  correct: 1
+  explanation: >-
+    A religious court may give succession orders if all parties consent in writing (s. 155(א)) and may
+    appoint a guardian for a minor for that purpose (s. 155(ב)); it may apply religious law, but a
+    minor's inheritance and maintenance rights may not be less than under the civil law (s. 155(ג)).

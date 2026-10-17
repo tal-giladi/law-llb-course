@@ -8,6 +8,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אגודה שיתופית** (Aguda shitufit) — Cooperative society registered under the Cooperative Societies Ordinance.
 - **אגרת טיפול** (Agrat tipul) — FOI handling fee, charged per hour from the fourth hour.
 - **אדישות** (Adishut) — Indifference: one of the two kinds of recklessness towards a result.
+- **אדם מיודע** (adam meyuda) — "Informed person" notified when an enduring power takes effect and entitled to reports (s. 32טז).
 - **אדם סביר ונבון** (Adam savir venavon) — The reasonable and prudent person, the standard of care.
 - **אומד דעת הצדדים** (omed da'at ha-tzdadim) — the parties' intention, the basis of contract interpretation.
 - **אורגן** (Organ) — Organ of a company: general meeting, board, general manager (Companies Law s. 46).
@@ -159,6 +160,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הוראת שעה** (hora'at sha'ah) — A temporary provision in force for a set period.
 - **הזדהות לאומית** (Hizdahut le'umit) — National digital identification used to log in to government services.
 - **הזמנה להציע הצעות** (hazmana le-hatzi'a hatza'ot) — invitation to make offers (to treat).
+- **הזמנת נושים** (hazmanat nosim) — Public invitation to the estate's creditors, at least three months (ss. 99, 123).
 - **החזרה לוועדה** (hachzara la-va'ada) — Remittal of a matter to an NII committee, often in another composition, with instructions.
 - **החזרת גזלה** (Hachzarat gzela) — Restoration of land taken from the possessor by unlawful self-help (Land Law s. 19).
 - **החזרת ילד חטוף** (Hachzarat yeled hatuf) — Return of a child wrongfully removed or retained, under the Hague Abduction Convention as incorporated in 1991.
@@ -201,6 +203,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הנדון** (hanidon) — The subject line of a formal letter ("Re:").
 - **הנורמה הבסיסית** (Ha-norma ha-basisit) — The basic norm (Grundnorm): Kelsen's presupposed norm at the top of the chain of validity.
 - **הנחה על שולחן הכנסת** (Hanaha al shulhan ha-knesset) — Tabling a treaty in the Knesset two weeks before the Government ratifies it (Government Work Regulations s. 10).
+- **הנחיות מקדימות** (hanhayot makdimot) — Advance directives binding an attorney (s. 32לא) or a court choosing a guardian (s. 35א).
 - **הניתוח הכלכלי של המשפט** (Ha-nituah ha-kalkali shel ha-mishpat) — Economic analysis of law (law and economics): reading legal rules as prices that change behaviour and judging them by efficiency.
 - **הסגת גבול** (Hasagat gvul) — Trespass, to land (s. 29) or to goods (s. 31).
 - **הסגת גבול המקצוע** (hasagat gvul ha-miktzo'a) — unauthorised practice of law, an offence under s. 96 of the Bar Association Law.
@@ -220,6 +223,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסניגוריה הציבורית** (ha-sanegoria ha-tziburit) — Public Defender's Office.
 - **הסתייגות** (Histaygut) — Reservation: an amendment rejected in committee that an MK or minister asks to put to a plenum vote at second reading.
 - **הסתכנות מרצון** (Histaknut miratzon) — Voluntary assumption of risk (s. 5).
+- **הסתלקות** (histalkut) — Renunciation of an inheritance share, in writing to the Registrar, before distribution, and directed only to the deceased's spouse, child or sibling (s. 6).
 - **העדפה מתקנת** (Adafa metakenet) — Affirmative action.
 - **הערות מסכמות** (He'arot mesakmot) — Concluding observations: a treaty body's recommendations after reviewing a State's report.
 - **הערכת השפעות אסדרה** (Ha'arakhat hashpa'ot asdara) — Regulatory impact assessment (RIA).
@@ -228,6 +232,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הפחתת דמי שכירות** (hafchatat dmei schirut) — Rent reduction in proportion to lost rental value while a defect is unrepaired (s. 9(א)(2)).
 - **הפליה** (Haflaya) — Discrimination on a ground listed in the Equal Employment Opportunities Law.
 - **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
+- **הפקדת צוואה** (hafkadat tzava'a) — Deposit of a will with the Registrar of Inheritance by the testator personally (s. 21).
 - **הפרדה בין המשפט למוסר** (Hafrada bein ha-mishpat la-musar) — The separation thesis: whether a law exists and whether it is good are different questions (Austin).
 - **הפרה יסודית** (hafara yesodit) — fundamental breach (Remedies Law s. 6).
 - **הפרה צפויה** (hafara tzfuya) — anticipatory breach (s. 17).
@@ -247,6 +252,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הרכב** (herkev) — panel of judges.
 - **הרמת מסך** (Haramat masakh) — Lifting (piercing) the corporate veil (Companies Law s. 6).
 - **הרצאת פרטים** (Hartza'at pratim) — Statement of particulars (Forms 3 and 4) filed with family claims; omissions may be treated as admissions.
+- **הרשם לענייני ירושה** (ha-rasham le-inyanei yerusha) — Registrar of Inheritance, part of the Administrator General, who gives uncontested orders (s. 65א).
 - **הרתעת הרבים** (Harta'at ha-rabim) — General deterrence (s. 40ז).
 - **השבה** (hashava) — restitution after cancellation.
 - **השגה** (hasaga) — objection to an authority's own decision-maker (for example on arnona).
@@ -275,6 +281,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ועדת ערר (שירותי הסעד)** (va'adat arar) — Welfare appeals committee hearing appeals against municipal social services departments (Welfare Services Law s. 2).
 - **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
 - **זוכה** (Zocheh) — Judgment creditor in an execution file.
+- **זוכה על פי צוואה** (zokhe al pi tzava'a) — Beneficiary under a will.
 - **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
 - **זיקת הנאה** (Zikat hana'a) — Easement: a burden on land for a benefit without possession (Land Law s. 5); acquired also by 30 years of use (s. 94).
 - **זכויות קוגנטיות** (Zchuyot kognetiviyot) — Cogent labour rights that cannot be waived by contract.
@@ -366,6 +373,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ידיד קרוב** (Yedid karov) — Close friend, who may represent a claimant before the NII (NII Law s. 386).
 - **ידיעה שיפוטית** (yedi'a shiputit) — Judicial notice: facts and law the court takes without proof; every Israeli law is judicially noticed (s. 57ב), foreign law must be proved.
 - **יומן תיק** (Yoman tik) — Case log: a running record of every step, communication and deadline in a dispute.
+- **יורש אחר יורש** (yoresh ahar yoresh) — Successive heir who takes what remains after the first heir (s. 42).
+- **יורש על פי דין** (yoresh al pi din) — Heir on intestacy: the spouse and the relatives listed in Succession Law s. 10.
 - **יושרה אקדמית** (Yoshra akademit) — Academic integrity.
 - **יזם** (Yazam) — Promoter acting for a company before its incorporation (Companies Law ss. 12–14).
 - **יחידת סיוע** (Yehidat siyua) — Welfare Ministry assistance unit at a family or religious court.
@@ -373,6 +382,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ייחוד העילה** (Yichud ha'ila) — Exclusivity of the road-accident claim; no negligence claim for bodily injury (s. 8).
 - **ייחוד פעולות המקצוע** (yihud pe'ulot ha-miktzo'a) — the acts reserved to lawyers under s. 20 of the Bar Association Law.
 - **ייפוי כוח** (yipui ko'ah) — power of attorney; the document appointing a representative.
+- **ייפוי כוח מתמשך** (yipui ko'ah mitmashekh) — Enduring power of attorney that takes effect on loss of capacity (Capacity and Guardianship Law s. 32ב).
 - **ילקוט הפרסומים (י"פ)** (Yalkut HaPirsumim) — The Reshumot series for official notices and appointments.
 - **יעילות** (Ye'ilut) — Efficiency; Pareto (someone better off, nobody worse off) or Kaldor-Hicks (winners gain more than losers lose).
 - **כאב וסבל** (Ke'ev vesevel) — Pain and suffering, a head of non-pecuniary damage.
@@ -419,8 +429,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מומחה מטעם בית המשפט** (mumche mita'am beit hamishpat) — Court-appointed expert (CPR reg. 88); appointment with the parties' consent usually excludes party opinions.
 - **מועד קובע** (mo'ed kove'a) — Fatal deadline: a period whose expiry ends a right or a route (e.g. the 30-day NII medical appeal).
 - **מועדים שורדים** (mo'adim sordim) — Surviving deadlines: dates that outlive the case and need action later.
+- **מוריש** (morish) — The deceased whose estate passes on death (Succession Law s. 1).
 - **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
 - **מזונות זמניים** (Mezonot zmaniyim) — Interim maintenance pending judgment.
+- **מזונות מן העיזבון** (mezonot min ha-izavon) — Maintenance from the estate for a needy spouse, children or parents, even against a will (ss. 56–65).
 - **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
 - **מזכר סגירה** (mazkar sgira) — Closing memo of a case file: outcome, money, documents, surviving deadlines, lessons, archive.
 - **מזמין שירות** (Mazmin sherut) — Client of a cleaning, security or catering contractor; may become liable for the contractor's wage duties after notice (Enforcement Law s. 25).
@@ -450,6 +462,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מנהג** (Minhag) — Custom, a legal source of Jewish law, strong in civil matters.
 - **מנהג בינלאומי** (Minhag beinleumi) — Customary international law: a general practice accepted as law; part of Israeli law unless a statute provides otherwise.
 - **מנהל כללי** (Menahel klali) — General manager (CEO).
+- **מנהל עיזבון** (menahel izavon) — Estate administrator appointed by the court or, by consent, the Registrar (s. 78).
 - **מנוחה שבועית** (Menuha shvu'it) — Weekly rest of at least 36 consecutive hours.
 - **מניין חוקי** (Minyan hukki) — Quorum.
 - **מסוימות** (mesuyamut) — certainty (definiteness) of the essential terms.
@@ -473,6 +486,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מקרקעין** (Mekarke'in) — Land, including everything built, planted or permanently attached to it, except separable attachments (Land Law s. 1).
 - **מקרקעין מוסדרים** (Mekarke'in musdarim) — Settled land, registered after settlement of title; the register is conclusive for it (Land Law s. 125).
 - **מרכז מידע טלפוני** (Merkaz meida telefoni) — The Judiciary's telephone information centre.
+- **מרכיבי היסוד** (markivei ha-yesod) — The "basic elements" of each will form, required before a defect can be cured (s. 25(ב)).
 - **מרקם פתוח** (Mirkam patu'ah) — Open texture: the zone of doubtful cases (penumbra) around a rule's clear core.
 - **משדל** (Meshadel) — Inducer (instigator) (s. 30).
 - **משכון** (Mashkon) — Pledge: a charge on an asset as security for a debt (Pledges Law s. 1).
@@ -562,6 +576,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עיגון** (Igun) — Anchoring: the pull of a first number on later estimates.
 - **עיון במסמכים** (Iyun bamismachim) — Inspection of disclosed documents (reg. 58).
 - **עיון חוזר** (iyun chozer) — Request for review of a detention or bail decision on new facts, changed circumstances or the passage of time (Arrests Law s. 52).
+- **עיזבון** (izavon) — The estate: the deceased's assets and debts.
 - **עיכבון** (Ikavon) — Lien: a right under law to keep movables until a debt is paid (Movable Property Law s. 11).
 - **עיכוב** (ikuv) — Detention on the spot: a short police stop on reasonable suspicion to identify, question or hand documents, at most three hours (Arrests Law ss. 67, 73).
 - **עיכוב ביצוע** (Ikuv bitzu'a) — Stay of execution; not automatic on appeal (CPR reg. 145).
@@ -636,6 +651,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פנייה לפי סעיף 60א** (pniya lefi se'if 60א) — A felony suspect's reasoned written request to the prosecution not to indict (CPL s. 60א); often called a pre-indictment hearing (שימוע).
 - **פנקס שוברים** (Pinkas shovrim) — Voucher booklet through which buyers pay into a financed project's account, each payment triggering a guarantee.
 - **פסיקתה** (Psikta) — Formal order embodying a judgment (reg. 133).
+- **פסלות לרשת** (pslut lareshet) — Disqualification from inheriting, e.g. for causing the deceased's death or forging the will (s. 5).
 - **פסק בוררות** (Psak borerut) — Arbitral award; binding as res judicata and enforceable once confirmed.
 - **פסק דין** (psak din) — Judgment: the decision that ends a proceeding.
 - **פסק דין בהסכמה** (psak din be-haskama) — Judgment by consent (in agreed terms).
@@ -668,9 +684,16 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **צו הגנה** (Tzav hagana) — Protection order (Prevention of Family Violence Law 1991).
 - **צו הורות** (Tzav horut) — Parentage order given to intended parents after a surrogacy birth.
 - **צו הרחבה** (Tzav harhava) — Extension order spreading a general collective agreement to others.
+- **צו ירושה** (tzav yerusha) — Succession order declaring heirs and shares on intestacy (s. 66).
 - **צו מרווה** (Tzav Mareva) — Freezing order acting on the person; given as a temporary injunction (reg. 109).
 - **צו על תנאי** (Tzav al tnai) — Order nisi: an order to the respondent to show cause why relief should not be granted.
+- **צו קיום צוואה** (tzav kiyum tzava'a) — Probate order declaring a will valid (s. 66).
 - **צו תשלומים** (Tzav tashlumim) — Payment (instalment) order for a debtor who cannot pay in full (s. 7א).
+- **צוואה בכתב יד** (tzava'a bikhtav yad) — Handwritten will: wholly written, dated and signed by the testator (s. 19).
+- **צוואה בעדים** (tzava'a be-edim) — Witnessed will: signed by the testator before two witnesses who sign at the same occasion (s. 20).
+- **צוואה בעל־פה** (tzava'a be'al pe) — Oral will of a person facing death, before two witnesses; lapses a month after the danger passes (s. 23).
+- **צוואה בפני רשות** (tzava'a bifnei rashut) — Will made before a judge, registrar, religious-court member or notary (s. 22).
+- **צוואות הדדיות** (tzava'ot hadadiyot) — Mutual wills of spouses made in reliance on each other, with special revocation rules (s. 8א).
 - **צווים זמניים** (Tzavim zmaniyim) — Provisional measures ordered by the ICJ pending judgment; binding, without a finding of breach.
 - **צורך** (Tzorekh) — Necessity (s. 34יא).
 - **צורך משפטי** (Tsorekh mishpati) — Legal need: a problem a person cannot solve without legal help or a legal process.
@@ -702,6 +725,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רושם נישואין** (Rosham nisu'in) — Marriage registrar; for Jews, a rabbi appointed under the Chief Rabbinate Law.
 - **ריאליזם משפטי** (Re'alizm mishpati) — Legal realism: law as a prediction of what courts will actually do.
 - **ריבון** (Ribon) — Sovereign; for Austin, the person or body habitually obeyed by most of society and obeying no one.
+- **רישום ירושה** (rishum yerusha) — Registration of an inheritance in the Land Registry (Land Management and Registration Regulations reg. 17).
 - **רכוש משותף** (Rekhush meshutaf) — Common property of a condominium: everything not registered as a flat (Land Law s. 52).
 - **רס גסטה** (res gestae) — Spontaneous statements made in the excitement of an event, admitted as an exception to hearsay.
 - **רצח בנסיבות מחמירות** (Retzah be-nesibot mahmirot) — Murder in aggravating circumstances (s. 301א).

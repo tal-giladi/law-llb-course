@@ -1,0 +1,75 @@
+- id: q1
+  question: >-
+    A succession order names three siblings as equal heirs of a flat. Two of them signed an agreement
+    giving the whole flat to one of the two; the third sibling refuses to sign. The two ask the Land
+    Registry to register the agreement. What happens?
+  options:
+    - >-
+      The agreement is registered, because two heirs out of three are a majority.
+    - >-
+      The request is refused; an unapproved agreement needs every heir's application.
+    - >-
+      The Registrar of Inheritance must approve the agreement before the Land Registry acts.
+    - >-
+      The registry registers the flat in that sibling's name and notes the dispute.
+  correct: 1
+  explanation: >-
+    Inheritance is registered on any interested person's application, but an estate-distribution
+    agreement not approved by a court is registered only on the application of all the heirs (Land
+    Management and Registration Regulations reg. 17(ב)). Without everyone, the heirs need a court
+    order under s. 111 or co-ownership remedies.
+- id: q2
+  question: >-
+    Ruth, 70 and fully capable, wants her son to manage her money if she develops dementia. Her
+    neighbour, a retired accountant, offers to prepare the document and witness her signature. What
+    is required for a valid enduring power of attorney over property?
+  options:
+    - >-
+      A signature before two adult witnesses who do not benefit, like a witnessed will.
+    - >-
+      A signature before any notary, since a notary's certification is enough for every power.
+    - >-
+      A signature before a lawyer trained by the Administrator General, then deposit with it.
+    - >-
+      A Family Court order approving the power, because it limits her legal capacity.
+  correct: 2
+  explanation: >-
+    Section 32יד(א) requires signature before a lawyer who completed the Administrator General's
+    training and has no personal interest; deposit with the Administrator General is a precondition of
+    entry into force (s. 32יז). The power does not remove capacity, so no court order is needed.
+- id: q3
+  question: >-
+    Under a deposited enduring power that has come into force, a daughter wants to sell her father's
+    apartment to pay for a nursing home. The power authorises "all property matters". What must she do?
+  options:
+    - >-
+      Sell at once, since "all property matters" covers selling the apartment.
+    - >-
+      Ask the Registrar of Inheritance, because the flat will be part of the estate.
+    - >-
+      Have her father sign the sale deed, since his capacity is never removed.
+    - >-
+      Seek prior approval from the Administrator General, who may refer it to court.
+  correct: 3
+  explanation: >-
+    Transferring an apartment is one of the acts needing prior approval (s. 32ו(ד)(1)); requests go to
+    the Administrator General, who approves or transfers them to the court (s. 74א). Entry into force
+    does not remove capacity (s. 32כ), but she cannot simply bypass the approval rule.
+- id: q4
+  question: >-
+    Which instruction can an attorney under an enduring power never carry out for the grantor, even if
+    the document expressly authorises it?
+  options:
+    - >-
+      Making a will for the grantor or naming beneficiaries of his life insurance.
+    - >-
+      Renting out the grantor's flat for two years to a tenant not under rent control.
+    - >-
+      Paying the grantor's carer and household bills from his bank account.
+    - >-
+      Giving modest birthday gifts to grandchildren in line with past practice.
+  correct: 0
+  explanation: >-
+    Section 32ו(ב)(6) excludes making a will and naming beneficiaries under s. 147 of the Succession
+    Law, along with voting, religious conversion and other personal acts. Short rentals, routine
+    payments and customary gifts are within ordinary authority.

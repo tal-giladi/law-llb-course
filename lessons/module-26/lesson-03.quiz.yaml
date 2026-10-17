@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    Rivka's mother had a diagnosis of early Alzheimer's two years before she made a witnessed will
+    favouring Rivka's brother. Rivka wants to object on capacity. What must she show?
+  options:
+    - >-
+      Only the diagnosis, since any dementia diagnosis voids every later will.
+    - >-
+      That on the day of making, her mother could not understand the nature of a will.
+    - >-
+      That the will is unfair to her compared with the previous will.
+    - >-
+      That her brother cannot prove their mother was fully healthy at the time.
+  correct: 1
+  explanation: >-
+    Section 26 voids a will made when the testator could not understand the nature of a will. The
+    test is functional and tied to the time of making, and the objector bears the burden; a diagnosis
+    is evidence, not proof.
+- id: q2
+  question: >-
+    A will leaves "my Mazda car" to a nephew. At death the testator owned a Toyota, bought after
+    selling the Mazda; the will's other clauses show he wanted his nephew to have "whatever car I
+    drive". What is the best argument for the nephew?
+  options:
+    - >-
+      Correct the description under s. 32 or read the will by intention under s. 54.
+    - >-
+      Ask the heirs for compensation for the Mazda's value under s. 51.
+    - >-
+      Ask the court to void the whole will, so that intestacy applies to all.
+    - >-
+      Nothing can be done, since a gift of a specific asset always fails if sold.
+  correct: 0
+  explanation: >-
+    A specific gift of an asset not in the estate fails without compensation (s. 51(ג)), but a
+    mistaken description can be corrected (s. 32) and the will read by the testator's intention
+    (s. 54). The outcome depends on how clear that intention is.
+- id: q3
+  question: >-
+    In 2019 Eli was pressured by his son into a will. The son moved abroad in 2020 and had no contact
+    afterwards. Eli, healthy and independent, died in 2026 without changing the will. Can the other
+    heirs void it for undue influence?
+  options:
+    - >-
+      Yes, because a will made under undue influence is void at any time.
+    - >-
+      Yes, but only if they file the objection within a year after the death.
+    - >-
+      No, unless the son admits that he pressured his father to make it.
+    - >-
+      Probably not: over a year passed after the pressure stopped and Eli could revoke.
+  correct: 3
+  explanation: >-
+    Section 31 bars the defect if a year passed after the influence ceased and the testator could
+    revoke but did not. The heirs would need to show the influence continued or Eli could not act.
+- id: q4
+  question: >-
+    Dvora tore up her deposited will's copy at home, but the original remained with the Registrar.
+    She then wrote a signed letter, typed, saying "I cancel my will". She died a month later. Which
+    statement is most accurate?
+  options:
+    - >-
+      Revoked automatically, because tearing any copy is destruction under s. 36.
+    - >-
+      Not revoked under any circumstances, because the letter is not handwritten.
+    - >-
+      Not formally revoked; a court may still find revocation if her intention was clear.
+    - >-
+      Revoked, because the Registrar must cancel a deposited will on request of the heirs.
+  correct: 2
+  explanation: >-
+    Revocation is by a form of will or by destroying the will (s. 36(א)); a copy is not the will and
+    the typed letter is not a valid form. Following Aharon v. Aharoni, clear intention may still be
+    given effect despite formal defects, so the outcome turns on the evidence.
