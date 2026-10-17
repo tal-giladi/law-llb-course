@@ -1,0 +1,43 @@
+- **סדר דין אזרחי** (Seder din ezrachi) — Civil procedure; since 1.1.2021 governed by the Civil Procedure Regulations 2018.
+- **עקרונות יסוד** (Ekronot yesod) — Basic principles: Part A (regs 1–5א) of the Civil Procedure Regulations 2018.
+- **שימוש לרעה בהליך** (Shimush lera'a bahalich) — Abuse of process (reg. 4): a step meant to disrupt, delay or harass, or disproportionate to the case.
+- **בעל דין שאינו מיוצג** (Ba'al din she'eino meyutzag) — Self-represented (unrepresented) party.
+- **מכתב התראה** (Michtav hatra'a) — Pre-action (warning) letter sent before suing.
+- **כתב תביעה** (Ktav tvi'a) — Statement of claim.
+- **כתב הגנה** (Ktav hagana) — Statement of defence.
+- **כתב תשובה** (Ktav tshuva) — Plaintiff's reply to the defence.
+- **המצאה** (Hamtza'a) — Service of court documents.
+- **פסק דין בהעדר הגנה** (Psak din be'heder hagana) — Default judgment when no defence is filed.
+- **דיון מקדמי** (Diyun mukdam) — Preliminary discussion between represented parties before the pre-trial (reg. 35).
+- **פגישת מהו״ת** (Pgishat mahut) — Free mediation-intake meeting (information, acquaintance, coordination) under reg. 37.
+- **קדם משפט** (Kdam mishpat) — Pre-trial hearing.
+- **דיון מהיר** (Diyun mahir) — Fast track for smaller money claims and eviction claims (regs 78–82).
+- **נט המשפט** (Net HaMishpat) — The courts' online case-management and filing system.
+- **הזדהות לאומית** (Hizdahut le'umit) — National digital identification used to log in to government services.
+- **זכות שהומחתה** (Zchut shehumcheta) — Assigned right; claims based on one cannot be brought in small claims.
+- **שימוע לפני הגשת כתב אישום** (Shimu'a) — Pre-indictment hearing: a felony suspect's written request not to be indicted (CPL s. 60א).
+- **חומר חקירה** (Chomer chakira) — Investigation material the defendant may inspect after indictment (CPL s. 74).
+- **טענות מקדמיות** (Ta'anot mukdamot) — Preliminary arguments at the start of a criminal trial (CPL s. 149).
+- **הגנה מן הצדק** (Hagana min hatzedek) — Protection from injustice; a preliminary argument that the proceedings contradict justice and fairness (CPL s. 149(10)).
+- **הסדר מותנה** (Hesder mutne) — Conditional arrangement: closing a criminal file on admission and conditions (CPL ss. 67א–67ב).
+- **עתירה מינהלית** (Atira minhalit) — Administrative petition in the Administrative Affairs Court.
+- **ערעור מינהלי** (Ir'ur minhali) — Administrative appeal against a statutory body's decision, where a law provides one.
+- **תובענה מינהלית** (Tvi'a minhalit) — Administrative claim, e.g. restitution of unlawful charges (Third Schedule).
+- **שיהוי** (Shihuy) — Delay (laches), a ground to dismiss a petition even within the time limit.
+- **גישור** (Gishur) — Mediation: a mediator helps the parties agree, without power to decide (Courts Law s. 79ג).
+- **בוררות** (Borerut) — Arbitration under the Arbitration Law 1968.
+- **פסק בוררות** (Psak borerut) — Arbitral award; binding as res judicata and enforceable once confirmed.
+- **ביטול פסק בוררות** (Bitul psak borerut) — Setting aside an award on the closed grounds in Arbitration Law s. 24.
+- **פשרה** (Pshara) — Compromise; a court may decide by compromise with the parties' consent (Courts Law s. 79א).
+- **הוצאה לפועל** (Hotza'a lapo'al) — Execution, enforcement of judgments and other executable documents.
+- **רשות האכיפה והגבייה** (Reshut ha'akifa vehagvi'a) — Enforcement and Collection Authority, which runs the Execution Offices.
+- **זוכה** (Zocheh) — Judgment creditor in an execution file.
+- **חייב** (Chayav) — Judgment debtor in an execution file.
+- **חוב פסוק** (Chov pasuk) — Judgment debt, including linkage, interest and costs.
+- **אזהרה** (Azhara) — The warning served on a debtor when an execution file opens (Execution Law s. 7).
+- **צו תשלומים** (Tzav tashlumim) — Payment (instalment) order for a debtor who cannot pay in full (s. 7א).
+- **חקירת יכולת** (Chakirat yecholet) — Means inquiry into a debtor's ability to pay (s. 67).
+- **עיקול** (Ikul) — Lien, attachment of property or money.
+- **טענת פרעתי** (Ta'anat parati) — A debtor's claim that he already paid or no longer owes (s. 19).
+- **מסלול מקוצר** (Maslul mekutzar) — Short track for small money debts in the Execution Office (s. 20ב).
+- **תביעה על סכום קצוב** (Tvi'a al schum katzuv) — Claim for a fixed sum filed directly at the Execution Office (s. 81א1).

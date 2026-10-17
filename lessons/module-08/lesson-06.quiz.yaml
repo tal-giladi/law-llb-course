@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Your building contract says disputes go to arbitration. The contractor sues you in court anyway.
+    You file a full defence on the merits and, a month later, ask the court to stay the case for
+    arbitration. What is the likely result?
+  options:
+    - >-
+      The stay is granted, because the arbitration clause always prevails.
+    - >-
+      The court must transfer the case to the contractor's chosen arbitrator.
+    - >-
+      The stay is likely refused; it had to be sought before you first argued the merits.
+    - >-
+      The court dismisses the contractor's claim for breaching the clause.
+  correct: 2
+  explanation: >-
+    Arbitration Law s. 5(ב): a request to stay must be made in the defence or otherwise, but no later
+    than the day the applicant first argued the merits.
+- id: q2
+  question: >-
+    An arbitration clause says nothing about the applicable law. The award against you applies a
+    "fairness" view that departs from the Contracts Law. Can you have it set aside for misapplying the
+    law?
+  options:
+    - >-
+      Yes; every award may be set aside for an error of law.
+    - >-
+      No; by default the arbitrator is not bound by substantive law.
+    - >-
+      Yes, but only by appeal to the district court as of right within 60 days.
+    - >-
+      No, unless you also prove the arbitrator was bribed by the other side.
+  correct: 1
+  explanation: >-
+    First Schedule item יד frees the arbitrator from substantive law unless the agreement says otherwise;
+    s. 24(7) applies only where the agreement required decision by law, and s. 24 has no general
+    "wrong on the merits" ground.
+- id: q3
+  question: >-
+    In mediation, the other side said: "We know the pipe was faulty when we sold the flat." Mediation
+    failed. Can you quote this admission at the trial?
+  options:
+    - >-
+      No; statements made in mediation are not evidence in civil proceedings.
+    - >-
+      Yes, if you made a note of it during the mediation session.
+    - >-
+      Yes, if the mediator agrees to testify about what was said.
+    - >-
+      Only if the admission was made in front of both parties' lawyers.
+  correct: 0
+  explanation: >-
+    Courts Law s. 79ג(ד): things said in a mediation process shall not be used as evidence in a civil
+    proceeding. Prove the fault with independent evidence.
+- id: q4
+  question: >-
+    You and a neighbour settled a dispute with a mediator before any claim was filed. You want to be
+    able to enforce it through the Execution Office if he does not pay. What should you do?
+  options:
+    - >-
+      Nothing; a signed mediation agreement is enforceable like a judgment.
+    - >-
+      File a small claim for the full original amount and attach the agreement.
+    - >-
+      Register the agreement with the Execution Office as a promissory note.
+    - >-
+      Ask the competent court to give the agreement the force of a judgment under s. 79ג(ח).
+  correct: 3
+  explanation: >-
+    Courts Law s. 79ג(ח) lets the court competent to hear the dispute give a mediated settlement the force
+    of a judgment even if no claim was filed; then it can be executed (lesson 08.7).

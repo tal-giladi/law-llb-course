@@ -1,0 +1,177 @@
+- id: q1
+  question: >-
+    A landlord kept your ₪9,000 deposit four months after you left the flat in good condition. You want
+    your money back with the least cost and risk. Which plan fits best?
+  options:
+    - >-
+      Petition the Administrative Affairs Court, since deposits are regulated by statute.
+    - >-
+      A dated pre-action letter, then a small claim if he still does not pay.
+    - >-
+      Open an execution file at once, attaching the lease as an executable document.
+    - >-
+      File a police complaint for theft, which obliges him to return the deposit.
+  correct: 1
+  explanation: >-
+    A lease is not executable without a judgment, and this is a private civil money claim. A letter with a
+    deadline, then small claims (individual plaintiff, money within the ceiling), is the proportionate
+    route.
+- id: q2
+  question: >-
+    You are defending yourself in the magistrates' court. The plaintiff's lawyer files a 30-page motion
+    to add a defendant two days before the evidence hearing, plainly to postpone it. Which argument is
+    strongest in your written response?
+  options:
+    - >-
+      The motion is invalid because only the judge may add parties on his own initiative.
+    - >-
+      The motion must be refused because your opponent is represented and you are not.
+    - >-
+      It is a step meant to delay and disproportionate to the case: an abuse under reg. 4.
+    - >-
+      The judge must refer the case to mediation before deciding any further motion.
+  correct: 2
+  explanation: >-
+    Regulation 4 treats a step aimed at delay, or disproportionate to the case, as abuse of process;
+    reg. 151(ג) and reg. 156 allow costs. Representation status does not decide motions.
+- id: q3
+  question: >-
+    You received a statement of claim for ₪70,000 from a supplier. You agree you ordered the goods but say
+    half were defective. How should your defence handle the order paragraph and the defects paragraph?
+  options:
+    - >-
+      Deny everything in one general sentence, to keep every option open for trial.
+    - >-
+      Admit the order; deny the condition of the goods expressly, with exhibits.
+    - >-
+      Say nothing about the order, since silence is neither admission nor denial.
+    - >-
+      Answer only the amount, since the facts are decided later at the pre-trial.
+  correct: 1
+  explanation: >-
+    Under reg. 14(ב) facts not denied expressly and in detail are admitted, so a general denial is
+    dangerous; admitting what is true and denying the disputed facts specifically narrows the case.
+- id: q4
+  question: >-
+    A café, operated by a company, owes your one-person (sole trader) catering business ₪12,000. Your
+    friend's catering company is owed ₪12,000 by the same café. Who may sue in small claims?
+  options:
+    - >-
+      You, as an individual; your friend's company must go to the magistrates' court.
+    - >-
+      Both of you, because the amounts are within the small-claims ceiling.
+    - >-
+      Neither of you, because business debts go only to the magistrates' court.
+    - >-
+      Only your friend's company, because it is registered and you are not.
+  correct: 0
+  explanation: >-
+    Courts Law s. 60(א) admits claims filed by an individual, including a sole trader; a company cannot
+    sue in small claims. Both may also choose the magistrates' court (s. 61).
+- id: q5
+  question: >-
+    After a fight, you were questioned and released. Months later a letter from the district attorney
+    says the material in a felony file has been transferred and gives an address for written arguments.
+    What is the wise course?
+  options:
+    - >-
+      Ignore it, since nothing happens until an indictment is actually served.
+    - >-
+      Go to the police station and give a new, fuller statement about the night.
+    - >-
+      Get a lawyer at once to write a reasoned request within the period.
+    - >-
+      Petition the High Court of Justice to stop the prosecution before it starts.
+  correct: 2
+  explanation: >-
+    CPL s. 60א gives a felony suspect a short period to ask, with reasons, not to be indicted or to be
+    charged with less. In a felony matter a lawyer is essential (and the Public Defender may help).
+- id: q6
+  question: >-
+    The Interior Ministry refused your spouse's visa on 1 May; the refusal letter arrived on 6 May. You
+    spent two months writing to officials. On 10 July you petition the Administrative Affairs Court.
+    What is the main risk?
+  options:
+    - >-
+      None; the period runs only from the authority's last reply to your letters.
+    - >-
+      The petition is in the wrong court, because visa decisions go only to the HCJ.
+    - >-
+      The court will first require you to sue the ministry for damages instead.
+    - >-
+      It is late under the default period from notice, and delay may also count.
+  correct: 3
+  explanation: >-
+    Regulation 3(ב) counts the default period from the earliest of publication, notice or knowledge;
+    correspondence does not stop the clock, and reg. 4 allows dismissal for delay. Ask for an extension
+    with reasons (reg. 3(ג)).
+- id: q7
+  question: >-
+    Your renovation contract has an arbitration clause with no reference to law. The award against you
+    is, you believe, wrong on the facts. It was delivered to you 30 days ago. What is your realistic
+    position?
+  options:
+    - >-
+      Appeal to the district court as of right, on the facts, within 60 days.
+    - >-
+      The award stands unless a s. 24 ground applies, raised within the s. 27 period.
+    - >-
+      Ask the Execution Office to refuse to enforce it because it is wrong.
+    - >-
+      File a new claim in the magistrates' court, since awards do not bind courts.
+  correct: 1
+  explanation: >-
+    Arbitration Law s. 24 lists closed grounds for setting aside; error on the facts is not one, and with
+    no "according to law" term the arbitrator was not bound by law. Section 27 sets a short period.
+- id: q8
+  question: >-
+    You settled a dispute in court-referred mediation. The other side must pay ₪20,000 in four instalments.
+    What should the settlement include so that you can collect if he stops paying?
+  options:
+    - >-
+      A default clause and a request to give it the force of a judgment.
+    - >-
+      A statement that the mediator will enforce it if instalments are missed.
+    - >-
+      A confidentiality clause preventing either side from going back to court.
+    - >-
+      A clause that the court file be closed without any judgment at all.
+  correct: 0
+  explanation: >-
+    A settlement given the force of a judgment (Courts Law ss. 79א, 79ג(ז)) is executable at the Execution
+    Office; a default clause lets you execute the whole balance. Mediators have no enforcement power.
+- id: q9
+  question: >-
+    A judgment for ₪8,000 was given against a debtor in his absence, and you had to serve it on him. It
+    sets no payment date. From when may you open an execution file?
+  options:
+    - >-
+      From the day the judge signed the judgment, without any waiting.
+    - >-
+      Only after the debtor confirms in writing that he received the judgment.
+    - >-
+      After the default period, counted from the day you served him.
+    - >-
+      Only after a full year, so that the interest on the debt is not limited.
+  correct: 2
+  explanation: >-
+    Execution Law s. 6(ב): where the judgment was given in the debtor's absence and the creditor had to
+    serve it, the default period runs from service. Waiting more than a year limits interest (s. 6(ב2)).
+- id: q10
+  question: >-
+    You opened an execution file. The debtor is a self-employed electrician; you know his bank and that
+    he owns a work van and a private car. What enforcement plan is lawful and sensible?
+  options:
+    - >-
+      Attach the work van first, since it is the most valuable asset he has.
+    - >-
+      Ask for his imprisonment immediately, as he has clearly not paid the debt.
+    - >-
+      Ask the office to sell his family flat, which will cover the debt quickly.
+    - >-
+      After the warning period, ask for liens on his bank account and private car.
+  correct: 3
+  explanation: >-
+    Tools of trade, including a vehicle he needs for work, are exempt (s. 22(א)(4)); imprisonment is a
+    last resort and a home sale needs a hearing and alternative housing (s. 38). Bank accounts and a
+    private car are proper targets once the warning period ends.

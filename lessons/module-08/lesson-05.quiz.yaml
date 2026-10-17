@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The municipality refused to renew your business licence. No law gives a specific appeal. Where do
+    you challenge the decision?
+  options:
+    - >-
+      In the High Court of Justice, which hears every petition against a municipality.
+    - >-
+      In the magistrates' court, by a civil claim for the licence.
+    - >-
+      In the Administrative Affairs Court, under its First Schedule.
+    - >-
+      In the small claims court, if the lost income is within the ceiling.
+  correct: 2
+  explanation: >-
+    Administrative Affairs Courts Law s. 5(1) gives the district court sitting in administrative matters
+    petitions on First Schedule matters, which include business licensing. The HCJ is residual.
+- id: q2
+  question: >-
+    You received a refusal by email on 3 March, but the authority published it on its website on 25
+    February. You heard about it from a friend on 1 March. From which date does the petition period run?
+  options:
+    - >-
+      25 February, the earliest of publication, notice and knowledge.
+    - >-
+      3 March, when you personally received written notice.
+    - >-
+      1 March, because informal knowledge always overrides publication.
+    - >-
+      The date you finish your prior demand, because the period starts after it.
+  correct: 0
+  explanation: >-
+    Reg. 3(ב) counts from publication, notice to the petitioner or the petitioner's knowledge, "whichever
+    is earliest". Delay may still be argued even inside the period (reg. 4).
+- id: q3
+  question: >-
+    You file an administrative petition on day 20 of the period, but you never wrote to the authority
+    before. What does reg. 5 require?
+  options:
+    - >-
+      Nothing; a prior demand is needed only in the High Court of Justice.
+    - >-
+      The petition must give reasons for filing without a prior demand.
+    - >-
+      The petition is void and must be refiled after a written demand.
+    - >-
+      You must pay double the fee because no demand was made.
+  correct: 1
+  explanation: >-
+    Reg. 5(ב)(6): attach the prior written demand and the correspondence, or state the reasons for filing
+    without one. In practice an unexplained failure often leads to dismissal.
+- id: q4
+  question: >-
+    The Administrative Affairs Court dismissed your administrative petition. Can you go to the Supreme
+    Court?
+  options:
+    - >-
+      Only with leave, as for every decision of the Administrative Affairs Court.
+    - >-
+      No; Administrative Affairs Court judgments are final.
+    - >-
+      Only by filing a new petition in the High Court of Justice.
+    - >-
+      Yes, as of right; a judgment in a petition is appealable under s. 11.
+  correct: 3
+  explanation: >-
+    Section 11 allows an appeal as of right from a judgment in an administrative petition or claim; s. 12
+    requires leave for judgments in administrative appeals and listed interim decisions.

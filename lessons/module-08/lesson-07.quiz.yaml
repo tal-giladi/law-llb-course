@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A magistrates' court judgment was given in your favour today, with both sides present. It sets no
+    date for payment. When may you open an execution file?
+  options:
+    - >-
+      Today; a judgment is executable from the moment it is given.
+    - >-
+      After 30 days from the judgment, unless the registrar allows earlier filing.
+    - >-
+      Only after the 60-day appeal period ends without an appeal.
+    - >-
+      Only after you send the debtor a pre-action letter and wait 14 days.
+  correct: 1
+  explanation: >-
+    Execution Law s. 6(ב): with no payment date set, the request is filed after 30 days from the judgment
+    (from service if given in the debtor's absence); s. 6(ב1) allows earlier filing on an affidavit
+    showing a risk.
+- id: q2
+  question: >-
+    The debtor received the warning and wants to say the judgment was wrong on the facts. What can the
+    Execution Office do about that?
+  options:
+    - >-
+      The registrar can reopen the facts at a means inquiry and reduce the debt.
+    - >-
+      The registrar must stay the file until the debtor files new evidence.
+    - >-
+      Nothing on the merits; that is for the court that gave the judgment.
+    - >-
+      The director can cancel the judgment if both parties attend a hearing.
+  correct: 2
+  explanation: >-
+    The Execution Office enforces the judgment; it does not review its merits. The debtor may appeal or
+    apply to set aside in court, and ask for a stay of execution.
+- id: q3
+  question: >-
+    You want to attach the debtor's property. Which item is protected from attachment by s. 22?
+  options:
+    - >-
+      The debtor's second car, used for weekend trips.
+    - >-
+      Shares the debtor holds in a listed company.
+    - >-
+      Money in the debtor's savings account.
+    - >-
+      The van a self-employed plumber needs for his work.
+  correct: 3
+  explanation: >-
+    Section 22(א)(4) exempts tools, machines and other movables, including a vehicle, without which the
+    debtor cannot practise his trade. Bank money, shares and a second car are not exempt.
+- id: q4
+  question: >-
+    The debtor attended a means inquiry, was found to have means and to be evading payment, and owes more
+    than the threshold. What may the registrar now do?
+  options:
+    - >-
+      Impose restrictions, such as a bar on leaving the country.
+    - >-
+      Order the debtor's imprisonment as the first and usual step.
+    - >-
+      Sell the debtor's home without a hearing, since he evades payment.
+    - >-
+      Transfer the debt automatically to the National Insurance Institute.
+  correct: 0
+  explanation: >-
+    Sections 66א–66ב allow restrictions (passport, exit, cheques, credit cards, companies) once a
+    condition such as "having means and evading" is met. Imprisonment is a last resort and a home sale
+    needs a hearing and alternative housing (s. 38).

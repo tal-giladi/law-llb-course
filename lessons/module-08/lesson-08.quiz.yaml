@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    You are about to send a pre-action letter to "Pizza Haifa", the name on the shop sign. The receipt
+    shows "פ.ח. מזון בע"מ, ח"פ 51-xxxxxxx". To whom should the letter be addressed?
+  options:
+    - >-
+      To "Pizza Haifa", because that is the name customers know.
+    - >-
+      To the shop manager personally, who served you.
+    - >-
+      To the company on the receipt, also at its registered office.
+    - >-
+      To the municipality's business-licensing department.
+  correct: 2
+  explanation: >-
+    A claim must name the legal person that owes the money. The receipt names the company and its number;
+    check its registered office with the Companies Registrar and send there too.
+- id: q2
+  question: >-
+    Which deadline in a pre-action letter best serves you if you later sue?
+  options:
+    - >-
+      "Please pay immediately, otherwise I will take further steps."
+    - >-
+      "Pay by 14.11.2026, or I will sue in the Haifa small claims court."
+    - >-
+      "Pay within a reasonable time, or I will consider my options."
+    - >-
+      "Pay now, or I will file a police complaint for fraud."
+  correct: 1
+  explanation: >-
+    A dated deadline and a named court leave no doubt about when you may sue and support a costs argument
+    under reg. 151(א). Threatening a criminal complaint to get paid is improper and risky.
+- id: q3
+  question: >-
+    Your dry run reaches the online small-claims payment screen. What does "dry run" mean at this point?
+  options:
+    - >-
+      Pay the fee but do not submit; payment does not open a case.
+    - >-
+      Submit the claim but ask the court to delay serving it.
+    - >-
+      Submit with a false amount, then correct it after the court accepts it.
+    - >-
+      Stop before payment and submission, and record what each screen asked.
+  correct: 3
+  explanation: >-
+    The lab is a dry run: complete the screens to understand the requirements, keep screenshots and stop
+    before paying or submitting. File only by deliberate decision, in your own name.
+- id: q4
+  question: >-
+    You want to file a regular civil claim in the magistrates' court without a lawyer, online. On Net
+    HaMishpat you cannot find how. What is the sound next step?
+  options:
+    - >-
+      Ask the information centre; if online is not possible, use the registry.
+    - >-
+      Ask a friend who is a lawyer to file it under his account in your name.
+    - >-
+      File it as a small claim instead, even though it is above the ceiling.
+    - >-
+      Wait until online filing becomes available, even if limitation is near.
+  correct: 0
+  explanation: >-
+    Online opening of regular civil cases by unrepresented parties must be checked on the day; the
+    registry always accepts filings (reg. 160). A lawyer filing under his account would be representing you.

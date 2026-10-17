@@ -8,3 +8,4 @@
 - Module 5: Saad (ע"פ 8641/12) has no free text; check the victim-compensation cap and private-complaint court fee.
 - Module 6: review lessons 06.4–06.6 for neutrality and current status (judicial review, 2023–2026 dispute); HCJ and administrative petition fees from Wikisource notes only.
 - Module 7: after the 27.10.2026 election, update the lessons that describe the dissolved 25th Knesset and pending bills.
+- Module 8: confirm whether unrepresented parties can open a civil case on Net HaMishpat and use the Enforcement Authority personal area; 2026 execution fees.

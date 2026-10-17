@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are defending yourself in a magistrates' court claim. The judge, without either party asking,
+    orders both sides to file a one-page list of the facts actually in dispute. You think this is not the
+    judge's job. Which response fits the 2018 Regulations?
+  options:
+    - >-
+      Ignore it; under the adversarial system only the parties decide what to file.
+    - >-
+      Comply; reg. 3(א) makes the court responsible for running the case, on its own initiative too.
+    - >-
+      Refuse unless the plaintiff agrees, because orders need the consent of both parties.
+    - >-
+      Appeal immediately to the district court, since such an order exceeds the court's powers.
+  correct: 1
+  explanation: >-
+    Reg. 3(א) makes the court responsible for managing the proceeding and lets it initiate decisions; reg.
+    3(ב) obliges the parties to help it narrow the real issues.
+- id: q2
+  question: >-
+    A defendant in a ₪6,000 dispute files a 25-page motion to postpone the hearing, mainly to gain time.
+    Which provision best describes the problem?
+  options:
+    - >-
+      Reg. 170, because only a lawyer may file motions in a civil court.
+    - >-
+      Reg. 180, because the Regulations apply only to claims above a set amount.
+    - >-
+      Reg. 4, which treats a step meant to delay, or disproportionate to the case, as abuse.
+    - >-
+      Reg. 2, which requires every decision to be given within thirty days.
+  correct: 2
+  explanation: >-
+    Reg. 4 defines abuse of process to include a step aimed at delaying the case and one disproportionate
+    to its nature, value or complexity; reg. 151(ג) allows costs for it.
+- id: q3
+  question: >-
+    Your sister, a retired judge's secretary, knows the court well and offers to stand up and argue your
+    civil claim for you, unpaid. What is the legal position?
+  options:
+    - >-
+      She may not represent you; reg. 170 lets you act yourself or by a lawyer, and there is no lay friend.
+    - >-
+      She may, because representation is barred only when it is done for payment.
+    - >-
+      She may, if you sign a power of attorney and file it with the registry before the hearing.
+    - >-
+      She may, because family members are an express exception in s. 21 of the Bar Association Law.
+  correct: 0
+  explanation: >-
+    Reg. 170 allows action by the party or a lawyer it appointed; the Supreme Court in רע"א 8120/08 held
+    there is no "close friend" exception, and s. 21 has no family exception.
+- id: q4
+  question: >-
+    Which statement about the reach of the 2018 Regulations is correct?
+  options:
+    - >-
+      They govern small claims in full, replacing the Small Claims (Procedure) Regulations.
+    - >-
+      They apply only to the district court; magistrates' courts keep the 1984 rules.
+    - >-
+      They apply only to proceedings opened before 1 January 2021.
+    - >-
+      Part A applies to every civil matter; Part B yields where a law sets special procedure.
+  correct: 3
+  explanation: >-
+    Reg. 180(א)–(ב): Part A (principles) applies to all civil matters before a court; Part B applies unless
+    special procedure is set elsewhere, as for small claims. Proceedings opened from 1.1.2021 are covered.

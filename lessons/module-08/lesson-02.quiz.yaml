@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    You were sued for ₪60,000 in the magistrates' court. Your defence says: "The defendant denies all
+    the facts in the statement of claim unless expressly admitted." Paragraph 6 of the claim says you
+    signed the order form. What is the risk?
+  options:
+    - >-
+      None; a general denial puts every fact in dispute under the 2018 Regulations.
+    - >-
+      Only that the judge may ask you to explain your position orally at the pre-trial.
+    - >-
+      You may be treated as admitting paragraph 6, because it was not denied expressly and in detail.
+    - >-
+      The defence will be struck out automatically and judgment given for the plaintiff.
+  correct: 2
+  explanation: >-
+    Reg. 14(ב): a defendant is deemed to admit every fact not denied expressly and in detail in the third
+    part of the defence. Damages remain disputed unless expressly admitted.
+- id: q2
+  question: >-
+    You act for yourself and the other side has a lawyer. Thirty days after the last pleading, their
+    lawyer writes demanding that you attend a "compulsory preliminary discussion" at his office. What
+    is the position?
+  options:
+    - >-
+      You must attend, or the court will strike out your pleading.
+    - >-
+      The preliminary discussion under reg. 35 does not bind an unrepresented party.
+    - >-
+      You must attend, but only by video, because you are not represented.
+    - >-
+      You must send a lawyer in your place, since the discussion is between lawyers.
+  correct: 1
+  explanation: >-
+    Reg. 35(א) requires the parties to hold a preliminary discussion "except a party not represented by a
+    lawyer". You may still choose to talk; the mediation-intake meeting under reg. 37 is different.
+- id: q3
+  question: >-
+    A shop owes you ₪50,000 for goods you supplied. Which statement about the procedure in the
+    magistrates' court is correct?
+  options:
+    - >-
+      The claim goes to the fast track, so you attach an affidavit and a document list to the claim.
+    - >-
+      The claim must go to small claims, since it is a money claim by an individual.
+    - >-
+      The claim goes to the ordinary track, because the fast track is only for eviction claims.
+    - >-
+      You may file only after a compulsory pre-action letter under reg. 9(א).
+  correct: 0
+  explanation: >-
+    Reg. 78 puts money claims up to the fast-track ceiling (see current numbers) on the fast track; reg. 79
+    requires an affidavit and a list of documents with the pleading. Small claims is optional and has a
+    lower ceiling; reg. 9 does not require a letter.
+- id: q4
+  question: >-
+    Your claim is above the mediation-intake threshold. You are invited to a "פגישת מהו״ת" but you do
+    not want mediation. What should you do?
+  options:
+    - >-
+      Ignore it; mediation is voluntary, so the meeting is too.
+    - >-
+      Write to the court refusing mediation; that cancels the meeting.
+    - >-
+      Ask the court to transfer the case to arbitration instead.
+    - >-
+      Attend; the meeting is compulsory, but mediating stays your choice.
+  correct: 3
+  explanation: >-
+    Reg. 37 makes the meeting compulsory (an invitation counts as a court summons, and an absent party
+    pays costs under reg. 37(י)); whether to go on to mediation remains voluntary (Courts Law s. 79ג(ב)).
+- id: q5
+  question: >-
+    Judgment was given against you in the magistrates' court and served on you today. You think the
+    judge misread a contract. What is your next procedural step?
+  options:
+    - >-
+      Ask the same judge to reconsider within seven days.
+    - >-
+      Diary the 60-day appeal period from service and decide whether to appeal.
+    - >-
+      Wait for the Execution Office warning; you can raise the error there.
+    - >-
+      File a new claim to cancel the judgment in a different magistrates' court.
+  correct: 1
+  explanation: >-
+    Reg. 137(א) sets the appeal period from service of the judgment. The Execution Office cannot review
+    the merits of a judgment (lesson 08.7).

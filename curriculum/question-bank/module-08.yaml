@@ -1,0 +1,1349 @@
+- id: m08-001
+  module: 8
+  lesson: "08.1"
+  subject: cpr-purposes
+  difficulty: 1
+  question: >-
+    Which aim is listed among the purposes in reg. 1 of the Civil Procedure Regulations 2018?
+  options:
+    - >-
+      Maximising the court fees collected for the State Treasury.
+    - >-
+      Reaching the truth and a correct, just resolution of the dispute.
+    - >-
+      Guaranteeing that every party is represented by a lawyer.
+    - >-
+      Ensuring that every case ends in a full trial on the merits.
+  correct: 1
+  explanation: >-
+    Reg. 1 names procedural certainty, preventing arbitrariness and the principles of a fair process, so as
+    to reach the truth and a correct and just resolution.
+- id: m08-002
+  module: 8
+  lesson: "08.1"
+  subject: court-management
+  difficulty: 2
+  question: >-
+    Under reg. 3(א), who is responsible for managing a civil proceeding?
+  options:
+    - >-
+      The plaintiff, who chose to start the proceeding.
+    - >-
+      The registry staff, under the court president's directions.
+    - >-
+      The court, which may act on its own initiative.
+    - >-
+      The parties jointly, by agreement on every step.
+  correct: 2
+  explanation: >-
+    Reg. 3(א) makes the court responsible for running the process to achieve the Regulations' aims,
+    including by initiating decisions; reg. 3(ב) obliges the parties to help.
+- id: m08-003
+  module: 8
+  lesson: "08.1"
+  subject: public-interest
+  difficulty: 2
+  question: >-
+    A judge refuses to postpone a hearing both parties want postponed, citing the "public interest" in
+    reg. 5. What does that term include?
+  options:
+    - >-
+      Saving time and costs and access to the courts for others.
+    - >-
+      Only the interest of the State when it is a party to the case.
+    - >-
+      Media interest in the case and its publicity value.
+    - >-
+      The judge's personal schedule and workload targets.
+  correct: 0
+  explanation: >-
+    Reg. 5 defines the public interest as access to the courts, a fair, fast and efficient hearing, saving
+    time and costs, avoiding conflicting decisions and preventing abuse.
+- id: m08-004
+  module: 8
+  lesson: "08.1"
+  subject: representation
+  difficulty: 1
+  question: >-
+    Who may take a step for you in a civil court under reg. 170?
+  options:
+    - >-
+      You, or any adult you authorise in writing.
+    - >-
+      You, or a family member living with you.
+    - >-
+      Only a lawyer, unless the claim is a small claim.
+    - >-
+      You yourself, or a lawyer you appointed.
+  correct: 3
+  explanation: >-
+    Reg. 170: any step may be taken by the party itself or by a lawyer it duly appointed, unless a law
+    says otherwise. There is no lay-friend exception.
+- id: m08-005
+  module: 8
+  lesson: "08.1"
+  subject: abuse-of-process
+  difficulty: 3
+  question: >-
+    In a ₪15,000 dispute, a defendant serves 140 questions and demands every email the plaintiff sent in
+    five years. Which provision gives the plaintiff the best objection?
+  options:
+    - >-
+      Reg. 180, because disclosure rules apply only in the district court.
+    - >-
+      Reg. 4, because the step is disproportionate to the case's value and complexity.
+    - >-
+      Reg. 170, because questionnaires may be sent only by lawyers.
+    - >-
+      Reg. 1, because the purpose of procedure is certainty, not truth.
+  correct: 1
+  explanation: >-
+    Reg. 4 includes in abuse of process a step disproportionate to the nature, cost or complexity of the
+    proceeding. Proportionality runs through the whole of Part A.
+- id: m08-006
+  module: 8
+  lesson: "08.1"
+  subject: which-code
+  difficulty: 2
+  question: >-
+    Which procedural code governs a petition against a municipality's business-licence refusal?
+  options:
+    - >-
+      The Small Claims (Procedure) Regulations 1976.
+    - >-
+      The Civil Procedure Regulations 2018, Part B in full.
+    - >-
+      The Administrative Affairs Courts Law and its procedure regulations.
+    - >-
+      The Criminal Procedure Law, since licensing is enforced by fines.
+  correct: 2
+  explanation: >-
+    Administrative petitions follow the Administrative Affairs Courts Law 2000 and its procedure
+    regulations; the 2018 Regulations' Part A principles still frame the court's discretion.
+- id: m08-007
+  module: 8
+  lesson: "08.1"
+  subject: open-justice
+  difficulty: 3
+  question: >-
+    In Hashavim v. Courts Administration (HCJ 5870/14), why did the Court strike down a condition on
+    access to the judgments database?
+  options:
+    - >-
+      It infringed open justice and other rights without authority in primary legislation.
+    - >-
+      Courts may never restrict how their decisions are used by anyone.
+    - >-
+      The petitioner was a public body entitled to free access by statute.
+    - >-
+      The condition breached the 48-hour publication rule on Net HaMishpat.
+  correct: 0
+  explanation: >-
+    The Court held that the condition infringed freedom of occupation, freedom of expression and open
+    justice, and such infringements require authority in primary legislation.
+- id: m08-008
+  module: 8
+  lesson: "08.2"
+  subject: pre-action
+  difficulty: 1
+  question: >-
+    Do the Civil Procedure Regulations 2018 require a pre-action letter before a statement of claim?
+  options:
+    - >-
+      Yes, reg. 9 requires a letter 30 days before filing.
+    - >-
+      Yes, but only when the defendant is a company.
+    - >-
+      No, but conduct can affect costs, so a letter is wise.
+    - >-
+      No, and sending one may be treated as a threat.
+  correct: 2
+  explanation: >-
+    Reg. 9(א) opens a case with a statement of claim; no letter is required. Costs reflect the parties'
+    conduct (reg. 151(א)), and some other laws do require prior notice.
+- id: m08-009
+  module: 8
+  lesson: "08.2"
+  subject: pleading-structure
+  difficulty: 1
+  question: >-
+    What are the three parts of a statement of claim under reg. 9(ג)?
+  options:
+    - >-
+      Facts, law and the relief sought.
+    - >-
+      Heading, summary, detail.
+    - >-
+      Introduction, evidence and conclusions.
+    - >-
+      Cover letter, affidavit and exhibits.
+  correct: 1
+  explanation: >-
+    Reg. 9(ג): heading, summary of the arguments, and detail of the arguments, in that order, with page
+    limits in reg. 9(ד).
+- id: m08-010
+  module: 8
+  lesson: "08.2"
+  subject: deemed-admission
+  difficulty: 2
+  question: >-
+    Spot the mistake. A defence says: "Paragraphs 1–12 of the claim are denied." Paragraph 7 says the
+    defendant signed a delivery note. What is wrong?
+  options:
+    - >-
+      The defence should have been filed as an affidavit, not a pleading.
+    - >-
+      A defence may not refer to paragraph numbers of the claim.
+    - >-
+      Denials must be filed only at the pre-trial hearing.
+    - >-
+      A bare denial is not express and detailed.
+  correct: 3
+  explanation: >-
+    Reg. 14(ב): facts not denied expressly and in detail in the third part of the defence are deemed
+    admitted; the defendant should give his own version of paragraph 7.
+- id: m08-011
+  module: 8
+  lesson: "08.2"
+  subject: default-judgment
+  difficulty: 2
+  question: >-
+    You missed the defence period and a default judgment was given. It was served on you yesterday.
+    What is your first step?
+  options:
+    - >-
+      Apply within 30 days of service to set it aside.
+    - >-
+      Appeal to the district court, which is the only route.
+    - >-
+      Wait for the Execution Office warning and object there.
+    - >-
+      File your defence now; it cancels the judgment automatically.
+  correct: 0
+  explanation: >-
+    Reg. 131 lets a party against whom an ex parte decision was given apply within 30 days of service to
+    set it aside; attach an affidavit and a proposed defence.
+- id: m08-012
+  module: 8
+  lesson: "08.2"
+  subject: mahut
+  difficulty: 2
+  question: >-
+    Which claim is excluded from the mediation-intake meeting (פגישת מהו״ת) even if above the threshold?
+  options:
+    - >-
+      A claim for unpaid rent by a private landlord.
+    - >-
+      A claim for compensation for bodily injury.
+    - >-
+      A claim by an unrepresented plaintiff against a company.
+    - >-
+      A claim for breach of a construction contract.
+  correct: 1
+  explanation: >-
+    Reg. 37(ב) excludes personal-injury and road-accident claims; it applies whether or not a party is
+    represented.
+- id: m08-013
+  module: 8
+  lesson: "08.2"
+  subject: unrepresented-service
+  difficulty: 1
+  question: >-
+    You are unrepresented and file a motion in a magistrates' court case. Who serves it on the other
+    side?
+  options:
+    - >-
+      You must serve it yourself within three days.
+    - >-
+      The other side must collect it from the court.
+    - >-
+      The court registry, under reg. 160.
+    - >-
+      A process server you hire and pay.
+  correct: 2
+  explanation: >-
+    Reg. 160: a lawyer serves copies on the other side; a party not represented files with the registry,
+    which serves the document.
+- id: m08-014
+  module: 8
+  lesson: "08.2"
+  subject: video-pretrial
+  difficulty: 2
+  question: >-
+    The court wants to hold the pre-trial hearing by video. You are unrepresented and prefer to attend in
+    person. What does reg. 61(ג) say?
+  options:
+    - >-
+      Video is compulsory for all pre-trial hearings since 2021.
+    - >-
+      Only the represented party may object to a video hearing.
+    - >-
+      You must pay a fee to have an in-person hearing.
+    - >-
+      It needs your consent, as you are unrepresented.
+  correct: 3
+  explanation: >-
+    Reg. 61(ג) allows video pre-trial hearings but, where a party is not represented, only with that
+    party's consent (with special rules for fast-track and injury cases in reg. 61(ג1)).
+- id: m08-015
+  module: 8
+  lesson: "08.2"
+  subject: splitting-remedies
+  difficulty: 3
+  question: >-
+    You sue a contractor for ₪40,000 of repairs, planning to sue later for ₪25,000 lost rent from the same
+    breach. What risk does reg. 25 create?
+  options:
+    - >-
+      You may lose the part not claimed, unless splitting is allowed.
+    - >-
+      None, because each head of damage is always a separate cause of action.
+    - >-
+      The first claim will be transferred to the district court.
+    - >-
+      The second claim must be filed in small claims only.
+  correct: 0
+  explanation: >-
+    Reg. 25 requires the full remedy and all remedies for one cause of action in one claim; splitting needs
+    the court's leave on an application, decided by the end of the pre-trial.
+- id: m08-016
+  module: 8
+  lesson: "08.2"
+  subject: fast-track
+  difficulty: 2
+  question: >-
+    Which is a feature of the fast track (דיון מהיר) in the magistrates' court?
+  options:
+    - >-
+      No affidavits are allowed; all evidence is oral.
+    - >-
+      Pleadings come with an affidavit and a document list.
+    - >-
+      The defendant has a longer period to file a defence.
+    - >-
+      Lawyers may appear only with the court's leave.
+  correct: 1
+  explanation: >-
+    Reg. 79 requires an affidavit verifying the pleading and a document list; reg. 80 shortens the defence
+    period and speeds the pre-trial and trial.
+- id: m08-017
+  module: 8
+  lesson: "08.2"
+  subject: non-appearance
+  difficulty: 1
+  question: >-
+    The plaintiff does not appear at the evidence hearing and gives no reason. What usually happens?
+  options:
+    - >-
+      The hearing is postponed automatically once.
+    - >-
+      The defendant must prove his defence anyway.
+    - >-
+      The claim is struck out, or dismissed for special reasons.
+    - >-
+      The court gives judgment for the plaintiff on the claim.
+  correct: 2
+  explanation: >-
+    Reg. 75(1): if the plaintiff does not appear without reasonable cause, the court strikes out the claim
+    or, for special reasons, dismisses it.
+- id: m08-018
+  module: 8
+  lesson: "08.3"
+  subject: small-claims-parties
+  difficulty: 1
+  question: >-
+    Which plaintiff may sue in the small claims court?
+  options:
+    - >-
+      A registered non-profit association owed money for a hall rental.
+    - >-
+      A limited company owed money by a customer.
+    - >-
+      A partnership of two architects owed fees.
+    - >-
+      An individual sole trader owed money by a company.
+  correct: 3
+  explanation: >-
+    Courts Law s. 60(א) admits claims filed by an individual (יחיד), including a sole trader. Companies,
+    associations and partnerships cannot sue there but can be sued.
+- id: m08-019
+  module: 8
+  lesson: "08.3"
+  subject: assigned-right
+  difficulty: 2
+  question: >-
+    A debt-collection company buys a ₪5,000 debt and its owner sues the debtor personally in small claims.
+    Why will this fail?
+  options:
+    - >-
+      Small claims cannot hear claims based on an assigned right.
+    - >-
+      Debt-collection companies must sue in the district court.
+    - >-
+      The debt is below the minimum amount for small claims.
+    - >-
+      The owner needs the court's leave to appear without a lawyer.
+  correct: 0
+  explanation: >-
+    Section 60(א) excludes claims "by a right that was assigned or transferred". The original creditor or
+    the assignee must sue elsewhere.
+- id: m08-020
+  module: 8
+  lesson: "08.3"
+  subject: forum-choice
+  difficulty: 3
+  question: >-
+    Which forum? A neighbour's tree roots crack your garden wall. Repair cost ₪6,000; you also need the
+    roots cut back to stop more damage.
+  options:
+    - >-
+      Small claims, which can order the neighbour to cut the roots.
+    - >-
+      The magistrates' court, for damages and an order to remove the nuisance.
+    - >-
+      The Administrative Affairs Court, since trees are regulated by the municipality.
+    - >-
+      The Execution Office, by a claim for a fixed sum.
+  correct: 1
+  explanation: >-
+    Small claims gives money and consumer orders only (s. 60(א)); an order to stop a continuing nuisance
+    needs the magistrates' court, which can also award the repair cost.
+- id: m08-021
+  module: 8
+  lesson: "08.3"
+  subject: representation-small-claims
+  difficulty: 2
+  question: >-
+    In small claims, your daughter (not a lawyer) wants to present your case because you speak little
+    Hebrew. What does s. 63 allow?
+  options:
+    - >-
+      Nothing; only you may speak in small claims.
+    - >-
+      She may, without leave, if she is a close relative.
+    - >-
+      She may, with the court's approval, if unpaid and not regular.
+    - >-
+      She may, but only if a lawyer supervises her at the hearing.
+  correct: 2
+  explanation: >-
+    Section 63(ב) allows a non-lawyer representative with the court's approval and a filed power of
+    attorney, unless he represents regularly, in the course of business, or for pay. You may also ask for
+    an interpreter.
+- id: m08-022
+  module: 8
+  lesson: "08.3"
+  subject: small-claims-appeal
+  difficulty: 1
+  question: >-
+    How do you challenge a small-claims judgment?
+  options:
+    - >-
+      Appeal as of right to the magistrates' court.
+    - >-
+      Ask the same judge for a rehearing within 7 days.
+    - >-
+      File a fresh claim in the magistrates' court.
+    - >-
+      Apply to a district judge for leave to appeal.
+  correct: 3
+  explanation: >-
+    Courts Law s. 64: an appeal to the district court only with leave of a district judge; the period is in
+    reg. 16(א) of the Small Claims Regulations.
+- id: m08-023
+  module: 8
+  lesson: "08.3"
+  subject: evidence-small-claims
+  difficulty: 2
+  question: >-
+    In small claims you want to rely on a typed statement from a witness who cannot attend. Can the court
+    consider it?
+  options:
+    - >-
+      Yes; small claims may admit evidence inadmissible elsewhere.
+    - >-
+      No; hearsay is never admissible in any Israeli court.
+    - >-
+      Only if it is notarised and translated into English.
+    - >-
+      Only with the defendant's written consent to its use.
+  correct: 0
+  explanation: >-
+    Courts Law s. 62(א) lets the small claims court accept evidence even if it would be inadmissible in
+    another court; its weight is for the judge.
+- id: m08-024
+  module: 8
+  lesson: "08.3"
+  subject: online-filing
+  difficulty: 1
+  question: >-
+    You want to file a small claim online. Which preparation fits the Judiciary's current service?
+  options:
+    - >-
+      Use your phone and attach photos as image files.
+    - >-
+      Log in with the national digital ID on a computer and attach PDFs.
+    - >-
+      Email the claim to the court registry with scanned exhibits.
+    - >-
+      Ask a lawyer to log in with his smart card for you.
+  correct: 1
+  explanation: >-
+    Per the Judiciary's service as described on Kol-Zchut (checked 17.10.2026): a computer, the national
+    digital ID, and PDF attachments within a total size. A lawyer's account would mean representation.
+- id: m08-025
+  module: 8
+  lesson: "08.3"
+  subject: serial-plaintiff
+  difficulty: 3
+  question: >-
+    A plaintiff files his seventh small claim this year in the same court, against another airline. What
+    may the court do?
+  options:
+    - >-
+      Fine the plaintiff for abuse of the court's time.
+    - >-
+      Nothing; any individual may file unlimited small claims.
+    - >-
+      Decline to hear it and transfer it to the magistrates' court.
+    - >-
+      Refer the plaintiff to the Consumer Protection Authority instead.
+  correct: 2
+  explanation: >-
+    Section 60(ב) allows the court to decline and transfer a claim filed by someone who already filed more
+    than five that year in the same court.
+- id: m08-026
+  module: 8
+  lesson: "08.4"
+  subject: police-duty
+  difficulty: 1
+  question: >-
+    When must the police open an investigation under CPL s. 59?
+  options:
+    - >-
+      Only when the complainant pays a filing fee.
+    - >-
+      Only when the suspect is identified by name.
+    - >-
+      Only after the prosecution approves it in writing.
+    - >-
+      When it learns of an offence, with limited exceptions.
+  correct: 3
+  explanation: >-
+    Section 59: the police open an investigation when they learn of an offence, by complaint or otherwise;
+    for offences that are not felonies a senior officer may decide not to investigate.
+- id: m08-027
+  module: 8
+  lesson: "08.4"
+  subject: arrest-rights
+  difficulty: 2
+  question: >-
+    You are arrested. Which right does the Arrests Law give you on arrest?
+  options:
+    - >-
+      To be told why, and to notify a relative and a lawyer.
+    - >-
+      To be released on bail within six hours.
+    - >-
+      To have the investigation recorded on video in every case.
+    - >-
+      To see all the evidence against you before questioning.
+  correct: 0
+  explanation: >-
+    Arrests Law s. 32 requires the officer to explain the arrest and its reason and the right to notify a
+    relative and a lawyer and to meet a lawyer (s. 34); s. 29 sets the 24-hour rule.
+- id: m08-028
+  module: 8
+  lesson: "08.4"
+  subject: indictment-contents
+  difficulty: 1
+  question: >-
+    Which item must an indictment contain under CPL s. 85?
+  options:
+    - >-
+      The defendant's criminal record.
+    - >-
+      The names of the prosecution witnesses.
+    - >-
+      The sentence the prosecution will seek.
+    - >-
+      A summary of the defendant's statement.
+  correct: 1
+  explanation: >-
+    Section 85: the court, the prosecutor, the defendant, the facts with place and time, the provisions
+    charged, and the names of the prosecution witnesses.
+- id: m08-029
+  module: 8
+  lesson: "08.4"
+  subject: conditional-arrangement
+  difficulty: 2
+  question: >-
+    What is a conditional arrangement (הסדר מותנה) under CPL ss. 67א–67ב?
+  options:
+    - >-
+      A plea bargain approved by the court after conviction.
+    - >-
+      Release from arrest on conditions set by a judge.
+    - >-
+      No indictment if the suspect admits and meets conditions.
+    - >-
+      An agreement between the complainant and the suspect to drop the complaint.
+  correct: 2
+  explanation: >-
+    The prosecutor undertakes not to indict and to close the file if the suspect admits the facts and
+    fulfils conditions, where the fitting sentence would not include actual imprisonment.
+- id: m08-030
+  module: 8
+  lesson: "08.4"
+  subject: preliminary-arguments
+  difficulty: 2
+  question: >-
+    Which preliminary argument may a defendant raise under CPL s. 149?
+  options:
+    - >-
+      That the complainant has forgiven him.
+    - >-
+      That the punishment for the offence is too harsh.
+    - >-
+      That the judge is too junior for the case.
+    - >-
+      That the case contradicts justice and fairness.
+  correct: 3
+  explanation: >-
+    Section 149(10) codifies protection from injustice; other grounds include jurisdiction, a defective
+    indictment, facts that are no offence, double jeopardy, immunity, limitation and pardon.
+- id: m08-031
+  module: 8
+  lesson: "08.4"
+  subject: appointed-defender
+  difficulty: 2
+  question: >-
+    In which case must the court appoint a defender for a defendant who has none (CPL s. 15)?
+  options:
+    - >-
+      The prosecutor gave notice it may seek actual imprisonment.
+    - >-
+      The defendant is charged with a traffic contravention.
+    - >-
+      The defendant asks for one in any misdemeanour case.
+    - >-
+      The complainant is represented by a lawyer.
+  correct: 0
+  explanation: >-
+    Section 15(א)(5) requires appointment where the prosecutor gave notice under s. 15א that it may ask
+    for actual imprisonment; other cases include serious charges, minors and disabilities.
+- id: m08-032
+  module: 8
+  lesson: "08.4"
+  subject: exclusion-rule
+  difficulty: 3
+  question: >-
+    A confession was taken after the police wrongly refused a detainee's request to consult a lawyer.
+    What does Yissacharov say about using it?
+  options:
+    - >-
+      It is always admissible, since truth outweighs procedure.
+    - >-
+      It may be excluded if it would harm a fair trial.
+    - >-
+      It is admissible only if repeated before a judge.
+    - >-
+      It must be excluded automatically, whatever its reliability.
+  correct: 1
+  explanation: >-
+    CrimA 5121/98 adopted a discretionary exclusion doctrine: unlawfully obtained evidence may be excluded
+    where admitting it would substantially infringe the right to a fair trial, weighing the circumstances.
+- id: m08-033
+  module: 8
+  lesson: "08.4"
+  subject: investigation-material
+  difficulty: 3
+  question: >-
+    The defence wants the complainant's whole diary under s. 74. Under HCJ 9264/04, what is the main
+    test?
+  options:
+    - >-
+      Whether the prosecution physically holds the diary.
+    - >-
+      Whether the complainant consents to disclosure.
+    - >-
+      Relevance and real help to the defence, weighed with privacy.
+    - >-
+      Whether the diary was written before or after the incident.
+  correct: 2
+  explanation: >-
+    The Court read s. 74(ד) broadly: possession by a third party does not remove the power; the key is
+    relevance and a real, not speculative, benefit to the defence, balanced against the complainant's privacy.
+- id: m08-034
+  module: 8
+  lesson: "08.5"
+  subject: admin-routes
+  difficulty: 1
+  question: >-
+    Which is one of the three proceedings the Administrative Affairs Court hears under s. 5?
+  options:
+    - >-
+      Criminal appeals against municipal fines.
+    - >-
+      Petitions against Knesset legislation.
+    - >-
+      Claims between private neighbours about building works.
+    - >-
+      Administrative appeals listed in the Second Schedule.
+  correct: 3
+  explanation: >-
+    Section 5 lists administrative petitions (First Schedule), administrative appeals (Second Schedule)
+    and administrative claims (Third Schedule), plus matters other laws assign.
+- id: m08-035
+  module: 8
+  lesson: "08.5"
+  subject: admin-grounds
+  difficulty: 2
+  question: >-
+    Which grounds of review does the Administrative Affairs Court apply to a petition?
+  options:
+    - >-
+      Those the HCJ applies, with necessary changes (s. 8).
+    - >-
+      Only illegality; reasonableness is reserved to the HCJ.
+    - >-
+      Only the grounds written into the authority's own statute.
+    - >-
+      The grounds in the Civil Procedure Regulations 2018.
+  correct: 0
+  explanation: >-
+    Section 8: it decides according to the grounds, powers and remedies of the HCJ, with necessary changes.
+- id: m08-036
+  module: 8
+  lesson: "08.5"
+  subject: delay
+  difficulty: 2
+  question: >-
+    Your petition was filed on day 40 of the reg. 3 period, but the respondent says it is late. Can a
+    petition filed within the period still be dismissed?
+  options:
+    - >-
+      No; a petition within the period can never be late.
+    - >-
+      Yes, for delay in the circumstances, under reg. 4.
+    - >-
+      Only if the respondent proves financial damage.
+    - >-
+      Only in planning matters, not in other areas.
+  correct: 1
+  explanation: >-
+    Reg. 4 allows dismissal for delay even if the petition was filed within the reg. 3 period; courts weigh
+    subjective delay, objective delay and the rule-of-law interest (Aviram).
+- id: m08-037
+  module: 8
+  lesson: "08.5"
+  subject: affidavit
+  difficulty: 2
+  question: >-
+    Spot the mistake. A petitioner's affidavit says: "All the facts in the petition are true." What is
+    missing under reg. 5(ג)?
+  options:
+    - >-
+      A lawyer's signature at the foot of the affidavit.
+    - >-
+      A translation of the affidavit into English.
+    - >-
+      Separating knowledge from belief, with sources.
+    - >-
+      A list of the respondent's intended witnesses.
+  correct: 2
+  explanation: >-
+    Reg. 5(ג) requires the Form 2 affidavit to separate facts within personal knowledge from those true to
+    the best of knowledge and belief, stating the source.
+- id: m08-038
+  module: 8
+  lesson: "08.5"
+  subject: exhaustion
+  difficulty: 3
+  question: >-
+    Which forum? Your arnona assessment is wrong. You have not yet objected to the arnona director.
+  options:
+    - >-
+      An administrative petition in the district court at once.
+    - >-
+      An HCJ petition, because arnona is a tax.
+    - >-
+      A small claim against the municipality for the overcharge.
+    - >-
+      An objection to the director, then the statutory appeals.
+  correct: 3
+  explanation: >-
+    The Arnona Appeals Law gives an objection, then an appeal to the appeals committee, then an
+    administrative appeal; a petition skipping them will fail for not exhausting remedies.
+- id: m08-039
+  module: 8
+  lesson: "08.5"
+  subject: supreme-appeal
+  difficulty: 2
+  question: >-
+    You lost an administrative appeal (ערעור מינהלי) in the Administrative Affairs Court. How can you go
+    to the Supreme Court?
+  options:
+    - >-
+      Only with leave of a Supreme Court justice (s. 12).
+    - >-
+      As of right within 60 days (s. 11).
+    - >-
+      By a new HCJ petition against the district judge.
+    - >-
+      There is no further route from an administrative appeal.
+  correct: 0
+  explanation: >-
+    Section 12(א) requires leave for a judgment in an administrative appeal; s. 11 gives an appeal as of
+    right from a judgment in a petition or claim.
+- id: m08-040
+  module: 8
+  lesson: "08.5"
+  subject: prior-demand
+  difficulty: 1
+  question: >-
+    What should a petition attach under reg. 5(ב)(6)?
+  options:
+    - >-
+      A certificate that the petitioner has no criminal record.
+    - >-
+      The prior written demand and the correspondence.
+    - >-
+      A bank guarantee for the authority's costs.
+    - >-
+      A legal opinion from a lawyer supporting the petition.
+  correct: 1
+  explanation: >-
+    Reg. 5(ב)(6): attach the prior written demand and the correspondence, or state why there was none.
+- id: m08-041
+  module: 8
+  lesson: "08.5"
+  subject: preliminary-hearing-admin
+  difficulty: 3
+  question: >-
+    At a preliminary hearing on your petition, what may the Administrative Affairs Court do under reg. 8?
+  options:
+    - >-
+      Only set a date for the respondent's answer.
+    - >-
+      Order the petitioner to pay a deposit before any hearing.
+    - >-
+      Strike out, dismiss, or decide it with consent.
+    - >-
+      Transfer the petition automatically to mediation.
+  correct: 2
+  explanation: >-
+    Reg. 8: at a preliminary hearing the court may give directions, decide with the respondent's consent as
+    if an answer had been filed, strike out or dismiss, or order the case to proceed on written summaries.
+- id: m08-042
+  module: 8
+  lesson: "08.6"
+  subject: mediation-definition
+  difficulty: 1
+  question: >-
+    What distinguishes a mediator from an arbitrator?
+  options:
+    - >-
+      A mediator must be a retired judge.
+    - >-
+      A mediator gives a binding decision faster.
+    - >-
+      A mediator is paid by the court, an arbitrator by the parties.
+    - >-
+      A mediator has no power to decide the dispute.
+  correct: 3
+  explanation: >-
+    Courts Law s. 79ג(א) defines mediation as a process to bring the parties to agreement "without power to
+    decide"; an arbitrator decides and the award binds.
+- id: m08-043
+  module: 8
+  lesson: "08.6"
+  subject: arbitration-writing
+  difficulty: 1
+  question: >-
+    Your contractor says you "agreed orally" to arbitration. Is there an arbitration agreement under the
+    Arbitration Law?
+  options:
+    - >-
+      No; an arbitration agreement must be in writing.
+    - >-
+      Yes, if a witness heard the oral agreement.
+    - >-
+      Yes, oral agreements are enough for disputes under ₪50,000.
+    - >-
+      Only if the arbitrator confirms it in writing later.
+  correct: 0
+  explanation: >-
+    Arbitration Law s. 1 defines an arbitration agreement as a written agreement to refer an existing or
+    future dispute to arbitration.
+- id: m08-044
+  module: 8
+  lesson: "08.6"
+  subject: award-timing
+  difficulty: 2
+  question: >-
+    The arbitration agreement says nothing about time. By default, within what period must the arbitrator
+    give the award?
+  options:
+    - >-
+      One year from the agreement.
+    - >-
+      Three months from starting, extendable.
+    - >-
+      Thirty days from the last hearing.
+    - >-
+      No time limit applies unless the court sets one.
+  correct: 1
+  explanation: >-
+    First Schedule item טו: within three months from the day he began to hear the dispute or was required
+    to by written notice, whichever is earlier, with power to extend.
+- id: m08-045
+  module: 8
+  lesson: "08.6"
+  subject: set-aside-grounds
+  difficulty: 2
+  question: >-
+    Which is a ground to set aside an award under s. 24?
+  options:
+    - >-
+      The arbitrator preferred the other side's witness.
+    - >-
+      The award is lower than the amount claimed.
+    - >-
+      A party had no proper chance to present its case.
+    - >-
+      The arbitrator was slower than a court would have been.
+  correct: 2
+  explanation: >-
+    Section 24(4): no proper opportunity to state arguments or bring evidence. Disagreement with findings
+    of fact is not a ground.
+- id: m08-046
+  module: 8
+  lesson: "08.6"
+  subject: compromise-judgment
+  difficulty: 2
+  question: >-
+    At the pre-trial, both parties ask the judge to "decide by way of compromise". What does s. 79א allow?
+  options:
+    - >-
+      The judge must refer the case to an outside mediator.
+    - >-
+      The judge may decide only on agreed facts, after a trial.
+    - >-
+      The judge may give a compromise decision only in small claims.
+    - >-
+      With consent, the judge may decide by compromise.
+  correct: 3
+  explanation: >-
+    Courts Law s. 79א(א): with the parties' consent, a court in a civil matter may decide all or part of
+    the case by way of compromise; it may also propose a settlement or approve one.
+- id: m08-047
+  module: 8
+  lesson: "08.6"
+  subject: confirmed-award
+  difficulty: 2
+  question: >-
+    You won an arbitral award and the other side will not pay. What must happen before the Execution
+    Office can enforce it?
+  options:
+    - >-
+      A court must confirm the award under s. 23.
+    - >-
+      The arbitrator must sign a second copy.
+    - >-
+      You must sue on the award in small claims.
+    - >-
+      The other side must be given 90 days' notice.
+  correct: 0
+  explanation: >-
+    Arbitration Law s. 23: a confirmed award is like a court judgment except for appeal, and can then be
+    executed (Execution Law s. 81).
+- id: m08-048
+  module: 8
+  lesson: "08.6"
+  subject: representation-arbitration
+  difficulty: 3
+  question: >-
+    Your friend, an engineer, offers to represent you for a fee in an arbitration about a building defect.
+    What does the Bar Association Law say?
+  options:
+    - >-
+      He may, because arbitration is private and not a court.
+    - >-
+      Paid representation before arbitrators is for lawyers.
+    - >-
+      He may, if the arbitrator agrees at the first hearing.
+    - >-
+      He may, because engineers are listed in s. 21 as exceptions.
+  correct: 1
+  explanation: >-
+    Section 20(1) reserves representing another person before courts, tribunals and arbitrators, as an
+    occupation or for pay, to lawyers; he may act as your expert witness.
+- id: m08-049
+  module: 8
+  lesson: "08.6"
+  subject: settlement-drafting
+  difficulty: 3
+  question: >-
+    Spot the mistake. A settlement says: "The defendant will pay ₪12,000 in six instalments. The parties
+    waive all claims against each other of any kind." What is the main risk for the plaintiff?
+  options:
+    - >-
+      Instalment settlements are void under the Contracts Law.
+    - >-
+      The amount must be stated in words as well as figures.
+    - >-
+      No default clause, and a waiver wider than the dispute.
+    - >-
+      The settlement must be signed before a notary.
+  correct: 2
+  explanation: >-
+    Without a default clause the plaintiff must chase each instalment; a waiver of "all claims of any kind"
+    may release unrelated claims. Add acceleration on default and limit the waiver to the dispute.
+- id: m08-050
+  module: 8
+  lesson: "08.7"
+  subject: executable-documents
+  difficulty: 1
+  question: >-
+    Which document can be executed at the Execution Office without first going to court?
+  options:
+    - >-
+      A WhatsApp message admitting a debt.
+    - >-
+      An unsigned invoice.
+    - >-
+      A lawyer's demand letter.
+    - >-
+      A bounced cheque.
+  correct: 3
+  explanation: >-
+    Cheques and notes can be executed directly under Execution Law s. 81א (the debtor may object). A
+    message or invoice may support a fixed-sum claim under s. 81א1 if it is written evidence of a contract.
+- id: m08-051
+  module: 8
+  lesson: "08.7"
+  subject: warning-options
+  difficulty: 1
+  question: >-
+    What does the execution warning (אזהרה) tell the debtor to do within its period?
+  options:
+    - >-
+      Comply, or apply for a payment order.
+    - >-
+      Appeal the judgment in the Execution Office.
+    - >-
+      Appoint a lawyer for the means inquiry.
+    - >-
+      Send the creditor a written settlement offer.
+  correct: 0
+  explanation: >-
+    Section 7(א): comply or apply for a payment order within the period; a debtor who cannot pay must
+    attend a means inquiry within the time stated (s. 7(א1), s. 67(א1)).
+- id: m08-052
+  module: 8
+  lesson: "08.7"
+  subject: means-inquiry
+  difficulty: 2
+  question: >-
+    A debtor who cannot pay ignores the warning and does not attend a means inquiry. How is he treated?
+  options:
+    - >-
+      As a debtor without means, so the file is frozen.
+    - >-
+      As a debtor with means who evades payment.
+    - >-
+      As having admitted the debt is not owed.
+    - >-
+      As bankrupt, with the file sent to the insolvency official.
+  correct: 1
+  explanation: >-
+    Execution Law s. 67(ד): a debtor who does not attend the means inquiry is treated as having means and
+    evading payment, which opens the way to restrictions.
+- id: m08-053
+  module: 8
+  lesson: "08.7"
+  subject: i-have-paid
+  difficulty: 2
+  question: >-
+    The debtor claims he paid you in cash before the file opened. Who must prove it?
+  options:
+    - >-
+      The creditor must prove he was not paid.
+    - >-
+      The registrar must investigate on his own.
+    - >-
+      The debtor, under s. 19.
+    - >-
+      Neither; the claim is decided by the court that gave judgment.
+  correct: 2
+  explanation: >-
+    Section 19(א): a debtor claiming he complied or is no longer liable bears the burden of proof; the
+    registrar decides and may stay execution only for special reasons.
+- id: m08-054
+  module: 8
+  lesson: "08.7"
+  subject: home-protection
+  difficulty: 3
+  question: >-
+    A creditor asks to sell the debtor's only flat, where he lives with his children. What does s. 38
+    require before an order?
+  options:
+    - >-
+      The debtor's written consent to the sale.
+    - >-
+      That the debt is larger than the flat's market value.
+    - >-
+      That all the children living there are over 18.
+    - >-
+      Alternative housing, shown at a hearing.
+  correct: 3
+  explanation: >-
+    Section 38: the registrar may not order sale and eviction of a dwelling until satisfied that the debtor
+    and family will have reasonable alternative housing, and only after a hearing with full service.
+- id: m08-055
+  module: 8
+  lesson: "08.7"
+  subject: restrictions
+  difficulty: 2
+  question: >-
+    Which restriction may the registrar impose on an evading debtor under s. 66א?
+  options:
+    - >-
+      A ban on using credit cards.
+    - >-
+      Suspension of his driving licence for traffic offences.
+    - >-
+      Loss of his right to vote.
+    - >-
+      Cancellation of his National Insurance benefits.
+  correct: 0
+  explanation: >-
+    Section 66א lists restrictions on passports, leaving the country, cheques, credit cards and founding or
+    holding interests in companies, subject to the conditions in s. 66ב.
+- id: m08-056
+  module: 8
+  lesson: "08.7"
+  subject: fees
+  difficulty: 1
+  question: >-
+    Who pays the Execution Office fees for a lien on a bank account?
+  options:
+    - >-
+      The bank holding the account.
+    - >-
+      The creditor first; they are added to the debt.
+    - >-
+      The State, because enforcement is a public service.
+    - >-
+      The debtor in advance, before any lien.
+  correct: 1
+  explanation: >-
+    Section 9: the creditor pays fees and estimated expenses before each step; they are charged to the
+    debtor as part of the judgment debt unless the step was sought in bad faith.
+- id: m08-057
+  module: 8
+  lesson: "08.7"
+  subject: review-execution
+  difficulty: 3
+  question: >-
+    The execution registrar rejected your "I have paid" claim. You think he is wrong. Where do you go?
+  options:
+    - >-
+      The district court, by leave only, within 30 days.
+    - >-
+      The Supreme Court, as of right, since it is final.
+    - >-
+      The magistrates' court, as of right.
+    - >-
+      An objection to the branch director of the office.
+  correct: 2
+  explanation: >-
+    Section 80(ב): registrar decisions go to the magistrates' court, mostly by leave, but decisions under
+    listed sections, including s. 19, are appealable as of right.
+- id: m08-058
+  module: 8
+  lesson: "08.8"
+  subject: letter-recipient
+  difficulty: 1
+  question: >-
+    Where should a pre-action letter to a company be sent?
+  options:
+    - >-
+      Only to the customer-service WhatsApp number.
+    - >-
+      Only to the branch where you bought the goods.
+    - >-
+      To the Companies Registrar, which forwards it.
+    - >-
+      To the notice address and registered office.
+  correct: 3
+  explanation: >-
+    Send to the address for notices in the contract and the registered office (Companies Registrar search),
+    by email and registered mail with proof of delivery.
+- id: m08-059
+  module: 8
+  lesson: "08.8"
+  subject: letter-mistake
+  difficulty: 2
+  question: >-
+    Spot the mistake. A pre-action letter says: "If you do not pay by Friday, I will report you to the
+    police for fraud and tell all your customers." What is wrong?
+  options:
+    - >-
+      Threatening criminal and public steps over a civil debt.
+    - >-
+      Friday is not a business day, so the deadline is void.
+    - >-
+      Letters must name the specific judge who will hear the case.
+    - >-
+      A letter may not set any deadline before filing.
+  correct: 0
+  explanation: >-
+    Threats of a police complaint or of harming reputation to obtain payment can be improper or even an
+    offence, and damage credibility. Name the civil step you will take.
+- id: m08-060
+  module: 8
+  lesson: "08.8"
+  subject: filing-prep
+  difficulty: 2
+  question: >-
+    On filing day the online small-claims form rejects your evidence upload. What was the most likely
+    preparation failure?
+  options:
+    - >-
+      You did not attach a pre-action letter.
+    - >-
+      The files were not PDFs or exceeded the total size limit.
+    - >-
+      You logged in with the national digital ID instead of a smart card.
+    - >-
+      You filed in Arabic instead of Hebrew.
+  correct: 1
+  explanation: >-
+    The online service accepts PDF attachments up to a total size (per the Judiciary's guidance on
+    Kol-Zchut). Claims may be filed in Hebrew or Arabic, and the national ID is the normal login.
+- id: m08-061
+  module: 8
+  lesson: "08.8"
+  subject: regular-claim-online
+  difficulty: 3
+  question: >-
+    You want to open a regular magistrates' court case online as an unrepresented plaintiff. What did the
+    course find on 17 October 2026?
+  options:
+    - >-
+      It is fully available to everyone through the small-claims entry.
+    - >-
+      It is forbidden; unrepresented plaintiffs may file only small claims.
+    - >-
+      Not confirmed; check on the day or use the registry.
+    - >-
+      It requires a smart card, which only lawyers can obtain.
+  correct: 2
+  explanation: >-
+    The service pages for regular claims are written for lawyers and a 2022 Comptroller report found
+    unrepresented parties could not open new cases online; check on the day. The registry always accepts
+    filings.
+- id: m08-062
+  module: 8
+  lesson: "08.9"
+  subject: filing-date
+  difficulty: 2
+  question: >-
+    A judgment orders payment "within 45 days". When may the creditor file for execution?
+  options:
+    - >-
+      After 30 days, the default statutory period.
+    - >-
+      Immediately, because a payment date was set.
+    - >-
+      After 90 days, double the period set.
+    - >-
+      After the 45 days have passed.
+  correct: 3
+  explanation: >-
+    Section 6(ב): where the judgment sets a date for performance, the request may be filed only after that
+    date; the default period applies only where no date is set.
+- id: m08-063
+  module: 8
+  lesson: "08.9"
+  subject: form-attachments
+  difficulty: 1
+  question: >-
+    Which attachment does the Authority require with form 206?
+  options:
+    - >-
+      A cheque copy or bank account confirmation.
+    - >-
+      A certificate of the debtor's assets from the Land Registry.
+    - >-
+      A letter from the debtor's employer.
+    - >-
+      A lawyer's power of attorney in every case.
+  correct: 0
+  explanation: >-
+    Per Kol-Zchut (checked 17.10.2026): the judgment with ID numbers, a cheque copy or account
+    confirmation, and proof of service where needed; a power of attorney only if represented.
+- id: m08-064
+  module: 8
+  lesson: "08.9"
+  subject: short-track
+  difficulty: 2
+  question: >-
+    Which file can go on the short track (s. 20ב)?
+  options:
+    - >-
+      A maintenance judgment for child support.
+    - >-
+      A small money judgment, within both ceilings.
+    - >-
+      A mortgage enforcement on a flat.
+    - >-
+      Any judgment, whatever the amount, if the creditor asks.
+  correct: 1
+  explanation: >-
+    Section 20ב: money obligations up to a ceiling, excluding maintenance and mortgages, and not where the
+    debtor's total execution debts exceed a higher ceiling (amounts in current numbers).
+- id: m08-065
+  module: 8
+  lesson: "08.9"
+  subject: payment-order-request
+  difficulty: 3
+  question: >-
+    Spot the mistake. A debtor's payment-order request says: "I can pay ₪100 a month. I have no money."
+    Nothing is attached. Why will it fail?
+  options:
+    - >-
+      Payment-order requests must be filed by a lawyer.
+    - >-
+      The minimum monthly instalment is always half the debt.
+    - >-
+      It has no documented statement or waiver.
+    - >-
+      Requests are allowed only after a means inquiry has been held.
+  correct: 2
+  explanation: >-
+    Section 7א(א1): the office will not accept a request without a reasoned statement supported by
+    documents and a waiver of confidentiality.
+- id: m08-066
+  module: 8
+  lesson: "08.9"
+  subject: debtor-options
+  difficulty: 2
+  question: >-
+    You are a debtor who already paid half the judgment directly to the creditor, with bank proof. The
+    file demands the full amount. What do you file?
+  options:
+    - >-
+      An appeal against the judgment in the district court.
+    - >-
+      A complaint to the Judicial Ombudsman.
+    - >-
+      A new claim against the creditor in small claims.
+    - >-
+      An "I have paid" claim under s. 19, with the bank proof.
+  correct: 3
+  explanation: >-
+    Section 19 is the route for a debtor who claims he complied in whole or in part; the burden is on him,
+    so attach the proof. The creditor should also have updated the office (s. 19א).

@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You run a small bakery as a limited company (בע"מ). A café owes the company ₪9,000 for bread. You
+    want the cheapest court. Where can the company sue?
+  options:
+    - >-
+      In the small claims court, because the amount is within the ceiling.
+    - >-
+      In the magistrates' court; only an individual may file in small claims.
+    - >-
+      In small claims, if you as the director file it in your own name.
+    - >-
+      In small claims, after the company assigns the debt to you personally.
+  correct: 1
+  explanation: >-
+    Courts Law s. 60(א) limits small claims to claims filed by an individual and excludes claims based on
+    an assigned right, so neither workaround works. The company sues in the magistrates' court.
+- id: q2
+  question: >-
+    A neighbour's air-conditioning unit drips onto your balcony every day. You want it fixed and ₪2,000
+    for repainting. Which court fits best?
+  options:
+    - >-
+      Small claims, because the money claim is low and the court can order repairs of goods.
+    - >-
+      The district court, because nuisance claims are never heard by the magistrates' court.
+    - >-
+      The magistrates' court, which can give an order to stop the nuisance as well as damages.
+    - >-
+      Small claims for the money and the High Court of Justice for the order.
+  correct: 2
+  explanation: >-
+    Small claims can award money or replace, repair or cancel a purchase (s. 60(א)), not order a neighbour
+    to stop a nuisance. The magistrates' court can give both.
+- id: q3
+  question: >-
+    Your claim against a phone company is ₪4,500, well within the small-claims ceiling. Must you file in
+    the small claims court?
+  options:
+    - >-
+      Yes; claims within the ceiling must go to small claims.
+    - >-
+      Yes, unless the phone company agrees in writing to the magistrates' court.
+    - >-
+      No, but only if a lawyer represents you in the magistrates' court.
+    - >-
+      No; s. 61 lets you file the same claim in another court instead.
+  correct: 3
+  explanation: >-
+    Small claims is an option, not an obligation: s. 61(1) preserves a party's right to file in another
+    court instead of small claims.
+- id: q4
+  question: >-
+    You filed a small claim online two months ago. The hearing is in 70 days. What should you do now?
+  options:
+    - >-
+      Check that the defendant was served; if not, serve them yourself soon.
+    - >-
+      Nothing; the court serves the claim and summons witnesses for both sides.
+    - >-
+      Ask the court to appoint a lawyer for you, since the defendant is a company.
+    - >-
+      File a second claim for the same amount in case the first is struck out.
+  correct: 0
+  explanation: >-
+    The plaintiff must check service at least 60 days before the hearing and, if the court has not
+    served, serve the claim at least 40 days before (reg. 7(ב1)). Witnesses are summoned by the parties.

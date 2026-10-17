@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Three months after being questioned about a fight, you receive a letter from the district attorney:
+    the investigation material in a felony file has been transferred to it, and it gives an address
+    for written arguments. What is this letter?
+  options:
+    - >-
+      An indictment; the trial date will follow by post.
+    - >-
+      A s. 60א notice: you may ask in writing, with reasons, not to be indicted.
+    - >-
+      A summons to a further police interrogation at the prosecution's offices.
+    - >-
+      A notice that the file was closed, which the complainant may now appeal.
+  correct: 1
+  explanation: >-
+    CPL s. 60א requires notice to a felony suspect when the material reaches the prosecution; within the
+    period he may write a reasoned request not to indict or to indict for a lesser offence.
+- id: q2
+  question: >-
+    You were arrested on Sunday at 10:00 on suspicion of a misdemeanour. By when must you be brought
+    before a judge if not released?
+  options:
+    - >-
+      Within 48 hours, the general period for adults.
+    - >-
+      Within 72 hours, if the police certify that the investigation is urgent.
+    - >-
+      As soon as possible and no later than 24 hours, so by Monday 10:00.
+    - >-
+      Only after the prosecution decides whether to file an indictment.
+  correct: 2
+  explanation: >-
+    Arrests Law s. 29(א): a person arrested by the officer in charge is brought before a judge as soon as
+    possible and not later than 24 hours; special rules apply only around Shabbat and holidays.
+- id: q3
+  question: >-
+    You are on trial for a misdemeanour. You believe a police report that would help you is missing from
+    the material you were shown. What does the law let you do?
+  options:
+    - >-
+      Ask the court to order the prosecutor to let you inspect it, under s. 74(ב).
+    - >-
+      Nothing; the prosecution alone decides what counts as investigation material.
+    - >-
+      File a Freedom of Information request with the police and wait 30 days.
+    - >-
+      Petition the High Court of Justice directly, before any trial court decision.
+  correct: 0
+  explanation: >-
+    CPL s. 74(ב) lets a defendant ask the court where the indictment was filed to order the prosecutor to
+    allow inspection of material he says is investigation material and was not shown.
+- id: q4
+  question: >-
+    At the first hearing the judge asks for your answer to the charge. You were in Eilat on the night of
+    the offence, but you plan to mention it only when you testify. What is the risk?
+  options:
+    - >-
+      None; the defence may raise any fact at any stage of the trial.
+    - >-
+      The judge will automatically convict you for failing to answer.
+    - >-
+      The alibi becomes a preliminary argument that must be decided before the trial.
+    - >-
+      If not raised now, alibi evidence later needs the court's leave.
+  correct: 3
+  explanation: >-
+    CPL s. 152(ג)–(ד): the court explains that an alibi must be raised at once; if not, evidence to prove
+    it needs the court's leave. Silence may also strengthen the prosecution's evidence (s. 152(ב)).

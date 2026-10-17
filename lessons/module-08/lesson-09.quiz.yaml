@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    Your downloaded small-claims judgment shows the defendant's name but not his ID number. You are about
+    to file form 206. What should you do first?
+  options:
+    - >-
+      File anyway; the Execution Office finds the ID from the population register.
+    - >-
+      Get a certified court copy that shows the defendant's ID number.
+    - >-
+      Write the ID number you remember on the judgment copy by hand.
+    - >-
+      Ask the defendant by WhatsApp for his ID number and attach the chat.
+  correct: 1
+  explanation: >-
+    The Authority requires a judgment, or a certified court document, showing the parties' ID numbers.
+    Hand-written additions or chats are not certified documents.
+- id: q2
+  question: >-
+    You are the debtor. You received an execution warning; you can pay ₪500 a month but not the full
+    ₪9,000. What protects you best?
+  options:
+    - >-
+      Waiting for the creditor to propose instalments.
+    - >-
+      Paying ₪500 directly to the creditor without telling the office.
+    - >-
+      Filing a payment-order request within the warning period, with documents.
+    - >-
+      Appealing the judgment to the district court in the Execution Office.
+  correct: 2
+  explanation: >-
+    Section 7א lets a debtor ask, within the warning period, for a payment order based on a reasoned,
+    documented statement of means; ignoring the warning risks being treated as evading (s. 67(ד)).
+- id: q3
+  question: >-
+    Two weeks after your file opened, the debtor paid you ₪3,000 directly by bank transfer. What must you
+    do?
+  options:
+    - >-
+      Nothing; payments outside the office do not count.
+    - >-
+      Close the file and open a new one for the balance.
+    - >-
+      Ask the office to fine the debtor for paying outside the file.
+    - >-
+      Update the office so the debt is reduced.
+  correct: 3
+  explanation: >-
+    The creditor must update the office on payments received (s. 19א); collecting more than is owed can
+    lead to liability (s. 20).
