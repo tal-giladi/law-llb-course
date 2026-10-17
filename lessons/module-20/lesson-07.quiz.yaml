@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You ordered a coffee machine online on 1 May. It arrived on 10 May; the dealer never sent the written
+    disclosure document. On 30 May you decide to cancel without any defect. What is the position?
+  options:
+    - >-
+      It is too late, because the period runs from the date of the order.
+    - >-
+      It is too late, because the period ran from delivery and has passed.
+    - >-
+      You may cancel only if the machine is still unopened and unused.
+    - >-
+      You may cancel: the period runs from the later of delivery and the document.
+  correct: 3
+  explanation: >-
+    For goods, s. 14ג(ג)(1) runs the period until a set number of days from receiving the goods or the
+    disclosure document, whichever is later. Without the document, the period has not started to run out.
+- id: q2
+  question: >-
+    A 68-year-old bought a water purifier after a sales call and installation at home. Three months later she
+    wants to cancel. The dealer says the ordinary period has long passed. Who is right?
+  options:
+    - >-
+      She is, because senior citizens get an extended period when the deal included a conversation.
+    - >-
+      The dealer is, because the extended period applies only to people with a disability certificate.
+    - >-
+      The dealer is, because installation in the home ends any right to cancel.
+    - >-
+      She is, but only if she proves the purifier is defective.
+  correct: 0
+  explanation: >-
+    Section 14ג1 gives a person with a disability, a senior citizen (65+) or a new immigrant a four-month
+    period for door-to-door sales and distance sales that included a conversation with the dealer.
+- id: q3
+  question: >-
+    An internet provider's standard contract says "any dispute will be decided by an arbitrator chosen by the
+    company". A customer sues in small claims. What should the customer argue about this clause?
+  options:
+    - >-
+      It is void, because every arbitration clause in a consumer contract is void.
+    - >-
+      It is presumed depriving, and the court may strike it out for this case.
+    - >-
+      It binds her unless the Standard Contracts Tribunal has already cancelled it.
+    - >-
+      It is valid if it appears in bold type and she signed the contract.
+  correct: 1
+  explanation: >-
+    Arbitration clauses and supplier-controlled arbitration are presumed depriving (s. 4(8), (10)); a court in
+    a supplier-customer case may cancel the term for that case (s. 19). Only a total bar on going to court is
+    void outright (s. 5(א)).
+- id: q4
+  question: >-
+    A shopper sues a supermarket chain for a misleading TV advertisement about discounts. She bought there
+    that month but never saw the advertisement. Under Barazani, what is the main obstacle to her damages claim?
+  options:
+    - >-
+      Misleading conduct is not prohibited unless a consumer was actually misled.
+    - >-
+      Only the Consumer Protection Commissioner may sue over advertisements.
+    - >-
+      She never saw or relied on the ad, so there is no causal link to damage.
+    - >-
+      Advertisements are not part of the transaction, so s. 2 does not cover them.
+  correct: 2
+  explanation: >-
+    The prohibition in s. 2(א) applies to conduct liable to mislead, but a compensation claim under s. 31 is a
+    tort claim that requires causation and damage; a consumer who never saw the advertisement cannot show them.

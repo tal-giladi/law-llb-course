@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A tenant's contents insurer paid ₪6,000 for goods ruined by a leak the landlord failed to repair. The
+    tenant now sues the landlord for the same goods. What is the landlord's best legitimate argument?
+  options:
+    - >-
+      Insurance money must be deducted from damages for breach of contract.
+    - >-
+      The tenant's claim for those goods passed to the insurer when it paid them.
+    - >-
+      A tenant who is insured has no claim against the landlord at all.
+    - >-
+      The landlord is liable only if the insurer first sues him in its own name.
+  correct: 1
+  explanation: >-
+    Remedies Law s. 16 bars deducting insurance from damages, but under Insurance Contract Law s. 62 the
+    insurer that paid takes over the insured's claim against the wrongdoer to the extent of its payment.
+- id: q2
+  question: >-
+    The landlord kept the whole cash security "for repainting and general wear". He gave no advance notice.
+    Which answer fits s. 25י?
+  options:
+    - >-
+      He may keep it, because repainting is a standard end-of-lease expense.
+    - >-
+      He may keep half, because wear and tear is shared between the parties.
+    - >-
+      He must return it: wear is not a listed use, and he gave no notice.
+    - >-
+      He must return it only if the tenant signs a waiver of other claims.
+  correct: 2
+  explanation: >-
+    The security may be used only for listed purposes (unpaid rent, tenant-caused damage the tenant failed to
+    repair, unpaid running bills, not vacating), after reasonable notice and a chance to cure (s. 25י(ג)–(ד)).
+- id: q3
+  question: >-
+    The insurer rejects a water-damage claim, citing a "gradual leak" exclusion printed among general
+    exclusions, far from the water-damage cover and in ordinary type. What is your first answer?
+  options:
+    - >-
+      The exclusion is not placed or highlighted as s. 3 requires, so the insurer may not rely on it.
+    - >-
+      Ask the court under s. 29 to excuse the exclusion because the leak was not your fault.
+    - >-
+      Accept the rejection, because gradual leaks are excluded by law in home policies.
+    - >-
+      Argue the exclusion is void because every exclusion in a standard policy is void.
+  correct: 0
+  explanation: >-
+    Section 3 lets an insurer rely on a condition or exclusion only if it is set next to the subject or
+    specially highlighted. Section 29 concerns breached conditions, and exclusions are not void per se.
+- id: q4
+  question: >-
+    The tenant wants to deduct a ₪1,400 urgent plumber's bill from next month's rent. What should he do to
+    use set-off safely?
+  options:
+    - >-
+      Deduct silently; the landlord will see the reason when he checks his account.
+    - >-
+      Ask the court for permission to deduct before the rent is due.
+    - >-
+      Pay in full; set-off is not allowed in residential leases.
+    - >-
+      Send a written set-off notice with the invoice before paying the reduced rent.
+  correct: 3
+  explanation: >-
+    Debts arising from the tenancy may be set off (s. 25). A written notice with the invoice shows the
+    deduction is a set-off, not non-payment.

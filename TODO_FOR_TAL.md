@@ -19,3 +19,4 @@
 - Module 18: many family-law rulings sourced from Wikipedia or Knesset documents (incl. בע"מ 919/15, Brill 7368/22); review module 18 for neutrality.
 - Module 17: expedited labour-hearing ceiling conflicts (₪40,700 Kol-Zchut vs ₪39,500 court fee table); NII appeal period 30 vs 90 days; pension-order rates from secondary sources.
 - Module 19: ICC Palestine status confirmed only to January 2026; South Africa v. Israel counter-memorial status from South African statements only; review module 19 for neutrality.
+- Module 20: Adras (ד"נ 20/82) and Kestenbaum (ע"א 294/91) citations from memory; Sale Law s. 11(ד) amendment date (2022 vs 2023) conflict.

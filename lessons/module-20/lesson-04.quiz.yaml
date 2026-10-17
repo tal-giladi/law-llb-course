@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A carpenter builds a custom wardrobe in his workshop from wood he buys, then installs it. The doors warp
+    after two months. Which statute mainly governs the buyer's rights?
+  options:
+    - >-
+      The Contract for Services Law, because the carpenter did the work himself.
+    - >-
+      The Bailees Law, because the wardrobe was in the carpenter's custody.
+    - >-
+      The Sale Law, because the carpenter supplied the main materials for a thing to be made.
+    - >-
+      Only the Contracts (General Part) Law, because no special law applies to custom furniture.
+  correct: 2
+  explanation: >-
+    Section 8(ב) of the Contract for Services Law and s. 2 of the Sale Law treat supply of a thing to be made,
+    where the supplier provides most of the materials, as a sale.
+- id: q2
+  question: >-
+    A tiler laid floor tiles unevenly. Without telling him, the owner hires another tiler the next day and
+    sends the first tiler the bill. The defect was not urgent. What is the first tiler's best answer?
+  options:
+    - >-
+      He got no notice and no chance to repair, so the owner may not rely on the defect.
+    - >-
+      Uneven tiles are a matter of taste and never count as a defect in the work.
+    - >-
+      The owner should have deducted the cost from the fee instead of hiring someone.
+    - >-
+      Only a court may decide that the work is defective before anyone else repairs it.
+  correct: 0
+  explanation: >-
+    Section 3(א) requires notice within a reasonable time and a proper chance to repair a repairable defect;
+    without it the customer may not rely on the defect (s. 3(ב)(1)), unless the repair was urgent (s. 4(ב)).
+- id: q3
+  question: >-
+    A garage repaired your car for ₪2,000 and refuses to release it until you also pay ₪1,500 owed for a
+    repair last year. What may the garage lawfully hold the car for?
+  options:
+    - >-
+      Both sums, because a contractor's lien covers every debt of the same customer.
+    - >-
+      Nothing, because a lien over a vehicle needs a court order first.
+    - >-
+      Both sums, but only if the garage warned you in writing before starting work.
+    - >-
+      Only the ₪2,000, because the lien secures sums due from that transaction.
+  correct: 3
+  explanation: >-
+    The contractor's lien under s. 5 secures the sums due "עקב עיסקת הקבלנות", the job for which the property
+    was handed over, not unrelated earlier debts.
+- id: q4
+  question: >-
+    A renovator abandons a half-finished kitchen. The owners ask the court to order him to come back and
+    finish. What is the likely result?
+  options:
+    - >-
+      The order is granted, because enforcement is the primary remedy in Israeli law.
+    - >-
+      No order, because enforcement that forces personal work or service is excluded.
+    - >-
+      The order is granted only if the renovator is a registered company.
+    - >-
+      No order, because a renovator's obligation is only to return the advance payment.
+  correct: 1
+  explanation: >-
+    Remedies Law s. 3(2) excludes enforcement that compels personal work or service. The owners cancel,
+    complete with another contractor and claim the extra cost as damages.

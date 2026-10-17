@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Your uncle guaranteed your lease to a private landlord: "all the tenant's obligations under the lease",
+    no sum stated. The landlord now claims ₪40,000 from him. Can he rely on s. 21(ב) (no stated sum, no
+    liability)?
+  options:
+    - >-
+      Yes, because every individual guarantor is released if no sum is stated.
+    - >-
+      No, because chapter ב applies only where the creditor is a professional lender.
+    - >-
+      Yes, but only if the lease was a residential lease under the 2017 chapter.
+    - >-
+      No, because a relative of the debtor is never an individual guarantor.
+  correct: 1
+  explanation: >-
+    Chapter ב protects an individual guarantor of a "נושה", defined in s. 19 as one who lends in the ordinary
+    course of business. A private landlord is not, so only the general part of the law applies.
+- id: q2
+  question: >-
+    A bank claims ₪60,000 from a protected guarantor of a personal loan. The debtor is alive, in Israel and
+    solvent, and the bank has not sued him. What should the guarantor answer?
+  options:
+    - >-
+      That he will pay half, since guarantor and debtor are liable in equal shares.
+    - >-
+      That he waived demand-first in the form, so he must pay and claim recourse.
+    - >-
+      That he will pay only if the bank shows the debtor refused a written demand.
+    - >-
+      That no claim or demand may be made until judgment and exhausted execution against the debtor.
+  correct: 3
+  explanation: >-
+    Section 27 bars any claim (including a demand, s. 27(ד)) against a protected guarantor until a judgment
+    against the debtor and the execution registrar's confirmation that reasonable enforcement was exhausted.
+    The s. 8 waiver does not override s. 27, which cannot be waived (s. 32).
+- id: q3
+  question: >-
+    The debtor missed a payment in January. The bank first notified the individual guarantor in August and
+    claims the debt plus seven months of late interest. What is the guarantor's strongest point?
+  options:
+    - >-
+      Late notice releases him to the extent of his loss, such as the late interest meanwhile.
+    - >-
+      Late notice releases him from the whole guarantee, whatever loss it caused him.
+    - >-
+      Late notice matters only if the guarantee was for a loan to buy a family home.
+    - >-
+      Late notice has no effect if the bank sent it by ordinary mail to his address.
+  correct: 0
+  explanation: >-
+    Section 26(א) requires notice within a fixed period of the default; otherwise the guarantor is released to
+    the extent of the damage caused, and late interest runs only from after the notice (s. 25(ב)).
+- id: q4
+  question: >-
+    A woman guaranteed a ₪50,000 bank loan taken by her husband personally. The sum is stated and the
+    disclosure was full. Which statement is correct?
+  options:
+    - >-
+      She is a protected guarantor because the sum is under the lower ceiling.
+    - >-
+      She is released because the bank did not explain the guarantee to her orally.
+    - >-
+      As the debtor's spouse she is not an individual guarantor, so chapter ב does not apply.
+    - >-
+      She may be pursued only after her husband is declared insolvent.
+  correct: 2
+  explanation: >-
+    Section 19 excludes the debtor's spouse (and partner) from "individual guarantor", so the fixed-sum,
+    disclosure, notice and sue-the-debtor-first protections do not apply; the general part still does.

@@ -1,0 +1,1341 @@
+- id: m20-001
+  module: 20
+  lesson: "20.1"
+  subject: sale-scope
+  difficulty: 1
+  question: >-
+    A customer brings her own fabric to a tailor, who makes a dress from it for a fee. Which law governs the
+    contract?
+  options:
+    - >-
+      The Sale Law, because a new thing is produced for the customer.
+    - >-
+      The Contract for Services Law, because the customer supplied the main material.
+    - >-
+      The Consumer Protection Law only, because the customer is a consumer.
+    - >-
+      The Bailees Law only, because the tailor holds the customer's fabric.
+  correct: 1
+  explanation: >-
+    Sale Law s. 2 treats supply of a thing to be made as a sale unless the customer supplies most of the
+    materials; then it is a contract for work (Contract for Services Law s. 8(ב)).
+- id: m20-002
+  module: 20
+  lesson: "20.1"
+  subject: conformity-heads
+  difficulty: 1
+  question: >-
+    A buyer told the seller he needed paint for a bathroom; the seller sold ordinary wall paint that peels in
+    humidity. Under which head of s. 11 is this best classified?
+  options:
+    - >-
+      Goods of a different kind or description than agreed (s. 11(2)).
+    - >-
+      A smaller or larger quantity than the one agreed (s. 11(1)).
+    - >-
+      Unfit for a special purpose implied in the deal (s. 11(3)).
+    - >-
+      Not matching a sample or model shown to the buyer (s. 11(4)).
+  correct: 2
+  explanation: >-
+    The buyer disclosed the special purpose (a humid bathroom), so fitness for it was implied in the
+    agreement; s. 11(3) covers unfitness for ordinary use or for such a special purpose.
+- id: m20-003
+  module: 20
+  lesson: "20.1"
+  subject: buyer-knowledge
+  difficulty: 2
+  question: >-
+    At a showroom a buyer points out a scratch on a display fridge, and the seller gives a 10% discount. After
+    delivery the buyer demands a new fridge because of the scratch. What is the seller's answer?
+  options:
+    - >-
+      The buyer knew of the scratch when contracting and cannot rely on it.
+    - >-
+      The buyer did not notify the scratch immediately after delivery.
+    - >-
+      Scratches are cosmetic and never amount to non-conformity.
+    - >-
+      Display items are sold without any duty of conformity.
+  correct: 0
+  explanation: >-
+    Under s. 12 a buyer who knew of the non-conformity at the time of contracting may not rely on it.
+- id: m20-004
+  module: 20
+  lesson: "20.1"
+  subject: notice-dispatch
+  difficulty: 2
+  question: >-
+    A buyer emailed a detailed non-conformity notice to the seller's address on the invoice the day she found
+    the defect. The seller says the email went to spam and was never read. Can she rely on the notice?
+  options:
+    - >-
+      No, a notice is effective only when actually read by the seller.
+    - >-
+      Only if she also sent a registered letter within seven days.
+    - >-
+      Only if the seller's terms allowed notices by email.
+    - >-
+      Yes, if email is the customary way in the circumstances.
+  correct: 3
+  explanation: >-
+    Section 17(ב) protects a buyer who gave notice in the customary way, even if it arrived late or not at
+    all. Keep proof that it was sent to the right address.
+- id: m20-005
+  module: 20
+  lesson: "20.1"
+  subject: price-reduction
+  difficulty: 2
+  question: >-
+    Spot the mistake. A buyer wrote: "The table has a crack. I am deducting ₪800 from the last payment today."
+    He had never told the seller about the crack. What is wrong?
+  options:
+    - >-
+      Deduction from the price is allowed only after a court judgment.
+    - >-
+      Section 28 needs notice and a failure to cure in reasonable time.
+    - >-
+      Price reduction applies only to goods bought by a private consumer.
+    - >-
+      A buyer may only cancel, never deduct, for a crack in furniture.
+  correct: 1
+  explanation: >-
+    Price reduction under s. 28 is available when the seller did not fix the non-conformity within a
+    reasonable time after the buyer's notice; the buyer skipped the notice.
+- id: m20-006
+  module: 20
+  lesson: "20.1"
+  subject: hidden-defect-cutoff
+  difficulty: 3
+  question: >-
+    Five years after buying a used tractor from a dealer, a farmer discovers a hidden crack in the chassis and
+    notifies the dealer at once. The dealer had no knowledge of it. What can the farmer still claim under the
+    Sale Law?
+  options:
+    - >-
+      Cancellation and damages, because the defect was hidden.
+    - >-
+      Cancellation only, because damages need notice within two years.
+    - >-
+      Nothing, because the cut-offs for movables have passed for all remedies.
+    - >-
+      Damages only, because hidden defects have no time limit.
+  correct: 2
+  explanation: >-
+    For movables, s. 15 bars cancellation after notice given beyond the shorter period from delivery and all
+    other remedies beyond the longer period; five years is past both. Only s. 16 (seller knowledge) would help.
+- id: m20-007
+  module: 20
+  lesson: "20.1"
+  subject: defect-in-title
+  difficulty: 2
+  question: >-
+    A buyer of a used car finds that a creditor of the seller had registered an attachment on it before the
+    sale. Which duty did the seller breach?
+  options:
+    - >-
+      To deliver it free of any attachment or third-party right.
+    - >-
+      To deliver a car that is fit for its ordinary use.
+    - >-
+      To deliver the car on the agreed date and at the agreed place.
+    - >-
+      To give the buyer an opportunity to inspect before delivery.
+  correct: 0
+  explanation: >-
+    Sale Law s. 18(א) requires delivery free of any charge, attachment or other third-party right; a defect
+    in title is separate from non-conformity under s. 11.
+- id: m20-008
+  module: 20
+  lesson: "20.2"
+  subject: apartments-seller
+  difficulty: 1
+  question: >-
+    A family sells the flat they lived in for ten years to another family. Does the Sale (Apartments) Law
+    govern the sale?
+  options:
+    - >-
+      Yes, it governs every sale of a residential apartment.
+    - >-
+      Yes, but only its rules on the statutory specification.
+    - >-
+      Only if the buyer is buying a first home for himself.
+    - >-
+      No, the seller did not build or buy the flat to sell it.
+  correct: 3
+  explanation: >-
+    A "seller" under s. 1 is one who sells a flat he built or bought from a builder in order to sell it; a
+    private owner selling his home is under the general Sale Law.
+- id: m20-009
+  module: 20
+  lesson: "20.2"
+  subject: warranty-period-burden
+  difficulty: 2
+  question: >-
+    A crack appears in the internal plaster of a new flat after the inspection period for that item has ended
+    but within the following three years. Who must prove what?
+  options:
+    - >-
+      The developer must prove the buyer caused the crack.
+    - >-
+      The buyer must prove it originates in design, work or materials.
+    - >-
+      Neither; the developer is liable automatically during this period.
+    - >-
+      The buyer has no claim once the inspection period has ended.
+  correct: 1
+  explanation: >-
+    In the warranty period (three years after the inspection period) the buyer must prove the origin in
+    design, work or materials (s. 4(א)(3)).
+- id: m20-010
+  module: 20
+  lesson: "20.2"
+  subject: securities
+  difficulty: 1
+  question: >-
+    Which of these is NOT one of the securities allowed by s. 2 of the Assurance of Investment Law?
+  options:
+    - >-
+      A bank guarantee for the money paid.
+    - >-
+      A first mortgage on the flat in favour of the buyer.
+    - >-
+      A personal guarantee by the developer's owner.
+    - >-
+      A clean, first-ranking caveat on the flat.
+  correct: 2
+  explanation: >-
+    Section 2 lists a bank or other licensed guarantee, insurance, a first mortgage, a clean caveat, or
+    transfer of ownership; a personal guarantee by the owner is not among them.
+- id: m20-011
+  module: 20
+  lesson: "20.2"
+  subject: delay-waiver
+  difficulty: 2
+  question: >-
+    Before handing over the keys a developer asks buyers to sign that they waive delay compensation in
+    exchange for a free storage room. They sign. Is the waiver valid?
+  options:
+    - >-
+      No, a waiver of delay rights that is a condition of handover is void.
+    - >-
+      Yes, because the buyers received consideration for it.
+    - >-
+      Yes, if a lawyer for the buyers was present at signing.
+    - >-
+      Only for the part of the delay before the contractual date.
+  correct: 0
+  explanation: >-
+    For contracts from July 2022, s. 7א(ב) voids any waiver of rights relating to delay (s. 5א) or
+    non-conformity that is a condition of handover, repairs or transfer of rights.
+- id: m20-012
+  module: 20
+  lesson: "20.2"
+  subject: linkage
+  difficulty: 3
+  question: >-
+    A 2024 contract links the whole price, including the 20% paid at signing, to the construction-inputs index
+    until actual handover. What is the lawful maximum?
+  options:
+    - >-
+      Linkage of the whole price until actual handover, as agreed.
+    - >-
+      No linkage at all of any payment, whatever was agreed.
+    - >-
+      All payments except the first 20%, linked until actual handover.
+    - >-
+      Half of each payment at most, not the first 20%, to the contract date.
+  correct: 3
+  explanation: >-
+    Section 5ג (contracts from July 2022) bars linkage except up to half of each payment to the construction
+    index, never the first 20%, and only until the contractual handover date.
+- id: m20-013
+  module: 20
+  lesson: "20.2"
+  subject: visible-defect-notice
+  difficulty: 2
+  question: >-
+    A buyer noticed at handover that a bathroom tile was broken but wrote nothing. Eighteen months later she
+    notifies the developer. What is the likely result?
+  options:
+    - >-
+      She may rely on it, because the inspection period for tiles is longer.
+    - >-
+      She may not: a visible defect needs notice in the fixed period.
+    - >-
+      She may rely on it if she proves the developer knew of the tile.
+    - >-
+      She may not rely on it, because she did not sign the protocol with reservations.
+  correct: 1
+  explanation: >-
+    A defect discoverable at handover must be notified within the fixed period from handover (s. 4א(א)(1));
+    the inspection period decides the burden of proof, not the notice period.
+- id: m20-014
+  module: 20
+  lesson: "20.2"
+  subject: forum-supervisor
+  difficulty: 1
+  question: >-
+    Which forum. A buyer believes the developer is taking payments without securities. Besides the
+    developer and the bank, where can she complain?
+  options:
+    - >-
+      The Standard Contracts Tribunal, by her own application.
+    - >-
+      The superintendent of land registration in her district.
+    - >-
+      The housing ministry's supervisor under s. 3ד.
+    - >-
+      The Consumer Protection Authority's small claims unit.
+  correct: 2
+  explanation: >-
+    Section 3ד appoints a supervisor who keeps a register and examines public complaints, including breaches
+    of the duty to secure buyers' money.
+- id: m20-015
+  module: 20
+  lesson: "20.3"
+  subject: security-cap
+  difficulty: 1
+  question: >-
+    A six-month residential lease at ₪4,000 a month. What is the maximum total cash security?
+  options:
+    - >-
+      ₪8,000, rent for a third of the term.
+    - >-
+      ₪12,000, three months' rent.
+    - >-
+      ₪16,000, four months' rent.
+    - >-
+      ₪24,000, the rent for the whole term.
+  correct: 0
+  explanation: >-
+    The cap is the lower of rent for one-third of the term (two months, ₪8,000) and three months' rent
+    (₪12,000) (s. 25י(ב)).
+- id: m20-016
+  module: 20
+  lesson: "20.3"
+  subject: habitability
+  difficulty: 2
+  question: >-
+    A landlord rents out a basement flat whose only window is sealed with no opening. Under the residential
+    chapter, what is the effect?
+  options:
+    - >-
+      None, if the tenant saw the flat before signing.
+    - >-
+      None, because the rent can be reduced by agreement.
+    - >-
+      Only a duty to install a window within 30 days of demand.
+    - >-
+      The flat is not habitable and its delivery is a breach.
+  correct: 3
+  explanation: >-
+    A flat without ventilation and natural-light openings that can be closed is not habitable (First Schedule
+    item 3); delivering it is a breach (s. 25ו(ב)), and this cannot be varied (s. 25יד(1)).
+- id: m20-017
+  module: 20
+  lesson: "20.3"
+  subject: excluded-leases
+  difficulty: 2
+  question: >-
+    A student rents a room in university dorms for the academic year. The dorm contract requires four months'
+    deposit. Can she rely on the s. 25י cap?
+  options:
+    - >-
+      Yes, the cap applies to every residential lease.
+    - >-
+      No, dorms are excluded from the residential chapter.
+    - >-
+      Yes, but only if the lease is longer than three months.
+    - >-
+      No, because students are not "tenants" under the law.
+  correct: 1
+  explanation: >-
+    Section 25טו(א)(1)(ד) excludes student, pupil and worker dormitories from the residential chapter; the
+    general rental rules still apply.
+- id: m20-018
+  module: 20
+  lesson: "20.3"
+  subject: rent-exemption
+  difficulty: 2
+  question: >-
+    After a fire in the stairwell, the building is closed by the municipality for three weeks and the tenant
+    cannot enter the flat. She does not cancel. What about the rent for those weeks?
+  options:
+    - >-
+      She must pay it in full and claim from the landlord's insurer.
+    - >-
+      She must pay half, as the risk is shared between the parties.
+    - >-
+      She is exempt from rent while use of the flat was prevented.
+    - >-
+      She may withhold it only with a prior court order.
+  correct: 2
+  explanation: >-
+    Under s. 15 a tenant of land prevented from using it by circumstances connected with the property or the
+    access to it, who does not cancel, is exempt from rent for that time, subject to s. 15(ב).
+- id: m20-019
+  module: 20
+  lesson: "20.3"
+  subject: no-cause-cancellation
+  difficulty: 2
+  question: >-
+    A lease gives only the landlord a right to end the lease early "for any reason with 60 days' notice". The
+    landlord uses it. What is the legal position?
+  options:
+    - >-
+      The clause is void, because the tenant has no equal right.
+    - >-
+      The clause is valid, but notice must be 90 days.
+    - >-
+      The clause is valid as written, because both parties signed it.
+    - >-
+      The clause is valid only in a lease longer than two years.
+  correct: 0
+  explanation: >-
+    Section 25יג(א) voids a landlord's no-cause cancellation clause unless the tenant has one too; only a
+    mutual clause is valid, with 90 and 60 days' minimum notice.
+- id: m20-020
+  module: 20
+  lesson: "20.3"
+  subject: sublease-consent
+  difficulty: 3
+  question: >-
+    A tenant must move abroad for a year and finds a reliable subtenant; the landlord refuses consent
+    without any reason. The lease says "no sublease". What may the tenant do?
+  options:
+    - >-
+      Nothing; the contractual ban on subleasing is final.
+    - >-
+      Proceed or ask the court, as the refusal is unreasonable.
+    - >-
+      Cancel the lease at once for the landlord's breach.
+    - >-
+      Sublet only if the landlord fails to answer within 30 days.
+  correct: 1
+  explanation: >-
+    Section 22(א) lets a tenant of land proceed without consent when the landlord refuses on unreasonable
+    grounds, and lets the court permit the transaction even against the lease; whether a "no sublease" clause
+    blocks the first route is debated, so asking the court is safer.
+- id: m20-021
+  module: 20
+  lesson: "20.3"
+  subject: tenant-protection
+  difficulty: 2
+  question: >-
+    Bar-style. An old shop in central Jerusalem has been let since 1965 to the same family for key money. The
+    owner wants it back to sell the building. Which statement is correct?
+  options:
+    - >-
+      The owner may end the lease by reasonable notice under s. 19.
+    - >-
+      The owner may evict after 90 days' notice under s. 25יג.
+    - >-
+      The owner may evict if he offers to return the key money.
+    - >-
+      Eviction only on a ground in s. 131, and the court may refuse.
+  correct: 3
+  explanation: >-
+    A protected tenancy under the Tenant Protection Law ends only on a statutory eviction ground (s. 131), and
+    the court may refuse eviction if it would be unjust (s. 132).
+- id: m20-022
+  module: 20
+  lesson: "20.4"
+  subject: urgent-repair
+  difficulty: 2
+  question: >-
+    A plumber's new pipe bursts on Friday night, flooding the flat; the plumber does not answer. The owner
+    calls another plumber. Can he recover the cost from the first?
+  options:
+    - >-
+      No, the first plumber must always be given a chance to repair.
+    - >-
+      Only if he first obtained a written refusal from the first plumber.
+    - >-
+      Yes, an urgent defect may be repaired without waiting.
+    - >-
+      Only if the contract expressly allowed repairs by others.
+  correct: 2
+  explanation: >-
+    Contract for Services Law s. 4(ב) lets the customer repair a defect whose repair is so urgent that he
+    cannot be expected to wait, without first giving notice and a chance to repair.
+- id: m20-023
+  module: 20
+  lesson: "20.4"
+  subject: lien
+  difficulty: 1
+  question: >-
+    A jeweller repaired a ring and refuses to return it until paid. The customer says the jeweller has no
+    right to keep his property. Who is right?
+  options:
+    - >-
+      The jeweller, who has a lien for the sums due for the job.
+    - >-
+      The customer, because any retention needs a court order.
+    - >-
+      The customer, because a lien applies only to vehicles.
+    - >-
+      The jeweller, but only for 14 days from completion.
+  correct: 0
+  explanation: >-
+    Section 5 gives the contractor a lien over the property handed over for the work until paid what is due
+    from that transaction.
+- id: m20-024
+  module: 20
+  lesson: "20.4"
+  subject: risk-bailee
+  difficulty: 2
+  question: >-
+    A laptop left at a repair lab is stolen in a break-in at the lab before the repair is done. The lab had
+    no alarm. Must the customer pay for the repair work done, and who bears the loss?
+  options:
+    - >-
+      The customer pays and bears the loss, as theft is force majeure.
+    - >-
+      The customer pays for the work and the lab pays for the laptop.
+    - >-
+      Neither is liable alone; the loss is shared between them equally.
+    - >-
+      No fee is due, and the lab is liable as a paid bailee.
+  correct: 3
+  explanation: >-
+    Under s. 6(ב) the contractor holding the property is liable as a paid bailee and the customer is exempt
+    from the fee if the property is lost while with the contractor; a break-in without an alarm is hardly
+    unforeseeable.
+- id: m20-025
+  module: 20
+  lesson: "20.4"
+  subject: agreed-damages
+  difficulty: 3
+  question: >-
+    A renovation contract sets agreed damages of ₪2,000 per day of delay; the job price is ₪30,000. The
+    contractor finishes 20 days late. The customer claims ₪40,000. What will the court likely do?
+  options:
+    - >-
+      Award ₪40,000, because agreed damages need no proof of damage.
+    - >-
+      Reduce them if out of all proportion to the foreseeable damage.
+    - >-
+      Strike them out entirely as an unlawful penalty clause.
+    - >-
+      Award only the customer's proven damage, ignoring the clause.
+  correct: 1
+  explanation: >-
+    Agreed damages are paid without proof of damage, but the court may reduce them where they were set
+    without any reasonable relation to the foreseeable damage (Remedies Law s. 15(א)).
+- id: m20-026
+  module: 20
+  lesson: "20.4"
+  subject: continuing-cancel
+  difficulty: 1
+  question: >-
+    A consumer cancels her cleaning-service subscription by email on Sunday. The company says cancellation
+    takes effect "at the end of the next billing month". What is the rule?
+  options:
+    - >-
+      The contract ends within a few business days of the notice.
+    - >-
+      The company's billing-month rule applies, as agreed.
+    - >-
+      Cancellation is effective only if sent by registered mail.
+    - >-
+      The consumer must pay a cancellation fee of one month.
+  correct: 0
+  explanation: >-
+    A continuing transaction ends within three business days of a cancellation notice under s. 14ט (six if
+    sent by registered mail), unless the consumer chose a later date (s. 13ד(ג)).
+- id: m20-027
+  module: 20
+  lesson: "20.4"
+  subject: technician-visit
+  difficulty: 1
+  question: >-
+    A warranty technician was booked for 10:00 and arrived at 15:30 without calling. What does the consumer
+    have?
+  options:
+    - >-
+      Nothing, because warranty visits are free of charge anyway.
+    - >-
+      A right to cancel the purchase and get a full refund.
+    - >-
+      Fixed compensation with no proof of damage (s. 18א(ד)).
+    - >-
+      A right to exemplary damages up to the statutory ceiling.
+  correct: 2
+  explanation: >-
+    Section 18א(ג)–(ד) caps the waiting time after the coordinated hour and grants fixed compensation without
+    proof of damage when it is exceeded by set margins.
+- id: m20-028
+  module: 20
+  lesson: "20.4"
+  subject: enforcement-personal
+  difficulty: 2
+  question: >-
+    Bar-style. A famous singer cancels a wedding performance she contracted for. The couple seek an order
+    forcing her to perform. Which provision is decisive?
+  options:
+    - >-
+      Remedies Law s. 2, which makes enforcement the first remedy.
+    - >-
+      Contract for Services Law s. 4, which allows self-repair.
+    - >-
+      Contracts Law s. 39, which requires good faith in performance.
+    - >-
+      Remedies Law s. 3(2), excluding enforcement that compels personal service.
+  correct: 3
+  explanation: >-
+    Enforcement is a right except where it compels personal work or service (Remedies Law s. 3(2)); the
+    couple have damages and cancellation.
+- id: m20-029
+  module: 20
+  lesson: "20.5"
+  subject: guarantee-accessory
+  difficulty: 1
+  question: >-
+    The creditor and the debtor agree to raise the loan from ₪50,000 to ₪80,000 without the guarantor's
+    consent. What is the guarantor's liability?
+  options:
+    - >-
+      ₪80,000, because the guarantee always follows the debt.
+    - >-
+      Unchanged, since an increase made without him does not bind him.
+    - >-
+      Nothing, because any change in the debt releases the guarantor.
+    - >-
+      ₪65,000, a court's usual midpoint between the two sums.
+  correct: 1
+  explanation: >-
+    Under s. 5(ב) an increase of the guaranteed obligation agreed between creditor and debtor does not change
+    the guarantor's obligation.
+- id: m20-030
+  module: 20
+  lesson: "20.5"
+  subject: future-debts
+  difficulty: 2
+  question: >-
+    A father guaranteed "all future purchases on credit" of his son's shop from a supplier. He now wants out
+    before further orders. What may he do?
+  options:
+    - >-
+      Nothing until the supplier agrees in writing to release him.
+    - >-
+      Ask the court to cancel the guarantee for personal hardship.
+    - >-
+      Cancel in writing for debts not yet arisen, paying any loss.
+    - >-
+      Cancel only if the son also signs the cancellation notice.
+  correct: 2
+  explanation: >-
+    Section 15(א) lets a guarantor of a future obligation cancel by written notice to the creditor while the
+    obligation has not arisen, compensating the creditor for damage from the cancellation.
+- id: m20-031
+  module: 20
+  lesson: "20.5"
+  subject: late-interest-cap
+  difficulty: 3
+  question: >-
+    Spot the mistake. A bank's demand to an individual guarantor includes late interest at 15 points above
+    the loan rate, from the first missed instalment, before any notice to him. What is wrong?
+  options:
+    - >-
+      Late interest is capped and runs only after notice to him.
+    - >-
+      Late interest can never be charged to any guarantor.
+    - >-
+      Late interest is allowed only after a court judgment is given.
+    - >-
+      The bank must first offer the guarantor a payment settlement.
+  correct: 0
+  explanation: >-
+    Section 25(א)(2) caps late interest at four percentage points above the original rate, and s. 25(ב) makes
+    the individual guarantor liable for it only after the period following notice of default.
+- id: m20-032
+  module: 20
+  lesson: "20.5"
+  subject: protected-home-loan
+  difficulty: 2
+  question: >-
+    Grandparents guarantee their grandson's mortgage for his own home, stating a sum of ₪400,000. Are they
+    protected guarantors?
+  options:
+    - >-
+      Yes, any guarantee of a loan for a home is always protected.
+    - >-
+      Yes, but only if the sum is under the lower general ceiling.
+    - >-
+      Yes, because grandparents are close relatives of the debtor.
+    - >-
+      Likely, under the higher home-loan ceiling if within its figure.
+  correct: 3
+  explanation: >-
+    The higher protected-guarantor ceiling applies where the debt is for rights in a home for the debtor, his
+    adult children or parents (s. 19(2)); ₪400,000 is protected if within the current linked ceiling.
+- id: m20-033
+  module: 20
+  lesson: "20.5"
+  subject: interested-party
+  difficulty: 2
+  question: >-
+    The CEO and 30% shareholder of a company guarantees the company's bank loan without a stated sum. Is he
+    released under s. 21(ב)?
+  options:
+    - >-
+      Yes, every individual guarantor is released without a stated sum.
+    - >-
+      No, an interested party in a debtor company is not an individual guarantor.
+    - >-
+      Yes, but only if the bank failed to disclose the interest rate to him.
+    - >-
+      No, because company debts are never covered by the Guarantee Law.
+  correct: 1
+  explanation: >-
+    Where the debtor is a company, an interested party in it is excluded from "individual guarantor" (s. 19);
+    chapter ב, including s. 21, does not apply to him.
+- id: m20-034
+  module: 20
+  lesson: "20.5"
+  subject: creditor-fault
+  difficulty: 3
+  question: >-
+    A lender held a car pledge as extra security but let the pledge registration lapse; the car was sold by
+    the debtor. The guarantor is sued. What is his best defence?
+  options:
+    - >-
+      Release to the extent of the loss the lapse of the pledge caused him.
+    - >-
+      Full release, because the lender changed the terms of the debt.
+    - >-
+      No defence at all; the pledge was the lender's own business.
+    - >-
+      Release only if he is a protected guarantor under s. 19.
+  correct: 0
+  explanation: >-
+    Under s. 6(ב), if the creditor caused a security for the debt to lapse and the guarantor was harmed, he
+    is released up to the amount of the damage. Section 32 keeps this for individual guarantors.
+- id: m20-035
+  module: 20
+  lesson: "20.5"
+  subject: forum-execution
+  difficulty: 2
+  question: >-
+    Which forum. A guarantor is served with an execution file opened on a promissory note he signed as
+    "guarantor" of a lease. What is his first procedural step?
+  options:
+    - >-
+      A complaint to the Bank of Israel's supervision unit.
+    - >-
+      An appeal to the district court against the file.
+    - >-
+      A small claim asking for a declaration of no debt.
+    - >-
+      An objection in the execution office within the set period.
+  correct: 3
+  explanation: >-
+    A person sued on a promissory note in the execution office raises his defences by an objection within the
+    period set by the execution rules (lesson 08.7); delay leads to enforcement.
+- id: m20-036
+  module: 20
+  lesson: "20.6"
+  subject: sweeping-question
+  difficulty: 2
+  question: >-
+    A health proposal asked: "Do you suffer or have you ever suffered from any illness, disorder or condition
+    of any kind?" The insured did not mention childhood asthma. Did he breach the duty of disclosure?
+  options:
+    - >-
+      Yes, every question in the proposal must be answered in full.
+    - >-
+      Yes, because asthma is always a material matter for an insurer.
+    - >-
+      Probably not; a sweeping question binds only if it was reasonable.
+    - >-
+      No, because childhood illnesses never need to be disclosed.
+  correct: 2
+  explanation: >-
+    Section 6(ב): a sweeping question that bundles different matters without distinction does not require such
+    an answer unless it was reasonable at the time of contracting.
+- id: m20-037
+  module: 20
+  lesson: "20.6"
+  subject: agent-filled
+  difficulty: 2
+  question: >-
+    The insurance agent filled in the proposal for the insured and ticked "no previous claims" without asking
+    her. She had one. After a loss, the insurer reduces the proceeds. What is her argument?
+  options:
+    - >-
+      The insurer caused the wrong answer through its agent, so it has no remedy.
+    - >-
+      Agents are independent, so the insurer is not responsible for them.
+    - >-
+      She may sue the agent personally but must accept the reduction.
+    - >-
+      The reduction is lawful but must be halved for the agent's share.
+  correct: 0
+  explanation: >-
+    Under s. 8(1) the insurer has no remedy if it caused the answer to be incomplete (absent the insured's
+    fraud); the agency rules in ss. 33–36 support treating the agent's act as the insurer's.
+- id: m20-038
+  module: 20
+  lesson: "20.6"
+  subject: proportional-reduction
+  difficulty: 2
+  question: >-
+    Proceeds due are ₪30,000. The agreed premium was ₪900; on the true facts the insurer would have charged
+    ₪1,200. No fraud. What does the insurer pay under s. 7(ג)?
+  options:
+    - >-
+      ₪29,700
+    - >-
+      ₪22,500
+    - >-
+      ₪20,000
+    - >-
+      Nothing
+  correct: 1
+  explanation: >-
+    Reduced proceeds are in the ratio of the agreed premium to the true premium: 30,000 × 900/1,200 =
+    ₪22,500.
+- id: m20-039
+  module: 20
+  lesson: "20.6"
+  subject: fraud-claim
+  difficulty: 2
+  question: >-
+    After a real burglary, the insured adds to the claim a watch that was never stolen. The insurer discovers
+    it. What is the consequence under the law?
+  options:
+    - >-
+      The insurer deducts the watch and pays the rest of the claim.
+    - >-
+      The insurer pays the rest reduced in proportion to the lie.
+    - >-
+      The court decides whether the exaggeration was material.
+    - >-
+      The insurer is exempt from the whole claim for fraud.
+  correct: 3
+  explanation: >-
+    False facts given to the insurer about the event with intent to defraud exempt the insurer entirely
+    (s. 25). Exaggeration is the costliest mistake in a claim.
+- id: m20-040
+  module: 20
+  lesson: "20.6"
+  subject: payment-interest
+  difficulty: 1
+  question: >-
+    The insurer agrees that ₪10,000 of a ₪25,000 claim is undisputed but says it will pay "when the whole
+    claim is decided". What does the law say?
+  options:
+    - >-
+      Undisputed sums are due in the set period and claimable alone.
+    - >-
+      The insurer may hold all proceeds until its investigation is over.
+    - >-
+      Undisputed proceeds are paid only after a court judgment is given.
+    - >-
+      The insurer may pay by instalments of its own choosing if it wishes.
+  correct: 0
+  explanation: >-
+    Section 27 requires undisputed proceeds to be paid within the period after the claim was filed, and makes
+    them claimable separately from the rest.
+- id: m20-041
+  module: 20
+  lesson: "20.6"
+  subject: subrogation-settlement
+  difficulty: 3
+  question: >-
+    After the insurer paid for her car damage, the insured accepts ₪1,000 from the other driver and signs that
+    she waives all claims against him. What is the risk?
+  options:
+    - >-
+      None, because the insurer has no rights against the other driver.
+    - >-
+      The insurer may cancel her whole policy retroactively.
+    - >-
+      She must compensate the insurer for harming its claim.
+    - >-
+      The other driver may now reclaim the ₪1,000 he paid her.
+  correct: 2
+  explanation: >-
+    Under s. 62 the insurer that paid takes over her claim against the wrongdoer; a settlement or waiver that
+    harms that right obliges her to compensate the insurer (s. 62(ג)).
+- id: m20-042
+  module: 20
+  lesson: "20.6"
+  subject: limitation-disability
+  difficulty: 3
+  question: >-
+    Bar-style. A personal-accident policy pays for permanent disability. The accident was in 2021; the
+    disability was determined under the policy terms in 2025. When does limitation start?
+  options:
+    - >-
+      In 2021, on the date of the accident.
+    - >-
+      When the insured first filed a claim with the insurer.
+    - >-
+      When the insurer rejected the claim in writing.
+    - >-
+      When the right to claim arose under the policy, in 2025.
+  correct: 3
+  explanation: >-
+    Under s. 31, where the cause is disability from illness or accident, limitation runs from the day the
+    insured became entitled to claim under the policy terms.
+- id: m20-043
+  module: 20
+  lesson: "20.6"
+  subject: underinsurance
+  difficulty: 2
+  question: >-
+    Contents worth ₪200,000 are insured for ₪100,000. A fire causes ₪40,000 of damage. Absent other terms,
+    what does the insurer pay?
+  options:
+    - >-
+      ₪40,000, the full damage.
+    - >-
+      ₪20,000, in proportion.
+    - >-
+      ₪100,000, the sum insured.
+    - >-
+      Nothing, for non-disclosure.
+  correct: 1
+  explanation: >-
+    Under s. 60 underinsurance reduces liability in the ratio of the sum insured to the value: 40,000 ×
+    100,000/200,000 = ₪20,000.
+- id: m20-044
+  module: 20
+  lesson: "20.7"
+  subject: distance-service
+  difficulty: 2
+  question: >-
+    On Sunday a consumer booked online a one-off appliance-installation service for Wednesday. On Tuesday
+    morning she cancels. Is she within the distance-sale right?
+  options:
+    - >-
+      No, two non-rest days must remain before a one-off service.
+    - >-
+      Yes, because she is within 14 days of the deal.
+    - >-
+      Yes, because the service has not started yet.
+    - >-
+      No, because services bought online cannot be cancelled.
+  correct: 0
+  explanation: >-
+    For a non-continuing service, s. 14ג(ג)(2) allows cancellation within the period only if done at least
+    two non-rest days before the service date; Tuesday morning for Wednesday is too late.
+- id: m20-045
+  module: 20
+  lesson: "20.7"
+  subject: exceptions
+  difficulty: 1
+  question: >-
+    Which distance purchase can the consumer NOT cancel under s. 14ג(ג)?
+  options:
+    - >-
+      A pair of shoes delivered in the original box.
+    - >-
+      A sofa ordered in a standard colour.
+    - >-
+      A downloaded software licence.
+    - >-
+      A washing machine still in its packaging.
+  correct: 2
+  explanation: >-
+    Information as defined in the Computers Law (software, digital content) is excluded (s. 14ג(ד)(3)), as are
+    perishables, goods made to order and opened recordable media.
+- id: m20-046
+  module: 20
+  lesson: "20.7"
+  subject: refund-fee
+  difficulty: 2
+  question: >-
+    A consumer cancels a ₪3,000 distance purchase because it arrived three weeks late. The dealer deducts
+    ₪100 "cancellation fee" and ₪60 "shipping". Is that lawful?
+  options:
+    - >-
+      Yes, both sums are within the statutory caps.
+    - >-
+      Only the shipping, because it is not a fee.
+    - >-
+      Only the ₪100 fee, but not the shipping.
+    - >-
+      No, a breach-based cancellation means no fee.
+  correct: 3
+  explanation: >-
+    When cancellation is because of the dealer's breach, including late delivery, s. 14ה(א) requires a full
+    refund within the set period and no cancellation fee; "fee" includes shipping (s. 14ה(ד)).
+- id: m20-047
+  module: 20
+  lesson: "20.7"
+  subject: exemplary-request
+  difficulty: 2
+  question: >-
+    Spot the mistake. A consumer's continuing internet contract kept charging her after she cancelled by
+    phone. She immediately filed a small claim for exemplary damages without any written request. What did
+    she miss?
+  options:
+    - >-
+      Exemplary damages need proof of her actual damage first.
+    - >-
+      A prior written request; an oral cancellation is not enough.
+    - >-
+      Exemplary damages are available only in a class action.
+    - >-
+      She must first file a complaint with the Consumer Authority.
+  correct: 1
+  explanation: >-
+    Section 31א(ב) requires a prior written request before an exemplary-damages claim; for continued charging
+    (para. (2ב)) a cancellation notice under s. 14ט suffices, but not an oral one under s. 14ט(א)(1).
+- id: m20-048
+  module: 20
+  lesson: "20.7"
+  subject: read-declaration
+  difficulty: 1
+  question: >-
+    A standard form says: "The customer declares that he read and understood all the terms." What is its
+    status under the Standard Contracts Law?
+  options:
+    - >-
+      Presumed depriving under s. 4(12).
+    - >-
+      Void outright under s. 5.
+    - >-
+      Always valid as a statement of fact.
+    - >-
+      Valid if every page is initialled.
+  correct: 0
+  explanation: >-
+    Section 4(12) presumes depriving a term requiring the customer to confirm he read the contract or to
+    declare facts about himself, except information he supplied.
+- id: m20-049
+  module: 20
+  lesson: "20.7"
+  subject: tribunal-effect
+  difficulty: 3
+  question: >-
+    Bar-style. The Standard Contracts Tribunal cancels a clause in a mobile operator's form. A customer whose
+    contract was signed two years earlier asks whether the cancellation applies to him. Which answer is
+    correct?
+  options:
+    - >-
+      No, it applies only to contracts signed after the decision.
+    - >-
+      Only if he joined the Tribunal proceeding as a party.
+    - >-
+      Yes, except for obligations already performed, unless limited.
+    - >-
+      Only if a court confirms the decision in his own case.
+  correct: 2
+  explanation: >-
+    Under s. 18 the Tribunal's cancellation applies to every contract made on the form, even before the
+    decision, but not to obligations already performed; the Tribunal may limit it to future contracts.
+- id: m20-050
+  module: 20
+  lesson: "20.7"
+  subject: price-term
+  difficulty: 2
+  question: >-
+    A customer argues that the monthly price in a plainly worded internet contract is "depriving" because a
+    competitor is cheaper. What will the court say?
+  options:
+    - >-
+      The price is presumed depriving if above the market rate.
+    - >-
+      The court may lower the price for him under s. 19.
+    - >-
+      The price is void because it was not negotiated.
+    - >-
+      The law does not apply to a plain and clear price term.
+  correct: 3
+  explanation: >-
+    Section 23(1) excludes a term fixing the price of the subject of the transaction, provided it is phrased
+    in plain and clear language.
+- id: m20-051
+  module: 20
+  lesson: "20.7"
+  subject: misleading-cancel
+  difficulty: 2
+  question: >-
+    A consumer bought a "new" phone in a shop and two months later learns it was refurbished. Besides
+    damages, what right does the Consumer Protection Law give her?
+  options:
+    - >-
+      Cancellation within a reasonable time of learning.
+    - >-
+      Cancellation within 14 days of the purchase only.
+    - >-
+      Repair under the warranty, and nothing more.
+    - >-
+      A price reduction set by the Commissioner.
+  correct: 0
+  explanation: >-
+    Section 32 lets a consumer cancel a transaction tainted by material misleading within a reasonable time
+    after learning of it; the dealer refunds within a short period.
+- id: m20-052
+  module: 20
+  lesson: "20.7"
+  subject: forum-consumer
+  difficulty: 1
+  question: >-
+    Which forum. A consumer wants the Standard Contracts Tribunal to cancel a clause in a bank's form for all
+    customers. Can she apply herself?
+  options:
+    - >-
+      Yes, any customer of the supplier may apply directly.
+    - >-
+      No; she uses her own case or a body with standing.
+    - >-
+      Yes, but only through a lawyer who files for her.
+    - >-
+      No; only the bank may bring its own form before it.
+  correct: 1
+  explanation: >-
+    Section 16 limits applicants to the Attorney General, the Consumer Protection Commissioner, listed
+    consumer organisations and public bodies, and organisations the Minister approves; a customer uses s. 19.
+- id: m20-053
+  module: 20
+  lesson: "20.8"
+  subject: elements
+  difficulty: 1
+  question: >-
+    Which is NOT an element of a claim under s. 1 of the Unjust Enrichment Law?
+  options:
+    - >-
+      That the defendant received a benefit.
+    - >-
+      That the benefit came from the plaintiff.
+    - >-
+      That the plaintiff lost as much as was gained.
+    - >-
+      That there was no legal basis for the benefit.
+  correct: 2
+  explanation: >-
+    The plaintiff's loss is not an element of s. 1; its absence is only a ground on which the court may
+    exempt the defendant (s. 2).
+- id: m20-054
+  module: 20
+  lesson: "20.8"
+  subject: expenses-deduction
+  difficulty: 2
+  question: >-
+    A man sold goods he found and wrongly believed abandoned, spending ₪500 on transport to the buyer; the
+    owner claims the ₪3,000 price. What may he deduct?
+  options:
+    - >-
+      Nothing, because he had no right to sell.
+    - >-
+      Half, because both parties were innocent.
+    - >-
+      Everything, because he acted in good faith.
+    - >-
+      The ₪500 he reasonably spent to get it.
+  correct: 3
+  explanation: >-
+    Section 3 lets the enriched party deduct what he reasonably spent or invested to obtain the benefit.
+- id: m20-055
+  module: 20
+  lesson: "20.8"
+  subject: gestio
+  difficulty: 2
+  question: >-
+    A neighbour breaks into an absent owner's flat to shut off a gas leak and pays a locksmith ₪600. The owner
+    refuses to pay because "nobody asked you". What is the law?
+  options:
+    - >-
+      The owner must cover the rescuer's reasonable costs.
+    - >-
+      The neighbour bears the cost because he entered unlawfully.
+    - >-
+      The owner pays only if he later approves what was done.
+    - >-
+      Only the gas company must pay the locksmith's bill.
+  correct: 0
+  explanation: >-
+    Section 5 obliges the beneficiary to indemnify reasonable expenses of a good-faith, reasonable act to
+    protect his life, health or property; objection is no defence where life or health was at stake.
+- id: m20-056
+  module: 20
+  lesson: "20.8"
+  subject: contract-priority
+  difficulty: 3
+  question: >-
+    Bar-style. After cancelling a sale for the seller's fundamental breach, the buyer claims the return of the
+    price "under the Unjust Enrichment Law". What is the better legal basis?
+  options:
+    - >-
+      The Unjust Enrichment Law, which governs all restitution.
+    - >-
+      Restitution under s. 9 of the Remedies Law.
+    - >-
+      Price reduction under s. 28 of the Sale Law.
+    - >-
+      A tort claim, because the breach caused damage.
+  correct: 1
+  explanation: >-
+    The Unjust Enrichment Law is subsidiary where another law has special provisions (s. 6(א)); restitution
+    after cancellation for breach follows Remedies Law s. 9.
+- id: m20-057
+  module: 20
+  lesson: "20.8"
+  subject: adras
+  difficulty: 3
+  question: >-
+    A seller breaches a sale contract by reselling the goods at a much higher price to a third party. The buyer
+    proves little loss. Which ruling supports a claim for the seller's profit?
+  options:
+    - >-
+      Barazani v. Bezeq
+    - >-
+      Levy v. Mabat
+    - >-
+      Adras v. Harlow & Jones
+    - >-
+      New Zealand Insurance v. Yuval
+  correct: 2
+  explanation: >-
+    In the Adras further hearing the majority allowed recovery of the profit made from the breach, using the
+    unjust-enrichment law.
+- id: m20-058
+  module: 20
+  lesson: "20.8"
+  subject: mistaken-transfer
+  difficulty: 1
+  question: >-
+    You transferred ₪4,000 to a wrong account by a typing error. Your bank says it cannot reverse the
+    transfer. What is your legal basis against the recipient?
+  options:
+    - >-
+      A contract claim against the recipient.
+    - >-
+      A negligence claim against the recipient.
+    - >-
+      A claim against your own bank only.
+    - >-
+      A restitution claim under s. 1.
+  correct: 3
+  explanation: >-
+    The recipient received money that came from you without any legal right: s. 1 of the Unjust Enrichment
+    Law requires him to return it.
+- id: m20-059
+  module: 20
+  lesson: "20.9"
+  subject: lab-apartment-payments
+  difficulty: 2
+  question: >-
+    In a financed project, a buyer's voucher payment was made on 1 March; by 30 March she has received no
+    guarantee. What should she do?
+  options:
+    - >-
+      Demand it from the accompanying bank, which is overdue.
+    - >-
+      Wait for handover, when guarantees are issued.
+    - >-
+      Stop paying until a court orders a guarantee.
+    - >-
+      Ask the developer for a personal cheque instead.
+  correct: 0
+  explanation: >-
+    A voucher payment is an irrevocable instruction to issue a guarantee, which the accompanying bank must
+    provide within the business-day period in s. 3ב(ה).
+- id: m20-060
+  module: 20
+  lesson: "20.9"
+  subject: lab-legal-fees
+  difficulty: 2
+  question: >-
+    Spot the mistake. A developer's contract says the buyer pays ₪12,000 "legal fees" to the developer for its
+    lawyer's registration work. What is wrong?
+  options:
+    - >-
+      Legal fees may never be charged to buyers at all.
+    - >-
+      They are capped and paid directly to the lawyer.
+    - >-
+      They are payable only after registration ends.
+    - >-
+      Only the buyer's own lawyer may charge fees.
+  correct: 1
+  explanation: >-
+    Section 6ג caps the developer's charge for its lawyer's registration work and requires payment directly to
+    the lawyer, who issues a tax invoice.
+- id: m20-061
+  module: 20
+  lesson: "20.9"
+  subject: lab-forum
+  difficulty: 1
+  question: >-
+    Which forum. Buyers claim ₪250,000 for defects and delay from a developer. Where do they sue?
+  options:
+    - >-
+      The small claims court
+    - >-
+      The district court
+    - >-
+      The magistrates' court
+    - >-
+      The Land Registry superintendent
+  correct: 2
+  explanation: >-
+    A money claim above the small claims ceiling and within the magistrates' civil ceiling goes to the
+    magistrates' court (lesson 15.1).
+- id: m20-062
+  module: 20
+  lesson: "20.10"
+  subject: lab-insurance-landlord
+  difficulty: 3
+  question: >-
+    A landlord sued for a tenant's water-damaged goods argues: "Your insurer already paid you, so you lost
+    nothing." The insurer paid only part. What is the correct analysis?
+  options:
+    - >-
+      No deduction; the insurer takes over the part it paid.
+    - >-
+      The landlord is right; insurance is always deducted.
+    - >-
+      The tenant may claim all and keep both payments.
+    - >-
+      Only the insurer may now sue, for the whole loss.
+  correct: 0
+  explanation: >-
+    Remedies Law s. 16 excludes insurance from the damages calculation, while Insurance Contract Law s. 62
+    transfers to the insurer the claim to the extent it paid; the tenant keeps the claim for the rest.
+- id: m20-063
+  module: 20
+  lesson: "20.10"
+  subject: lab-deposit-return
+  difficulty: 1
+  question: >-
+    The lease ended and the flat was returned on 1 August; the tenant had no debts. By when must the security
+    be returned?
+  options:
+    - >-
+      Within 7 days of the flat's return.
+    - >-
+      Whenever the landlord finishes inspecting.
+    - >-
+      Only after the next tenant moves in.
+    - >-
+      Within the statutory period from return.
+  correct: 3
+  explanation: >-
+    Section 25י(ה) requires return within a fixed period from the return of the flat or the payment of the
+    tenant's debts, whichever is later; see current numbers for the period.
+- id: m20-064
+  module: 20
+  lesson: "20.10"
+  subject: lab-notice-order
+  difficulty: 2
+  question: >-
+    A leak damages a tenant's belongings. In what order should the tenant act?
+  options:
+    - >-
+      Sue the landlord first, then tell the insurer.
+    - >-
+      Notify both at once, mitigate, then claim.
+    - >-
+      Wait for the repair before telling the insurer.
+    - >-
+      Notify only the insurer, which will act alone.
+  correct: 1
+  explanation: >-
+    Notice to the insurer is due immediately (s. 22) and late notice can reduce proceeds (s. 24); the
+    landlord needs a repair demand to start the statutory periods (s. 25ח).

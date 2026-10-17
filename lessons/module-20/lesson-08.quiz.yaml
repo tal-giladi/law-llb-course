@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A tenant, without the landlord's consent, built a wooden pergola on the rented flat's balcony. At the end
+    of the lease the landlord wants the balcony restored. Which rule applies first?
+  options:
+    - >-
+      The Unjust Enrichment Law alone, so the landlord must pay for the pergola's value.
+    - >-
+      The Rental Law: restore on demand, with unjust enrichment preserved.
+    - >-
+      The Contract for Services Law, because the tenant did building work.
+    - >-
+      No rule; the pergola belongs to whoever paid for it and may be removed at will.
+  correct: 1
+  explanation: >-
+    Section 20א(ב)(1) of the Rental and Borrowing Law requires restoration when the landlord demands it, and
+    expressly preserves the Unjust Enrichment Law. Section 6 of that law makes it subsidiary to special rules.
+- id: q2
+  question: >-
+    A man receives ₪5,000 by mistake into his account and argues the sender lost nothing, because the bank
+    will reimburse her. How does the Unjust Enrichment Law treat the absence of loss?
+  options:
+    - >-
+      As a missing element, so the claim fails without proof of the sender's loss.
+    - >-
+      As irrelevant, so the court must order full restitution in every case.
+    - >-
+      As a ground on which the court may exempt the recipient, wholly or partly.
+    - >-
+      As a bar only if the sender is a bank or other financial institution.
+  correct: 2
+  explanation: >-
+    Section 1 does not require the plaintiff's loss; s. 2 lets the court exempt the recipient if the benefit
+    involved no loss to the plaintiff or restitution would be unjust in the circumstances.
+- id: q3
+  question: >-
+    A woman paid her brother's overdue electricity bill without telling him, and now claims the sum from him.
+    He had a pending dispute with the electricity company over that bill. What may she recover from him?
+  options:
+    - >-
+      Only if he had no reasonable ground to object, and only what she paid.
+    - >-
+      In full with interest, as anyone who pays another person's debt may.
+    - >-
+      Nothing, because family members are presumed to make each other gifts.
+    - >-
+      Only if the electricity company formally assigned its claim to her.
+  correct: 0
+  explanation: >-
+    Section 4 allows a volunteer who paid another's debt to recover only if the debtor had no reasonable reason
+    to object, and only up to what was paid. A pending dispute is such a reason.
+- id: q4
+  question: >-
+    In Telran v. Charlton, the Supreme Court found no copyright infringement by a seller of decoder cards.
+    What did it do with the unjust-enrichment claim?
+  options:
+    - >-
+      Rejected it, because copyright law exhausts all protection for broadcasts.
+    - >-
+      Accepted it and awarded the profits Telran made from selling the cards.
+    - >-
+      Held it time-barred because it was raised only on appeal.
+    - >-
+      Remanded it to the district court, which had not decided that head of claim.
+  correct: 3
+  explanation: >-
+    Having found no infringement, the Court remanded the case for the district court to decide whether Telran
+    was unjustly enriched at Charlton's expense, a question the lower court had not addressed.

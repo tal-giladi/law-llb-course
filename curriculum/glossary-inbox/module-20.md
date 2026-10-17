@@ -1,0 +1,30 @@
+- **אי־התאמה** (I-hat'ama) — Non-conformity: goods, a flat or a leased property that differ from what was agreed or are unfit for their use (Sale Law s. 11).
+- **אי־התאמה נסתרת** (I-hat'ama nisteret) — Hidden non-conformity, not discoverable by reasonable inspection; notified on discovery (Sale Law s. 15).
+- **ניכוי מהמחיר** (Nikui me-ha-mechir) — Price reduction by the loss of value when the seller does not cure after notice (Sale Law s. 28).
+- **פגם בזכות** (Pgam bi-zchut) — Defect in title: a charge, attachment or third-party right in the thing sold (Sale Law s. 18).
+- **מפרט** (Mifrat) — The statutory specification a developer must attach to a sale contract (Sale (Apartments) Law ss. 2–3).
+- **תקופת בדק** (Tkufat bedek) — Inspection period, by item, during which a defect is presumed the developer's (Sale (Apartments) Law s. 4 and Schedule).
+- **תקופת אחריות** (Tkufat achrayut) — Warranty period of three years after the inspection period, in which the buyer must prove the defect's origin.
+- **אי־התאמה יסודית** (I-hat'ama yesodit) — Fundamental (structural) non-conformity in load-bearing parts of a building.
+- **פנקס שוברים** (Pinkas shovrim) — Voucher booklet through which buyers pay into a financed project's account, each payment triggering a guarantee.
+- **ערבות חוק מכר** (Arvut chok mecher) — Bank or licensed guarantee securing a buyer's payments to a developer (Assurance of Investment Law s. 2).
+- **דירה ראויה למגורים** (Dira re'uya le-megurim) — Habitable apartment under the First Schedule to the Rental and Borrowing Law.
+- **ערובה (בשכירות)** (Arubah) — Security given by a tenant (cash, bank guarantee, promissory note, guarantor), capped for costly forms (s. 25י).
+- **דמי מפתח** (Dmei mafte'ach) — Key money: any payment other than rent for a tenancy or possession under the Tenant Protection Law.
+- **דייר מוגן** (Dayar mugan) — Protected tenant under the Tenant Protection Law, evictable only on statutory grounds.
+- **חוזה קבלנות** (Chozeh kablanut) — Contract for work or services by a non-employee (Contract for Services Law s. 1).
+- **זכות עכבון** (Zchut ikavon) — Lien: the right to retain property until paid what is due from the same transaction.
+- **שומר שכר** (Shomer sachar) — Paid bailee, liable unless the loss was unforeseeable and unavoidable (Bailees Law s. 2(ב)).
+- **ערב יחיד** (Arev yachid) — Individual guarantor of a professional lender, other than a spouse, partner or interested party in a debtor company.
+- **ערב מוגן** (Arev mugan) — Protected guarantor: an individual guarantor for a stated sum within the statutory ceilings; may be sued only after the debtor.
+- **התחייבות לשיפוי** (Hitchayvut le-shipui) — Indemnity undertaking, treated in part like a guarantee (Guarantee Law ss. 16, 18).
+- **חובת גילוי (בביטוח)** (Chovat giluy) — The insured's duty to answer the insurer's written questions fully and honestly (Insurance Contract Law s. 6).
+- **החמרת הסיכון** (Hachmarat ha-sikun) — Aggravation of risk during the policy, to be notified to the insurer (ss. 17–19).
+- **תגמולי ביטוח** (Tagmulei bituach) — Insurance proceeds payable on the insured event.
+- **ביטוח חסר** (Bituach chaser) — Underinsurance, reducing proceeds in proportion (s. 60).
+- **תחלוף** (Tachluf) — Subrogation: the paying insurer takes over the insured's claim against the wrongdoer (s. 62).
+- **עסקת מכר מרחוק** (Iskat mecher me-rachok) — Distance sale made after distance marketing without the parties together (Consumer Protection Law s. 14ג).
+- **פיצויים לדוגמה** (Pitzuyim le-dugma) — Exemplary damages not dependent on damage for listed consumer-law breaches (s. 31א).
+- **תנאי מקפח** (Tnai mekape'ach) — Depriving (unfair) term in a standard contract (Standard Contracts Law s. 3).
+- **עשיית עושר ולא במשפט** (Asiyat osher ve-lo be-mishpat) — Unjust enrichment: a benefit received from another without a legal basis must be returned.
+- **השבה** (Hashava) — Restitution, in kind or in value.

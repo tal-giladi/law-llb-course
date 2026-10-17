@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    A home insurer refuses a burglary claim because the insured "did not disclose" a previous burglary.
+    The proposal form asked nothing about past burglaries, and the insured did not hide it deliberately.
+    What is the strongest answer?
+  options:
+    - >-
+      Proceeds may be reduced only in proportion to the premium difference.
+    - >-
+      There was no written question on the matter, so there was no duty to disclose it.
+    - >-
+      The insurer must cancel the policy within 30 days or lose the defence.
+    - >-
+      The court may excuse the non-disclosure under s. 29 if it caused no harm.
+  correct: 1
+  explanation: >-
+    Under s. 6 the duty is to answer the insurer's written questions fully and honestly. Without a question,
+    only fraudulent concealment of a known material matter counts (s. 6(ג)).
+- id: q2
+  question: >-
+    The insured innocently answered "no" to a written question about a prior heart condition. A reasonable
+    insurer would have insured him at a 25% higher premium. After a covered hospitalisation, what is the
+    insurer's liability?
+  options:
+    - >-
+      Nothing, because any wrong answer to a medical question voids the policy.
+    - >-
+      Full proceeds, because the condition was not the cause of this hospitalisation.
+    - >-
+      Proceeds reduced in the ratio of the agreed premium to the higher premium.
+    - >-
+      Full proceeds minus the extra premium he should have paid.
+  correct: 2
+  explanation: >-
+    After the event, an innocent wrong answer leads to proportional reduction (s. 7(ג)); full exemption needs
+    fraud or that no reasonable insurer would have insured. If the fact did not affect the event or the
+    liability, s. 8(2) can remove even the reduction, but on these facts the ratio is the default answer.
+- id: q3
+  question: >-
+    A car policy excludes theft "if the vehicle was not fitted with an approved immobiliser". The exclusion
+    appears only in a definitions annex at the end, in normal type. The car, without an immobiliser, is stolen.
+    What can the insured argue first?
+  options:
+    - >-
+      It is neither next to the theft cover nor highlighted, so the insurer may not rely on it.
+    - >-
+      The exclusion is void because a standard contract can never limit the supplier's liability.
+    - >-
+      The insurer must first prove that an immobiliser would have stopped this particular thief.
+    - >-
+      The exclusion applies only if the agent explained it to the insured orally at the sale.
+  correct: 0
+  explanation: >-
+    Section 3 requires conditions and exclusions to appear next to the subject or with special emphasis;
+    otherwise the insurer may not rely on them. Section 29 is a second line if the exclusion is valid.
+- id: q4
+  question: >-
+    A health-insurance policy bought in 2023 covers surgery. The insured had surgery on 1 March 2024 and has
+    been negotiating with the insurer since. When is the claim time-barred, and does the negotiation help?
+  options:
+    - >-
+      Three years after the surgery; negotiation suspends limitation while it lasts.
+    - >-
+      Seven years after the surgery, under the general Limitation Law.
+    - >-
+      Five years after the surgery, unless the insurer agreed in writing to wait.
+    - >-
+      Five years after the surgery; negotiation with the insurer does not stop the clock.
+  correct: 3
+  explanation: >-
+    For health policies made or renewed from 25 November 2020, s. 31 sets five years from the event, and
+    s. 31א requires the insurer to warn that submitting the claim does not stop limitation.

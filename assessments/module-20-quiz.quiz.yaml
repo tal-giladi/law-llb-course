@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    A bakery bought an industrial mixer. Seven months later the gearbox failed. An engineer finds a casting
+    flaw that no inspection on delivery could have revealed. The bakery notified the seller the day after the
+    failure. Can the bakery rely on the non-conformity?
+  options:
+    - >-
+      No, because a business buyer must inspect every part of the machine on delivery.
+    - >-
+      Yes, because the defect was hidden and notified at once, within the movables cut-offs.
+    - >-
+      No, because notice must always be given within a reasonable time from delivery.
+    - >-
+      Only against the manufacturer, because the flaw arose in the casting process.
+  correct: 1
+  explanation: >-
+    A defect not discoverable by reasonable inspection may be relied on if notified immediately on discovery
+    (Sale Law s. 15), provided the notice falls within the cut-offs from delivery that apply to movables.
+- id: q2
+  question: >-
+    Eleven months after receiving a new flat, the buyer finds that the parquet is lifting. The developer says:
+    "You signed the handover protocol without reservations, and anyway you must prove our workers caused it."
+    Which answer is correct?
+  options:
+    - >-
+      The developer is right on both points, because the buyer signed the protocol freely.
+    - >-
+      The protocol bars the claim, although the burden of proof would be on the developer.
+    - >-
+      The protocol does not matter, but the buyer must prove bad workmanship in court.
+    - >-
+      The waiver is void, and in the inspection period the developer bears the burden.
+  correct: 3
+  explanation: >-
+    A waiver extracted as a condition of handover is void (Sale (Apartments) Law s. 7א(ב)); a non-conformity
+    found in the inspection period is the developer's unless it proves the buyer's act caused it (s. 4(א)(2)).
+- id: q3
+  question: >-
+    A tenant on a one-year lease at ₪6,000 a month paid a ₪24,000 cash deposit. In month 5 the toilet cistern
+    leaks constantly; the landlord ignores two written demands over six weeks. Which combination of steps is
+    lawful?
+  options:
+    - >-
+      Repair the cistern and recover the cost, and demand ₪6,000 of the deposit back now.
+    - >-
+      Stop paying all rent until the cistern is repaired, and leave the deposit to the end.
+    - >-
+      Leave the flat at once and claim the whole deposit back as damages for the breach.
+    - >-
+      Wait for a court order before repairing, and accept the deposit as the parties agreed.
+  correct: 0
+  explanation: >-
+    After the statutory repair deadline the tenant may repair and recover reasonable costs (ss. 9, 25ח(ג)); the
+    cash security is capped at the lower of a third of the term's rent (₪24,000) and three months (₪18,000),
+    so ₪6,000 was taken beyond the non-waivable cap (s. 25י(ב)).
+- id: q4
+  question: >-
+    A wedding photographer delivered an album with half the photos out of focus. The couple, without telling
+    him, paid another studio to re-edit and print a new album, and deducted that cost from the last payment.
+    He sues for the balance. What is his strongest point?
+  options:
+    - >-
+      Photography is an artistic service, so its quality can never be a legal defect.
+    - >-
+      The couple accepted the album by keeping it, which waived every defect in it.
+    - >-
+      He got no notice or chance to repair, so they may not rely on a repairable defect.
+    - >-
+      Deduction is never allowed; the couple had to pay in full first and then sue him.
+  correct: 2
+  explanation: >-
+    Under the Contract for Services Law s. 3 the customer must notify and give a proper chance to repair a
+    repairable defect; only then may he repair and recover or deduct (s. 4). A defect that cannot be repaired
+    allows deduction (s. 4(ג)), which the couple would have to show.
+- id: q5
+  question: >-
+    A bank sues a woman on her guarantee of her brother's ₪40,000 personal loan, after the brother stopped
+    paying four months ago. The bank never sued the brother, who lives in Haifa and works. She first heard of
+    the default from the claim. Which defence is strongest?
+  options:
+    - >-
+      She is released from the whole debt because the bank notified her too late.
+    - >-
+      As a protected guarantor she cannot be sued before the debtor is pursued to the end.
+    - >-
+      Siblings are excluded from "individual guarantor", so only general defences apply.
+    - >-
+      The guarantee is void because a guarantee must be signed before a lawyer.
+  correct: 1
+  explanation: >-
+    She is an individual guarantor (not spouse or partner) of a professional lender, and the sum is within the
+    protected ceiling; s. 27 bars any claim until judgment against the debtor and exhausted execution. Late
+    notice (s. 26(א)) releases only to the extent of her loss.
+- id: q6
+  question: >-
+    A car-insurance proposal asked "Has the driver had his licence suspended in the last five years?". The
+    insured answered "no", forgetting a 30-day suspension four years ago. After a covered accident the insurer
+    refuses to pay anything. A reasonable insurer would have charged 20% more. What is the insurer's liability?
+  options:
+    - >-
+      Nothing, because any wrong answer to a written question voids the whole policy.
+    - >-
+      Full proceeds in every case, because the insured did not act with intent to defraud.
+    - >-
+      Nothing, unless the insured proves that the agent filled in the proposal form.
+    - >-
+      Proceeds reduced by the premium ratio, unless the fact did not affect the event.
+  correct: 3
+  explanation: >-
+    Without fraud, and where a reasonable insurer would still have insured, the insurer pays reduced proceeds
+    in the premium ratio (s. 7(ג)); s. 8(2) removes even that if the fact did not affect the event or the
+    insurer's liability, which the insured may argue.
+- id: q7
+  question: >-
+    A 66-year-old ordered an expensive vacuum cleaner during a phone call with a dealer. Ten weeks after
+    delivery she wants to cancel without any defect. The dealer's terms say "no cancellation after 14 days".
+    What should she be told?
+  options:
+    - >-
+      She may cancel within four months, paying at most the capped cancellation fee.
+    - >-
+      She may not cancel, because the 14-day period in the terms ran out long ago.
+    - >-
+      She may cancel only if the product is defective or differs from its description.
+    - >-
+      She may cancel, but must pay the dealer's full shipping and handling costs too.
+  correct: 0
+  explanation: >-
+    A senior citizen may cancel a distance sale that included a conversation within four months (Consumer
+    Protection Law s. 14ג1(ג)); without a defect, only the capped cancellation fee applies (s. 14ה(ב)), and
+    "fee" includes shipping costs (s. 14ה(ד)).
+- id: q8
+  question: >-
+    A gym's standard contract says: "Disputes will be decided by an arbitrator appointed by the gym, in Tel
+    Aviv." A member in Haifa sues in the Haifa small claims court. What will the court most likely do with the
+    clause?
+  options:
+    - >-
+      Enforce it, because arbitration clauses are valid under the Arbitration Law.
+    - >-
+      Refer the case to the Standard Contracts Tribunal, which alone may cancel terms.
+    - >-
+      Treat it as presumed depriving and cancel it in this case, letting the claim go on.
+    - >-
+      Cancel it for every gym member, because the court's ruling binds the whole form.
+  correct: 2
+  explanation: >-
+    Supplier-controlled arbitration and choice of forum are presumed depriving (Standard Contracts Law s. 4(9),
+    (10)); a court in a supplier-customer case may cancel the term between the parties (s. 19). Only a Tribunal
+    decision binds all contracts on the form (s. 18).
+- id: q9
+  question: >-
+    By mistake, a company transferred ₪20,000 twice to its supplier for the same invoice. The supplier says the
+    extra sum covers "goodwill" and refuses to return it. There is no other agreement. What is the legal basis
+    for recovery?
+  options:
+    - >-
+      The supply contract itself, which governs every payment made between the parties.
+    - >-
+      The Unjust Enrichment Law: a benefit received without a legal basis is returned.
+    - >-
+      None: a commercial party must bear its own mistakes when it makes payments.
+    - >-
+      The Consumer Protection Law, because the supplier misled the payer about the sum.
+  correct: 1
+  explanation: >-
+    The second payment has no legal basis in the contract; s. 1 of the Unjust Enrichment Law requires the
+    recipient to return a benefit that came from another without a right in law.
+- id: q10
+  question: >-
+    A developer offers a buyer to pay the next 30% of the price "through our lawyer's trust account, it's the
+    same thing", without a voucher or a guarantee. The project has bank financing. What should the buyer do?
+  options:
+    - >-
+      Pay, because a lawyer's trust account is one of the securities the law allows.
+    - >-
+      Pay half now and the rest after handover, to reduce the risk of loss.
+    - >-
+      Pay, but register a second caveat on the flat for the extra amount paid.
+    - >-
+      Refuse and pay only by voucher, so that a guarantee is issued for it.
+  correct: 3
+  explanation: >-
+    A trust account is not one of the five securities in Assurance of Investment Law s. 2, and in a financed
+    project payments must go through the voucher booklet, each triggering a guarantee (s. 3ב).

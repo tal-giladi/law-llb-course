@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A restaurant owner bought a dishwasher for a business. It was delivered in a box that he left closed for
+    a month. When he opened it, the door hinge was visibly broken. What is the seller's strongest answer?
+  options:
+    - >-
+      The defect is hidden, so the buyer must prove the seller knew of it.
+    - >-
+      The buyer did not inspect and notify immediately, so he may not rely on the defect.
+    - >-
+      A business buyer has no right to rely on non-conformity under the Sale Law.
+    - >-
+      The buyer must first claim from the manufacturer under the warranty.
+  correct: 1
+  explanation: >-
+    A visible defect should have been found by inspection immediately after receipt (s. 13) and notified
+    immediately (s. 14(א)); without notice the buyer may not rely on it (s. 14(ב)).
+- id: q2
+  question: >-
+    Two years after buying a used car from a dealer, a buyer discovers that the chassis was welded after a
+    serious accident. The dealer's records show it bought the car as a total loss. The contract says "sold as
+    is, no claims". Which provision helps the buyer most?
+  options:
+    - >-
+      Section 15, because the defect was hidden and the cut-off has not passed.
+    - >-
+      Section 12, because the buyer did not know of the defect when contracting.
+    - >-
+      Section 16, because the seller knew and did not disclose, which overrides the clause.
+    - >-
+      Section 28, because it allows a price reduction regardless of notice.
+  correct: 2
+  explanation: >-
+    Where the seller knew or should have known the facts behind the defect and did not disclose them, the
+    buyer may rely on it despite ss. 14, 15 "or any agreement", provided he notifies promptly on discovery.
+- id: q3
+  question: >-
+    A buyer keeps a sofa with a faded fabric panel and wants to pay less. What must happen before she may
+    deduct from the price under s. 28?
+  options:
+    - >-
+      A court must first find that the faded panel is a fundamental breach of the sale.
+    - >-
+      She must first cancel the contract in writing and offer to return the sofa.
+    - >-
+      She must obtain an expert valuation of the loss that the seller has approved.
+    - >-
+      She must give notice and the seller must fail to cure within a reasonable time.
+  correct: 3
+  explanation: >-
+    Section 28 applies when the seller did not fix the non-conformity within a reasonable time after the
+    buyer's notice and the buyer chooses neither enforcement nor cancellation.
+- id: q4
+  question: >-
+    A buyer sent a detailed notice of non-conformity by registered mail the day she found the defect. The
+    letter was lost in the post. Can she rely on the notice?
+  options:
+    - >-
+      Yes, a notice sent in the customary way counts even if it never arrived.
+    - >-
+      No, a notice takes effect only when the seller actually receives it.
+    - >-
+      Only if she also phoned the seller within the same week.
+    - >-
+      Only if the seller admits it knew of the defect anyway.
+  correct: 0
+  explanation: >-
+    Section 17(ב) protects a buyer who gave notice in the way customary in the circumstances, even if it
+    arrived late or not at all.

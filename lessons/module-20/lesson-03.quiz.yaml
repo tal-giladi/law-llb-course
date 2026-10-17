@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A one-year residential lease at ₪5,000 a month asks for a cash deposit of ₪20,000 and a personal
+    guarantor. Under s. 25י(ב), what is the most cash security the landlord may hold?
+  options:
+    - >-
+      ₪20,000, because the cap is four months' rent for a one-year lease.
+    - >-
+      ₪5,000, because the guarantor counts towards the cap as one month's rent.
+    - >-
+      ₪15,000, the lower of rent for a third of the term and three months' rent.
+    - >-
+      There is no cap if the tenant agreed to the amount in writing.
+  correct: 2
+  explanation: >-
+    The cap on securities that cost the tenant money is the lower of rent for one-third of the term (₪20,000)
+    and three months' rent (₪15,000). A personal guarantor costs the tenant nothing up front and is outside it.
+- id: q2
+  question: >-
+    The water heater fails in December. The tenant tells the landlord at once; two weeks pass without a
+    repair. What should the tenant do first to stay on the right side of the law?
+  options:
+    - >-
+      Stop paying the rent in full until the landlord repairs the heater.
+    - >-
+      Repair it and claim the cost as an urgent defect, or reduce the rent.
+    - >-
+      Leave the flat and treat the lease as cancelled by the landlord's silence.
+    - >-
+      File a complaint with the municipality, which will order the repair.
+  correct: 1
+  explanation: >-
+    A defect that prevents reasonable living must be repaired within a short statutory period (s. 25ח(ב));
+    after it, s. 9 lets the tenant repair and recover reasonable costs (without prior notice when urgent,
+    s. 9(ג)) or reduce the rent. Withholding all rent is a breach.
+- id: q3
+  question: >-
+    Mid-lease, the landlord sells the flat. The buyer tells the tenant to leave within 30 days because "the
+    lease was with the old owner". The lease has no cancellation clause. What is the legal position?
+  options:
+    - >-
+      The buyer must give 90 days' notice, as for any no-cause cancellation.
+    - >-
+      The tenant must leave, but may claim damages from the seller for breach.
+    - >-
+      The buyer may end the lease only if it was not registered in the land registry.
+    - >-
+      The buyer steps into the landlord's place and is bound by the lease to its end.
+  correct: 3
+  explanation: >-
+    Under s. 21(ב) a person who acquires the landlord's rights takes over his rights and duties under the
+    lease even if he did not know of it. The 90-day notice applies only to a valid mutual cancellation clause.
+- id: q4
+  question: >-
+    A landlord's lease says the tenant pays the building's structural insurance and the broker who found the
+    tenant for the landlord. The tenant signed. What can she argue?
+  options:
+    - >-
+      Both clauses are void, because s. 25ט(ב) bars charging these to the tenant.
+    - >-
+      Both clauses bind her, because she agreed to them before signing.
+    - >-
+      Only the insurance clause is void; brokers' fees are always shared equally.
+    - >-
+      Both clauses are valid unless the rent is above the statutory ceiling.
+  correct: 0
+  explanation: >-
+    The tenant does not pay directly for building insurance or for a broker who acted for the landlord
+    (s. 25ט(ב)), and s. 25ט cannot be varied against the tenant (s. 25יד(2)).

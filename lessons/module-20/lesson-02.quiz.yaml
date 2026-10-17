@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Eight months after handover of a new flat, the buyer finds a hairline crack in an internal plaster wall
+    that falls under "any other non-conformity" in the Schedule. The developer says the buyer must prove the
+    crack comes from bad workmanship. Is the developer right?
+  options:
+    - >-
+      Yes, the buyer always bears the burden of proving the origin of a defect.
+    - >-
+      No, within the inspection period the developer must prove the buyer caused it.
+    - >-
+      Yes, because the crack is not a fundamental non-conformity in a bearing wall.
+    - >-
+      No, because any crack in a new building is presumed structural for 20 years.
+  correct: 1
+  explanation: >-
+    A non-conformity found within the inspection period is the developer's breach unless the developer proves
+    the buyer's act or omission caused it (s. 4(א)(2)). The buyer's burden starts in the warranty period.
+- id: q2
+  question: >-
+    At the key handover the developer's representative asks the buyers to sign "I received the apartment and
+    have no claims", otherwise no keys. They sign. A month later they send a defects list. What is the effect
+    of their signature?
+  options:
+    - >-
+      It bars every claim about defects that were visible on the handover day.
+    - >-
+      It bars claims only if a lawyer explained it to the buyers before they signed.
+    - >-
+      It shifts the burden of proof on all defects from the developer to the buyers.
+    - >-
+      None: a waiver required as a condition of handover is void under s. 7א(ב).
+  correct: 3
+  explanation: >-
+    The law cannot be contracted out of against the buyer, and a waiver that is a condition of handover,
+    repairs or transfer of rights is expressly void.
+- id: q3
+  question: >-
+    In a financed project the sales manager asks a buyer to pay the next instalment by bank transfer to the
+    company's operating account "to save time". What is the main risk?
+  options:
+    - >-
+      The payment may be outside the voucher system and not covered by a guarantee.
+    - >-
+      The payment will be treated as an early payment and lose its index linkage.
+    - >-
+      The developer may charge a transfer fee that the law does not cap.
+    - >-
+      The buyer's caveat will be cancelled because the payment was not by voucher.
+  correct: 0
+  explanation: >-
+    In a project with financial accompaniment payments are received only through the voucher booklet, and
+    each voucher payment triggers a guarantee (s. 3ב). A transfer outside it may leave the money unsecured.
+- id: q4
+  question: >-
+    A leak under the bathroom floor was repaired by the developer in March. In November of the same year it
+    returns. What may the buyer now do under s. 4ב?
+  options:
+    - >-
+      Only demand another repair, since the developer always has a right to repair first.
+    - >-
+      Cancel the purchase, because a recurring defect is a fundamental breach.
+    - >-
+      Repair it and have the developer bear the cost, since it recurred within two years of notice.
+    - >-
+      Claim delay compensation under s. 5א for the period the bathroom was unusable.
+  correct: 2
+  explanation: >-
+    If a defect recurs after the developer repaired it once or more within two years of the buyer's notice,
+    the buyer may repair it and the developer bears the expense (s. 4ב(ב)).

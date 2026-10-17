@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A developer's specification leaves the line for "kitchen cabinets" blank. At handover the buyers get
+    cheap particle-board cabinets. Who must prove what?
+  options:
+    - >-
+      The buyers must prove the developer promised better cabinets orally.
+    - >-
+      Nobody: a blank line means cabinets were not part of the sale.
+    - >-
+      The buyers must prove the cabinets fail the official standard.
+    - >-
+      The developer must prove the cabinets are of high quality in the circumstances.
+  correct: 3
+  explanation: >-
+    For an item the specification does not detail as required, the developer is treated as having promised
+    high quality in the circumstances, and the burden of proving that quality is on him (s. 5).
+- id: q2
+  question: >-
+    Buyers paid the signing instalment of a financed project by bank transfer to the developer, not by
+    voucher, and hold no guarantee for it. What is the right first step?
+  options:
+    - >-
+      Demand in writing that this payment be secured under s. 2.
+    - >-
+      Wait for handover, when a caveat will protect all the payments.
+    - >-
+      Cancel the whole purchase at once for a fundamental breach.
+    - >-
+      Stop all further payments until the flat is registered in their name.
+  correct: 0
+  explanation: >-
+    Every payment beyond the first threshold must be secured, and in a financed project payments go through
+    vouchers (Assurance of Investment Law ss. 2, 3ב). Securing the money now is the priority.
+- id: q3
+  question: >-
+    Damp under a window was repaired by the developer in March and returned in October of the same year.
+    The buyers want to hire their own contractor. What must they show under s. 4ב(ב)?
+  options:
+    - >-
+      That the developer refused in writing to repair it a second time.
+    - >-
+      That it recurred after a repair within two years of their notice.
+    - >-
+      That a court-appointed expert has confirmed the defect is structural.
+    - >-
+      That the cost of the repair is below the small claims ceiling.
+  correct: 1
+  explanation: >-
+    Recurrence after one or more repairs within two years of the buyer's notice lets the buyer repair and
+    charge the developer; an urgent defect not repaired in reasonable time is the other route.
+- id: q4
+  question: >-
+    The contract gives "1% of the sums paid for each month of delay after a 90-day grace period". The
+    contract was signed in 2024. How should the buyers compute delay compensation?
+  options:
+    - >-
+      Under the contract, because the parties agreed on that formula.
+    - >-
+      Under the contract, but without the 90-day grace period.
+    - >-
+      Under s. 5א, or the contract if that gives more.
+    - >-
+      Under the Remedies Law only, by proving their actual loss in rent.
+  correct: 2
+  explanation: >-
+    Section 5א gives rent-based compensation without proof of damage, or the contractual compensation if
+    higher; a less favourable clause is void (s. 7א).
