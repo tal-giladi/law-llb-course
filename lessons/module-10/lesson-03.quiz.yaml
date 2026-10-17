@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    Dana wants to separate from her husband and fears he will "run" to the rabbinical court. What
+    must she file first to start any family-dispute proceeding?
+  options:
+    - >-
+      A divorce claim in the Family Court, which has jurisdiction over divorces of Jews.
+    - >-
+      A full claim for property and custody, so that her forum is fixed before his.
+    - >-
+      A bare request to settle the dispute, with no facts and no jurisdiction arguments.
+    - >-
+      A protection order, because only urgent proceedings can be filed before mahut.
+  correct: 2
+  explanation: >-
+    Under s. 3(א) of the Family Dispute Resolution Law, a request to settle the dispute comes first.
+    Claims cannot be filed in any forum during the stay that follows.
+- id: q2
+  question: >-
+    Yossi files a divorce claim in the rabbinical court and properly joins the division of the
+    couple's flat. A week later his wife files a property claim in the Family Court. Which court
+    hears the property?
+  options:
+    - >-
+      The rabbinical court, which has exclusive jurisdiction over the properly joined matter.
+    - >-
+      The Family Court, because property between spouses is always a civil matter.
+    - >-
+      Both courts in parallel, each deciding half of the property.
+    - >-
+      The district court, because land ownership exceeds the Family Court's powers.
+  correct: 0
+  explanation: >-
+    Section 3 of the Rabbinical Courts Jurisdiction Law gives exclusive jurisdiction over matters
+    properly joined to a divorce claim filed there; the Family Court may hear only what the
+    religious court is not hearing (Family Court Law s. 25(ב)).
+- id: q3
+  question: >-
+    In the rabbinical court, a husband asks the court to divide the property "according to Torah
+    law". The wife has not agreed. Which law applies to the property division?
+  options:
+    - >-
+      Torah law, because the rabbinical court always applies religious law.
+    - >-
+      The Spouses (Property Relations) Law, unless both parties consent before the court.
+    - >-
+      Whatever law the husband chooses, because he filed the divorce claim.
+    - >-
+      English common law, because property law came from the Mandate.
+  correct: 1
+  explanation: >-
+    Section 13(ב) of the Property Relations Law binds religious courts unless the parties consent
+    before the court to religious law; the HCJ reviews departures from such statutes.
+- id: q4
+  question: >-
+    A couple, both Jewish Israelis, married civilly in Cyprus. The marriage has broken down and the
+    wife does not consent to divorce. Under HCJ 2232/03, what is the position?
+  options:
+    - >-
+      No Israeli forum can dissolve the marriage, since it is invalid under Jewish law.
+    - >-
+      Only a Cypriot court can dissolve it, since it was celebrated there.
+    - >-
+      The rabbinical court may dissolve it only if fault under Jewish law is proved.
+    - >-
+      The rabbinical court may dissolve it on breakdown, without mutual consent.
+  correct: 3
+  explanation: >-
+    The HCJ held that rabbinical courts have jurisdiction to dissolve civil marriages of Jews
+    contracted abroad, on the ground that the marriage has ended, without fault or mutual consent.
+- id: q5
+  question: >-
+    During the 2025 temporary order, a mother joins child maintenance to her divorce claim in the
+    rabbinical court. What can the rabbinical court decide?
+  options:
+    - >-
+      Only reimbursement of expenses she already paid, as HCJ 5988/21 held.
+    - >-
+      Nothing about children, because child maintenance is exclusively for the Family Court.
+    - >-
+      The children's maintenance in full, including housing, education and health.
+    - >-
+      Child maintenance only if the children themselves sign the claim.
+  correct: 2
+  explanation: >-
+    Amendment 6 (from 18.11.2025, for two years) reads s. 3 as covering children's maintenance and
+    reimbursement, defined as all their economic needs; it overrides the narrower 2025 HCJ reading.

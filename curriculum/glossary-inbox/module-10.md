@@ -1,0 +1,23 @@
+- **משפט עברי** (Mishpat ivri) — Jewish law, usually its civil (non-ritual) part as studied in Israeli law.
+- **תורה שבכתב / תורה שבעל פה** (Torah she-bikhtav / torah she-be'al peh) — The Written Law (Pentateuch) / the Oral Law (the interpretive tradition).
+- **משנה** (Mishnah) — The first code of the Oral Law, edited about 200 CE.
+- **תלמוד** (Talmud) — The Babylonian and Jerusalem discussions of the Mishnah; records disputes and rulings.
+- **שולחן ערוך** (Shulchan Arukh) — Rabbi Joseph Karo's 16th-century code; civil law in its Choshen Mishpat part, with the Rema's glosses.
+- **שאלות ותשובות (שו״ת)** (She'elot u-teshuvot) — Responsa: authorities' written rulings on concrete questions.
+- **דיני ממונות / איסור והיתר** (Dinei mamonot / issur ve-heter) — Civil (monetary) law / ritual law in Jewish law.
+- **תקנה** (Takkanah) — Rabbinic or communal legislation, a legal source of Jewish law.
+- **מנהג** (Minhag) — Custom, a legal source of Jewish law, strong in civil matters.
+- **דינא דמלכותא דינא** (Dina de-malkhuta dina) — "The law of the kingdom is law": Jewish law's recognition of state law.
+- **כופין על מידת סדום** (Kofin al midat sdom) — One is compelled not to refuse a benefit that costs one nothing.
+- **חוק יסודות המשפט** (Hok yesodot ha-mishpat) — Foundations of Law Act 1980: Jewish-law and heritage principles for true gaps.
+- **כריכה** (Krikha) — Joinder of property, maintenance or custody to a divorce claim in a religious court.
+- **מירוץ הסמכויות** (Merotz ha-samkhuyot) — The race between a religious court and the Family Court to be seised first.
+- **בקשה ליישוב סכסוך** (Bakasha le-yishuv sikhsukh) — The bare request that must precede any contested family claim (2014 Law).
+- **פגישות מהו״ת** (Pgishot mahut) — Information, acquaintance and coordination meetings at the court's assistance unit.
+- **יחידת סיוע** (Yehidat siyua) — Welfare Ministry assistance unit at a family or religious court.
+- **טוען רבני** (To'en rabani) — Licensed rabbinical pleader who may represent parties in the rabbinical courts.
+- **בית הדין הרבני הגדול** (Beit ha-din ha-rabani ha-gadol) — The Great Rabbinical Court in Jerusalem, hearing appeals.
+- **צו הגבלה** (Tzav hagbala) — Restriction order against a spouse who does not comply with a divorce judgment.
+- **בית הדין השרעי** (Beit ha-din ha-shar'i) — Sharia court, with exclusive jurisdiction over Muslims' personal status.
+- **קאדי / קאדי־מד׳הב** (Kadi / kadi-madhab) — Judge of a Sharia court / of a Druze religious court.
+- **עדה דתית מוכרת** (Eda datit mukeret) — Recognised religious community with its own courts (Order in Council, Second Schedule).

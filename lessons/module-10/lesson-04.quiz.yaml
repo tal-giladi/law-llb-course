@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Amal, a Muslim citizen from Tayibe, wants child maintenance and custody but not yet a divorce.
+    Her husband says only the Sharia court may hear any family matter of Muslims. Is he right?
+  options:
+    - >-
+      Yes, because art. 52 gives the Sharia court exclusive jurisdiction over all personal status.
+    - >-
+      Yes, unless both spouses sign a written consent to the Family Court.
+    - >-
+      No, because Muslims' family matters always go to the Family Court since 2001.
+    - >-
+      No, the Family Court may also hear these matters; only marriage and divorce are excluded.
+  correct: 3
+  explanation: >-
+    Family Court Law s. 3(ב1) (2001) lets the Family Court hear family matters of Muslims and
+    Christians, except marriage and divorce, alongside the Sharia or community court.
+- id: q2
+  question: >-
+    A Druze couple from Isfiya dispute custody of their children. The wife assumes she can choose the
+    Family Court under the 2001 amendment for Muslims and Christians. What is the accurate position?
+  options:
+    - >-
+      The 2001 amendment covers the Druze too, so either court may hear custody.
+    - >-
+      The Druze court hears custody only by consent; otherwise the Family Court hears it.
+    - >-
+      The Druze court has exclusive jurisdiction over custody, as over divorce.
+    - >-
+      Custody of Druze children is decided by the Sharia court.
+  correct: 1
+  explanation: >-
+    The Druze court's exclusive core is marriage and divorce (s. 4); other personal-status matters
+    need all parties' consent (s. 5). Section 3(ב1) names only arts. 52 and 54.
+- id: q3
+  question: >-
+    Elena (Russian Orthodox, not in a recognised Israeli community) and David (Jewish) married in
+    Cyprus. Which forum dissolves the marriage?
+  options:
+    - >-
+      The Family Court, with an inquiry to the rabbinical court.
+    - >-
+      The rabbinical court alone, because the husband is Jewish.
+    - >-
+      The Eastern Orthodox court, because Elena is Orthodox.
+    - >-
+      No Israeli forum, because the marriage was contracted abroad.
+  correct: 0
+  explanation: >-
+    No religious court has exclusive jurisdiction over a mixed couple, so the Family Court hears the
+    dissolution (s. 1), asking the head of the rabbinical courts whether a get is needed (s. 3).
+- id: q4
+  question: >-
+    A Sharia court refuses to let a woman appoint a female arbitrator in a divorce proceeding,
+    citing the Maliki school. On what ground can the HCJ intervene?
+  options:
+    - >-
+      The HCJ may review whether the Maliki school is the correct interpretation of Islamic law.
+    - >-
+      The HCJ sits as an appeal court over all Sharia court decisions on the merits.
+    - >-
+      The court departed from the Women's Equal Rights Law, which binds religious courts.
+    - >-
+      The HCJ cannot intervene in religious courts' procedural decisions at all.
+  correct: 2
+  explanation: >-
+    In HCJ 3856/11 the HCJ intervened because the Sharia Court of Appeals departed from s. 1א(א) of
+    the Women's Equal Rights Law, not because it disagreed on Islamic law.

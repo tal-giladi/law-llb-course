@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    Yael lived with her husband in Rehovot until last year; she now lives in Haifa and he in
+    Jerusalem. Where should she file her divorce claim in the rabbinical court?
+  options:
+    - >-
+      In Haifa, because the claimant may always choose her own city.
+    - >-
+      In Jerusalem, because the claimant always follows the defendant.
+    - >-
+      In the regional court for Rehovot, the spouses' last joint residence.
+    - >-
+      At the Great Rabbinical Court, because the spouses live in different districts.
+  correct: 2
+  explanation: >-
+    Reg. י(1) sends matrimonial claims to the court of the spouses' last joint residence; the court
+    may hear a claim filed elsewhere only for reasons given (reg. י(2)).
+- id: q2
+  question: >-
+    Moshe wants his brother, a yeshiva graduate without a licence, to argue his case in the
+    rabbinical court. What is the correct position?
+  options:
+    - >-
+      The brother may represent him freely, because the Bar Association Law does not apply.
+    - >-
+      Only with the court's permission for a specific step, renewed for each appearance.
+    - >-
+      Never, because only lawyers may appear in any Israeli court.
+    - >-
+      Yes, if the brother signs an affidavit that he is not paid.
+  correct: 1
+  explanation: >-
+    Reg. נ allows lawyers and licensed pleaders; the court may permit another person for a
+    specific step or case, and permission is needed for each appearance (reg. נ(4)).
+- id: q3
+  question: >-
+    The rabbinical court gave an interim decision on custody that Rina wants to challenge. What is
+    her deadline and route?
+  options:
+    - >-
+      A request for leave to appeal within 10 days.
+    - >-
+      An appeal as of right to the Great Rabbinical Court within 30 days.
+    - >-
+      A petition to the HCJ within 45 days, since interim decisions are final.
+    - >-
+      An appeal to the district court within 60 days.
+  correct: 0
+  explanation: >-
+    Interim decisions are appealable only with leave of the Great Rabbinical Court (reg. קלב(2)),
+    and the request must be filed within 10 days (reg. קלג(2)).
+- id: q4
+  question: >-
+    Sigal files a claim for child maintenance in the rabbinical court and cannot afford fees. What
+    should she do about the fee?
+  options:
+    - >-
+      Apply to Legal Aid first, because no claim can be filed without a fee.
+    - >-
+      Ask the fee committee to defer the fee for the maintenance claim.
+    - >-
+      File it in the Family Court instead, since the rabbinical court charges more.
+    - >-
+      Nothing: a maintenance claimant is exempt from the fee.
+  correct: 3
+  explanation: >-
+    Reg. 14א of the Dayanim (Fees) Regulations exempts the maintenance claimant; deferral (reg. 15)
+    and the Legal Aid exemption (reg. 22א) matter for other proceedings.
+- id: q5
+  question: >-
+    At her first hearing Tamar has a lawyer and expects him to do all the talking. What do the
+    regulations expect?
+  options:
+    - >-
+      That the lawyer pleads first and Tamar answers only if asked.
+    - >-
+      That Tamar may stay at home, since she is represented.
+    - >-
+      That Tamar pleads first in person; the lawyer explains afterwards.
+    - >-
+      That only written submissions are made at the first hearing.
+  correct: 2
+  explanation: >-
+    Reg. ס(1) requires the parties to plead first themselves even if represented; reg. נז requires
+    their presence unless the court excuses them.

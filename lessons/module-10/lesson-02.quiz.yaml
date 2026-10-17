@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    You are drafting a magistrates' court claim for a contractor who walked out of agreed
+    negotiations. A friend urges you to base it on the Foundations of Law Act and Jewish law. What
+    is the right approach?
+  options:
+    - >-
+      Base it on s. 1 of the Foundations of Law Act, since Jewish law governs all questions of good faith.
+    - >-
+      Base it on Contracts Law s. 12 and Kal Binyan; Jewish law at most as brief support.
+    - >-
+      Base it on the Mishnah's "מי שפרע" rule, since the 2018 amendment made Jewish law binding.
+    - >-
+      Avoid any reference to Kal Binyan, since a ruling that discusses Jewish law cannot be cited.
+  correct: 1
+  explanation: >-
+    A statute (s. 12) and case law answer the question, so there is no lacuna and s. 1 does not
+    apply. Jewish law can appear only as support, ideally via the ruling that used it.
+- id: q2
+  question: >-
+    What did the 2018 amendment to s. 1 of the Foundations of Law Act change?
+  options:
+    - >-
+      It lowered the threshold, so courts now consult Jewish law before analogy.
+    - >-
+      It made the Shulchan Arukh a binding source for civil courts in contract cases.
+    - >-
+      It added "המשפט העברי" before "מורשת ישראל", leaving the lacuna steps unchanged.
+    - >-
+      It repealed s. 2(ב), so English law absorbed before 1980 no longer applies.
+  correct: 2
+  explanation: >-
+    The amendment (ס"ח 2715, 2018) replaced "מורשת ישראל" with "המשפט העברי ומורשת ישראל". The
+    order of statute, case law and analogy stayed the same.
+- id: q3
+  question: >-
+    A local religious council refuses to seat a woman nominated by the municipality, citing
+    religious tradition. Under Shakdiel, how will the High Court of Justice approach it?
+  options:
+    - >-
+      As a body exercising state power, governed by general law and the principle of equality.
+    - >-
+      As a religious body whose membership is decided by the local rabbi under religious law.
+    - >-
+      As a matter for the Chief Rabbinate's courts, since religious councils fall under them.
+    - >-
+      As a lacuna, to be filled by the principles of Jewish law under the Foundations of Law Act.
+  correct: 0
+  explanation: >-
+    In Shakdiel the council was held to be an administrative body; its membership is governed by
+    the general legal system and equality, not by religious-law qualifications.
+- id: q4
+  question: >-
+    In Shavit, the Supreme Court allowed Gregorian dates on a tombstone in a Jewish cemetery. How
+    did Jewish law figure in the reasoning?
+  options:
+    - >-
+      As the governing law, which the court applied through the Foundations of Law Act.
+    - >-
+      Not at all, because the court held Jewish law irrelevant to burial societies.
+    - >-
+      As a binding rule that the court struck down as contrary to the Basic Law.
+    - >-
+      As one input in the balance, noting that the prohibition is not sweeping.
+  correct: 3
+  explanation: >-
+    The court weighed the family's dignity against offence to religious visitors and took into
+    account that the Jewish-law prohibition on foreign dates and letters is not comprehensive.
+- id: q5
+  question: >-
+    A judge writes that "the values of a Jewish and democratic state" support a narrow reading of a
+    statute, quoting a Talmudic passage. Which route has Jewish law taken here?
+  options:
+    - >-
+      Gap-filling under s. 1, because the judge quoted the Talmud directly.
+    - >-
+      The values route, informing interpretation through the Basic Laws' phrase.
+    - >-
+      A binding rule, because the Basic Law incorporates the Talmud by reference.
+    - >-
+      Comparative law only, because Jewish values cannot affect interpretation.
+  correct: 1
+  explanation: >-
+    "Jewish and democratic" in the Basic Laws invites judges to consider Jewish values in
+    interpretation. That is neither gap-filling nor a binding incorporation of halakhic rules.

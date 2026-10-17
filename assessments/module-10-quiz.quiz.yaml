@@ -1,0 +1,177 @@
+- id: q1
+  question: >-
+    A district court judge faces a contract question that the Contracts Law answers only partly, but
+    a Supreme Court ruling decided a closely similar case. A party asks the judge to decide by "the
+    principles of Jewish law" under the Foundations of Law Act. What should the judge do?
+  options:
+    - >-
+      Apply s. 1 directly, because the 2018 amendment made Jewish law the first source.
+    - >-
+      Decide from the statute and the ruling, by analogy if needed; there is no lacuna.
+    - >-
+      Refer the question to the Great Rabbinical Court for an opinion on Jewish law.
+    - >-
+      Apply English common law, because the statute is silent on part of the question.
+  correct: 1
+  explanation: >-
+    Section 1 applies only if statute, case law and analogy all fail. A similar Supreme Court ruling
+    and the statute leave no lacuna; Jewish law may appear at most as support.
+- id: q2
+  question: >-
+    Rachel and Ilan, Jewish Israelis, are separating. Ilan files a request to settle the dispute in
+    the rabbinical court on Sunday; on Monday Rachel files a property claim in the Family Court.
+    What happens to Rachel's claim?
+  options:
+    - >-
+      It goes ahead, because the Family Court has priority for property.
+    - >-
+      It goes ahead, because a request to settle is not a claim and fixes nothing.
+    - >-
+      It cannot be heard during the stay; claims wait until the periods pass.
+    - >-
+      It is transferred to the rabbinical court, which received the first filing.
+  correct: 2
+  explanation: >-
+    Once a request to settle is filed, neither party may file a claim in any forum during the stay
+    period (Dispute Resolution Law s. 3(ה)); the request itself does not decide jurisdiction.
+- id: q3
+  question: >-
+    After the mahut stage, Avraham, who filed the request first, files a divorce claim in the
+    rabbinical court, properly joining child maintenance, in December 2025. His wife argues that
+    under HCJ 5988/21 the rabbinical court may decide only reimbursement of expenses. What is the
+    stronger answer today?
+  options:
+    - >-
+      The temporary order from 18.11.2025 lets the rabbinical court decide child maintenance in full.
+    - >-
+      HCJ 5988/21 binds the Knesset, so the rabbinical court cannot hear child maintenance.
+    - >-
+      Child maintenance can only be joined if the children sign the divorce claim.
+    - >-
+      Joinder of child maintenance is void unless both spouses consent under s. 9.
+  correct: 0
+  explanation: >-
+    Amendment 6 (a two-year temporary order) reads s. 3 as covering children's maintenance in full
+    and reimbursement; it applies to claims filed during its term.
+- id: q4
+  question: >-
+    In a rabbinical court, a husband asks the dayanim to divide the property "by Torah law" and the
+    wife stays silent. Later she says the Property Relations Law should have applied. What was the
+    key point she missed?
+  options:
+    - >-
+      She needed to file an HCJ petition before the hearing to preserve the civil law.
+    - >-
+      Torah law always applies in the rabbinical court, so nothing could be done.
+    - >-
+      Civil law applies only if the Family Court refers the case back.
+    - >-
+      Religious law displaces the statute only if the parties consent before the court.
+  correct: 3
+  explanation: >-
+    Section 13(ב) of the Property Relations Law binds religious courts unless the parties agree
+    before the court to religious law. She should have stated on the record that she did not consent.
+- id: q5
+  question: >-
+    Hanan and Maryam, Muslims from Rahat, are divorcing. Maryam wants the Family Court to decide
+    custody and child maintenance; Hanan says everything must go to the Sharia court. Who is right?
+  options:
+    - >-
+      Hanan, because art. 52 gives the Sharia court exclusive jurisdiction over all personal status.
+    - >-
+      Maryam: the divorce stays in the Sharia court, but the Family Court may hear the rest.
+    - >-
+      Maryam: since 2001 the Family Court also decides Muslim divorces.
+    - >-
+      Neither: custody of Muslim children is for the district court.
+  correct: 1
+  explanation: >-
+    Family Court Law s. 3(ב1) lets the Family Court hear family matters of Muslims and Christians,
+    except marriage and divorce, which remain with the Sharia court.
+- id: q6
+  question: >-
+    Nadav (Jewish) and Lina (Maronite Catholic) married civilly abroad and were registered as
+    married. Now they want to end the marriage. What is the correct route?
+  options:
+    - >-
+      The rabbinical court, because the Population Registry recorded them as married.
+    - >-
+      The Maronite court, because Catholic law governs any marriage with a Catholic.
+    - >-
+      The Family Court, with inquiries to the heads of the rabbinical and Maronite courts.
+    - >-
+      No Israeli forum, because the marriage was contracted abroad.
+  correct: 2
+  explanation: >-
+    No religious court has exclusive jurisdiction over a mixed couple; the 1969 Law gives the Family
+    Court jurisdiction and requires inquiries to the relevant religious courts (s. 3).
+- id: q7
+  question: >-
+    A Druze court refuses a woman's request based on the Women's Equal Rights Law, applying the
+    community's law instead. She has not agreed to community law. What is her best legal route?
+  options:
+    - >-
+      Appeal to the Great Rabbinical Court, which supervises all religious courts.
+    - >-
+      A civil claim in the magistrates' court for damages against the court.
+    - >-
+      A request to the Family Court to re-decide the divorce on the merits.
+    - >-
+      Appeal within the Druze system, then petition the HCJ.
+  correct: 3
+  explanation: >-
+    Religious courts must apply the Women's Equal Rights Law unless adult parties consent otherwise
+    (s. 7(ב)); departure from it is a ground for HCJ intervention, as in HCJ 3856/11.
+- id: q8
+  question: >-
+    You read a ruling in which one justice relies on "כופין על מידת סדום" and another answers with
+    "לא תסיג גבול רעך". You want to cite the ruling in your own condominium dispute. What do you
+    check first?
+  options:
+    - >-
+      Which opinion was the majority and what Israeli rule it rested on.
+    - >-
+      Which Talmudic tractate is older, since the older source prevails.
+    - >-
+      Whether the Rabbinate has endorsed either justice's reading.
+    - >-
+      Whether the ruling was translated into English, since only translations are citable.
+  correct: 0
+  explanation: >-
+    In Roker the majority upheld demolition under Israeli property law; Englard's Jewish-law argument
+    was a dissent. Cite the holding and label any dissent as such.
+- id: q9
+  question: >-
+    Orly wants her friend, a retired yeshiva teacher, to represent her for a small fee in the
+    rabbinical court. He has no licence. What should she do?
+  options:
+    - >-
+      Go ahead, because the Bar Association Law does not apply to religious courts.
+    - >-
+      Not pay him to represent her; use a lawyer or licensed pleader, or ask leave for a step.
+    - >-
+      Go ahead if he files a power of attorney in the court's form.
+    - >-
+      Ask the Family Court to authorise him, since it supervises the rabbinical courts.
+  correct: 1
+  explanation: >-
+    Representing others for pay or as an occupation is reserved to lawyers and licensed pleaders
+    (Pleaders Regulations reg. 1); the court may permit another person only for a specific step
+    (reg. נ(2)).
+- id: q10
+  question: >-
+    Two days after a regional rabbinical court's final divorce judgment, Avi learns that the
+    property division in it was decided without hearing his evidence. What should he diarise?
+  options:
+    - >-
+      10 days to apply for leave to appeal to the Great Rabbinical Court.
+    - >-
+      45 days to petition the HCJ, the only review of rabbinical judgments.
+    - >-
+      30 days from the judgment to appeal to the Great Rabbinical Court.
+    - >-
+      60 days to appeal to the district court sitting in family matters.
+  correct: 2
+  explanation: >-
+    A final judgment is appealable as of right within 30 days (reg. קלח); a procedural defect
+    affecting the result is a ground of appeal (reg. קלה). Leave within 10 days is for interim decisions.

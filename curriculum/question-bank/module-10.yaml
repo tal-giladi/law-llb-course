@@ -1,0 +1,1341 @@
+- id: m10-001
+  module: 10
+  lesson: "10.1"
+  subject: jewish-law-layers
+  difficulty: 1
+  question: >-
+    Which text is the first code of the Oral Law, edited around 200 CE?
+  options:
+    - >-
+      The Shulchan Arukh of Rabbi Joseph Karo.
+    - >-
+      The Mishneh Torah of Maimonides.
+    - >-
+      The Mishnah of Rabbi Judah ha-Nasi.
+    - >-
+      The Babylonian Talmud.
+  correct: 2
+  explanation: >-
+    The Mishnah (c. 200 CE) is the first code of the Oral Law; the Talmud discusses it, and the
+    medieval and early-modern codes come much later.
+- id: m10-002
+  module: 10
+  lesson: "10.1"
+  subject: jewish-law-layers
+  difficulty: 1
+  question: >-
+    A citation reads "שו״ע חו״מ קעד, א (ובהגה)". What does "ובהגה" point you to?
+  options:
+    - >-
+      The Rema's gloss: Ashkenazi practice and other views.
+    - >-
+      A responsum written by a later authority about the same paragraph.
+    - >-
+      The Talmudic source on which the paragraph is based.
+    - >-
+      A ruling of the Great Rabbinical Court applying the paragraph.
+  correct: 0
+  explanation: >-
+    "הגה" marks Rabbi Moses Isserles' glosses on the Shulchan Arukh, which add Ashkenazi practice and
+    dissenting views.
+- id: m10-003
+  module: 10
+  lesson: "10.1"
+  subject: elon-legal-sources
+  difficulty: 1
+  question: >-
+    In Elon's framework, which pair are both "legal sources" (מקורות משפטיים) of Jewish law?
+  options:
+    - >-
+      The Mishnah and the Talmud.
+    - >-
+      Custom and legislation.
+    - >-
+      Maimonides and the Shulchan Arukh.
+    - >-
+      Responsa and commentaries.
+  correct: 1
+  explanation: >-
+    Elon separates legal sources (tradition, interpretation, legislation, custom, precedent, legal
+    reasoning) from literary sources (the books where the law is found).
+- id: m10-004
+  module: 10
+  lesson: "10.1"
+  subject: civil-vs-ritual
+  difficulty: 2
+  question: >-
+    Two observant partners want to vary a default rule of Jewish civil law in their contract. A
+    friend says Jewish law never allows this. What is the accurate answer?
+  options:
+    - >-
+      He is right: every rule in the codes is mandatory for observant Jews.
+    - >-
+      He is right only for Ashkenazim, because the Rema forbids contracting out.
+    - >-
+      He is wrong only if a rabbinical court approves the contract in advance.
+    - >-
+      He is wrong: in civil law parties may generally set their own terms.
+  correct: 3
+  explanation: >-
+    Jewish civil law (דיני ממונות) generally allows parties to agree on terms; ritual and
+    personal-status law (איסור והיתר) generally does not.
+- id: m10-005
+  module: 10
+  lesson: "10.1"
+  subject: dina-demalkhuta
+  difficulty: 2
+  question: >-
+    Which principle lets Jewish law recognise the civil law of the state in some matters?
+  options:
+    - >-
+      כופין על מידת סדום.
+    - >-
+      מי שפרע.
+    - >-
+      דינא דמלכותא דינא.
+    - >-
+      לא תסיג גבול.
+  correct: 2
+  explanation: >-
+    Shmuel's rule (Gittin 10b) that "the law of the kingdom is law" recognises state law, with
+    limits recorded in the codes (Choshen Mishpat 369:8).
+- id: m10-006
+  module: 10
+  lesson: "10.1"
+  subject: reading-talmud
+  difficulty: 2
+  question: >-
+    On Bava Batra 12b Rabbah says "כופין על מדת סדום" and Rav Yosef objects; the text adds "והלכתא
+    כרב יוסף". How should you describe Rabbah's statement in a brief?
+  options:
+    - >-
+      As a view rejected in that case; check the codes.
+    - >-
+      As the binding rule, because Rabbah is quoted first.
+    - >-
+      As the binding rule, because the Talmud never rejects a statement it records.
+    - >-
+      As irrelevant, because a rejected view cannot appear in any later code.
+  correct: 0
+  explanation: >-
+    "והלכתא כרב יוסף" decides that case against Rabbah. The principle still appears in the codes for
+    other facts (Maimonides, Neighbors 12:1), so check them.
+- id: m10-007
+  module: 10
+  lesson: "10.1"
+  subject: codes
+  difficulty: 2
+  question: >-
+    Maimonides (Neighbors 12:1) and the Shulchan Arukh (CM 174:1) grant a partner the strip next to
+    his field when the parts are equal. What does the Rema add?
+  options:
+    - >-
+      That the rule applies only to fields inherited from a father.
+    - >-
+      That some say he must pay more for it, and some treat it as doubtful.
+    - >-
+      That the rule was abolished by a medieval communal enactment.
+    - >-
+      That a civil court must decide the division, not a rabbinical tribunal.
+  correct: 1
+  explanation: >-
+    The Rema records "וי"א דאין שומעין לו אלא צריך להעלות בדמים" and another view that it is a
+    doubt, so the rule is contested within the codes.
+- id: m10-008
+  module: 10
+  lesson: "10.1"
+  subject: gentile-courts
+  difficulty: 3
+  question: >-
+    An observant contractor refuses to sue in the magistrates' court and insists on a private
+    rabbinical tribunal, citing Choshen Mishpat 26:1. What is the legal position in Israel?
+  options:
+    - >-
+      The state rabbinical court must hear the civil claim, because a halakhic duty requires it.
+    - >-
+      The magistrates' court must stay the claim until a rabbinical tribunal rules.
+    - >-
+      He may agree to private arbitration; the state rabbinical court cannot arbitrate.
+    - >-
+      He cannot be sued in a civil court at all once he raises a religious objection.
+  correct: 2
+  explanation: >-
+    Parties may agree to private arbitration, but the state rabbinical court has only statutory
+    jurisdiction and may not arbitrate civil disputes outside it (Amir, lesson 01.4).
+- id: m10-009
+  module: 10
+  lesson: "10.1"
+  subject: responsa
+  difficulty: 1
+  question: >-
+    What are responsa (שאלות ותשובות)?
+  options:
+    - >-
+      The Knesset's answers to parliamentary questions on religious services.
+    - >-
+      Commentaries printed in the margins of the Talmud.
+    - >-
+      The decisions of the Great Rabbinical Court in appeals.
+    - >-
+      Authorities' written answers to concrete questions.
+  correct: 3
+  explanation: >-
+    Responsa are authorities' written rulings on real questions, from the geonic period to today,
+    and function as Jewish law's case law.
+- id: m10-010
+  module: 10
+  lesson: "10.1"
+  subject: authority
+  difficulty: 1
+  question: >-
+    Which verse does the tradition read as the source of the sages' authority to interpret and
+    legislate?
+  options:
+    - >-
+      Deuteronomy 17:11, "לא תסור".
+    - >-
+      Exodus 21:1, "ואלה המשפטים".
+    - >-
+      Deuteronomy 19:14, "לא תסיג גבול רעך".
+    - >-
+      Avot 1:1, "משה קיבל תורה מסיני".
+  correct: 0
+  explanation: >-
+    Deuteronomy 17:11 is read as commanding obedience to the authorities of each generation; Avot
+    1:1 is the chain of tradition, a Mishnah, not a verse.
+- id: m10-011
+  module: 10
+  lesson: "10.2"
+  subject: foundations-of-law-act
+  difficulty: 1
+  question: >-
+    In what order must a court look before reaching s. 1 of the Foundations of Law Act?
+  options:
+    - >-
+      Jewish law, then statute, then case law.
+    - >-
+      Statute, case law, analogy; then s. 1.
+    - >-
+      Case law, English law, then analogy.
+    - >-
+      Statute, then Jewish law, then case law.
+  correct: 1
+  explanation: >-
+    Section 1 applies only if the court finds no answer "בדבר חקיקה, בהלכה פסוקה או בדרך של היקש".
+- id: m10-012
+  module: 10
+  lesson: "10.2"
+  subject: foundations-of-law-act
+  difficulty: 1
+  question: >-
+    What did the 2018 amendment to the Foundations of Law Act change?
+  options:
+    - >-
+      It made the Shulchan Arukh binding in contract cases.
+    - >-
+      It repealed the protection of English law absorbed before 1980.
+    - >-
+      It added the words "המשפט העברי" before "מורשת ישראל".
+    - >-
+      It allowed courts to skip analogy in personal-status cases.
+  correct: 2
+  explanation: >-
+    The amendment (ס"ח 2715, 2018) replaced "מורשת ישראל" with "המשפט העברי ומורשת ישראל"; the
+    lacuna steps did not change.
+- id: m10-013
+  module: 10
+  lesson: "10.2"
+  subject: routes
+  difficulty: 2
+  question: >-
+    A judge interprets "abuse of a right" in an Israeli statute and cites a Talmudic principle as
+    inspiration, while the statute decides the case. Which route is this?
+  options:
+    - >-
+      Gap-filling under s. 1.
+    - >-
+      Binding incorporation of a halakhic rule.
+    - >-
+      Personal-status jurisdiction.
+    - >-
+      Interpretation and values.
+  correct: 3
+  explanation: >-
+    Jewish law here informs the reading of an Israeli statute; there is no lacuna and no binding
+    incorporation.
+- id: m10-014
+  module: 10
+  lesson: "10.2"
+  subject: kal-binyan
+  difficulty: 2
+  question: >-
+    In Kal Binyan, how did Justice Englard use Jewish law on the remedy for bad faith in
+    negotiations?
+  options:
+    - >-
+      On an assumed lacuna; he found only a moral sanction for lost profit.
+    - >-
+      He held that Jewish law requires full expectation damages in every tender.
+    - >-
+      He refused to consider Jewish law because a statute applied.
+    - >-
+      He applied it as binding law under the Basic Law: Human Dignity.
+  correct: 0
+  explanation: >-
+    Englard considered the Foundations of Law Act route on an assumption of a gap, found support for
+    reliance damages, and only a moral sanction ("מי שפרע") for expectation loss.
+- id: m10-015
+  module: 10
+  lesson: "10.2"
+  subject: shakdiel
+  difficulty: 2
+  question: >-
+    A religious council excludes an observant woman nominated by the municipality. Under Shakdiel,
+    what governs membership?
+  options:
+    - >-
+      The local rabbi's view of religious law.
+    - >-
+      General law and the equality principle.
+    - >-
+      The Chief Rabbinate's internal rules.
+    - >-
+      The Foundations of Law Act, as a lacuna.
+  correct: 1
+  explanation: >-
+    The council is an administrative body; its membership is governed by general law and equality,
+    not religious-law qualifications.
+- id: m10-016
+  module: 10
+  lesson: "10.2"
+  subject: shavit
+  difficulty: 2
+  question: >-
+    In Shavit, why did the court allow Gregorian dates on a tombstone despite the burial society's
+    religious objection?
+  options:
+    - >-
+      Because Jewish law was held irrelevant to cemeteries.
+    - >-
+      Because the Alternative Burial Law abolished religious burial.
+    - >-
+      Dignity outweighed offence; the ban is not sweeping.
+    - >-
+      Because the family had paid an extra fee to the society.
+  correct: 2
+  explanation: >-
+    The court held burial societies subject to public law, weighed dignity against offence, and
+    noted that the Jewish-law prohibition is not comprehensive.
+- id: m10-017
+  module: 10
+  lesson: "10.2"
+  subject: debate
+  difficulty: 3
+  question: >-
+    You must present the debate on Jewish law's role in Israeli courts neutrally. Which pair states
+    each side's legal argument fairly?
+  options:
+    - >-
+      One side wants a theocracy; the other wants to erase Jewish identity.
+    - >-
+      One side relies on the Knesset's 1980 and 2018 choices; the other says s. 1 has no meaning.
+    - >-
+      One side cites only Elon; the other cites only English law.
+    - >-
+      One side: the state's own tradition; other side: equality and s. 1's residual threshold.
+  correct: 3
+  explanation: >-
+    Neutral presentation states each side's strongest legal reason: tradition and the legislative
+    choice versus a residual role grounded in equality and the lacuna threshold.
+- id: m10-018
+  module: 10
+  lesson: "10.2"
+  subject: practice-use
+  difficulty: 2
+  question: >-
+    In your small claim about a builder who walked out of agreed negotiations, where should a
+    Jewish-law point go, if anywhere?
+  options:
+    - >-
+      After s. 12 and Kal Binyan, as one or two sentences of support.
+    - >-
+      First, because it binds the small claims court.
+    - >-
+      Instead of the statute, because small claims courts ignore statutes.
+    - >-
+      Nowhere, because Israeli courts may not hear Jewish-law arguments.
+  correct: 0
+  explanation: >-
+    Lead with the statute and Israeli case law; a Jewish-law reference, ideally via a ruling that
+    used it, can only support.
+- id: m10-019
+  module: 10
+  lesson: "10.2"
+  subject: jewish-and-democratic
+  difficulty: 1
+  question: >-
+    Which Basic Law provision expressly mentions "a Jewish and democratic state"?
+  options:
+    - >-
+      Basic Law: The Judiciary, s. 15.
+    - >-
+      Basic Law: Human Dignity, s. 1א.
+    - >-
+      Foundations of Law Act, s. 2.
+    - >-
+      Rabbinical Courts Jurisdiction Law, s. 1.
+  correct: 1
+  explanation: >-
+    Section 1א states that the Basic Law anchors the values of Israel as a Jewish and democratic
+    state.
+- id: m10-020
+  module: 10
+  lesson: "10.2"
+  subject: foundations-of-law-act
+  difficulty: 3
+  question: >-
+    A lawyer argues that because the Foundations of Law Act names Jewish law, a civil court must
+    apply a specific Shulchan Arukh paragraph to a neighbours' dispute governed by the Land Law. What
+    is wrong with the argument?
+  options:
+    - >-
+      Nothing; the 2018 amendment made the codes binding.
+    - >-
+      Only that the paragraph must be the Rema's, not Karo's.
+    - >-
+      A statute applies, so no lacuna; and s. 1 means principles.
+    - >-
+      Only that s. 1 applies in the Supreme Court and not in lower courts.
+  correct: 2
+  explanation: >-
+    The Land Law answers the question, so s. 1 never opens; and even when it does, it points to
+    principles of freedom, justice, equity and peace, not to specific halakhic paragraphs.
+- id: m10-021
+  module: 10
+  lesson: "10.3"
+  subject: exclusive-jurisdiction
+  difficulty: 1
+  question: >-
+    Which matter is in the rabbinical court's exclusive jurisdiction for Jewish Israeli citizens,
+    with no Family Court alternative?
+  options:
+    - >-
+      Child custody.
+    - >-
+      Division of a jointly owned flat.
+    - >-
+      Inheritance disputes.
+    - >-
+      Divorce itself.
+  correct: 3
+  explanation: >-
+    Section 1 gives the rabbinical courts exclusive jurisdiction over marriage and divorce; the
+    other matters may go to the Family Court.
+- id: m10-022
+  module: 10
+  lesson: "10.3"
+  subject: joinder
+  difficulty: 2
+  question: >-
+    A husband files a divorce claim in the rabbinical court with one sentence: "and all related
+    matters". Two weeks later the wife files a detailed custody claim in the Family Court. What is
+    the likely issue?
+  options:
+    - >-
+      Whether custody was properly and sincerely joined.
+    - >-
+      None: the rabbinical court automatically has custody once divorce is filed.
+    - >-
+      None: custody always belongs to the Family Court.
+    - >-
+      Whether the wife consented to the rabbinical court under s. 9.
+  correct: 0
+  explanation: >-
+    Exclusive jurisdiction under s. 3 covers matters properly joined; case law examines whether the
+    joinder was made properly and sincerely, issue by issue.
+- id: m10-023
+  module: 10
+  lesson: "10.3"
+  subject: dispute-resolution-law
+  difficulty: 1
+  question: >-
+    What may a request to settle the dispute (s. 3 of the 2014 Law) contain?
+  options:
+    - >-
+      A full account of the facts, to help the assistance unit.
+    - >-
+      The parties' details, with no facts or jurisdiction arguments.
+    - >-
+      The relief sought and the reasons the forum has jurisdiction.
+    - >-
+      A list of witnesses and documents.
+  correct: 1
+  explanation: >-
+    Section 3(א): the request "לא תכלול טענות או עובדות בקשר לסכסוך או בקשר לסמכות השיפוט".
+- id: m10-024
+  module: 10
+  lesson: "10.3"
+  subject: dispute-resolution-law
+  difficulty: 3
+  question: >-
+    During the stay after a request to settle, a mother fears the father will take the children
+    abroad. What can she do?
+  options:
+    - >-
+      Nothing until the stay ends.
+    - >-
+      File a full custody claim, which overrides the stay.
+    - >-
+      Seek urgent relief, e.g. a stay of exit.
+    - >-
+      Withdraw the request and file in another forum.
+  correct: 2
+  explanation: >-
+    Section 3(ז) allows urgent or interim relief, including a stay of exit, at any time; such
+    relief does not decide jurisdiction (s. 3(ח)).
+- id: m10-025
+  module: 10
+  lesson: "10.3"
+  subject: race
+  difficulty: 2
+  question: >-
+    Which statutory provision lets the Family Court hear a matter of parallel jurisdiction only while
+    the religious court is not hearing it?
+  options:
+    - >-
+      Rabbinical Courts Jurisdiction Law s. 9.
+    - >-
+      Women's Equal Rights Law s. 7.
+    - >-
+      Order in Council art. 51.
+    - >-
+      Family Court Law s. 25(ב).
+  correct: 3
+  explanation: >-
+    Section 25(ב) gives the Family Court jurisdiction "כל עוד אין בית הדין הדתי דן בו", the
+    statutory basis of the race.
+- id: m10-026
+  module: 10
+  lesson: "10.3"
+  subject: consent-jurisdiction
+  difficulty: 2
+  question: >-
+    Siblings want the rabbinical court to decide their late father's estate. Under what condition may
+    it?
+  options:
+    - >-
+      If all parties concerned consent (s. 9).
+    - >-
+      If the eldest sibling files first.
+    - >-
+      If the estate includes a religious object.
+    - >-
+      Never; inheritance is exclusively for the Registrar.
+  correct: 0
+  explanation: >-
+    Section 9 gives the rabbinical court jurisdiction in other personal-status and inheritance
+    matters only with the consent of all parties concerned.
+- id: m10-027
+  module: 10
+  lesson: "10.3"
+  subject: wife-maintenance
+  difficulty: 1
+  question: >-
+    A Jewish wife sues her husband for maintenance in the rabbinical court without filing for divorce.
+    He objects that the court has no jurisdiction. What happens?
+  options:
+    - >-
+      The objection succeeds; maintenance needs a divorce claim.
+    - >-
+      The objection is not heard; s. 4 gives the court jurisdiction.
+    - >-
+      The court transfers the case to the Family Court.
+    - >-
+      The court needs his written consent under s. 9.
+  correct: 1
+  explanation: >-
+    Section 4: when a Jewish wife sues for maintenance not in connection with divorce, the husband's
+    plea that the court lacks jurisdiction "לא תישמע".
+- id: m10-028
+  module: 10
+  lesson: "10.3"
+  subject: civil-statutes
+  difficulty: 3
+  question: >-
+    Spot the mistake: a self-represented wife writes in her rabbinical-court submission, "I agree that
+    the house will be divided according to halakha, and ask the court to be fair." What is the
+    problem?
+  options:
+    - >-
+      None; the court must apply halakha anyway.
+    - >-
+      She should have written it in Aramaic.
+    - >-
+      She may have consented to religious law.
+    - >-
+      She should have addressed it to the Family Court.
+  correct: 2
+  explanation: >-
+    Section 13(ב) of the Property Relations Law applies unless the parties agree before the court to
+    religious law; her sentence risks being read as that consent.
+- id: m10-029
+  module: 10
+  lesson: "10.3"
+  subject: hcj-review
+  difficulty: 2
+  question: >-
+    On which ground is the HCJ least likely to intervene in a rabbinical court's property decision?
+  options:
+    - >-
+      The court acted without jurisdiction.
+    - >-
+      The court breached natural justice by not hearing one side.
+    - >-
+      The court ignored the Property Relations Law.
+    - >-
+      The court weighed the evidence differently.
+  correct: 3
+  explanation: >-
+    The HCJ does not sit as an appeal court on facts and weight (HCJ 4602/13); it intervenes for lack
+    of jurisdiction, natural justice and departure from binding statutes.
+- id: m10-030
+  module: 10
+  lesson: "10.3"
+  subject: civil-marriage-abroad
+  difficulty: 2
+  question: >-
+    Two Jewish Israelis married civilly abroad. Which statement matches HCJ 2232/03?
+  options:
+    - >-
+      The rabbinical court may dissolve it on breakdown, without consent.
+    - >-
+      The marriage needs no dissolution because Jewish law does not recognise it.
+    - >-
+      Only the Family Court may dissolve it.
+    - >-
+      Only the foreign court that married them may dissolve it.
+  correct: 0
+  explanation: >-
+    The HCJ held that rabbinical courts may dissolve such marriages, which have "external" validity,
+    on the ground that the marriage has ended.
+- id: m10-031
+  module: 10
+  lesson: "10.3"
+  subject: child-maintenance-2025
+  difficulty: 3
+  question: >-
+    In February 2025 the HCJ narrowed rabbinical jurisdiction over joined child maintenance; in
+    November 2025 the Knesset passed a temporary order. Which statement is accurate?
+  options:
+    - >-
+      The temporary order is permanent and cannot lapse.
+    - >-
+      For two years s. 3 covers children's maintenance in full.
+    - >-
+      The temporary order transferred all child maintenance to the Family Court.
+    - >-
+      The temporary order applies only to claims filed after 2027.
+  correct: 1
+  explanation: >-
+    Amendment 6 (from 18.11.2025, two years) reads s. 3 to include children's maintenance, defined
+    broadly, and reimbursement, with a transition rule for pending claims.
+- id: m10-032
+  module: 10
+  lesson: "10.3"
+  subject: child-maintenance-2025
+  difficulty: 3
+  question: >-
+    You must state the legal argument behind the HCJ's 2025 reading, as opposed to the government's.
+    Which is it?
+  options:
+    - >-
+      Rabbinical courts are not state courts and cannot bind parents.
+    - >-
+      Child maintenance is a religious question outside civil law.
+    - >-
+      The child's maintenance right is the child's own (Sharagai).
+    - >-
+      The 1953 Law never mentions children.
+  correct: 2
+  explanation: >-
+    The narrow reading builds on the Sharagai rule that a child's maintenance claim is independent;
+    the government relied on the text "לרבות מזונות [...] לילדי הזוג" and decades of practice.
+- id: m10-033
+  module: 10
+  lesson: "10.3"
+  subject: race-after-2016
+  difficulty: 3
+  question: >-
+    After the mahut stage, the spouse who filed the request to settle does not file any claim within
+    the window. What happens?
+  options:
+    - >-
+      The request lapses and both must start again with a new request.
+    - >-
+      The assistance unit chooses the forum for them.
+    - >-
+      Only the forum where the request was filed may hear claims.
+    - >-
+      The other spouse may file the issues left out in any competent forum.
+  correct: 3
+  explanation: >-
+    Section 4: if the first filer does not file, or files only some issues, the other party may file
+    the remaining issues in any forum with jurisdiction.
+- id: m10-034
+  module: 10
+  lesson: "10.3"
+  subject: protection-orders
+  difficulty: 1
+  question: >-
+    Does the Dispute Resolution Law's stay prevent an application for a protection order under the
+    Prevention of Domestic Violence Law?
+  options:
+    - >-
+      No; such proceedings are excluded from the Law (s. 4א).
+    - >-
+      Yes; all family proceedings wait for the mahut meetings.
+    - >-
+      Yes, unless the police file the application.
+    - >-
+      No, but only in the rabbinical court.
+  correct: 0
+  explanation: >-
+    Section 4א excludes proceedings under the Prevention of Domestic Violence Law and the Prevention
+    of Stalking Law.
+- id: m10-035
+  module: 10
+  lesson: "10.3"
+  subject: get-refusal
+  difficulty: 2
+  question: >-
+    A rabbinical court has ruled that a husband must give a get and he refuses. What tool does the
+    Enforcement of Divorce Judgments Law give the court?
+  options:
+    - >-
+      Annulment of the marriage without a get.
+    - >-
+      Restriction orders, e.g. on leaving Israel.
+    - >-
+      Transfer of the case to a criminal court.
+    - >-
+      A fine payable to the wife's lawyer.
+  correct: 1
+  explanation: >-
+    Sections 1–2 allow restriction orders (exit, passport, driving licence, bank accounts and more)
+    to bring about compliance with a divorce judgment.
+- id: m10-036
+  module: 10
+  lesson: "10.4"
+  subject: sharia-jurisdiction
+  difficulty: 1
+  question: >-
+    Which provision gives the Sharia courts exclusive jurisdiction over the personal status of Muslim
+    Israeli citizens?
+  options:
+    - >-
+      Family Court Law s. 3(ב1).
+    - >-
+      The Qadis Law s. 2.
+    - >-
+      Order in Council art. 52.
+    - >-
+      Order in Council art. 54.
+  correct: 2
+  explanation: >-
+    Art. 52 gives Muslim religious courts exclusive jurisdiction over Muslims' personal status; art.
+    54 concerns Christian communities.
+- id: m10-037
+  module: 10
+  lesson: "10.4"
+  subject: family-court-2001
+  difficulty: 1
+  question: >-
+    What did the 2001 amendment (Family Court Law s. 3(ב1)) allow?
+  options:
+    - >-
+      Civil divorce for Muslims and Christians in the Family Court.
+    - >-
+      Druze divorce in the Family Court.
+    - >-
+      Appeals from Sharia courts to the district court.
+    - >-
+      Family Court jurisdiction, except over divorce.
+  correct: 3
+  explanation: >-
+    Section 3(ב1) adds parallel Family Court jurisdiction for those under arts. 52 and 54, "למעט
+    עניני נישואין וגירושין".
+- id: m10-038
+  module: 10
+  lesson: "10.4"
+  subject: christian-courts
+  difficulty: 2
+  question: >-
+    A Latin (Catholic) couple want the community court to decide custody. One spouse refuses its
+    jurisdiction. What follows under art. 54?
+  options:
+    - >-
+      Custody needs consent there; otherwise the Family Court.
+    - >-
+      The community court has exclusive jurisdiction over custody.
+    - >-
+      The rabbinical court decides, as the default religious court.
+    - >-
+      The Patriarch decides by decree.
+  correct: 0
+  explanation: >-
+    Art. 54(i) gives exclusive jurisdiction over marriage, divorce and maintenance; other matters
+    need all parties' consent (art. 54(ii)).
+- id: m10-039
+  module: 10
+  lesson: "10.4"
+  subject: recognised-communities
+  difficulty: 2
+  question: >-
+    A couple belong to a Protestant church not listed in the Second Schedule. Where do they dissolve
+    their marriage?
+  options:
+    - >-
+      In the Latin Catholic court, as the closest community.
+    - >-
+      In the Family Court, since no religious court of theirs exists.
+    - >-
+      Only abroad, since Israel has no forum for them.
+    - >-
+      In the Sharia court, which has residual jurisdiction.
+  correct: 1
+  explanation: >-
+    Without a recognised community court, no religious court has exclusive jurisdiction; the 1969 Law
+    gives the Family Court jurisdiction.
+- id: m10-040
+  module: 10
+  lesson: "10.4"
+  subject: druze-courts
+  difficulty: 1
+  question: >-
+    What is in the Druze religious court's exclusive jurisdiction under s. 4 of the 1962 Law?
+  options:
+    - >-
+      All family matters of Druze, including property.
+    - >-
+      Custody and maintenance of Druze children.
+    - >-
+      Marriage and divorce, and certain endowments.
+    - >-
+      Inheritance of all residents of Druze villages.
+  correct: 2
+  explanation: >-
+    Section 4 covers marriage and divorce of Druze citizens and residents and the creation or
+    internal management of Druze religious endowments.
+- id: m10-041
+  module: 10
+  lesson: "10.4"
+  subject: druze-consent
+  difficulty: 2
+  question: >-
+    A Druze father files for custody in the Druze court; the mother objects to its jurisdiction. What
+    is the effect?
+  options:
+    - >-
+      None; the Druze court has exclusive jurisdiction over custody.
+    - >-
+      The case goes to the Sharia court.
+    - >-
+      The Druze Court of Appeals decides custody directly.
+    - >-
+      Without consent the Druze court cannot hear custody.
+  correct: 3
+  explanation: >-
+    Matters outside the exclusive core need all parties' consent (s. 5); otherwise the Family Court
+    hears custody.
+- id: m10-042
+  module: 10
+  lesson: "10.4"
+  subject: mixed-couples
+  difficulty: 3
+  question: >-
+    A Muslim husband and a Jewish wife married abroad want to divorce. What does the 1969 Law
+    require of the Family Court?
+  options:
+    - >-
+      Ask both religious courts if a religious divorce is needed.
+    - >-
+      Send the whole case to the Sharia court, because the husband is Muslim.
+    - >-
+      Refuse jurisdiction, because the marriage was abroad.
+    - >-
+      Apply Jewish law, because the wife is Jewish.
+  correct: 0
+  explanation: >-
+    Section 3 requires an inquiry to the head of each relevant religious court; if a religious divorce
+    is needed, that part goes there; otherwise the Family Court decides.
+- id: m10-043
+  module: 10
+  lesson: "10.4"
+  subject: barriya
+  difficulty: 2
+  question: >-
+    What principle did Justices Goitein and Berinson state in Barriya (HCJ 187/54)?
+  options:
+    - >-
+      Religious courts may choose between religious law and civil statutes.
+    - >-
+      Ignoring the Women's Equal Rights Law exceeds jurisdiction.
+    - >-
+      The HCJ may decide guardianship on the merits instead of the qadi.
+    - >-
+      Sharia courts are not subject to HCJ review.
+  correct: 1
+  explanation: >-
+    They held that if the Sharia court confined itself to religious law and ignored the civil law on
+    women's equal rights, it would act without jurisdiction and the HCJ would intervene.
+- id: m10-044
+  module: 10
+  lesson: "10.4"
+  subject: hcj-3856-11
+  difficulty: 3
+  question: >-
+    The Sharia Court of Appeals argued that two exceptions in the Women's Equal Rights Law allowed it
+    to refuse a female arbitrator. What did the HCJ hold in HCJ 3856/11?
+  options:
+    - >-
+      The exception for rules of prohibition and permission covered the case.
+    - >-
+      The exception for appointments to religious office covered the case.
+    - >-
+      Neither exception applied, and the court departed from s. 1א(א).
+    - >-
+      The HCJ cannot interpret the Ottoman Family Rights Law.
+  correct: 2
+  explanation: >-
+    The HCJ held that a party's choice of arbitrator fell under neither exception, so the court
+    departed from the "one law for women and men" rule.
+- id: m10-045
+  module: 10
+  lesson: "10.4"
+  subject: funk-schlesinger
+  difficulty: 2
+  question: >-
+    A couple married abroad present their marriage certificate to the Population Registry. Under
+    Funk-Schlesinger, what must the official do?
+  options:
+    - >-
+      Examine whether the marriage is valid under the couple's religious law.
+    - >-
+      Refer the certificate to the rabbinical court for approval.
+    - >-
+      Refuse unless both spouses are of the same religion.
+    - >-
+      Register them; registration is only statistical.
+  correct: 3
+  explanation: >-
+    The registration official may not examine validity when presented with a public certificate;
+    validity can arise later in the competent forum.
+- id: m10-046
+  module: 10
+  lesson: "10.4"
+  subject: criminal-marriage
+  difficulty: 1
+  question: >-
+    Which act is an offence under s. 181 of the Penal Law?
+  options:
+    - >-
+      Divorcing a wife against her will.
+    - >-
+      Marrying in a civil ceremony abroad.
+    - >-
+      Filing for divorce in the Family Court.
+    - >-
+      Refusing to attend mahut meetings.
+  correct: 0
+  explanation: >-
+    Section 181 punishes dissolving a marriage against the wife's will without a final judgment
+    obliging her; polygamy is s. 176.
+- id: m10-047
+  module: 10
+  lesson: "10.4"
+  subject: dispute-resolution-sharia
+  difficulty: 2
+  question: >-
+    A request to settle a dispute is filed in a Sharia court shortly before Eid al-Adha. How are the
+    holiday days treated in counting the periods?
+  options:
+    - >-
+      They count like any other days.
+    - >-
+      They are not counted (s. 6א(2)).
+    - >-
+      The whole stay is doubled.
+    - >-
+      Only Jewish holidays are excluded.
+  correct: 1
+  explanation: >-
+    Section 6א(2) excludes the days of Eid al-Fitr and Eid al-Adha and their eves for requests filed
+    in the Sharia courts.
+- id: m10-048
+  module: 10
+  lesson: "10.4"
+  subject: qadis
+  difficulty: 1
+  question: >-
+    Who appoints qadis to the Sharia courts?
+  options:
+    - >-
+      The Minister of Religious Affairs alone.
+    - >-
+      The Supreme Muslim Council.
+    - >-
+      The President of the State.
+    - >-
+      The President of the Supreme Court.
+  correct: 2
+  explanation: >-
+    Qadis Law s. 3: qadis are appointed by the President on the proposal of the qadis selection
+    committee, presented by the Minister of Justice.
+- id: m10-049
+  module: 10
+  lesson: "10.4"
+  subject: catholic-separation
+  difficulty: 3
+  question: >-
+    A Catholic wife's church court grants judicial separation, not divorce. For the Dispute Resolution
+    Law, is her separation case a "divorce" matter requiring a request to settle?
+  options:
+    - >-
+      No; only divorces under Jewish law are covered.
+    - >-
+      No; Christian courts are outside the Law.
+    - >-
+      Yes, but only if her husband consents.
+    - >-
+      Yes; it includes religious-law separation.
+  correct: 3
+  explanation: >-
+    Section 2 defines "גירושין" to include "פירוד לפי דין דתי שאינו מאפשר גירושין", and the Law
+    covers the courts of Christian communities.
+- id: m10-050
+  module: 10
+  lesson: "10.5"
+  subject: roker
+  difficulty: 1
+  question: >-
+    In Roker v. Solomon, what did the majority decide?
+  options:
+    - >-
+      The appeal against demolition was denied.
+    - >-
+      Demolition was replaced by damages.
+    - >-
+      The case was sent to a rabbinical tribunal.
+    - >-
+      The building permit made the extension lawful.
+  correct: 0
+  explanation: >-
+    The expanded panel denied the appeal; Justice Englard dissented in favour of damages instead of
+    demolition.
+- id: m10-051
+  module: 10
+  lesson: "10.5"
+  subject: roker
+  difficulty: 2
+  question: >-
+    Which Jewish-law source did Justice Turkel use to answer Justice Englard?
+  options:
+    - >-
+      דינא דמלכותא דינא (Gittin 10b).
+    - >-
+      לא תסיג גבול רעך (Deuteronomy 19:14).
+    - >-
+      מי שפרע (Mishnah Bava Metzia 4:2).
+    - >-
+      Choshen Mishpat 26:1 on gentile courts.
+  correct: 1
+  explanation: >-
+    Turkel said "כופין על מידת סדום" cannot uproot a positive commandment, "לא תסיג גבול רעך", and was
+    not used in the sources to infringe property in land.
+- id: m10-052
+  module: 10
+  lesson: "10.5"
+  subject: reading-rulings
+  difficulty: 2
+  question: >-
+    You are listing Jewish-law references in a ruling. Which step should come before it?
+  options:
+    - >-
+      Tracing each source on Sefaria.
+    - >-
+      Writing the neutral close.
+    - >-
+      Mapping the Israeli legal basis.
+    - >-
+      Deciding which justice was right.
+  correct: 2
+  explanation: >-
+    Map the Israeli law first; only then can you classify each Jewish-law reference's route and
+    weight.
+- id: m10-053
+  module: 10
+  lesson: "10.5"
+  subject: partial-translation
+  difficulty: 2
+  question: >-
+    The Cardozo translation of a ruling says it covers only the dissent and part of the majority. What
+    should you do before writing about the majority?
+  options:
+    - >-
+      Nothing; the translation is enough.
+    - >-
+      Assume the majority agreed with the dissent on Jewish law.
+    - >-
+      Write that the majority gave no reasons.
+    - >-
+      Read the Hebrew original for the majority.
+  correct: 3
+  explanation: >-
+    A partial translation can mislead about the majority; read the full Hebrew text before
+    characterising it.
+- id: m10-054
+  module: 10
+  lesson: "10.5"
+  subject: accuracy-check
+  difficulty: 3
+  question: >-
+    A judgment cites a halakhic rule from the Shulchan Arukh but omits the Rema's dissent recorded on
+    the same paragraph. How do you record it in your analysis?
+  options:
+    - >-
+      The use is incomplete: the rule is contested.
+    - >-
+      The judge was wrong to cite the Shulchan Arukh at all.
+    - >-
+      The Rema's dissent is irrelevant in Israel.
+    - >-
+      The omission makes the judgment void.
+  correct: 0
+  explanation: >-
+    An accuracy check notes whether a source is presented as settled when the codes record dissent;
+    it does not affect the judgment's validity.
+- id: m10-055
+  module: 10
+  lesson: "10.5"
+  subject: citing-dissent
+  difficulty: 3
+  question: >-
+    Spot the mistake: a self-represented owner writes, "As the Supreme Court held in Roker v. Solomon,
+    a court should award damages rather than demolish." What is wrong?
+  options:
+    - >-
+      Nothing; that was the holding.
+    - >-
+      That was a dissent; demolition was upheld.
+    - >-
+      Roker was a district court case.
+    - >-
+      Roker concerned a tombstone inscription.
+  correct: 1
+  explanation: >-
+    The damages-not-demolition view was a dissent; citing it as the holding misstates the law.
+- id: m10-056
+  module: 10
+  lesson: "10.5"
+  subject: route-comparison
+  difficulty: 3
+  question: >-
+    Compare Justice Englard's use of Jewish law in Kal Binyan and in Roker. Which statement is
+    accurate?
+  options:
+    - >-
+      In both he applied Jewish law as binding under s. 1.
+    - >-
+      In both he refused to rely on Jewish law.
+    - >-
+      Kal Binyan: s. 1 on an assumed gap; Roker: interpretation.
+    - >-
+      In Roker he applied s. 1; in Kal Binyan he used only comparison.
+  correct: 2
+  explanation: >-
+    Kal Binyan: the Foundations of Law Act route on an assumption of a lacuna; Roker: interpretation
+    of s. 14 of the Land Law, with Jewish law as inspiration.
+- id: m10-057
+  module: 10
+  lesson: "10.6"
+  subject: venue
+  difficulty: 1
+  question: >-
+    Under reg. י, where is a claim between spouses in matrimonial matters filed?
+  options:
+    - >-
+      In the regional court of the claimant's current residence.
+    - >-
+      In the Great Rabbinical Court in Jerusalem.
+    - >-
+      In any regional court the claimant chooses.
+    - >-
+      In the regional court of the spouses' last joint residence.
+  correct: 3
+  explanation: >-
+    Reg. י(1); a claim filed elsewhere may be heard at the court's discretion if reasons are given
+    (reg. י(2)).
+- id: m10-058
+  module: 10
+  lesson: "10.6"
+  subject: representation
+  difficulty: 1
+  question: >-
+    Who may represent a party in the rabbinical court as of right?
+  options:
+    - >-
+      A licensed lawyer or rabbinical pleader.
+    - >-
+      Any adult relative.
+    - >-
+      Any rabbi serving in a community.
+    - >-
+      A social worker from the assistance unit.
+  correct: 0
+  explanation: >-
+    Reg. נ(1) lists lawyers and licensed pleaders; others need the court's permission (reg. נ(2)),
+    and serving rabbis and court staff may not appear (reg. נ(5)).
+- id: m10-059
+  module: 10
+  lesson: "10.6"
+  subject: pleader-licence
+  difficulty: 2
+  question: >-
+    You are about to hire a rabbinical pleader. Which check is most important?
+  options:
+    - >-
+      That he has written a book on Jewish law.
+    - >-
+      That his licence is current (reg. 4).
+    - >-
+      That he also has a Bar Association licence.
+    - >-
+      That he studied at the same yeshiva as the dayanim.
+  correct: 1
+  explanation: >-
+    A licence is valid for five years (Pleaders Regulations reg. 4); confirm it is current and agree
+    the fee in writing.
+- id: m10-060
+  module: 10
+  lesson: "10.6"
+  subject: claim-contents
+  difficulty: 3
+  question: >-
+    Spot the mistake in a draft divorce claim: it names the court and both parties with ID numbers,
+    tells the story of the marriage, and ends "I ask for justice." What is missing under reg. כו?
+  options:
+    - >-
+      The names of the witnesses.
+    - >-
+      A copy of the ketubah.
+    - >-
+      The specific relief sought.
+    - >-
+      The name of the officiating rabbi.
+  correct: 2
+  explanation: >-
+    Reg. כו(5) requires the claimant's relief, and an amount where money is claimed; "justice" is
+    not a relief.
+- id: m10-061
+  module: 10
+  lesson: "10.6"
+  subject: agreed-divorce
+  difficulty: 2
+  question: >-
+    A couple agree on everything and want a divorce. Must they file a request to settle the dispute
+    first?
+  options:
+    - >-
+      Yes, every divorce needs mahut meetings.
+    - >-
+      Yes, unless they have no children.
+    - >-
+      No, but only in the Family Court.
+    - >-
+      No; an agreed divorce claim is excluded.
+  correct: 3
+  explanation: >-
+    The Law's definition of a family-dispute claim excludes "תובענה לגירושין [...] שהוגשה בהסכמת
+    הצדדים".
+- id: m10-062
+  module: 10
+  lesson: "10.6"
+  subject: hearing-conduct
+  difficulty: 1
+  question: >-
+    What does reg. נג require of everyone appearing before the rabbinical court?
+  options:
+    - >-
+      Modest dress, including a head covering.
+    - >-
+      Formal black clothing.
+    - >-
+      Speaking only in Hebrew.
+    - >-
+      Bringing two witnesses to every hearing.
+  correct: 0
+  explanation: >-
+    Reg. נג: "אין להופיע לפני בית־הדין אלא בלבוש צנוע והולם, כולל כיסוי־ראש".
+- id: m10-063
+  module: 10
+  lesson: "10.6"
+  subject: fees
+  difficulty: 2
+  question: >-
+    An unemployed father wants to file a custody request in the rabbinical court and cannot pay the
+    fee. What should he do?
+  options:
+    - >-
+      Nothing; custody requests are always exempt.
+    - >-
+      Ask the fee committee to defer the fee (reg. 15).
+    - >-
+      File without paying; the fee is collected only after judgment.
+    - >-
+      File in the Family Court, which charges no fees.
+  correct: 1
+  explanation: >-
+    Reg. 15 lets the committee defer all or part of the fee for inability to pay; a Legal Aid
+    certificate is prima facie proof. The request itself is fee-free (reg. 14(7)).
+- id: m10-064
+  module: 10
+  lesson: "10.6"
+  subject: deadlines
+  difficulty: 2
+  question: >-
+    A default judgment was given against Eli in the rabbinical court; he received a copy today. What
+    is his deadline to apply to set it aside?
+  options:
+    - >-
+      10 days.
+    - >-
+      15 days.
+    - >-
+      30 days.
+    - >-
+      60 days.
+  correct: 2
+  explanation: >-
+    Reg. קכא: 30 days from receiving a copy of the judgment; after that, only a retrial request on new
+    grounds (chapter יד).
+- id: m10-065
+  module: 10
+  lesson: "10.6"
+  subject: appeal-grounds
+  difficulty: 3
+  question: >-
+    Rivka wants to appeal a rabbinical judgment to the Great Rabbinical Court relying on a new bank
+    statement she found after the hearing. What is the problem?
+  options:
+    - >-
+      None; new evidence is the main ground of appeal.
+    - >-
+      Appeals must be filed in the district court.
+    - >-
+      Appeals are allowed only on procedural defects.
+    - >-
+      Appeals cannot rely on evidence not before the court.
+  correct: 3
+  explanation: >-
+    Reg. קלו bars appeals on facts or evidence not brought before the deciding court; reg. קכט allows
+    a request for a new hearing on new evidence unknown at the time.

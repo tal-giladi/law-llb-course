@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are citing Roker v. Solomon in a letter about a neighbour who built on your condominium's
+    common property. Which statement of the case is accurate?
+  options:
+    - >-
+      The Supreme Court held that "כופין על מידת סדום" bars demolition orders in Israeli law.
+    - >-
+      The majority upheld demolition; Justice Englard's Jewish-law argument for damages was a dissent.
+    - >-
+      The court applied Jewish law as binding under the Foundations of Law Act.
+    - >-
+      The court held that Jewish law forbids any building on common property.
+  correct: 1
+  explanation: >-
+    The expanded panel denied the appeal against demolition; Englard, dissenting, used Jewish law as
+    inspiration for a damages remedy, and Turkel answered with "לא תסיג גבול".
+- id: q2
+  question: >-
+    In Roker, Justice Englard proposed using Jewish law as "a source of inspiration" in interpreting
+    s. 14 of the Land Law. Which route is that?
+  options:
+    - >-
+      Gap-filling under s. 1 of the Foundations of Law Act.
+    - >-
+      A binding rule incorporated by the Land Law.
+    - >-
+      Interpretation and values, not a gap-filler.
+    - >-
+      Pure comparison with a foreign system, with no link to Israeli values.
+  correct: 2
+  explanation: >-
+    He used Jewish law to give content to an Israeli statute in light of a Jewish and democratic
+    state; there was no lacuna, so s. 1 was not the route.
+- id: q3
+  question: >-
+    A judgment describes a Talmudic rule as settled. When you open the Talmud you see the rule was
+    stated by Rabbah and rejected in that case ("והלכתא כרב יוסף"). What do you record?
+  options:
+    - >-
+      Nothing, because a Supreme Court description of a source cannot be questioned.
+    - >-
+      That the Talmud is unreliable and should not be used in Israeli rulings.
+    - >-
+      That the Shulchan Arukh must have overruled the Talmud on this point.
+    - >-
+      That the judge's description needs qualification, and check the codes before concluding.
+  correct: 3
+  explanation: >-
+    A recorded view may be rejected in a given case but adopted elsewhere; the codes (Maimonides,
+    Shulchan Arukh) show the ruling. Record the discrepancy and check before concluding.
+- id: q4
+  question: >-
+    Your analysis asks whether the result in Roker would have been the same without any Jewish-law
+    passages. What is the best-supported answer?
+  options:
+    - >-
+      Yes, because the majority rested on Israeli property law.
+    - >-
+      No, because the majority decided only by applying Deuteronomy 19:14.
+    - >-
+      No, because without Jewish law the court would have lacked jurisdiction.
+    - >-
+      It cannot be answered, because rulings never state their legal basis.
+  correct: 0
+  explanation: >-
+    The result followed from the rights of the other owners in the common property under Israeli
+    law; both Englard and Turkel used Jewish law as inspiration and as a check on values.

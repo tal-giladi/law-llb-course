@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A brief you are reading cites "בבא בתרא יב ע"ב" for the rule "כופין על מדת סדום" and stops
+    there. Before relying on it, what should you check first?
+  options:
+    - >-
+      Whether the Talmud itself rules on the case ("והלכתא") and how the codes decided it.
+    - >-
+      Whether the verse behind the rule appears in Exodus, since only verses bind courts.
+    - >-
+      Whether the Knesset has adopted the rule, since Talmud passages bind only after adoption.
+    - >-
+      Whether the passage is in Aramaic, since Aramaic passages carry less authority than Hebrew ones.
+  correct: 0
+  explanation: >-
+    The Talmud records views that were not accepted; on Bava Batra 12b the law follows Rav Yosef
+    against Rabbah in some cases. Check the ruling and the codes (Maimonides, Shulchan Arukh).
+- id: q2
+  question: >-
+    The Shulchan Arukh states a rule, and the Rema adds "ויש אומרים" with a different view. A
+    rabbinical court must decide between a Sephardi and an Ashkenazi family. What does this tell you?
+  options:
+    - >-
+      The Rema's gloss is a later printer's note and carries no weight for any community.
+    - >-
+      The rule is contested, and the court may weigh the community's tradition and later authorities.
+    - >-
+      Karo's main text always prevails, because codes override glosses in every community.
+    - >-
+      The court must refer the question to the Supreme Court, since the codes conflict.
+  correct: 1
+  explanation: >-
+    The Rema's glosses record Ashkenazi practice and dissenting views. A disagreement in the codes
+    means the rule is open, and the court looks to tradition and later authorities.
+- id: q3
+  question: >-
+    A rule in Jewish civil law was created by a medieval community's enactment to protect buyers in
+    the market. In Elon's framework, which legal source is it?
+  options:
+    - >-
+      Kabbalah (tradition), because every rule ultimately goes back to Sinai.
+    - >-
+      Midrash (interpretation), because communities read the Torah when they enact rules.
+    - >-
+      Takkanah (legislation), because it was deliberately enacted by an authority.
+    - >-
+      Minhag (custom), because the market followed it for a long time.
+  correct: 2
+  explanation: >-
+    A deliberate enactment by sages or a community is a takkanah. Custom (minhag) grows from
+    practice without a formal enactment; tradition and interpretation derive rules from received texts.
+- id: q4
+  question: >-
+    Two business partners argue that, under Jewish law, they may agree on terms that differ from the
+    default rule of the codes. In which area is that argument strongest?
+  options:
+    - >-
+      In marriage and divorce, because consent is central to a Jewish marriage.
+    - >-
+      In ritual law, because each community sets its own ritual standards.
+    - >-
+      In no area, because Jewish law forbids changing a code's rule by agreement.
+    - >-
+      In civil (monetary) law, where parties may generally set their own terms.
+  correct: 3
+  explanation: >-
+    Jewish law distinguishes civil law (דיני ממונות), where parties can contract out of default
+    rules, from ritual and personal-status law (איסור והיתר), where they generally cannot.

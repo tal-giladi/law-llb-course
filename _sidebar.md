@@ -94,3 +94,11 @@
   - [69 · Rights, justice and the rule of law](lessons/module-09/lesson-05.md)
   - [70 · Practice lab: read one Israeli ruling through four theories](lessons/module-09/lesson-06.md)
   - [Module 9 quiz](assessments/module-09-quiz.md)
+- **Module 10 — Introduction to Jewish Law and Religious Law in Israel (about 17 hours)**
+  - [71 · Sources and structure of Jewish law (מקורות המשפט העברי)](lessons/module-10/lesson-01.md)
+  - [72 · Jewish law in the Israeli legal system: Foundations of Law Act and the courts](lessons/module-10/lesson-02.md)
+  - [73 · Personal status: religious courts and their jurisdiction](lessons/module-10/lesson-03.md)
+  - [74 · Muslim, Christian and Druze religious courts](lessons/module-10/lesson-04.md)
+  - [75 · Practice lab: find Jewish-law reasoning in a Supreme Court ruling](lessons/module-10/lesson-05.md)
+  - [76 · Practice lab: a self-represented party in the rabbinical court (procedure, documents, the to'en rabbani)](lessons/module-10/lesson-06.md)
+  - [Module 10 quiz](assessments/module-10-quiz.md)

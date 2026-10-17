@@ -25,7 +25,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 7 — Legislation and Regulation
 - [x] Module 8 — Introduction to Procedure
 - [x] Module 9 — Legal Theory
-- [ ] Module 10 — Introduction to Jewish Law and Religious Law in Israel
+- [x] Module 10 — Introduction to Jewish Law and Religious Law in Israel
 - [ ] Module 11 — Law, Economics and Society
 - [ ] Module 12 — Clinic I: Your Everyday Civil Dispute, Start to Finish
 - [ ] Year 1 QA: links, neutrality, Academy dry run
@@ -38,7 +38,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 ## Now working
 
 - Module 11: sub-agent A
-- Module 10: sub-agent B
+- Module 12: sub-agent B
 
 ## Decisions and open questions
 
