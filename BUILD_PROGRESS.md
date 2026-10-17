@@ -35,7 +35,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Detailed lesson plan for year 2 (modules 13–22)
 - [x] Module 13 — Property and Land Law
 - [x] Module 14 — Administrative Law
-- [ ] Module 15 — Civil Procedure
+- [x] Module 15 — Civil Procedure
 - [x] Module 16 — Corporate Law
 - [ ] Module 17 — Labour, Welfare and Social Security Law
 - [ ] Module 18 — Family Law
@@ -48,7 +48,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 15: sub-agent A
+- Module 18: sub-agent A
 - Module 17: sub-agent B
 
 ## Decisions and open questions

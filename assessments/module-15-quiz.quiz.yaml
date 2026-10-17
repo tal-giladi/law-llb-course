@@ -1,0 +1,182 @@
+- id: q1
+  question: >-
+    A Jerusalem resident is injured by a defective heater bought online from a Tel Aviv company and
+    wants to sue for ₪2,700,000. The company's terms of sale give exclusive jurisdiction to Tel Aviv
+    courts. Which court should hear the claim?
+  options:
+    - >-
+      The Jerusalem magistrates' court, because that is where the injury happened.
+    - >-
+      A district court: the sum is above the magistrates' ceiling.
+    - >-
+      The Tel Aviv magistrates' court, because the clause decides both jurisdiction and venue.
+    - >-
+      The small claims court, because the plaintiff is a consumer.
+  correct: 1
+  explanation: >-
+    Subject-matter jurisdiction comes from the Courts Law: above the s. 51(א)(2) ceiling on filing day
+    the district court hears the claim (s. 40(1)). A jurisdiction clause can affect venue (reg. 7(א))
+    but cannot give a court subject-matter jurisdiction it lacks.
+- id: q2
+  question: >-
+    You were sued by a garage. On day 40 of the defence period you file a defence. On day 75 you
+    decide to bring in the parts supplier as a third party. What is the problem?
+  options:
+    - >-
+      None; a third-party notice may be filed at any time before the pre-trial hearing.
+    - >-
+      You must first obtain the plaintiff's written consent to add a party.
+    - >-
+      It was due within the defence period; now you need leave.
+    - >-
+      Third-party notices are allowed only on the fast track, with leave.
+  correct: 2
+  explanation: >-
+    Reg. 23(ב) requires a third-party notice to be filed within the time for the defence under reg.
+    9(ב). After that you must ask the court to extend time (reg. 176) or sue the supplier separately.
+- id: q3
+  question: >-
+    The defence says: "The defendant denies all allegations in the claim." The claim's paragraph 5
+    says the defendant signed an IOU for ₪30,000, attached as exhibit 2. At trial the defendant wants
+    to argue the signature is forged. What is your best argument?
+  options:
+    - >-
+      The signature is deemed admitted, because it was not denied expressly and in detail.
+    - >-
+      Forgery can be raised only in a criminal complaint, not in a civil case.
+    - >-
+      The defendant must first pay the full court fee to raise new arguments.
+    - >-
+      The plaintiff's reply already admitted the forgery issue for trial.
+  correct: 0
+  explanation: >-
+    Reg. 14(ב): facts not denied expressly and in detail in the third part of the defence are deemed
+    admitted. A blanket denial does not put the signature in issue; the defendant would need leave to
+    amend (reg. 46).
+- id: q4
+  question: >-
+    You learn from your bank that a default judgment was given against you. The claim was sent by
+    registered mail to a flat you left three years ago; you never filed anything in the case. What is
+    your strongest route?
+  options:
+    - >-
+      Appeal to the district court, arguing the judge was wrong on the merits.
+    - >-
+      Ask the Execution Office to cancel the file because you did not know of it.
+    - >-
+      File a fresh claim against the plaintiff for the same amount.
+    - >-
+      Apply to set aside for defective service, which entitles you to it as of right.
+  correct: 3
+  explanation: >-
+    Reg. 161(3) treats an uncollected letter as served only when sent to the address the recipient gave
+    in his own pleading. Defective service of the claim is the classic ground for setting aside as of
+    right under reg. 131, without weighing the merits.
+- id: q5
+  question: >-
+    A tenant has stopped paying rent and you hear he plans to move to Cyprus permanently next month,
+    leaving a ₪60,000 debt. Which interim order is least likely to be granted, and why?
+  options:
+    - >-
+      An exit ban, because the claim is below the threshold set in reg. 124(ב) and is not for maintenance.
+    - >-
+      A temporary attachment of his bank account, because attachments are always heard inter partes.
+    - >-
+      A temporary attachment of his car, because cars cannot be attached before judgment.
+    - >-
+      Any interim order, because interim relief cannot be given before a claim is filed.
+  correct: 0
+  explanation: >-
+    Reg. 124(ב) bars an exit ban where the claim is not above the threshold, except maintenance or
+    special reasons. Attachments are heard ex parte as a rule (reg. 97(ג)), and relief can be given
+    before filing if the claim follows within seven days (reg. 95(ג)).
+- id: q6
+  question: >-
+    You act for yourself in a ₪70,000 money claim for unpaid freelance work. The defendant company
+    has a lawyer. Which statement is correct?
+  options:
+    - >-
+      You must attend the preliminary discussion at the lawyer's office within 30 days.
+    - >-
+      Your claim carries an affidavit, document list and witness list.
+    - >-
+      You must send a disclosure affidavit within 30 days of the last pleading.
+    - >-
+      The defendant may issue a third-party notice as of right within 60 days.
+  correct: 1
+  explanation: >-
+    A ₪70,000 money claim runs on the fast track (reg. 78): reg. 79 requires the affidavit, document
+    list and witness list with the pleading; disclosure does not apply; one pre-trial is the norm (reg.
+    80(ג)); third parties need leave (reg. 80(ב)); and you are exempt from the preliminary discussion.
+- id: q7
+  question: >-
+    The court ordered main testimony by affidavit. Your key witness signed an affidavit but has now
+    gone abroad and will not come to the trial. What is the consequence?
+  options:
+    - >-
+      The affidavit is read into the record and given its full weight.
+    - >-
+      The trial must be postponed until the witness returns.
+    - >-
+      It is not evidence without cross-examination; seek video testimony.
+    - >-
+      The other side must now prove that the affidavit is false.
+  correct: 2
+  explanation: >-
+    Reg. 178(ב): an affidavit in lieu of main testimony is evidence only if the deponent came for
+    cross-examination. Reg. 72 allows testimony by video, including from abroad, if the conditions are
+    met; ask for it in good time.
+- id: q8
+  question: >-
+    In the middle of a magistrates' court case the judge orders a split trial, deciding liability
+    first. You think this will waste months. Can you seek leave to appeal now?
+  options:
+    - >-
+      Yes, by leave: a split trial is an exception to the no-leave order.
+    - >-
+      No; no interim decision of a magistrates' court can ever be challenged.
+    - >-
+      Yes, by appeal as of right, because it changes the course of the trial.
+    - >-
+      Yes, but only to the Supreme Court, since it concerns trial management.
+  correct: 0
+  explanation: >-
+    Item 4 of the 2009 no-leave order bars leave on decisions about the stages of the case, except a
+    decision that the hearing be split or that a counterclaim or third-party notice be heard
+    separately. So leave may be sought under Courts Law s. 52(ב), subject to its test of real harm.
+- id: q9
+  question: >-
+    A magistrates' court judgment against you was served on 10 June. The district court dismissed your
+    appeal on 1 November. You want the Supreme Court to hear the case. What should you expect?
+  options:
+    - >-
+      An appeal as of right within 60 days of the district court judgment.
+    - >-
+      A rehearing of all the evidence by a panel of three Supreme Court justices.
+    - >-
+      An automatic further hearing because two courts have already decided.
+    - >-
+      Leave only, for an issue of importance beyond the parties.
+  correct: 3
+  explanation: >-
+    Courts Law s. 41(ב): a district court's judgment on appeal reaches the Supreme Court only with leave.
+    Under Haniyon Haifa (ר״ע 103/82) and reg. 148א, third-instance leave is given only for a question of
+    legal or public importance beyond the parties, or to prevent a miscarriage of justice.
+- id: q10
+  question: >-
+    Your former business partner owes you ₪100,000 under a 2016 agreement, due in December 2016. In
+    2021 he paid ₪5,000 "on account". You plan to sue in November 2026. Is the claim in time?
+  options:
+    - >-
+      No; seven years from December 2016 expired in December 2023.
+    - >-
+      Yes, because the 2021 part payment restarted the seven-year period.
+    - >-
+      Yes, but only for the ₪5,000 he acknowledged.
+    - >-
+      No, because acknowledgments count only if made before a court.
+  correct: 1
+  explanation: >-
+    Prescription Law s. 9: a written acknowledgment, or part performance such as a payment on account,
+    restarts the period from that day. Seven years from 2021 have not passed. In Rubav (ע״א 8438/09)
+    an acknowledgment of part was held to cover the whole cause.

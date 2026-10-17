@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You act for yourself in a ₪90,000 claim against a company with a lawyer. You receive an invitation
+    to a "פגישת מהו״ת" and a letter from their lawyer inviting you to a "preliminary discussion" at his
+    office. Which must you attend?
+  options:
+    - >-
+      Both, because both are compulsory steps under the Regulations.
+    - >-
+      Neither, because unrepresented parties are exempt from the pre-trial chapter.
+    - >-
+      Only the preliminary discussion, because mediation is voluntary.
+    - >-
+      Only the mediation-intake meeting; the preliminary discussion does not bind you.
+  correct: 3
+  explanation: >-
+    Reg. 35(א) exempts a party without a lawyer from the preliminary discussion. Reg. 37(ב) applies the
+    mediation-intake meeting whether or not the party is represented, and an absent party pays costs.
+- id: q2
+  question: >-
+    Three months after the last pleading, and after the list of motions was filed, you realise you
+    want an order for the other side to answer an interrogatory. You did not list it. What now?
+  options:
+    - >-
+      File it as an ordinary motion, because lists are only a guide for the judge.
+    - >-
+      Only with leave, for a reasonable excuse or if it could not be listed.
+    - >-
+      It is barred completely, whatever the reason for the omission.
+    - >-
+      Raise it at trial, during the cross-examination of the other side.
+  correct: 1
+  explanation: >-
+    Reg. 49(ז): a motion not included in the list of motions may be filed later only with leave, given
+    if it could not have been listed or the party had a reasonable excuse.
+- id: q3
+  question: >-
+    You sue for ₪55,000 for an unpaid invoice. Which statement about the procedure is correct?
+  options:
+    - >-
+      Disclosure affidavits and interrogatories follow within 30 days of the last pleading.
+    - >-
+      The defendant may bring in a third party as of right within its defence period.
+    - >-
+      You attach your affidavit, a document list with copies and your witness list to the claim.
+    - >-
+      The trial is set for several days, with written summations after it.
+  correct: 2
+  explanation: >-
+    The claim is on the fast track (reg. 78(א)(1)): reg. 79(א) requires an affidavit, a document list
+    with copies and a witness list with the pleading; disclosure does not apply, third-party notices
+    need leave, and the trial is one day with oral summations (reg. 80).
+- id: q4
+  question: >-
+    At the first pre-trial, the defendant's defence says only "the defendant owes nothing" and gives
+    no facts. What may the judge do?
+  options:
+    - >-
+      Give judgment for the plaintiff, as the defence reveals no defence.
+    - >-
+      Nothing until trial, because judgment can follow only after evidence.
+    - >-
+      Order the plaintiff to prove the claim by a full trial in every case.
+    - >-
+      Refer the case automatically to binding arbitration.
+  correct: 0
+  explanation: >-
+    Reg. 63(ב)(16) lets the court at the pre-trial strike out, dismiss or give judgment if it finds that
+    the defence reveals no defence at all. A bare denial also fails reg. 14(ב).

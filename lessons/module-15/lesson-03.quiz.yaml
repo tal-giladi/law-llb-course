@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    You are unrepresented. The court sends an SMS with a Net HaMishpat link to a decision at 19:30 on
+    a Tuesday; you open it at 20:10 that evening. When were you served?
+  options:
+    - >-
+      On Tuesday at 19:30, when the court's system sent the notice.
+    - >-
+      On Wednesday, because you opened it after 17:00 on a weekday.
+    - >-
+      On Tuesday at 20:10, when you opened the document.
+    - >-
+      Three days after sending, as with any electronic message.
+  correct: 1
+  explanation: >-
+    Reg. 161(1)(ד): for an unrepresented recipient of a court notice, service is when the document is
+    opened; but a time after 17:00 Sunday to Thursday counts as service on the next working day.
+- id: q2
+  question: >-
+    The plaintiff's lawyer emails you, an unrepresented defendant, a copy of the statement of claim
+    and says you are now served. You never agreed to email service. What is the position?
+  options:
+    - >-
+      Not lawful service: a claim goes by mail or personal delivery.
+    - >-
+      You are served, because lawyers may serve electronically on anyone.
+    - >-
+      You are served only once you reply to the email confirming receipt.
+    - >-
+      You are served, but your defence period is doubled to protect you.
+  correct: 0
+  explanation: >-
+    Reg. 162(1)–(2): a statement of claim is served by mail or personal delivery unless the recipient
+    agreed otherwise in writing, and a party other than the court may not serve an unrepresented party
+    electronically without written consent.
+- id: q3
+  question: >-
+    Service on you was lawful, but you missed the defence period because you were abroad for work. You
+    apply under reg. 131 within 30 days. What will most influence the court?
+  options:
+    - >-
+      Proof of your travel dates, since a good excuse alone requires setting aside.
+    - >-
+      Whether the plaintiff consents, since a set-aside needs the other side's agreement.
+    - >-
+      The amount of the judgment, since small judgments are not set aside.
+    - >-
+      The prospects of your defence on the merits, set out in detail with an affidavit.
+  correct: 3
+  explanation: >-
+    Where service was lawful, setting aside is discretionary: the court weighs the reason for the
+    default and, more heavily, the prospects of the defence. A request without a substantive defence
+    is likely to fail.
+- id: q4
+  question: >-
+    The magistrates' court sets aside a default judgment against your debtor. You think the decision
+    is wrong. What can you do now?
+  options:
+    - >-
+      Apply to the district court for leave to appeal against the decision within 30 days.
+    - >-
+      Appeal as of right to the district court, because the decision cancels a judgment.
+    - >-
+      Wait: leave is barred for granting a set-aside; raise it on appeal from the judgment.
+    - >-
+      Ask the Execution Office to keep enforcing the old judgment until the trial ends.
+  correct: 2
+  explanation: >-
+    Item 7 of the Courts (Types of Decisions Not Subject to Leave to Appeal) Order 2009 bars leave to
+    appeal against a decision granting a set-aside request; s. 2 of the order preserves the right to
+    raise it in an appeal against the judgment.

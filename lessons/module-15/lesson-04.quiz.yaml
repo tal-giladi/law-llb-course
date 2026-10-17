@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    You sue an insurer for ₪180,000 on the ordinary track. You have WhatsApp messages in which you
+    admit you were late paying a premium. The insurer has not asked for them. What do you do at the
+    disclosure stage?
+  options:
+    - >-
+      Leave them out, since a party need disclose only documents the other side requests.
+    - >-
+      List them in your disclosure affidavit, because it must cover all relevant documents.
+    - >-
+      Disclose them only if the insurer sends an interrogatory that asks about premiums.
+    - >-
+      Delete them, since documents no longer held need not be listed.
+  correct: 1
+  explanation: >-
+    Reg. 57 requires a list of all relevant documents in your possession or control, helpful or not,
+    and an explanation of what happened to those no longer held. Hiding a harmful document risks
+    strike-out or costs (reg. 60(ג)).
+- id: q2
+  question: >-
+    The defendant's interrogatory to you has 14 numbered questions, each with three to four lettered
+    sub-questions. What is your best response?
+  options:
+    - >-
+      Answer all of them by affidavit, because the cap counts only numbered questions.
+    - >-
+      Ignore it entirely, because an over-long interrogatory is void.
+    - >-
+      Object: the 25-question cap counts sub-questions; answer what is proper.
+    - >-
+      Answer orally at the pre-trial hearing instead of by affidavit.
+  correct: 2
+  explanation: >-
+    Reg. 56(ב) caps an interrogatory at 25 questions including sub-questions (50 in some large
+    district-court cases). Raise the objection properly; answers that are due are given by affidavit.
+- id: q3
+  question: >-
+    The other side's disclosure list omits the inspection report you know exists. You want the court
+    to order it produced. What must you do first?
+  options:
+    - >-
+      Write to the other side at least seven days before putting the request on the list of motions.
+    - >-
+      File an urgent motion at once, since disclosure motions are exempt from the list.
+    - >-
+      Wait for the trial and ask the witness about the report in cross-examination.
+    - >-
+      Subpoena the inspector, because only third parties can be ordered to produce documents.
+  correct: 0
+  explanation: >-
+    Disclosure disputes go on the list of motions (regs 59(א), 49(ג)), and reg. 49(ד) requires a
+    written approach to the other side at least seven days before listing a motion.
+- id: q4
+  question: >-
+    At trial the defendant tries to file a contract it never disclosed, which supports its defence. You
+    object. What is the rule?
+  options:
+    - >-
+      The contract is admitted, but the defendant pays a small fine to the State.
+    - >-
+      The court must strike out the whole defence for non-disclosure.
+    - >-
+      The contract is admitted once the defendant swears it is authentic.
+    - >-
+      Without leave it is excluded; leave needs a reasonable excuse.
+  correct: 3
+  explanation: >-
+    Reg. 60(ג): a party that failed to disclose a document may not file it as its own evidence without
+    leave, given only if it had a reasonable excuse. Strike-out is reserved mainly for hidden documents
+    that harm the hiding party.

@@ -1,0 +1,53 @@
+- id: q1
+  question: >-
+    Maria's claim was struck out because she did not attend the pre-trial hearing while in hospital.
+    What is her correct first step?
+  options:
+    - >-
+      Appeal to the district court within 60 days of service.
+    - >-
+      File a new claim, since striking out is not res judicata.
+    - >-
+      Apply within 30 days to set aside the decision.
+    - >-
+      Ask the Execution Office registrar to cancel the costs order.
+  correct: 2
+  explanation: >-
+    A decision given in a party's absence (reg. 75(1)) is challenged first by a set-aside request under
+    reg. 131, within 30 days of service. The appeal period would then run from the decision on that
+    request (reg. 137(ג)). A new claim would leave the costs order standing and
+    require a new filing and fee.
+- id: q2
+  question: >-
+    Your written motion says: "The facts are as stated in the claim." Nothing else supports them. What
+    is the most likely result?
+  options:
+    - >-
+      It may be dismissed: a motion needs an affidavit verifying its facts.
+    - >-
+      The court will accept the facts, since they appear in a pleading already on file.
+    - >-
+      The court will hold a full trial on the motion before deciding it.
+    - >-
+      The registry will forward it automatically to the other side for consent.
+  correct: 0
+  explanation: >-
+    Reg. 50(1) requires the applicant to set out its arguments with authorities and attach an affidavit
+    verifying the facts. Under reg. 50(2) the court may dismiss a motion that does not need a response.
+- id: q3
+  question: >-
+    In your appeal outline, which ground is most likely to persuade an appeal court?
+  options:
+    - >-
+      "The judge preferred the dealer's witness, who was obviously lying."
+    - >-
+      "The court applied the wrong limitation start and ignored s. 8 and s. 15א."
+    - >-
+      "The judgment is unfair given the plaintiff's financial situation."
+    - >-
+      "New documents found after the trial show the dealer's bad faith."
+  correct: 1
+  explanation: >-
+    Appeal courts review errors of law freely but rarely interfere with credibility findings
+    (Menora). New evidence is admitted only in narrow cases (reg. 144). A wrong limitation computation
+    is an error of law.

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A customer owes you ₪20,000 for work due in May 2018. In March 2024 he wrote you an email: "I
+    know I owe you the 20,000 and will pay when I can." You want to sue in December 2026. Is the
+    claim time-barred?
+  options:
+    - >-
+      Yes; seven years from May 2018 ended in May 2025.
+    - >-
+      Yes, because an acknowledgment after the cause arose has no effect.
+    - >-
+      No, but only because of the war suspension, which adds about six months.
+    - >-
+      No; the written acknowledgment restarted the seven-year period in March 2024.
+  correct: 3
+  explanation: >-
+    Prescription Law s. 9: a written acknowledgment of the right, whether within or after the period,
+    starts the period again from the day of acknowledgment. Seven years from March 2024 have not passed.
+- id: q2
+  question: >-
+    You are sued in October 2026 on a 2015 loan. You file a defence on the merits only. At the pre-trial
+    hearing you realise the claim is time-barred. What is the position?
+  options:
+    - >-
+      You may raise it at any stage, because limitation goes to the jurisdiction.
+    - >-
+      The court will raise it of its own motion, since the right has expired.
+    - >-
+      Too late without leave; it had to be pleaded at the first opportunity.
+    - >-
+      You may raise it only later, in an appeal against the final judgment.
+  correct: 2
+  explanation: >-
+    Prescription Law s. 3: the court does not consider limitation if the defendant did not plead it at
+    the first opportunity; reg. 28 requires preliminary arguments in the defence unless leave is given.
+    Limitation bars the action but not the right (s. 2), so the court does not raise it itself.
+- id: q3
+  question: >-
+    An insurance policy, in the general terms printed on the back, says claims expire three months
+    after the event. You sue after eight months. Does the clause bind you under the Prescription Law?
+  options:
+    - >-
+      No: a shorter period needs a separate written contract, minimum six months.
+    - >-
+      Yes, because parties may freely agree on any limitation period they like.
+    - >-
+      Yes, as long as the insured person signed the policy document itself.
+    - >-
+      No, because limitation periods can never be shortened by agreement.
+  correct: 0
+  explanation: >-
+    s. 19 allows a shorter period for non-land claims only by a separate written contract and not less
+    than six months. Insurance claims also have their own statutory period (s. 27; Insurance Contract
+    Law).
+- id: q4
+  question: >-
+    A claim for breach of a services contract (not land) had two years left to run on 25 January 2024.
+    How does the 2024 Swords of Iron amendment affect it?
+  options:
+    - >-
+      It does not, because the amendment applies only to claims about land.
+    - >-
+      7.10.2023–6.4.2024 is not counted, so it ends about six months later.
+    - >-
+      The whole claim gets a fresh seven-year period from 6.4.2024.
+    - >-
+      Only claims by reservists who were called up in the war benefit from it.
+  correct: 1
+  explanation: >-
+    s. 15א(א): in non-land claims whose period had not ended when Amendment No. 8 took effect
+    (25.1.2024), the period from 7.10.2023 to 6.4.2024 is not counted.

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    On Sunday the court grants you, before you have filed your claim, a temporary attachment of your
+    debtor's car. The order says nothing about a different period. What must you do to keep it alive?
+  options:
+    - >-
+      Serve it personally and file the claim within seven days.
+    - >-
+      Register the order at the Execution Office within 30 days of grant.
+    - >-
+      Wait for the debtor's response and then decide whether to sue.
+    - >-
+      File the claim within 60 days, the ordinary appeal period.
+  correct: 0
+  explanation: >-
+    Reg. 95(ג) and reg. 100(3): an order given before the claim lapses if the claim is not filed within
+    seven days or another period the court sets; an ex parte order must also be served personally
+    promptly (regs 97(ד), 100(2)).
+- id: q2
+  question: >-
+    Your neighbour has started building a wall on what you say is your land. You want to stop the
+    work at once without telling him first. What is the likely approach of the court?
+  options:
+    - >-
+      Ex parte as a matter of course, because all injunctions are heard without the respondent.
+    - >-
+      A temporary ex parte order only for special reasons, with an inter partes hearing soon after.
+    - >-
+      No order until trial, since land disputes cannot be the subject of interim relief.
+    - >-
+      An order only after a full exchange of disclosure affidavits.
+  correct: 1
+  explanation: >-
+    Reg. 97(א): interim relief is heard inter partes; an ex parte temporary order needs special reasons
+    and a reasonable fear that notice or delay would defeat it. Reg. 97(ה) then requires a prompt inter
+    partes hearing.
+- id: q3
+  question: >-
+    A limited company with no visible assets sues you for ₪400,000 in a claim you think is weak. What
+    can you ask for at the start?
+  options:
+    - >-
+      An exit ban on the company's directors until the trial ends.
+    - >-
+      A temporary attachment of the company's bank account for your costs.
+    - >-
+      Security for your costs, with a stay until it is given.
+    - >-
+      Immediate dismissal, because a company without assets cannot sue.
+  correct: 2
+  explanation: >-
+    Companies Law s. 353א allows the court, on the defendant's request, to order a limited company to
+    give security for costs and stay the case until it does, unless the circumstances do not justify it
+    or the company proves it can pay. Reg. 157(ב) strikes out the claim if security is not given.
+- id: q4
+  question: >-
+    You obtained an ex parte attachment of the defendant's account at Bank Leumi. The bank answers
+    that it holds no money of the defendant. What happens if you do nothing?
+  options:
+    - >-
+      The attachment stays in force until the judgment, because the bank is not a party.
+    - >-
+      The bank becomes liable for the debt because it answered late.
+    - >-
+      The court will order the bank to search other branches of its own motion.
+    - >-
+      The attachment lapses as to those assets unless you apply to confirm it in time.
+  correct: 3
+  explanation: >-
+    Reg. 105(א): if the holder does not admit holding the respondent's assets, the applicant must apply
+    to confirm the attachment within a short period; otherwise it lapses as to the assets not admitted.

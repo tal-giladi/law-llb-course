@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You are sued for ₪70,000. Your defence denies the contract "in its entirety" in the summary, and
+    in the detail answers only the paragraphs about the price. Paragraph 8 of the claim says you
+    received the goods on 2 May. What follows?
+  options:
+    - >-
+      Paragraph 8 is disputed, because the summary denies the contract as a whole.
+    - >-
+      Paragraph 8 is deemed admitted, because it was not denied expressly in the detail.
+    - >-
+      Paragraph 8 is disputed until the plaintiff files a reply asking for admission.
+    - >-
+      Paragraph 8 is admitted only if the court gives judgment on the claim alone.
+  correct: 1
+  explanation: >-
+    Reg. 14(ב) requires an express and detailed denial in the third part of the defence. A general
+    denial in the summary does not do this, so the receipt of the goods is treated as admitted.
+- id: q2
+  question: >-
+    The defence says you were paid in cash. You did not file a reply. At trial the defendant argues
+    you have "admitted" the cash payment by silence. Is that right?
+  options:
+    - >-
+      Yes; any fact not denied in a pleading is deemed admitted by the other side.
+    - >-
+      Yes, unless you ask the court for leave to deny it before the evidence starts.
+    - >-
+      No; without a reply the plaintiff is treated as denying the defence's allegations.
+    - >-
+      No, but only because a reply is compulsory and the court should have ordered one.
+  correct: 2
+  explanation: >-
+    Reg. 18(א): if the plaintiff files no reply, it is treated as denying everything in the defence,
+    unless it expressly admitted it. The deemed-admission rule of reg. 14(ב) applies to defendants.
+- id: q3
+  question: >-
+    You file a claim on the last day of the limitation period. The next day the registry refuses it
+    because the heading omits the fee item. What should you do?
+  options:
+    - >-
+      Cure the defect within seven days, so the claim is treated as accepted on time.
+    - >-
+      File a fresh claim; the refused one never existed and the new date governs.
+    - >-
+      Appeal to the district court against the registry's decision within 60 days.
+    - >-
+      Nothing; a refusal for a form defect does not affect the filing date.
+  correct: 0
+  explanation: >-
+    Reg. 33(ג) treats a refused document as not filed, but reg. 33(ד) protects a statement of claim
+    that limitation could bar: it is treated as accepted if the defect is cured within seven days.
+- id: q4
+  question: >-
+    Your claim was struck out because the statement of claim disclosed no cause of action. Can you
+    sue again on a corrected claim?
+  options:
+    - >-
+      No; striking out is a final decision that creates res judicata.
+    - >-
+      Yes, but only after an appeal against the strike-out has been decided.
+    - >-
+      No, unless the defendant consents in writing to a new claim.
+    - >-
+      Yes; striking out is not res judicata, though the court may set conditions.
+  correct: 3
+  explanation: >-
+    Reg. 41(ב): striking out does not create res judicata, and a new claim continues from the stage
+    reached unless the court orders otherwise (reg. 41(ג)). Dismissal under reg. 43 is different.

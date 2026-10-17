@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Your affidavit in lieu of testimony says: "My neighbour Rina told me she saw the delivery man
+    drop the television." How will the court treat this paragraph?
+  options:
+    - >-
+      As proof only that Rina said it; Rina must testify to prove the fact.
+    - >-
+      As full proof that the television was dropped, since it is sworn.
+    - >-
+      As inadmissible, so that the whole affidavit is struck out.
+    - >-
+      As proof of the fact, provided Rina signs the affidavit too.
+  correct: 0
+  explanation: >-
+    Reg. 178(א): an affidavit contains facts the deponent knows personally. What Rina told you is
+    hearsay as to the dropping; to prove it, Rina must testify (by her own affidavit or orally) and be
+    available for cross-examination.
+- id: q2
+  question: >-
+    The defendant filed its manager's affidavit in lieu of main testimony. On the trial day the manager
+    does not come, and the defendant's lawyer asks the court to rely on the affidavit anyway. What is
+    the rule?
+  options:
+    - >-
+      The affidavit stands, because it was sworn before a lawyer.
+    - >-
+      The affidavit stands, but the court gives it reduced weight.
+    - >-
+      It is evidence only if the deponent comes for cross-examination.
+    - >-
+      The court must postpone the trial until the manager can attend.
+  correct: 2
+  explanation: >-
+    Reg. 178(ב): an affidavit in lieu of main testimony counts as evidence only if the deponent came for
+    cross-examination. Reg. 83(א) also says a missing witness is not, as a rule, a reason to postpone.
+- id: q3
+  question: >-
+    You are the plaintiff. You overslept and missed the evidence hearing; the court struck out your
+    claim. Two weeks later you are served with the decision. What should you do?
+  options:
+    - >-
+      Appeal to the district court, which will order a new trial as of right.
+    - >-
+      File a new identical claim, since striking out never bars a new claim.
+    - >-
+      Ask the Execution Office to freeze the costs order.
+    - >-
+      Apply within 30 days of service to set aside the decision.
+  correct: 3
+  explanation: >-
+    Reg. 75(1) strikes out the claim of a plaintiff who does not attend; reg. 131 allows a request to set
+    aside a decision given in a party's absence within 30 days of service, on conditions such as costs.
+- id: q4
+  question: >-
+    You need testimony from a former employee of the defendant who refuses to come voluntarily. The
+    hearing was set two weeks ago for a date two months from now. What is your step?
+  options:
+    - >-
+      Send him a WhatsApp with the date; if he does not come the hearing will be postponed.
+    - >-
+      Ask the court to summon him, undertaking to pay his expenses.
+    - >-
+      Read his earlier emails into the record as his testimony.
+    - >-
+      Ask the defendant to produce him, since he worked there.
+  correct: 1
+  explanation: >-
+    Reg. 83(ב) allows a request for a court summons within 30 days of the hearing date being set and at
+    least 14 days before it; you are within both limits. The applicant
+    undertakes to pay the witness's expenses (reg. 84).

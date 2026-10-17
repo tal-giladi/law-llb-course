@@ -1,0 +1,54 @@
+- id: q1
+  question: >-
+    Drafting the Tadesse claim, you list the ₪6,800 expenses in the detail but forget them in the
+    heading's list of remedies. What is the main risk?
+  options:
+    - >-
+      None, because the court reads the whole claim and awards what the facts show.
+    - >-
+      The heading must list every remedy; value, fee and the remedy are at risk.
+    - >-
+      The registry will refuse the summary, but the heading itself is not checked.
+    - >-
+      The defendant may treat the expenses as admitted by the plaintiffs.
+  correct: 1
+  explanation: >-
+    Reg. 10(9) requires the heading to list all remedies and the value of the subject matter, which
+    also drives the fee item (reg. 10(10)). Reg. 33(ב) lets the registry refuse a heading that breaks
+    reg. 10, and reg. 25 requires the full remedy to be claimed.
+- id: q2
+  question: >-
+    You are drafting the kitchen company's defence. The company says the subcontractor caused the
+    defects and the customers still owe the ₪36,000 balance. What should go in with the defence?
+  options:
+    - >-
+      Only the defence; the subcontractor and the balance are separate cases.
+    - >-
+      A request that the plaintiffs add the subcontractor as a defendant.
+    - >-
+      A third-party notice against the subcontractor and a counterclaim for the balance.
+    - >-
+      A motion to strike out the claim for not suing the subcontractor.
+  correct: 2
+  explanation: >-
+    Reg. 22 allows a third-party notice for indemnity, filed within the defence period (reg. 23(ב));
+    reg. 21(א) allows a counterclaim filed with the defence, and Courts Law s. 51(א)(4) lets the
+    magistrates' court hear it.
+- id: q3
+  question: >-
+    Reviewing the defence, you find paragraph 9 of the claim ("the countertop was cut 4 cm short") is
+    answered only by "Denied." What is the best correction?
+  options:
+    - >-
+      Leave it as it is; any denial is enough to put a fact in dispute.
+    - >-
+      Change it to "Not within the defendant's knowledge" to stay safe.
+    - >-
+      Move the denial into the summary, where the judge will see it.
+    - >-
+      Deny it with the company's own version and the measurement record.
+  correct: 3
+  explanation: >-
+    Reg. 14(ב) requires an express and detailed denial in the third part of the defence. A bare
+    "denied" risks being treated as insufficient; giving the defendant's own version with a document
+    meets the rule.

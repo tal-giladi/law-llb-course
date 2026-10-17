@@ -1,0 +1,48 @@
+- **סמכות עניינית** (Samchut inyanit) — Subject-matter jurisdiction: which court may hear a type or value of claim (Courts Law ss. 40, 51).
+- **מקום שיפוט / סמכות מקומית** (Mekom shiput / samchut mekomit) — Venue: which district a claim is filed in (regs 7–8).
+- **תניית שיפוט ייחודית** (Tniyat shiput yichudit) — Exclusive jurisdiction clause limiting venue to an agreed court.
+- **צירוף בעלי דין** (Tziruf ba'alei din) — Joinder of parties (reg. 26).
+- **איחוד עילות** (Ichud ilot) — Joinder of all causes of action from the same facts in one claim (reg. 24).
+- **פיצול סעדים** (Pitzul sa'adim) — Leave to claim remedies from one cause separately (reg. 25(ב)).
+- **תביעה שכנגד** (Tvi'a shekeneged) — Counterclaim, filed with the defence (reg. 21).
+- **הודעה לצד שלישי** (Hoda'a letzad shlishi) — Third-party notice by a defendant seeking contribution or indemnity (regs 22–23).
+- **עיכוב הליכים** (Ikuv halichim) — Stay of proceedings, e.g. for an arbitration clause.
+- **הכחשה מפורשת ומפורטת** (Hakchasha meforeshet umefuretet) — Express and detailed denial required to avoid deemed admission (reg. 14(ב)).
+- **קבלה לרישום** (Kabala lerishum) — Registry acceptance of a document for filing (reg. 33).
+- **תיקון כתב טענות** (Tikun ktav ta'anot) — Amendment of a pleading (regs 46–47).
+- **מחיקה / דחייה על הסף** (Mechika / dchiya al hasaf) — Striking out (not res judicata) / summary dismissal (final) (regs 41, 43).
+- **תביעת השתקה** (Tvi'at hashtaka) — SLAPP: a claim meant to silence public criticism; an abuse of process (רע״א 1954/24).
+- **תחליף המצאה** (Tachalif hamtza'a) — Substituted service ordered by the court (reg. 164).
+- **המצאה מחוץ לתחום המדינה** (Hamtza'a michutz litchum hamedina) — Service out of the jurisdiction, on a ground in reg. 166.
+- **החלטה לפי צד אחד** (Hachlata lefi tzad echad) — Decision given in a party's absence; may be set aside within 30 days (reg. 131).
+- **ביטול מחובת הצדק** (Bitul mechovat hatzedek) — Setting aside as of right, typically for defective service.
+- **השתק פלוגתא** (Hashtak plugta) — Issue estoppel.
+- **שאלון** (She'elon) — Interrogatory: written questions answered by affidavit (reg. 56).
+- **תצהיר גילוי מסמכים** (Tatzhir giluy mismachim) — Disclosure affidavit listing relevant documents (reg. 57).
+- **עיון במסמכים** (Iyun bamismachim) — Inspection of disclosed documents (reg. 58).
+- **חיסיון** (Chisayon) — Privilege, e.g. lawyer–client (Evidence Ordinance s. 48).
+- **סעד זמני ארעי** (Sa'ad zmani ar'i) — Temporary order given ex parte pending an inter partes hearing (reg. 97).
+- **עיקול זמני** (Ikul zmani) — Temporary attachment of a respondent's assets (reg. 103).
+- **מחזיק** (Machzik) — Holder: a third party (such as a bank) holding the respondent's assets (regs 104–105).
+- **התחייבות עצמית** (Hitchayvut atzmit) — Self-undertaking to compensate for damage caused by an interim order (reg. 96, Form 7).
+- **כונס נכסים זמני** (Kones nechasim zmani) — Temporary receiver (regs 111–122).
+- **תפיסת ראיות** (Tfisat re'ayot) — Seizure of evidence (Anton Piller-type order) (reg. 123).
+- **צו מרווה** (Tzav Mareva) — Freezing order acting on the person; given as a temporary injunction (reg. 109).
+- **ערובה להוצאות** (Arevuta lehotza'ot) — Security for costs (reg. 157; Companies Law s. 353א).
+- **רשימת הבקשות** (Reshimat habakashot) — List of motions filed before the first pre-trial hearing (reg. 49(ג)).
+- **קדם משפט מסכם** (Kdam mishpat mesakem) — Final pre-trial hearing that sets the trial plan (reg. 63(ד)).
+- **פשרה לפי סעיף 79א** (Pshara lefi se'if 79א) — Decision by way of compromise with the parties' consent (Courts Law s. 79א).
+- **תביעה לפינוי מושכר** (Tvi'a lefinuy muskar) — Claim to evict a tenant, on the fast track with special rules (reg. 81).
+- **תצהיר עדות ראשית** (Tatzhir edut rashit) — Affidavit in lieu of main testimony (regs 67, 178).
+- **חקירה חוזרת** (Chakira chozeret) — Re-examination, limited to matters arising from cross-examination (reg. 67(ג)).
+- **עדות מוקדמת** (Edut mukdemet) — Early testimony taken before trial (reg. 73).
+- **סיכומים** (Sikumim) — Summations (reg. 74).
+- **פסיקתה** (Psikta) — Formal order embodying a judgment (reg. 133).
+- **ערעור בזכות** (Ir'ur bizchut) — Appeal as of right.
+- **גלגול שלישי** (Gilgul shlishi) — Third instance; leave given only for issues beyond the parties (Haniyon Haifa).
+- **ערעור שכנגד** (Ir'ur shekeneged) — Cross-appeal (reg. 137(ב)).
+- **עיכוב ביצוע** (Ikuv bitzu'a) — Stay of execution pending appeal (reg. 145).
+- **דיון נוסף** (Diyun nosaf) — Further hearing by an expanded Supreme Court panel (Courts Law s. 30).
+- **התיישנות שלא מדעת** (Hityashnut shelo mida'at) — Late-knowledge rule delaying the start of limitation (Prescription Law s. 8).
+- **הודאה בקיום זכות** (Hoda'a bekiyum zchut) — Written acknowledgment or part payment restarting limitation (s. 9).
+- **שיהוי** (Shihuy) — Laches: unreasonable delay (Prescription Law s. 27).

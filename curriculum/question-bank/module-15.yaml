@@ -1,0 +1,1592 @@
+- id: m15-001
+  module: 15
+  lesson: "15.1"
+  subject: subject-matter-jurisdiction
+  difficulty: 1
+  question: >-
+    On which date is the value of a civil claim measured to decide whether the magistrates' court
+    has jurisdiction under Courts Law s. 51(א)(2)?
+  options:
+    - >-
+      The date the cause of action arose.
+    - >-
+      The date of the judgment, including interest.
+    - >-
+      The day the claim is filed.
+    - >-
+      The date the defence is filed.
+  correct: 2
+  explanation: >-
+    s. 51(א)(2) looks at the sum or value "on the day the claim is filed", even if linkage, interest
+    and costs later raise it above the ceiling.
+- id: m15-002
+  module: 15
+  lesson: "15.1"
+  subject: subject-matter-jurisdiction
+  difficulty: 2
+  question: >-
+    A neighbour sues to remove your fence and recover possession of a 3-metre strip worth ₪3
+    million. Which court has jurisdiction?
+  options:
+    - >-
+      The magistrates' court: possession or use of land, whatever the value.
+    - >-
+      The district court, because the value is above the magistrates' court ceiling.
+    - >-
+      The Land Registrar, because the dispute concerns rights in registered land.
+    - >-
+      The small claims court, because the remedy sought is not a sum of money.
+  correct: 0
+  explanation: >-
+    Courts Law s. 51(א)(3) gives the magistrates' court claims about possession or use of land
+    whatever the value; other land claims, such as ownership, go to the district court.
+- id: m15-003
+  module: 15
+  lesson: "15.1"
+  subject: venue
+  difficulty: 1
+  question: >-
+    You sue three defendants: one lives in Eilat, one in Tiberias, one in Netanya. Where may you
+    file?
+  options:
+    - >-
+      Only in Jerusalem, because the defendants live in different districts.
+    - >-
+      In a court with venue over any one of them, for example Netanya.
+    - >-
+      Separately in each defendant's district.
+    - >-
+      Only where you yourself live.
+  correct: 1
+  explanation: >-
+    Reg. 7(ג): a court with venue over one of several defendants under reg. 7(א) or (ב) has venue
+    over all of them.
+- id: m15-004
+  module: 15
+  lesson: "15.1"
+  subject: venue
+  difficulty: 1
+  question: >-
+    When does a claim go to the Jerusalem court under reg. 8?
+  options:
+    - >-
+      When one of the parties is a government ministry based in Jerusalem.
+    - >-
+      When the plaintiff prefers a neutral district for reasons of convenience.
+    - >-
+      When the claim is above the magistrates' court ceiling on filing.
+    - >-
+      When no venue rule in the Regulations or another law fits.
+  correct: 3
+  explanation: >-
+    Reg. 8 is the residual rule: a claim with no suitable venue goes to the Jerusalem court with
+    subject-matter jurisdiction, which may direct otherwise if another court is more suitable.
+- id: m15-005
+  module: 15
+  lesson: "15.1"
+  subject: joinder-of-parties
+  difficulty: 2
+  question: >-
+    Your car was hit in a chain collision. You do not know which of two drivers caused the damage.
+    What does reg. 26(ב) allow?
+  options:
+    - >-
+      Suing one driver now and the other only after the first case ends.
+    - >-
+      Suing an unnamed "driver" and naming him after disclosure.
+    - >-
+      Suing both, so that the trial decides who is liable and how much.
+    - >-
+      Asking the police to decide who is liable before you sue.
+  correct: 2
+  explanation: >-
+    Reg. 26(ב): a plaintiff in doubt about whom it is entitled to relief from may join several
+    defendants so that liability and its extent are decided in the trial.
+- id: m15-006
+  module: 15
+  lesson: "15.1"
+  subject: full-remedy-rule
+  difficulty: 3
+  question: >-
+    After a fire caused by a neighbour's negligence you sue for ₪40,000 property damage. A year
+    later you develop asthma linked to the smoke. Can you sue for it?
+  options:
+    - >-
+      Never, because all damage from one cause must be claimed at once.
+    - >-
+      Only if you asked leave to split remedies in the first case, before judgment.
+    - >-
+      Yes, automatically, because personal injury is always a separate case.
+    - >-
+      Possibly; it turns on the breadth of the cause and on foreseeability.
+  correct: 3
+  explanation: >-
+    Reg. 25 bars later claims for the part of a remedy not claimed for the same cause. Whether a
+    later, unforeseeable injury is the same cause is a question of the cause's breadth; courts have
+    recognised exceptions for late, significantly larger damage. Asking leave to split (reg. 25(ב))
+    is the safe route when you foresee it.
+- id: m15-007
+  module: 15
+  lesson: "15.1"
+  subject: third-party-notice
+  difficulty: 1
+  question: >-
+    Which of these may a third party, once served with a third-party notice, NOT do?
+  options:
+    - >-
+      File its own counterclaim in the proceeding.
+    - >-
+      File a defence to the notice.
+    - >-
+      Dispute the plaintiff's claim against the defendant.
+    - >-
+      Take part in the hearing as a defendant would.
+  correct: 0
+  explanation: >-
+    Reg. 23(ג): a third party is treated as a defendant for all purposes, but may not file a
+    counterclaim. Reg. 23(ד) lets it dispute both the notice and the main claim.
+- id: m15-008
+  module: 15
+  lesson: "15.1"
+  subject: arbitration-stay
+  difficulty: 3
+  question: >-
+    Bar-style: An Israeli distributor sues a US supplier and its Israeli agent. The distribution
+    contract has a New York Convention arbitration clause (London); the agent is not a party to it.
+    The supplier moves to stay. What is the likely result?
+  options:
+    - >-
+      Refused, because the agent's joinder makes the clause incapable of performance.
+    - >-
+      Refused, because the court has discretion to avoid splitting the dispute.
+    - >-
+      A stay as to the supplier; joining a non-party does not defeat an international clause.
+    - >-
+      The whole case moves to London, including the claim against the agent.
+  correct: 2
+  explanation: >-
+    Hotels.com (רע״א 4716/04): under Arbitration Law s. 6 and art. II(3) of the Convention the court
+    must stay unless the agreement is void, inoperative or incapable of performance; the joinder of
+    a non-party does not make it so. Domestic clauses (s. 5) leave more discretion.
+- id: m15-009
+  module: 15
+  lesson: "15.2"
+  subject: pleading-structure
+  difficulty: 1
+  question: >-
+    What is the correct order of the three parts of a statement of claim under reg. 9(ג)?
+  options:
+    - >-
+      Detail, summary, heading.
+    - >-
+      Heading, summary, detail.
+    - >-
+      Summary, heading, detail.
+    - >-
+      Heading, detail, summary.
+  correct: 1
+  explanation: >-
+    Reg. 9(ג): heading, summary of the arguments, detailed statement, in that order. Many drafters
+    write the detail first, but file in the prescribed order.
+- id: m15-010
+  module: 15
+  lesson: "15.2"
+  subject: claim-summary
+  difficulty: 2
+  question: >-
+    Spot the mistake: a claim's summary (part two) sets out the parties, the remedy, a two-page
+    account of the facts, and a page of case law. What is wrong?
+  options:
+    - >-
+      Nothing; the summary may contain any matter the plaintiff thinks useful.
+    - >-
+      The summary must be signed by a lawyer, or the registry refuses it.
+    - >-
+      The case law must be moved into the heading, after the remedies.
+    - >-
+      Only the reg. 11 items belong there, briefly; law goes in part three.
+  correct: 3
+  explanation: >-
+    Reg. 11 lists "these matters only, in this order": the parties, the remedy, the facts founding
+    the cause and when it arose, and the jurisdiction facts. Legal argument belongs in part three,
+    and the summary has a page limit (reg. 9(ד)).
+- id: m15-011
+  module: 15
+  lesson: "15.2"
+  subject: deemed-admission
+  difficulty: 1
+  question: >-
+    The defence expressly denies liability but says nothing about the amount of damages claimed. How
+    is the amount treated?
+  options:
+    - >-
+      As admitted, because it was not denied expressly and in detail.
+    - >-
+      As admitted, but only if the plaintiff then files a reply on it.
+    - >-
+      As disputed, unless the defendant expressly admitted it.
+    - >-
+      As disputed, but only if the defendant files an expert opinion.
+  correct: 2
+  explanation: >-
+    Reg. 14(ב) ends with an exception: the amount of damages is treated as disputed unless the
+    defendant expressly admitted it.
+- id: m15-012
+  module: 15
+  lesson: "15.2"
+  subject: reply
+  difficulty: 3
+  question: >-
+    In your reply you want to add a claim for a second unpaid invoice that you forgot. What is the
+    correct route?
+  options:
+    - >-
+      Ask leave to amend the claim, because a reply may not add a new cause.
+    - >-
+      Add it to the reply; replies may include anything arising after the defence.
+    - >-
+      Add it at the pre-trial hearing orally.
+    - >-
+      File a separate small claim for it while the main case continues.
+  correct: 0
+  explanation: >-
+    Reg. 18(א): a reply may not include a new cause of action. Amendment is under reg. 46, and a
+    separate claim risks the full-remedy rule (reg. 25) if both invoices arise from one cause.
+- id: m15-013
+  module: 15
+  lesson: "15.2"
+  subject: registry-acceptance
+  difficulty: 2
+  question: >-
+    The registry refuses your defence because the heading omits the last filing date. The defence
+    period ends tomorrow. What should you do?
+  options:
+    - >-
+      Nothing; a defence cannot be refused by the registry on form grounds.
+    - >-
+      Ask the plaintiff's lawyer to accept the defence informally by email.
+    - >-
+      Cure it by the last day or within seven days, whichever is later.
+    - >-
+      Appeal to the district court against the registry within 60 days.
+  correct: 2
+  explanation: >-
+    Reg. 33(ב) lets the registry refuse documents that break listed rules, including reg. 12 (the
+    defence heading, which includes the last date under reg. 30). Reg. 33(ג) allows cure until the
+    last day or within seven days of the refusal, whichever is later; reg. 33(ה) allows a judge's
+    review.
+- id: m15-014
+  module: 15
+  lesson: "15.2"
+  subject: strike-out-dismissal
+  difficulty: 3
+  question: >-
+    Bar-style: A claim was dismissed under reg. 43 because it was time-barred. The plaintiff files a
+    new claim on the same cause, adding an acknowledgment it found later. What is the defendant's
+    best answer?
+  options:
+    - >-
+      The new claim must continue from the stage the old one reached.
+    - >-
+      The new claim is barred by res judicata, because dismissal is final.
+    - >-
+      The new claim may proceed, because limitation does not extinguish the right.
+    - >-
+      The new claim must be heard by the same judge.
+  correct: 1
+  explanation: >-
+    Dismissal (דחייה) under reg. 43, unlike striking out under reg. 41(ב), is a final decision
+    creating res judicata. The remedy for new evidence would be an appeal or, in narrow cases, a
+    request to set aside the judgment, not a new claim.
+- id: m15-015
+  module: 15
+  lesson: "15.2"
+  subject: abuse-of-process
+  difficulty: 3
+  question: >-
+    A large developer sues a resident for ₪1.5 million in defamation over a Facebook post
+    criticising a building plan. What did the Supreme Court decide in the 2025 Vaknin case about
+    such claims?
+  options:
+    - >-
+      That defamation claims can never be struck out before a full trial.
+    - >-
+      That only the Attorney General may move to dismiss a SLAPP claim.
+    - >-
+      That SLAPP claims must always be transferred to the district court.
+    - >-
+      That a SLAPP abuses process: dismissal at the threshold or heavy costs.
+  correct: 3
+  explanation: >-
+    רע״א 1954/24 וקנין נ׳ קיבוץ ניר דוד (7.1.2025): the majority held SLAPPs are an abuse of
+    process, may be dismissed at the threshold or met with costs correlated with the sum claimed,
+    and listed indicators such as power gaps, inflated damages and public-interest speech.
+- id: m15-016
+  module: 15
+  lesson: "15.2"
+  subject: amendment
+  difficulty: 1
+  question: >-
+    Which factors does reg. 46(א) tell the court to weigh on a request to amend a pleading?
+  options:
+    - >-
+      Only whether the other side consents to the amendment in writing.
+    - >-
+      The applicant's conduct, the stage and the purpose of the change.
+    - >-
+      Only whether the amendment would add a new cause of action.
+    - >-
+      The size of the court fee already paid, and any fee difference.
+  correct: 1
+  explanation: >-
+    Reg. 46(א) allows amendment at any time for a proper and fair process, considering among other
+    things the applicant's conduct, the procedural stage and what the amendment is meant to achieve.
+- id: m15-017
+  module: 15
+  lesson: "15.2"
+  subject: alternative-facts
+  difficulty: 2
+  question: >-
+    You want to plead that the defendant either kept your deposit or passed it to his partner,
+    because you do not know which. What do you need?
+  options:
+    - >-
+      An affidavit that you do not know the true facts.
+    - >-
+      The defendant's consent to alternative pleading.
+    - >-
+      Nothing; alternative facts are always allowed.
+    - >-
+      Leave of the court before filing the claim.
+  correct: 0
+  explanation: >-
+    Reg. 27 bars contradictory or alternative factual allegations unless the party verifies by
+    affidavit that the true facts are unknown to it.
+- id: m15-018
+  module: 15
+  lesson: "15.3"
+  subject: service-methods
+  difficulty: 1
+  question: >-
+    Who serves the documents of a party who is not represented by a lawyer?
+  options:
+    - >-
+      The party, by personal delivery.
+    - >-
+      A process server the party must hire.
+    - >-
+      The court registry.
+    - >-
+      The other side's lawyer.
+  correct: 2
+  explanation: >-
+    Reg. 160: a represented party's lawyer serves copies; an unrepresented party files with the
+    court's registry, which acts to serve them.
+- id: m15-019
+  module: 15
+  lesson: "15.3"
+  subject: service-methods
+  difficulty: 2
+  question: >-
+    A process server comes to your door with a statement of claim; you refuse to take it. He leaves
+    it on the doormat in plain view and signs a delivery notice. Were you served?
+  options:
+    - >-
+      No, because personal service requires your own signature on receipt.
+    - >-
+      Yes: leaving it visibly by the door counts if you refuse it.
+    - >-
+      No, because a claim may be served only by registered mail.
+    - >-
+      Only once you actually open the envelope and read the claim.
+  correct: 1
+  explanation: >-
+    Reg. 161(4)(ב)(1): a document left in a visible place by the door counts as lawfully served if
+    the recipient refused to take it or to confirm receipt.
+- id: m15-020
+  module: 15
+  lesson: "15.3"
+  subject: service-family-member
+  difficulty: 2
+  question: >-
+    The defendant is never home. May the claim be served on his 17-year-old son who lives with him?
+  options:
+    - >-
+      Yes, any family member found at the address will do.
+    - >-
+      Yes, provided the son signs a delivery confirmation for it.
+    - >-
+      No, service on family members is never allowed for a claim.
+    - >-
+      No; it must be a family member living there who appears 18 or over.
+  correct: 3
+  explanation: >-
+    Reg. 163(ב): if the addressee cannot be found, service on a family member living with him who
+    appears to be at least 18 suffices.
+- id: m15-021
+  module: 15
+  lesson: "15.3"
+  subject: substituted-service
+  difficulty: 2
+  question: >-
+    Your debtor has no known address in Israel but is active on Facebook. What can you ask the
+    court?
+  options:
+    - >-
+      To declare him served by publication in Reshumot automatically.
+    - >-
+      Substituted service, on affidavit with a Population Registry printout.
+    - >-
+      To give judgment without any service, because he is hiding.
+    - >-
+      To order the police to locate him and serve him personally.
+  correct: 1
+  explanation: >-
+    Reg. 164: if service in the prescribed way is impossible, the court may order another suitable
+    method; the request needs an affidavit and, for an Israeli resident without a known address, a
+    Population Registry printout.
+- id: m15-022
+  module: 15
+  lesson: "15.3"
+  subject: service-abroad
+  difficulty: 3
+  question: >-
+    Bar-style: You sue a Cypriot company for a defective product bought online that injured you in
+    Israel. Which ground in reg. 166 most directly supports service abroad?
+  options:
+    - >-
+      Damage in Israel from the product of a foreseeing, international defendant.
+    - >-
+      The plaintiff is an Israeli resident who bought the product in Israel.
+    - >-
+      The claim is above the magistrates' court ceiling on the filing day.
+    - >-
+      The defendant runs a website in Hebrew aimed at Israeli buyers.
+  correct: 0
+  explanation: >-
+    Reg. 166(5) allows service abroad where the claim rests on damage caused to the plaintiff in
+    Israel by the defendant's product, service or conduct, if the defendant could foresee it and is
+    engaged in significant international trade. The plaintiff applies with an affidavit (reg. 167).
+- id: m15-023
+  module: 15
+  lesson: "15.3"
+  subject: default-judgment
+  difficulty: 1
+  question: >-
+    The defence period has passed without a defence. What may the court do under reg. 130?
+  options:
+    - >-
+      Nothing until the defendant has been served a second time.
+    - >-
+      Dismiss the claim, because the defendant did not respond.
+    - >-
+      Refer the case automatically to mediation at the court.
+    - >-
+      Ask for proof, or give judgment on the claim alone.
+  correct: 3
+  explanation: >-
+    Reg. 130: if no defence was filed in time or it was struck out, the court may require sufficient
+    proof of the claim, or give judgment on the statement of claim alone.
+- id: m15-024
+  module: 15
+  lesson: "15.3"
+  subject: set-aside
+  difficulty: 2
+  question: >-
+    Spot the mistake: a set-aside request explains, in detail and with documents, that the defendant
+    was on reserve duty, but says nothing about the dispute itself. What is its main weakness?
+  options:
+    - >-
+      It should have been filed as an appeal to the district court.
+    - >-
+      It gives no defence on the merits, which weighs most.
+    - >-
+      Reserve duty is never accepted as a reason for missing a deadline.
+    - >-
+      It should have been filed by the plaintiff, not by the defendant.
+  correct: 1
+  explanation: >-
+    Where service was lawful, the court weighs the reason for the default and, more heavily, the
+    prospects of the defence. A request without a substantive defence, ideally with a draft defence
+    and an affidavit, is likely to fail.
+- id: m15-025
+  module: 15
+  lesson: "15.3"
+  subject: issue-estoppel
+  difficulty: 3
+  question: >-
+    A default judgment found that you caused a water leak. Later the neighbour sues you for a much
+    larger loss from the same leak. Can the earlier judgment bind you on the cause of the leak?
+  options:
+    - >-
+      No; under the Eliyahu rule a default judgment never creates estoppel.
+    - >-
+      No, because small judgments never bind the parties in later cases.
+    - >-
+      Possibly; later rulings held absence judgments can bind on issues.
+    - >-
+      Yes, always, because every judgment binds the parties on all facts.
+  correct: 2
+  explanation: >-
+    Eliyahu (ע״א 202/70) held that a default judgment does not create issue estoppel, but in
+    Weinstein (רע״א 2237/06) two justices doubted it and in Holon Municipality (רע״א 1170/08) the
+    Court held that a judgment in absence can create issue estoppel. The point is unsettled; do not
+    ignore a claim.
+- id: m15-026
+  module: 15
+  lesson: "15.3"
+  subject: counting-days
+  difficulty: 2
+  question: >-
+    The court's decision was given orally at a hearing you attended on 5 May. When does the period
+    to act on it start?
+  options:
+    - >-
+      From the hearing, since it was given in your presence.
+    - >-
+      From the day the protocol is uploaded to Net HaMishpat.
+    - >-
+      From the day you receive a copy by registered mail.
+    - >-
+      Seven days after the hearing, the usual grace period.
+  correct: 0
+  explanation: >-
+    Reg. 179(א): periods run from service; but if a decision was given in the parties' presence,
+    they run from the hearing. Recess days are not counted (reg. 179(ב)).
+- id: m15-027
+  module: 15
+  lesson: "15.4"
+  subject: interrogatories
+  difficulty: 1
+  question: >-
+    How is an interrogatory answered?
+  options:
+    - >-
+      Orally at the pre-trial hearing.
+    - >-
+      In a letter signed by the party.
+    - >-
+      By affidavit, within the set period.
+    - >-
+      By the party's lawyer in the defence.
+  correct: 2
+  explanation: >-
+    Reg. 56(א): the answer to an interrogatory is given by affidavit within the period, or the party
+    may produce a relevant document instead of an answer.
+- id: m15-028
+  module: 15
+  lesson: "15.4"
+  subject: interrogatories
+  difficulty: 2
+  question: >-
+    Spot the mistake: an interrogatory asks "Do you admit that your conduct was dishonest and that
+    you owe me ₪40,000?" What is wrong with it?
+  options:
+    - >-
+      Nothing; questions may ask for admissions of liability.
+    - >-
+      It should have been sent by the court, not by a party.
+    - >-
+      It is too short to count as a proper interrogatory.
+    - >-
+      It asks for conclusions, not for a relevant fact.
+  correct: 3
+  explanation: >-
+    Interrogatories ask relevant factual questions (reg. 56(א)); it is not enough that a question
+    would be allowed in cross-examination. Questions about legal conclusions and characterisations
+    invite objection.
+- id: m15-029
+  module: 15
+  lesson: "15.4"
+  subject: disclosure
+  difficulty: 1
+  question: >-
+    Which documents must your disclosure affidavit list?
+  options:
+    - >-
+      All relevant ones you hold or control, explaining any no longer held.
+    - >-
+      Only the documents you intend to rely on at the trial itself.
+    - >-
+      Only the documents the other side asked for in writing beforehand.
+    - >-
+      Only original documents, not copies, emails or text messages.
+  correct: 0
+  explanation: >-
+    Reg. 57: the affidavit verifies a list of all documents relevant to the issues that are or were
+    in the party's possession or control and found after reasonable inquiry, with the circumstances
+    of those no longer held.
+- id: m15-030
+  module: 15
+  lesson: "15.4"
+  subject: privilege
+  difficulty: 3
+  question: >-
+    You emailed your lawyer about the dispute before suing. The defendant asks for "all your emails
+    about the dispute". What applies to the emails with your lawyer?
+  options:
+    - >-
+      They must be disclosed, because the duty of disclosure overrides privilege.
+    - >-
+      Privileged: list them as such; the court may inspect if disputed.
+    - >-
+      They may be deleted, because they are private communications.
+    - >-
+      They are privileged only if the lawyer also represents you at trial.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 48 protects lawyer–client communications related to the professional
+    service unless the client waives. Privilege is claimed item by item; reg. 59(ב) lets the court
+    inspect.
+- id: m15-031
+  module: 15
+  lesson: "15.4"
+  subject: disclosure-sanctions
+  difficulty: 3
+  question: >-
+    Bar-style: Mid-trial it emerges that the defendant hid an internal email admitting the defect.
+    What is the strongest remedy the plaintiff can seek?
+  options:
+    - >-
+      Exclusion of the email, so the defendant cannot use it.
+    - >-
+      A new trial before another judge.
+    - >-
+      Striking out the defence, or at least costs.
+    - >-
+      A criminal complaint as the only remedy.
+  correct: 2
+  explanation: >-
+    Reg. 60(ג): where a party hides a document that harms its case, the court may strike out its
+    pleading, and if it does not, order costs unless there are special reasons. Exclusion is the
+    remedy for a hidden document that helps the party who hid it.
+- id: m15-032
+  module: 15
+  lesson: "15.4"
+  subject: fast-track-disclosure
+  difficulty: 2
+  question: >-
+    In a fast-track case, the defendant sends you a 20-question interrogatory. What is the position?
+  options:
+    - >-
+      You must answer it by affidavit within 30 days of receiving it.
+    - >-
+      You must answer only the first 10 questions, the fast-track cap.
+    - >-
+      You answer the questions orally at the single pre-trial hearing.
+    - >-
+      Disclosure, including interrogatories, does not apply there.
+  correct: 3
+  explanation: >-
+    Reg. 79(ב): chapter 9 (disclosure), except the court's power to inspect privileged documents,
+    does not apply to fast-track claims; documents are attached to the pleadings instead.
+- id: m15-033
+  module: 15
+  lesson: "15.4"
+  subject: duty-to-create-accounts
+  difficulty: 3
+  question: >-
+    A former business partner holds all the partnership's records. You need an account of profits
+    that does not yet exist. Can you make him prepare it in discovery?
+  options:
+    - >-
+      Possibly, given a strong cause and a fiduciary relationship.
+    - >-
+      Never; discovery covers only existing documents.
+    - >-
+      Always; any party can be ordered to prepare any account.
+    - >-
+      Only if the Companies Registrar orders it.
+  correct: 0
+  explanation: >-
+    As a rule a party need not create documents to answer discovery, but ע״א 127/95 מועצת הפירות נ׳
+    מהדרין recognised an exception for a strong cause and a special relationship such as a fiduciary
+    one.
+- id: m15-034
+  module: 15
+  lesson: "15.5"
+  subject: interim-relief-test
+  difficulty: 1
+  question: >-
+    Which is NOT one of the considerations listed in reg. 95(ד) for interim relief?
+  options:
+    - >-
+      The balance of harm to the applicant, the respondent and others.
+    - >-
+      Whether a less harmful order would achieve the purpose.
+    - >-
+      The applicant's income compared with the respondent's.
+    - >-
+      Good faith and whether the applicant delayed.
+  correct: 2
+  explanation: >-
+    Reg. 95(ד) lists the balance of harms (including third parties and the public), the availability
+    of a less harmful remedy, and the parties' good faith and delay. Relative wealth is not a listed
+    factor.
+- id: m15-035
+  module: 15
+  lesson: "15.5"
+  subject: undertaking-security
+  difficulty: 2
+  question: >-
+    You obtained a temporary injunction stopping your neighbour's building works. At trial you lose.
+    The neighbour lost ₪80,000 from the delay. What protects him?
+  options:
+    - >-
+      Nothing; a court order cannot give rise to damages.
+    - >-
+      Your undertaking and the security you gave.
+    - >-
+      The State's insurance fund for wrongful court orders.
+    - >-
+      Only a new tort claim against you in negligence.
+  correct: 1
+  explanation: >-
+    Reg. 96: every interim order is conditional on an unlimited self-undertaking and security to
+    compensate for damage if the order lapses or is narrowed. The respondent claims within 90 days
+    of expiry, or the security is returned (reg. 101).
+- id: m15-036
+  module: 15
+  lesson: "15.5"
+  subject: ex-parte
+  difficulty: 2
+  question: >-
+    An ex parte temporary injunction (not an attachment) was granted against you on Monday. When
+    must the court hold a hearing with both sides, as a rule?
+  options:
+    - >-
+      Only after the respondent has filed its defence to the claim.
+    - >-
+      At the first pre-trial hearing, together with other motions.
+    - >-
+      Within 30 days of the respondent's request for a hearing.
+    - >-
+      Promptly, within a short set period, recess included.
+  correct: 3
+  explanation: >-
+    Reg. 97(ה): an ex parte temporary order (other than attachment or evidence seizure) must set an
+    inter partes hearing as soon as possible and within the set period; recess days count.
+- id: m15-037
+  module: 15
+  lesson: "15.5"
+  subject: attachment
+  difficulty: 1
+  question: >-
+    What specific condition must be shown for a temporary attachment in a money claim?
+  options:
+    - >-
+      Reasonable fear that enforcement will be substantially harder.
+    - >-
+      That the defendant has a criminal record for fraud or theft.
+    - >-
+      That the claim exceeds the fast-track ceiling on filing day.
+    - >-
+      That the defendant is a foreign resident with no assets here.
+  correct: 0
+  explanation: >-
+    Reg. 103(א): in a money claim the court may attach the respondent's assets if satisfied there is
+    a reasonable fear that not doing so will substantially burden the enforcement of the judgment.
+- id: m15-038
+  module: 15
+  lesson: "15.5"
+  subject: exit-ban
+  difficulty: 1
+  question: >-
+    For how long may an order barring a defendant from leaving Israel be given?
+  options:
+    - >-
+      Until the judgment is given, however long the case takes.
+    - >-
+      For up to one year, renewable by a new order.
+    - >-
+      For up to six months, with no possibility of renewal.
+    - >-
+      For up to five years, or until the debt is paid.
+  correct: 1
+  explanation: >-
+    Reg. 124(ג): an exit ban is given for one year at most; the court may extend it by a new order
+    for up to a year each time. The respondent can lift it by giving security (reg. 127).
+- id: m15-039
+  module: 15
+  lesson: "15.5"
+  subject: anton-piller
+  difficulty: 3
+  question: >-
+    A software company believes a former employee copied its source code and will delete it if
+    warned. Which order fits, and how is it heard?
+  options:
+    - >-
+      An exit ban on the employee, heard with both sides present.
+    - >-
+      A temporary receiver over the employee's salary, heard ex parte.
+    - >-
+      Evidence seizure, ex parte as a rule, with computer-search safeguards.
+    - >-
+      An interrogatory to the employee, answered within 30 days.
+  correct: 2
+  explanation: >-
+    Reg. 123 allows appointing a person to search, copy or seize evidence where there is a real fear
+    it will be hidden or destroyed; such orders are heard ex parte as a rule (reg. 97(ג)), and
+    computer searches need express permission and a skilled officer (reg. 116, via reg. 123(ג)).
+- id: m15-040
+  module: 15
+  lesson: "15.5"
+  subject: security-for-costs
+  difficulty: 2
+  question: >-
+    You, an individual, sue a company. The company asks the court to order you to give security for
+    its costs because your claim "may fail". What is the likely approach?
+  options:
+    - >-
+      Security is ordered against every plaintiff as a matter of course.
+    - >-
+      Security can be ordered only against companies, never individuals.
+    - >-
+      Security for costs can be ordered only in the Supreme Court.
+    - >-
+      Against an individual it is discretionary and the exception.
+  correct: 3
+  explanation: >-
+    Reg. 157 gives the court a discretion to order security for costs; for individuals it is the
+    exception because it burdens access to court. Companies Law s. 353א sets a near-presumption only
+    for limited companies.
+- id: m15-041
+  module: 15
+  lesson: "15.5"
+  subject: pre-claim-relief
+  difficulty: 2
+  question: >-
+    You get a temporary attachment before filing your claim, and forget to file within seven days.
+    What happens?
+  options:
+    - >-
+      The order lapses, unless the court set a different period.
+    - >-
+      The order stays in force until the defendant objects.
+    - >-
+      The order converts into a judgment for the attached sum.
+    - >-
+      The court files the claim on your behalf.
+  correct: 0
+  explanation: >-
+    Reg. 95(ג) requires the claim within seven days of a pre-claim order or another period the court
+    sets; reg. 100(3) makes the order lapse otherwise.
+- id: m15-042
+  module: 15
+  lesson: "15.6"
+  subject: preliminary-discussion
+  difficulty: 1
+  question: >-
+    Who must hold the preliminary discussion under reg. 35?
+  options:
+    - >-
+      All parties, including those without a lawyer.
+    - >-
+      Only the judge and the plaintiff, before trial.
+    - >-
+      The parties, except an unrepresented party.
+    - >-
+      Only the mediator appointed by the court.
+  correct: 2
+  explanation: >-
+    Reg. 35(א): within the set period after the last pleading the parties hold a preliminary
+    discussion, "except a party not represented by a lawyer".
+- id: m15-043
+  module: 15
+  lesson: "15.6"
+  subject: mahut
+  difficulty: 2
+  question: >-
+    A company is a party in a claim above the mediation-intake threshold. Who must attend the
+    meeting for it?
+  options:
+    - >-
+      Any employee, even one who knows nothing of the dispute.
+    - >-
+      An officer who knows the dispute and can agree to mediate.
+    - >-
+      Only its lawyer, without any company representative present.
+    - >-
+      No one; companies are exempt from the mediation-intake meeting.
+  correct: 1
+  explanation: >-
+    Reg. 37(ט)(2): a corporation sends a representative familiar with the dispute and with authority
+    to agree to mediation, and may bring a lawyer.
+- id: m15-044
+  module: 15
+  lesson: "15.6"
+  subject: list-of-motions
+  difficulty: 2
+  question: >-
+    Which motion may be filed between the last pleading and the first pre-trial hearing without
+    waiting for the list of motions?
+  options:
+    - >-
+      A motion to compel answers to an interrogatory.
+    - >-
+      A motion to strike out paragraphs of the defence.
+    - >-
+      A motion for costs on a previous request.
+    - >-
+      A motion for interim relief.
+  correct: 3
+  explanation: >-
+    Reg. 49(א) lists the motions allowed in that period; interim relief is first (reg. 49(א)(1)).
+    Disclosure disputes go on the list of motions (reg. 59(א), reg. 49(ג)).
+- id: m15-045
+  module: 15
+  lesson: "15.6"
+  subject: pre-trial-powers
+  difficulty: 2
+  question: >-
+    Which power does the judge NOT have at a pre-trial hearing under reg. 63(ב)?
+  options:
+    - >-
+      Appointing a court expert to examine the dispute.
+    - >-
+      Proposing a compromise to the parties at the hearing.
+    - >-
+      Imposing a settlement without the parties' consent.
+    - >-
+      Deciding whether main testimony is oral or written.
+  correct: 2
+  explanation: >-
+    Reg. 63(ב) includes appointing an expert, deciding the form of testimony and proposing a
+    compromise or decision by way of compromise; a decision by way of compromise needs the parties'
+    consent (Courts Law s. 79א(א)).
+- id: m15-046
+  module: 15
+  lesson: "15.6"
+  subject: postponement
+  difficulty: 2
+  question: >-
+    Both sides agree to postpone the evidence hearing because they are negotiating. Under reg. 175א,
+    how is the request likely to be treated?
+  options:
+    - >-
+      As a rule refused: consent and talks are not enough.
+    - >-
+      Granted automatically, because both sides agree to it.
+    - >-
+      Granted if filed by email directly to the judge's office.
+    - >-
+      Granted for up to one year while negotiations continue.
+  correct: 0
+  explanation: >-
+    Reg. 175א(ג): convenience, the parties' consent, workload, or negotiations and mediation lasting
+    beyond the limit are not, as a rule, sufficient grounds to change a hearing date.
+- id: m15-047
+  module: 15
+  lesson: "15.6"
+  subject: fast-track
+  difficulty: 1
+  question: >-
+    Which of these claims does NOT go to the fast track under reg. 78, whatever its value?
+  options:
+    - >-
+      A ₪30,000 claim for an unpaid invoice.
+    - >-
+      A personal-injury claim of ₪50,000.
+    - >-
+      A claim to evict a tenant.
+    - >-
+      A ₪70,000 claim for a defective car.
+  correct: 1
+  explanation: >-
+    Reg. 78(א)(1) excludes class actions, road-accident claims and personal-injury claims (including
+    insurance claims for bodily injury); eviction claims are on the fast track under reg. 78(א)(2).
+- id: m15-048
+  module: 15
+  lesson: "15.6"
+  subject: eviction-claim
+  difficulty: 3
+  question: >-
+    Bar-style: A landlord files one claim to evict the tenant and for ₪45,000 unpaid rent. What is
+    the procedural problem?
+  options:
+    - >-
+      None; eviction and unpaid rent may always be combined in one claim.
+    - >-
+      The claim must go to the district court because rent is included.
+    - >-
+      The tenant must first be served through the Execution Office.
+    - >-
+      An eviction claim may not add other remedies; sue for rent separately.
+  correct: 3
+  explanation: >-
+    Reg. 81(א): an eviction claim on the fast track may not contain additional remedies; the
+    landlord may sue for them in a separate proceeding without leave. Reg. 81 also bars
+    counterclaims and third-party notices and skips the pre-trial.
+- id: m15-049
+  module: 15
+  lesson: "15.6"
+  subject: fast-track-judgment
+  difficulty: 2
+  question: >-
+    When must the court give judgment in a fast-track case?
+  options:
+    - >-
+      At the end of the hearing, at the latest within 14 days.
+    - >-
+      Within 90 days of the hearing, as in every civil case.
+    - >-
+      Within six months of the last defence being filed.
+    - >-
+      Only after the parties file written summations.
+  correct: 0
+  explanation: >-
+    Reg. 82(א): at the end of the hearing and at the latest within 14 days, unless the court's
+    president approved a later date; reasons are brief unless the case breaks new ground (reg.
+    82(ב)).
+- id: m15-050
+  module: 15
+  lesson: "15.7"
+  subject: affidavit
+  difficulty: 1
+  question: >-
+    Before whom may the warning on an affidavit be given and confirmed under Evidence Ordinance s.
+    15?
+  options:
+    - >-
+      Any adult witness who knows the deponent personally.
+    - >-
+      A lawyer, a judge or another person listed or authorised.
+    - >-
+      Only a notary public licensed under the Notaries Law.
+    - >-
+      Only the court clerk at the registry of the court.
+  correct: 1
+  explanation: >-
+    s. 15(ב) lists who may give and confirm the warning: a judge, a religious-court judge, listed
+    State attorneys, a lawyer, a local authority head, or a person the Minister of Justice
+    authorised.
+- id: m15-051
+  module: 15
+  lesson: "15.7"
+  subject: oral-vs-written
+  difficulty: 2
+  question: >-
+    In a ₪200,000 contract dispute in the magistrates' court with two key witnesses whose
+    credibility is in issue, how is the court likely to hear main testimony?
+  options:
+    - >-
+      Always by affidavit, because the Regulations require it.
+    - >-
+      Only by written questionnaires sent to each witness.
+    - >-
+      With a preference for oral testimony, which helps here.
+    - >-
+      By video only, to save the court's time and costs.
+  correct: 2
+  explanation: >-
+    Reg. 67(א): the court decides oral or written main testimony, giving preference to oral
+    testimony where it helps find the truth and run the hearing efficiently. The preference for
+    writing in reg. 67(ב) applies to large district-court cases.
+- id: m15-052
+  module: 15
+  lesson: "15.7"
+  subject: re-examination
+  difficulty: 2
+  question: >-
+    After cross-examination, may you use re-examination to introduce a new topic you forgot in
+    chief?
+  options:
+    - >-
+      Yes, re-examination may cover any topic at all.
+    - >-
+      Yes, if the other side does not object to it at once.
+    - >-
+      Only with the witness's own consent to further questions.
+    - >-
+      No; only unclear matters arising from cross-examination.
+  correct: 3
+  explanation: >-
+    Reg. 67(ג): the party who called the witness may re-examine on matters arising from the
+    cross-examination that remain unclear.
+- id: m15-053
+  module: 15
+  lesson: "15.7"
+  subject: expert-evidence
+  difficulty: 1
+  question: >-
+    In a construction-defects claim on the ordinary track, when must the plaintiff file its
+    engineer's opinion, unless the court orders otherwise?
+  options:
+    - >-
+      A set period before the evidence hearing.
+    - >-
+      Only together with the statement of claim.
+    - >-
+      At any time during the trial, with leave.
+    - >-
+      Only if the court appoints its own expert.
+  correct: 0
+  explanation: >-
+    Reg. 87(ה): for non-medical matters, the opinion is filed not later than a set period before the
+    evidence hearing; the other side's opinion follows under reg. 87(ו). Medical opinions are
+    attached to the pleading (reg. 87(א)).
+- id: m15-054
+  module: 15
+  lesson: "15.7"
+  subject: court-expert
+  difficulty: 3
+  question: >-
+    The parties agreed to appoint a court expert. One side now wants to rely on its own expert's
+    earlier opinion. What is the default rule?
+  options:
+    - >-
+      Both opinions are weighed by the court equally.
+    - >-
+      Earlier party opinions are treated as not admitted.
+    - >-
+      The party opinion prevails if it was filed first.
+    - >-
+      The court expert must adopt the earlier opinion.
+  correct: 1
+  explanation: >-
+    Reg. 88(ד): consent to a court expert is treated as a procedural agreement under which party
+    experts' opinions are not filed and earlier ones are treated as not admitted, unless the court
+    orders otherwise.
+- id: m15-055
+  module: 15
+  lesson: "15.7"
+  subject: non-appearance
+  difficulty: 2
+  question: >-
+    The defendant does not appear at the evidence hearing without excuse; the plaintiff does. What
+    may happen?
+  options:
+    - >-
+      The claim is struck out because the hearing cannot go ahead.
+    - >-
+      The court must postpone the hearing and summon the defendant.
+    - >-
+      The plaintiff may prove the claim and get what the evidence shows.
+    - >-
+      The court gives judgment for the full sum without any evidence.
+  correct: 2
+  explanation: >-
+    Reg. 75(2): if the defendant does not appear and the plaintiff does, the plaintiff may prove its
+    claim and is entitled to the relief supported by the evidence received.
+- id: m15-056
+  module: 15
+  lesson: "15.7"
+  subject: open-court
+  difficulty: 2
+  question: >-
+    A party asks for a closed hearing in a contract case because the evidence will embarrass him.
+    What is the likely answer?
+  options:
+    - >-
+      Granted, because embarrassment is a statutory ground for closing.
+    - >-
+      Granted, because civil cases are heard in camera by default.
+    - >-
+      Granted if both parties agree to it, without any further reason.
+    - >-
+      Refused, unless a ground in Courts Law s. 68(ב) applies.
+  correct: 3
+  explanation: >-
+    s. 68(א): courts sit in public; s. 68(ב) lists grounds such as protecting a minor, a
+    sexual-offence complainant, trade secrets or a deterred witness. Embarrassment is not one of
+    them.
+- id: m15-057
+  module: 15
+  lesson: "15.7"
+  subject: digital-evidence
+  difficulty: 1
+  question: >-
+    You want to play a video recording at the hearing. What must you do?
+  options:
+    - >-
+      Notify the court at least three days before the hearing.
+    - >-
+      Nothing; you may play it on your phone in court.
+    - >-
+      File the original device with the registry a month before.
+    - >-
+      Ask the other side's consent only.
+  correct: 0
+  explanation: >-
+    Reg. 71: a party who wants to present evidence in electronic or digital media notifies the court
+    at least three days before the hearing, in the format the Courts Director sets.
+- id: m15-058
+  module: 15
+  lesson: "15.8"
+  subject: appeal-routes
+  difficulty: 1
+  question: >-
+    A magistrates' court gave final judgment in a civil claim. How may the losing party challenge
+    it?
+  options:
+    - >-
+      By leave to appeal to the Supreme Court.
+    - >-
+      By appeal as of right to the district court.
+    - >-
+      Only by a request for a further hearing.
+    - >-
+      By a petition to the High Court of Justice.
+  correct: 1
+  explanation: >-
+    Courts Law s. 52(א): a magistrates' court judgment is appealable as of right to the district
+    court.
+- id: m15-059
+  module: 15
+  lesson: "15.8"
+  subject: leave-interim
+  difficulty: 3
+  question: >-
+    What test does Courts Law s. 52(ב) set for leave to appeal an interim decision of a magistrates'
+    court?
+  options:
+    - >-
+      That the decision is clearly wrong on its face.
+    - >-
+      That the case is of general public importance.
+    - >-
+      That waiting would cause real harm or a wasted process.
+    - >-
+      That the other side consents to an immediate appeal.
+  correct: 2
+  explanation: >-
+    s. 52(ב) gives leave only if hearing the appeal with the final appeal would substantially affect
+    the parties' rights, cause real harm, or lead to an unnecessary or misdirected proceeding.
+- id: m15-060
+  module: 15
+  lesson: "15.8"
+  subject: no-leave-order
+  difficulty: 3
+  question: >-
+    Bar-style: Which of these interim decisions is open to an application for leave to appeal?
+  options:
+    - >-
+      A decision setting the date of the evidence hearing.
+    - >-
+      A decision granting a set-aside request.
+    - >-
+      A decision on the length of pleadings.
+    - >-
+      A decision refusing to summon a witness.
+  correct: 3
+  explanation: >-
+    The 2009 no-leave order bars leave on setting dates (item 1), granting set-aside (item 7) and
+    the length of pleadings (item 3), but item 5 excepts a decision refusing to summon a witness or
+    admit evidence.
+- id: m15-061
+  module: 15
+  lesson: "15.8"
+  subject: appeal-deadline
+  difficulty: 2
+  question: >-
+    A judgment was served on you during the court summer recess. How do you count the 60-day appeal
+    period?
+  options:
+    - >-
+      From service, without counting recess days.
+    - >-
+      From the day the judgment was signed, including recess.
+    - >-
+      From the end of the recess, plus 30 days.
+    - >-
+      From the day you paid the judgment.
+  correct: 0
+  explanation: >-
+    Reg. 137(א) runs the period from service; reg. 179(ב) excludes court recess from periods set by
+    the Regulations unless the court orders otherwise.
+- id: m15-062
+  module: 15
+  lesson: "15.8"
+  subject: appeal-security
+  difficulty: 1
+  question: >-
+    What must an appellant do about security for the respondent's costs?
+  options:
+    - >-
+      Nothing, unless the respondent asks the court for it.
+    - >-
+      Deposit the scheduled sum on filing and notify the respondent.
+    - >-
+      Pay it directly to the respondent's lawyer on filing.
+    - >-
+      Deposit it only if the appeal is later dismissed.
+  correct: 1
+  explanation: >-
+    Reg. 135(א): on filing, the appellant deposits security in the Third Schedule amount and serves
+    notice on the respondent; the court may exempt or vary, and may strike out the appeal if it is
+    not given.
+- id: m15-063
+  module: 15
+  lesson: "15.8"
+  subject: new-evidence-appeal
+  difficulty: 2
+  question: >-
+    After losing, you find a document you could have obtained before the trial with a phone call.
+    Will the appeal court admit it?
+  options:
+    - >-
+      Yes, any relevant new document is admitted on appeal.
+    - >-
+      Yes, provided the other side does not object to it.
+    - >-
+      Unlikely: it was findable with reasonable diligence.
+    - >-
+      Only if the trial judge agrees to its admission.
+  correct: 2
+  explanation: >-
+    Reg. 144: no new evidence on appeal, unless it may affect the result and either could not be
+    found with reasonable diligence or is needed to prevent a miscarriage of justice.
+- id: m15-064
+  module: 15
+  lesson: "15.8"
+  subject: costs
+  difficulty: 3
+  question: >-
+    You won your claim but delayed the case with repeated postponement requests and abusive letters.
+    What may the court do about costs?
+  options:
+    - >-
+      Award you full costs, because costs follow the result.
+    - >-
+      Order the State to pay your costs.
+    - >-
+      Award costs only to the losing party.
+    - >-
+      Reduce or deny your costs because of your conduct.
+  correct: 3
+  explanation: >-
+    Reg. 151(א) makes conduct part of the costs decision and reg. 153(ג) includes the way the
+    parties conducted the case; the Supreme Court in Lower (רע״א 6793/08) held a winner who
+    conducted the case improperly may not get full costs, if any.
+- id: m15-065
+  module: 15
+  lesson: "15.8"
+  subject: further-hearing
+  difficulty: 3
+  question: >-
+    When may the Supreme Court grant a further hearing (דיון נוסף) under Courts Law s. 30?
+  options:
+    - >-
+      On conflict with earlier Supreme Court law, or importance or novelty.
+    - >-
+      Whenever the losing party shows an error of fact in the ruling.
+    - >-
+      Whenever a district court openly disagrees with the ruling.
+    - >-
+      Only with the written consent of all parties to the appeal.
+  correct: 0
+  explanation: >-
+    s. 30(ב): on request, a further hearing before five or more justices may be granted if the
+    ruling contradicts an earlier Supreme Court ruling or its importance, difficulty or novelty
+    justifies it.
+- id: m15-066
+  module: 15
+  lesson: "15.9"
+  subject: limitation-periods
+  difficulty: 1
+  question: >-
+    What is the general limitation period for a civil claim not concerning land?
+  options:
+    - >-
+      Three years.
+    - >-
+      Seven years.
+    - >-
+      Fifteen years.
+    - >-
+      Twenty-five years.
+  correct: 1
+  explanation: >-
+    Prescription Law s. 5(1): seven years; land claims fifteen years, or twenty-five for land
+    registered after settlement of title (s. 5(2)).
+- id: m15-067
+  module: 15
+  lesson: "15.9"
+  subject: discoverability
+  difficulty: 2
+  question: >-
+    You discover in 2026 that a contractor hid defective foundations in 2017 by covering them with
+    concrete. Which provisions may help you?
+  options:
+    - >-
+      None; seven years from 2017 have already passed.
+    - >-
+      Only s. 10, which suspends the period during minority.
+    - >-
+      Ss. 7 and 8: concealment and late knowledge of facts.
+    - >-
+      Only s. 21, which deals with limitation of judgments.
+  correct: 2
+  explanation: >-
+    s. 8 starts the period when hidden facts became known, if reasonable care could not have
+    revealed them; s. 7 suspends the period while the defendant knowingly misled the plaintiff,
+    including by knowingly hiding a fact of the cause.
+- id: m15-068
+  module: 15
+  lesson: "15.9"
+  subject: suspension
+  difficulty: 2
+  question: >-
+    You were 15 when a cause of action arose in your favour. When does the seven-year period end, as
+    a rule?
+  options:
+    - >-
+      Seven years after the cause arose.
+    - >-
+      When you turn 21.
+    - >-
+      When you turn 28.
+    - >-
+      Seven years after you turn 18.
+  correct: 3
+  explanation: >-
+    Prescription Law s. 10: time before the plaintiff turned 18 is not counted. For claims of sexual
+    assault or abuse of a minor, s. 18א extends this to age 28.
+- id: m15-069
+  module: 15
+  lesson: "15.9"
+  subject: limitation-procedure
+  difficulty: 2
+  question: >-
+    Where should a defendant raise limitation in a defence under the 2018 Regulations?
+  options:
+    - >-
+      First in the summary, among the preliminary arguments.
+    - >-
+      Only at the end of the detailed statement of the defence.
+    - >-
+      Orally at the first pre-trial hearing, if the judge allows.
+    - >-
+      In a separate letter sent to the plaintiff before trial.
+  correct: 0
+  explanation: >-
+    Reg. 13(1) puts preliminary arguments first in the defence summary, reg. 28 requires them in the
+    defence, and Prescription Law s. 3 requires limitation at the first opportunity.
+- id: m15-070
+  module: 15
+  lesson: "15.9"
+  subject: set-off
+  difficulty: 3
+  question: >-
+    Bar-style: A landlord sues for rent; the tenant counterclaims for a 2016 repair debt from the
+    same lease. The main claim is in time; the landlord pleads limitation against the counterclaim.
+    What does s. 4 provide?
+  options:
+    - >-
+      Limitation always applies to counterclaims, like any other claim.
+    - >-
+      It cannot be pleaded against a counterclaim on the same subject.
+    - >-
+      Counterclaims are never subject to limitation in any case.
+    - >-
+      The counterclaim must be filed in a separate court proceeding.
+  correct: 1
+  explanation: >-
+    Prescription Law s. 4: in a claim that is not time-barred (or where limitation was not pleaded),
+    limitation cannot be raised against a set-off or counterclaim with the same subject or arising
+    from the same circumstances.
+- id: m15-071
+  module: 15
+  lesson: "15.9"
+  subject: laches
+  difficulty: 2
+  question: >-
+    You file a civil claim six years after the cause arose, within the limitation period. The
+    defendant argues laches. What is the usual outcome?
+  options:
+    - >-
+      Dismissal, because any delay in suing amounts to laches.
+    - >-
+      Transfer of the claim to the administrative affairs court.
+    - >-
+      It proceeds unless near bad faith worsened the defendant's position.
+    - >-
+      The claim is reduced by one-seventh for each year of delay.
+  correct: 2
+  explanation: >-
+    Prescription Law s. 27 preserves the power to dismiss for laches, but within the period the
+    defendant carries a heavy burden (ע״א 6805/99 תלמוד תורה הכללי).
+- id: m15-072
+  module: 15
+  lesson: "15.10"
+  subject: pleading-review
+  difficulty: 2
+  question: >-
+    Spot the mistake in a claim's heading: "Defendant: 'Kitchens of the Sharon' (trade name), Kfar
+    Saba." What is wrong?
+  options:
+    - >-
+      The heading should not name the defendant at all, only the summary.
+    - >-
+      Defendants are named only in part three, with their addresses.
+    - >-
+      A trade name is fine; the registry will look up the company itself.
+    - >-
+      It needs the registered company name, number and address.
+  correct: 3
+  explanation: >-
+    Reg. 10(5)–(7) requires the defendant's name and ID number if obtainable, address, and the fact
+    it is a corporation. A judgment against a trade name is hard to enforce; check the Companies
+    Registrar.
+- id: m15-073
+  module: 15
+  lesson: "15.10"
+  subject: counterclaim
+  difficulty: 2
+  question: >-
+    In a magistrates' court claim for ₪90,000, the defendant wants to counterclaim ₪3 million
+    arising from the same contract. Can the magistrates' court hear it?
+  options:
+    - >-
+      Yes; a counterclaim on the same subject is heard whatever its value.
+    - >-
+      No; it must go to the district court and the main claim with it.
+    - >-
+      Only up to the magistrates' court ceiling, the rest is lost.
+    - >-
+      Only if the plaintiff consents in writing to the counterclaim.
+  correct: 0
+  explanation: >-
+    Courts Law s. 51(א)(4) gives the magistrates' court jurisdiction over a counterclaim with the
+    same subject or arising from the same circumstances, whatever its value.
+- id: m15-074
+  module: 15
+  lesson: "15.11"
+  subject: motion-drafting
+  difficulty: 2
+  question: >-
+    Spot the mistake: a motion to extend time opens with three pages of background and states the
+    relief sought in the last line. What is the main problem?
+  options:
+    - >-
+      Motions must be oral.
+    - >-
+      The relief should come first, precisely stated.
+    - >-
+      Extensions cannot be requested in writing.
+    - >-
+      The background should be in the affidavit only.
+  correct: 1
+  explanation: >-
+    A written motion should state the relief at the outset and keep to the page limits of reg.
+    50(5); the facts are verified by affidavit (reg. 50(1)). Judges read the first lines first.
+- id: m15-075
+  module: 15
+  lesson: "15.11"
+  subject: appeal-grounds
+  difficulty: 3
+  question: >-
+    Which ground of appeal is least likely to succeed?
+  options:
+    - >-
+      The court counted the limitation period without the s. 15א suspension.
+    - >-
+      The court applied a repealed regulation.
+    - >-
+      The judge believed the defendant's witness rather than yours.
+    - >-
+      The judgment ignores a signed admission in the defendant's own exhibit.
+  correct: 2
+  explanation: >-
+    Appeal courts rarely interfere with credibility findings (ע״א 1530/02 מנורה); errors of law and
+    failure to address material evidence are reviewable.

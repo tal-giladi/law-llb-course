@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    In a magistrates' court case the judge refuses your request to extend the time to file expert
+    evidence by two weeks. You think this will cripple your case. Can you challenge it now?
+  options:
+    - >-
+      Yes, by an appeal as of right to the district court within 60 days.
+    - >-
+      Yes, by leave to appeal, because any interim decision may be reviewed at once.
+    - >-
+      Not now: leave is barred on time decisions; raise it on final appeal.
+    - >-
+      No; such decisions can never be challenged at any stage of the case.
+  correct: 2
+  explanation: >-
+    The 2009 no-leave order bars leave on decisions setting or changing dates and filing times (items
+    1–2); s. 2 of the order and reg. 150 keep the right to raise them in the appeal against the final
+    judgment.
+- id: q2
+  question: >-
+    The district court, sitting as an appeal court, dismissed your appeal from a magistrates' court
+    judgment about your contract with a contractor. You want to go to the Supreme Court. What is the
+    realistic test?
+  options:
+    - >-
+      Leave is given only if the case raises a legal or public issue beyond the parties.
+    - >-
+      You may appeal as of right, because a district court judgment is always appealable.
+    - >-
+      Leave is given whenever the district court made an error of fact.
+    - >-
+      Leave is given automatically if the district judge was alone, not a panel.
+  correct: 0
+  explanation: >-
+    Courts Law s. 41(ב) requires leave for a district court judgment on appeal; Haniyon Haifa (ר״ע
+    103/82), now reflected in reg. 148א, limits third-instance leave to issues of legal or public
+    importance beyond the parties, or to prevent a miscarriage of justice.
+- id: q3
+  question: >-
+    You lost in the magistrates' court and filed an appeal. The plaintiff opens an execution file the
+    next week. What is the position?
+  options:
+    - >-
+      The execution file is void, because filing an appeal stays the judgment automatically.
+    - >-
+      The Execution Office must freeze the file once it sees the appeal number.
+    - >-
+      The plaintiff must deposit security before enforcing a judgment under appeal.
+    - >-
+      Execution may proceed unless you obtain a stay from the court, usually on conditions.
+  correct: 3
+  explanation: >-
+    Reg. 145(א): filing an appeal does not stay execution. A stay may be granted by the lower court or
+    the appeal court on conditions, with an undertaking and security (reg. 145(ב)–(ד), reg. 96).
+- id: q4
+  question: >-
+    The defendant appealed the judgment against it. You won but think the damages were too low. When
+    may you cross-appeal?
+  options:
+    - >-
+      Only within 60 days of service of the judgment, like any appeal.
+    - >-
+      Within 60 days of the latest of the appeal, security notice or exemption.
+    - >-
+      At any time before the appeal hearing, by an oral request to the panel.
+    - >-
+      Never, because a party who won the case in the court below cannot appeal.
+  correct: 1
+  explanation: >-
+    Reg. 137(ב) gives a respondent 60 days from the latest of service of the appeal, of notice of the
+    security deposit, or of an exemption decision. It does not apply to leave applications (reg. 149(5)).

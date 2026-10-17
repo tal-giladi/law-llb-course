@@ -1,0 +1,73 @@
+- id: q1
+  question: >-
+    You live in Be'er Sheva. A Tel Aviv company that sold you a sofa online (you are a consumer)
+    sues you for the unpaid balance. Where may the company file the claim?
+  options:
+    - >-
+      In Tel Aviv, because a trader may always sue where its own business is located.
+    - >-
+      In any district, because online sales have no physical place of the act.
+    - >-
+      Only where you live or do business, because a trader suing over online trade is limited.
+    - >-
+      In Jerusalem, because no venue rule fits an internet transaction.
+  correct: 2
+  explanation: >-
+    Reg. 7(ב) lets either party's home or business serve as venue for internet trade, but a trader
+    under the Consumer Protection Law suing over such a transaction must sue where the defendant lives
+    or does business.
+- id: q2
+  question: >-
+    Your car was damaged by a garage. You sue for ₪18,000 repair costs and plan to sue next year for
+    the ₪6,000 loss of value, "so the first case stays simple". What is the risk?
+  options:
+    - >-
+      None, because loss of value is a separate cause of action from the repair.
+    - >-
+      You may lose the ₪6,000, because the full remedy for one cause must be claimed at once.
+    - >-
+      The second claim will simply be joined to the first by the court registry.
+    - >-
+      You must pay a double court fee, but both claims will be heard.
+  correct: 1
+  explanation: >-
+    Reg. 25(א): a plaintiff must claim the full remedy for the cause of action and cannot later sue
+    for the part not claimed. The way out is a request to split remedies, decided by the end of the
+    pre-trial stage (reg. 25(ב)–(ג)).
+- id: q3
+  question: >-
+    A contractor is sued by a homeowner for a leak and believes the subcontractor plumber is to
+    blame. On the ordinary track, what should the contractor do and by when?
+  options:
+    - >-
+      Ask the plaintiff to amend the claim and add the plumber as a second defendant.
+    - >-
+      Wait for judgment and then sue the plumber in a separate claim for indemnity.
+    - >-
+      Raise the plumber's fault orally at the first pre-trial hearing.
+    - >-
+      Issue a third-party notice against the plumber within the time for filing the defence.
+  correct: 3
+  explanation: >-
+    Reg. 22 allows a third-party notice for contribution or indemnity, and reg. 23(ב) requires it to
+    be filed within the defence period of reg. 9(ב). A later separate claim is possible but risks
+    inconsistent findings and extra cost.
+- id: q4
+  question: >-
+    You are sued in the Haifa magistrates' court, but your contract has an exclusive clause for Tel
+    Aviv courts. You filed a defence on the merits and now, at the pre-trial hearing, want to object
+    to venue. What is the position?
+  options:
+    - >-
+      The objection is late; it had to be raised at the first opportunity and in the defence.
+    - >-
+      Venue objections may be raised at any time before evidence is heard.
+    - >-
+      The court must transfer the case of its own motion because of the clause.
+    - >-
+      The clause is void because venue can only be set by the Regulations.
+  correct: 0
+  explanation: >-
+    Regs 28–29 require jurisdiction and venue arguments at the first opportunity and in the defence;
+    otherwise they need leave and may cost you. Unlike subject-matter jurisdiction, venue is not
+    checked by the court of its own motion.

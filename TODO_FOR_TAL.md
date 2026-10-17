@@ -15,3 +15,4 @@
 - Year 1 ready to import: repo tal-giladi/law-llb-course, 12 modules, 89 lessons, 484 quiz questions, check-course 0 problems. Years 2–4 are planned, not written.
 - Module 13: Ganz (ע"א 2643/97) and Aharonov (ע"א 189/95) described without report citations; confirm whether a private person can file a caveat online end to end.
 - Module 16: nine corporate rulings cited from a secondary summary (Fiegenbaum & Licht 2017); Prat v. Dadon case number incomplete; check multi-founder online company registration.
+- Module 15: about 14 civil-procedure rulings sourced from Hebrew Wikipedia only (incl. רע"א 1954/24); 2026 appeal fees from Wikisource notes.
