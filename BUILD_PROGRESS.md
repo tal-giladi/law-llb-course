@@ -22,7 +22,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 4 — Tort Law
 - [x] Module 5 — Criminal Law
 - [x] Module 6 — Constitutional Law
-- [ ] Module 7 — Legislation and Regulation
+- [x] Module 7 — Legislation and Regulation
 - [ ] Module 8 — Introduction to Procedure
 - [ ] Module 9 — Legal Theory
 - [ ] Module 10 — Introduction to Jewish Law and Religious Law in Israel
@@ -37,7 +37,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 7: sub-agent A
+- Module 9: sub-agent A
 - Module 8: sub-agent B
 
 ## Decisions and open questions

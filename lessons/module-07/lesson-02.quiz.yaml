@@ -1,0 +1,73 @@
+- id: q1
+  question: >-
+    A ministry's new regulations make it an offence, punishable by three months' imprisonment, to
+    sell energy drinks to minors. The recital mentions no Knesset committee. The enabling law says
+    nothing about approval. What is the strongest point against the criminal provision?
+  options:
+    - >-
+      Regulations may never create offences; only statutes may do so.
+    - >-
+      Offences in regulations need a Knesset committee's approval (Penal Law s. 2(ב)).
+    - >-
+      Three months exceeds the maximum imprisonment a regulation may set.
+    - >-
+      Any regulation needs approval if more than 45 days pass after publication.
+  correct: 1
+  explanation: >-
+    Penal Law s. 2(א) lets regulations create offences with up to six months' imprisonment, but s.
+    2(ב) makes such regulations (other than municipal by-laws) subject to a Knesset committee's
+    approval. The 45-day rule was in Basic Law s. 21א, repealed in 2016.
+- id: q2
+  question: >-
+    A minister relies on a clause allowing him to "grant exemptions for other reasons" to exempt
+    tens of thousands of people a year from a national duty. Which doctrine best supports a
+    challenge?
+  options:
+    - >-
+      Primary arrangements: a basic, disputed policy choice must be made by the Knesset.
+    - >-
+      Retroactivity: the exemptions affect people who were already liable.
+    - >-
+      Relative voidness: the exemptions are valid until a court annuls them.
+    - >-
+      Publication: exemptions must be published in Reshumot to be valid.
+  correct: 0
+  explanation: >-
+    In Rubinstein the Court held that a mass exemption is a primary arrangement requiring
+    legislation; a general enabling clause does not let a minister settle it, because quantity
+    becomes quality.
+- id: q3
+  question: >-
+    Emergency regulations made in a declared state of emergency were never extended by statute.
+    Five months later a municipality still enforces them. What do you check first?
+  options:
+    - >-
+      Whether the state of emergency itself has been extended by the Government.
+    - >-
+      Whether the regulations were laid before the Foreign Affairs and Defence Committee.
+    - >-
+      Whether the municipality adopted them as a by-law in the meantime.
+    - >-
+      Whether they lapsed three months after they were made, under s. 39(ו).
+  correct: 3
+  explanation: >-
+    Basic Law: The Government s. 39(ו) gives emergency regulations a three-month life unless a
+    statute extends them; renewing the emergency declaration does not extend them.
+- id: q4
+  question: >-
+    Your local council fines you under a parking "procedure" posted on its website that is not a
+    by-law and was never published in Reshumot. What is the best first argument?
+  options:
+    - >-
+      The procedure is void because the council did not publish it on paper.
+    - >-
+      The fine is lawful as long as the procedure is available under the FOI Law.
+    - >-
+      A procedure alone imposes no duty; the council must show a law or by-law.
+    - >-
+      Only the Minister of Transport may set any parking rule anywhere in Israel.
+  correct: 2
+  explanation: >-
+    Directives guide officials; a duty on the public needs a source in a statute or in secondary
+    legislation such as a by-law, which local authorities must publish. Making a directive
+    available under FOI s. 6 does not turn it into law.

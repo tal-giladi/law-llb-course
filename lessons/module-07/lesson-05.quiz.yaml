@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    A ministry publishes a 140-page memorandum reforming the whole licensing system for
+    contractors and gives the public 7 days to comment, citing no urgency. What does AG guideline
+    2.3005 say?
+  options:
+    - >-
+      Seven days is fine, because the Rules of Procedure set no minimum.
+    - >-
+      Comments are optional, so the period may be as short as the minister wishes.
+    - >-
+      The period must be exactly 21 days, never more and never less.
+    - >-
+      As a rule at least 21 days, and longer for long or complex drafts.
+  correct: 3
+  explanation: >-
+    Para. 27 sets, as a rule, at least 21 days, and says long, complex or controversial drafts call
+    for longer; shortening needs real constraints. The guideline cites HCJ 1658/10 on judicial
+    intervention for a substantial departure.
+- id: q2
+  question: >-
+    You want your comment on draft regulations to change the text. Which comment is most likely
+    to work?
+  options:
+    - >-
+      "These regulations are unfair to small businesses and should be withdrawn."
+    - >-
+      "Reg. 4: allow filing in person; many shop owners here are over 70."
+    - >-
+      "I object to the whole draft and reserve all my rights."
+    - >-
+      "The minister has no idea how businesses work; please reconsider."
+  correct: 1
+  explanation: >-
+    Effective comments name a section, give facts the ministry may lack and propose a concrete
+    change. General objections and personal remarks give the ministry nothing to act on.
+- id: q3
+  question: >-
+    Draft regulations create an offence punishable by imprisonment, and the recital mentions no
+    Knesset committee. What should your comment say on this point?
+  options:
+    - >-
+      That the offence requires a Knesset committee's approval under Penal Law s. 2(ב).
+    - >-
+      That regulations may never include offences, so the section must go.
+    - >-
+      That the regulations will be valid if no one objects within 45 days.
+    - >-
+      Nothing, because legal validity is not a matter for public comments.
+  correct: 0
+  explanation: >-
+    Penal Law s. 2(ב) requires committee approval for regulations creating offences; s. 2(א)
+    allows offences in regulations with up to six months' imprisonment. The 45-day rule was in
+    Basic Law: The Knesset s. 21א, repealed in 2016.
+- id: q4
+  question: >-
+    An authority made regulations without publishing a draft for comment. The enabling statute
+    says nothing about consultation. Under Wael, what follows?
+  options:
+    - >-
+      The regulations are void, because the right to be heard is general.
+    - >-
+      The regulations are void only if a Knesset committee objects.
+    - >-
+      The lack of publication alone does not make them void.
+    - >-
+      The regulations must be republished in Arabic before they apply.
+  correct: 2
+  explanation: >-
+    Wael held there is no general common-law right to be heard before regulations with legislative
+    effect; a right exists only where a statute grants it. Guidance may recommend consultation,
+    but its absence is not by itself a ground of invalidity.

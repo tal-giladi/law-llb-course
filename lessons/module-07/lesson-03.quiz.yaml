@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Your bank charged you a fee that you think breaks a Supervisor of Banks directive. You want the
+    ₪600 back and you want the bank to stop charging everyone. What is the best plan?
+  options:
+    - >-
+      Complain to the Supervisor and wait, since the complaint stops limitation.
+    - >-
+      Sue only, because regulators never deal with individual complaints.
+    - >-
+      Write to the Knesset Finance Committee and ask it to order a refund.
+    - >-
+      Complain to the regulator about the practice and claim the refund yourself.
+  correct: 3
+  explanation: >-
+    A regulator can act against the practice but does not replace a claim for compensation, and a
+    complaint does not stop limitation. A Knesset committee supervises but does not order refunds.
+- id: q2
+  question: >-
+    A ministry signs an agreement with a company promising that for 15 years it will not change
+    the tax and competition rules that apply to it. Under the gas-outline case, what is the main
+    legal problem?
+  options:
+    - >-
+      Such agreements need the approval of the Competition Authority.
+    - >-
+      An authority may not fetter its own and its successors' discretion this way.
+    - >-
+      Tax rules may be changed only by emergency regulations.
+    - >-
+      The promise is valid only if published in the unified regulation database.
+  correct: 1
+  explanation: >-
+    In HCJ 4374/15 the majority held that the Government cannot "decide not to decide" or bind
+    future governments and, in practice, the Knesset; stability of that scope needs a statute.
+- id: q3
+  question: >-
+    Which of these is "regulation" under the Regulatory Principles Law even though it is not a
+    regulation (תקנה) under the Interpretation Law?
+  options:
+    - >-
+      A regulator's binding circular setting how insurers must handle claims.
+    - >-
+      A minister's speech announcing a reform the ministry is considering.
+    - >-
+      A court judgment ordering one insurer to pay a specific claim.
+    - >-
+      A private company's internal policy on customer service hours.
+  correct: 0
+  explanation: >-
+    The Law's definition covers general, enforceable rules of conduct made under lawful authority,
+    including in a directive or circular. A speech is not a rule, a judgment is not general, and a
+    private policy is not made by a public body.
+- id: q4
+  question: >-
+    A regulator wants to stop misleading "free trial" subscriptions. Which tool is generally the
+    least burdensome that could work, and so preferred under the Regulatory Principles Law?
+  options:
+    - >-
+      A licensing regime for every business offering subscriptions.
+    - >-
+      Criminal prosecution of every firm that has offered a free trial.
+    - >-
+      A clear disclosure and cancellation rule, enforced by financial sanctions.
+    - >-
+      Price control setting the subscription price after the trial.
+  correct: 2
+  explanation: >-
+    The Law asks regulators to weigh alternatives and compliance costs and choose a proportionate
+    tool. Disclosure and a cancellation rule target the problem directly; licensing and price
+    control are heavy tools aimed at different problems.

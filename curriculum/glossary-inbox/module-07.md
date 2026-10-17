@@ -1,0 +1,25 @@
+- **תזכיר חוק** (Tazkir hok) — Bill memorandum: a ministry's draft bill with explanatory notes, published for public comment before it goes to the Ministerial Committee for Legislation.
+- **הצעת חוק ממשלתית** (Hatza'at hok memshaltit) — Government bill.
+- **הצעת חוק פרטית** (Hatza'at hok pratit) — Private member's bill, tabled by an MK who is not a minister or deputy minister; it passes a preliminary reading before first reading.
+- **הצעת חוק מטעם ועדה** (Hatza'at hok mi-ta'am va'ada) — Committee bill, allowed only on subjects listed in Rules s. 80.
+- **דיון מוקדם / קריאה טרומית** (Diyun mukdam / kri'a tromit) — Preliminary reading of a private bill, at least 45 days after tabling unless shortened.
+- **ועדת השרים לענייני חקיקה** (Va'adat ha-sarim le-inyenei hakika) — Ministerial Committee for Legislation, which decides the Government's position on bills.
+- **הסתייגות** (Histaygut) — Reservation: an amendment rejected in committee that an MK or minister asks to put to a plenum vote at second reading.
+- **נושא חדש** (Nose hadash) — "New topic" objection that a committee amendment goes beyond the bill's subject, decided by the Knesset Committee.
+- **דין רציפות** (Din retzifut) — Continuity: carrying a bill that passed first reading into the next Knesset under the Continuity Law 1993.
+- **חוק ההסדרים** (Hok ha-hesderim) — The Arrangements Law, the omnibus economic law passed with the budget.
+- **חקיקת משנה** (Hakikat mishne) — Secondary (subordinate) legislation.
+- **תקנה** (Takana) — Regulation: a provision made under a statute that has legislative effect (Interpretation Law s. 3).
+- **הוראת מינהל** (Hora'at minhal) — Administrative instruction: a notice, licence or permit given under a statute without legislative effect.
+- **חוק עזר** (Hok ezer) — Municipal by-law.
+- **חוק מסמיך** (Hok masmikh) — Enabling statute.
+- **הסדר ראשוני** (Hesder rishoni) — Primary arrangement: a basic policy choice that must be made by the Knesset in a statute (Rubinstein).
+- **תקנות שעת חירום** (Takanot sha'at herum) — Emergency regulations under Basic Law: The Government s. 39.
+- **אסדרה** (Asdara) — Regulation as an activity (the Hebrew term for "regulation" in the Regulatory Principles Law 2021).
+- **מאסדר** (Ma'asder) — Regulator.
+- **עיצום כספי** (Itzum kaspi) — Financial (administrative) sanction.
+- **הערכת השפעות אסדרה** (Ha'arakhat hashpa'ot asdara) — Regulatory impact assessment (RIA).
+- **תקיפה עקיפה** (Tkifa akifa) — Indirect challenge: raising the invalidity of a norm as an argument in another proceeding.
+- **בטלות יחסית** (Batlut yahasit) — Relative voidness: the doctrine letting a court decline to void a defective act given the circumstances.
+- **שדלן** (Shadlan) — Lobbyist: one who, as an occupation or for payment, acts for a client to persuade MKs (Knesset Law s. 65).
+- **נייר עמדה** (Neyar emda) — Position paper submitted to a Knesset committee.

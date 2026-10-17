@@ -1,0 +1,1295 @@
+# Module 07 question bank (not imported). Feeds the daily practice tool.
+- id: m07-001
+  module: 7
+  lesson: "07.1"
+  subject: readings
+  difficulty: 1
+  question: >-
+    At which stage is a bill adopted as law by the Knesset?
+  options:
+    - >-
+      The first reading, once the plenum approves the principle.
+    - >-
+      The committee vote that prepares it for the second reading.
+    - >-
+      The third reading, which follows the second reading.
+    - >-
+      Publication of the bill in Reshumot after tabling.
+  correct: 2
+  explanation: >-
+    Rules s. 74(א): a law is adopted at the third reading; publication in Reshumot follows.
+- id: m07-002
+  module: 7
+  lesson: "07.1"
+  subject: bill-types
+  difficulty: 1
+  question: >-
+    Which of these may table a private member's bill?
+  options:
+    - >-
+      A deputy minister, on matters outside his ministry.
+    - >-
+      A Knesset member who is not a minister or deputy minister.
+    - >-
+      Any citizen with 10,000 signatures supporting the bill.
+    - >-
+      The Attorney General, on behalf of the Government.
+  correct: 1
+  explanation: >-
+    Rules s. 75(א) limits private bills to MKs who are not ministers or deputy ministers; Israel
+    has no citizens' initiative for bills.
+- id: m07-003
+  module: 7
+  lesson: "07.1"
+  subject: preliminary-reading
+  difficulty: 2
+  question: >-
+    An MK tabled a private bill 20 days ago and wants a preliminary vote next week. The
+    Government has not stated a position. What may allow it?
+  options:
+    - >-
+      Nothing: the 45-day waiting period can never be shortened by anyone.
+    - >-
+      A written request by any ten MKs to the Speaker of the Knesset.
+    - >-
+      A decision of the committee that will later receive the bill.
+    - >-
+      A Knesset Committee decision to shorten it, at the sponsor's request.
+  correct: 3
+  explanation: >-
+    Rules s. 76(ד) allows an earlier preliminary reading if the Government agrees, the Knesset
+    Committee shortens the period, or the bill is attached to a similar one.
+- id: m07-004
+  module: 7
+  lesson: "07.1"
+  subject: government-bill-stages
+  difficulty: 1
+  question: >-
+    In the Attorney General's stages for a government bill, what comes right after the
+    memorandum is distributed for public comment?
+  options:
+    - >-
+      Considering the comments and settling the draft.
+    - >-
+      The first reading in the Knesset plenum.
+    - >-
+      Publication of the law in ספר החוקים.
+    - >-
+      A vote in the Knesset Committee on urgency.
+  correct: 0
+  explanation: >-
+    AG guideline 2.3005 para. 4: after distribution, comments from ministries and others are
+    considered and the draft is settled, before the Deputy AG's confirmation and the Ministerial
+    Committee.
+- id: m07-005
+  module: 7
+  lesson: "07.1"
+  subject: committee-bills
+  difficulty: 2
+  question: >-
+    The Constitution Committee wants to initiate a bill raising the fines for littering. Can it?
+  options:
+    - >-
+      Yes: any permanent committee may initiate any bill within its own field.
+    - >-
+      Yes, but only after the Government has agreed to it in writing.
+    - >-
+      No: committee bills are limited to subjects such as Basic Laws and elections.
+    - >-
+      No: committees may only initiate amendments to the Rules of Procedure.
+  correct: 2
+  explanation: >-
+    Rules s. 80(א) lists the subjects on which three committees may initiate bills: Basic Laws,
+    the Knesset, MKs, elections, parties, party finance and the State Comptroller.
+- id: m07-006
+  module: 7
+  lesson: "07.1"
+  subject: process-review
+  difficulty: 3
+  question: >-
+    A committee approved a 90-section reform for second reading in one session, after members
+    received the final text half an hour before the vote. A petition argues the law is void.
+    What is the key question under Quintinsky?
+  options:
+    - >-
+      Whether the reform was part of an Arrangements Law.
+    - >-
+      Whether members had a real chance to form a position on the text.
+    - >-
+      Whether the public was invited to comment in the committee.
+    - >-
+      Whether the Government had a majority in the committee.
+  correct: 1
+  explanation: >-
+    Quintinsky refined the participation principle: the process must let members form a
+    substantive position, considering debate length, complexity and time with the text.
+- id: m07-007
+  module: 7
+  lesson: "07.1"
+  subject: continuity
+  difficulty: 2
+  question: >-
+    A government bill passed first reading in the outgoing Knesset.
+    Who may ask the incoming Knesset to apply continuity to it?
+  options:
+    - >-
+      The Government formed in the incoming Knesset.
+    - >-
+      Any member of the outgoing Knesset.
+    - >-
+      The Speaker of the outgoing Knesset.
+    - >-
+      The Attorney General, if the bill is urgent.
+  correct: 0
+  explanation: >-
+    Continuity Law s. 1: the Government formed in the incoming Knesset may announce in the
+    plenum that it wants continuity for a bill that passed first reading.
+- id: m07-008
+  module: 7
+  lesson: "07.1"
+  subject: continuity
+  difficulty: 2
+  question: >-
+    A private bill was approved in a preliminary reading but never reached first reading before
+    the Knesset dissolved. What happens to it?
+  options:
+    - >-
+      The new Knesset continues it from the committee stage.
+    - >-
+      It goes directly to first reading in the new Knesset.
+    - >-
+      It survives if the new Government supports it in writing.
+    - >-
+      It lapses; a new bill must be tabled in the new Knesset.
+  correct: 3
+  explanation: >-
+    The Continuity Law applies only to bills transferred to a committee after first reading;
+    other bills lapse.
+- id: m07-009
+  module: 7
+  lesson: "07.1"
+  subject: expiring-enactments
+  difficulty: 3
+  question: >-
+    A temporary order (הוראת שעה) is due to expire one month after the Knesset decided to
+    dissolve. What does Basic Law: The Knesset s. 38 say?
+  options:
+    - >-
+      It expires on schedule; only a new statute can extend it.
+    - >-
+      It stays in force until three months into the new Knesset's term.
+    - >-
+      It stays in force until the Government decides otherwise.
+    - >-
+      It is extended for one year automatically.
+  correct: 1
+  explanation: >-
+    Section 38 extends enactments that would expire in the last two months of a term, within
+    four months after a dissolution decision, or in the new term's first three months, until the
+    end of those first three months.
+- id: m07-010
+  module: 7
+  lesson: "07.1"
+  subject: new-topic
+  difficulty: 3
+  question: >-
+    Spot the mistake: "At the committee stage, I, as a member of the public, raised a 'new
+    topic' objection to an amendment, and the Knesset Committee must now decide it." What is
+    wrong?
+  options:
+    - >-
+      New-topic objections are decided by the Speaker, not the Knesset Committee.
+    - >-
+      New-topic objections can only be raised in the plenum at third reading.
+    - >-
+      Only an MK, minister or deputy minister may raise a new-topic objection.
+    - >-
+      New-topic objections apply only to government bills.
+  correct: 2
+  explanation: >-
+    Rules s. 85(ב): the objection is raised by an MK, a minister or a deputy minister; the
+    Knesset Committee decides. A member of the public can ask an MK to raise it.
+- id: m07-011
+  module: 7
+  lesson: "07.2"
+  subject: definition-regulation
+  difficulty: 1
+  question: >-
+    Under the Interpretation Law, what makes a provision a "regulation" (תקנה)?
+  options:
+    - >-
+      It was signed by a minister and published on a ministry website.
+    - >-
+      It was made under a statute and has legislative effect.
+    - >-
+      It was approved by a Knesset committee.
+    - >-
+      It sets a fee or a fine.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 3 defines "תקנה" as a provision made under a statute that has
+    legislative effect, i.e. a general norm.
+- id: m07-012
+  module: 7
+  lesson: "07.2"
+  subject: administrative-instruction
+  difficulty: 2
+  question: >-
+    A licence issued to one named restaurant under the Business Licensing Law is best classified
+    as what?
+  options:
+    - >-
+      A regulation, because it is made under a statute.
+    - >-
+      An internal directive, because it is not published.
+    - >-
+      A by-law, because it concerns a local business.
+    - >-
+      An administrative instruction, without legislative effect.
+  correct: 3
+  explanation: >-
+    Interpretation Law s. 3: a licence or permit given in writing under a law, without
+    legislative effect, is an administrative instruction (הוראת מינהל).
+- id: m07-013
+  module: 7
+  lesson: "07.2"
+  subject: publication
+  difficulty: 1
+  question: >-
+    When do regulations with legislative effect take effect, unless they say otherwise?
+  options:
+    - >-
+      On the day of publication in Reshumot.
+    - >-
+      Thirty days after the minister signs them.
+    - >-
+      When a Knesset committee approves them.
+    - >-
+      On the first day of the following month.
+  correct: 0
+  explanation: >-
+    Interpretation Ordinance s. 17: they are published in Reshumot and take effect on
+    publication unless they provide otherwise. The AG recommends 30 days as a drafting practice,
+    not a rule.
+- id: m07-014
+  module: 7
+  lesson: "07.2"
+  subject: committee-approval
+  difficulty: 2
+  question: >-
+    Which regulations need a Knesset committee's approval under the Penal Law?
+  options:
+    - >-
+      All regulations that set fees above a linked statutory amount.
+    - >-
+      Municipal by-laws that create offences, but no other regulations.
+    - >-
+      Regulations creating offences and penalties, except municipal by-laws.
+    - >-
+      Any regulation that a minister signs during an election period.
+  correct: 2
+  explanation: >-
+    Penal Law s. 2(ב). Other approval duties come from the enabling statute itself.
+- id: m07-015
+  module: 7
+  lesson: "07.2"
+  subject: s21a-repeal
+  difficulty: 3
+  question: >-
+    A 2003 guideline says regulations with criminal penalties are deemed approved if a committee
+    does not decide within 45 days (Basic Law: The Knesset s. 21א). How should you use this
+    today?
+  options:
+    - >-
+      Rely on it, because AG guidelines bind the courts in every case.
+    - >-
+      Rely on it only for regulations made by the Government as a whole.
+    - >-
+      Rely on it only for regulations approved during election recesses.
+    - >-
+      Do not: s. 21א was repealed in 2016; apply Penal Law s. 2(ב).
+  correct: 3
+  explanation: >-
+    Basic Law: The Knesset (Amendment 45), ס״ח 2573 (11.8.2016), repealed s. 21א. Penal Law s.
+    2(ב) has no deemed-approval default.
+- id: m07-016
+  module: 7
+  lesson: "07.2"
+  subject: primary-arrangements
+  difficulty: 2
+  question: >-
+    Which matter is most likely a primary arrangement that the Knesset itself must settle?
+  options:
+    - >-
+      The format of the application form for a fishing licence.
+    - >-
+      Who is exempt from military service on a large scale.
+    - >-
+      The opening hours of a ministry's public counter.
+    - >-
+      The font size of a disclosure notice.
+  correct: 1
+  explanation: >-
+    Rubinstein: a mass exemption from a national duty is a basic, disputed policy choice. Forms,
+    hours and fonts are implementing details.
+- id: m07-017
+  module: 7
+  lesson: "07.2"
+  subject: emergency-regulations
+  difficulty: 2
+  question: >-
+    Which of these may emergency regulations NOT do under Basic Law: The Government s. 39?
+  options:
+    - >-
+      Temporarily suspend a statute.
+    - >-
+      Impose a new compulsory payment.
+    - >-
+      Bar access to the courts.
+    - >-
+      Set conditions on the operation of a statute.
+  correct: 2
+  explanation: >-
+    Section 39(ג) allows overriding statutes and imposing payments; s. 39(ד) forbids blocking
+    access to courts, retroactive punishment or permitting harm to human dignity.
+- id: m07-018
+  module: 7
+  lesson: "07.2"
+  subject: emergency-oversight
+  difficulty: 3
+  question: >-
+    In March 2020 the Government made emergency regulations for phone tracking before Knesset
+    committees were formed. What did the High Court do on 19.3.2020 in Ben Meir?
+  options:
+    - >-
+      Barred implementation unless a Knesset committee exercised oversight.
+    - >-
+      Struck the regulations down as an infringement of dignity.
+    - >-
+      Held that emergency regulations need no parliamentary role.
+    - >-
+      Referred the matter to the Attorney General for a binding opinion.
+  correct: 0
+  explanation: >-
+    The interim order barred implementation without parliamentary oversight; in April the Court
+    held that continued use needed primary legislation.
+- id: m07-019
+  module: 7
+  lesson: "07.2"
+  subject: directives
+  difficulty: 2
+  question: >-
+    A ministry refuses your request citing an internal procedure it will not show you. What can
+    you ask for?
+  options:
+    - >-
+      Nothing: internal procedures are confidential by nature.
+    - >-
+      Publication of the procedure in Reshumot within 7 days.
+    - >-
+      A Knesset committee hearing on the procedure.
+    - >-
+      Access to the written directive under FOI Law s. 6(א).
+  correct: 3
+  explanation: >-
+    FOI Law s. 6(א) requires public authorities to make available written administrative
+    directives they act on that matter to the public, subject to s. 9 exceptions.
+- id: m07-020
+  module: 7
+  lesson: "07.2"
+  subject: repeal
+  difficulty: 2
+  question: >-
+    A statute was repealed and replaced by a new law covering the same subject. What happens to
+    regulations made under the old statute?
+  options:
+    - >-
+      They lapse immediately with the old statute.
+    - >-
+      They remain until revoked by regulations under the new law.
+    - >-
+      They become part of the new statute automatically.
+    - >-
+      They remain only if a Knesset committee re-approves them.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 23: regulations fall with the repealed enactment, but where the
+    repealing law replaces its provisions, they stand until revoked under the new law.
+- id: m07-021
+  module: 7
+  lesson: "07.2"
+  subject: recital
+  difficulty: 1
+  question: >-
+    Where in a regulation do you usually find its enabling section and any committee approval?
+  options:
+    - >-
+      In the opening recital ("בתוקף סמכותי לפי...").
+    - >-
+      In the definitions section near the beginning.
+    - >-
+      In the explanatory notes of the original bill.
+    - >-
+      In the commencement section at the very end.
+  correct: 0
+  explanation: >-
+    The recital names the enabling section and states approvals, for example "ובאישור ועדת __ של
+    הכנסת".
+- id: m07-022
+  module: 7
+  lesson: "07.3"
+  subject: definition-regulator
+  difficulty: 1
+  question: >-
+    Under the Regulatory Principles Law 2021, a "regulator" is...
+  options:
+    - >-
+      Any company that sets binding terms of service for its own customers.
+    - >-
+      A Knesset committee that approves regulations brought before it.
+    - >-
+      A public authority empowered to set regulation or grant approvals.
+    - >-
+      A court that reviews the validity of regulations on a petition.
+  correct: 2
+  explanation: >-
+    Section 3 defines "מאסדר" as a public authority authorised to propose or set regulation,
+    publish implementing guidance or give regulatory approval.
+- id: m07-023
+  module: 7
+  lesson: "07.3"
+  subject: tools
+  difficulty: 2
+  question: >-
+    Which regulatory tool creates the strongest barrier to entering a market?
+  options:
+    - >-
+      Publishing comparative price information.
+    - >-
+      Requiring a prior licence for the activity.
+    - >-
+      A duty to disclose terms in large print.
+    - >-
+      A voluntary industry code.
+  correct: 1
+  explanation: >-
+    Licensing prohibits the activity without prior approval; information and disclosure tools
+    are much lighter.
+- id: m07-024
+  module: 7
+  lesson: "07.3"
+  subject: complaint-vs-claim
+  difficulty: 2
+  question: >-
+    An online shop misled you about a product. You complain to the Consumer Protection
+    Authority. Six years later you want to sue. What risk did you overlook?
+  options:
+    - >-
+      The complaint barred you from suing.
+    - >-
+      The Authority's decision binds the court against you.
+    - >-
+      You needed the Authority's permission to sue.
+    - >-
+      The complaint did not stop the limitation period.
+  correct: 3
+  explanation: >-
+    A complaint to a regulator does not suspend limitation; claim in parallel if you want money.
+- id: m07-025
+  module: 7
+  lesson: "07.3"
+  subject: financial-sanction
+  difficulty: 1
+  question: >-
+    Under the Consumer Protection Law, what is an עיצום כספי?
+  options:
+    - >-
+      A fine imposed by a criminal court after conviction.
+    - >-
+      Compensation a court awards a consumer without proof of damage.
+    - >-
+      A financial sanction the Commissioner imposes administratively.
+    - >-
+      A deposit a business must keep for consumer refunds.
+  correct: 2
+  explanation: >-
+    Chapter ה1 (s. 22ג) lets the Commissioner impose financial sanctions for listed violations.
+- id: m07-026
+  module: 7
+  lesson: "07.3"
+  subject: fettering
+  difficulty: 3
+  question: >-
+    Investors argue that a ten-year promise not to change the regulation of their industry is
+    needed for investment. Which response reflects the gas-outline majority?
+  options:
+    - >-
+      Stability is legitimate, but a promise of that scope needs a statute.
+    - >-
+      Stability is never a legitimate aim for any regulator to pursue.
+    - >-
+      Any government promise to investors binds future Knessets as well.
+    - >-
+      Such promises are valid whenever they appear in a Government decision.
+  correct: 0
+  explanation: >-
+    The Court held the Government cannot fetter its own and its successors' discretion this way;
+    the dissent stressed stability. Statutory backing is the lawful route.
+- id: m07-027
+  module: 7
+  lesson: "07.3"
+  subject: ria
+  difficulty: 2
+  question: >-
+    What must a minister bring to a Knesset committee under Rules s. 84(ו) if the Government
+    prepared one?
+  options:
+    - >-
+      The Attorney General's opinion on constitutionality.
+    - >-
+      A list of lobbyists who met the ministry.
+    - >-
+      The public comments received on the memorandum.
+    - >-
+      The regulatory impact assessment (RIA) report.
+  correct: 3
+  explanation: >-
+    Rules s. 84(ו) requires the minister to transfer and present the Government's RIA report to
+    the committee preparing the bill.
+- id: m07-028
+  module: 7
+  lesson: "07.3"
+  subject: privatisation
+  difficulty: 2
+  question: >-
+    Why did the Court strike down the private-prison amendment in Academic Center (HCJ 2605/05)?
+  options:
+    - >-
+      Because the tender for the prison was not published in Arabic as well.
+    - >-
+      Because giving a profit-making firm the power to imprison was disproportionate.
+    - >-
+      Because the Knesset did not hold three readings on the amendment.
+    - >-
+      Because the Finance Ministry had no separate budget line for the prison.
+  correct: 1
+  explanation: >-
+    The majority held the transfer itself infringed liberty and dignity disproportionately,
+    regardless of how the company would behave.
+- id: m07-029
+  module: 7
+  lesson: "07.3"
+  subject: unified-database
+  difficulty: 1
+  question: >-
+    Under Regulatory Principles Law s. 37, where must regulators publish existing regulation?
+  options:
+    - >-
+      In a unified database announced by the Regulatory Authority.
+    - >-
+      Only in Reshumot, in the regulations series and nowhere else.
+    - >-
+      In two daily newspapers, one of them in the Arabic language.
+    - >-
+      On the Knesset website, next to the protocols of the committee.
+  correct: 0
+  explanation: >-
+    Section 37 creates a unified database; where Reshumot publication applies, the Reshumot text
+    remains binding (s. 37(ג)).
+- id: m07-030
+  module: 7
+  lesson: "07.3"
+  subject: route-choice
+  difficulty: 3
+  question: >-
+    A new insurance circular lets insurers refuse claims on a ground you think is unfair, and it
+    has already cost you ₪4,000. Which combination best fits?
+  options:
+    - >-
+      Only comment on the next draft, since the current circular is final.
+    - >-
+      Only complain to the regulator, which will order the insurer to refund you.
+    - >-
+      Claim the money, complain about the practice, comment on any revision.
+    - >-
+      Petition the High Court first, before writing any letter to the insurer.
+  correct: 2
+  explanation: >-
+    Use the claim for your money, the complaint for the practice and the comment for the rule; a
+    petition is a lawyer's task and comes last.
+- id: m07-031
+  module: 7
+  lesson: "07.3"
+  subject: principles
+  difficulty: 2
+  question: >-
+    Which is NOT one of the guiding principles of good regulation in s. 2 of the Regulatory
+    Principles Law?
+  options:
+    - >-
+      Considering alternatives to regulating, including not regulating.
+    - >-
+      Taking account of the features of small and medium businesses.
+    - >-
+      Public participation as far as the circumstances require it.
+    - >-
+      Giving priority to the views of the largest firms in a market.
+  correct: 3
+  explanation: >-
+    Section 2 lists necessity and alternatives, benefit against compliance cost, data,
+    transparency and participation, international standards, proportionality for small
+    businesses, accessibility, coordination, competition and affected rights.
+- id: m07-032
+  module: 7
+  lesson: "07.4"
+  subject: periods-days
+  difficulty: 2
+  question: >-
+    A 7-day period runs "from the day of the decision", given on Sunday 11 January 2026. When
+    does it end, with no special rule?
+  options:
+    - >-
+      Saturday 17 January.
+    - >-
+      Sunday 18 January.
+    - >-
+      Friday 16 January.
+    - >-
+      Monday 19 January.
+  correct: 1
+  explanation: >-
+    Day 1 is 12 January (s. 10(א)), so day 7 is Sunday 18 January, which is not a rest day.
+- id: m07-033
+  module: 7
+  lesson: "07.4"
+  subject: periods-months
+  difficulty: 2
+  question: >-
+    A period of one month runs "after" an event on 31 January. When does it end?
+  options:
+    - >-
+      On 3 March, adding 31 days.
+    - >-
+      On 1 March, the first day of the next month.
+    - >-
+      On the last day of February.
+    - >-
+      On 28 February only in leap years.
+  correct: 2
+  explanation: >-
+    Interpretation Law s. 10(ב): a month period ends on the same date in the final month, or on
+    its last day if that date does not exist.
+- id: m07-034
+  module: 7
+  lesson: "07.4"
+  subject: until-inclusive
+  difficulty: 1
+  question: >-
+    A notice says "submit until 15 May". May you submit on 15 May?
+  options:
+    - >-
+      Yes: "until" includes the stated day.
+    - >-
+      No: "until" means before 15 May.
+    - >-
+      Only if 15 May is a working day.
+    - >-
+      Only by midday on 15 May.
+  correct: 0
+  explanation: >-
+    Interpretation Law s. 8: "עד..." for time means until and including.
+- id: m07-035
+  module: 7
+  lesson: "07.4"
+  subject: rest-days
+  difficulty: 2
+  question: >-
+    A 10-day period ends on a Saturday. Under the Interpretation Law, what follows?
+  options:
+    - >-
+      The period ended on Saturday; filing on Sunday is late.
+    - >-
+      The period ends on the preceding Friday.
+    - >-
+      Rest days are never counted, so it ends two days later.
+    - >-
+      The period ends on the next day that is not a rest day.
+  correct: 3
+  explanation: >-
+    Section 10(ג): rest days count, unless they are the last days of the period, in which case
+    the period moves on to the next non-rest day.
+- id: m07-036
+  module: 7
+  lesson: "07.4"
+  subject: dynamic-reference
+  difficulty: 2
+  question: >-
+    A 2010 regulation refers to "section 5 of the Consumer Protection Law". Section 5 was
+    amended in 2024. Which version does the reference mean?
+  options:
+    - >-
+      The 2010 version, frozen at the date the regulation was made.
+    - >-
+      The version in force when you rely on it, with any amendments.
+    - >-
+      Whichever of the versions is more favourable to you in the case.
+    - >-
+      The original 1981 version, before any of its later amendments.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 25: a reference is to the enactment as worded at the time it is
+    needed.
+- id: m07-037
+  module: 7
+  lesson: "07.4"
+  subject: binding-text
+  difficulty: 1
+  question: >-
+    An English translation of a Knesset law differs from the Hebrew. Which controls?
+  options:
+    - >-
+      The English, if published on a government site.
+    - >-
+      Whichever the court finds clearer.
+    - >-
+      The Hebrew, the language in which it was given.
+    - >-
+      Both equally; the court must reconcile them.
+  correct: 2
+  explanation: >-
+    Interpretation Law s. 24: the binding text is the one in the language in which the law was
+    given.
+- id: m07-038
+  module: 7
+  lesson: "07.4"
+  subject: form-deviation
+  difficulty: 2
+  question: >-
+    You filed a prescribed form but used an older version with one field labelled differently.
+    The authority rejects it outright. What is your argument?
+  options:
+    - >-
+      A minor deviation that does not mislead does not invalidate it.
+    - >-
+      Prescribed forms are never binding on members of the public at all.
+    - >-
+      Any error in a form must be disregarded once 30 days have passed.
+    - >-
+      Only a Knesset committee may reject a filing made on a prescribed form.
+  correct: 0
+  explanation: >-
+    Interpretation Law s. 26: a slight deviation from a prescribed form that does not affect the
+    substance or mislead does not invalidate the act.
+- id: m07-039
+  module: 7
+  lesson: "07.4"
+  subject: authority
+  difficulty: 2
+  question: >-
+    Officials bar a profession from a government office with no law authorising it. Which case
+    is the classic authority for you?
+  options:
+    - >-
+      Quintinsky, on the legislative process.
+    - >-
+      The gas-outline case, on fettering discretion.
+    - >-
+      Bejerano, on restrictions without legal authority.
+    - >-
+      Wael, on hearings before regulations.
+  correct: 2
+  explanation: >-
+    Bejerano (HCJ 1/49): an official may not prevent a lawful occupation without express or
+    implied legal authority.
+- id: m07-040
+  module: 7
+  lesson: "07.4"
+  subject: indirect-challenge
+  difficulty: 2
+  question: >-
+    You are prosecuted for breaching a regulation you think was never properly approved. What is
+    raising its invalidity in your defence called?
+  options:
+    - >-
+      A direct challenge to the regulation.
+    - >-
+      A continuity request to the new Knesset.
+    - >-
+      A new-topic objection to the committee.
+    - >-
+      An indirect challenge (תקיפה עקיפה).
+  correct: 3
+  explanation: >-
+    Raising invalidity in another proceeding is an indirect challenge; a petition to annul is a
+    direct one.
+- id: m07-041
+  module: 7
+  lesson: "07.4"
+  subject: rights-express
+  difficulty: 3
+  question: >-
+    A regulation under a general "implementation" clause restricts entry to a profession. Why is
+    it vulnerable under Basic Law: Human Dignity s. 8 reasoning and Freedom of Occupation?
+  options:
+    - >-
+      Because professions may be regulated only by the Bar Association itself.
+    - >-
+      Because a rights infringement by regulation needs express statutory authority.
+    - >-
+      Because regulations may never mention any occupation by name at all.
+    - >-
+      Because only the Knesset Committee may approve regulations on professions.
+  correct: 1
+  explanation: >-
+    Infringing a protected right "לפי חוק" requires express authorisation in the statute; a
+    general implementation clause is read narrowly.
+- id: m07-042
+  module: 7
+  lesson: "07.4"
+  subject: state-presumption
+  difficulty: 3
+  question: >-
+    A statute imposes a duty on "every employer" and says nothing about the state. Under the
+    Interpretation Ordinance, what is the starting presumption?
+  options:
+    - >-
+      The duty binds the state exactly like any other employer in Israel.
+    - >-
+      The duty binds the state only as regards its permanent civil servants.
+    - >-
+      It does not impose the duty on the state unless it says so expressly.
+    - >-
+      The state may decide for itself whether or not it wishes to comply.
+  correct: 2
+  explanation: >-
+    Interpretation Ordinance s. 42: an enactment does not detract from a right of the state or
+    impose a duty on it unless it says so expressly. Many statutes do say so.
+- id: m07-043
+  module: 7
+  lesson: "07.4"
+  subject: interpretation-first
+  difficulty: 3
+  question: >-
+    Spot the mistake in this defence: "The regulation is void. In the alternative, if valid, it
+    does not apply to me." What would a careful advocate change?
+  options:
+    - >-
+      Nothing: arguing "void" first is always the strongest order to use.
+    - >-
+      Drop the interpretation argument, since it contradicts the first one.
+    - >-
+      Lead with the narrow reading, then use validity as the fallback.
+    - >-
+      Raise both arguments only later, on appeal, not at the first hearing.
+  correct: 2
+  explanation: >-
+    Courts prefer a reading that keeps a rule valid; leading with interpretation gives the judge
+    an easier path to rule for you.
+- id: m07-044
+  module: 7
+  lesson: "07.4"
+  subject: or-other
+  difficulty: 2
+  question: >-
+    A law covers "a dog, a cat or a similar animal". Does it cover a parrot?
+  options:
+    - >-
+      Yes, because "or" is never limited by the items listed before it.
+    - >-
+      Probably not: "similar" ties the general words to the kind listed.
+    - >-
+      Yes, because every pet is an animal and the law protects animals.
+    - >-
+      Only if the minister later adds parrots to the list in an order.
+  correct: 1
+  explanation: >-
+    Interpretation Law s. 7: "או" is open-ended unless words like "דומה" or "כיוצא בזה" appear;
+    here "similar" points to analogy with dogs and cats.
+- id: m07-045
+  module: 7
+  lesson: "07.4"
+  subject: relative-voidness
+  difficulty: 3
+  question: >-
+    In Wael, which factor did NOT support the Court's refusal to void the levy regulations?
+  options:
+    - >-
+      The appellants' arguments probably would not have changed the text.
+    - >-
+      The attack was indirect and late.
+    - >-
+      Voiding would cause heavy harm to the public purse.
+    - >-
+      There was no statutory duty to invite arguments at all.
+  correct: 3
+  explanation: >-
+    In Wael the Water Law did impose a duty to invite arguments, and it was breached; the Court
+    still applied relative voidness for the other three reasons.
+- id: m07-046
+  module: 7
+  lesson: "07.5"
+  subject: comment-site
+  difficulty: 1
+  question: >-
+    Where do ministries publish bill memoranda for public comment?
+  options:
+    - >-
+      On the government legislation site (tazkirim.gov.il).
+    - >-
+      Only in ספר החוקים, after the bill is passed.
+    - >-
+      On the pages of the relevant Knesset committee.
+    - >-
+      In the regulations series (ק״ת) of Reshumot.
+  correct: 0
+  explanation: >-
+    AG guideline 2.3005 para. 26 requires distribution through the government memoranda site.
+- id: m07-047
+  module: 7
+  lesson: "07.5"
+  subject: comment-period
+  difficulty: 2
+  question: >-
+    A ministry gives 10 days to comment on a short, technical memorandum, explaining a legal
+    deadline set by a court. Is this consistent with AG guideline 2.3005?
+  options:
+    - >-
+      No: 21 days is an absolute minimum that can never be shortened.
+    - >-
+      Yes: real constraints may justify a shorter period, though it is discouraged.
+    - >-
+      Yes: the guideline sets no comment period for memoranda at all.
+    - >-
+      No: every memorandum must stay open for comments for at least 45 days.
+  correct: 1
+  explanation: >-
+    Para. 27 sets at least 21 days "as a rule" and allows shortening for real constraints, while
+    urging that it be avoided where possible.
+- id: m07-048
+  module: 7
+  lesson: "07.5"
+  subject: comment-quality
+  difficulty: 2
+  question: >-
+    Spot the weakest part of this comment: "Section 3 should allow paper filing (proposed
+    wording attached). Also, this government never listens to people like us."
+  options:
+    - >-
+      The section number, because comments should not cite sections.
+    - >-
+      The proposed wording, because ministries prefer to draft their own.
+    - >-
+      The request for paper filing, because online filing is mandatory.
+    - >-
+      The political remark, which gives the ministry nothing to act on.
+  correct: 3
+  explanation: >-
+    Effective comments stick to sections, facts and wording; personal or political remarks
+    weaken them.
+- id: m07-049
+  module: 7
+  lesson: "07.5"
+  subject: hearing-right
+  difficulty: 3
+  question: >-
+    An enabling statute says the minister "shall give those affected an opportunity to state
+    their arguments" before setting a levy by regulation. The ministry skipped it. What follows?
+  options:
+    - >-
+      Nothing: there is never a right to be heard before regulations are made.
+    - >-
+      A statutory hearing duty was breached, which is a ground of invalidity.
+    - >-
+      The regulations are valid as long as they were published in Reshumot.
+    - >-
+      The Knesset committee must now hold the hearing instead of the minister.
+  correct: 1
+  explanation: >-
+    Wael: no general right exists, but a statutory one is binding; the court may still apply
+    relative voidness to the remedy.
+- id: m07-050
+  module: 7
+  lesson: "07.5"
+  subject: draft-regulations
+  difficulty: 2
+  question: >-
+    What should you check first when commenting on draft regulations, before writing about their
+    merits?
+  options:
+    - >-
+      The enabling section and whether approval or a hearing is needed.
+    - >-
+      Which Knesset member sponsored the regulations and when.
+    - >-
+      Whether the draft regulations have already passed first reading.
+    - >-
+      Whether the Continuity Law applies to the draft after elections.
+  correct: 0
+  explanation: >-
+    Regulations depend on their enabling section; approval and hearing duties are conditions of
+    validity worth flagging in the comment.
+- id: m07-051
+  module: 7
+  lesson: "07.5"
+  subject: own-name
+  difficulty: 2
+  question: >-
+    A neighbour asks you to write comments for her shop on a draft regulation, for ₪300. What is
+    the issue?
+  options:
+    - >-
+      None: written comments on drafts are not legal documents of any kind.
+    - >-
+      Only lawyers may submit comments on government drafts at all.
+    - >-
+      Drafting legal documents for others for pay is reserved to lawyers.
+    - >-
+      Comments on drafts must always be signed by at least two people.
+  correct: 2
+  explanation: >-
+    Bar Association Law s. 20 reserves drafting legal documents for others for payment or as an
+    occupation; help her write her own instead, unpaid.
+- id: m07-052
+  module: 7
+  lesson: "07.5"
+  subject: deadline-proof
+  difficulty: 1
+  question: >-
+    What should you save when you submit a comment on the government legislation site?
+  options:
+    - >-
+      Nothing, because the site keeps a full record of every submission.
+    - >-
+      Only the ministry's reply to your comment, if one ever arrives.
+    - >-
+      A printed copy of the whole enabling statute, for reference.
+    - >-
+      Proof of the deadline and the confirmation of your submission.
+  correct: 3
+  explanation: >-
+    Proof of the deadline and of timely submission protects you if the comment is lost or
+    ignored.
+- id: m07-053
+  module: 7
+  lesson: "07.5"
+  subject: ministry-duty
+  difficulty: 2
+  question: >-
+    After the comment period, what does AG guideline 2.3005 require the initiating ministry to
+    do with comments?
+  options:
+    - >-
+      Publish a reasoned response to every single comment in Reshumot.
+    - >-
+      Examine them and decide which comments to accept or reject.
+    - >-
+      Forward all the comments received to the Knesset Committee.
+    - >-
+      Adopt automatically any comment that is supported by 100 people.
+  correct: 1
+  explanation: >-
+    Para. 36: the ministry examines comments from ministries and the public and decides which to
+    accept; it informs commenting ministries of the outcome.
+- id: m07-054
+  module: 7
+  lesson: "07.6"
+  subject: committee-publicity
+  difficulty: 1
+  question: >-
+    Are Knesset committee sessions open to the public?
+  options:
+    - >-
+      No: only MKs and invited officials may attend committee sessions.
+    - >-
+      Only the sessions of the Finance Committee are open to the public.
+    - >-
+      Yes, as a rule, unless the committee decides otherwise.
+    - >-
+      Only after the bill under discussion has passed its second reading.
+  correct: 2
+  explanation: >-
+    Rules s. 118(א); the chair may limit attendance in the room.
+- id: m07-055
+  module: 7
+  lesson: "07.6"
+  subject: invitees
+  difficulty: 2
+  question: >-
+    Who decides whether you may speak at a committee session?
+  options:
+    - >-
+      The chair, who may invite anyone with knowledge or interest.
+    - >-
+      The minister in charge of the bill being discussed that day.
+    - >-
+      You yourself, since every committee session is held in public.
+    - >-
+      The Knesset's legal adviser, who sets the list of speakers.
+  correct: 0
+  explanation: >-
+    Rules s. 125(א) gives the chair the power to invite and hear people with knowledge or an
+    interest in the subject.
+- id: m07-056
+  module: 7
+  lesson: "07.6"
+  subject: protocols
+  difficulty: 2
+  question: >-
+    You spoke at a committee session and the protocol misquotes a number you gave. What can you
+    do?
+  options:
+    - >-
+      Nothing: a protocol is final once it is published on the site.
+    - >-
+      Petition the High Court for an order correcting the protocol.
+    - >-
+      Ask the Speaker of the Knesset to delete your words entirely.
+    - >-
+      Ask the protocols department in writing to correct the error.
+  correct: 3
+  explanation: >-
+    Rules s. 119(ג) lets any speaker ask in writing to correct errors and omissions in the
+    record of their words.
+- id: m07-057
+  module: 7
+  lesson: "07.6"
+  subject: lobbying
+  difficulty: 2
+  question: >-
+    Which of these people is a lobbyist under Knesset Law s. 65?
+  options:
+    - >-
+      A pensioner speaking for herself on a pensions bill.
+    - >-
+      A consultant paid by a chain store to persuade MKs on a bill.
+    - >-
+      A ministry official presenting her ministry's position.
+    - >-
+      An employee of a company presenting his own employer's view.
+  correct: 1
+  explanation: >-
+    A lobbyist acts for a client as an occupation or for payment; employees for their employer
+    and public officials in their role are excluded.
+- id: m07-058
+  module: 7
+  lesson: "07.6"
+  subject: reservations
+  difficulty: 2
+  question: >-
+    You want an amendment voted on in the plenum at second reading. What do you do?
+  options:
+    - >-
+      File a reservation yourself with the Knesset Secretary in writing.
+    - >-
+      Collect 1,000 signatures for a citizens' reservation to the bill.
+    - >-
+      Ask an MK to propose it and, if rejected, attach it as a reservation.
+    - >-
+      Ask the committee's legal adviser to file the reservation for you.
+  correct: 2
+  explanation: >-
+    Rules s. 86: reservations are attached by members whose proposals were rejected in
+    committee.
+- id: m07-059
+  module: 7
+  lesson: "07.6"
+  subject: where-to-send
+  difficulty: 1
+  question: >-
+    Where do you find a committee's agenda, protocols and contact details?
+  options:
+    - >-
+      On the committee's page on the Knesset website.
+    - >-
+      In ספר החוקים, after each session is held.
+    - >-
+      On the government legislation site, by ministry.
+    - >-
+      In the regulations series of Reshumot (ק״ת).
+  correct: 0
+  explanation: >-
+    Each committee's page publishes its agenda, protocols (Rules s. 120), documents and
+    contacts.
+- id: m07-060
+  module: 7
+  lesson: "07.6"
+  subject: election-period
+  difficulty: 3
+  question: >-
+    In October 2026, before the elections, you prepare a position paper on draft regulations
+    that await a Knesset committee's approval. What is the realistic plan?
+  options:
+    - >-
+      Send it to the outgoing committee, which must approve within 45 days.
+    - >-
+      Abandon it: draft regulations lapse at elections like bills.
+    - >-
+      Send it to the Government, which approves regulations during recesses.
+    - >-
+      Keep it ready and send it when the new Knesset's committee schedules the approval.
+  correct: 3
+  explanation: >-
+    Approval needs a committee; after elections the new Knesset forms committees, and the 45-day
+    default no longer exists (s. 21א was repealed). Send the paper when a session is scheduled.
+- id: m07-061
+  module: 7
+  lesson: "07.6"
+  subject: continuity-objection
+  difficulty: 3
+  question: >-
+    The new Government announces continuity for a bill. Who may propose that continuity not
+    apply, and within what time?
+  options:
+    - >-
+      Any citizen, within 30 days, by letter to the Speaker.
+    - >-
+      A faction, within two weeks, after which the Knesset votes.
+    - >-
+      The outgoing committee chair, within one week.
+    - >-
+      The Attorney General, at any time before second reading.
+  correct: 1
+  explanation: >-
+    Continuity Law s. 5: a faction may propose within two weeks that continuity not apply; the
+    Knesset then votes (s. 6).
+- id: m07-062
+  module: 7
+  lesson: "07.6"
+  subject: position-paper
+  difficulty: 2
+  question: >-
+    Which position paper is best suited to a committee session?
+  options:
+    - >-
+      Ten pages on the history of the field, with no section numbers.
+    - >-
+      One page of slogans for the media.
+    - >-
+      Two pages with a section table, facts and proposed wording.
+    - >-
+      A copy of your comment on an earlier memorandum, unchanged.
+  correct: 2
+  explanation: >-
+    Committees work on the current version section by section; short, factual papers with
+    wording are read and used.
+- id: m07-063
+  module: 7
+  lesson: "07.6"
+  subject: summons
+  difficulty: 3
+  question: >-
+    Can a Knesset committee require a municipal official to appear and provide information?
+  options:
+    - >-
+      Yes, through the head of the local authority, with exceptions.
+    - >-
+      No: committees may summon only ministers and deputy ministers.
+    - >-
+      Only after obtaining an order from the High Court of Justice.
+    - >-
+      Only if the official agrees in writing to appear and to answer.
+  correct: 0
+  explanation: >-
+    Basic Law: The Knesset s. 21(ב) and Rules s. 123 allow summoning office holders in local
+    authorities, through the head of the authority, with exceptions for legal duties and
+    privilege.

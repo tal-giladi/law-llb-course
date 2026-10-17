@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    A news site says "the Knesset approved a law" requiring rental agents to hold a licence. You
+    find that a private bill passed its preliminary reading yesterday. What is the correct
+    conclusion?
+  options:
+    - >-
+      The duty is in force once the bill is published in Reshumot next week.
+    - >-
+      The duty applies from the date of the preliminary vote, retroactively.
+    - >-
+      Nothing binds yet: the bill still needs committee work and three readings.
+    - >-
+      The duty binds only rental agents who are already registered businesses.
+  correct: 2
+  explanation: >-
+    A law is adopted only at the third reading (Rules s. 74(א)). After a preliminary reading the
+    bill goes to a committee, which must prepare it for first reading and later for second and
+    third readings.
+- id: q2
+  question: >-
+    You want to influence the wording of a government bill on accessibility that a ministry is
+    still preparing. At which stage is your input most likely to change the text?
+  options:
+    - >-
+      The second reading, by filing a reservation in the plenum.
+    - >-
+      The memorandum stage, by commenting before the comment deadline.
+    - >-
+      The first reading, by asking the minister to withdraw the bill.
+    - >-
+      After publication, by petitioning the High Court on the process.
+  correct: 1
+  explanation: >-
+    The memorandum (תזכיר חוק) is published for public comment before the Ministerial Committee
+    commits to a text. Reservations belong to MKs and ministers, and a petition on the process
+    succeeds only for a defect going to the heart of the process.
+- id: q3
+  question: >-
+    A bill on your profession passed first reading in the 25th Knesset and was in committee when
+    the Knesset dissolved in July 2026. What happens to it after the elections?
+  options:
+    - >-
+      It lapses automatically and can never be revived in the same form.
+    - >-
+      It continues automatically from the stage it reached.
+    - >-
+      It moves to the plenum for an immediate second and third reading.
+    - >-
+      It may continue if continuity is requested and approved.
+  correct: 3
+  explanation: >-
+    Under the Continuity Law the new Government (for its bills) or the competent committee (for
+    private and committee bills) may ask to apply continuity to a bill that passed first reading,
+    and the Knesset votes on it. Otherwise it lapses.
+- id: q4
+  question: >-
+    A group petitions to annul a section of an Arrangements Law because the committee debated it
+    for only two sessions. Under Poultry Farmers and Quintinsky, what must they show?
+  options:
+    - >-
+      That members were denied a real chance to form a position on the section.
+    - >-
+      That the section was unrelated to the budget, which is enough by itself.
+    - >-
+      That the committee did not invite the petitioners to speak.
+    - >-
+      That the debate was shorter than the Rules require for any bill.
+  correct: 0
+  explanation: >-
+    The Court intervenes only for a defect going to the heart of the process, chiefly a breach of
+    the members' participation principle. Criticism of omnibus laws, or the public's absence from
+    a hearing, is not such a defect by itself.
+- id: q5
+  question: >-
+    A committee is preparing a bill on parking fines for second reading, and the chair proposes to
+    add a clause on taxi licences. A minister objects. What is the procedural route?
+  options:
+    - >-
+      The plenum decides by a special majority whether to include the clause.
+    - >-
+      The Attorney General decides whether the clause is lawful.
+    - >-
+      A "new topic" objection, decided by the Knesset Committee.
+    - >-
+      The committee chair decides alone, since the committee controls the text.
+  correct: 2
+  explanation: >-
+    Rules s. 85 lets an MK or minister object that an amendment goes beyond the bill's subject; the
+    Knesset Committee decides, and if it is a new topic the amendment cannot be included or filed
+    as a reservation.

@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    A friend forwards a headline: "Knesset passes ban on disposable cups". The bill page shows it
+    was approved yesterday in a preliminary reading. Your café is about to order a year's stock of
+    cups. What do you tell your friend?
+  options:
+    - >-
+      Stop ordering: the ban is law once it appears on the Knesset website.
+    - >-
+      Order normally: nothing binds yet, and watch the committee stage.
+    - >-
+      Order normally: private bills never become law in Israel.
+    - >-
+      Stop ordering: preliminary approval binds businesses within 45 days.
+  correct: 1
+  explanation: >-
+    A law is adopted only at the third reading (Rules s. 74(א)). After a preliminary reading the
+    bill still needs committee work and three readings, so the right move is to follow it.
+- id: q2
+  question: >-
+    You are fined ₪2,000 under new regulations that make unlicensed street music an offence with
+    imprisonment. The recital cites the enabling section but no Knesset committee. You plan to
+    contest the fine yourself. What is your strongest legal point?
+  options:
+    - >-
+      Regulations that create offences need a committee's approval (Penal Law s. 2(ב)).
+    - >-
+      Fines above ₪1,000 may only be set by a statute of the Knesset.
+    - >-
+      Regulations take effect only 45 days after publication in Reshumot.
+    - >-
+      Street music is protected expression, so any regulation on it is void.
+  correct: 0
+  explanation: >-
+    Penal Law s. 2(ב) requires a Knesset committee's approval for regulations creating offences,
+    other than municipal by-laws. Raising this in your own case is an indirect challenge; the
+    expression argument needs a full proportionality analysis, not an automatic rule.
+- id: q3
+  question: >-
+    A minister issues regulations, under a general clause allowing "regulations on any matter
+    relating to the implementation of this law", that set nationwide criteria for who receives
+    a large new housing subsidy. What is the best line of attack?
+  options:
+    - >-
+      The regulations were not also published in English and Arabic.
+    - >-
+      Regulations may never deal with money, only budget laws may.
+    - >-
+      The minister should have made emergency regulations instead.
+    - >-
+      Basic eligibility criteria are a primary arrangement for the Knesset.
+  correct: 3
+  explanation: >-
+    Under Rubinstein (and Cheshin's opinion in HCJ 11163/03), basic policy choices affecting many
+    people must be made by the Knesset; a general enabling clause does not authorise them.
+- id: q4
+  question: >-
+    Emergency regulations restricting gatherings were made on 1 February in a declared state of
+    emergency. No statute extended them. On 15 June the police enforce them against you. What do
+    you check first?
+  options:
+    - >-
+      Whether the Government extended the state of emergency in May.
+    - >-
+      Whether the Foreign Affairs and Defence Committee met on them.
+    - >-
+      Whether they lapsed after three months under s. 39(ו).
+    - >-
+      Whether the police published them on their website.
+  correct: 2
+  explanation: >-
+    Basic Law: The Government s. 39(ו) gives emergency regulations a life of three months unless a
+    statute extends them; extending the state of emergency does not extend the regulations.
+- id: q5
+  question: >-
+    A regulator's draft rule on overdraft fees is open for comment for 21 days. You are a
+    pensioner who pays these fees. Which plan gives your comment the best chance?
+  options:
+    - >-
+      Wait for the final rule and then petition the High Court to cancel it.
+    - >-
+      Send a long letter on the banking system's failures, without section numbers.
+    - >-
+      Ask a friend at the bank to submit it under the bank's name.
+    - >-
+      Comment on two sections with your figures and a proposed wording.
+  correct: 3
+  explanation: >-
+    Comments that are section-specific, factual and propose wording give the regulator something
+    to act on. A later petition is costly and uncertain, and submitting under someone else's name
+    misrepresents who is commenting.
+- id: q6
+  question: >-
+    A government bill on your profession passed first reading in March 2026 and was in committee
+    when the Knesset dissolved in July. You prepared a position paper. What should you do after
+    the 27 October 2026 elections?
+  options:
+    - >-
+      Watch for a continuity request by the new Government and the Knesset's vote.
+    - >-
+      Nothing: all bills lapse at elections and must start from a memorandum.
+    - >-
+      Send the paper to the plenum, since the committee no longer exists.
+    - >-
+      Expect the bill to resume automatically in the same committee.
+  correct: 0
+  explanation: >-
+    Under the Continuity Law a bill past first reading may be carried over if the new Government
+    asks and the Knesset approves (ss. 1, 5–6). Once a new committee schedules it, send the
+    updated paper.
+- id: q7
+  question: >-
+    A notice says you must pay a fee "within 30 days from the date of this notice". The notice is
+    dated Wednesday 2 September and no special rule applies. When is the last day?
+  options:
+    - >-
+      Monday 5 October, because Saturdays are not counted.
+    - >-
+      Wednesday 30 September, counting the notice date as day 1.
+    - >-
+      Friday 2 October, the same date one month later.
+    - >-
+      Thursday 1 October, because the notice date is not counted.
+  correct: 3
+  explanation: >-
+    For a period in days, Interpretation Law s. 10(א) excludes the starting day: day 1 is 3
+    September and day 30 is 1 October. The "same date next month" rule applies to periods in
+    months, not days.
+- id: q8
+  question: >-
+    A ministry and a utility sign an agreement promising that for 12 years the Government will
+    oppose any bill to change the utility's tariffs. A consumer group asks whether this is lawful.
+    What is the best answer?
+  options:
+    - >-
+      Lawful, because regulatory stability encourages investment.
+    - >-
+      Lawful if the Regulatory Authority approves the agreement in advance.
+    - >-
+      Doubtful: it fetters the discretion of this and future governments.
+    - >-
+      Unlawful only if the tariffs are set by emergency regulations.
+  correct: 2
+  explanation: >-
+    In the gas-outline case (HCJ 4374/15) the majority held a ten-year stability clause unlawful
+    because it fettered the discretion of the Government and future governments and, in effect,
+    the Knesset. Stability of that scope needs a statute.
+- id: q9
+  question: >-
+    You are sued in the magistrates' court for a levy set in regulations made eight years ago. You
+    find the enabling law required a published invitation to be heard, which was published only in
+    Hebrew. What is the realistic expectation?
+  options:
+    - >-
+      The court will dismiss the claim, since a defective regulation is void for everyone.
+    - >-
+      The court may find a defect but still decline to void it (relative voidness).
+    - >-
+      The court cannot examine validity; only the High Court may.
+    - >-
+      The court will ignore the point because there is never a right to be heard on regulations.
+  correct: 1
+  explanation: >-
+    Wael allowed an indirect challenge and found the statutory hearing duty breached, but applied
+    relative voidness given the late indirect attack and the public harm of voiding. Where a
+    statute grants a hearing, the right exists.
+- id: q10
+  question: >-
+    An insurance company offers to pay you ₪3,000 to attend a Finance Committee session and argue
+    against a bill as "an ordinary citizen". You also have your own view as a policyholder. What
+    do you do?
+  options:
+    - >-
+      Decline the payment and, if you wish, ask to be heard in your own name.
+    - >-
+      Accept, since committee sessions are public and anyone may speak.
+    - >-
+      Accept, as long as you do not mention the company in your remarks.
+    - >-
+      Accept, and file a reservation on the bill in the company's name.
+  correct: 0
+  explanation: >-
+    Paid advocacy to persuade MKs for a client is lobbying and requires a Knesset permit (Knesset
+    Law ss. 65–66); hiding the payer would mislead the committee. Speaking for yourself, unpaid,
+    is not lobbying, and only MKs and ministers file reservations.

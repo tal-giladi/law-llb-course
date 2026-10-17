@@ -67,3 +67,11 @@
   - [48 · Practice lab: a proportionality analysis of a real law](lessons/module-06/lesson-07.md)
   - [49 · Practice lab: a self-represented HCJ petition (dry run)](lessons/module-06/lesson-08.md)
   - [Module 6 quiz](assessments/module-06-quiz.md)
+- **Module 7 — Legislation and Regulation (about 16 hours)**
+  - [50 · How a law is made: government bills, private bills, committees](lessons/module-07/lesson-01.md)
+  - [51 · Secondary legislation: regulations, orders, directives, and parliamentary approval](lessons/module-07/lesson-02.md)
+  - [52 · Regulators and regulatory tools](lessons/module-07/lesson-03.md)
+  - [53 · Interpreting legislation and checking validity](lessons/module-07/lesson-04.md)
+  - [54 · Practice lab: comment on a draft bill or regulation (תזכירי חוק)](lessons/module-07/lesson-05.md)
+  - [55 · Practice lab: write to a Knesset committee and follow the bill](lessons/module-07/lesson-06.md)
+  - [Module 7 quiz](assessments/module-07-quiz.md)

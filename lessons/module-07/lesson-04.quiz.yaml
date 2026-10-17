@@ -1,0 +1,73 @@
+- id: q1
+  question: >-
+    A statute gives you 15 days "from the day of delivery" of a decision to object. The decision
+    was delivered on Thursday 4 June. No special counting rule applies. What is the last day?
+  options:
+    - >-
+      Thursday 18 June, because the delivery day counts as day 1.
+    - >-
+      Friday 19 June, because the delivery day is not counted.
+    - >-
+      Sunday 21 June, because Fridays and Saturdays are not counted.
+    - >-
+      Monday 22 June, because 15 working days must pass.
+  correct: 1
+  explanation: >-
+    Under Interpretation Law s. 10(א) the starting day is not counted, so day 1 is 5 June and day
+    15 is 19 June. Rest days count (s. 10(ג)); only if the period ended on a rest day would it be
+    extended.
+- id: q2
+  question: >-
+    A regulation lists "cars, motorcycles or other vehicles" as subject to a fee. An authority
+    argues it covers electric scooters. Under the Interpretation Law, how is "or other" read?
+  options:
+    - >-
+      Only as items similar to those listed, because a general term follows specific ones.
+    - >-
+      As covering nothing beyond the listed items, since fees are read narrowly.
+    - >-
+      As covering only what the minister lists later in an order.
+    - >-
+      As not limited to items like those listed, unless "similar" or "the like" appears.
+  correct: 3
+  explanation: >-
+    Interpretation Law s. 7 rejects the automatic "like items" reading for "או" and "אחר" unless
+    words such as "דומה" or "כיוצא בזה" signal it. Purpose and context still matter (lesson 02.4).
+- id: q3
+  question: >-
+    You are sued by an authority for an unpaid levy set in regulations made ten years ago. You
+    discover the required public hearing notice was not published properly. What is the most
+    realistic outcome if you raise this?
+  options:
+    - >-
+      The court may find a defect but still refuse to void the regulations (relative voidness).
+    - >-
+      The regulations are void automatically and the claim must be dismissed.
+    - >-
+      The court cannot consider validity in a collection claim; only the HCJ can.
+    - >-
+      The defect is irrelevant because no one has a right to be heard on regulations.
+  correct: 0
+  explanation: >-
+    Wael allowed an indirect challenge, found the statutory hearing duty breached, but applied
+    relative voidness given the late, indirect attack and the public harm. Without a statutory
+    hearing duty there is no general right to be heard on regulations.
+- id: q4
+  question: >-
+    A Government decision, not a statute or regulation, grants large tax benefits to towns on a map
+    the Government drew. Besides equality, which ground did Vice-President Cheshin rely on in a
+    similar case?
+  options:
+    - >-
+      The decision was not translated into Arabic and English.
+    - >-
+      It was a primary arrangement that only the Knesset may make.
+    - >-
+      The decision was made during an election period without consent.
+    - >-
+      The decision contradicted an emergency regulation in force.
+  correct: 1
+  explanation: >-
+    In HCJ 11163/03 President Barak voided the decision as discriminatory in result; Vice-President
+    Cheshin held that designating national priority areas is a primary arrangement only the
+    Knesset may make.

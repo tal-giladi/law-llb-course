@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You want to be heard on a bill now in the Health Committee. To whom do you send your request
+    and position paper?
+  options:
+    - >-
+      The Speaker of the Knesset, who sets every committee's list of speakers.
+    - >-
+      The Minister of Health, who presents the Government's position.
+    - >-
+      The committee manager, copying the committee's legal adviser.
+    - >-
+      The Knesset Research and Information Center, which runs the hearings.
+  correct: 2
+  explanation: >-
+    The committee chair decides whom to invite (Rules s. 125(א)); requests go through the
+    committee's staff, and the legal adviser handles the substance of the bill.
+- id: q2
+  question: >-
+    Your neighbourhood association asks you, unpaid, to present its view on a planning bill to a
+    committee, and a developer offers you ₪5,000 to present his view on the same bill. Which is
+    true?
+  options:
+    - >-
+      Both are lobbying, so you need a Knesset permit for either.
+    - >-
+      Neither needs a permit, because committee sessions are public.
+    - >-
+      The association needs a permit because it is an organisation.
+    - >-
+      The paid presentation for the developer is lobbying and needs a permit.
+  correct: 3
+  explanation: >-
+    Knesset Law s. 65 defines a lobbyist as one who acts for a client as an occupation or for
+    payment; s. 66 requires a permit. Unpaid advocacy for your own association is not lobbying
+    under that definition.
+- id: q3
+  question: >-
+    A committee rejected an amendment you suggested to an MK. You want the plenum to vote on it at
+    the second reading. What is the route?
+  options:
+    - >-
+      The MK may ask to attach it to the bill as a reservation.
+    - >-
+      You may file it as a reservation in your own name within 7 days.
+    - >-
+      You may petition the High Court to order a plenum vote on it.
+    - >-
+      You must start a new private bill with the same amendment.
+  correct: 0
+  explanation: >-
+    Rules s. 86 lets a member whose proposal was rejected ask to attach it as a reservation, voted
+    on in the second reading (s. 90). The public cannot file reservations.
+- id: q4
+  question: >-
+    A private bill you support passed first reading in the 25th Knesset. Its sponsor was not
+    re-elected on 27 October 2026. What does the Continuity Law mean for it?
+  options:
+    - >-
+      It continues automatically because it passed first reading.
+    - >-
+      Continuity needs the sponsor in the new Knesset; it must be tabled anew.
+    - >-
+      The new Government may carry it over without any Knesset vote.
+    - >-
+      It goes straight to second and third readings in the new Knesset.
+  correct: 1
+  explanation: >-
+    Under Continuity Law s. 3(א) a continuity notice on an MK's bill requires that MK to serve in
+    the incoming Knesset and consent. Without that, a new bill must be tabled.

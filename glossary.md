@@ -17,10 +17,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **איסור פרסום** (issur pirsum) — Publication ban.
 - **אכיפה** (akhifa) — enforcement (specific performance), including orders to pay (Remedies Law s. 3).
 - **אמרת אגב** (imrat agav) — obiter dictum: a remark not necessary for the decision.
+- **אסדרה** (Asdara) — Regulation as an activity (the Hebrew term for "regulation" in the Regulatory Principles Law 2021).
 - **ארכה** (arkha) — extension given before cancelling for a non-fundamental breach (s. 7(ב)).
 - **אשם תורם** (Asham torem) — Contributory fault, reducing damages (s. 68).
 - **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
 - **בחינות הלשכה** (bhinot ha-lishka) — the Israel Bar examinations.
+- **בטלות יחסית** (Batlut yahasit) — Relative voidness: the doctrine letting a court decline to void a defective act given the circumstances.
 - **ביטוח אחריות** (Bituach achrayut) — Liability insurance; the injured third party may claim directly (Insurance Contract Law s. 68).
 - **ביטוח חובה** (Bituach chova) — Compulsory motor insurance covering liability for bodily injury.
 - **ביקורת שיפוטית** (Bikoret shiputit) — Judicial review, of statutes or of administrative decisions.
@@ -41,7 +43,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דברי הסבר** (divrei hesber) — Explanatory notes published with a bill.
 - **דואר רשום עם אישור מסירה** (do'ar rashum im ishur mesira) — Registered mail with proof of delivery.
 - **דחייה על הסף** (Dhiya al ha-saf) — Dismissal in limine, without a hearing on the merits.
+- **דיון מוקדם / קריאה טרומית** (Diyun mukdam / kri'a tromit) — Preliminary reading of a private bill, at least 45 days after tabling unless shortened.
 - **דיון נוסף** (diyun nosaf) — further hearing of a Supreme Court decision by a larger panel.
+- **דין רציפות** (Din retzifut) — Continuity: carrying a bill that passed first reading into the next Knesset under the Continuity Law 1993.
 - **דיני נזיקין** (Dinei nezikin) — Tort law.
 - **דיני עונשין** (Dinei onshin) — Criminal law.
 - **דמי ביטול** (dmei bitul) — cancellation fee (capped by s. 14ה and the Cancellation Regulations).
@@ -79,12 +83,15 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסגת גבול** (Hasagat gvul) — Trespass, to land (s. 29) or to goods (s. 31).
 - **הסגת גבול המקצוע** (hasagat gvul ha-miktzo'a) — unauthorised practice of law, an offence under s. 96 of the Bar Association Law.
 - **הסדר טיעון** (Hesder ti'un) — Plea bargain.
+- **הסדר ראשוני** (Hesder rishoni) — Primary arrangement: a basic policy choice that must be made by the Knesset in a statute (Rubinstein).
 - **הסדרים ראשוניים** (hesderim rishoniyim) — primary arrangements, which must be set by the Knesset in statute.
 - **הסיוע המשפטי** (ha-siyua ha-mishpati) — Legal Aid (Ministry of Justice).
 - **הסכמה מדעת** (Haskama mida'at) — Informed consent.
 - **הסמכות השיורית** (Ha-samkhut ha-shyurit) — The Government's residual power (Basic Law: The Government s. 32); it does not authorise infringing rights.
 - **הסניגוריה הציבורית** (ha-sanegoria ha-tziburit) — Public Defender's Office.
+- **הסתייגות** (Histaygut) — Reservation: an amendment rejected in committee that an MK or minister asks to put to a plenum vote at second reading.
 - **הסתכנות מרצון** (Histaknut miratzon) — Voluntary assumption of risk (s. 5).
+- **הערכת השפעות אסדרה** (Ha'arakhat hashpa'ot asdara) — Regulatory impact assessment (RIA).
 - **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
 - **הפרה יסודית** (hafara yesodit) — fundamental breach (Remedies Law s. 6).
 - **הפרה צפויה** (hafara tzfuya) — anticipatory breach (s. 17).
@@ -92,6 +99,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הצהרת נפגע** (Hatzharat nifga) — Victim impact statement (Crime Victims' Rights Law s. 18).
 - **הצעה** (hatza'a) — offer; a communication showing intent to be bound and certain enough for acceptance (Contracts Law s. 2).
 - **הצעות חוק (ה"ח)** (Hatza'ot Chok) — The Reshumot series for bills, with their explanatory notes.
+- **הצעת חוק מטעם ועדה** (Hatza'at hok mi-ta'am va'ada) — Committee bill, allowed only on subjects listed in Rules s. 80.
+- **הצעת חוק ממשלתית** (Hatza'at hok memshaltit) — Government bill.
+- **הצעת חוק פרטית** (Hatza'at hok pratit) — Private member's bill, tabled by an MK who is not a minister or deputy minister; it passes a preliminary reading before first reading.
 - **הקטנת הנזק** (haktanat ha-nezek) — mitigation of damage (s. 14).
 - **הרכב** (herkev) — panel of judges.
 - **הרתעת הרבים** (Harta'at ha-rabim) — General deterrence (s. 40ז).
@@ -105,6 +115,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **התיישנות עבירה** (Hityashnut avera) — Limitation period for prosecution (Criminal Procedure Law s. 9).
 - **התיישנות שלא מדעת** (Hityashnut shelo mida'at) — Limitation running only from discovery of the facts (Prescription Law s. 8).
 - **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
+- **ועדת השרים לענייני חקיקה** (Va'adat ha-sarim le-inyenei hakika) — Ministerial Committee for Legislation, which decides the Government's position on bills.
 - **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
 - **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
 - **זכות נגזרת** (Zkhut nigzeret) — Derived right, read into human dignity (equality, expression, family life, minimum subsistence).
@@ -122,8 +133,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חופש הדת וחופש מדת** (Hofesh ha-dat ve-hofesh mi-dat) — Freedom of religion and freedom from religion.
 - **חופש החוזים** (hofesh ha-hozim) — freedom of contract.
 - **חוק** (hok) — statute: a Knesset law or a Mandate ordinance.
+- **חוק ההסדרים** (Hok ha-hesderim) — The Arrangements Law, the omnibus economic law passed with the budget.
 - **חוק העונשין** (Hok ha-onshin) — The Penal Law 1977, the main criminal statute; its general part was rewritten in 1994 (Amendment 39).
 - **חוק יסוד** (hok yesod) — Basic Law, a statute with constitutional status.
+- **חוק מסמיך** (Hok masmikh) — Enabling statute.
 - **חוק עזר** (hok ezer) — municipal bylaw.
 - **חוקה** (Huka) — Constitution; Israel has none in a single document.
 - **חטא** (Het) — Contravention: maximum up to three months, or a fine only (s. 24).
@@ -152,6 +165,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **כפייה** (kfiya) — duress (s. 17).
 - **לאקונה** (lakuna) — a gap in the law: a question with no answer in statute, precedent or analogy.
 - **מאגר החקיקה הלאומי** (Ma'agar HaChakika HaLeumi) — The Knesset's National Legislation Database of laws, amendments and bills.
+- **מאסדר** (Ma'asder) — Regulator.
 - **מאסר על תנאי** (Maasar al tnai) — Suspended sentence.
 - **מבחן האמצעי שפגיעתו פחותה** (Mivhan ha-emtza'i she-pgi'ato pehuta) — Least harmful means test: no other means achieves the purpose equally with less harm.
 - **מבחן הקשר הרציונלי** (Mivhan ha-kesher ha-ratzionali) — Rational connection test: the means actually advance the purpose.
@@ -180,8 +194,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נוסח חדש** (nusach chadash) — An official new Hebrew version of a Mandate-era law.
 - **נוסח משולב** (nusach meshulav) — An official consolidated version of an Israeli law, approved by the Knesset Constitution Committee and published in Reshumot.
 - **נוקשות** (Nukshut) — Rigidity: the protection of a Basic Law against change.
+- **נושא חדש** (Nose hadash) — "New topic" objection that a committee amendment goes beyond the bill's subject, decided by the Knesset Committee.
 - **נזק** (Nezek) — Damage, broadly defined in s. 2 of the Ordinance (life, property, comfort, welfare, reputation).
 - **נזק ממון** (Nezek mamon) — Pecuniary damage: actual loss or expense that can be valued in money and particularised.
+- **נייר עמדה** (Neyar emda) — Position paper submitted to a Knesset committee.
 - **ניסיון** (Nisayon) — Attempt: conduct beyond preparation, with intent to commit the offence (s. 25).
 - **ניקיון כפיים** (Nikayon kapayim) — Clean hands: full and honest disclosure by the petitioner.
 - **נספח** (nispach) — Attachment or exhibit to a letter or pleading.
@@ -208,6 +224,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עושק** (oshek) — exploitation (unconscionability) (s. 18).
 - **עילת הסבירות** (Ilat ha-svirut) — The reasonableness ground of review of administrative decisions.
 - **עילת סגירה** (Ilat sgira) — Ground for closing a file: insufficient evidence, no guilt, or lack of public interest.
+- **עיצום כספי** (Itzum kaspi) — Financial (administrative) sanction.
 - **עליונות נורמטיבית** (Elyonut normativit) — Normative supremacy of Basic Laws over ordinary legislation.
 - **עסקאות נוגדות** (iska'ot nogdot) — conflicting transactions in the same land (Land Law s. 9).
 - **עסקה במקרקעין** (iska be-mekarke'in) — transaction in land; completed by registration (Land Law s. 7).
@@ -263,6 +280,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רשות מכוננת / סמכות מכוננת** (Rashut mekhonenet / samkhut mekhonenet) — Constituent authority / constituent power: the power to make a constitution, which the Knesset exercises when enacting Basic Laws (Bank Mizrahi, majority view).
 - **רשלנות** (Rashlanut) — Negligence: careless conduct towards someone owed a duty, causing damage (ss. 35–36).
 - **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
+- **שדלן** (Shadlan) — Lobbyist: one who, as an occupation or for payment, acts for a client to persuade MKs (Knesset Law s. 65).
 - **שומרי סף** (Shomrei saf) — Gatekeepers: the Attorney General, legal advisers and the Comptroller.
 - **שיהוי** (Shihui) — Delay (laches): subjective delay, objective delay and the rule-of-law interest (Aviram).
 - **שימוש לרעה בזכות** (shimush le-ra'a bi-zkhut) — abuse of a right.
@@ -275,6 +293,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תגובה מקדמית** (Tguva mukdemet) — Preliminary response of the respondent to a petition.
 - **תגמולי ביטוח** (Tagmulei bituach) — Insurance proceeds.
 - **תום לב** (tom lev) — good faith (Contracts Law ss. 12, 39).
+- **תזכיר חוק** (Tazkir hok) — Bill memorandum: a ministry's draft bill with explanatory notes, published for public comment before it goes to the Ministerial Committee for Legislation.
 - **תזכיר משפטי** (tazkir mishpati) — A legal research memo.
 - **תחולה נדחית** (Tkhula nidhet) — Deferred application, a remedy used in HCJ 2412/23.
 - **תיקון עקיף** (tikkun akif) — An indirect amendment: a change to one law made inside another law.
@@ -287,6 +306,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תקדים** (takdim) — precedent.
 - **תקיפה** (Tkifa) — Assault, including battery (s. 23).
 - **תקיפה הגורמת חבלה של ממש** (Tkifa ha-goremet havala shel mamash) — Assault causing actual bodily harm (s. 380).
+- **תקיפה עקיפה** (Tkifa akifa) — Indirect challenge: raising the invalidity of a norm as an argument in another proceeding.
 - **תקנה** (takana) — regulation: a provision of legislative effect made under a statute.
+- **תקנות שעת חירום** (Takanot sha'at herum) — Emergency regulations under Basic Law: The Government s. 39.
 - **תקנת הציבור** (takanat ha-tzibur) — public policy.
 - **תשלום תכוף** (Tashlum tachuf) — Interim payment under the road-accidents Law (s. 5).
