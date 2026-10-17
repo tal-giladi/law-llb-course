@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Separated parents disagree about which school their 9-year-old should attend in September. The father
+    registers the child at his preferred school without telling the mother. What is the legal position?
+  options:
+    - >-
+      The father may decide, because he pays child maintenance.
+    - >-
+      The parent with whom the child mainly lives decides all education matters alone.
+    - >-
+      The school must follow the first registration it receives from either parent.
+    - >-
+      Both guardians must agree on education; without agreement the court decides.
+  correct: 3
+  explanation: >-
+    Education is part of guardianship (s. 15) and both parents must act by agreement (s. 18); disputes
+    go to the court (s. 19). Separation does not end either parent's guardianship.
+- id: q2
+  question: >-
+    A father seeks primary residence of his 4-year-old daughter, arguing that he is an equally capable
+    parent. What does he face under current law?
+  options:
+    - >-
+      Nothing special, because the court decides only by best interest and has no presumption.
+    - >-
+      A presumption for the mother, rebuttable only by weighty proof of special reasons.
+    - >-
+      An absolute rule that children under six live with their mother.
+    - >-
+      A presumption for the parent with the higher income, who can provide better housing.
+  correct: 1
+  explanation: >-
+    Section 25 keeps children up to six with their mother unless there are special reasons; the Supreme
+    Court in בע״מ 1858/14 required weighty evidence. It is a presumption, not an absolute rule.
+- id: q3
+  question: >-
+    Parents agree on a parenting plan in mediation and sign it. What makes it enforceable as a court decision?
+  options:
+    - >-
+      Court approval after the court is satisfied it is in the child's best interest.
+    - >-
+      Signing it before a lawyer, who certifies both signatures.
+    - >-
+      Filing it with the welfare office, which supervises arrangements for children.
+    - >-
+      Nothing further, because a signed agreement between guardians binds like a judgment.
+  correct: 0
+  explanation: >-
+    Section 24 requires court approval, given only if the agreement is in the child's best interest;
+    once approved it has the force of a court decision.
+- id: q4
+  question: >-
+    A mother fears the father will take their son abroad next week. No request to settle the dispute has
+    been filed. What can she do now?
+  options:
+    - >-
+      Nothing until she has filed a request to settle and attended the first mahut meeting.
+    - >-
+      Ask the police to confiscate the boy's passport without any court order.
+    - >-
+      Apply urgently for an exit-ban order, which is accepted even without a prior request.
+    - >-
+      File a Hague Convention return claim before the child leaves Israel.
+  correct: 2
+  explanation: >-
+    Dispute Resolution Regulations reg. 2א(א) allows an exit-ban request for a minor without a prior
+    request to settle. The Hague procedure applies after a wrongful removal.

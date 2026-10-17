@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Avi inherited ₪400,000 during the marriage and kept it in a separate account in his name. On divorce,
+    Ruth claims half. What is the default rule?
+  options:
+    - >-
+      Ruth gets half, because everything acquired during the marriage is balanced.
+    - >-
+      Ruth gets a quarter, as a compromise between inheritance and marital property.
+    - >-
+      The inheritance is excluded from the balance, since it was received by inheritance.
+    - >-
+      The court divides it according to each spouse's earning capacity.
+  correct: 2
+  explanation: >-
+    Section 5(א)(1) excludes assets received by gift or inheritance during the marriage. Keeping the
+    money separate supports the exclusion; mixing it into joint assets can weaken it.
+- id: q2
+  question: >-
+    Shira and her husband have lived apart for ten months, with no proceedings filed. She wants her share
+    of his pension savings now, before any divorce. What should she do?
+  options:
+    - >-
+      Wait for the divorce, because the right to balance arises only when the marriage ends.
+    - >-
+      File a request to settle the dispute and then a request for an early balance under s. 5א.
+    - >-
+      Ask the pension fund directly to split the account under the 2014 Law.
+    - >-
+      Ask the rabbinical court to order a get first, as a condition of any property claim.
+  correct: 1
+  explanation: >-
+    Section 5א(א)(2) allows a balance before divorce after nine months of separation within a year.
+    The pension fund acts only on a court judgment, and every family claim starts with the request
+    to settle (lesson 18.9).
+- id: q3
+  question: >-
+    An engaged couple sign a property agreement three weeks before the wedding and want it to be valid
+    without going to court. What can they do?
+  options:
+    - >-
+      Have each sign before two witnesses who are not relatives.
+    - >-
+      File it with the Population Registry together with the marriage certificate.
+    - >-
+      Nothing more, because any written agreement between spouses is valid.
+    - >-
+      Have it certified by a notary or by the marriage registrar.
+  correct: 3
+  explanation: >-
+    Section 2(ג) and (ג1) allow a pre-marriage agreement to be certified by the marriage registrar or by
+    a notary instead of court approval.
+- id: q4
+  question: >-
+    During the property case, the husband starts transferring shares of his company to his brother.
+    What can the wife ask the court for?
+  options:
+    - >-
+      Measures under s. 11, such as security, a ban on acts without her consent, or a note in a register.
+    - >-
+      Only damages after the judgment, because ownership is separate during the marriage.
+    - >-
+      A criminal complaint, since property claims between spouses cannot be protected in civil court.
+    - >-
+      Nothing, because the shares were registered to him and so are excluded from the balance.
+  correct: 0
+  explanation: >-
+    Section 11 allows protective measures where a spouse acts to defeat the other's rights, and s. 7
+    lets the court count assets given away to defeat the balance as still owned.

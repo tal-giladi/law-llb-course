@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A married couple's child was born to a surrogate in the United States, using the husband's sperm and a
+    donor egg. The wife has no genetic link. How does she become the child's legal mother in Israel?
+  options:
+    - >-
+      By presenting the American birth certificate to the Population Registry.
+    - >-
+      By applying to the Family Court for adoption or a parentage order.
+    - >-
+      Automatically, because she is married to the genetic father.
+    - >-
+      By applying to the Ministry of Health approvals committee after the birth.
+  correct: 1
+  explanation: >-
+    Following Mamet-Meged, the non-genetic parent after surrogacy abroad establishes parenthood through a
+    Family Court process; the Israeli approvals committee deals with surrogacy in Israel before treatment.
+- id: q2
+  question: >-
+    A couple sign a surrogacy agreement with a surrogate in Israel and want to start treatment next month.
+    The approvals committee has not yet met. What is the legal position?
+  options:
+    - >-
+      Treatment may begin; the committee's approval can be obtained before the birth.
+    - >-
+      Treatment may begin if the surrogate signs before a notary.
+    - >-
+      Treatment may begin if the Family Court approves the agreement instead.
+    - >-
+      Treatment is unlawful until the committee approves the agreement.
+  correct: 3
+  explanation: >-
+    Section 2 of the Surrogacy Law forbids embryo transfer to a surrogate except under an agreement already
+    approved by the approvals committee.
+- id: q3
+  question: >-
+    Under the Adoption Law, which of these may adopt a child as a single adopter without relying on the
+    court's special discretion?
+  options:
+    - >-
+      A man whose wife is the child's mother.
+    - >-
+      Any unmarried adult who has completed adoption training.
+    - >-
+      An unmarried friend of the child's living parents.
+    - >-
+      A cohabiting partner of the child's grandparent.
+  correct: 0
+  explanation: >-
+    Section 3(1) allows a single adopter whose spouse is the child's parent; other single adopters need
+    s. 3(2) (orphan adopted by an unmarried relative) or the court's s. 25 discretion.
+- id: q4
+  question: >-
+    Two men, residents of Israel, ask whether they can now use surrogacy in Israel. What changed?
+  options:
+    - >-
+      Nothing; the law still limits surrogacy to a man and a woman.
+    - >-
+      A 2018 amendment opened surrogacy to male couples and single men.
+    - >-
+      HCJ 781/15 struck the restrictive definitions from January 2022.
+    - >-
+      They may use surrogacy only abroad, but Israel now registers the child automatically.
+  correct: 2
+  explanation: >-
+    The 2018 amendment added single women only. In HCJ 781/15 the Court held the exclusion unconstitutional,
+    and the definitions were struck with effect from 11.1.2022.

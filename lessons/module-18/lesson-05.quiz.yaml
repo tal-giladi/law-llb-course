@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Two Jewish parents earn ₪20,000 and ₪10,000 net and share parenting time equally. Their children are
+    7 and 10. How does the Family Court approach child maintenance after בע״מ 919/15?
+  options:
+    - >-
+      The father pays all the children's needs, because Jewish law places the duty on him alone.
+    - >-
+      Each parent pays exactly half of the needs, because parenting time is equal.
+    - >-
+      The mother pays nothing until the children turn 15, after which costs are shared.
+    - >-
+      Both share the needs by relative income, adjusted for the time each spends with the children.
+  correct: 3
+  explanation: >-
+    For ages 6 to 15, 919/15 reads Jewish law to place the duty on both parents according to relative
+    means and parenting time. Here the higher earner will still transfer money to the other parent.
+- id: q2
+  question: >-
+    A father and mother sign a private agreement that he will pay ₪1,000 a month for their son and the
+    mother waives any further claim. Two years later the boy, through his mother, sues for more. Is the
+    agreement a defence?
+  options:
+    - >-
+      No, because without court approval it does not bind the child.
+    - >-
+      Yes, because both parents signed it freely and in writing.
+    - >-
+      Yes, if it was certified by a notary or a lawyer.
+    - >-
+      No, because maintenance agreements are void and courts always decide the amount themselves.
+  correct: 0
+  explanation: >-
+    Section 12(א) of the Maintenance Law makes an agreement or waiver on a minor's maintenance non-binding
+    on the child until approved by the court; approved agreements are possible and common.
+- id: q3
+  question: >-
+    Yael filed a request to settle the dispute on 1 March. Her husband stopped paying for the children
+    the same week. She cannot wait for the end of the stay. What can she file?
+  options:
+    - >-
+      Nothing until the stay ends, because the stay bars every application.
+    - >-
+      A full maintenance claim immediately, since maintenance claims are exempt from the law.
+    - >-
+      A short urgent-relief request for interim maintenance during the stay.
+    - >-
+      A complaint to National Insurance, which pays without any judgment.
+  correct: 2
+  explanation: >-
+    Interim maintenance during the stay is sought by an urgent-relief request (Dispute Resolution
+    Regulations reg. 12(ה)), and a later maintenance claim is treated as filed on the date of the request
+    (reg. 15(ב)). NII pays only on a judgment.
+- id: q4
+  question: >-
+    A father was ordered to pay maintenance in 2024. In 2026 he lost his job and wants to pay less. What
+    is the right step?
+  options:
+    - >-
+      Stop paying and explain the job loss to the Execution Office if a file is opened.
+    - >-
+      Apply to the court to vary the order on the changed circumstances.
+    - >-
+      Ask the other parent to sign a new private agreement reducing the sum.
+    - >-
+      Appeal the 2024 judgment out of time on the ground of new facts.
+  correct: 1
+  explanation: >-
+    Section 13 of the Maintenance Law allows the court to vary a judgment on changed circumstances.
+    Stopping payment creates arrears, and a private agreement on a child's maintenance needs approval.

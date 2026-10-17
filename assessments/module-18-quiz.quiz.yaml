@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    Samir and Hiba, Greek Orthodox Christians from Nazareth, separate. Hiba wants child maintenance and
+    custody decided in a civil court. Can she file in the Family Court?
+  options:
+    - >-
+      No, all family matters of Christians belong exclusively to their church court.
+    - >-
+      Yes, the Family Court may hear their family matters other than marriage and divorce.
+    - >-
+      Only if Samir consents in writing, since the church court has exclusive jurisdiction.
+    - >-
+      Yes, and the Family Court may also dissolve their marriage under civil law.
+  correct: 1
+  explanation: >-
+    Section 3(ב1) of the Family Court Law gives the Family Court jurisdiction in family matters of members
+    of communities under art. 52 and 54 of the Order in Council, except marriage and divorce. She must
+    start with a request to settle the dispute.
+- id: q2
+  question: >-
+    Oren (registered Jewish) and Natalia (registered of no religion) married online through Utah County
+    in 2025 while at home in Ashdod. Two years later they want to separate. Which statement is accurate?
+  options:
+    - >-
+      Their marriage is void in Israel, because the ceremony took place in Israel.
+    - >-
+      They can be divorced only by agreement before the Couples Registrar.
+    - >-
+      The registration is lawful; dissolution is a separate question.
+    - >-
+      The rabbinical court must divorce them under s. 1 of the 1953 Law, as both are Jewish.
+  correct: 2
+  explanation: >-
+    Under Brill (2023) online marriages are registered on the foreign certificate; registration does not
+    decide validity or the dissolution route. As spouses of different religious status, the 1969 Law route
+    (lesson 10.4) is the starting point, with professional advice.
+- id: q3
+  question: >-
+    Gil and Tamar, married in 2010 with no agreement, have lived apart under one roof since January. In
+    November Tamar wants her share of Gil's pension and the savings in his name. No case has been filed.
+    What can she do?
+  options:
+    - >-
+      File a request to settle, then seek an early balance under s. 5א.
+    - >-
+      Nothing until a divorce is granted, because the balance arises only on dissolution.
+    - >-
+      Ask Gil's pension fund to transfer half the balance on her written request.
+    - >-
+      Ask the rabbinical court for a property order without any civil law applying.
+  correct: 0
+  explanation: >-
+    Section 5א(א)(2) allows an early balance after nine months of estrangement or separate living, even
+    under one roof, within a year. The pension fund acts only on a judgment (2014 Law). The rabbinical
+    court would also be bound by the civil law unless both consent otherwise (s. 13).
+- id: q4
+  question: >-
+    Ronit, a teacher earning ₪10,000, and Yoav, earning ₪30,000, are Jewish parents of children aged 8
+    and 12 with equal parenting time. Yoav argues that equal time means no maintenance payment. What is
+    the likely approach?
+  options:
+    - >-
+      Yoav is right: equal time cancels maintenance between parents.
+    - >-
+      Yoav pays all needs, because the duty under Jewish law is his alone.
+    - >-
+      Ronit pays Yoav, since the children spend half their time in his more expensive home.
+    - >-
+      Needs are shared by income, so Yoav still pays Ronit, as the higher earner.
+  correct: 3
+  explanation: >-
+    Under בע״מ 919/15, for ages 6–15 both parents share by relative income and parenting time. With equal
+    time and unequal income, the higher earner still transfers money to the other parent.
+- id: q5
+  question: >-
+    Separated parents of a 4-year-old cannot agree on residence. The father shows that he is a loving and
+    capable parent. What is the starting point in the Family Court?
+  options:
+    - >-
+      Equal shared residence, which has replaced custody in Israeli law.
+    - >-
+      The mother, unless weighty evidence shows special reasons.
+    - >-
+      The parent with the more suitable housing, as found by a social worker.
+    - >-
+      The child's own stated wishes, which are decisive at any age.
+  correct: 1
+  explanation: >-
+    Section 25 of the Capacity Law keeps the tender-years presumption for children up to six; בע״מ 1858/14
+    requires weighty evidence to rebut it. Reform was recommended but not enacted as of October 2026.
+- id: q6
+  question: >-
+    A man in Rahat threatened his wife and broke her phone last night. She wants protection today and has
+    not filed anything else. What is correct?
+  options:
+    - >-
+      She must first file a request to settle the dispute and attend a mahut meeting.
+    - >-
+      She must pay the Family Court fee for a family claim before the request is heard.
+    - >-
+      She may apply today in any magistrates' court, with no fee and no request to settle.
+    - >-
+      She may apply only to the Sharia court, which has exclusive jurisdiction over Muslim couples.
+  correct: 2
+  explanation: >-
+    Protection orders may be given by any magistrates' court (Family Court Law s. 4(ג)), are fee-free and
+    are excluded from the Dispute Resolution Law (s. 4א(3)). Religious courts have power only for their
+    parties, not exclusive power. Police 100; hotline 118.
+- id: q7
+  question: >-
+    Two cohabitants lived together for 12 years; the house is registered to Ido. On separation, Merav
+    claims half. She paid part of the renovation but there is no written agreement. What decides the case?
+  options:
+    - >-
+      Proof that they intended to share this house in particular.
+    - >-
+      The balance-of-resources rules, which apply to all cohabitants after five years.
+    - >-
+      Succession Law s. 55, which gives cohabitants the rights of spouses.
+    - >-
+      The registration, which is conclusive between cohabitants.
+  correct: 0
+  explanation: >-
+    The Property Relations Law does not apply to cohabitants, and under בע״מ 2478/14 an intention to share
+    must be shown for each separately acquired asset. Section 55 concerns inheritance on death.
+- id: q8
+  question: >-
+    At the first mahut meeting, the assistance-unit social worker hands the parents an interim parenting
+    and maintenance agreement and asks them to sign it before they leave. What should a careful parent do?
+  options:
+    - >-
+      Sign at once, because an agreement made at the unit is privileged and cannot be used later.
+    - >-
+      Refuse to discuss interim arrangements, because the first meeting is only about information.
+    - >-
+      Ask the unit to send the agreement directly to the court for approval without signing.
+    - >-
+      Take time to consult first; the regulations bar signing commitments without that opportunity.
+  correct: 3
+  explanation: >-
+    Regulation 5(ב) permits trying to agree interim arrangements at the first meeting if both wish, and
+    reg. 5(ה) bars signing any agreement or commitment before the parties could consult a lawyer or anyone else.
+- id: q9
+  question: >-
+    A female couple: Shira gave birth through anonymous sperm donation. They are registered as married after
+    a wedding abroad. Shira's partner wants to be recognised as the child's legal parent. Which route?
+  options:
+    - >-
+      None is needed, because registration as married makes her a parent.
+    - >-
+      A parentage order from the Ministry of Health approvals committee.
+    - >-
+      Second-parent adoption in the Family Court, following Yaros-Hakak.
+    - >-
+      A declaration of parenthood by the Population Registry on joint request.
+  correct: 2
+  explanation: >-
+    Ben-Ari decided only registration of the marriage. Second-parent adoption under s. 25 of the Adoption
+    Law, approved in Yaros-Hakak, is the route; the approvals committee deals with surrogacy in Israel.
+- id: q10
+  question: >-
+    Engaged couple Adam and Lina sign a property agreement three months before their wedding. They do not
+    want to go to court. Which option makes it effective?
+  options:
+    - >-
+      Certification by a notary before the wedding.
+    - >-
+      Signing before two witnesses and keeping a copy each.
+    - >-
+      Registering it with the Population Registry after the wedding.
+    - >-
+      Nothing: any written agreement between future spouses is valid.
+  correct: 0
+  explanation: >-
+    Section 2(ג1) allows a pre-marriage agreement to be certified by a notary; s. 2(ג) also allows the marriage
+    registrar. Otherwise court approval is needed (s. 2(א)).

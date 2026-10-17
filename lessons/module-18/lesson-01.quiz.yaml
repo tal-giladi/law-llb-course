@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Yael and her brother disagree about their late mother's apartment and Yael wants to sue him.
+    Which court hears the claim?
+  options:
+    - >-
+      The magistrates' or district court by value, because siblings are not spouses.
+    - >-
+      The Family Court, because a claim between siblings arising from a family dispute is a family matter.
+    - >-
+      The rabbinical court, because inheritance is a personal-status matter for Jews.
+    - >-
+      The Registrar of Inheritance, because only the registrar may decide disputes over an estate.
+  correct: 1
+  explanation: >-
+    Section 1(2) of the Family Court Law covers civil claims between family members, including siblings,
+    whatever the value, and s. 1(6)(ה) adds Succession Law disputes. The rabbinical court could hear
+    inheritance only with everyone's consent.
+- id: q2
+  question: >-
+    A Jewish mother sues in the Family Court for child maintenance. Which law decides the father's
+    maintenance obligation?
+  options:
+    - >-
+      The civil rules of the Maintenance Law, because the case is in a civil court.
+    - >-
+      The Women's Equal Rights Law, which replaces religious law in every civil court.
+    - >-
+      Jewish law as the father's personal law, under s. 3 of the Maintenance Law.
+    - >-
+      Whatever law the parents choose in a written agreement filed with the claim.
+  correct: 2
+  explanation: >-
+    Sections 2 and 3 of the Maintenance Law refer spousal and child maintenance to the personal law;
+    the civil rules apply only to people with no applicable personal law. The forum does not change the
+    governing law.
+- id: q3
+  question: >-
+    During a property hearing in the rabbinical court, the clerk hands you a form saying you agree to
+    litigate "according to Torah law". What is the legal effect of signing it?
+  options:
+    - >-
+      None, because the rabbinical court must always apply the Property Relations Law.
+    - >-
+      It transfers the property issue to the Family Court for a civil ruling instead.
+    - >-
+      It lets the court decide only custody, since property cannot be decided by consent.
+    - >-
+      It may waive the civil property rules, which bind the court unless the parties consent before it.
+  correct: 3
+  explanation: >-
+    Section 13(ב) of the Property Relations Law, like s. 7(ב) of the Women's Equal Rights Law, binds
+    religious courts unless the parties agree before the court to religious law. Consent therefore has
+    real consequences.
+- id: q4
+  question: >-
+    A woman needs a protection order tonight and the nearest court is a magistrates' court that is not
+    designated as a Family Court. Can it give the order?
+  options:
+    - >-
+      Yes, because s. 4(ג) of the Family Court Law lets any magistrates' court give such orders.
+    - >-
+      No, because protection orders are family matters reserved to the Family Court.
+    - >-
+      Only if the couple are not married, since married couples go to the religious court.
+    - >-
+      Only after she files a request to settle the dispute and attends the first mahut meeting.
+  correct: 0
+  explanation: >-
+    Orders under the Prevention of Family Violence Law may be given by a magistrates' court that is not
+    a Family Court (s. 4(ג)), and the Dispute Resolution Law does not apply to these proceedings (s. 4א).

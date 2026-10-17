@@ -1,0 +1,1292 @@
+- id: m18-001
+  module: 18
+  lesson: "18.1"
+  subject: family-matters
+  difficulty: 1
+  question: >-
+    A grandmother wants to sue her grandson for return of a loan she gave him after a family quarrel. Which court hears it?
+  options:
+    - >-
+      The magistrates' court, because loans are ordinary civil claims.
+    - >-
+      The small-claims court, because it concerns a private loan between relatives.
+    - >-
+      The Family Court, since grandchildren are family members under s. 1.
+    - >-
+      The district court, because family disputes over money go there by default.
+  correct: 2
+  explanation: >-
+    Section 1(2) of the Family Court Law covers civil claims between a person and a grandchild arising from a family dispute, whatever the value.
+- id: m18-002
+  module: 18
+  lesson: "18.1"
+  subject: personal-law
+  difficulty: 2
+  question: >-
+    A Druze husband is sued for spousal maintenance in the Family Court. Which law fixes his duty?
+  options:
+    - >-
+      His personal law as a Druze, under s. 2 of the Maintenance Law.
+    - >-
+      The civil rules of the Maintenance Law, because the court is civil.
+    - >-
+      Jewish law, because the Family Court applies it to all citizens.
+    - >-
+      Whatever the Women's Equal Rights Law provides, which replaces personal law.
+  correct: 0
+  explanation: >-
+    Section 2(א) refers spousal maintenance to the personal law; the civil rules apply only to those without a listed community or personal law (s. 2(ב)).
+- id: m18-003
+  module: 18
+  lesson: "18.1"
+  subject: religious-courts-bound
+  difficulty: 2
+  question: >-
+    A rabbinical court hearing property joined to a divorce applies Jewish-law rules and ignores the Property Relations Law. Neither spouse consented to religious law. What is the legal position?
+  options:
+    - >-
+      It may apply Jewish law, because property joined to a divorce is personal status.
+    - >-
+      It may apply either, because joinder transfers the choice of law to the court.
+    - >-
+      It must apply Jewish law, because s. 13 binds only the Family Court.
+    - >-
+      It must apply the civil statute; the HCJ may intervene.
+  correct: 3
+  explanation: >-
+    Section 13(ב) binds religious courts unless the parties consent before the court; Bavli (HCJ 1000/92) applied civil property rules to rabbinical courts.
+- id: m18-004
+  module: 18
+  lesson: "18.1"
+  subject: family-court-procedure
+  difficulty: 2
+  question: >-
+    In the Family Court, the judge appoints a psychologist to assess the children. A father wants to bring his own expert as well. What is the rule?
+  options:
+    - >-
+      He may always bring his own expert to balance the court's expert.
+    - >-
+      He may do so only with the court's leave.
+    - >-
+      He may not, because experts are never allowed in family cases.
+    - >-
+      He may, if he files the opinion within 30 days of the court's expert.
+  correct: 1
+  explanation: >-
+    Section 8(ג) of the Family Court Law bars a party's own expert where the court appointed one, except with leave.
+- id: m18-005
+  module: 18
+  lesson: "18.1"
+  subject: assistance-unit-privilege
+  difficulty: 2
+  question: >-
+    In a mediation session at the assistance unit, a mother admits she once left the children alone overnight. Can the father use this statement in the custody hearing?
+  options:
+    - >-
+      Yes, any admission by a party can be used against her.
+    - >-
+      Generally no; what is said to the unit is privileged.
+    - >-
+      Yes, if the social worker writes it in her notes.
+    - >-
+      No, unless the mother repeats it in her affidavit.
+  correct: 1
+  explanation: >-
+    Section 5א makes statements to the assistance unit privileged and inadmissible, with exceptions such as suspected offences against a minor or grounds for a protection order.
+- id: m18-006
+  module: 18
+  lesson: "18.1"
+  subject: forum-choice
+  difficulty: 3
+  question: >-
+    Spot the mistake: a self-represented wife writes in her claim, 'Because we are Jewish, the Family Court must decide our property under Jewish law.' What is wrong?
+  options:
+    - >-
+      Nothing; the Family Court applies personal law to all issues.
+    - >-
+      Jewish couples' property can be decided only in the rabbinical court.
+    - >-
+      The claim should cite Sharia law, which governs property in Israel.
+    - >-
+      Property is governed by the civil Property Relations Law.
+  correct: 3
+  explanation: >-
+    Personal law governs maintenance and marriage, but property between spouses married since 1974 is governed by the Property Relations Law in every forum (s. 13).
+- id: m18-007
+  module: 18
+  lesson: "18.1"
+  subject: venue
+  difficulty: 2
+  question: >-
+    A couple last lived together in Beersheba; the husband still lives there and the wife moved to Haifa. Where is the first family claim between them filed?
+  options:
+    - >-
+      The Family Court in Beersheba, the last joint residence.
+    - >-
+      The Family Court in Haifa, where the claimant lives.
+    - >-
+      Any Family Court the claimant chooses in Israel.
+    - >-
+      The Family Court in Jerusalem, which hears interdistrict disputes.
+  correct: 0
+  explanation: >-
+    Regulation 6(א) of the Family Court Procedure Regulations sends the first claim between spouses to the court of their last joint residence if one of them still lives there.
+- id: m18-008
+  module: 18
+  lesson: "18.2"
+  subject: marriage-age
+  difficulty: 1
+  question: >-
+    A 16-year-old and her family ask whether she may marry. What does the law provide?
+  options:
+    - >-
+      She may marry with both parents' written consent.
+    - >-
+      She may marry if her religious community permits it.
+    - >-
+      Only with a Family Court permit for special reasons.
+    - >-
+      She may never marry before 18, without exception.
+  correct: 2
+  explanation: >-
+    The minimum age is 18 (Marriage Age Law s. 2); the Family Court may permit marriage from 16 for special reasons connected with her welfare, after hearing her (s. 5).
+- id: m18-009
+  module: 18
+  lesson: "18.2"
+  subject: registration
+  difficulty: 1
+  question: >-
+    A registration clerk refuses to register a Cyprus marriage, saying he doubts it is valid under the spouses' religion. What is the rule?
+  options:
+    - >-
+      He may refuse until a court declares the marriage valid.
+    - >-
+      He may register it as 'pending' until a rabbinical court rules.
+    - >-
+      He may refuse if either spouse's religion forbids the marriage.
+    - >-
+      He must register it on the public certificate.
+  correct: 3
+  explanation: >-
+    Funk-Schlesinger (HCJ 143/62): the official's function is statistical; he registers on a public document and does not decide validity.
+- id: m18-010
+  module: 18
+  lesson: "18.2"
+  subject: couples-covenant
+  difficulty: 2
+  question: >-
+    Two men registered as of no religion want a Couples Covenant. What is the position?
+  options:
+    - >-
+      They are eligible, as both are of no religion.
+    - >-
+      They are eligible after a religious court confirms they have no religion.
+    - >-
+      They are not eligible; the Law requires a man and a woman.
+    - >-
+      They may register only if one of them is a foreign citizen.
+  correct: 2
+  explanation: >-
+    Section 1 of the Couples Covenant Law defines a couple as a man and a woman; same-sex couples use marriage abroad or online, or cohabitation.
+- id: m18-011
+  module: 18
+  lesson: "18.2"
+  subject: dissolution-abroad
+  difficulty: 2
+  question: >-
+    Two Muslims who married civilly in Cyprus want to divorce. Which forum is the starting point?
+  options:
+    - >-
+      The Family Court, because the marriage was civil.
+    - >-
+      The Sharia court, which has jurisdiction over Muslims' divorce.
+    - >-
+      A Cypriot court, because it was a Cypriot marriage.
+    - >-
+      The rabbinical court, which handles all civil marriages abroad.
+  correct: 1
+  explanation: >-
+    Marriage and divorce of Muslims are within the Sharia court's jurisdiction (art. 52; lesson 10.4); the Family Court's s. 3(ב1) jurisdiction excludes marriage and divorce.
+- id: m18-012
+  module: 18
+  lesson: "18.2"
+  subject: utah-ruling
+  difficulty: 3
+  question: >-
+    In the Brill appeal (2023), which argument did the Supreme Court accept?
+  options:
+    - >-
+      The clerk may not examine where the ceremony took place.
+    - >-
+      Online marriages are valid in Israel for every purpose.
+    - >-
+      The marriage was valid because Utah law applies to Israelis.
+    - >-
+      The Knesset had expressly authorised online marriages in 2021.
+  correct: 0
+  explanation: >-
+    The Court applied Funk-Schlesinger: registration is statistical and based on the certificate. It did not decide validity for other purposes.
+- id: m18-013
+  module: 18
+  lesson: "18.2"
+  subject: registry-evidence
+  difficulty: 3
+  question: >-
+    Which of these registry details is prima facie evidence under s. 3 of the Population Registry Law?
+  options:
+    - >-
+      Marital status.
+    - >-
+      Religion.
+    - >-
+      Date of birth.
+    - >-
+      Nationality.
+  correct: 2
+  explanation: >-
+    Section 3 covers items (1)–(4) and (9)–(13) of s. 2: names, parents' names, date and place of birth, sex and some others; not religion, nationality or marital status.
+- id: m18-014
+  module: 18
+  lesson: "18.2"
+  subject: registration-duty
+  difficulty: 1
+  question: >-
+    A Jewish couple marry in a private ceremony with an Orthodox rabbi who is not a marriage registrar, and never register it. What risk do they take?
+  options:
+    - >-
+      An offence of failing to register the marriage, among others.
+    - >-
+      None; private ceremonies have no legal effect in Israel.
+    - >-
+      Automatic invalidity of the marriage under civil law.
+    - >-
+      A fine imposed by the Population Registry without a hearing.
+  correct: 0
+  explanation: >-
+    Section 7 of the Marriage and Divorce (Registration) Ordinance makes it an offence not to ensure registration of one's own marriage; status questions also arise.
+- id: m18-015
+  module: 18
+  lesson: "18.3"
+  subject: cohabitants-definition
+  difficulty: 1
+  question: >-
+    Which two elements make a couple 'known in public' in Israeli case law?
+  options:
+    - >-
+      A public ceremony and a written agreement.
+    - >-
+      Two years of cohabitation and a joint bank account.
+    - >-
+      Registration at the same address and joint children.
+    - >-
+      Family life and a joint household.
+  correct: 3
+  explanation: >-
+    The classic test (Justice Berinson) requires intimate family life and a joint household; the wording varies between statutes.
+- id: m18-016
+  module: 18
+  lesson: "18.3"
+  subject: s55
+  difficulty: 2
+  question: >-
+    Cohabitants lived together 20 years; the woman died without a will. The man was still married to his first wife. Does he inherit under s. 55?
+  options:
+    - >-
+      Yes; long cohabitation overrides the marriage condition.
+    - >-
+      No; s. 55 requires that neither was married to another.
+    - >-
+      Yes, but only half of a spouse's share.
+    - >-
+      No; s. 55 applies only to same-sex couples.
+  correct: 1
+  explanation: >-
+    Section 55 of the Succession Law applies only if at the death neither partner was married to someone else.
+- id: m18-017
+  module: 18
+  lesson: "18.3"
+  subject: pension-cohabitant
+  difficulty: 1
+  question: >-
+    After separation, a cohabitant wants a share of her partner's pension savings. Does the 2014 Pension Savings Division Law help?
+  options:
+    - >-
+      No; it applies only to divorced spouses.
+    - >-
+      Yes; it covers a partner known in public.
+    - >-
+      No; it covers only budgetary pensions.
+    - >-
+      Yes, but only after the partner retires.
+  correct: 1
+  explanation: >-
+    Section 2 defines 'spouse' to include a partner known in public; a judgment dividing the savings can be registered with the fund.
+- id: m18-018
+  module: 18
+  lesson: "18.3"
+  subject: ben-ari
+  difficulty: 1
+  question: >-
+    What did HCJ 3045/05 (Ben-Ari) decide?
+  options:
+    - >-
+      Same-sex marriages are valid in Israel for all purposes.
+    - >-
+      Same-sex couples may marry before an Israeli registrar.
+    - >-
+      Same-sex couples may adopt jointly as a married couple.
+    - >-
+      Same-sex marriages abroad must be registered.
+  correct: 3
+  explanation: >-
+    The majority applied the registration rule and stressed it decided nothing on recognition of same-sex marriage.
+- id: m18-019
+  module: 18
+  lesson: "18.3"
+  subject: cohabitants-property
+  difficulty: 3
+  question: >-
+    Spot the mistake in a cohabitant's claim: 'As we lived together for ten years, I am entitled to half of every asset under the Property Relations Law.'
+  options:
+    - >-
+      The Law does not apply to cohabitants.
+    - >-
+      Ten years is too short; the Law needs 15 years.
+    - >-
+      Cohabitants get a third, not half, under the Law.
+    - >-
+      The claim must be filed in the rabbinical court.
+  correct: 0
+  explanation: >-
+    The Property Relations Law applies to married couples (and Couples Covenant partners); cohabitants must prove an intention to share each asset (בע״מ 2478/14).
+- id: m18-020
+  module: 18
+  lesson: "18.3"
+  subject: proof
+  difficulty: 2
+  question: >-
+    An insurer refuses to pay a 'spouse' death benefit to a partner who lived with the deceased for eight months and planned a wedding. What does רע״א 3323/23 suggest?
+  options:
+    - >-
+      Any cohabitation is enough for insurance benefits.
+    - >-
+      Only a registered marriage can ever qualify.
+    - >-
+      Living together and planning a wedding may not suffice.
+    - >-
+      A planned wedding automatically proves cohabitation.
+  correct: 2
+  explanation: >-
+    In 3323/23 (12.5.2024), as reported, the Court held that living together and wedding plans do not in themselves prove the required intention.
+- id: m18-021
+  module: 18
+  lesson: "18.4"
+  subject: exclusions
+  difficulty: 1
+  question: >-
+    Which asset is excluded from the balance of resources by default?
+  options:
+    - >-
+      A car bought during the marriage from one spouse's salary.
+    - >-
+      A pension accumulated during the marriage.
+    - >-
+      Savings accumulated from both salaries.
+    - >-
+      A car one spouse received as a gift from a parent.
+  correct: 3
+  explanation: >-
+    Gifts and inheritances received during the marriage are excluded (s. 5(א)(1)); pensions and savings are included (s. 5(ג)).
+- id: m18-022
+  module: 18
+  lesson: "18.4"
+  subject: debts
+  difficulty: 2
+  question: >-
+    In calculating the balance, how are a spouse's debts treated?
+  options:
+    - >-
+      Ignored, because only assets and not debts are ever balanced.
+    - >-
+      Shared equally between the spouses, whoever incurred them.
+    - >-
+      Deducted from that spouse's assets, save debts for excluded ones.
+    - >-
+      Deducted only if both spouses signed the loan agreement.
+  correct: 2
+  explanation: >-
+    Section 6(א) deducts each spouse's debts from his balanceable assets, except debts relating to excluded assets.
+- id: m18-023
+  module: 18
+  lesson: "18.4"
+  subject: early-balance
+  difficulty: 2
+  question: >-
+    A wife filed a property claim 13 months ago; the divorce is stuck. Can she ask for the balance now?
+  options:
+    - >-
+      No; the balance arises only on divorce.
+    - >-
+      Yes; a year has passed since the claim.
+    - >-
+      Only if her husband agrees in writing.
+    - >-
+      Only if the rabbinical court approves.
+  correct: 1
+  explanation: >-
+    Section 5א(א)(1)(ב) allows an early balance when a year has passed since a property claim was opened.
+- id: m18-024
+  module: 18
+  lesson: "18.4"
+  subject: unequal-division
+  difficulty: 3
+  question: >-
+    A husband with high earning capacity and a wife who stayed home for 20 years divorce. Can the court divide the assets unequally?
+  options:
+    - >-
+      Yes, in special circumstances under s. 8(2).
+    - >-
+      No, the Law requires an exact half of every asset in every case.
+    - >-
+      Only if the husband agreed to it in a property agreement.
+    - >-
+      Only for assets acquired in the last five years of the marriage.
+  correct: 0
+  explanation: >-
+    Section 8(2) permits a ratio other than half, considering future assets and earning capacity, in special circumstances.
+- id: m18-025
+  module: 18
+  lesson: "18.4"
+  subject: home
+  difficulty: 2
+  question: >-
+    The court finds the apartment must be sold to carry out the balance, but the mother lives there with the minor children. What happens?
+  options:
+    - >-
+      The sale proceeds at once, as the balance requires it.
+    - >-
+      The mother must buy the father's share within 30 days.
+    - >-
+      The sale is stayed until suitable housing is arranged.
+    - >-
+      The children's share is held in trust until they turn 18.
+  correct: 2
+  explanation: >-
+    Section 6א stays the sale until the court is satisfied that the children and the parent holding them have suitable alternative housing.
+- id: m18-026
+  module: 18
+  lesson: "18.4"
+  subject: s11
+  difficulty: 3
+  question: >-
+    Which measure can a court order under s. 11 to protect a spouse's future balance right?
+  options:
+    - >-
+      Registration of a note in the Land Registry.
+    - >-
+      Automatic transfer of half of each asset.
+    - >-
+      Criminal prosecution for hiding assets.
+    - >-
+      Freezing all of the other spouse's income.
+  correct: 0
+  explanation: >-
+    Section 11 allows information and security orders, requiring both spouses' consent for acts, and noting the right in a public register.
+- id: m18-027
+  module: 18
+  lesson: "18.4"
+  subject: agreement-approval
+  difficulty: 1
+  question: >-
+    A couple married five years ago want to sign a property agreement now. How is it made effective?
+  options:
+    - >-
+      By notarial certification, like a pre-marriage agreement.
+    - >-
+      By the marriage registrar's certification at the rabbinate.
+    - >-
+      By signing it before two lawyers who act as witnesses.
+    - >-
+      By court approval, Family Court or religious court.
+  correct: 3
+  explanation: >-
+    After the wedding only court approval is available (s. 2(א)); notary and registrar certification are for pre-marriage agreements.
+- id: m18-028
+  module: 18
+  lesson: "18.4"
+  subject: pre-1974
+  difficulty: 3
+  question: >-
+    A couple married in 1970 are divorcing. Which property regime applies?
+  options:
+    - >-
+      The 1973 balance of resources, which applies to all couples.
+    - >-
+      The case-law presumption of community.
+    - >-
+      Jewish law only, as before the Law.
+    - >-
+      Separate property with no sharing at all.
+  correct: 1
+  explanation: >-
+    Section 14 of the Property Relations Law excludes the balance regime for couples married before 1 January 1974; the presumption of community applies.
+- id: m18-029
+  module: 18
+  lesson: "18.5"
+  subject: maintenance-agreement
+  difficulty: 1
+  question: >-
+    Parents agree in mediation on child maintenance. What must happen for it to bind the child?
+  options:
+    - >-
+      Signature before a lawyer.
+    - >-
+      Court approval of the agreement.
+    - >-
+      Registration at the Execution Office.
+    - >-
+      Notification to National Insurance.
+  correct: 1
+  explanation: >-
+    Section 12(א) of the Maintenance Law: an agreement on a minor's maintenance does not bind the minor until the court approves it.
+- id: m18-030
+  module: 18
+  lesson: "18.5"
+  subject: 919-15
+  difficulty: 1
+  question: >-
+    In בע״מ 919/15, how many justices sat and what age band did the ruling address?
+  options:
+    - >-
+      Three; children under 6.
+    - >-
+      Five; children aged 15 to 18.
+    - >-
+      Nine; all minor children.
+    - >-
+      Seven; children aged 6 to 15.
+  correct: 3
+  explanation: >-
+    An expanded panel of seven held that for ages 6–15 maintenance is divided by relative income and parenting time.
+- id: m18-031
+  module: 18
+  lesson: "18.5"
+  subject: retroactive
+  difficulty: 2
+  question: >-
+    A mother sues in 2026 for child maintenance for 2023, without explanation for the delay. What may the court do?
+  options:
+    - >-
+      It may reject that part as filed too late.
+    - >-
+      It must award it, since maintenance never expires.
+    - >-
+      It must reduce it by half for the delay.
+    - >-
+      It may award it only if the father consents.
+  correct: 0
+  explanation: >-
+    Section 11(א) lets the court reject a maintenance claim filed more than a year after the period claimed, absent a reasonable explanation.
+- id: m18-032
+  module: 18
+  lesson: "18.5"
+  subject: variation
+  difficulty: 2
+  question: >-
+    A father whose order dates from four months ago asks to reduce maintenance; he already asked once two months ago. What may the court do?
+  options:
+    - >-
+      It must hear every request immediately.
+    - >-
+      It must reduce maintenance if his income fell at all.
+    - >-
+      Decline to hear it within six months.
+    - >-
+      It may consider it only after a year.
+  correct: 2
+  explanation: >-
+    Section 13(ב) allows the court not to consider a variation request filed within six months of a previous one.
+- id: m18-033
+  module: 18
+  lesson: "18.5"
+  subject: nii
+  difficulty: 2
+  question: >-
+    A mother has a maintenance judgment but the father pays nothing. Which body may pay her monthly and collect from him?
+  options:
+    - >-
+      The Family Court's assistance unit.
+    - >-
+      The welfare office, under the Welfare Services Law.
+    - >-
+      The Legal Aid department.
+    - >-
+      National Insurance, under the 1972 Law.
+  correct: 3
+  explanation: >-
+    Section 2 of the 1972 Law lets a resident judgment holder ask NII for monthly payments, subject to conditions; NII then collects from the debtor.
+- id: m18-034
+  module: 18
+  lesson: "18.5"
+  subject: stay-interim
+  difficulty: 3
+  question: >-
+    During the stay after a request to settle, a father stops paying for the children. Which route does the mother use?
+  options:
+    - >-
+      A full maintenance claim, which the stay does not cover.
+    - >-
+      An execution file without any judgment.
+    - >-
+      An urgent-relief request under reg. 12.
+    - >-
+      A protection order for economic abuse.
+  correct: 2
+  explanation: >-
+    Regulation 12(ה) of the Dispute Resolution Regulations requires interim maintenance during the stay to be sought as urgent relief.
+- id: m18-035
+  module: 18
+  lesson: "18.5"
+  subject: form4
+  difficulty: 3
+  question: >-
+    A father ignores the income section of his Form 4 particulars. The mother stated his income as ₪25,000. What may follow?
+  options:
+    - >-
+      Nothing; the burden is on the mother to prove his income.
+    - >-
+      He may be treated as admitting her figure.
+    - >-
+      The court must order an accountant at the mother's expense.
+    - >-
+      The claim is struck out for both parties.
+  correct: 1
+  explanation: >-
+    Regulation 12(ב)(2): a party who does not give a particular within his knowledge is treated as admitting the other party's version.
+- id: m18-036
+  module: 18
+  lesson: "18.6"
+  subject: guardianship
+  difficulty: 1
+  question: >-
+    After separation, which parent remains a guardian of the children?
+  options:
+    - >-
+      Both parents, unless a court orders otherwise.
+    - >-
+      Only the parent the children live with.
+    - >-
+      Only the parent who pays maintenance.
+    - >-
+      Neither, until the court decides custody.
+  correct: 0
+  explanation: >-
+    Both parents are natural guardians (s. 14); separation does not end either parent's guardianship.
+- id: m18-037
+  module: 18
+  lesson: "18.6"
+  subject: s18-urgent
+  difficulty: 1
+  question: >-
+    A child is injured and needs surgery tonight; the other parent cannot be reached. May one parent consent alone?
+  options:
+    - >-
+      No, both parents must always consent.
+    - >-
+      Only with a court order obtained tonight.
+    - >-
+      Yes, in a matter that cannot wait.
+    - >-
+      Only the parent with custody may consent.
+  correct: 2
+  explanation: >-
+    Section 18(א) allows one parent to act alone in a matter that cannot wait.
+- id: m18-038
+  module: 18
+  lesson: "18.6"
+  subject: tender-years
+  difficulty: 2
+  question: >-
+    Which statement about s. 25 is accurate in October 2026?
+  options:
+    - >-
+      It is in force; reform proposals were not enacted.
+    - >-
+      It was repealed after the Schnitt Committee report.
+    - >-
+      It applies only to children under three.
+    - >-
+      It was replaced by equal shared custody in 2014.
+  correct: 0
+  explanation: >-
+    The Schnitt Committee recommended abolition and a bill was tabled in 2014, but s. 25 remains in force; בע״מ 1858/14 applied it.
+- id: m18-039
+  module: 18
+  lesson: "18.6"
+  subject: hearing-child
+  difficulty: 2
+  question: >-
+    A 12-year-old wants to tell the judge where she prefers to live. What is the rule?
+  options:
+    - >-
+      Children are never heard in custody cases.
+    - >-
+      Only children aged 15 and over may be heard.
+    - >-
+      Her wishes bind the court if she is over 12.
+    - >-
+      She may be heard; weight depends on maturity.
+  correct: 3
+  explanation: >-
+    Regulation 49 gives the child an opportunity to express views, given due weight by age and maturity.
+- id: m18-040
+  module: 18
+  lesson: "18.6"
+  subject: agreement-approval
+  difficulty: 1
+  question: >-
+    Parents sign a parenting plan. When is it approved by the court?
+  options:
+    - >-
+      Automatically, if both parents signed.
+    - >-
+      When the court finds it in the child's interest.
+    - >-
+      Only after a social worker's report in every case.
+    - >-
+      Only if both parents are represented.
+  correct: 1
+  explanation: >-
+    Section 24 requires approval, given only if the agreement is in the child's best interest.
+- id: m18-041
+  module: 18
+  lesson: "18.6"
+  subject: relocation
+  difficulty: 3
+  question: >-
+    A mother wants to move with the children from Haifa to Eilat for a new job; the father objects. What should she do?
+  options:
+    - >-
+      Move first and notify the father within 30 days.
+    - >-
+      Seek the court's decision before moving.
+    - >-
+      Move, since the resident parent decides residence alone.
+    - >-
+      Ask the welfare office to approve the move.
+  correct: 1
+  explanation: >-
+    Deciding the child's residence is part of guardianship that both parents share (ss. 15, 18); without agreement, the court decides (s. 19, 25).
+- id: m18-042
+  module: 18
+  lesson: "18.6"
+  subject: hague
+  difficulty: 2
+  question: >-
+    A child was taken from Israel to another country without the other parent's consent. Which Israeli court handles a return claim under the Hague Convention?
+  options:
+    - >-
+      The district court.
+    - >-
+      The High Court of Justice.
+    - >-
+      The rabbinical court.
+    - >-
+      The Family Court.
+  correct: 3
+  explanation: >-
+    Return of an abducted child is a family matter (Family Court Law s. 1(5)); the procedure regulations set a dedicated chapter.
+- id: m18-043
+  module: 18
+  lesson: "18.7"
+  subject: family-member
+  difficulty: 1
+  question: >-
+    Who is protected under the Prevention of Family Violence Law?
+  options:
+    - >-
+      Current and former relatives, cohabitants included.
+    - >-
+      Only current spouses who still live together.
+    - >-
+      Only minors and vulnerable persons in the home.
+    - >-
+      Only married spouses and their minor children.
+  correct: 0
+  explanation: >-
+    Section 1 defines family member widely, including former family members, and 'spouse' includes a partner known in public.
+- id: m18-044
+  module: 18
+  lesson: "18.7"
+  subject: duration
+  difficulty: 1
+  question: >-
+    What is the maximum total duration of a protection order without special reasons?
+  options:
+    - >-
+      Three months, with no extension.
+    - >-
+      One year.
+    - >-
+      Six months.
+    - >-
+      Two years.
+  correct: 2
+  explanation: >-
+    Section 5(א): up to three months, extendable to six in total; one year and a further year only for special reasons.
+- id: m18-045
+  module: 18
+  lesson: "18.7"
+  subject: psych-abuse
+  difficulty: 2
+  question: >-
+    Which ground for a protection order requires a hearing with both parties before the order is given?
+  options:
+    - >-
+      Recent physical violence.
+    - >-
+      Reasonable fear of real physical danger.
+    - >-
+      Recent unlawful confinement.
+    - >-
+      Continuing psychological abuse.
+  correct: 3
+  explanation: >-
+    Section 4(ג) requires a hearing with both sides for an order under s. 3(3), unless the respondent was duly summoned and did not appear.
+- id: m18-046
+  module: 18
+  lesson: "18.7"
+  subject: no-fee
+  difficulty: 1
+  question: >-
+    How much is the court fee for a protection-order application?
+  options:
+    - >-
+      The ordinary fee for a written request.
+    - >-
+      The fee for a custody claim.
+    - >-
+      There is no fee.
+    - >-
+      One percent of the value of the home.
+  correct: 2
+  explanation: >-
+    Regulation 7(1) of the Family Court Fees Regulations exempts proceedings under the Prevention of Family Violence Law.
+- id: m18-047
+  module: 18
+  lesson: "18.7"
+  subject: breach
+  difficulty: 3
+  question: >-
+    Police receive a complaint that a man broke an order barring him from the home. The officer decides not to arrest. What does the Law require?
+  options:
+    - >-
+      Nothing; arrest is at the officer's discretion.
+    - >-
+      A written, reasoned decision by the officer in charge.
+    - >-
+      A court hearing within 48 hours on the decision.
+    - >-
+      The complainant's written consent to release.
+  correct: 1
+  explanation: >-
+    Section 7(ב) requires a decision not to arrest to be made in writing with reasons by the officer in charge of investigations.
+- id: m18-048
+  module: 18
+  lesson: "18.7"
+  subject: monitoring
+  difficulty: 3
+  question: >-
+    Which condition must generally be met before a court attaches electronic monitoring to a protection order under the temporary order?
+  options:
+    - >-
+      A risk assessment received by the court.
+    - >-
+      The bound person's written consent.
+    - >-
+      A criminal conviction within the last year.
+    - >-
+      A request by the Attorney General.
+  correct: 0
+  explanation: >-
+    Section 3ב(ג)(3) requires a risk assessment (with an exception for high and real danger to life under s. 3ב(ה)); the protected person's consent is required, not the bound person's.
+- id: m18-049
+  module: 18
+  lesson: "18.7"
+  subject: vexatious
+  difficulty: 2
+  question: >-
+    A court rejects a protection-order request and finds it vexatious. What may it do?
+  options:
+    - >-
+      Nothing; applicants are immune.
+    - >-
+      Refer the applicant for prosecution automatically.
+    - >-
+      Order costs and compensation against the applicant.
+    - >-
+      Grant the respondent a protection order in return.
+  correct: 2
+  explanation: >-
+    Section 11 allows costs to the state and the injured party and compensation where the request was vexatious.
+- id: m18-050
+  module: 18
+  lesson: "18.8"
+  subject: adoption-best-interest
+  difficulty: 1
+  question: >-
+    What is the governing test for every decision in adoption proceedings?
+  options:
+    - >-
+      The adoptee's best interest.
+    - >-
+      The adoptive parents' wishes.
+    - >-
+      The biological parents' religion.
+    - >-
+      The Child Adoption Service's preference.
+  correct: 0
+  explanation: >-
+    Section 1(ב) of the Adoption Law: an adoption order and every decision are given only if they are for the adoptee's good.
+- id: m18-051
+  module: 18
+  lesson: "18.8"
+  subject: adoptability
+  difficulty: 2
+  question: >-
+    A father has not contacted his child for eight months without reasonable cause and refuses consent to adoption. Who may ask to declare the child adoptable?
+  options:
+    - >-
+      The foster parents, directly in their own name.
+    - >-
+      The child's mother alone, as the other parent.
+    - >-
+      The welfare officer of the local council.
+    - >-
+      The Attorney General's representative.
+  correct: 3
+  explanation: >-
+    Section 13(א) allows the court, on the Attorney General's request, to declare a child adoptable on listed grounds, including six months without contact.
+- id: m18-052
+  module: 18
+  lesson: "18.8"
+  subject: surrogacy-conditions
+  difficulty: 2
+  question: >-
+    Which is a condition for approving a surrogacy agreement in Israel?
+  options:
+    - >-
+      The surrogate is a close relative of the intended mother.
+    - >-
+      The egg used is not the surrogate's.
+    - >-
+      The surrogate is at least 40 years old.
+    - >-
+      The intended parents live abroad.
+  correct: 1
+  explanation: >-
+    Section 2(1): the egg is not the surrogate's; s. 5(א)(1א) requires that she is not a relative and is aged 22 to 39.
+- id: m18-053
+  module: 18
+  lesson: "18.8"
+  subject: 781-15
+  difficulty: 3
+  question: >-
+    What was the effect of HCJ 781/15 on surrogacy in Israel?
+  options:
+    - >-
+      It abolished the Ministry of Health approvals committee.
+    - >-
+      It opened access to male couples and single men.
+    - >-
+      It allowed commercial surrogacy abroad and nothing else.
+    - >-
+      It required a religious court's approval of every agreement.
+  correct: 1
+  explanation: >-
+    The Court held the exclusion unconstitutional; the definitions of intended parents were struck with effect from 11.1.2022 (per Wikisource).
+- id: m18-054
+  module: 18
+  lesson: "18.8"
+  subject: paternity
+  difficulty: 1
+  question: >-
+    An unmarried father wants to be recognised as his child's father against the mother's objection. Where does he go?
+  options:
+    - >-
+      The Population Registry, with a declaration.
+    - >-
+      The district court, with a declaratory claim.
+    - >-
+      The welfare office, for a parentage order.
+    - >-
+      The Family Court, with a paternity claim.
+  correct: 3
+  explanation: >-
+    Paternity claims are family matters (Family Court Law s. 1(4)) heard in the Family Court.
+- id: m18-055
+  module: 18
+  lesson: "18.9"
+  subject: scope
+  difficulty: 2
+  question: >-
+    Which proceeding requires a request to settle the dispute before it is filed?
+  options:
+    - >-
+      A claim for child maintenance between parents.
+    - >-
+      A protection-order request.
+    - >-
+      A divorce claim filed by both spouses together.
+    - >-
+      A Hague Convention return claim.
+  correct: 0
+  explanation: >-
+    Child maintenance is a family dispute under s. 2; protection orders (s. 4א), agreed divorce and Hague claims are excluded.
+- id: m18-056
+  module: 18
+  lesson: "18.9"
+  subject: first-meeting
+  difficulty: 1
+  question: >-
+    Who attends the first mahut meeting?
+  options:
+    - >-
+      The parties with their lawyers.
+    - >-
+      The lawyers only, with powers of attorney.
+    - >-
+      The parties alone, in person.
+    - >-
+      The parties and the children over 12.
+  correct: 2
+  explanation: >-
+    Regulation 5(ב): the first meeting is with the parties alone; lawyers may join later meetings aimed at settlement.
+- id: m18-057
+  module: 18
+  lesson: "18.9"
+  subject: non-attendance
+  difficulty: 2
+  question: >-
+    A husband ignores three invitations to mahut meetings. What can follow?
+  options:
+    - >-
+      Nothing; attendance at the unit is voluntary.
+    - >-
+      Automatic judgment against him on all issues.
+    - >-
+      Immediate arrest for contempt of court.
+    - >-
+      Costs, a longer stay, or striking his filings.
+  correct: 3
+  explanation: >-
+    Regulation 4: non-attendance is reported; the court may impose costs, extend the stay and strike out a request or claim filed by the absent party.
+- id: m18-058
+  module: 18
+  lesson: "18.9"
+  subject: window
+  difficulty: 3
+  question: >-
+    The wife filed the request. After the periods, she files only the property claim. What can the husband do?
+  options:
+    - >-
+      Nothing; the first filer controls all issues.
+    - >-
+      File only in the court where she filed property.
+    - >-
+      File the issues she left out in any competent forum.
+    - >-
+      Ask the unit to restart the meetings.
+  correct: 2
+  explanation: >-
+    Section 4: if the first filer files only part of the issues, the other party may file the rest in any competent forum.
+- id: m18-059
+  module: 18
+  lesson: "18.9"
+  subject: second-request
+  difficulty: 3
+  question: >-
+    Two weeks after the wife's request, the husband files his own request in the rabbinical court. What happens?
+  options:
+    - >-
+      It is accepted and the earlier request lapses.
+    - >-
+      The secretariat should refuse it during the stay.
+    - >-
+      Both requests run in parallel in both forums.
+    - >-
+      The rabbinical court decides which request prevails.
+  correct: 1
+  explanation: >-
+    Regulation 2א(ב): no request is accepted while an earlier request between the parties is in its stay period, in any forum.
+- id: m18-060
+  module: 18
+  lesson: "18.9"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake: 'Request to settle: My husband has been cheating and hiding money, so the Family Court and not the rabbinical court should hear our case.'
+  options:
+    - >-
+      It includes facts and a forum argument.
+    - >-
+      It is addressed to the wrong forum entirely.
+    - >-
+      It lacks an express request for a get.
+    - >-
+      It should include the children's ID numbers.
+  correct: 0
+  explanation: >-
+    Section 3(א) bars facts about the dispute and arguments about jurisdiction in the request.
+- id: m18-061
+  module: 18
+  lesson: "18.10"
+  subject: approval-hearing
+  difficulty: 2
+  question: >-
+    At an approval hearing for a property agreement, what does the judge do under reg. 43?
+  options:
+    - >-
+      Reviews only that both signatures are genuine.
+    - >-
+      Rewrites unfair clauses before approving.
+    - >-
+      Explains it and checks understanding and free consent.
+    - >-
+      Approves it automatically if a lawyer drafted it.
+  correct: 2
+  explanation: >-
+    Regulation 43(א) requires the court to explain the agreement and verify understanding and free consent; agreements concerning children must also serve their interest.
+- id: m18-062
+  module: 18
+  lesson: "18.10"
+  subject: agreement-death
+  difficulty: 3
+  question: >-
+    A property agreement deals only with divorce. One spouse dies. What applies to the property?
+  options:
+    - >-
+      The balance on death under s. 5.
+    - >-
+      Nothing; the agreement ends all sharing.
+    - >-
+      The Succession Law only, without any balance.
+    - >-
+      Whatever the surviving spouse elects within 30 days.
+  correct: 0
+  explanation: >-
+    Section 5(א) applies the balance on dissolution or death; an agreement silent on death may leave the default regime in place for that event.
+- id: m18-063
+  module: 18
+  lesson: "18.10"
+  subject: request-facts
+  difficulty: 2
+  question: >-
+    Which detail must a protection-order request include if relevant?
+  options:
+    - >-
+      The full history of the marriage.
+    - >-
+      The respondent's income for maintenance.
+    - >-
+      A proposed property division.
+    - >-
+      Whether the respondent holds a weapon.
+  correct: 3
+  explanation: >-
+    A weapons ban attaches to every order (s. 2ב); stating any weapon lets the court order immediate seizure.
+- id: m18-064
+  module: 18
+  lesson: "18.10"
+  subject: cohabitation-agreement
+  difficulty: 2
+  question: >-
+    Does a cohabitation agreement need court approval to be valid?
+  options:
+    - >-
+      Yes, exactly like a spouses' property agreement.
+    - >-
+      No, though approval makes it a judgment.
+    - >-
+      Yes, it must always be certified by a notary.
+    - >-
+      No, and courts cannot approve it at all.
+  correct: 1
+  explanation: >-
+    Sections 1–2 of the Property Relations Law apply to spouses; the Family Court may approve other family agreements and give them effect as a judgment (Family Court Law s. 3(ג)).
+- id: m18-065
+  module: 18
+  lesson: "18.2"
+  subject: get-refusal
+  difficulty: 2
+  question: >-
+    A Jewish wife's husband refuses to give a get despite a rabbinical-court judgment. What can that court do?
+  options:
+    - >-
+      Grant a civil divorce instead of the get.
+    - >-
+      Impose restriction orders on the husband.
+    - >-
+      Transfer the divorce to the Family Court.
+    - >-
+      Dissolve the marriage without the get.
+  correct: 1
+  explanation: >-
+    The rabbinical court may impose restriction orders on a spouse who refuses to comply with a divorce judgment (lesson 10.3).
+- id: m18-066
+  module: 18
+  lesson: "18.5"
+  subject: spousal-civil
+  difficulty: 3
+  question: >-
+    A couple of no recognised religion separate. Which law fixes spousal maintenance?
+  options:
+    - >-
+      Jewish law, as the default personal law in Israel.
+    - >-
+      No law; such couples owe no maintenance.
+    - >-
+      The Couples Covenant Law in every case.
+    - >-
+      The civil rules of the Maintenance Law.
+  correct: 3
+  explanation: >-
+    Section 2(ב) applies the Maintenance Law to a person who is not of a listed community or has no personal law.
+- id: m18-067
+  module: 18
+  lesson: "18.4"
+  subject: pension-execution
+  difficulty: 1
+  question: >-
+    How is a judgment dividing a spouse's pension savings carried out?
+  options:
+    - >-
+      Registered with the fund, which splits the balance.
+    - >-
+      The spouse withdraws the savings and pays the other half.
+    - >-
+      The Execution Office seizes the pension account.
+    - >-
+      National Insurance pays the other spouse's share.
+  correct: 0
+  explanation: >-
+    The 2014 Law provides for registering the judgment with the paying body, which transfers part to a separate account or pays part of the pension.
+- id: m18-068
+  module: 18
+  lesson: "18.1"
+  subject: race
+  difficulty: 3
+  question: >-
+    Which statement about the 'race of jurisdiction' is accurate after 2016?
+  options:
+    - >-
+      The race was abolished by the Dispute Resolution Law.
+    - >-
+      The rabbinical court always wins the race.
+    - >-
+      The first filer gets the first window to choose.
+    - >-
+      The forum where the request was filed hears all claims.
+  correct: 2
+  explanation: >-
+    Section 4 gives the first filer of the request the first window to file in any competent forum; s. 6 preserves the courts' jurisdictions (lesson 10.3).

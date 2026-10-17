@@ -1,0 +1,27 @@
+- **בית המשפט לענייני משפחה** (Beit ha-mishpat le-inyenei mishpaha) — Family Affairs Court: a magistrates' court designated to hear family matters (Family Court Law 1995).
+- **ענייני משפחה** (Inyenei mishpaha) — Family matters as defined in s. 1 of the Family Court Law: personal status and civil claims between family members arising from a family dispute.
+- **דין אישי** (Din ishi) — Personal law: the religious law of a person's community, which governs marriage, divorce and maintenance.
+- **סמכות מקבילה** (Samkhut makbila) — Parallel jurisdiction of a civil court and a religious court over the same matter.
+- **הרצאת פרטים** (Hartza'at pratim) — Statement of particulars (Forms 3 and 4) filed with family claims; omissions may be treated as admissions.
+- **רושם נישואין** (Rosham nisu'in) — Marriage registrar; for Jews, a rabbi appointed under the Chief Rabbinate Law.
+- **נישואי יוטה** (Nisu'ei Utah) — Online civil marriage under the law of Utah County, registered in Israel since the 2023 Brill ruling.
+- **ברית הזוגיות** (Brit ha-zugiyut) — Couples Covenant for a man and a woman both registered as having no religion (2010 Law).
+- **ידועים בציבור** (Yedu'im ba-tzibur) — Cohabitants known in public as a couple: family life and a joint household.
+- **מעין צוואה** (Me'ein tzava'a) — Quasi-will: a surviving cohabitant's statutory inheritance under Succession Law s. 55.
+- **אימוץ הורה שני** (Imutz hore sheni) — Second-parent adoption of a partner's child (Yaros-Hakak).
+- **הסדר איזון המשאבים** (Hesder izun ha-mash'abim) — Balance of resources: the default property regime between spouses married since 1974.
+- **הסכם ממון** (Heskem mamon) — Property agreement between spouses; must be in writing and approved or certified.
+- **הקדמת מועד האיזון** (Hakdamat mo'ed ha-izun) — Bringing the balance of resources forward before divorce (s. 5א).
+- **הלכת השיתוף** (Hilkhat ha-shituf) — Presumption of community of property, for marriages before 1974 and, with limits, cohabitants.
+- **שיתוף ספציפי** (Shituf spetzifi) — Specific partnership in a particular asset, proved by intention to share.
+- **מזונות זמניים** (Mezonot zmaniyim) — Interim maintenance pending judgment.
+- **זמני שהות** (Zmanei shehut) — Parenting time with each parent (formerly visitation arrangements).
+- **אפוטרופוס טבעי** (Apotropos tiv'i) — Natural guardian: each parent of a minor (Capacity and Guardianship Law s. 14).
+- **חזקת הגיל הרך** (Hazkat ha-gil ha-rakh) — Tender-years presumption: children up to six stay with their mother unless there are special reasons (s. 25).
+- **צו הגנה** (Tzav hagana) — Protection order under the Prevention of Family Violence Law 1991.
+- **הערכת מסוכנות** (Ha'arakhat mesukanut) — Risk assessment by a state assessor, used for electronic-monitoring orders.
+- **אם נושאת** (Em nos'et) — Gestational surrogate.
+- **צו הורות** (Tzav horut) — Parentage order given to intended parents after a surrogacy birth.
+- **בקשה ליישוב סכסוך** (Bakasha le-yishuv sikhsukh) — Request to settle a family dispute, the mandatory first filing (Form 1).
+- **פגישות מהו״ת** (Pgishot mahut) — Information, acquaintance and coordination meetings at the assistance unit.
+- **הודעה נלווית** (Hoda'a nilvet) — Accompanying notice (Form 4) filed with a family claim after the stay.

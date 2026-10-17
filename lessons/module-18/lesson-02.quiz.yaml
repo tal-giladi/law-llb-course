@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Two Jewish Israelis married in Cyprus in a civil ceremony and now want to divorce. Which forum
+    dissolves the marriage?
+  options:
+    - >-
+      The Family Court, because the marriage was civil and not religious.
+    - >-
+      A Cypriot court, because the law of the place of marriage governs its dissolution.
+    - >-
+      The rabbinical court, which may dissolve a civil marriage of Jews contracted abroad.
+    - >-
+      The Population Registry, by striking the registration on a joint request.
+  correct: 2
+  explanation: >-
+    Under s. 1 of the 1953 Law and HCJ 2232/03, the rabbinical court has jurisdiction to dissolve a
+    civil marriage of Jews made abroad, on the ground of irretrievable breakdown.
+- id: q2
+  question: >-
+    A couple married online through Utah County while sitting in their living room in Be'er Sheva. The
+    registration clerk says the marriage "really happened in Israel" and refuses to register it. What is
+    the legal position since March 2023?
+  options:
+    - >-
+      The clerk must register on a certified foreign certificate and may not decide where the ceremony took place.
+    - >-
+      The clerk is right, because Funk-Schlesinger applies only to couples who left Israel physically.
+    - >-
+      The couple must first obtain a Family Court declaration that the marriage is valid.
+    - >-
+      Registration is possible only if one spouse is a foreign citizen with no religion.
+  correct: 0
+  explanation: >-
+    In the Brill appeal (7.3.2023) the Supreme Court applied Funk-Schlesinger: registration is
+    statistical and based on the public certificate. Validity is a separate question for a court
+    if it arises.
+- id: q3
+  question: >-
+    Two residents, a man registered as Jewish and a woman registered as of no religion, ask to enter a
+    Couples Covenant. What will happen?
+  options:
+    - >-
+      They will be registered after the publication period, since one partner is of no religion.
+    - >-
+      They will be registered only if a rabbinical court approves the man's participation.
+    - >-
+      They will be registered once both sign a notarised property agreement.
+    - >-
+      They cannot use it, because both partners must be registered as of no religion.
+  correct: 3
+  explanation: >-
+    Section 2(3) of the Couples Covenant Law requires both partners to be registered as having no
+    religion; this couple's options are a marriage abroad or online, or cohabitation.
+- id: q4
+  question: >-
+    A family produces an identity card showing a deceased relative as "married" to support an
+    inheritance claim. How much weight does the registry entry carry?
+  options:
+    - >-
+      It is conclusive, because the Population Registry is a public register.
+    - >-
+      It is not prima facie evidence of marital status; the marriage must be proved.
+    - >-
+      It is prima facie evidence that shifts the burden to anyone who disputes it.
+    - >-
+      It is inadmissible, because registry entries cannot be used in family courts.
+  correct: 1
+  explanation: >-
+    Section 3 of the Population Registry Law makes registration prima facie evidence only of listed
+    items; marital status (item 7) is not among them, so the marriage itself must be proved.

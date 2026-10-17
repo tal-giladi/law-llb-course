@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your draft request to settle the dispute includes a paragraph explaining that your spouse left home and
+    stopped paying the mortgage. What should you do before filing?
+  options:
+    - >-
+      Keep it, because the assistance unit needs the background before the first meeting.
+    - >-
+      Delete it, because the request must contain no facts or allegations about the dispute.
+    - >-
+      Move it to an attached affidavit, which the regulations require with the request.
+    - >-
+      Keep it but mark it confidential so that the other side does not see it.
+  correct: 1
+  explanation: >-
+    Section 3(א) bars facts and arguments about the dispute or jurisdiction in the request. The facts belong
+    in later claims, or in a short urgent request if needed.
+- id: q2
+  question: >-
+    At the first mahut meeting the social worker proposes an interim parenting schedule and both parents
+    like it. Your spouse wants to sign it on the spot. What do the regulations say?
+  options:
+    - >-
+      It must be signed at once, or it lapses when the meeting ends.
+    - >-
+      It may be signed only if both lawyers are present at the first meeting.
+    - >-
+      Interim arrangements cannot be discussed at the first meeting at all.
+    - >-
+      Nothing is signed before each has had a chance to consult.
+  correct: 3
+  explanation: >-
+    Regulation 5(ב) allows trying to agree interim arrangements at the first meeting if both wish, and
+    reg. 5(ה) bars signing or undertaking any commitment before an opportunity to consult.
+- id: q3
+  question: >-
+    The stay ended yesterday with no agreement. You filed the request. Your spouse has not filed anything.
+    What can you do now?
+  options:
+    - >-
+      File claims within 15 days in any competent forum.
+    - >-
+      Nothing, because only the assistance unit can refer the case to a court.
+    - >-
+      File claims only in the court where you filed the request.
+    - >-
+      Wait for your spouse to file first, since the respondent chooses the forum.
+  correct: 0
+  explanation: >-
+    Section 4 gives the first filer 15 days to file in any competent forum; reg. 9 requires the Form 4
+    notice. The forum of the request does not bind the forum of the claims.
+- id: q4
+  question: >-
+    Your spouse has been indicted for assaulting your child. You filed a request to settle last week and
+    need to file a custody claim now. What is the correct step?
+  options:
+    - >-
+      File the custody claim directly; indictments cancel the request automatically.
+    - >-
+      Wait for the end of the 45-day stay, because no exception applies.
+    - >-
+      Apply on Form 7 to shorten the stay on the ground of the indictment.
+    - >-
+      File a protection-order application, which converts the request into a claim.
+  correct: 2
+  explanation: >-
+    Regulation 16(א)(6) allows shortening the stay where an indictment was filed for violence or sexual
+    offences against the spouse or child; the request is on Form 7. A protection order is a separate route.

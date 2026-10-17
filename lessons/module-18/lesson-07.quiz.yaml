@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A woman's adult son, who lives with her, threatened her with a knife yesterday. She wants him out of
+    the apartment, which is registered in both their names. Can the court bar him from it?
+  options:
+    - >-
+      No, because a co-owner cannot be excluded from his own property.
+    - >-
+      Only after she files a request to settle the dispute and attends the mahut meetings.
+    - >-
+      Yes, even though he has a right in the home.
+    - >-
+      Only if he is convicted, because protection orders follow a criminal conviction.
+  correct: 2
+  explanation: >-
+    Section 2(א)(1) allows barring entry to the home even if the person has a right in it, and a descendant
+    is a family member under s. 1. No conviction or prior request is needed.
+- id: q2
+  question: >-
+    A judge gives a protection order ex parte at 14:00 on Sunday. What must happen next?
+  options:
+    - >-
+      A hearing with both parties as soon as possible and within seven days.
+    - >-
+      Nothing until the order expires, unless the respondent appeals.
+    - >-
+      A hearing within 30 days, after a social worker's report.
+    - >-
+      Automatic conversion into a one-year order if the respondent does not object in writing.
+  correct: 0
+  explanation: >-
+    Section 4(א) requires a hearing with both sides as soon as possible and no later than seven days after
+    an ex parte order.
+- id: q3
+  question: >-
+    A man asks for a protection order against his wife, relying only on years of insults and control over
+    his money. Can the court grant it at once without hearing her?
+  options:
+    - >-
+      Yes, every ground in s. 3 can support an ex parte order.
+    - >-
+      No, because psychological abuse is not a ground for a protection order.
+    - >-
+      Yes, but only if a social worker files the request for him.
+    - >-
+      No, that ground requires a hearing with both of them present.
+  correct: 3
+  explanation: >-
+    Continuing psychological abuse is a ground (s. 3(3)), but s. 4(ג) requires a hearing with both sides
+    unless the respondent was duly summoned and did not come. The law is gender-neutral.
+- id: q4
+  question: >-
+    A protection order is granted against a reservist who holds an army-issued rifle and a licensed pistol.
+    What happens to the weapons?
+  options:
+    - >-
+      Only the private pistol is affected; army weapons are a matter for the army.
+    - >-
+      Both are banned and seized, subject to narrow exceptions.
+    - >-
+      Nothing, unless the application expressly asked for weapons to be taken.
+    - >-
+      The weapons are returned automatically when the three-month order expires.
+  correct: 1
+  explanation: >-
+    Section 2ב bans holding or carrying any weapon, including one issued by a security authority, and
+    orders seizure; exceptions require a hearing (ss. 2ג–2ד), and the ban survives the order (s. 5(ב)).

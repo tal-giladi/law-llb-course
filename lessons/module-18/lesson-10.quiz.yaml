@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A couple signed a property agreement two months after their wedding and put it in a drawer. Years later
+    one of them relies on it in the divorce. What is its main weakness?
+  options:
+    - >-
+      It was signed after the wedding, so it can never be approved.
+    - >-
+      It was never approved by a court, which the law requires.
+    - >-
+      It should have been certified by a notary, the only route after the wedding.
+    - >-
+      It needed to be registered in the Population Registry within 30 days.
+  correct: 1
+  explanation: >-
+    Section 2(א) requires approval by the Family Court or the competent religious court. Certification by a
+    notary or the marriage registrar is available only before (or, for the registrar, at) the wedding.
+- id: q2
+  question: >-
+    Reviewing a draft agreement, you find it says only: "Each spouse remains the sole owner of his or her
+    property." Which gap matters most for a couple in their thirties with pension savings?
+  options:
+    - >-
+      It does not name a family mediator for any future disputes.
+    - >-
+      It does not say which court or registrar will approve it.
+    - >-
+      It is written in Hebrew rather than in both spouses' first languages.
+    - >-
+      It does not say whether pensions earned in the marriage are shared.
+  correct: 3
+  explanation: >-
+    Pensions are often the largest asset and are balanceable by default (s. 5(ג)); a vague clause invites
+    a dispute over whether they were meant to be excluded.
+- id: q3
+  question: >-
+    In Rana's protection-order request, which item is most likely to be ordered immediately even if she
+    does not specifically ask for it?
+  options:
+    - >-
+      A weapons ban on Samer and seizure of his firearm.
+    - >-
+      Exclusive use of the family car for the next six months.
+    - >-
+      A shared-custody arrangement for the boys until the hearing.
+    - >-
+      Payment of interim maintenance for Rana and the children.
+  correct: 0
+  explanation: >-
+    Section 2ב attaches a weapons ban to every protection order and requires immediate seizure. Custody and
+    maintenance are decided in other proceedings.
+- id: q4
+  question: >-
+    Which way of writing the facts in a protection-order request best helps the judge?
+  options:
+    - >-
+      A full narrative of the marriage from the wedding onwards, to give context.
+    - >-
+      Adjectives describing the respondent's character, so the danger is clear.
+    - >-
+      Short numbered paragraphs with dates, events, threats, weapons and evidence.
+    - >-
+      Only the legal grounds, without facts, as in a request to settle the dispute.
+  correct: 2
+  explanation: >-
+    The judge must find a ground under s. 3 quickly; dated factual paragraphs supported by evidence allow
+    that. A request to settle is the opposite case, where facts are excluded.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Moshe lived with Rivka for 15 years. He never obtained a get from his first wife, who lives abroad.
+    Moshe died without a will. Does Rivka inherit under s. 55 of the Succession Law?
+  options:
+    - >-
+      Yes, because 15 years of joint household is enough on its own.
+    - >-
+      Yes, but only half of what a lawful spouse would receive.
+    - >-
+      No, because Moshe was still married to another woman when he died.
+    - >-
+      No, because cohabitants inherit only under a will that a court has approved.
+  correct: 2
+  explanation: >-
+    Section 55 requires that at the time of death neither partner was married to someone else.
+    Because Moshe was still married, Rivka would have needed a will.
+- id: q2
+  question: >-
+    Dana and Ofer, cohabitants for nine years, separate. The car and the apartment are in Ofer's name.
+    What must Dana show to claim a share of the apartment?
+  options:
+    - >-
+      An express intention to share that particular asset, for example through payments and documents.
+    - >-
+      Only that they lived together as a couple, since the presumption of community applies automatically.
+    - >-
+      Only that she paid half of the household expenses during the relationship.
+    - >-
+      Nothing, because the Property Relations Law gives every cohabitant half of the other's assets.
+  correct: 0
+  explanation: >-
+    Under בע״מ 2478/14 the presumption of community does not apply automatically to cohabitants'
+    separately bought assets; an intention to share must be proved for each asset.
+- id: q3
+  question: >-
+    Two women married in Canada are registered as married in Israel. One gave birth through sperm
+    donation. What gives the other woman legal parenthood?
+  options:
+    - >-
+      The registration as married, which makes her a parent of children born in the marriage.
+    - >-
+      A declaration signed by both women before a notary, filed with the Population Registry.
+    - >-
+      Nothing, because Israeli law does not allow a woman to become a second mother.
+    - >-
+      Second-parent adoption by the Family Court, as approved in Yaros-Hakak.
+  correct: 3
+  explanation: >-
+    Ben-Ari decided only registration. Yaros-Hakak allowed second-parent adoption under s. 25 of the
+    Adoption Law where it serves the child's best interest.
+- id: q4
+  question: >-
+    A cohabiting couple separate and one partner wants to sue the other over money each lent to the
+    other during the relationship. Which court has jurisdiction?
+  options:
+    - >-
+      The magistrates' court by value, because cohabitants are not family members.
+    - >-
+      The Family Court, because cohabitants are family members under s. 1 of the Family Court Law.
+    - >-
+      The rabbinical court, because the claim concerns a couple's relationship.
+    - >-
+      The small-claims court only, because cohabitants have no property regime.
+  correct: 1
+  explanation: >-
+    Section 1(2)(א) includes a partner known in public, and the Supreme Court confirmed in רע״א 3927/15
+    that disputes between former cohabitants arising from the relationship belong to the Family Court.
