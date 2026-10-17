@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You wrote to the Population Authority's local office about your child's registration. Four months
+    later there is still no answer and no notice of delay. What is the legal position?
+  options:
+    - >-
+      Nothing yet, because the office may take as long as it needs for registration matters.
+    - >-
+      You must start again with a new request, since the first one has lapsed.
+    - >-
+      The silence is treated as a refusal without reasons, which you can now challenge.
+    - >-
+      The silence is treated as approval, so the registration is complete.
+  correct: 2
+  explanation: >-
+    Under s. 6(ב) of the Decisions and Reasons Law, no answer or notice within three months counts as a
+    refusal without reasons. Check s. 9, which excludes most Entry into Israel Law decisions, and any
+    special period in the governing law.
+- id: q2
+  question: >-
+    A municipality refused your request in one sentence, with no reasons and no mention of any exemption.
+    You petition. What does s. 6(א) of the Decisions and Reasons Law do for you?
+  options:
+    - >-
+      It makes the refusal void automatically, so the court must grant the request.
+    - >-
+      It places on the municipality the burden of proving that the refusal was lawful.
+    - >-
+      It lets you claim damages for the missing reasons in the same petition.
+    - >-
+      It extends your petition deadline until the reasons are finally given.
+  correct: 1
+  explanation: >-
+    A missing reason does not by itself void the decision, but in court the official bears the burden of
+    proving the decision was lawful. It does not extend deadlines.
+- id: q3
+  question: >-
+    You hear that the regional council is considering a road through your field and has set up a
+    committee, but nobody contacted you. What does Berman (HCJ 3/58) suggest you do?
+  options:
+    - >-
+      Ask the committee in writing to hear you and to show you the material.
+    - >-
+      Wait for an invitation, because the committee must seek out every affected person.
+    - >-
+      Petition at once, since any decision taken without you will be void.
+    - >-
+      Do nothing until a final decision exists, since hearings apply only to judicial bodies.
+  correct: 0
+  explanation: >-
+    Berman held that a person whose property or status may be affected is entitled to a fair hearing,
+    but also that a commission need not seek out the other side; those who stay silent may be blamed.
+- id: q4
+  question: >-
+    A tender-committee member's brother is one of the bidders. You are a competing bidder and learn
+    this before the committee meets. When and how should you raise it?
+  options:
+    - >-
+      After the result, and only if you lose, to avoid offending the committee.
+    - >-
+      In the petition only, since the committee cannot decide on its own members.
+    - >-
+      Orally at the meeting, because written requests are not allowed in tenders.
+    - >-
+      In writing before the meeting, asking that the member not take part.
+  correct: 3
+  explanation: >-
+    A decision-maker with a personal interest must not take part. Raising it in writing before the
+    decision is both fairer and safer; raising it only after losing looks tactical and may be held too late.

@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    A regional council tells a private bus company to refuse to carry residents who owe council fees.
+    The company complies. No statute mentions such a power. You are one of the residents. What is your
+    strongest ground?
+  options:
+    - >-
+      Disproportionality, since a payment plan would be a milder means of collection.
+    - >-
+      Lack of authority: the council has no express power to order a private company to act against you.
+    - >-
+      Breach of the duty to give reasons, since the company did not explain the refusal.
+    - >-
+      Discrimination, since residents of other councils are carried without checks.
+  correct: 1
+  explanation: >-
+    An authority may do only what the law permits, and enlisting a private third party needs an explicit
+    source (AAA 3782/12). This ground comes before any weighing of discretion.
+- id: q2
+  question: >-
+    In a petition against a minister's appointment of a director-general with a record of serious
+    misconduct, the State argues that "since 2023 reasonableness review of ministers no longer exists".
+    How do you answer?
+  options:
+    - >-
+      Concede the point and argue only that the minister lacked authority to appoint.
+    - >-
+      Argue that the 2023 amendment applies only to appointments made by the Government as a whole.
+    - >-
+      Argue that s. 15(ד1) was declared void on 1.1.2024, so review continues; and add other grounds.
+    - >-
+      Ask to transfer the case to the Knesset, which now reviews ministerial appointments.
+  correct: 2
+  explanation: >-
+    HCJ 5658/23 declared the amendment void (8–7), so reasonableness review of ministers continues.
+    Adding relevant-considerations arguments (Eisenberg) protects the case whatever the scope of reasonableness.
+- id: q3
+  question: >-
+    A municipality closes a family-run restaurant for 45 days over hygiene faults that a professional
+    cleaning and a re-inspection within a week would fix. Which argument is most likely to persuade?
+  options:
+    - >-
+      That a cleaning and re-inspection is a less harmful means to the same end.
+    - >-
+      That the municipality has no power over restaurants because health is a ministry matter.
+    - >-
+      That hygiene is not a proper purpose for municipal action.
+    - >-
+      That the closure is void because the inspector did not sign the report in ink.
+  correct: 0
+  explanation: >-
+    The purpose is proper and closure advances it, but a milder, concrete alternative achieves the same
+    result; courts usually send such decisions back for reconsideration (lesson 14.3).
+- id: q4
+  question: >-
+    You asked a government ministry in writing to renew a permit. Five months have passed with no answer
+    and no notice of delay. What is your position?
+  options:
+    - >-
+      The permit is renewed automatically by the ministry's silence.
+    - >-
+      You must wait until the ministry decides, because no time limit applies to permits.
+    - >-
+      Your only route is an Ombudsman complaint, since courts do not review silence.
+    - >-
+      The silence is a refusal without reasons, which you may now challenge.
+  correct: 3
+  explanation: >-
+    Decisions and Reasons Law s. 6(ב) treats three months' silence as a refusal without reasons, and s. 6(א)
+    shifts to the official the burden of proving the decision lawful. An omission is a reviewable decision.
+- id: q5
+  question: >-
+    A government company's tender requires "five years' experience serving this company". Only the
+    incumbent qualifies. Bids are due in ten days. What do you do?
+  options:
+    - >-
+      Bid anyway and challenge the condition only if you lose, so as not to annoy the committee.
+    - >-
+      Write to the committee now asking it to change or justify the condition.
+    - >-
+      Complain to the Ombudsman, whose decision will suspend the tender.
+    - >-
+      Sue the incumbent for unfair competition in the magistrates' court.
+  correct: 1
+  explanation: >-
+    Conditions must be required by the tender's nature, and experience with the issuer itself needs
+    reasons (Mandatory Tenders Law s. 2א). Raising it before the deadline avoids a delay argument.
+- id: q6
+  question: >-
+    Your FOI request to a municipality for the inspection reports on your building is refused as
+    "internal deliberations", with no further explanation. What is the best next step?
+  options:
+    - >-
+      Accept the refusal, since internal deliberations are a mandatory exemption.
+    - >-
+      Appeal the refusal to the magistrates' court within 30 days.
+    - >-
+      Ask for the weighing of interests and partial disclosure, and petition if refused.
+    - >-
+      Ask the Ombudsman to order disclosure, which binds the municipality.
+  correct: 2
+  explanation: >-
+    Section 9(ב)(4) is discretionary and requires weighing (CHE v. Haaretz); s. 11 requires partial
+    disclosure. A refusal is challenged by administrative petition (s. 17); the magistrates' court hears fee appeals only.
+- id: q7
+  question: >-
+    A municipal official orally promised you that your business may use the pavement "for as long as you
+    like". A year later the municipality cancels the permission. Which fact most weakens your
+    administrative-promise argument?
+  options:
+    - >-
+      The official had no power over pavement permits, and spoke vaguely.
+    - >-
+      You invested in new outdoor furniture after the promise was given.
+    - >-
+      The municipality gave no reason at all for the cancellation.
+    - >-
+      Other businesses on the street kept their permits.
+  correct: 0
+  explanation: >-
+    A binding promise must come from an official with power, within the authority's power, and be
+    definite (Sai-Tex). Reliance, missing reasons and unequal treatment are arguments in your favour.
+- id: q8
+  question: >-
+    A ministry has ignored your benefit application for eight months, and no statute gives you an
+    objection route. Which tool fits best as a first step, given that you want quick action without a
+    court?
+  options:
+    - >-
+      An administrative petition for damages for the delay.
+    - >-
+      A complaint to the Ombudsman, attaching your application and reminders.
+    - >-
+      A criminal complaint against the clerk for breach of trust.
+    - >-
+      A request to the Knesset to legislate a deadline for your benefit.
+  correct: 1
+  explanation: >-
+    Delay and failure to act are classic Ombudsman matters (s. 37); it can demand documents and obtain a
+    correction quickly. Remember that a complaint does not stop any statutory deadline (s. 45(א)(2)).
+- id: q9
+  question: >-
+    You want to petition against a municipal planning committee's permit to your neighbour. The planning
+    law gives an appeal to a district appeals board, which you have not used. What will the court most
+    likely do with a petition?
+  options:
+    - >-
+      Hear it, because planning is in the First Schedule.
+    - >-
+      Transfer it to the HCJ as a matter of special importance.
+    - >-
+      Convert it into an administrative claim for damages.
+    - >-
+      Dismiss it for failure to use the statutory appeal.
+  correct: 3
+  explanation: >-
+    Where a statute provides an objection or appeal, the court expects you to use it first (exhaustion and
+    alternative remedy). The First Schedule gives jurisdiction but does not displace the statutory route.
+- id: q10
+  question: >-
+    You are about to file an administrative petition in your own name. Which step must you complete
+    before the court will consider it?
+  options:
+    - >-
+      Obtain a lawyer's signature, since unrepresented petitions are not accepted.
+    - >-
+      Wait for the authority's answer to your prior demand, however long it takes.
+    - >-
+      Serve the petition on the respondents and file proof of service.
+    - >-
+      Pay the respondent's expected costs into court as security.
+  correct: 2
+  explanation: >-
+    Reg. 7(ב) provides that a petition is not put before the court until proof of service is filed. An
+    individual may file without a lawyer (reg. 44א with reg. 170), and you should not let the demand eat up the period.

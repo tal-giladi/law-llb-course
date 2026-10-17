@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A municipal licensing department refuses your request with one line: "Our policy is never to grant
+    exceptions to the opening-hours rule." Which argument targets the defect most precisely?
+  options:
+    - >-
+      That policies are unlawful, because every case must be decided without any guidelines.
+    - >-
+      That the department fettered its discretion by refusing even to consider an exception for your case.
+    - >-
+      That the department lacks authority, because only the Knesset may set opening hours.
+    - >-
+      That the decision is void because a policy can be made only by a minister.
+  correct: 1
+  explanation: >-
+    Authorities may adopt policies, but they must remain willing to consider exceptions. A refusal that
+    only quotes the policy shows that discretion was not exercised in your case.
+- id: q2
+  question: >-
+    A minister's statutory power to approve a permit was exercised by a deputy director-general. What
+    do you check first?
+  options:
+    - >-
+      Whether the deputy director-general has the professional qualifications required.
+    - >-
+      Whether the minister later approved the decision orally at a staff meeting.
+    - >-
+      Whether a valid delegation under s. 33(ב) covers this power.
+    - >-
+      Whether the Government as a whole voted to approve the permit.
+  correct: 2
+  explanation: >-
+    A minister may delegate a statutory power to a public servant, wholly or partly, except the power to
+    make regulations. Ask for the delegation instrument and check that it covers the power and the date.
+- id: q3
+  question: >-
+    In the Gas Outline case (HCJ 4374/15), what was wrong with the "stability clause"?
+  options:
+    - >-
+      It bound present and future governments not to use powers they must exercise.
+    - >-
+      It was approved without a tender, so it breached the Mandatory Tenders Law.
+    - >-
+      It gave the gas companies too much profit, so it failed the proportionality test.
+    - >-
+      It was signed by a minister rather than by the Knesset Finance Committee.
+  correct: 0
+  explanation: >-
+    The majority held that an authority must exercise its discretion and may not decide not to decide
+    for ten years; the clause also hobbled the Knesset through coalition discipline.
+- id: q4
+  question: >-
+    A welfare office cuts your benefit because of an anonymous phone call saying you work off the
+    books. Nobody asked you. What is the strongest objection?
+  options:
+    - >-
+      That anonymous information is never admissible, because only court evidence counts.
+    - >-
+      That the office must first obtain a criminal conviction against you.
+    - >-
+      That the office has no power to cut benefits once they are granted.
+    - >-
+      That an unchecked report you could not answer is no adequate basis.
+  correct: 3
+  explanation: >-
+    Authorities may rely on administrative evidence, including hearsay, but it must have real probative
+    value, be checked, and be put to you; the more serious the harm, the stronger the basis required.

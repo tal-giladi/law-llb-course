@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A municipality closes your shop for 90 days over a noise complaint. Other shops with the same problem
+    were told to install sound insulation within a month. Which proportionality subtest is your
+    strongest argument?
+  options:
+    - >-
+      Proper purpose, because preventing noise is not a legitimate municipal aim.
+    - >-
+      Rational connection, because closing a shop does not reduce noise from it.
+    - >-
+      Least harmful means, because insulation achieves the same aim and is already used.
+    - >-
+      Lack of authority, because municipalities can never close businesses.
+  correct: 2
+  explanation: >-
+    The purpose is proper and closure plainly stops the noise. The weak point is that a milder measure,
+    which the municipality itself uses, achieves the same goal; that also proves the alternative is workable.
+- id: q2
+  question: >-
+    In a petition, the authority's expert says a security measure must follow route A; your expert says
+    route B is equally safe. Following Beit Sourik, how is the court likely to treat this dispute?
+  options:
+    - >-
+      It will appoint its own expert and choose the safer route itself.
+    - >-
+      It will give special weight to the authority's professional security view.
+    - >-
+      It will prefer the petitioner's expert, because the burden of proof lies on the authority.
+    - >-
+      It will dismiss the petition, because expert disputes are not justiciable.
+  correct: 1
+  explanation: >-
+    In Beit Sourik the Court gave special weight to the military commander's view where security experts
+    disagreed, but decided itself whether the harm to residents was proportionate to the security benefit.
+- id: q3
+  question: >-
+    Several towns banned pork sales everywhere within their boundaries under an enabling law. What did
+    HCJ 953/01 (Solodkin) order?
+  options:
+    - >-
+      The councils must reconsider, balancing both sides by each area's character.
+    - >-
+      The by-laws were void because a local authority may never restrict the sale of a food.
+    - >-
+      The by-laws were valid because the Knesset had expressly empowered local authorities.
+    - >-
+      The sellers must be compensated, but the by-laws remained in force unchanged.
+  correct: 0
+  explanation: >-
+    The Court held that the power exists but must be used proportionately, area by area, and returned the
+    matter to the councils to decide again by those criteria without ruling on each by-law.
+- id: q4
+  question: >-
+    You are drafting a proportionality paragraph. Which request is most likely to be granted?
+  options:
+    - >-
+      An order that the court itself set the conditions of your licence.
+    - >-
+      A declaration that the authority acted in bad faith and must pay punitive damages.
+    - >-
+      An order cancelling the empowering law, because it allows disproportionate decisions.
+    - >-
+      An order to reconsider with a specific alternative, a time limit and periodic review.
+  correct: 3
+  explanation: >-
+    Courts rarely substitute their own measure; they send the decision back, often with directions such
+    as an exception, a time limit or a milder alternative. A concrete alternative helps the court do so.

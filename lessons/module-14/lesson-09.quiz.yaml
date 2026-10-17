@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You filed an administrative petition at the registry a week ago and have heard nothing. What is the
+    most likely reason, under the procedure regulations?
+  options:
+    - >-
+      The court waits for the respondent's answer before reading any petition.
+    - >-
+      You have not filed proof that you served the petition on the respondents.
+    - >-
+      Petitions by unrepresented parties are reviewed only after a registrar's interview.
+    - >-
+      Every petition waits for a preliminary hearing date set by the court's president.
+  correct: 1
+  explanation: >-
+    Reg. 7(ב) provides that a petition is not put before the court until the petitioner files proof of
+    service under reg. 35, which requires service within a few days of filing.
+- id: q2
+  question: >-
+    A planning committee granted your neighbour a permit you oppose. You petition against the committee
+    only. What threshold problem is most likely?
+  options:
+    - >-
+      The neighbour, who would be harmed if you win, is a necessary respondent and was not joined.
+    - >-
+      Planning decisions can be challenged only in the HCJ, never in the district court.
+    - >-
+      You lack standing, because only the permit applicant may petition about a permit.
+    - >-
+      The petition is premature, because building has not started yet.
+  correct: 0
+  explanation: >-
+    Reg. 6(א) requires joining anyone who may be harmed if the petition is granted; the court may strike
+    out a petition without a proper respondent (reg. 6(ב)). Planning is First Schedule item 10.
+- id: q3
+  question: >-
+    A friend says you cannot file an administrative petition without a lawyer. Which provision answers him?
+  options:
+    - >-
+      Basic Law: The Judiciary s. 15, which lets anyone petition the HCJ in person.
+    - >-
+      Section 8 of the Administrative Affairs Courts Law, which adopts the HCJ's practice.
+    - >-
+      Reg. 44א, applying Civil Procedure Regulations chapter 20, including reg. 170.
+    - >-
+      The Bar Association Law s. 20, which allows anyone to represent a relative.
+  correct: 2
+  explanation: >-
+    Reg. 44א of the procedure regulations applies chapter 20 of the Civil Procedure Regulations 2018,
+    whose reg. 170 lets a party act "בעצמו או בידי עורך דין"; reg. 5(ב)(1) asks for a lawyer only if represented.
+- id: q4
+  question: >-
+    Your petition succeeds: the court finds the authority ignored relevant considerations. What is the
+    most common remedy?
+  options:
+    - >-
+      Damages for the loss you suffered, assessed in the same judgment.
+    - >-
+      An order that the court's own decision replaces the authority's permanently.
+    - >-
+      A declaration that the official must be dismissed from public service.
+    - >-
+      Returning the matter to the authority to decide again, with directions.
+  correct: 3
+  explanation: >-
+    Reg. 17 lets the court dismiss, grant in whole or part, or return the matter to the authority with
+    directions; the last is most common. Damages require an administrative or civil claim.

@@ -1,0 +1,1453 @@
+- id: m14-001
+  module: 14
+  lesson: "14.1"
+  subject: legality
+  difficulty: 1
+  question: >-
+    Which statement best expresses the principle of administrative legality?
+  options:
+    - >-
+      An authority may do anything that no statute expressly forbids it to do in its own field.
+    - >-
+      An authority may act only where the law empowers it; an individual may do what is not forbidden.
+    - >-
+      An individual may act only where a statute expressly permits the particular activity.
+    - >-
+      Authorities and individuals are bound by the same rule: whatever is not forbidden is allowed.
+  correct: 1
+  explanation: >-
+    Bejerano (HCJ 1/49) and later cases: the authority must show a source of power; the individual
+    needs none.
+- id: m14-002
+  module: 14
+  lesson: "14.1"
+  subject: legality
+  difficulty: 2
+  question: >-
+    A ministry demands that applicants for a small-business grant first sign up to its newsletter.
+    The grant regulations say nothing about this. What is the strongest objection?
+  options:
+    - >-
+      The condition is disproportionate, because a shorter monthly newsletter would be enough.
+    - >-
+      The condition breaches the Mandatory Tenders Law, because every grant requires a public tender.
+    - >-
+      The condition is unlawful only if the ministry failed to publish it in Reshumot in advance.
+    - >-
+      The condition has no source in the grant provisions, so the ministry lacks authority to impose
+      it.
+  correct: 3
+  explanation: >-
+    Conditions that burden applicants need a legal source; lack of authority is examined before
+    discretion.
+- id: m14-003
+  module: 14
+  lesson: "14.1"
+  subject: legality
+  difficulty: 1
+  question: >-
+    Under Basic Law: Human Dignity and Liberty s. 8, what does an official need in order to limit a
+    protected right?
+  options:
+    - >-
+      Only good faith and a reasonable belief that the decision serves the public good.
+    - >-
+      Approval of the specific decision by a majority of the Knesset in a plenary vote.
+    - >-
+      A statute that limits it, or an express authorisation in a statute, with a proportionate limit.
+    - >-
+      A Government decision instructing the official to act, published on the ministry's website.
+  correct: 2
+  explanation: >-
+    Section 8 requires a statute or action by virtue of express authorisation in one, meeting the
+    limitation-clause conditions.
+- id: m14-004
+  module: 14
+  lesson: "14.1"
+  subject: primary-arrangements
+  difficulty: 3
+  question: >-
+    The Government decides, by a Government decision only, to create a national database of
+    citizens' biometric data run by a security agency. Which doctrine is the most likely basis for a
+    challenge?
+  options:
+    - >-
+      Primary arrangements: an arrangement of this weight must be set by the Knesset in a statute.
+    - >-
+      Fettering: the Government has bound future governments to keep running the database for years.
+    - >-
+      Administrative promise: citizens were earlier promised by ministers that their data would stay
+      private.
+    - >-
+      Exhaustion: citizens must first object to the Privacy Protection Authority before any court
+      petition.
+  correct: 0
+  explanation: >-
+    Ben Meir (HCJ 2109/20) held that a security agency's civilian tracking was a primary arrangement
+    requiring legislation.
+- id: m14-005
+  module: 14
+  lesson: "14.1"
+  subject: third-parties
+  difficulty: 2
+  question: >-
+    Police order a private telecom company to cut the phone line of a suspected illegal gambling
+    business. The statute lets the police close gambling places. What did AAA 3782/12 suggest about
+    such orders?
+  options:
+    - >-
+      Ordering a private third party to act needs an explicit source beyond the power to close a
+      place.
+    - >-
+      The order is valid, because purposive interpretation of the power includes any effective modern
+      means.
+    - >-
+      The order is valid if the telecom company is fully compensated by the State for its costs and
+      losses.
+    - >-
+      The order can be challenged only by the gambling business itself, never by members of the
+      public.
+  correct: 0
+  explanation: >-
+    The Supreme Court held that enlisting private access providers to block sites needed explicit
+    statutory authority.
+- id: m14-006
+  module: 14
+  lesson: "14.1"
+  subject: residual-power
+  difficulty: 3
+  question: >-
+    A minister relies on the Government's residual power (Basic Law: The Government s. 32) to sign a
+    contract for school computers. A competitor challenges the minister's power. How strong is that
+    challenge on authority alone?
+  options:
+    - >-
+      Strong: residual power may never be used for contracts, which always need a specific statute.
+    - >-
+      Strong: only the Knesset Finance Committee may sign State contracts of any value or kind.
+    - >-
+      Weak, because the residual power overrides the Mandatory Tenders Law when ministers act.
+    - >-
+      Weak: residual power covers ordinary acts like contracts, subject to every law, including tender
+      law.
+  correct: 3
+  explanation: >-
+    Section 32 supports ordinary executive acts like contracts; the real limits come from other
+    laws, such as the duty to tender.
+- id: m14-007
+  module: 14
+  lesson: "14.2"
+  subject: extraneous
+  difficulty: 1
+  question: >-
+    A municipal permit is refused because the applicant supported the mayor's rival in the election.
+    Which ground of review is this?
+  options:
+    - >-
+      A lack of territorial jurisdiction over the area.
+    - >-
+      An extraneous consideration.
+    - >-
+      A breach of the duty to run a public tender.
+    - >-
+      A failure by the applicant to exhaust remedies.
+  correct: 1
+  explanation: >-
+    Political retaliation is unrelated to the purpose of the permit power and taints the decision.
+- id: m14-008
+  module: 14
+  lesson: "14.2"
+  subject: relevant-considerations
+  difficulty: 2
+  question: >-
+    In Eisenberg (HCJ 6163/92) the Court annulled an appointment of a director-general. What was the
+    key holding?
+  options:
+    - >-
+      Appointments of directors-general are always non-justiciable political decisions for ministers.
+    - >-
+      A presidential pardon erases the conduct, so the appointing body may never consider it.
+    - >-
+      Reasonable evidence of serious past misconduct must be weighed, even after a pardon.
+    - >-
+      Only candidates with a law degree and civil-service experience may be appointed
+      director-general.
+  correct: 2
+  explanation: >-
+    Integrity of the public service is a relevant consideration; giving it no weight made the
+    appointment unlawful.
+- id: m14-009
+  module: 14
+  lesson: "14.2"
+  subject: equality
+  difficulty: 1
+  question: >-
+    In Ka'adan (HCJ 6698/95), what was the State held not permitted to do?
+  options:
+    - >-
+      Allocate any land at all to the Jewish Agency for any settlement purpose in any region.
+    - >-
+      Allow cooperative societies in new communities to choose their members by any criteria.
+    - >-
+      Build new communities in the Galilee region without first holding a national referendum.
+    - >-
+      Allocate land through an intermediary that admitted members of one religion or nationality only.
+  correct: 3
+  explanation: >-
+    The State may not discriminate in land allocation, directly or through an intermediary.
+- id: m14-010
+  module: 14
+  lesson: "14.2"
+  subject: equality
+  difficulty: 3
+  question: >-
+    A city's culture-grant criteria require 'at least 200 events a year'. Only large secular
+    institutions meet it; none of the Arab community's centres do. The city says the criterion is
+    neutral. How do you frame the equality argument?
+  options:
+    - >-
+      Argue that any numerical criterion in a grant scheme is automatically discriminatory and void.
+    - >-
+      Show the criterion is unrelated to the grant's purpose and its outcome denies substantive
+      equality.
+    - >-
+      Argue that the city must give equal amounts to every applicant regardless of size or activity.
+    - >-
+      Concede that neutral criteria cannot be challenged in court and ask the city for a donation
+      instead.
+  correct: 1
+  explanation: >-
+    AAA 343/09 allows proof of discrimination by outcome and requires criteria tied to relevant
+    considerations.
+- id: m14-011
+  module: 14
+  lesson: "14.2"
+  subject: reasonableness-status
+  difficulty: 1
+  question: >-
+    What is the legal status in October 2026 of Basic Law: The Judiciary s. 15(ד1), the 2023
+    reasonableness amendment?
+  options:
+    - >-
+      It is void, under the ruling of 1.1.2024.
+    - >-
+      It is in force, but only for appointments.
+    - >-
+      It applies from the 26th Knesset onwards.
+    - >-
+      It was repealed by the Knesset in early 2025.
+  correct: 0
+  explanation: >-
+    Eight of fifteen justices declared it void in HCJ 5658/23; reasonableness review continues as
+    before.
+- id: m14-012
+  module: 14
+  lesson: "14.2"
+  subject: reasonableness-scope
+  difficulty: 1
+  question: >-
+    Which decision-makers did the 2023 reasonableness amendment cover?
+  options:
+    - >-
+      All public authorities, including municipalities.
+    - >-
+      Only planning and licensing committees nationwide.
+    - >-
+      The Government, the Prime Minister and ministers.
+    - >-
+      Only courts, tribunals and their registrars.
+  correct: 2
+  explanation: >-
+    The amendment applied to the elected tier only; officials, local authorities and committees were
+    never covered.
+- id: m14-013
+  module: 14
+  lesson: "14.2"
+  subject: reasonableness-debate
+  difficulty: 3
+  question: >-
+    Which is the strongest legal argument made by supporters of narrowing reasonableness review?
+  options:
+    - >-
+      Judges are not allowed by any Basic Law to review any decision taken by an elected official.
+    - >-
+      Reasonableness was invented in 2023 by the Court and has no basis at all in earlier case law.
+    - >-
+      Without reasonableness review, ministers could no longer be sued for damages in the civil
+      courts.
+    - >-
+      Balancing review lets judges redo a minister's weighing without a clear standard, while other
+      grounds catch abuse.
+  correct: 3
+  explanation: >-
+    The legal case for narrowing targets the open-ended balancing test of Dapei Zahav (1980), not
+    review of absurd decisions.
+- id: m14-014
+  module: 14
+  lesson: "14.2"
+  subject: reasonableness-debate
+  difficulty: 3
+  question: >-
+    Which is the strongest legal argument made by those who oppose removing reasonableness review of
+    ministers?
+  options:
+    - >-
+      Ministers are always less competent than judges to weigh public considerations in any field.
+    - >-
+      In Israel's structure it is often the only effective check on some decisions, such as
+      appointments.
+    - >-
+      Reasonableness review is expressly required by Basic Law: Freedom of Occupation for every
+      decision.
+    - >-
+      Reasonableness is the only ground of review that exists in Israeli administrative law today.
+  correct: 1
+  explanation: >-
+    The majority in 5658/23 stressed that removing it left whole areas, including gatekeeper
+    appointments, without effective review.
+- id: m14-015
+  module: 14
+  lesson: "14.3"
+  subject: proportionality
+  difficulty: 1
+  question: >-
+    What are the three proportionality subtests for an administrative decision?
+  options:
+    - >-
+      Rational connection, least harmful means, narrow-sense balance.
+    - >-
+      Authority, written reasons and a hearing before deciding.
+    - >-
+      Proper purpose, delay and exhaustion of other remedies.
+    - >-
+      Legality, equality and extreme unreasonableness.
+  correct: 0
+  explanation: >-
+    Beit Sourik restated the three subtests for administrative authorities.
+- id: m14-016
+  module: 14
+  lesson: "14.3"
+  subject: deference
+  difficulty: 2
+  question: >-
+    In Beit Sourik, on which question did the Court say it, not the military commander, was the
+    expert?
+  options:
+    - >-
+      Which route was best from a purely military point of view.
+    - >-
+      How many soldiers were needed to guard each section of the barrier.
+    - >-
+      Whether the harm to residents was proportionate to the security gain.
+    - >-
+      Whether any barrier at all was militarily useful against attacks.
+  correct: 2
+  explanation: >-
+    The Court deferred on military means but decided the balance between benefit and harm itself.
+- id: m14-017
+  module: 14
+  lesson: "14.3"
+  subject: local-character
+  difficulty: 2
+  question: >-
+    Solodkin (HCJ 953/01) concerned by-laws restricting pork sales. What principle did it set for
+    local authorities?
+  options:
+    - >-
+      Local authorities may never restrict the sale of any kind of food.
+    - >-
+      Use the power proportionately, in light of each area's local character.
+    - >-
+      A total ban is valid in every town once the Knesset has empowered it.
+    - >-
+      Only the Chief Rabbinate may decide restrictions on the sale of food.
+  correct: 1
+  explanation: >-
+    The Court sent the by-laws back for reconsideration on criteria tied to each neighbourhood's
+    population.
+- id: m14-018
+  module: 14
+  lesson: "14.3"
+  subject: alternative
+  difficulty: 1
+  question: >-
+    Which proposed alternative is strongest in a least-harmful-means argument against closing your
+    shop for noise?
+  options:
+    - >-
+      Asking the authority to find some other way of dealing with the noise.
+    - >-
+      Promising in writing to be quieter in the future, without any measure.
+    - >-
+      Specific insulation within two weeks, as required of two similar shops.
+    - >-
+      Suggesting that the neighbours who complained move to another building.
+  correct: 2
+  explanation: >-
+    A concrete alternative that achieves the same purpose, and that the authority already uses,
+    proves feasibility.
+- id: m14-019
+  module: 14
+  lesson: "14.3"
+  subject: emergency
+  difficulty: 3
+  question: >-
+    During an epidemic the Government declares your town a restricted zone. In Loewenthal (HCJ
+    2435/20), why did a similar petition fail?
+  options:
+    - >-
+      Milder measures had failed, the measure was temporary, and experts got deference.
+    - >-
+      Emergency regulations can never be reviewed by the courts in any situation.
+    - >-
+      The petitioners had not first complained to the Ombudsman about the closure.
+    - >-
+      Restricted zones are primary arrangements and so need no judicial review.
+  correct: 0
+  explanation: >-
+    Deference is wide in urgent professional matters, but the authority still showed that milder
+    means had failed.
+- id: m14-020
+  module: 14
+  lesson: "14.3"
+  subject: remedy
+  difficulty: 2
+  question: >-
+    A court finds a municipal closure order disproportionate. Which remedy is it most likely to
+    give?
+  options:
+    - >-
+      Set the closure period itself and fine the municipality for the breach.
+    - >-
+      Order the mayor to resign and new elections to be held in the town.
+    - >-
+      Award the shop owner punitive damages within the petition itself.
+    - >-
+      Return it for reconsideration, perhaps with a time limit or milder condition.
+  correct: 3
+  explanation: >-
+    Courts rarely substitute their own measure; they send the decision back with directions.
+- id: m14-021
+  module: 14
+  lesson: "14.4"
+  subject: hearing
+  difficulty: 1
+  question: >-
+    Which ruling established the general right to be heard before an administrative decision
+    affecting a person?
+  options:
+    - >-
+      Bergman v. Minister of Finance, HCJ 98/69.
+    - >-
+      Berman v. Minister of Interior, HCJ 3/58.
+    - >-
+      Ka'adan v. Israel Land Administration, HCJ 6698/95.
+    - >-
+      Solodkin v. Beit Shemesh Municipality, HCJ 953/01.
+  correct: 1
+  explanation: >-
+    Berman applied the common-law rule of a fair hearing when a person's property or status may be
+    affected.
+- id: m14-022
+  module: 14
+  lesson: "14.4"
+  subject: reasons
+  difficulty: 1
+  question: >-
+    Under the Decisions and Reasons Law, what must a public servant do on refusing a written request
+    to use a power?
+  options:
+    - >-
+      Publish the refusal in Reshumot within forty-five days.
+    - >-
+      Ask the responsible minister to confirm the refusal first.
+    - >-
+      Give written reasons, unless an exemption in s. 3 applies.
+    - >-
+      Offer the applicant a meeting before sending any refusal.
+  correct: 2
+  explanation: >-
+    Section 2א requires written reasons; s. 3 lists exemptions such as security and appointments.
+- id: m14-023
+  module: 14
+  lesson: "14.4"
+  subject: reasons-exemptions
+  difficulty: 2
+  question: >-
+    You applied for a post in a government unit and were refused without reasons. Under s. 3 of the
+    Decisions and Reasons Law, must the official give reasons?
+  options:
+    - >-
+      No: refusing to appoint the applicant to a post is exempt.
+    - >-
+      Yes, always, because every refusal of any kind must be reasoned.
+    - >-
+      Yes, unless the post is within one of the security services.
+    - >-
+      No, because employment matters are outside the Law entirely.
+  correct: 0
+  explanation: >-
+    Section 3(3) exempts a refusal to appoint the applicant to a post; the official must still say
+    which exemption applies (s. 4).
+- id: m14-024
+  module: 14
+  lesson: "14.4"
+  subject: burden
+  difficulty: 1
+  question: >-
+    In a petition, what is the effect of the authority's failure to give reasons required by the
+    Decisions and Reasons Law?
+  options:
+    - >-
+      The decision becomes void automatically.
+    - >-
+      The petitioner may claim damages in the petition.
+    - >-
+      The petition period is extended until reasons come.
+    - >-
+      The authority must prove the decision was lawful.
+  correct: 3
+  explanation: >-
+    Section 6(א): the decision is not invalid for that alone, but the official must prove legality.
+- id: m14-025
+  module: 14
+  lesson: "14.4"
+  subject: conflict
+  difficulty: 2
+  question: >-
+    A member of a municipal permits committee owns a competing business across the road from yours.
+    What should you do before the committee meets?
+  options:
+    - >-
+      Ask in writing that the member not take part, stating the reason.
+    - >-
+      Nothing; conflicts of interest can be raised only later in court.
+    - >-
+      Ask the member to declare the conflict publicly after the vote.
+    - >-
+      File a criminal complaint against the member before the meeting.
+  correct: 0
+  explanation: >-
+    A decision-maker with a personal interest must not decide; raising it early avoids waiver
+    arguments.
+- id: m14-026
+  module: 14
+  lesson: "14.4"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this letter: 'Since you did not answer my request within 45 days, your
+    silence is a deemed approval, and I will start building tomorrow.'
+  options:
+    - >-
+      The statutory period is thirty days, not forty-five days as stated.
+    - >-
+      Silence is a refusal, not an approval, and only after three months.
+    - >-
+      The Decisions and Reasons Law does not apply to building matters at all.
+    - >-
+      The letter should have been addressed to the Ombudsman instead.
+  correct: 1
+  explanation: >-
+    Section 6(ב) treats three months' silence as a refusal without reasons; there is no deemed
+    approval.
+- id: m14-027
+  module: 14
+  lesson: "14.5"
+  subject: duty-to-decide
+  difficulty: 1
+  question: >-
+    An authority has simply not decided your application. Under the Administrative Affairs Courts
+    Law s. 2, can you petition?
+  options:
+    - >-
+      No, only a written decision can be challenged.
+    - >-
+      No, unless the authority admits it has decided.
+    - >-
+      Yes, but only in the High Court of Justice.
+    - >-
+      Yes: a 'decision' includes an omission.
+  correct: 3
+  explanation: >-
+    The statutory definition includes the absence of a decision and omissions; the remedy is usually
+    an order to decide.
+- id: m14-028
+  module: 14
+  lesson: "14.5"
+  subject: fettering
+  difficulty: 2
+  question: >-
+    What was the core holding of the Gas Outline case (HCJ 4374/15) on the 'stability clause'?
+  options:
+    - >-
+      The Government must tender every natural-gas licence it grants.
+    - >-
+      The gas companies' expected profits were disproportionate.
+    - >-
+      The Government may not bind its future discretion for years.
+    - >-
+      Only the Knesset may negotiate agreements with foreign companies.
+  correct: 2
+  explanation: >-
+    Binding regulatory powers for ten years breached the rule against fettering discretion.
+- id: m14-029
+  module: 14
+  lesson: "14.5"
+  subject: delegation
+  difficulty: 1
+  question: >-
+    Which power may a minister NOT delegate to a public servant under Basic Law: The Government s.
+    33(ב)?
+  options:
+    - >-
+      The power to decide permit applications.
+    - >-
+      The power to make regulations.
+    - >-
+      The power to sign routine grants.
+    - >-
+      The power to answer public letters.
+  correct: 1
+  explanation: >-
+    Section 33(ב) allows delegation of statutory powers except the power to make regulations.
+- id: m14-030
+  module: 14
+  lesson: "14.5"
+  subject: delegation
+  difficulty: 3
+  question: >-
+    A permit refusal was signed by an assistant director. The statute gives the power to the
+    director-general. The ministry produces a delegation from the minister to the assistant. What is
+    the problem?
+  options:
+    - >-
+      The minister did not hold this power, unless the minister first took it over under s. 34.
+    - >-
+      None: any delegation signed by a minister is valid for every power in the ministry.
+    - >-
+      The assistant director should have signed the refusal in front of two witnesses.
+    - >-
+      Delegations of any power are valid only if the Knesset approved them in advance.
+  correct: 0
+  explanation: >-
+    Delegation must come from the holder of the power; s. 34 lets a minister take over a power of a
+    State employee, which must be checked.
+- id: m14-031
+  module: 14
+  lesson: "14.5"
+  subject: admin-evidence
+  difficulty: 2
+  question: >-
+    In Ometz v. Rochberger (HCJ 4921/13), what status did the Court give to the indictments against
+    the mayors?
+  options:
+    - >-
+      Inadmissible material, because no court had yet convicted them.
+    - >-
+      Conclusive proof of guilt for all legal purposes, civil and criminal.
+    - >-
+      Irrelevant material, because local elections were about to be held.
+    - >-
+      Weighty administrative evidence of conduct unbecoming the office.
+  correct: 3
+  explanation: >-
+    An indictment can found an administrative decision even before conviction.
+- id: m14-032
+  module: 14
+  lesson: "14.5"
+  subject: admin-evidence
+  difficulty: 3
+  question: >-
+    Your licence was suspended because of one neighbour's complaint, never checked, and you were not
+    told of it. Which arguments fit best?
+  options:
+    - >-
+      Lack of territorial jurisdiction, together with delay by the authority.
+    - >-
+      Breach of the tender rules, together with an administrative promise.
+    - >-
+      Inadequate administrative evidence, and no chance to answer it.
+    - >-
+      Lack of standing by the neighbour, together with lack of ripeness.
+  correct: 2
+  explanation: >-
+    Administrative evidence must have probative value, be checked, and be put to the person
+    affected.
+- id: m14-033
+  module: 14
+  lesson: "14.5"
+  subject: appointment-power
+  difficulty: 1
+  question: >-
+    Under the Interpretation Law s. 14, what does a power to appoint include?
+  options:
+    - >-
+      A power to set the appointee's salary freely.
+    - >-
+      A power to appoint deputies without approval.
+    - >-
+      A power to dismiss or suspend the appointee.
+    - >-
+      A power to delegate the appointment to anyone.
+  correct: 2
+  explanation: >-
+    Section 14 attaches the power to cancel, dismiss or suspend to the power to appoint.
+- id: m14-034
+  module: 14
+  lesson: "14.6"
+  subject: tender-duty
+  difficulty: 2
+  question: >-
+    Which of these bodies must contract by public tender under the Mandatory Tenders Law s. 2(א)?
+  options:
+    - >-
+      A private company receiving a one-off government grant.
+    - >-
+      A health fund buying medical equipment.
+    - >-
+      A family business selling goods to a ministry.
+    - >-
+      A charity buying office supplies from its own donations.
+  correct: 1
+  explanation: >-
+    Section 2(א) covers the State, government corporations, local-authority corporations, religious
+    councils, health funds and State-funded universities.
+- id: m14-035
+  module: 14
+  lesson: "14.6"
+  subject: tender-conditions
+  difficulty: 2
+  question: >-
+    A tender requires bidders to have 'experience working with this ministry'. What does s. 2א
+    require of the issuer?
+  options:
+    - >-
+      Reasons for that condition in the tender documents.
+    - >-
+      Nothing, since threshold conditions are always within discretion.
+    - >-
+      Cancellation of the tender, since such conditions are banned.
+    - >-
+      The Knesset Finance Committee's approval for the condition.
+  correct: 0
+  explanation: >-
+    Section 2א(ב) requires reasons for stricter conditions and for experience with the issuer or
+    similar bodies.
+- id: m14-036
+  module: 14
+  lesson: "14.6"
+  subject: negotiation
+  difficulty: 1
+  question: >-
+    Under Gazit (HCJ 316/63), may a tender committee negotiate a lower price with one bidder after
+    opening the bids?
+  options:
+    - >-
+      Yes, whenever doing so saves public money.
+    - >-
+      Yes, if that bidder is the incumbent supplier.
+    - >-
+      Yes, if the other bidders are told afterwards.
+    - >-
+      No: each bid is accepted or rejected as it stands.
+  correct: 3
+  explanation: >-
+    The rule is also written into the municipal tender regulations (reg. 18א).
+- id: m14-037
+  module: 14
+  lesson: "14.6"
+  subject: inspection
+  difficulty: 2
+  question: >-
+    After losing a tender under the Mandatory Tenders Law, which document may you NOT normally
+    inspect?
+  options:
+    - >-
+      Internal legal advice on litigation risk.
+    - >-
+      The tender committee's minutes of its meetings.
+    - >-
+      The winning bid, apart from any trade secrets.
+    - >-
+      The committee's correspondence with the bidders.
+  correct: 0
+  explanation: >-
+    Reg. 21(ה) gives inspection rights with exceptions including trade secrets and internal legal
+    advice.
+- id: m14-038
+  module: 14
+  lesson: "14.6"
+  subject: best-bid
+  difficulty: 3
+  question: >-
+    The committee chose the second-cheapest bid without recording reasons and without hearing the
+    cheapest bidder. Which provision was breached?
+  options:
+    - >-
+      Reg. 3 of the Mandatory Tenders Regulations on exemptions.
+    - >-
+      Reg. 21(ב) of the Mandatory Tenders Regulations.
+    - >-
+      Reg. 5(ב) of the administrative procedure regulations.
+    - >-
+      Section 14 of the Freedom of Information Law.
+  correct: 1
+  explanation: >-
+    Unless other published criteria apply, the best-priced bid wins absent special recorded reasons
+    and a hearing for its bidder.
+- id: m14-039
+  module: 14
+  lesson: "14.6"
+  subject: promise
+  difficulty: 2
+  question: >-
+    Which of these is most likely a binding administrative promise under Sai-Tex?
+  options:
+    - >-
+      A clerk's remark at the front desk that it will probably be fine.
+    - >-
+      A minister's election speech promising grants to small businesses.
+    - >-
+      A website FAQ saying that most applications are usually approved.
+    - >-
+      A written assurance from the grants unit head of payment in March.
+  correct: 3
+  explanation: >-
+    A binding promise comes from an authorised official, is definite and within power.
+- id: m14-040
+  module: 14
+  lesson: "14.6"
+  subject: promise-departure
+  difficulty: 3
+  question: >-
+    An authority wants to depart from a binding promise after a sharp change in circumstances. What
+    does the Sai-Tex line require?
+  options:
+    - >-
+      Nothing at all: authorities may always change their minds freely.
+    - >-
+      The written consent of the person to whom the promise was made.
+    - >-
+      A real change requiring departure, weighed against your reliance.
+    - >-
+      A new statute of the Knesset specifically cancelling the promise.
+  correct: 2
+  explanation: >-
+    A legal justification, such as a change of circumstances, after weighing reliance, permits
+    departure.
+- id: m14-041
+  module: 14
+  lesson: "14.6"
+  subject: disclosure
+  difficulty: 2
+  question: >-
+    In Conterm (HCJ 164/97) the three justices differed on the citizen's duties to the authority.
+    What did all three agree on?
+  options:
+    - >-
+      Citizens owe a general duty of fairness to the government.
+    - >-
+      Citizens never owe the government any duty of disclosure.
+    - >-
+      The authority could refuse to renew the licence.
+    - >-
+      The licence had to be renewed, as the authority knew the facts.
+  correct: 2
+  explanation: >-
+    Zamir, Barak and Cheshin reached the same result on different reasoning.
+- id: m14-042
+  module: 14
+  lesson: "14.7"
+  subject: foi-who
+  difficulty: 1
+  question: >-
+    Who may obtain information under the FOI Law s. 1?
+  options:
+    - >-
+      Only journalists and registered non-profits.
+    - >-
+      Only persons who state a legitimate reason.
+    - >-
+      Only people who are themselves the subject.
+    - >-
+      Every Israeli citizen or resident.
+  correct: 3
+  explanation: >-
+    No reason is needed (s. 7(א)); residents include Israeli corporations; non-residents may obtain
+    information about their own rights (s. 12).
+- id: m14-043
+  module: 14
+  lesson: "14.7"
+  subject: foi-exemptions
+  difficulty: 2
+  question: >-
+    What is the legal difference between s. 9(א) and s. 9(ב) of the FOI Law?
+  options:
+    - >-
+      Section 9(א) applies to municipalities and s. 9(ב) to ministries.
+    - >-
+      9(א) forbids disclosure; 9(ב) removes the duty but requires weighing.
+    - >-
+      Section 9(א) deals with fees and s. 9(ב) with periods for answers.
+    - >-
+      There is no difference: both sections forbid disclosure absolutely.
+  correct: 1
+  explanation: >-
+    CHE v. Haaretz emphasised that s. 9(ב) leaves discretion that must be exercised case by case.
+- id: m14-044
+  module: 14
+  lesson: "14.7"
+  subject: foi-override
+  difficulty: 2
+  question: >-
+    When may a court order disclosure despite an exemption in s. 9 of the FOI Law?
+  options:
+    - >-
+      When the public interest prevails and no law forbids disclosure.
+    - >-
+      Never, because s. 9 binds the court absolutely in every case.
+    - >-
+      Only if the person applying for the information is a journalist.
+    - >-
+      Only if the authority itself consents to the disclosure order.
+  correct: 0
+  explanation: >-
+    Section 17(ד) gives the court an override, limited by laws forbidding disclosure.
+- id: m14-045
+  module: 14
+  lesson: "14.7"
+  subject: foi-fees
+  difficulty: 1
+  question: >-
+    An FOI request concerns information about the applicant herself and her rights. Which fee rule
+    applies?
+  options:
+    - >-
+      No application fee, and four handling hours free.
+    - >-
+      Double fees, because individual files are complex.
+    - >-
+      An application fee but never any production fee.
+    - >-
+      No fees of any kind in every case, however large.
+  correct: 0
+  explanation: >-
+    Reg. 6(א) of the FOI (Fees) Regulations; production fees may still apply above a small amount.
+- id: m14-046
+  module: 14
+  lesson: "14.7"
+  subject: foi-fee-appeal
+  difficulty: 2
+  question: >-
+    You think the FOI officer's fee estimate is excessive. Where do you appeal?
+  options:
+    - >-
+      To the Administrative Affairs Court, by petition only.
+    - >-
+      To the Ombudsman, whose decision on fees is final.
+    - >-
+      To the minister responsible for the authority.
+    - >-
+      To the magistrates' court where the officer sits.
+  correct: 3
+  explanation: >-
+    FOI Law s. 18(ה) and reg. 8 of the fee regulations send fee decisions to the magistrates' court,
+    within a set period.
+- id: m14-047
+  module: 14
+  lesson: "14.7"
+  subject: foi-third-party
+  difficulty: 3
+  question: >-
+    Your FOI request covers a contractor's invoices. The authority notifies the contractor, who
+    objects. What follows under s. 13?
+  options:
+    - >-
+      The authority must refuse disclosure once any third party objects to it.
+    - >-
+      If the objection is rejected, disclosure waits for the contractor's time to petition.
+    - >-
+      The authority must disclose at once and ignore the contractor's objection.
+    - >-
+      The contractor must pay the applicant's fees as the price of objecting.
+  correct: 1
+  explanation: >-
+    Section 13 protects third parties with notice, a period to object and a pause before disclosure.
+- id: m14-048
+  module: 14
+  lesson: "14.7"
+  subject: foi-processing
+  difficulty: 3
+  question: >-
+    Spot the mistake in this FOI request: 'Please prepare for me an analysis comparing your
+    enforcement in 2024 and 2025, with conclusions.'
+  options:
+    - >-
+      The request should have been addressed to the minister personally.
+    - >-
+      The request must state why the applicant needs the information.
+    - >-
+      The authority need not process information; ask for what exists.
+    - >-
+      FOI requests may not cover a period longer than one calendar year.
+  correct: 2
+  explanation: >-
+    Section 7(ה): information is given as held; the authority need not process it for the applicant.
+- id: m14-049
+  module: 14
+  lesson: "14.8"
+  subject: ombudsman-scope
+  difficulty: 1
+  question: >-
+    Who may complain to the Ombudsman under the State Comptroller Law s. 33?
+  options:
+    - >-
+      Only Israeli citizens over 18.
+    - >-
+      Only persons with a lawyer.
+    - >-
+      Only Knesset members.
+    - >-
+      Any person at all.
+  correct: 3
+  explanation: >-
+    Section 33: 'כל אדם'. The complaint must be signed with name and address (s. 34).
+- id: m14-050
+  module: 14
+  lesson: "14.8"
+  subject: ombudsman-exclusions
+  difficulty: 2
+  question: >-
+    Which complaint is excluded from investigation under s. 38?
+  options:
+    - >-
+      A complaint about a matter pending in court.
+    - >-
+      A complaint about a ministry's long delay.
+    - >-
+      A complaint about a municipality's rude clerk.
+    - >-
+      A complaint about a government company's silence.
+  correct: 0
+  explanation: >-
+    Section 38(5) excludes matters pending before or decided by a court or tribunal.
+- id: m14-051
+  module: 14
+  lesson: "14.8"
+  subject: ombudsman-deadlines
+  difficulty: 1
+  question: >-
+    You complained to the Ombudsman about an arnona bill. Does the complaint extend the arnona
+    objection period?
+  options:
+    - >-
+      Yes, until the Ombudsman decides.
+    - >-
+      No, it extends no statutory deadline.
+    - >-
+      Yes, by a further thirty days.
+    - >-
+      Only if the Ombudsman says so.
+  correct: 1
+  explanation: >-
+    Section 45(א)(2) of the State Comptroller Law.
+- id: m14-052
+  module: 14
+  lesson: "14.8"
+  subject: ombudsman-review
+  difficulty: 3
+  question: >-
+    The Ombudsman found your complaint unjustified, and you want a court to review that finding.
+    What is the legal position?
+  options:
+    - >-
+      You may petition the Administrative Affairs Court.
+    - >-
+      You may appeal to the Supreme Court as of right.
+    - >-
+      No court will hear a challenge to the finding.
+    - >-
+      You may ask the magistrates' court to review it.
+  correct: 2
+  explanation: >-
+    Section 45(ב) bars judicial relief against the Ombudsman's decisions and findings on complaints.
+- id: m14-053
+  module: 14
+  lesson: "14.8"
+  subject: whistleblower
+  difficulty: 2
+  question: >-
+    What power does the Ombudsman have in a whistleblower complaint under ss. 45א–45ג that it lacks
+    in ordinary complaints?
+  options:
+    - >-
+      It may impose a fine on the employer for each day of retaliation.
+    - >-
+      It may prosecute the retaliating manager in the magistrates' court.
+    - >-
+      It may issue binding orders, such as cancelling a dismissal.
+    - >-
+      It may award damages that are enforced by the Execution Office.
+  correct: 2
+  explanation: >-
+    Section 45ג lets the Ombudsman issue any just order, including interim orders, cancellation and
+    transfer.
+- id: m14-054
+  module: 14
+  lesson: "14.8"
+  subject: forum-choice
+  difficulty: 2
+  question: >-
+    A judge was rude to you during a hearing. Where do you complain?
+  options:
+    - >-
+      To the State Ombudsman under s. 37.
+    - >-
+      To the Administrative Affairs Court.
+    - >-
+      To the Knesset State Control Committee.
+    - >-
+      To the Ombudsman for Judges.
+  correct: 3
+  explanation: >-
+    Section 38(4) excludes judicial acts from the State Ombudsman; the Ombudsman for Judges has a
+    separate law (2002).
+- id: m14-055
+  module: 14
+  lesson: "14.9"
+  subject: jurisdiction
+  difficulty: 1
+  question: >-
+    Under the Administrative Affairs Courts Law s. 8, which grounds does the Administrative Affairs
+    Court apply?
+  options:
+    - >-
+      Only the Civil Procedure Regulations' grounds.
+    - >-
+      The HCJ's grounds, powers and remedies.
+    - >-
+      Only lack of authority, never discretion.
+    - >-
+      The grounds set by each authority's rules.
+  correct: 1
+  explanation: >-
+    Section 8 imports the HCJ's grounds and remedies, with necessary changes.
+- id: m14-056
+  module: 14
+  lesson: "14.9"
+  subject: transfer
+  difficulty: 2
+  question: >-
+    A petitioner wants an administrative petition of special public importance heard by the HCJ.
+    When must the petitioner ask for transfer?
+  options:
+    - >-
+      When filing the petition (reg. 21(א)).
+    - >-
+      Only after judgment, by way of appeal.
+    - >-
+      At any time before the hearing, freely.
+    - >-
+      Never; only the Attorney General may ask.
+  correct: 0
+  explanation: >-
+    Section 6 allows transfer for importance, sensitivity or urgency; a petitioner must ask on
+    filing.
+- id: m14-057
+  module: 14
+  lesson: "14.9"
+  subject: venue
+  difficulty: 2
+  question: >-
+    A petition concerns a planning decision about land in Haifa, made by a committee sitting in
+    Nazareth. Where is it filed?
+  options:
+    - >-
+      In Jerusalem, because planning is a national matter.
+    - >-
+      In the court for the area where the land is.
+    - >-
+      In the court where the petitioner happens to live.
+    - >-
+      In any district court the petitioner chooses.
+  correct: 1
+  explanation: >-
+    Reg. 2(א): in matters concerning land, the court where the land is.
+- id: m14-058
+  module: 14
+  lesson: "14.9"
+  subject: respondents
+  difficulty: 2
+  question: >-
+    Under reg. 6(א), who must be respondents to an administrative petition?
+  options:
+    - >-
+      Only the individual official who signed the decision.
+    - >-
+      Only the minister responsible for the authority's work.
+    - >-
+      Anyone the petitioner chooses, with no requirement.
+    - >-
+      The authority, others concerned, and anyone who may be harmed.
+  correct: 3
+  explanation: >-
+    Failure to join a proper respondent may lead to striking out (reg. 6(ב)).
+- id: m14-059
+  module: 14
+  lesson: "14.9"
+  subject: interim
+  difficulty: 3
+  question: >-
+    A demolition is scheduled for tomorrow. What may the court give without hearing the respondent,
+    under reg. 9א?
+  options:
+    - >-
+      A temporary order, with a quick hearing set.
+    - >-
+      A final judgment granting the whole petition.
+    - >-
+      An interim order, which never needs a response.
+    - >-
+      Damages for the threatened demolition.
+  correct: 0
+  explanation: >-
+    Reg. 9א allows an ex parte temporary order if delay may cause irreparable or serious harm; an
+    interim order requires the respondent's chance to respond (reg. 9(ד)).
+- id: m14-060
+  module: 14
+  lesson: "14.9"
+  subject: costs
+  difficulty: 3
+  question: >-
+    A petition is dismissed on its face as showing no ground for intervention. Which special costs
+    risk applies?
+  options:
+    - >-
+      A bar on filing any future petition.
+    - >-
+      Payment of the court's daily running costs.
+    - >-
+      Costs payable to the State Treasury.
+    - >-
+      None, for an unrepresented petitioner.
+  correct: 2
+  explanation: >-
+    Reg. 41(ב) allows Treasury costs where a petition is dismissed on its face.
+- id: m14-061
+  module: 14
+  lesson: "14.9"
+  subject: self-representation
+  difficulty: 2
+  question: >-
+    Which provision best supports an individual's right to petition the Administrative Affairs Court
+    without a lawyer?
+  options:
+    - >-
+      Reg. 44א, applying CPR reg. 170.
+    - >-
+      Section 6 of the Administrative Affairs Courts Law.
+    - >-
+      Section 22 of the Bar Association Law 1961.
+    - >-
+      Reg. 41 of the administrative procedure regulations.
+  correct: 0
+  explanation: >-
+    Reg. 170 lets a party act 'בעצמו או בידי עורך דין'; reg. 44א applies it in this court.
+- id: m14-062
+  module: 14
+  lesson: "14.9"
+  subject: appeal
+  difficulty: 2
+  question: >-
+    Your administrative petition was dismissed. How do you challenge the judgment?
+  options:
+    - >-
+      Only with leave of a Supreme Court justice.
+    - >-
+      By a further hearing before three district judges.
+    - >-
+      By appeal to the Supreme Court as of right.
+    - >-
+      By a new petition to the HCJ against the court.
+  correct: 2
+  explanation: >-
+    Judgments in petitions and claims are appealable as of right (s. 11), within the reg. 33 period;
+    administrative appeals and listed decisions need leave (s. 12).
+- id: m14-063
+  module: 14
+  lesson: "14.10"
+  subject: route
+  difficulty: 3
+  question: >-
+    A refusal letter says you may object to the arnona director within 90 days. You also want to
+    argue that your income entitles you to a discount. What do you do?
+  options:
+    - >-
+      Raise everything in the objection, since the director may decide any arnona issue.
+    - >-
+      Object on the listed grounds, and seek the discount by request and petition.
+    - >-
+      Complain to the Ombudsman instead, since it covers both issues in one complaint.
+    - >-
+      Wait for the discount decision before objecting, to keep the arguments together.
+  correct: 1
+  explanation: >-
+    The Arnona Appeals Law s. 3 limits objection grounds; discounts follow a different route.
+- id: m14-064
+  module: 14
+  lesson: "14.10"
+  subject: timing
+  difficulty: 1
+  question: >-
+    Your objection deadline arrives before the FOI answer. What is correct?
+  options:
+    - >-
+      Wait, because the FOI request suspends the deadline.
+    - >-
+      Ask the FOI officer to extend the objection deadline.
+    - >-
+      Abandon the objection and petition the court instead.
+    - >-
+      File the objection on time and supplement it later.
+  correct: 3
+  explanation: >-
+    The FOI request does not affect other deadlines.
+- id: m14-065
+  module: 14
+  lesson: "14.10"
+  subject: remedy
+  difficulty: 2
+  question: >-
+    Which remedy paragraph suits an objection to a licence refusal made without a hearing?
+  options:
+    - >-
+      Award me ₪30,000 for the distress and lost time the refusal caused me.
+    - >-
+      Dismiss the clerk who signed the refusal and inform me when it is done.
+    - >-
+      Publish an apology to me in two national newspapers within a week.
+    - >-
+      Cancel the refusal and decide again after hearing me, within 21 days.
+  correct: 3
+  explanation: >-
+    Ask for what the decision-maker can grant: reconsideration after a hearing, by a date.
+- id: m14-066
+  module: 14
+  lesson: "14.10"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this objection: eight pages of grounds, no facts, ending 'I reserve all my
+    rights'.
+  options:
+    - >-
+      It should have gone to the Supreme Court.
+    - >-
+      No dated facts and no concrete remedy.
+    - >-
+      By law objections must be under two lines.
+    - >-
+      Objections are not allowed to mention rights.
+  correct: 1
+  explanation: >-
+    An objection needs facts, focused grounds and a remedy the official can grant.
+- id: m14-067
+  module: 14
+  lesson: "14.11"
+  subject: affidavit
+  difficulty: 1
+  question: >-
+    Under reg. 5(ג), what must the affidavit supporting a petition do?
+  options:
+    - >-
+      Separate personal knowledge from belief, with its source.
+    - >-
+      Repeat every legal argument of the petition word for word.
+    - >-
+      Be signed by two witnesses who are relatives of the petitioner.
+    - >-
+      Be filed only after the respondent has filed its answer.
+  correct: 0
+  explanation: >-
+    The affidavit follows Form 2 and distinguishes knowledge from belief.
+- id: m14-068
+  module: 14
+  lesson: "14.11"
+  subject: contents
+  difficulty: 2
+  question: >-
+    Which item must an administrative petition include under reg. 5(ב)(3א)?
+  options:
+    - >-
+      A list of the judge's previous rulings on the subject.
+    - >-
+      The petitioner's tax returns for the last two years.
+    - >-
+      The enabling provision and the schedule item relied on.
+    - >-
+      A lawyer's certificate that the petition is well founded.
+  correct: 2
+  explanation: >-
+    Jurisdiction, with the First or Fourth Schedule item, is part of the petition itself.
+- id: m14-069
+  module: 14
+  lesson: "14.11"
+  subject: service
+  difficulty: 2
+  question: >-
+    When must a petitioner serve the petition on the respondents?
+  options:
+    - >-
+      Only after the court orders service in a decision.
+    - >-
+      Never; the registry serves for unrepresented petitioners.
+    - >-
+      Within days of filing, then file proof of service.
+    - >-
+      Only shortly before the first hearing in the case.
+  correct: 2
+  explanation: >-
+    Reg. 35(א) sets the service period; without proof of service the petition is not put before the
+    court (reg. 7(ב)).
+- id: m14-070
+  module: 14
+  lesson: "14.11"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this petition plan: 'I will ask for an interim order in paragraph 30 of the
+    petition, under the heading Remedies.'
+  options:
+    - >-
+      Interim orders need a separate application with an affidavit.
+    - >-
+      Interim orders may be requested only after the answer is filed.
+    - >-
+      Interim orders are never available in the Administrative Affairs Court.
+    - >-
+      The remedies section must always come before the facts section.
+  correct: 0
+  explanation: >-
+    Reg. 9(א) requires a separate application, and it must be served the same day (reg. 35(ב)).
+- id: m14-071
+  module: 14
+  lesson: "14.11"
+  subject: exhaustion
+  difficulty: 2
+  question: >-
+    Before petitioning against a licence revocation under the Day-Care Centres Supervision Law, what
+    must you check?
+  options:
+    - >-
+      Whether the minister has publicly commented on your case.
+    - >-
+      Whether s. 55 gives an appeal to an appeals committee.
+    - >-
+      Whether the Ombudsman has an investigation pending on it.
+    - >-
+      Whether the court petition fee has risen this calendar year.
+  correct: 1
+  explanation: >-
+    That law gives an appeal to an appeals committee, with a further appeal to the Administrative
+    Affairs Court.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A ministry refuses your FOI request for the minutes of a committee, citing "internal deliberations"
+    (s. 9(ב)(4)), in one sentence. What is your best response?
+  options:
+    - >-
+      Accept it, because internal deliberations can never be disclosed under the Law.
+    - >-
+      Say s. 9(ב) requires weighing the interests, and ask for partial disclosure.
+    - >-
+      Ask the Ombudsman to order disclosure, since only he may review FOI refusals.
+    - >-
+      File a civil claim for damages in the magistrates' court for the refusal.
+  correct: 1
+  explanation: >-
+    CHE v. Haaretz held that s. 9(ב) frees the authority from a duty but requires case-by-case weighing;
+    a blanket refusal is unreasonable. Section 11 requires disclosure of the non-exempt parts.
+- id: q2
+  question: >-
+    A municipality answered your FOI request three weeks after the statutory period, with no extension
+    notice, and asks you to pay handling fees for six hours of work. What do you reply?
+  options:
+    - >-
+      Pay, since handling fees are always due from the fourth hour of work.
+    - >-
+      Pay half, because the delay reduces the fee by fifty percent under the regulations.
+    - >-
+      Refuse: under reg. 6א a late authority may not charge handling fees.
+    - >-
+      Refuse, because handling fees may be charged only for information about yourself.
+  correct: 2
+  explanation: >-
+    Reg. 6א of the FOI (Fees) Regulations bars handling and production fees where the authority did not
+    deal with the request within the statutory periods, including failure to extend them properly.
+- id: q3
+  question: >-
+    A ministry refuses to disclose who attended an official reception, saying disclosure "might harm
+    foreign relations" in general. What does AAA 2975/15 require?
+  options:
+    - >-
+      A real, concrete concern of harm in the specific case, weighed by severity and likelihood.
+    - >-
+      Nothing more: any foreign-relations claim by the ministry ends the court's review.
+    - >-
+      Approval of the refusal by the Knesset Foreign Affairs and Defence Committee.
+    - >-
+      A privilege certificate in every case, or else the information must be disclosed.
+  correct: 0
+  explanation: >-
+    The majority held that even the mandatory exemption in s. 9(א)(1) needs a real concern, not a general
+    chilling-effect argument that would hide whole areas from the public.
+- id: q4
+  question: >-
+    You ask a ministry for "a table showing how many permits each district office granted each month
+    since 2020". The data exists only in separate monthly reports. What will the ministry most likely say?
+  options:
+    - >-
+      That FOI covers only paper documents, not computer data.
+    - >-
+      That you must give a reason for the request before it is processed.
+    - >-
+      That information older than one year is automatically exempt.
+    - >-
+      That it need not process data for you, only give the reports.
+  correct: 3
+  explanation: >-
+    Section 7(ה) provides that information is given as the authority holds it, without a duty to process
+    it for the applicant. Ask for the existing reports instead of a table.

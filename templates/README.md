@@ -4,6 +4,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 
 ## All templates
 
+- [Administrative petition and affidavit (עתירה מינהלית ותצהיר)](administrative-petition.md)
 - [Apartment purchase check (בדיקת דירה לפני רכישה – רשימת בדיקה)](apartment-purchase-check.md)
 - [Appeal against a decision to close a criminal file (ערר על החלטה לסגור תיק)](appeal-against-closing-file.md)
 - [Argument from principle (טיעון מן העקרונות)](argument-from-principle.md)
@@ -16,6 +17,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Decision worksheet: should you sue? (גיליון החלטה: האם לתבוע?)](should-you-sue-worksheet.md)
 - [Demand letter to a company (מכתב דרישה לחברה)](demand-letter-company.md)
 - [Execution request checklist (רשימת בדיקה לפתיחת תיק בהוצאה לפועל)](execution-request-checklist.md)
+- [FOI request (בקשה לקבלת מידע לפי חוק חופש המידע)](foi-request.md)
 - [Forum check worksheet (דף בדיקת ערכאה)](forum-check-worksheet.md)
 - [Four-theories worksheet (ניתוח פסק דין בארבע תיאוריות)](four-theories-worksheet.md)
 - [Get-a-lawyer checklist and one-page case summary (מתי לפנות לעורך דין – רשימת בדיקה ותקציר תיק)](get-a-lawyer-checklist.md)
@@ -25,6 +27,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Letter to a Knesset committee (פנייה לוועדה של הכנסת ונייר עמדה)](letter-to-knesset-committee.md)
 - [Letter to a public authority (פנייה לרשות ציבורית)](letter-to-authority.md)
 - [Notice of breach and cancellation (הודעה על הפרת חוזה וביטולו)](notice-of-breach-and-cancellation.md)
+- [Objection or request for reconsideration (השגה / בקשה לעיון מחדש בהחלטה מינהלית)](objection-to-administrative-decision.md)
 - [Petition to the High Court of Justice (עתירה לבית המשפט הגבוה לצדק)](hcj-petition.md)
 - [Police complaint and victims' rights request (תלונה במשטרה ובקשה למימוש זכויות נפגע עבירה)](police-complaint-victim.md)
 - [Pre-action letter (מכתב התראה לפני הגשת תביעה)](pre-action-letter.md)

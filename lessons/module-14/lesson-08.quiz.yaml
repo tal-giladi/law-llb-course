@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You received an arnona bill you think is wrong. The objection period ends in ten days. A friend
+    suggests complaining to the Ombudsman instead. What do you do?
+  options:
+    - >-
+      Complain to the Ombudsman only, since the complaint suspends the objection period.
+    - >-
+      File the objection within the period; a complaint would not extend it and may be declined.
+    - >-
+      Wait for the Ombudsman's finding, then file the objection based on it.
+    - >-
+      Petition the HCJ, since arnona is outside both the Ombudsman and the objection route.
+  correct: 1
+  explanation: >-
+    State Comptroller Law s. 45(א)(2): a complaint does not extend a statutory deadline. Where an
+    objection route exists, the Ombudsman investigates only for a special reason (s. 39(1)).
+- id: q2
+  question: >-
+    The Ombudsman found your complaint against a ministry justified, but the ministry still has not
+    fixed the problem. What can follow under the Law?
+  options:
+    - >-
+      You can petition the court to enforce the Ombudsman's finding as a judgment.
+    - >-
+      The Ombudsman can fine the ministry for every day of non-compliance.
+    - >-
+      The Ombudsman may bring the matter to the minister or the Knesset State Control Committee.
+    - >-
+      The finding automatically gives you a right to damages in the magistrates' court.
+  correct: 2
+  explanation: >-
+    Under s. 43(ב) the body must report the steps taken; if it does not, the Ombudsman may bring the
+    matter to the minister or the Knesset committee. Findings create no new legal right (s. 45(א)(1)).
+- id: q3
+  question: >-
+    Which complaint will the Ombudsman NOT investigate under s. 38?
+  options:
+    - >-
+      A complaint that a magistrates' court judge decided your case wrongly.
+    - >-
+      A complaint that a municipality has not answered your letter for five months.
+    - >-
+      A complaint that a government company's clerk refused to accept your form.
+    - >-
+      A complaint that a ministry lost your file twice and asked you to start again.
+  correct: 0
+  explanation: >-
+    Section 38(4)–(5) excludes judicial acts and matters decided by a court; complaints about a judge's
+    conduct go to the separate Ombudsman for Judges. Delays and rigid service are classic Ombudsman matters.
+- id: q4
+  question: >-
+    A municipal employee reported a bribery scheme through proper channels and was then moved to a
+    basement job. What is special about an Ombudsman complaint in this case?
+  options:
+    - >-
+      It must be filed anonymously to protect the employee from further retaliation.
+    - >-
+      It can be filed only after the employee has resigned from the municipality.
+    - >-
+      It is excluded, because public employees cannot complain about their own employment.
+    - >-
+      The Ombudsman may issue binding orders, such as cancelling the transfer.
+  correct: 3
+  explanation: >-
+    Sections 45א–45ג create a whistleblower route that overrides the usual employment exclusion and lets
+    the Ombudsman issue binding orders, including interim orders, cancellation and transfer.

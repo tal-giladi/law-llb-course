@@ -1,0 +1,35 @@
+- **עקרון החוקיות המינהלית** (Ekron ha-hukiyut ha-minhalit) — Principle of administrative legality: an authority may act only where the law empowers it.
+- **חוסר סמכות** (Hoser samchut) — Lack of authority (ultra vires); the first ground of administrative review.
+- **הסמכה מפורשת** (Hasmacha meforeshet) — Express authorisation in a statute, required to limit a protected right (Basic Law: Human Dignity and Liberty s. 8).
+- **סמכויות עזר** (Samchuyot ezer) — Ancillary powers reasonably needed to exercise a power (Interpretation Law s. 17).
+- **סמכות שיורית** (Samchut shiurit) — The Government's residual power to act for the State, subject to every law (Basic Law: The Government s. 32).
+- **גוף דו־מהותי** (Guf du-mahuti) — Dual-nature body: a body bound by some public-law duties though it acts in private law.
+- **שיקולים זרים** (Shikulim zarim) — Extraneous considerations, unrelated to the purpose of the power.
+- **שונות רלוונטית** (Shonut relevantit) — Relevant difference that justifies different treatment.
+- **סבירות איזונית** (Svirut izunit) — "Balancing" reasonableness, the test developed in Dapei Zahav (1980).
+- **חוסר סבירות קיצוני** (Hoser svirut kitzoni) — Extreme unreasonableness: a decision no reasonable authority could make.
+- **מתחם המידתיות** (Mitham ha-midatiyut) — Zone of proportionality: the range of proportionate choices left to the authority.
+- **זכות הטיעון / שימוע** (Zkhut ha-ti'un / shimu'a) — Right to be heard / hearing before an adverse decision.
+- **חובת ההנמקה** (Hovat ha-hanmaka) — Duty to give reasons (Decisions and Reasons Law s. 2א).
+- **דעה נעולה** (De'a ne'ula) — Closed mind; prejudgment that disqualifies a decision-maker.
+- **כבילת שיקול דעת** (Kvilat shikul da'at) — Fettering of discretion, for example by a rigid policy or a commitment to a third party.
+- **אצילת סמכויות** (Atzilat samchuyot) — Delegation of powers (Basic Law: The Government s. 33).
+- **נטילת סמכויות** (Netilat samchuyot) — A minister's taking over of a power given to a State employee (Basic Law: The Government s. 34).
+- **ראיה מינהלית** (Re'aya minhalit) — Administrative evidence: material with real probative value on which an authority may base a decision.
+- **מכרז פומבי** (Michraz pumbi) — Public tender giving everyone an equal opportunity (Mandatory Tenders Law s. 2).
+- **תנאי סף** (Tnai saf) — Threshold condition for participating in a tender.
+- **ועדת מכרזים** (Va'adat michrazim) — Tender committee.
+- **הבטחה מינהלית** (Havtaha minhalit) — Administrative promise; binding if given by an authorised official, within power, definite and capable of performance (Sai-Tex).
+- **ממונה על חופש המידע** (Memune al hofesh ha-meida) — The FOI officer of a public authority (FOI Law s. 3).
+- **מסירה חלקית** (Mesira helkit) — Partial disclosure with exempt parts removed (FOI Law s. 11).
+- **אגרת טיפול** (Agrat tipul) — FOI handling fee, charged per hour from the fourth hour.
+- **נציב תלונות הציבור** (Netziv tlunot ha-tzibur) — The Ombudsman (Public Complaints Commissioner), a role of the State Comptroller.
+- **גוף מבוקר** (Guf mevukar) — Audited body under the State Comptroller Law s. 9.
+- **חושף שחיתות** (Hoshef shhitut) — Whistleblower; may complain to the Ombudsman of retaliation (State Comptroller Law s. 45א).
+- **תוספת ראשונה** (Tosefet rishona) — First Schedule of the Administrative Affairs Courts Law: subjects of administrative petitions.
+- **צו ארעי** (Tzav ar'i) — Temporary order given without hearing the respondent (procedure regs, reg. 9א).
+- **תגובה מקדמית** (Tguva mukdemet) — Preliminary response the court may order before an answer (reg. 7).
+- **עיקרי טיעון** (Ikrei ti'un) — Skeleton arguments filed before the hearing (reg. 14).
+- **ניקיון כפיים** (Nikayon kapayim) — Clean hands: a petitioner who hid material facts may lose a remedy.
+- **בשלות** (Bshelut) — Ripeness: the dispute must be concrete enough for decision.
+- **בקשה לעיון מחדש** (Bakasha le-iyun mehadash) — Request for reconsideration of an administrative decision.

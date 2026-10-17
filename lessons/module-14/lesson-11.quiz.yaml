@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    The Ministry's supervisor revoked your day-care licence under the Day-Care Centres Supervision Law.
+    You are drafting an administrative petition. What should you check first?
+  options:
+    - >-
+      Whether the HCJ would hear it faster, since young children are affected.
+    - >-
+      Whether the court fee exemption applies to small day-care operators.
+    - >-
+      Whether the law gives an appeal to an appeals committee first.
+    - >-
+      Whether the supervisor is willing to agree to an interim order.
+  correct: 2
+  explanation: >-
+    Section 55 of that Law gives an appeal (ערר) to an appeals committee against licensing decisions,
+    with a further appeal to the Administrative Affairs Court. A petition would fail for exhaustion.
+- id: q2
+  question: >-
+    Your affidavit says: "The council never inspected the building after 20 September." You know this
+    only because the caretaker told you. How should the affidavit state it?
+  options:
+    - >-
+      As a fact within your personal knowledge, since you are sure it is true.
+    - >-
+      As your belief, naming the caretaker as its source.
+    - >-
+      It should be left out, because hearsay may never appear in an affidavit.
+    - >-
+      In the petition only, since affidavits cover only documents, not events.
+  correct: 1
+  explanation: >-
+    Reg. 5(ג) requires the affidavit to separate personal knowledge from belief and to state the source
+    of the belief. Better still, ask the caretaker for his own affidavit.
+- id: q3
+  question: >-
+    The decision you challenge takes effect in five days. Where do you ask the court to suspend it?
+  options:
+    - >-
+      In a separate application with its own affidavit.
+    - >-
+      In the remedies section of the petition, which the court reads first.
+    - >-
+      In a letter to the court registrar asking for an urgent hearing date.
+    - >-
+      In the skeleton arguments filed before the hearing.
+  correct: 0
+  explanation: >-
+    Reg. 9(א) requires a separate application verified by affidavit; a temporary order may be given
+    without the respondent if delay would cause serious harm (reg. 9א), and it must be served the same day.
+- id: q4
+  question: >-
+    Which item is NOT required in an administrative petition under reg. 5(ב)?
+  options:
+    - >-
+      The schedule item and the enabling provision of the decision.
+    - >-
+      The prior demand and the correspondence, or why there was none.
+    - >-
+      Any other proceeding about the same facts or decision.
+    - >-
+      A legal opinion from a lawyer confirming that the petition has merit.
+  correct: 3
+  explanation: >-
+    Reg. 5(ב) lists the parties, the decision and its dates, jurisdiction, interest, grounds, prior demand,
+    remedy, fee and related proceedings. No lawyer's opinion is required; individuals may file themselves.

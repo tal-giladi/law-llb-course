@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A local council refuses a permit to a café owner shortly after he criticised the mayor on Facebook.
+    The refusal letter cites "parking concerns", which were never raised with other cafés on the street.
+    Which ground fits best?
+  options:
+    - >-
+      Lack of authority, because councils have no power over café permits.
+    - >-
+      Breach of the duty to give reasons, because the letter was too short.
+    - >-
+      Extraneous consideration and unequal treatment, shown by timing and comparison.
+    - >-
+      Disproportionality, because a smaller sign would have solved the parking problem.
+  correct: 2
+  explanation: >-
+    The power exists; the question is how it was used. Punishing criticism is an extraneous consideration,
+    and applying a parking concern only to him shows unequal treatment; the timing is evidence of motive.
+- id: q2
+  question: >-
+    A municipality's grant criteria look neutral, but over four years no group serving one minority
+    community received funding. What did AAA 343/09 (Jerusalem Open House) say about such data?
+  options:
+    - >-
+      Outcome statistics can show that a decision denies substantive equality, even when motives cannot be proved.
+    - >-
+      Statistics are irrelevant; only an explicit discriminatory criterion can make a decision unlawful.
+    - >-
+      Statistics count only if the municipality admits that it intended to discriminate.
+    - >-
+      Statistics shift the case to the labour court, which hears discrimination claims.
+  correct: 0
+  explanation: >-
+    The Court held that a decision on relevant grounds can still be unreasonable if its outcome denies
+    substantive equality, and that statistical outcomes are especially relevant for decisions of
+    collective bodies whose motives are hard to establish.
+- id: q3
+  question: >-
+    A friend says: "After January 2024 nobody can challenge a minister's decision as unreasonable." What
+    is the accurate correction?
+  options:
+    - >-
+      Correct, because the 2023 amendment took effect once the Knesset passed it.
+    - >-
+      Correct for appointments only; other ministerial decisions can still be challenged.
+    - >-
+      Wrong, because the amendment applied only to municipalities, never to ministers.
+    - >-
+      Wrong: the amendment barring such review was declared void on 1.1.2024, so review continues.
+  correct: 3
+  explanation: >-
+    HCJ 5658/23 declared s. 15(ד1) void by 8 to 7. Reasonableness review of the Government and ministers
+    therefore continues as before July 2023; the amendment never covered officials or local authorities.
+- id: q4
+  question: >-
+    Under the narrow reading of the 2023 amendment proposed by Justices Wilner, Stein and Canfy-Steinitz,
+    which review of a minister's decision would have remained?
+  options:
+    - >-
+      Only review for lack of authority; all discretion grounds would have been removed.
+    - >-
+      Review of absurd decisions and every other ground, without "balancing" reasonableness.
+    - >-
+      No review at all, since the amendment covered every ground of review of ministers.
+    - >-
+      Full balancing review, since the narrow reading kept Dapei Zahav in force.
+  correct: 1
+  explanation: >-
+    The narrow reading removed only the balancing reasonableness of Dapei Zahav (1980), keeping review of
+    absurd decisions and the other grounds, such as extraneous considerations and proportionality.

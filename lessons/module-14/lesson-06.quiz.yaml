@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A government company issued a tender. After opening the bids, it phoned the second-cheapest bidder,
+    which then cut its price below the cheapest bid and won. You were cheapest. What is your best argument?
+  options:
+    - >-
+      That the company had no duty to tender, so it should have chosen you directly.
+    - >-
+      That negotiating with one bidder after the bids broke equality between the bidders.
+    - >-
+      That the company should have run a closed tender instead of a public one.
+    - >-
+      That the price cut makes the contract void under the Contracts (General Part) Law.
+  correct: 1
+  explanation: >-
+    Gazit (HCJ 316/63) held that a bid must be accepted or rejected as it stands and that negotiating a
+    reduction with one bidder breaks the equality a public tender must ensure.
+- id: q2
+  question: >-
+    You lost a Mandatory Tenders Law tender. Before deciding whether to petition, what should you do
+    within the period set in reg. 21(ה)?
+  options:
+    - >-
+      File a complaint with the Ombudsman, which suspends the contract.
+    - >-
+      Send a demand letter to the winner asking it to withdraw its bid.
+    - >-
+      Inspect the committee's minutes, opinions and the winning bid, and take copies.
+    - >-
+      Ask the Minister of Finance to grant you an exemption from the tender.
+  correct: 2
+  explanation: >-
+    Reg. 21(ה) gives every bidder a right to inspect and copy the minutes, correspondence, expert
+    opinions, the legal adviser's position and the winning bid, subject to exceptions such as trade secrets.
+- id: q3
+  question: >-
+    A clerk at the ministry's front desk told you orally that your grant "will surely be approved". It
+    was refused. Under the Sai-Tex approach, is the ministry bound?
+  options:
+    - >-
+      Yes, because any statement by a ministry employee binds the State.
+    - >-
+      Yes, if you can show you relied on it, whoever made the statement.
+    - >-
+      No, because administrative promises are never enforceable in Israel.
+    - >-
+      Probably not: no definite promise by an official with power.
+  correct: 3
+  explanation: >-
+    A binding promise must come from an official authorised to make it, within the authority's power,
+    be definite and capable of performance; an oral prediction by a clerk does not meet these elements.
+- id: q4
+  question: >-
+    A tender requires "at least three years of work for this municipality". You have five years of
+    similar work for other municipalities. When is the best time to challenge the condition?
+  options:
+    - >-
+      In writing to the tender committee before bids are due, and if refused, promptly.
+    - >-
+      Only after you lose, when you know the condition actually hurt you.
+    - >-
+      After the contract is signed, by a damages claim in the small claims court.
+    - >-
+      Never, because threshold conditions are within the committee's absolute discretion.
+  correct: 0
+  explanation: >-
+    Conditions must be relevant, and experience with this very body needs reasons. Raising it before the
+    deadline avoids a delay argument; challenging it only after losing looks like accepting the terms.

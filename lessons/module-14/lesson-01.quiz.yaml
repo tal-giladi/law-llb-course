@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A ministry official refuses to process your request "until you sign a waiver of future claims". You
+    find no provision allowing such a condition. Which argument goes first in your letter?
+  options:
+    - >-
+      That the condition is disproportionate, because a milder condition would achieve the same aim.
+    - >-
+      That the official has no legal power to impose this condition, so it must be withdrawn.
+    - >-
+      That the condition is unreasonable, because it gives too much weight to the ministry's interests.
+    - >-
+      That the condition breaches your right to be heard, since you were not consulted first.
+  correct: 1
+  explanation: >-
+    An authority may do only what the law permits. If there is no source for the condition, the decision
+    falls at the authority stage and the court need not weigh anything; discretion grounds come after.
+- id: q2
+  question: >-
+    The police order a private parking company to clamp cars of people with unpaid fines. The relevant
+    law lets the police enforce fines but says nothing about private companies. What does AAA 3782/12
+    suggest?
+  options:
+    - >-
+      The order is valid, because purposive interpretation lets the police use any effective means.
+    - >-
+      The order is valid if the company agrees, since consent replaces statutory authority.
+    - >-
+      The order needs express statutory authority to enlist a private third party, which is missing here.
+    - >-
+      The order can be challenged only by the parking company, as the person it is addressed to.
+  correct: 2
+  explanation: >-
+    The Supreme Court held that a power to close a place did not include a power to order private access
+    providers to do it; enlisting third parties needs an explicit source. A public petitioner had
+    standing, so the affected public need not wait for the company.
+- id: q3
+  question: >-
+    A minister relies on Basic Law: The Government s. 32 (residual powers) to bar a group of people from
+    entering public parks. How strong is that basis?
+  options:
+    - >-
+      Weak: s. 32 is subject to every law, and limiting a right needs express authorisation.
+    - >-
+      Strong: s. 32 lets the Government do anything that no other authority has been given.
+    - >-
+      Strong, if the Government as a whole, not the minister alone, approves the measure.
+    - >-
+      Weak, but only because parks belong to local authorities, not to the State.
+  correct: 0
+  explanation: >-
+    Section 32 is "subject to every law", including Basic Law: Human Dignity and Liberty s. 8, which
+    requires a statute or an express authorisation in one for limiting a right.
+- id: q4
+  question: >-
+    In 2020 the Government authorised the security service to track patients' phones by a Government
+    decision. What did HCJ 2109/20 hold about continuing the tracking?
+  options:
+    - >-
+      It was unlawful from the first day, because security services may never act in civilian matters.
+    - >-
+      It could continue indefinitely, because the emergency justified any general authorisation.
+    - >-
+      It could continue if the Attorney General approved each extension in writing.
+    - >-
+      Further use required primary legislation, since the decision was a primary arrangement in substance.
+  correct: 3
+  explanation: >-
+    The Court accepted the decision for the urgent start of the crisis but held that a measure of this
+    kind is a primary arrangement, so further use needed a Knesset statute meeting the limitation clause.

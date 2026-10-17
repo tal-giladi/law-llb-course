@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your objection deadline is in eight days. Your FOI request for the documents behind the decision was
+    sent yesterday and may take a month. What do you do?
+  options:
+    - >-
+      File the objection now on what you have, noting the FOI request and that you will supplement.
+    - >-
+      Wait for the FOI answer, since an objection without documents will be rejected.
+    - >-
+      Ask the FOI officer to extend the objection deadline until the information arrives.
+    - >-
+      Skip the objection and petition later, attaching the FOI answer.
+  correct: 0
+  explanation: >-
+    The FOI request does not extend the objection period, and the FOI officer has no power over it.
+    Filing on time and supplementing protects your position.
+- id: q2
+  question: >-
+    You want to argue that your arnona discount as a pensioner was wrongly refused. Can you raise this
+    in the statutory objection (השגה) to the arnona director?
+  options:
+    - >-
+      Yes, because the director may decide any arnona complaint within ninety days.
+    - >-
+      No: s. 3 lists the objection grounds, and a discount refusal is not among them.
+    - >-
+      Yes, but only if the discount refusal was made in the same payment notice.
+    - >-
+      No, because discounts may be raised only with the Ombudsman.
+  correct: 1
+  explanation: >-
+    The Arnona Appeals Law s. 3(א) limits the objection to listed grounds (zone, property type, size or
+    use, holder, certain business claims). A discount refusal goes by request and then petition.
+- id: q3
+  question: >-
+    A decision refusing your application ends with no information about how to challenge it. Which
+    provision did the authority breach?
+  options:
+    - >-
+      FOI Law s. 7, which requires every decision to be published online.
+    - >-
+      Administrative Affairs Courts Law s. 8, which sets the grounds for review.
+    - >-
+      Decisions and Reasons Law s. 5, if a law gives an objection or appeal.
+    - >-
+      Interpretation Law s. 17, which requires ancillary powers to be explained.
+  correct: 2
+  explanation: >-
+    Section 5 requires the official to tell you in writing of any statutory objection or appeal, how to
+    file it and the deadline. If no such route exists, there is nothing to notify.
+- id: q4
+  question: >-
+    Which remedy paragraph best fits an objection to a refusal made without a hearing or reasons?
+  options:
+    - >-
+      "I demand compensation of ₪50,000 for the distress the decision caused me."
+    - >-
+      "I ask the court to declare the official unfit to serve in the department."
+    - >-
+      "I ask you to apologise publicly and to discipline the clerk who signed."
+    - >-
+      "I ask you to cancel the decision and to hear me before deciding again within 30 days."
+  correct: 3
+  explanation: >-
+    An objection asks the authority for what it can grant: reconsideration after a hearing, by a date.
+    Damages and discipline are not remedies the decision-maker can give in an objection.
