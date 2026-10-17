@@ -32,13 +32,24 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Years 2–4
 
-- [ ] Detailed lesson plan for year 2 (modules 13–22)
+- [x] Detailed lesson plan for year 2 (modules 13–22)
+- [ ] Module 13 — Property and Land Law
+- [ ] Module 14 — Administrative Law
+- [ ] Module 15 — Civil Procedure
+- [ ] Module 16 — Corporate Law
+- [ ] Module 17 — Labour, Welfare and Social Security Law
+- [ ] Module 18 — Family Law
+- [ ] Module 19 — Public International Law
+- [ ] Module 20 — Contracts: Advanced and Special Contracts
+- [ ] Module 21 — Proseminar: Academic Legal Writing
+- [ ] Module 22 — Clinic II: Work, Family and Home Without a Lawyer
+- [ ] Year 2 QA: links, neutrality, Academy dry run
 - [ ] Year 3 (23–31), Year 4 (32–39)
 
 ## Now working
 
-
-- (none)
+- Module 13: sub-agent A
+- Module 14: sub-agent B
 
 ## Decisions and open questions
 

@@ -14,7 +14,7 @@ Status: approved direction (Tal, 2026-10-16): a new course, separate from `activ
 | Repo | `tal-giladi/law-llb-course`, public |
 | Language | My choice for accuracy: English prose; Israeli statutes, rulings, forms and templates quoted in Hebrew (same as the activist course, which Tal approved on 2026-10-12). This is the one deviation from "English only". |
 | Relation to activist course | Standalone. No links to `activist-law-course`; some overlap is accepted. |
-| Scope now | Full plan + year 1 (modules 1–12). Years 2–4 later. |
+| Scope now | Year 1 (modules 1–12) done 2026-10-17; year 2 (modules 13–22) being written. Years 3–4 later. |
 | Practice | Besides the university curriculum, as many practice sections as possible, so a learner can act for themselves without a lawyer wherever Israeli law allows it. |
 
 ## 1. Purpose and honest positioning
@@ -55,7 +55,7 @@ Every module has:
 - 6–10 lessons; the **last one or two are "Practice lab" lessons** (`NN · Practice lab: …`), entirely hands-on;
 - a lesson quiz per lesson, a module quiz (10 scenario questions), a project in `projects/`, a question bank in `curriculum/question-bank/`.
 
-### Year 1 — Foundations (TAU year 1, all mandatory, 41–43 ש"ס) — WRITE NOW
+### Year 1 — Foundations (TAU year 1, all mandatory, 41–43 ש"ס) — WRITTEN
 
 | # | Module (course) | University match | Practice labs (end of module) |
 |---|---|---|---|
@@ -203,6 +203,126 @@ Year 1 total: 12 modules, 92 lessons.
 | 20 | Contracts: Advanced and Special Contracts | חוזים – סוגיות מתקדמות | Sale (apartment purchase checklist), rental (Fair Rental), services, guarantee, insurance claim |
 | 21 | Proseminar: Academic Legal Writing | פרוסמינר | A 15-page research paper |
 | 22 | Clinic II: Work, Family and Home Without a Lawyer | Clinic | Labour-court claim, NII appeal, family-court request, tenancy dispute |
+
+#### Year 2 lessons (planned 2026-10-17)
+
+Year 2 modules build on year 1: link to the year-1 lesson instead of repeating it (relative path), and teach the subject at full university depth. Modules 14 and 15 extend modules 6 and 8; module 20 extends module 3; module 18 extends 10.3.
+
+**Module 13 — Property and Land Law**
+1. Property rights: ownership and its limits under the Land Law 1969 and the Movable Property Law 1971
+2. Land registration: the Land Registry, Israel Land Authority leases and the registration of rights
+3. Transactions in land: obligation and transaction, the writing requirement, competing transactions (s. 9)
+4. The caveat (הערת אזהרה): what it protects and how it is registered
+5. Co-ownership and dissolution of joint ownership
+6. Condominiums (בית משותף): bylaws, common property and the superintendent
+7. Possession, neighbours and easements; self-help and protection of possession
+8. Movables: good-faith acquisition, lost property and pledges
+9. Practice lab: read a land-registry extract and check an apartment before buying
+10. Practice lab: a condominium dispute before the superintendent
+
+**Module 14 — Administrative Law**
+1. Authority and the principle of legality
+2. Discretion: relevant considerations, equality and reasonableness after the 2023 amendment
+3. Proportionality in administrative decisions
+4. Fair procedure: the right to be heard, reasons and conflict of interest
+5. The duty to decide, delegation and administrative evidence
+6. Tenders, administrative contracts and administrative promises
+7. Freedom of information
+8. Oversight bodies: the Ombudsman, the State Comptroller and sector ombudsmen
+9. Administrative adjudication: the Administrative Courts Law, threshold doctrines and remedies
+10. Practice lab: an FOI request and an objection to a decision
+11. Practice lab: an administrative petition (dry run)
+
+**Module 15 — Civil Procedure**
+1. Jurisdiction, venue, parties, joinder and third-party notice
+2. Pleadings under the 2018 Regulations: claim, defence, reply and amendment
+3. Service, default judgment and setting it aside
+4. Disclosure, inspection of documents and interrogatories
+5. Interim relief: temporary injunctions, attachments and security for costs
+6. The preliminary hearing, settlement and the expedited procedure
+7. The trial: affidavits, cross-examination and summations
+8. Judgment, costs and appeals: appeal as of right and leave to appeal
+9. Limitation of actions
+10. Practice lab: a statement of claim and a defence for a magistrates' court case
+11. Practice lab: a motion and an appeal outline
+
+**Module 16 — Corporate Law**
+1. Legal persons and business forms: company, partnership, sole trader, amuta, cooperative
+2. Incorporation: the Companies Law 1999, the articles and the Companies Registrar
+3. Company organs and shareholders' rights
+4. Officers' duties of care and loyalty
+5. Lifting the corporate veil, distributions and creditor protection
+6. Shareholder remedies: oppression, derivative claims and inspection rights
+7. The sole trader and partnerships: registration, VAT and liability
+8. Practice lab: register a sole-shareholder company and read company filings
+9. Practice lab: a founders' agreement checklist and a shareholder's information request
+
+**Module 17 — Labour, Welfare and Social Security Law**
+1. Who is an employee: the tests, contractors and manpower agencies
+2. Protective legislation: minimum wage, hours, rest, leave and sick pay
+3. Wages and payslips: Wage Protection Law, Notice to Employee Law and late-wage compensation
+4. Dismissal: hearing, notice, severance pay and pension
+5. Equality and sexual harassment at work
+6. Collective labour law: unions, collective agreements and strikes
+7. National Insurance: contributions and the main benefits
+8. Welfare rights: income support, housing assistance and the welfare services
+9. National Insurance procedure: claims, medical committees, appeals and the labour court
+10. Practice lab: check a payslip, calculate final settlement and write to the employer
+11. Practice lab: a National Insurance claim and an appeal from a medical committee
+
+**Module 18 — Family Law**
+1. The structure of Israeli family law: religious and civil law, dual jurisdiction
+2. Marriage and divorce: who may marry, marriages abroad and registration
+3. Cohabitants and same-sex couples: recognition and rights
+4. Property between spouses: the balance of resources and property agreements
+5. Child and spousal maintenance
+6. Parental responsibility, custody and the best interest of the child
+7. Domestic violence and protection orders
+8. Parentage: adoption, surrogacy and fertility treatment (overview)
+9. Practice lab: the request to settle a dispute and the assistance-unit meetings
+10. Practice lab: a property-agreement checklist and a protection-order request
+
+**Module 19 — Public International Law**
+1. What international law is and its sources
+2. Treaties and Israel's treaty practice
+3. Customary international law
+4. States, recognition, jurisdiction and immunity
+5. International courts and tribunals: the ICJ and the ICC (overview)
+6. Human-rights treaties and the UN system
+7. International law in Israeli courts
+8. Practice lab: use a treaty in an Israeli court argument
+
+**Module 20 — Contracts: Advanced and Special Contracts**
+1. Sale of goods: conformity, inspection and notice
+2. Buying a new apartment: the Sale (Apartments) Law, defects and buyer guarantees
+3. Rental: the Rental and Borrowing Law and the fair-rental rules
+4. Services and contracting work
+5. Guarantees and the protected guarantor
+6. Insurance contracts: disclosure, claims and limitation
+7. Consumer contracts: distance sales, cancellation and unfair terms
+8. Unjust enrichment
+9. Practice lab: an apartment-purchase checklist and a defects claim to the contractor
+10. Practice lab: a rental dispute and a rejected insurance claim
+
+**Module 21 — Proseminar: Academic Legal Writing**
+1. Choosing a research question
+2. Finding and reading the literature with free Israeli journals
+3. Structuring a legal paper and its argument
+4. Footnotes and the uniform citation rules in depth
+5. Academic integrity, plagiarism and AI tools
+6. Practice lab: write and self-review the proseminar paper
+
+**Module 22 — Clinic II: Work, Family and Home Without a Lawyer**
+1. Choosing the matter and building the file
+2. An employment claim: from the letter to the labour court
+3. A National Insurance appeal from start to finish
+4. Family court: the request to settle a dispute and mediation
+5. A tenancy dispute: deposit and repairs from letter to small claims
+6. Welfare and housing benefits: application and review
+7. The hearing in the labour court and tribunals
+8. Closing the file and when to get a lawyer
+
+Year 2 total: 10 modules, 94 lessons.
 
 ### Year 3 — Advanced core (TAU year 3–4 core pool, bar-exam subjects)
 
