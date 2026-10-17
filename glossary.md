@@ -109,6 +109,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דיני עונשין** (Dinei onshin) — Criminal law.
 - **דירה ראויה למגורים** (Dira re'uya le-megurim) — Habitable apartment under the First Schedule to the Rental and Borrowing Law.
 - **דירקטוריון** (Direktoryon) — Board of directors.
+- **דלתיים סגורות** (dlatayim sgurot) — Closed doors (in camera); family matters are heard so by default (Courts Law s. 68(ה)).
 - **דמוקרטיה מתגוננת** (Demokratya mitgonenet) — Defensive (militant) democracy, which may bar those who seek to destroy it.
 - **דמי אבטלה** (Dmei avtala) — Unemployment benefit.
 - **דמי ביטול** (dmei bitul) — cancellation fee (capped by s. 14ה and the Cancellation Regulations).
@@ -117,6 +118,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דמי מחלה** (Dmei mahala) — Sick pay: none for day 1, half for days 2–3, full from day 4.
 - **דמי מפתח** (Dmei mafte'ach) — Key money: any payment other than rent for a tenancy or possession under the Tenant Protection Law.
 - **דמי פגיעה** (Dmei pgi'a) — Injury allowance after a work accident, up to 13 weeks.
+- **דן יחיד** (dan yachid) — Single judge (in the labour court, e.g. for appeals from NII committees under the Third Schedule).
 - **דעה נעולה** (De'a ne'ula) — Closed mind; prejudgment that disqualifies a decision-maker.
 - **דעת מיעוט** (da'at mi'ut) — Dissenting opinion.
 - **דעת רוב** (da'at rov) — Majority opinion.
@@ -144,6 +146,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הוראת שעה** (hora'at sha'ah) — A temporary provision in force for a set period.
 - **הזדהות לאומית** (Hizdahut le'umit) — National digital identification used to log in to government services.
 - **הזמנה להציע הצעות** (hazmana le-hatzi'a hatza'ot) — invitation to make offers (to treat).
+- **החזרה לוועדה** (hachzara la-va'ada) — Remittal of a matter to an NII committee, often in another composition, with instructions.
 - **החזרת גזלה** (Hachzarat gzela) — Restoration of land taken from the possessor by unlawful self-help (Land Law s. 19).
 - **החזרת ילד חטוף** (Hachzarat yeled hatuf) — Return of a child wrongfully removed or retained, under the Hague Abduction Convention as incorporated in 1991.
 - **החלטה** (hachlata) — Decision: any other ruling of a court, including interim decisions.
@@ -208,6 +211,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הערכת השפעות אסדרה** (Ha'arakhat hashpa'ot asdara) — Regulatory impact assessment (RIA).
 - **הערכת מסוכנות** (Ha'arakhat mesukanut) — Risk assessment by a state assessor, used for electronic-monitoring orders.
 - **הערת אזהרה** (He'arat azhara) — Caveat: a note recording a written undertaking to make or refrain from a land transaction, blocking contradicting registrations (Land Law ss. 126–127).
+- **הפחתת דמי שכירות** (hafchatat dmei schirut) — Rent reduction in proportion to lost rental value while a defect is unrepaired (s. 9(א)(2)).
 - **הפליה** (Haflaya) — Discrimination on a ground listed in the Equal Employment Opportunities Law.
 - **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
 - **הפרדה בין המשפט למוסר** (Hafrada bein ha-mishpat la-musar) — The separation thesis: whether a law exists and whether it is good are different questions (Austin).
@@ -247,9 +251,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **התנכלות** (Hitnaklut) — Retaliation for harassment or for complaining about it.
 - **התפטרות בדין מפוטר** (Hitpatrut be-din mefutar) — Resignation treated as dismissal for severance purposes (Severance Pay Law s. 11 and others).
 - **ויתור וסילוק** (Vitur vesiluk) — Release and discharge clause in a settlement.
+- **ויתור על חלק מהסעד** (vitur al helek me-ha-sa'ad) — Waiving part of the remedy, e.g. to bring a claim within the expedited ceiling (Labour Court Procedure Regulations reg. 26(א)).
 - **ועדה רפואית לעררים** (Va'ada refu'it le-ararim) — Medical appeals committee of the NII.
 - **ועדת השרים לענייני חקיקה** (Va'adat ha-sarim le-inyenei hakika) — Ministerial Committee for Legislation, which decides the Government's position on bills.
+- **ועדת חריגים** (va'adat charigim) — Exceptions committee (e.g. for rent assistance outside the rules).
 - **ועדת מכרזים** (Va'adat michrazim) — Tender committee.
+- **ועדת ערר (שירותי הסעד)** (va'adat arar) — Welfare appeals committee hearing appeals against municipal social services departments (Welfare Services Law s. 2).
 - **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
 - **זוכה** (Zocheh) — Judgment creditor in an execution file.
 - **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
@@ -379,9 +386,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מגשר** (megasher) — mediator.
 - **מדרג הנורמות** (Midrag ha-normot) — The hierarchy of norms: by-law, regulation, statute, Basic Law.
 - **מובא אצל** (Muva etzel) — "Quoted in": the way to cite a source known only through another author's citation.
+- **מועד קובע** (mo'ed kove'a) — Fatal deadline: a period whose expiry ends a right or a route (e.g. the 30-day NII medical appeal).
+- **מועדים שורדים** (mo'adim sordim) — Surviving deadlines: dates that outlive the case and need action later.
 - **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
 - **מזונות זמניים** (Mezonot zmaniyim) — Interim maintenance pending judgment.
 - **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
+- **מזכר סגירה** (mazkar sgira) — Closing memo of a case file: outcome, money, documents, surviving deadlines, lessons, archive.
 - **מזמין שירות** (Mazmin sherut) — Client of a cleaning, security or catering contractor; may become liable for the contractor's wage duties after notice (Enforcement Law s. 25).
 - **מחדל** (Mehdal) — Omission, a failure to act where the law imposes a duty.
 - **מחוברים** (Mehubarim) — Fixtures: things permanently attached to land, owned with the land (Land Law s. 12).
@@ -396,6 +406,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מיטרד ליחיד** (Mitrad leyachid) — Private nuisance: substantial interference with reasonable use or enjoyment of land (s. 44).
 - **מיטרד לציבור** (Mitrad latzibur) — Public nuisance (s. 42).
 - **מיצוי הליכים / פנייה מוקדמת** (Mitzui halikhim / pniya mukdemet) — Exhaustion of remedies / prior written demand to the authority before petitioning.
+- **מיצוי זכויות** (mitzui zchuyot) — Realising one's rights; the social services department must help with it (Welfare Services Law s. 2ב).
 - **מירוץ הסמכויות** (Merotz ha-samkhuyot) — The race between a religious court and the Family Court to be seised first.
 - **מכרז פומבי** (Michraz pumbi) — Public tender giving everyone an equal opportunity (Mandatory Tenders Law s. 2).
 - **מכתב דרישה** (michtav drisha) — Demand letter.
@@ -412,10 +423,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מסייע** (Mesaye'a) — Accessory (aider) (s. 31).
 - **מסירה חלקית** (Mesira helkit) — Partial disclosure with exempt parts removed (FOI Law s. 11).
 - **מסך הבערות** (Masakh ha-ba'arut) — Veil of ignorance (Rawls): choosing principles of justice without knowing one's place in society.
+- **מסלול** (maslul) — Track: the route a matter must take (internal step, forum, appeal), which sets its deadlines.
 - **מסלול מקוצר** (Maslul mekutzar) — Short track for small money debts in the Execution Office (s. 20ב).
 - **מעוול** (Me'avel) — Tortfeasor, wrongdoer.
 - **מעוולים יחד** (Me'avlim yachad) — Joint tortfeasors, liable jointly and severally (s. 11).
 - **מעין צוואה** (Me'ein tzava'a) — Quasi-will: a surviving cohabitant's statutory inheritance under Succession Law s. 55.
+- **מען להמצאת כתבי בי־דין** (ma'an le-hamtza'at kitvei bi-din) — Address for service; for a self-represented party, the home address.
 - **מעסיק בפועל** (Ma'asik ba-po'al) — Actual (user) employer of a manpower-agency worker.
 - **מפרט** (Mifrat) — The statutory specification a developer must attach to a sale contract (Sale (Apartments) Law ss. 2–3).
 - **מפת דרכים** (Mapat drachim) — Roadmap: the passage at the end of an introduction that says what each part of the paper does.
@@ -438,6 +451,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מתחם העונש ההולם** (Mitham ha-onesh ha-holem) — Appropriate sentencing range (s. 40ג).
 - **מתחם התמרון של המחוקק** (Mithem ha-timrun shel ha-mehokek) — The legislature's margin of appreciation, wide in social and economic policy (Gavish).
 - **מתלונן** (Mitlonen) — Complainant.
+- **מתן תוקף של פסק דין** (matan tokef shel psak din) — Giving an agreement the force of a judgment.
 - **מתנגד עקבי** (Mitnaged akavi) — Persistent objector: a State that objected to a customary rule while it formed and is not bound by it.
 - **נבצרות** (Nivtzarut) — Incapacity of the Prime Minister (Basic Law: The Government s. 16).
 - **נגישות למשפט** (Negishut la-mishpat) — Access to justice: people's ability to get a fair, quick and affordable answer to their legal needs.
@@ -467,7 +481,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Ombudsman for complaints against judges.
 - **נציבות שוויון הזדמנויות בעבודה** (Netzivut shivyon hizdamnuyot ba-avoda) — Equal Employment Opportunities Commission in the Ministry of Labour.
 - **נציגות הבית המשותף** (Netzigut ha-bayit ha-meshutaf) — The representative (house) committee, the owners' agent for management (Land Law ss. 65, 69).
+- **נציגי ציבור** (netzigei tzibur) — Public representatives sitting with the labour-court judge, one from employees and one from employers.
 - **נקודת יציאה** (Nekudat yetsi'a) — Walk-away figure: the lowest settlement one will accept, set before negotiating.
+- **ס״ע (סכסוך עבודה)** (sela) — File prefix of an individual labour dispute in the regional labour court.
 - **סבירות איזונית** (Svirut izunit) — "Balancing" reasonableness, the test developed in Dapei Zahav (1980).
 - **סגירת תיק** (Sgirat tik) — Closing a criminal file.
 - **סדר דין אזרחי** (Seder din ezrachi) — Civil procedure; since 1.1.2021 governed by the Civil Procedure Regulations 2018.
@@ -553,6 +569,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פגישות מהו״ת** (Pgishot mahut) — Information, acquaintance and coordination meetings at the court's assistance unit.
 - **פגישת מהו״ת** (Pgishat mahut) — Free mediation-intake meeting (information, acquaintance, coordination) under reg. 37.
 - **פגם בזכות** (Pgam bi-zchut) — Defect in title: a charge, attachment or third-party right in the thing sold (Sale Law s. 18).
+- **פגם שתיקונו דחוף** (pgam she-tikuno dachuf) — Urgent defect in a rented flat: one that does not allow reasonable living there; to be repaired within 3 days of a demand (Rental and Borrowing Law s. 25ח(ב)).
 - **פגרה** (Pagra) — Court recess; counts in small-claims periods unless the court orders otherwise (reg. 16א(ב)).
 - **פדיון חופשה** (Pidyon hufsha) — Redemption in money of unused annual leave when employment ends.
 - **פוזיטיביזם משפטי** (Pozitivizm mishpati) — Legal positivism: the validity of law depends on its source, not its merit.
@@ -572,6 +589,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פסיקתה** (Psikta) — Formal order embodying a judgment (reg. 133).
 - **פסק בוררות** (Psak borerut) — Arbitral award; binding as res judicata and enforceable once confirmed.
 - **פסק דין** (psak din) — Judgment: the decision that ends a proceeding.
+- **פסק דין בהסכמה** (psak din be-haskama) — Judgment by consent (in agreed terms).
 - **פסק דין בהעדר הגנה** (Psak din be'heder hagana) — Default judgment when no defence is filed.
 - **פסק דין על דרך הפשרה** (Psak din al derech hapshara) — Decision by way of compromise, with both parties' consent (Courts Law s. 79א(א)).
 - **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause (Basic Law: Human Dignity and Liberty s. 8).
@@ -582,7 +600,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פקודה בלתי חוקית בעליל** (Pkuda bilti hukit be-alil) — Manifestly unlawful order; obedience to it is no defence (Penal Law s. 34יג(2); the "black flag" test of the Kafr Qasim trial).
 - **פקודת הנזיקין [נוסח חדש]** (Pkudat hanezikin) — The Civil Wrongs Ordinance [New Version], the main tort statute (Mandate 1944, re-enacted 1968).
 - **פקיד תביעות** (Pkid tvi'ot) — NII claims officer who decides benefit claims.
+- **פרוטוקול הוועדה** (protokol ha-va'ada) — A committee's minutes; the record a court reviews on an appeal on law.
 - **פרוסמינר** (Proseminar) — First research-paper course in the LL.B., before the seminar; at TAU a 3-credit condition for the year-3 seminar.
+- **פריט ליקוי** (prit likui) — Item of the NII impairment list applied to a finding.
 - **פרקליטות המדינה** (praklitut ha-medina) — State Attorney's Office.
 - **פרשנות מקלה** (Parshanut mekila) — Lenient construction: where a law has several reasonable meanings, the one more lenient to the accused is chosen (s. 34כא).
 - **פרשנות נגד המנסח** (parshanut neged ha-menase'ah) — contra proferentem (s. 25(ב1)).

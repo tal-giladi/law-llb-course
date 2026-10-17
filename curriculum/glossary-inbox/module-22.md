@@ -1,0 +1,23 @@
+- **מסלול** (maslul) — Track: the route a matter must take (internal step, forum, appeal), which sets its deadlines.
+- **מועד קובע** (mo'ed kove'a) — Fatal deadline: a period whose expiry ends a right or a route (e.g. the 30-day NII medical appeal).
+- **זכות עיון במידע** (zchut iyun be-meida) — Right to inspect personal information about oneself held in a database (Privacy Protection Law s. 13).
+- **דיון מהיר** (diyun mahir) — Expedited hearing: the labour court's fast track for employee money claims up to a ceiling set each 1 January at three times the average wage (Labour Court Law s. 31).
+- **ס״ע (סכסוך עבודה)** (sela) — File prefix of an individual labour dispute in the regional labour court.
+- **מען להמצאת כתבי בי־דין** (ma'an le-hamtza'at kitvei bi-din) — Address for service; for a self-represented party, the home address.
+- **ויתור על חלק מהסעד** (vitur al helek me-ha-sa'ad) — Waiving part of the remedy, e.g. to bring a claim within the expedited ceiling (Labour Court Procedure Regulations reg. 26(א)).
+- **פרוטוקול הוועדה** (protokol ha-va'ada) — A committee's minutes; the record a court reviews on an appeal on law.
+- **פריט ליקוי** (prit likui) — Item of the NII impairment list applied to a finding.
+- **החזרה לוועדה** (hachzara la-va'ada) — Remittal of a matter to an NII committee, often in another composition, with instructions.
+- **דן יחיד** (dan yachid) — Single judge (in the labour court, e.g. for appeals from NII committees under the Third Schedule).
+- **מתן תוקף של פסק דין** (matan tokef shel psak din) — Giving an agreement the force of a judgment.
+- **דלתיים סגורות** (dlatayim sgurot) — Closed doors (in camera); family matters are heard so by default (Courts Law s. 68(ה)).
+- **פגם שתיקונו דחוף** (pgam she-tikuno dachuf) — Urgent defect in a rented flat: one that does not allow reasonable living there; to be repaired within 3 days of a demand (Rental and Borrowing Law s. 25ח(ב)).
+- **הפחתת דמי שכירות** (hafchatat dmei schirut) — Rent reduction in proportion to lost rental value while a defect is unrepaired (s. 9(א)(2)).
+- **בקשה לעיון מחדש** (bakasha le-iyun me-chadash) — Request for reconsideration of an administrative or NII decision; does not stop court deadlines.
+- **ועדת חריגים** (va'adat charigim) — Exceptions committee (e.g. for rent assistance outside the rules).
+- **ועדת ערר (שירותי הסעד)** (va'adat arar) — Welfare appeals committee hearing appeals against municipal social services departments (Welfare Services Law s. 2).
+- **מיצוי זכויות** (mitzui zchuyot) — Realising one's rights; the social services department must help with it (Welfare Services Law s. 2ב).
+- **נציגי ציבור** (netzigei tzibur) — Public representatives sitting with the labour-court judge, one from employees and one from employers.
+- **פסק דין בהסכמה** (psak din be-haskama) — Judgment by consent (in agreed terms).
+- **מזכר סגירה** (mazkar sgira) — Closing memo of a case file: outcome, money, documents, surviving deadlines, lessons, archive.
+- **מועדים שורדים** (mo'adim sordim) — Surviving deadlines: dates that outlive the case and need action later.

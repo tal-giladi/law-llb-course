@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your husband was dismissed and his employer has not paid his final settlement. He is busy, so you
+    offer to run the labour-court claim yourself in your own name. Is this a suitable clinic matter for you?
+  options:
+    - >-
+      Yes, because the household lost the income and you are both affected by the dismissal.
+    - >-
+      Yes, as long as he signs a power of attorney in your favour before you file the claim.
+    - >-
+      No, the claim is his; only he, a lawyer or his union's appointee may conduct it.
+    - >-
+      No, because spouses may never help each other with documents in a labour dispute.
+  correct: 2
+  explanation: >-
+    The right belongs to the employee. Representing another person in court is reserved to lawyers
+    (Bar Association Law s. 20); the labour court adds only a representative appointed by the party's own
+    union (s. 34). You may help him understand his papers, but he files in his own name.
+- id: q2
+  question: >-
+    An NII letter dated 1 October arrived in your mailbox on 9 October; you kept the envelope. It sets your
+    medical degree below the threshold. From when do you count the appeal period?
+  options:
+    - >-
+      From 9 October, the day notice reached you, and you keep the envelope as proof of that date.
+    - >-
+      From 1 October, the date printed on the letter, because the NII's date always governs.
+    - >-
+      From the day you next visit the NII branch and sign that you received the decision.
+    - >-
+      From the end of the month in which the decision was given, to allow for postal delays.
+  correct: 0
+  explanation: >-
+    The regulations count from the date notice was delivered to you. Recording that date and keeping its
+    proof (envelope, email header) is the first entry in the deadline table.
+- id: q3
+  question: >-
+    Before writing a demand letter about a wrongly refused benefit, what should a Clinic II file normally
+    contain first?
+  options:
+    - >-
+      A full statement of claim, so the authority sees you are ready to go to court at once.
+    - >-
+      A written request for your own file, since you may inspect personal information held about you.
+    - >-
+      A request to the court for an extension, in case the authority takes long to answer.
+    - >-
+      A complaint to the State Comptroller, which must be exhausted before any court claim.
+  correct: 1
+  explanation: >-
+    The other side usually holds the decisive documents. Privacy Protection Law s. 13 lets you inspect
+    personal information about you, and a dated request also starts your record of acting reasonably.
+- id: q4
+  question: >-
+    Which matter fails the "known track" filter until you do more work?
+  options:
+    - >-
+      A landlord who has not repaired a broken water heater for ten days after a written demand.
+    - >-
+      An NII doctor's decision giving you a medical degree below the threshold for a disability pension.
+    - >-
+      An employer who paid your last salary three weeks late and still owes the recuperation pay.
+    - >-
+      Money you paid a "manpower company" whose status as your employer or contractor is unclear.
+  correct: 3
+  explanation: >-
+    The others map to a forum at once (small claims after a repair demand; the medical appeals committee;
+    the labour court). If you cannot tell whether a relationship is employment or a civil contract, settle
+    the forum first (lessons 01.7 and 17.1).

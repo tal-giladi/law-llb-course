@@ -1,0 +1,170 @@
+- id: q1
+  question: >-
+    Dana has three problems: her mother's disability pension was cut, her own employer owes her two weeks'
+    wages, and her neighbour's dog barks at night. Which is a suitable Clinic II matter for Dana herself?
+  options:
+    - >-
+      Her mother's pension, because the household depends on that income and Dana handles the paperwork.
+    - >-
+      Her own unpaid wages, which are hers, have a known track and can be proved from payslips.
+    - >-
+      The neighbour's dog, because nuisance claims are always heard in small claims without a lawyer.
+    - >-
+      All three together in one labour-court claim, since the court is not bound by procedure.
+  correct: 1
+  explanation: >-
+    The clinic is for your own matter (Bar Association Law s. 20). Unpaid wages are Dana's, go to the labour
+    court and are provable. Her mother must act herself; a nuisance order is not a clinic money claim.
+- id: q2
+  question: >-
+    Omar was owed ₪41,500 in final-settlement items when he filed in March 2026, plus late-wage compensation.
+    He wants the expedited track. What can he do?
+  options:
+    - >-
+      Nothing; any claim above the ceiling must go on the ordinary track, including the excess.
+    - >-
+      Split the claim into two expedited claims of about ₪20,750 each, filed on the same day.
+    - >-
+      Waive the excess above the ceiling in writing and file on the expedited track for ₪40,700.
+    - >-
+      Count only half the severance, because severance does not count towards the ceiling.
+  correct: 2
+  explanation: >-
+    Reg. 26(א) allows a claimant to waive part of the remedy; splitting one cause of action is not allowed.
+    The 2026 ceiling is ₪40,700, measured without late-wage compensation, linkage and interest.
+- id: q3
+  question: >-
+    Leah's general-disability appeal was decided by the medical appeals committee; the decision reached her
+    on 1 March. The minutes do not mention the neurologist's letter she handed in. What should she do, and by when?
+  options:
+    - >-
+      Appeal on a point of law to the regional labour court within 60 days of 1 March.
+    - >-
+      File a new medical appeal to the same committee within 30 days of 1 March.
+    - >-
+      Sue the NII in the labour court within 12 months, arguing her percentage is too low.
+    - >-
+      Ask the National Labour Court for leave to appeal within 15 days of 1 March.
+  correct: 0
+  explanation: >-
+    Ignoring a medical document before the committee is a point of law; the appeal goes to the regional
+    labour court within 60 days of delivery (s. 213; Appeal Time Regulations reg. 2), before a single judge, fee-free.
+- id: q4
+  question: >-
+    Sergei wants maintenance for his children from their mother and a parenting schedule. Nothing has been
+    filed. What is the first document he files?
+  options:
+    - >-
+      A detailed statement of claim for child maintenance with the children's expenses attached.
+    - >-
+      A request to the assistance unit to appoint a mediator chosen by Sergei.
+    - >-
+      A protection order request, since any separation involves a risk of conflict.
+    - >-
+      A bare request to settle the dispute on Form 1, with the subjects ticked and no facts.
+  correct: 3
+  explanation: >-
+    A family claim between parents must be preceded by a request to settle (Dispute Resolution Law s. 3(א)),
+    which contains no facts or allegations; up to four assistance-unit meetings follow during the stay.
+- id: q5
+  question: >-
+    At the second assistance-unit meeting Sergei and the mother agree on an interim schedule and the social
+    worker offers a form to sign. Sergei has not yet spoken to anyone about it. What does reg. 5(ה) mean for him?
+  options:
+    - >-
+      He must sign today, because interim arrangements expire if not signed at the meeting.
+    - >-
+      He may not sign until he has had an opportunity to consult a lawyer or any other person.
+    - >-
+      He may sign only if the social worker certifies the schedule as in the children's best interest.
+    - >-
+      He may sign only after the court has approved the schedule at a hearing.
+  correct: 1
+  explanation: >-
+    Reg. 5(ה) forbids signing an agreement or undertaking a legal commitment, including interim arrangements,
+    until the parties have had an opportunity to consult a lawyer or anyone else.
+- id: q6
+  question: >-
+    Noa's landlord has not repaired a roof leak 30 days after her written demand. She plans to pay only half
+    the rent until it is fixed. Her security is three months' rent. What is the best advice?
+  options:
+    - >-
+      Go ahead; once the 30 days pass, the tenant may set any reduction she considers fair.
+    - >-
+      Stop paying rent entirely, which is the only way to force a landlord to repair.
+    - >-
+      Reduce only in proportion to the lost value, with a calculation, or claim it as damages instead.
+    - >-
+      Leave the flat at once without notice; the lease ends automatically after 30 days.
+  correct: 2
+  explanation: >-
+    Section 9(א)(2) allows a reduction proportionate to the loss of rental value. An excessive deduction is
+    unpaid rent that the landlord may take from the security (s. 25י(ג)(1)).
+- id: q7
+  question: >-
+    Ibrahim, a single father, asked his municipality's social services department in writing for help with
+    after-school care for his children. Three months pass with no answer. What does the law treat this
+    silence as, and where can he go?
+  options:
+    - >-
+      As approval of the request, so he may hire a carer and send the bill to the municipality.
+    - >-
+      As a refusal without reasons; he may appeal to the welfare appeals committee for no answer.
+    - >-
+      As nothing at all; he must start a new request because the first one lapsed.
+    - >-
+      As a decision of the Ministry of Welfare, which can be challenged only in the High Court.
+  correct: 1
+  explanation: >-
+    Under the Decisions and Reasons Law s. 6(ב), three months' silence is a refusal without reasons; under
+    Welfare Services Law s. 2(ג) failure to answer within a reasonable time is itself appealable.
+- id: q8
+  question: >-
+    At Rawan's expedited hearing the employer's manager accuses her of theft. She has the dismissal message,
+    payslips and the shared-till schedule. What should she do?
+  options:
+    - >-
+      Ask short, closed questions (police complaint? hearing? written consent?) and point to her documents.
+    - >-
+      Ask the court to postpone the hearing until the police have investigated the allegation.
+    - >-
+      Respond with her own accusations about the manager's treatment of staff over two years.
+    - >-
+      Withdraw the severance item, since an allegation of theft always defeats a severance claim.
+  correct: 0
+  explanation: >-
+    Closed questions and documents test an accusation; argument does not. An unproved allegation, with no
+    hearing before dismissal, is unlikely to defeat severance.
+- id: q9
+  question: >-
+    A judgment by consent requires the employer to pay within 30 days and deliver form 161 and the pension
+    release letter. Day 40: money paid, documents missing. Which step is right?
+  options:
+    - >-
+      Appeal the consent judgment, because the employer has breached it.
+    - >-
+      Ask the regional court to reopen the case and hear it again on the merits.
+    - >-
+      Wait a year; documents can be demanded only once the money has been in your account for 12 months.
+    - >-
+      Demand the documents in writing, then open an execution file for that part of the judgment.
+  correct: 3
+  explanation: >-
+    Labour-court judgments, including consent judgments, are enforced through the Execution Office (s. 37).
+    Consent judgments are performed or enforced, not appealed.
+- id: q10
+  question: >-
+    Which situation calls most clearly for a lawyer or Legal Aid rather than continuing alone in the clinic?
+  options:
+    - >-
+      The landlord returned the deposit in full but two days late, and you want an apology.
+    - >-
+      The NII missed the 45-day answer period for your reconsideration request by a week.
+    - >-
+      Your employer counterclaims for damage and has filed a police complaint alleging theft.
+    - >-
+      The assistance unit rescheduled your second meeting by one week because of a holiday.
+  correct: 2
+  explanation: >-
+    A counterclaim plus a police complaint combines civil exposure with possible criminal proceedings,
+    a red flag in every track. The other situations are handled with a short letter or by waiting.

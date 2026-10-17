@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    The NII refused your income support on 20 September. You asked it to reconsider on 1 October and are
+    still waiting in August of the following year. What is the risk?
+  options:
+    - >-
+      None, because the 12-month period starts only when the NII answers the reconsideration request.
+    - >-
+      The claim is due 12 months from notice of the decision; reconsideration does not stop it.
+    - >-
+      The NII will treat your long silence as withdrawing the claim, so you must start a completely new claim.
+    - >-
+      You lose the right to Legal Aid, which is available only within six months of the decision.
+  correct: 1
+  explanation: >-
+    The Time for Claims Regulations (applied to income support by s. 23) require a claim within 12 months
+    of notice of the decision. An informal reconsideration request does not extend it, so diary your own
+    filing date.
+- id: q2
+  question: >-
+    The NII refused income support "because you own a car". You own one inexpensive car that you use to take
+    your son to regular hospital treatment. What is the strongest ground for review?
+  options:
+    - >-
+      Owning any car is irrelevant to income support since the Hassan ruling.
+    - >-
+      The NII may not ask about cars at all, because a car is a personal possession.
+    - >-
+      One car below the threshold means at most a deduction; the medical exception may apply.
+    - >-
+      A car disqualifies only if it is registered in your own name, so you may simply re-register it to a relative.
+  correct: 2
+  explanation: >-
+    After Hassan, s. 9א disqualifies only two or more cars or a car above a set value; a cheaper car may lead
+    to a deduction (s. 9א(ב1)), and listed medical and disability needs exclude the rule (s. 9א(ג)).
+- id: q3
+  question: >-
+    You asked the municipal social services department in writing for help with after-school care. Two
+    months later you have had no answer. What can you do?
+  options:
+    - >-
+      Appeal in writing to the welfare appeals committee; no answer in a reasonable time is appealable.
+    - >-
+      Nothing yet, because the department has a full year to answer requests for social care.
+    - >-
+      File a claim in the regional labour court, which hears every dispute about welfare benefits of any kind.
+    - >-
+      Petition the High Court of Justice at once, since there is no other remedy for silence.
+  correct: 0
+  explanation: >-
+    Welfare Services Law s. 2(ג) allows a written appeal to the welfare appeals committee against a decision
+    or against no answer within a reasonable time. The committee may order the department to reconsider or set the help.
+- id: q4
+  question: >-
+    Rent assistance was refused because you do not receive income support, and your income-support claim is
+    under review. What is the best order of moves?
+  options:
+    - >-
+      Appeal the rent-assistance refusal first, since the Ministry decides independently of the NII.
+    - >-
+      Give up rent assistance, because a refusal on that ground cannot be appealed.
+    - >-
+      Ask the welfare department to pay your rent instead, since it covers subsistence needs.
+    - >-
+      Restore the gateway benefit, then appeal or reapply for rent assistance with the new decision attached.
+  correct: 3
+  explanation: >-
+    The dependent benefit was refused for want of the gateway one. Win the income-support review, then use
+    that decision in the rent-assistance appeal (and check other routes such as single parents). The
+    welfare department may not provide subsistence income (s. 2א).

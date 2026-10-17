@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    In January your water heater dies and the family has no hot water. You message the landlord, who reads
+    it at once. By when must he repair it under s. 25ח(ב)?
+  options:
+    - >-
+      Within 30 days, because only gas and electricity faults count as urgent defects.
+    - >-
+      Within a reasonable time with no fixed limit, because heaters are a matter for the contract.
+    - >-
+      Within 7 days, the period the law sets for defects reported by message rather than letter.
+    - >-
+      Within 3 days, if no hot water in winter makes the flat not reasonably habitable.
+  correct: 3
+  explanation: >-
+    An urgent defect is one that does not allow reasonable living in the flat; the landlord must repair it
+    within a reasonable time and at most three days from receiving the demand. Explain the urgency in the demand.
+- id: q2
+  question: >-
+    Mould from a roof leak has not been repaired 30 days after your written demand. You consider paying only
+    70% of the rent until it is fixed. What is the main risk?
+  options:
+    - >-
+      There is none, because rent reduction is an absolute right once the 30 days have passed.
+    - >-
+      Rent reduction is never allowed in residential leases; only self-repair is permitted.
+    - >-
+      If the court finds the reduction excessive, the shortfall is unpaid rent the landlord may take from the security.
+    - >-
+      The landlord may end the lease at once without notice because any reduction is a fundamental breach.
+  correct: 2
+  explanation: >-
+    Section 9(א)(2) allows a proportionate reduction, but unpaid rent is one of the four permitted uses of the
+    security (s. 25י(ג)(1)). An unsupported deduction gives the landlord a lawful reason to keep money.
+- id: q3
+  question: >-
+    Two weeks after you leave, the landlord writes that he is keeping ₪6,000 of the security for "mould and
+    painting". He never warned you before. Which point is strongest in your demand letter?
+  options:
+    - >-
+      He gave no prior notice or chance to fix, and the mould was his own defect, not one caused by you.
+    - >-
+      Two weeks is too early; he must wait 90 days before deciding to use any part of the security.
+    - >-
+      A landlord may never use the security for repairs of any kind in a residential lease.
+    - >-
+      He must first sue you in small claims before he may keep any part of the security.
+  correct: 0
+  explanation: >-
+    The security may be used for repairs only of defects the tenant is responsible for (s. 25י(ג)(2)), and
+    only after reasonable notice and a chance to fix (s. 25י(ד)). Mould from a roof leak is the landlord's defect.
+- id: q4
+  question: >-
+    Your heater needs a technician. The landlord has not repaired it within the period. What should you do
+    before the technician comes?
+  options:
+    - >-
+      Nothing more; once the period passes you may repair and deduct the cost from the next rent at once.
+    - >-
+      Tell the landlord a reasonable time in advance that you intend to repair, and keep the invoice and cause note.
+    - >-
+      Get the landlord's written consent to the price, without which the cost cannot be claimed.
+    - >-
+      Ask the municipality to inspect the heater, because only its report proves the cost was reasonable.
+  correct: 1
+  explanation: >-
+    A tenant who repairs must notify the landlord a reasonable time in advance (s. 9(ב)), except in a true
+    emergency (s. 9(ג)); then claim reasonable costs (s. 9(א)(1)) with the invoice and the technician's note on the cause.

@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    In February 2026 an employee claims ₪39,800 in unpaid wages and severance, plus about ₪6,000 in
+    late-wage compensation and interest. Which track does the claim belong on?
+  options:
+    - >-
+      The ordinary track, because the total of about ₪45,800 is above the 2026 ceiling.
+    - >-
+      The ordinary track, because any claim that includes severance pay is excluded from the expedited track.
+    - >-
+      The expedited track, because late-wage compensation and interest are not counted towards the ceiling.
+    - >-
+      The expedited track, but only after the employee formally waives the late-wage compensation.
+  correct: 2
+  explanation: >-
+    Reg. 1 of the Expedited Hearing Regulations measures the amount without late-wage compensation,
+    linkage or interest. ₪39,800 is under the 2026 ceiling of ₪40,700 (three times the average wage,
+    rounded), so the claim goes on the expedited track and the compensation is still claimed.
+- id: q2
+  question: >-
+    You find two figures for the 2026 expedited ceiling, ₪39,500 and ₪40,700. How do you decide which is
+    right?
+  options:
+    - >-
+      Take the lower figure, since filing below the true ceiling can never cause a problem.
+    - >-
+      Apply reg. 1א: three times the 1 January average wage, rounded to ₪100, which gives ₪40,700.
+    - >-
+      Take whichever figure appears on the most recent private law-firm website you can find.
+    - >-
+      Ask the employer's lawyer, because the parties agree the ceiling between them.
+  correct: 1
+  explanation: >-
+    The regulations index the ceiling each 1 January to three times the average wage under NII Law
+    s. 1 (₪13,566 in 2026), rounded to the nearest ₪100: ₪40,700. ₪39,500 was the 2025 figure.
+- id: q3
+  question: >-
+    Your payslip names "ש.ב. גליל מזון בע״מ", but everyone calls the place "Carmel Grill". Your draft claim
+    also tells the story of the manager's rudeness over two years. What should you change?
+  options:
+    - >-
+      Sue "Carmel Grill" so the judge recognises the restaurant, and keep the background story.
+    - >-
+      Sue both the trade name and the manager personally, and move the story to an annex.
+    - >-
+      Keep the company as defendant but add the story, since the labour court is not bound by procedure.
+    - >-
+      Sue the company named on the payslip, checked in the Registrar, and cut the story to relevant facts.
+  correct: 3
+  explanation: >-
+    You sue the legal employer. Reg. 9 lists the particulars a claim contains "and nothing else": the
+    facts of the cause of action, jurisdiction and the remedy. The expedited track's flexibility concerns
+    the hearing, not a licence to plead history.
+- id: q4
+  question: >-
+    You claim notice pay and severance but leave out unpaid recuperation pay to keep the claim simple. A
+    year later you want to sue for the recuperation pay. What is the risk?
+  options:
+    - >-
+      None, because each statutory right is a separate cause of action with its own claim.
+    - >-
+      You need the court's leave, since reg. 26 requires the whole remedy on the same cause of action.
+    - >-
+      The claim is time-barred, because recuperation pay must be claimed within 60 days.
+    - >-
+      You must first go back to the employer with a new demand letter, and nothing else is needed.
+  correct: 1
+  explanation: >-
+    Reg. 26(א) requires a claim to include the whole remedy due on the cause of action (you may waive part);
+    a remedy left out may be claimed later only with the court's leave (reg. 26(ג)).
+- id: q5
+  question: >-
+    Where do you file Rawan's claim, given that she lives in Nesher but worked at the restaurant in Haifa?
+  options:
+    - >-
+      In the regional labour court for the place of work, Haifa, under reg. 3(א)(1).
+    - >-
+      In any regional labour court she chooses, because unrepresented claimants may always pick the court.
+    - >-
+      In the magistrates' court in Haifa, because the amount is below the small-claims ceiling.
+    - >-
+      In the National Labour Court in Jerusalem, because the claim includes severance pay.
+  correct: 0
+  explanation: >-
+    Employee–employer claims go to the regional labour court (Labour Court Law s. 24) for the place where
+    the work was done or the workplace is (reg. 3(א)(1)). Haifa is her workplace.

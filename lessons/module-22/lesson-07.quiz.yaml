@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your wage claim is heard by a judge and two public representatives. At the hearing the employer's
+    manager says you stole from the till. What is your most effective response?
+  options:
+    - >-
+      Answer him directly and at length, so the bench sees how upset the accusation makes you.
+    - >-
+      Ask your short prepared questions and point the bench to the documents that answer him.
+    - >-
+      Ask the court to stop the hearing and refer the theft allegation to the police first.
+    - >-
+      Say nothing about it, since the labour court cannot consider allegations of theft at all.
+  correct: 1
+  explanation: >-
+    Speak to the bench, not the other side. Closed questions (police complaint? a hearing before dismissal?
+    written consent to the deduction?) and documents test an accusation better than argument does.
+- id: q2
+  question: >-
+    On the expedited track the judge proposes a compromise of ₪17,500. You claimed ₪20,436. What do you do?
+  options:
+    - >-
+      Refuse at once, because accepting less than the claim is an admission that it was exaggerated.
+    - >-
+      Accept at once, because refusing a judge's proposal is treated as contempt of court.
+    - >-
+      Ask for a few minutes, compare it with your prepared range, and add non-money conditions if you accept.
+    - >-
+      Ask the public representatives to negotiate a higher figure with the employer on your behalf.
+  correct: 2
+  explanation: >-
+    On the expedited track the court may decide by compromise only with consent (s. 31(ג)). Your prepared
+    range, plus conditions such as form 161 and the pension-fund release, lets you decide calmly.
+- id: q3
+  question: >-
+    You missed a labour-court hearing because the notice went to your old address, and the court struck out
+    your claim. What is your remedy?
+  options:
+    - >-
+      Apply to set aside the decision within 30 days of receiving it, explaining why you did not appear.
+    - >-
+      File an appeal to the National Labour Court as of right within 60 days of the decision.
+    - >-
+      File the same claim again, since a struck-out claim has no effect on a new filing.
+    - >-
+      Nothing can be done, because a claimant who does not appear loses the right to claim.
+  correct: 0
+  explanation: >-
+    A party who did not receive notice or did not appear may apply within 30 days of receiving the decision
+    to set it aside (reg. 50). Keep your address for service up to date.
+- id: q4
+  question: >-
+    At the welfare appeals committee, which statement about the procedure is accurate?
+  options:
+    - >-
+      You must be represented by a lawyer, because the chair is a lawyer qualified to be a judge.
+    - >-
+      The hearing is public, and the decision is published with your name to promote transparency.
+    - >-
+      The committee follows the court rules of evidence and may hear only documents in Hebrew.
+    - >-
+      You may argue yourself; it is not bound by the rules of evidence and decides within 10 days in writing.
+  correct: 3
+  explanation: >-
+    Under the Appeals Committees Procedure Regulations you may appear yourself or by a representative
+    (reg. 4), the committee is not bound by the rules of evidence (reg. 7), it decides within 10 days of the
+    last hearing with written reasons (regs 10–11), and hearings are closed (reg. 13).

@@ -106,7 +106,7 @@ The NII decides hundreds of thousands of claims a year. Two different tracks lea
 - **Forms:** standard forms for wage, severance and benefit claims (reg. 13); otherwise a statement of claim with the particulars in reg. 9.
 - **Defence:** 30 days from service (reg. 28); a self-represented defendant states "שהוא טוען לעצמו" and gives a home address (reg. 29(ג)).
 - **Evidence:** the court is not bound by the rules of evidence (Labour Court Law s. 32) and may adopt the procedure best suited to justice (s. 33).
-- **Expedited hearing:** claims by employees against employers or pension funds up to a ceiling set by regulation are heard in one fast hearing, not bound by procedure; the judgment can be appealed only with leave (s. 31). The ceiling is CPI-linked: Kol-Zchut gives ₪40,700 for 2026, while the courts' fee table effective 1.1.2026 shows ₪39,500 (⚠️ conflict; see [current numbers](../../references/current-numbers.md)).
+- **Expedited hearing:** claims by employees against employers or pension funds up to a ceiling set by regulation are heard in one fast hearing, not bound by procedure; the judgment can be appealed only with leave (s. 31). The ceiling is reset each 1 January to three times the average wage, rounded to the nearest ₪100: about ₪40,700 in 2026 (see [current numbers](../../references/current-numbers.md)); lesson 22.2 shows the calculation.
 - **Appeals:** a judgment is appealable as of right to the National Labour Court within 30 days (s. 26; reg. 73); leave to appeal an interim decision within 15 days (reg. 74).
 - **Fees:** NII claims (s. 391) and income-support claims are exempt (Fees Regulations reg. 4).
 

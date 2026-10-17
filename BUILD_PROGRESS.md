@@ -42,14 +42,14 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 19 — Public International Law
 - [x] Module 20 — Contracts: Advanced and Special Contracts
 - [x] Module 21 — Proseminar: Academic Legal Writing
-- [ ] Module 22 — Clinic II: Work, Family and Home Without a Lawyer
-- [ ] Year 2 QA: links, neutrality, Academy dry run
+- [x] Module 22 — Clinic II: Work, Family and Home Without a Lawyer
+- [x] Year 2 QA: links, neutrality, Academy dry run
 - [ ] Year 3 (23–31), Year 4 (32–39)
 
 ## Now working
 
-- Year 2 QA (13–21): sub-agent A
-- Module 22: sub-agent B
+- (none)
+
 
 ## Decisions and open questions
 

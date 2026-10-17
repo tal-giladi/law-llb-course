@@ -67,3 +67,64 @@ Hosts below refuse automated requests (403 or socket reset). None is treated as 
 - https://www.loc.gov/item/global-legal-monitor/2021-07-27/israel-supreme-court-affirms-constitutionality-of-basic-law-israel-nation-state-of-the-jewish-people/ (403; article confirmed in search index) — lessons/module-06/lesson-04.md
 - https://www.loc.gov/item/global-legal-monitor/2024-07-02/israel-high-court-rules-that-state-must-draft-yeshiva-students-to-the-military/ (403; article confirmed in search index) — lessons/module-06/lesson-04.md
 
+## Year 2 (modules 13–21)
+
+Run: 2026-10-17, `node curriculum/tools/check-links.mjs <out.json> lessons/module-13 … lessons/module-21 projects/m13-* … projects/m21-* templates references`. The tool now takes an optional list of paths (files or directories) after the output file; with no paths it scans year 1 as before. `icc-cpi.int` was added to the blocked-host list (gov.il subdomains, including supremedecisions.court.gov.il, knesset.gov.il, rbc.gov.il and btl.gov.il, were already covered).
+
+Scope: 241 files, 573 unique URLs (module 22 excluded).
+
+### Counts
+
+| Status | Count |
+|---|---|
+| OK (2xx/3xx) | 539 |
+| Rate-limited (429, he.wikisource.org), each page confirmed to exist through the MediaWiki API | 14 |
+| Blocked host, manual check (gov.il, supremedecisions.court.gov.il, kolzchut) | 15 |
+| Other bot-block (403), verified live via search index | 4 (casebook.icrc.org, ohchr.org ×2, ssrn.com) |
+| Broken | 0 |
+
+Soft-404 scan: every OK HTML page was re-fetched and its title checked for not-found/error markers (English and Hebrew) and Wikipedia "no article" markers. Nine www.gov.il/BlobFolder PDFs returned an HTML "שגיאה" page when requested with a browser `Accept: text/html` header, but each returns 200 `application/pdf` to a plain request, so they are live. fs.knesset.gov.il PDFs return 406 to some requests and 200 to others (bot filtering); none is broken.
+
+### Fixes
+
+None needed.
+
+### Manual check needed
+
+#### casebook.icrc.org
+
+- https://casebook.icrc.org/case-study/israel-ayub-v-minister-defence (403; the entry "Israel, Ayub v. Minister of Defence" is in the search index as casebook.icrc.org/node/20823) — lessons/module-19/lesson-03.md, lessons/module-19/lesson-07.md
+
+#### www.ohchr.org
+
+- https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights (403; the path is cited by library records) — lessons/module-19/lesson-06.md
+- https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights (403) — lessons/module-19/lesson-06.md
+
+#### www.ssrn.com
+
+- https://www.ssrn.com (403, home page) — lessons/module-21/lesson-02.md
+
+#### supremedecisions.court.gov.il
+
+- https://supremedecisions.court.gov.il (UND_ERR_SOCKET) — lessons/module-13/lesson-01.md, lessons/module-13/lesson-03.md, lessons/module-13/lesson-04.md, lessons/module-20/lesson-07.md, lessons/module-20/lesson-08.md
+
+#### www.gov.il
+
+- https://www.gov.il/he/departments/units/molsa-court-assiatance-units (403) — lessons/module-18/lesson-09.md, references/where-to-get-help.md
+- https://www.gov.il/he/service/caveat_filling (403) — lessons/module-13/lesson-04.md, references/can-i-act-without-a-lawyer.md, templates/caveat-request-checklist.md
+- https://www.gov.il/he/service/company_registration (403) — lessons/module-16/lesson-02.md, lessons/module-16/lesson-08.md, references/can-i-act-without-a-lawyer.md, templates/company-registration-checklist.md
+- https://www.gov.il/he/service/condominiums-supervisor-claims (403) — lessons/module-13/lesson-06.md, lessons/module-13/lesson-10.md, references/can-i-act-without-a-lawyer.md, templates/superintendent-claim.md
+- https://www.gov.il/he/service/filing_a_small_claim (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.gov.il/he/service/guide-register-rights (403) — lessons/module-13/lesson-02.md
+- https://www.gov.il/he/service/land_registration_extract (403) — lessons/module-13/lesson-02.md, lessons/module-13/lesson-09.md, references/current-numbers.md, templates/apartment-purchase-check.md
+- https://www.gov.il/he/service/legal_aid_application (403) — references/where-to-get-help.md
+
+#### www.kolzchut.org.il
+
+- https://www.kolzchut.org.il (403) — lessons/module-13/lesson-02.md, lessons/module-13/lesson-04.md, lessons/module-13/lesson-06.md, lessons/module-13/lesson-09.md, lessons/module-13/lesson-10.md, lessons/module-20/lesson-03.md, references/where-to-get-help.md
+- https://www.kolzchut.org.il/he/בקשה_לביטול_פסק_דין_שניתן_בהיעדר_הגנה_במעמד_צד_אחד (403) — lessons/module-15/lesson-03.md
+- https://www.kolzchut.org.il/he/בקשה_לביצוע_פסק_דין_כספי_בהוצאה_לפועל (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/הגשת_תביעה_קטנה (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/ייצוג_על_ידי_סניגור_ציבורי_בהליך_פלילי (403) — references/where-to-get-help.md
+- https://www.kolzchut.org.il/he/עתירות_אסירים_ועצורים (403) — references/can-i-act-without-a-lawyer.md
+

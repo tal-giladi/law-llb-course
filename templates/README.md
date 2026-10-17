@@ -30,6 +30,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Insurance claim letter (דרישה לתשלום תגמולי ביטוח)](insurance-claim-letter.md)
 - [Insurance rejection response (תשובה לדחיית תביעת ביטוח)](insurance-rejection-response.md)
 - [Jewish-law reasoning in a ruling: worksheet (דף עבודה: המשפט העברי בפסק דין)](jewish-law-reasoning-worksheet.md)
+- [Labour-court statement of claim, expedited track (כתב תביעה לבית הדין האזורי לעבודה – דיון מהיר)](labour-court-statement-of-claim.md)
 - [Letter to a Knesset committee (פנייה לוועדה של הכנסת ונייר עמדה)](letter-to-knesset-committee.md)
 - [Letter to a public authority (פנייה לרשות ציבורית)](letter-to-authority.md)
 - [Letter to employer: wage and final-settlement demand (מכתב דרישה למעסיק)](letter-to-employer-wage-claim.md)
@@ -59,4 +60,5 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Statement of defence (כתב הגנה – בית משפט השלום / המחוזי)](statement-of-defence.md)
 - [Tort demand letter (מכתב דרישה לפיצוי בגין נזק)](tort-demand-letter.md)
 - [Treaty argument worksheet (גיליון עבודה: טיעון על בסיס אמנה בינלאומית)](treaty-argument-worksheet.md)
+- [Welfare and housing benefit review request (בקשה לעיון מחדש / ערעור / ערר בענייני הבטחת הכנסה, סיוע בשכר דירה ושירותי רווחה)](welfare-benefit-review-request.md)
 - [Written motion (בקשה בכתב)](written-motion.md)

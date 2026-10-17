@@ -139,7 +139,7 @@ From 2020 Utah County allowed weddings by video link, with the officiant in Utah
 
 ### Divorce and get refusal in brief
 
-For Jewish couples, the get requires both spouses' consent; a spouse who refuses can be subjected to restriction orders by the rabbinical court (lesson 10.3). Get refusal is debated: dayanim emphasise the limits Jewish law places on coercion; women's organisations and many jurists press for stronger sanctions or civil solutions. Muslim, Christian and Druze divorce follows each community's law (lesson 10.4).
+For Jewish couples, the get requires both spouses' consent; a spouse who refuses can be subjected to restriction orders by the rabbinical court (lesson 10.3). Get refusal is debated: dayanim emphasise the limits Jewish law places on coercion; women's organisations and some academic jurists press for stronger sanctions or civil solutions. Muslim, Christian and Druze divorce follows each community's law (lesson 10.4).
 
 ## Worked example
 

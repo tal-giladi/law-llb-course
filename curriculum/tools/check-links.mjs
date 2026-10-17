@@ -1,6 +1,7 @@
 // External link checker (QA tool, not imported).
-// Usage (from the course root): node curriculum/tools/check-links.mjs [out.json]
-// Scans lessons/module-01..11, projects/m01..m11-*, templates/, references/, glossary.md.
+// Usage (from the course root): node curriculum/tools/check-links.mjs [out.json] [path ...]
+// With no paths: scans lessons/module-01..11, projects/m01..m11-*, templates/, references/, glossary.md.
+// With paths (files or directories, walked recursively): scans only those.
 // Extracts markdown link targets and front-matter `url:` fields, fetches each unique URL
 // (HEAD, then GET fallback; 20 s timeout; redirects followed; concurrency 6) and writes JSON.
 import fs from "node:fs";
@@ -9,7 +10,8 @@ import path from "node:path";
 const root = process.cwd();
 const out = process.argv[2] ?? "curriculum/qa/link-results.json";
 const MODULES = Array.from({ length: 11 }, (_, i) => String(i + 1).padStart(2, "0"));
-const BLOCKED = [/(^|\.)gov\.il$/, /(^|\.)kolzchut\.org\.il$/, /(^|\.)sefaria\.org(\.il)?$/];
+const BLOCKED = [/(^|\.)gov\.il$/, /(^|\.)kolzchut\.org\.il$/, /(^|\.)sefaria\.org(\.il)?$/, /(^|\.)icc-cpi\.int$/];
+const PATHS = process.argv.slice(3);
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36";
 const TIMEOUT = 20000;
 const CONCURRENCY = 6;
@@ -24,7 +26,12 @@ function walk(dir, acc = []) {
   return acc;
 }
 
-const files = [
+const files = PATHS.length
+  ? PATHS.flatMap((p) => {
+      const abs = path.resolve(root, p);
+      return fs.statSync(abs).isDirectory() ? walk(abs) : [abs];
+    })
+  : [
   ...MODULES.flatMap((nn) => walk(path.join(root, "lessons", `module-${nn}`))),
   ...fs.readdirSync(path.join(root, "projects"))
     .filter((f) => MODULES.some((nn) => f.startsWith(`m${nn}-`)))

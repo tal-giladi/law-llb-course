@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A judgment by consent ordered your former employer to pay ₪17,500 and deliver the release letter to your
+    pension fund within 30 days. The money arrived; the letter did not. What do you do?
+  options:
+    - >-
+      Appeal to the National Labour Court, since the employer failed to comply with the judgment.
+    - >-
+      File a new claim in the regional court for the letter, because a judgment cannot order documents.
+    - >-
+      Demand the letter in writing with a date, then enforce that part through the Execution Office.
+    - >-
+      Accept the money and close the file, because the release letter is a matter between you and the fund.
+  correct: 2
+  explanation: >-
+    A labour-court judgment, including a consent judgment, is enforced like a court judgment through the
+    Execution Office (s. 37). A consent judgment is performed or enforced, not appealed.
+- id: q2
+  question: >-
+    You lost an expedited-track claim and think the judge was wrong. What is the route?
+  options:
+    - >-
+      An appeal as of right to the National Labour Court within 30 days of the judgment.
+    - >-
+      An application for leave to appeal to the National Labour Court within its short period.
+    - >-
+      A new claim on the ordinary track, since expedited judgments are not final.
+    - >-
+      A petition to the High Court of Justice, which is the only review of expedited judgments.
+  correct: 1
+  explanation: >-
+    An expedited-track judgment is appealable only with leave of the National Labour Court (s. 31(ד)).
+    Count the period from delivery in your presence or from service, and decide early whether to get advice.
+- id: q3
+  question: >-
+    On your last day the employer hands you a form saying "I received all my rights and have no further
+    claims, including severance", together with a cheque for part of what you calculated. What should you do?
+  options:
+    - >-
+      Sign it, because s. 29 makes any written waiver of severance invalid in every case.
+    - >-
+      Sign it, since you can always sue later and the court will ignore the form entirely.
+    - >-
+      Refuse the cheque altogether, because accepting any payment waives the rest of your claim.
+    - >-
+      Sign only a receipt for the sum actually received, and decline the waiver wording.
+  correct: 3
+  explanation: >-
+    Under s. 29 a written receipt that expressly mentions severance can be effective, and the employer
+    will rely on it. Accept the payment with a receipt for that sum only; leave any settlement of disputed
+    rights to the court or a lawyer.
+- id: q4
+  question: >-
+    Which situation, at the end of a Clinic II matter, is a red flag that calls for a lawyer or Legal Aid
+    rather than continuing alone?
+  options:
+    - >-
+      The NII demands repayment of past benefits and alleges that you made false statements.
+    - >-
+      The landlord paid the deposit in full but one week after the 60-day period ended.
+    - >-
+      The employer delivered form 161 by email instead of by registered mail.
+    - >-
+      The assistance unit sent you the end-of-stay notice two days late.
+  correct: 0
+  explanation: >-
+    A repayment demand with an allegation of false statements combines money and possible criminal
+    exposure; get a lawyer (or Legal Aid in NII matters). The others are minor and can be handled in writing.

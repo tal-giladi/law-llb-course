@@ -1,0 +1,1321 @@
+- id: m22-001
+  module: 22
+  lesson: "22.1"
+  subject: own-matter
+  difficulty: 1
+  question: >-
+    Your adult son asks you to file his NII disability appeal for him because his Hebrew is weaker than
+    yours. Within the clinic's rules, what can you do?
+  options:
+    - >-
+      File and sign the appeal in your own name as his parent, since he is a family member.
+    - >-
+      Help him understand and draft his own appeal, which he signs and files in his own name.
+    - >-
+      Represent him at the labour court as a "close friend", which the courts generally allow.
+    - >-
+      Nothing at all, because any help with another person's document is a criminal offence.
+  correct: 1
+  explanation: >-
+    The matter is his. He signs and files; helping him understand is not running his file. Before the NII
+    a close friend may represent with authorisation (s. 386), but in court only a lawyer or a statutory
+    representative may.
+- id: m22-002
+  module: 22
+  lesson: "22.1"
+  subject: fatal-deadlines
+  difficulty: 1
+  question: >-
+    Which of these is a fatal deadline that a Clinic II deadline table must contain?
+  options:
+    - >-
+      The seven-year limitation period for a claim for unpaid wages.
+    - >-
+      The date by which the employer's accountant prepares the next payroll.
+    - >-
+      The 30-day period to appeal an NII doctor's medical decision.
+    - >-
+      The date of the next public holiday on which courts are closed.
+  correct: 2
+  explanation: >-
+    The 30-day medical appeal (Disability Regulations reg. 20) ends the medical route if missed. Wages
+    follow the long limitation period; payroll and holidays are not deadlines of the matter.
+- id: m22-003
+  module: 22
+  lesson: "22.1"
+  subject: right-of-access
+  difficulty: 2
+  question: >-
+    You want the NII's file on your disability claim before writing your appeal. Which provision gives
+    you a right to see personal information about you held in it?
+  options:
+    - >-
+      Privacy Protection Law s. 13, the right to inspect personal information in a database.
+    - >-
+      The Freedom of Information Law only, which requires a fee and a public-interest reason.
+    - >-
+      Bar Association Law s. 20, which gives parties access to documents held by others.
+    - >-
+      There is no right; the NII shows its file only to a court that orders it.
+  correct: 0
+  explanation: >-
+    Privacy Protection Law s. 13 entitles every person to inspect personal information about them held in
+    a database; harmful medical information may be given to their doctor instead (s. 13(ג)).
+- id: m22-004
+  module: 22
+  lesson: "22.1"
+  subject: track-map
+  difficulty: 2
+  question: >-
+    The NII rejected your unemployment claim because it says you resigned without justification. Which
+    track does the dispute follow?
+  options:
+    - >-
+      An appeal to the medical appeals committee within 30 days of notice.
+    - >-
+      An appeal on a point of law to the regional labour court within 60 days.
+    - >-
+      A small claim against the NII in the magistrates' court within seven years.
+    - >-
+      A claim in the regional labour court within 12 months of notice of the decision.
+  correct: 3
+  explanation: >-
+    Non-medical NII decisions (entitlement, conditions, amount) go straight to the regional labour court
+    as a claim, within 12 months of notice (Time for Claims Regulations reg. 1).
+- id: m22-005
+  module: 22
+  lesson: "22.1"
+  subject: late-wage-compensation
+  difficulty: 2
+  question: >-
+    Your employer paid last month's salary 40 days late. On which date does your right to late-wage
+    compensation for it expire, at the latest?
+  options:
+    - >-
+      Seven years after the salary was due, like any other wage claim.
+    - >-
+      60 days after you received the late salary, unless the court extends it to 90.
+    - >-
+      One year after you received the salary, whatever the size of the delay.
+    - >-
+      There is no limit, because late-wage compensation is a cogent right.
+  correct: 1
+  explanation: >-
+    Wage Protection Law s. 17א: the right expires within one year of the wage becoming late or 60 days
+    after receipt of the late wage, whichever is earlier; the court may extend the 60 days to 90.
+- id: m22-006
+  module: 22
+  lesson: "22.1"
+  subject: filters
+  difficulty: 3
+  question: >-
+    Tamar's employer owes her ₪9,000, but she still works there and depends on a promotion next month. She
+    wants a clinic matter. What does the "relationship note" in her file help her decide?
+  options:
+    - >-
+      Whether she is legally allowed to sue her employer while still employed by it.
+    - >-
+      Whether the labour court has jurisdiction over claims by current employees.
+    - >-
+      What she needs from the employer after the dispute and how to act without losing it.
+    - >-
+      Which colleague can testify for her without the employer's permission.
+  correct: 2
+  explanation: >-
+    Current employees may sue; the question is practical. The note records what she must protect (the
+    promotion, references) and shapes the tone, timing and sequence of her demand.
+- id: m22-007
+  module: 22
+  lesson: "22.1"
+  subject: delivery-date
+  difficulty: 3
+  question: >-
+    An NII letter dated 3 June was emailed on 3 June and arrived by post on 12 June. You saw the email only
+    on 14 June. From which date should you safely count a 30-day appeal?
+  options:
+    - >-
+      From 14 June, the day you actually read it, because that is when you knew.
+    - >-
+      From 12 June, the postal delivery, because only paper notice counts.
+    - >-
+      From the end of June, since the NII always allows a grace period for email.
+    - >-
+      From 3 June, the earliest possible delivery, and file well before the 30 days end.
+  correct: 3
+  explanation: >-
+    When delivery dates may be disputed, count from the earliest plausible delivery and file early. You can
+    argue a later date if needed, but you cannot recover a missed deadline easily.
+- id: m22-008
+  module: 22
+  lesson: "22.1"
+  subject: representation
+  difficulty: 1
+  question: >-
+    In the labour court, who besides a lawyer may represent an employee who is a union member?
+  options:
+    - >-
+      A person appointed by the employee's union, under a special authorisation.
+    - >-
+      Any relative of the employee who has signed a power of attorney.
+    - >-
+      The employee's accountant, if the claim concerns payslips and tax.
+    - >-
+      A former colleague who worked in the same department and knows the facts.
+  correct: 0
+  explanation: >-
+    Labour Court Law s. 34 allows representation by a person appointed by the workers' or employers'
+    organisation of which the party is a member, on special authorisation.
+- id: m22-009
+  module: 22
+  lesson: "22.2"
+  subject: expedited-ceiling
+  difficulty: 1
+  question: >-
+    How is the labour court's expedited-hearing ceiling updated each year?
+  options:
+    - >-
+      It follows the small-claims ceiling, which is linked to the consumer price index.
+    - >-
+      On 1 January it becomes three times the average wage, rounded to the nearest ₪100.
+    - >-
+      The President of the National Labour Court announces it each year in a practice direction.
+    - >-
+      It is fixed by statute at ₪40,700 and changes only when the Knesset amends the law.
+  correct: 1
+  explanation: >-
+    Reg. 1א of the Expedited Hearing Regulations indexes the ceiling each 1 January to three times the
+    average wage under NII Law s. 1, rounded; the Courts Director publishes the figure (₪40,700 for 2026).
+- id: m22-010
+  module: 22
+  lesson: "22.2"
+  subject: ceiling-exclusions
+  difficulty: 2
+  question: >-
+    Which items are left out when you check whether your claim is within the expedited ceiling?
+  options:
+    - >-
+      Severance pay and notice pay, because they are not "wages".
+    - >-
+      Annual-leave redemption and recuperation pay, as statutory extras.
+    - >-
+      Late-wage compensation, linkage differences and interest to the filing date.
+    - >-
+      Any amount the employer has already admitted in writing that it owes.
+  correct: 2
+  explanation: >-
+    Reg. 1 measures the amount on the filing date without late-wage compensation, linkage or interest.
+- id: m22-011
+  module: 22
+  lesson: "22.2"
+  subject: reg-9
+  difficulty: 2
+  question: >-
+    Spot the mistake: a self-represented claim lists the employer's name and number, the facts of the
+    employment and dismissal, the remedies and their value, and "my address for service: my brother's law
+    office". What is wrong?
+  options:
+    - >-
+      Nothing; any address the claimant chooses is acceptable for service.
+    - >-
+      The claim must not state the value of the remedies until the hearing.
+    - >-
+      The employer's number may not appear in a claim filed by an individual.
+    - >-
+      A claimant acting for himself gives his place of residence as the address for service.
+  correct: 3
+  explanation: >-
+    Reg. 10(1): the address for service of a claimant who pleads for himself is his residence. A lawyer's
+    office is used only when that lawyer represents him.
+- id: m22-012
+  module: 22
+  lesson: "22.2"
+  subject: venue
+  difficulty: 1
+  question: >-
+    A security guard who lives in Ashkelon worked at a site in Jerusalem for a Tel Aviv company. Under
+    reg. 3(א)(1), where does he file his wage claim?
+  options:
+    - >-
+      In the regional labour court whose district includes the Jerusalem workplace.
+    - >-
+      In Tel Aviv, where the employing company has its registered office.
+    - >-
+      In Be'er Sheva, the regional court for the district where he lives.
+    - >-
+      In the National Labour Court, because the parties are in different districts.
+  correct: 0
+  explanation: >-
+    For employee–employer claims, venue is the regional court where the workplace is or where the work was
+    done (reg. 3(א)(1)).
+- id: m22-013
+  module: 22
+  lesson: "22.2"
+  subject: whole-remedy
+  difficulty: 2
+  question: >-
+    Your final settlement is worth ₪42,000; you prefer the speed of the expedited track. What may you do?
+  options:
+    - >-
+      File two claims, one for notice and leave and one for severance, each under the ceiling.
+    - >-
+      Waive in writing the part above the ceiling and claim the rest on the expedited track.
+    - >-
+      Ask the court in a letter before filing to raise the ceiling for your case.
+    - >-
+      Leave severance out now and claim it separately later without any leave.
+  correct: 1
+  explanation: >-
+    Reg. 26(א) requires the whole remedy but allows a claimant to waive part. Splitting the cause of action
+    is not allowed, and a remedy left out needs the court's leave later (reg. 26(ג)).
+- id: m22-014
+  module: 22
+  lesson: "22.2"
+  subject: deductions
+  difficulty: 2
+  question: >-
+    Your payslip shows a deduction of ₪600 for "damage to equipment". You never agreed in writing. Under the
+    Wage Protection Law, what is the position?
+  options:
+    - >-
+      The deduction is lawful if the employer can show that the damage really happened.
+    - >-
+      The deduction is lawful up to one-quarter of the monthly wage, by statute.
+    - >-
+      The deduction is not among those the law permits, so you may claim it back.
+    - >-
+      The deduction is lawful once the employer has held a disciplinary hearing.
+  correct: 2
+  explanation: >-
+    Section 25 lists the only permitted deductions (those required or allowed by law, written consents for
+    listed items and some others). An employer's claim for damage must be pursued separately, not deducted.
+- id: m22-015
+  module: 22
+  lesson: "22.2"
+  subject: fee
+  difficulty: 3
+  question: >-
+    Rawan's ₪20,436 claim combines severance, notice, leave, recuperation and an unlawful deduction. What
+    is the fee position on the expedited track?
+  options:
+    - >-
+      No fee is ever paid on the expedited track, by statute.
+    - >-
+      The full regular fee, because the claim includes severance pay.
+    - >-
+      A fixed fee per head of claim, because each item is a separate statute.
+    - >-
+      Half the regular fee with a minimum, unless the items fall under an exemption.
+  correct: 3
+  explanation: >-
+    Fees Regulations reg. 6 sets half the regular fee on the expedited track, not below a minimum; reg. 4
+    exempts proceedings under the Wage Protection Law and other listed statutes. Check current numbers.
+- id: m22-016
+  module: 22
+  lesson: "22.2"
+  subject: stopping-expedited
+  difficulty: 3
+  question: >-
+    Halfway through an expedited hearing the judge says the case needs expert evidence on overtime records.
+    What may the court do under s. 31(ה)?
+  options:
+    - >-
+      Stop the expedited hearing and continue the claim on the ordinary track.
+    - >-
+      Dismiss the claim, because expedited claims may not involve expert evidence.
+    - >-
+      Order the claimant to refile in the magistrates' court, which hears expert disputes.
+    - >-
+      Decide the claim by compromise without the parties' consent, to save time.
+  correct: 0
+  explanation: >-
+    The court may stop the expedited hearing if the issues or evidence do not allow it, and continue on the
+    ordinary track (s. 31(ה)); the fee difference may then be collected (Fees Regulations reg. 6(ב)).
+- id: m22-017
+  module: 22
+  lesson: "22.3"
+  subject: point-of-law
+  difficulty: 1
+  question: >-
+    Which ground can be raised in an appeal on law from an NII medical appeals committee?
+  options:
+    - >-
+      The committee's 15% for the knee is too low compared with what a friend received.
+    - >-
+      The committee did not examine the hearing loss you claimed and documented.
+    - >-
+      The committee sat in a building that was far from your home and hard to reach.
+    - >-
+      The committee's doctors were younger than your own treating specialist.
+  correct: 1
+  explanation: >-
+    Failing to examine a claimed and documented impairment is a defect in law. Percentages, comparisons and
+    convenience are not points of law (s. 213).
+- id: m22-018
+  module: 22
+  lesson: "22.3"
+  subject: appeal-on-law-deadline
+  difficulty: 1
+  question: >-
+    The medical appeals committee's decision was delivered to you on 5 May. By when must the appeal on law
+    reach the regional labour court?
+  options:
+    - >-
+      Within 30 days of 5 May, the same period as the medical appeal.
+    - >-
+      Within 12 months of 5 May, as for other claims against the NII.
+    - >-
+      Within 60 days of 5 May, under the Appeal Time Regulations.
+    - >-
+      Within 15 days of 5 May, as for leave to appeal interim decisions.
+  correct: 2
+  explanation: >-
+    Reg. 2 of the Appeal Time Regulations: 60 days from delivery of the decision to the appellant.
+- id: m22-019
+  module: 22
+  lesson: "22.3"
+  subject: single-judge
+  difficulty: 2
+  question: >-
+    Why is an appeal on law from an NII appeals committee heard by a judge alone rather than a three-member
+    bench?
+  options:
+    - >-
+      Because the NII asks for a single judge in every case it defends.
+    - >-
+      Because self-represented appellants are always heard by a judge alone.
+    - >-
+      Because the appeal is filed without a fee, and fee-free cases use one judge.
+    - >-
+      Because such appeals are listed in the Third Schedule to the Labour Court Law.
+  correct: 3
+  explanation: >-
+    Section 18(ב)(1) and the Third Schedule (item 1) send NII medical and appeals-committee appeals to a
+    single judge.
+- id: m22-020
+  module: 22
+  lesson: "22.3"
+  subject: legal-aid
+  difficulty: 2
+  question: >-
+    Moshe earns well above the usual Legal Aid income limit. Can Legal Aid represent him in his appeal on law
+    against the NII?
+  options:
+    - >-
+      Yes; in labour-court proceedings to which the NII is a party, the means test does not apply.
+    - >-
+      No; Legal Aid always applies its means test, whatever the subject of the case.
+    - >-
+      Only if he first pays a contribution set by the NII according to his income.
+    - >-
+      Only if the regional court finds that his appeal has a high chance of success.
+  correct: 0
+  explanation: >-
+    NII Law s. 397 provides Legal Aid to any individual in labour-court proceedings to which the NII is a
+    party, without the means test; NII decisions must say so.
+- id: m22-021
+  module: 22
+  lesson: "22.3"
+  subject: minutes-check
+  difficulty: 2
+  question: >-
+    Your minutes check finds that the committee chose an impairment item for "limited movement" although it
+    wrote that you have nerve-root compression. How do you frame this in the appeal?
+  options:
+    - >-
+      As a request that the court examine your back again and set a new percentage.
+    - >-
+      As an application of an impairment item that does not fit the committee's own findings.
+    - >-
+      As a complaint that the committee was biased against claimants from your town.
+    - >-
+      As new medical evidence that you could not bring to the committee in time.
+  correct: 1
+  explanation: >-
+    Applying an item that does not match the findings is a point of law. The court does not re-examine you;
+    it can remit the matter to the committee.
+- id: m22-022
+  module: 22
+  lesson: "22.3"
+  subject: remedy
+  difficulty: 2
+  question: >-
+    If the regional labour court accepts your appeal on law from the medical appeals committee, what is the
+    usual remedy?
+  options:
+    - >-
+      The court sets the disability percentage itself and orders payment.
+    - >-
+      The court orders the NII to pay a fixed sum of compensation for the delay.
+    - >-
+      It remits the matter to the committee, often newly composed, with instructions.
+    - >-
+      The court refers the matter to the National Labour Court for a new hearing.
+  correct: 2
+  explanation: >-
+    The court reviews legality; it usually remits the matter to the committee, sometimes in a different
+    composition, with instructions on what to examine and explain.
+- id: m22-023
+  module: 22
+  lesson: "22.3"
+  subject: leave-nlc
+  difficulty: 3
+  question: >-
+    You lost your appeal on law in the regional labour court; the judgment was given in your presence on
+    1 July. What is the next route and its period under reg. 75?
+  options:
+    - >-
+      An appeal as of right to the National Labour Court within 60 days of 1 July.
+    - >-
+      A petition to the High Court within 45 days, the only route from such judgments.
+    - >-
+      A new medical appeal within 30 days, which restarts the whole process.
+    - >-
+      An application for leave to appeal to the National Labour Court within 30 days.
+  correct: 3
+  explanation: >-
+    A regional judgment on an appeal from NII committees is appealable only with leave (s. 213); reg. 75
+    sets 30 days from the judgment (or its service). This is a point to get a lawyer or Legal Aid.
+- id: m22-024
+  module: 22
+  lesson: "22.3"
+  subject: withdrawal-risk
+  difficulty: 3
+  question: >-
+    Before your medical appeal is heard, the NII signals that the appeals committee may lower your existing
+    degree. What should you consider?
+  options:
+    - >-
+      Whether to withdraw the appeal, since an appeals committee can lower as well as raise a degree.
+    - >-
+      Nothing; an appeals committee may only confirm or raise the degree under appeal.
+    - >-
+      Filing an appeal on law at once, before the committee meets, to block the hearing.
+    - >-
+      Asking the labour court to hear the medical appeal instead of the committee.
+  correct: 0
+  explanation: >-
+    The appeals committee may lower a degree; the NII's page says you may withdraw. Decide with your doctor
+    and, if possible, Legal Aid.
+- id: m22-025
+  module: 22
+  lesson: "22.4"
+  subject: bare-request
+  difficulty: 1
+  question: >-
+    Spot the mistake in Form 1: "The applicant asks to settle disputes over child maintenance and parenting
+    time. The respondent has not paid anything since August and is unreliable." What must change?
+  options:
+    - >-
+      The subjects must be described in more detail, with amounts claimed.
+    - >-
+      The second sentence states facts about the dispute and must be removed.
+    - >-
+      The request must also state which court has jurisdiction and why.
+    - >-
+      The request must attach an affidavit supporting the allegations.
+  correct: 1
+  explanation: >-
+    Dispute Resolution Law s. 3(א): the request contains no allegations or facts about the dispute or
+    jurisdiction. Tick the subjects and nothing else.
+- id: m22-026
+  module: 22
+  lesson: "22.4"
+  subject: first-meeting
+  difficulty: 1
+  question: >-
+    Who attends the first assistance-unit meeting?
+  options:
+    - >-
+      Each party with a lawyer, who leads the discussion.
+    - >-
+      The parties' children, so the unit can hear their wishes first.
+    - >-
+      The parties alone, for acquaintance and assessing the dispute.
+    - >-
+      A family judge, who sets interim maintenance at the meeting.
+  correct: 2
+  explanation: >-
+    Reg. 5(ב): the first meeting is for acquaintance and assessment, and the parties attend alone; lawyers
+    may join later meetings devoted to settling the dispute (reg. 5(ג)).
+- id: m22-027
+  module: 22
+  lesson: "22.4"
+  subject: approval
+  difficulty: 2
+  question: >-
+    Two parents reached a parenting agreement in mediation but did not file it with the court. Months later
+    one parent breaches it. What is the weakness of their position?
+  options:
+    - >-
+      The agreement is void because it was reached outside the assistance unit.
+    - >-
+      The agreement binds only the parent who drafted it, not the other.
+    - >-
+      Agreements about children can never be enforced in any form.
+    - >-
+      Unapproved, it is only a contract, not a directly enforceable judgment.
+  correct: 3
+  explanation: >-
+    Section 3(ט) lets a court give the arrangement the force of a judgment. Without it, the parent must sue
+    on the agreement rather than enforce it.
+- id: m22-028
+  module: 22
+  lesson: "22.4"
+  subject: publication
+  difficulty: 2
+  question: >-
+    A parent wants to share the court's decision about parenting time in a WhatsApp group of school
+    parents to explain the new schedule. What is the legal risk?
+  options:
+    - >-
+      Publishing about a closed hearing needs leave; share only the practical schedule.
+    - >-
+      None, because a WhatsApp group is private correspondence, not publication.
+    - >-
+      None, as long as the children's surnames are removed from the decision.
+    - >-
+      Only a civil risk; the other parent may sue for defamation if the decision is unfavourable.
+  correct: 0
+  explanation: >-
+    Family matters are heard behind closed doors (Courts Law s. 68(ה)(1)), and publishing about a closed
+    hearing without leave is prohibited (s. 70(א)). Practical arrangements can be shared without the decision.
+- id: m22-029
+  module: 22
+  lesson: "22.4"
+  subject: maintenance-proposal
+  difficulty: 2
+  question: >-
+    Two parents with children aged 7 and 10 prepare a maintenance proposal for mediation. Following the 2017
+    Supreme Court approach for Jewish parents, what should the proposal be built on?
+  options:
+    - >-
+      A fixed sum paid by the father, set by custom at a quarter of his income.
+    - >-
+      The children's needs, divided by the parents' relative means and the parenting time.
+    - >-
+      The mother's income only, since the children live mainly with her.
+    - >-
+      The NII's minimum maintenance table, which binds all mediators.
+  correct: 1
+  explanation: >-
+    בע״מ 919/15 divides the duty for children aged 6–15 between both parents according to their means and
+    the time each spends with the children (lesson 18.5).
+- id: m22-030
+  module: 22
+  lesson: "22.4"
+  subject: violence-referral
+  difficulty: 2
+  question: >-
+    Before filing a request to settle, a parent tells you the other parent threatened her last week. What is
+    the right first step?
+  options:
+    - >-
+      File the request to settle and raise the threat at the first meeting.
+    - >-
+      Wait until the stay ends, then mention the threat in the claim.
+    - >-
+      Seek a protection order; that process is outside the request-to-settle law.
+    - >-
+      Ask the assistance unit to mediate the threat before anything else.
+  correct: 2
+  explanation: >-
+    Proceedings under the Prevention of Family Violence Law are excluded from the Dispute Resolution Law
+    (s. 4א), and the stay can be shortened where there is violence (lessons 18.7, 18.9).
+- id: m22-031
+  module: 22
+  lesson: "22.4"
+  subject: window
+  difficulty: 3
+  question: >-
+    The father filed the request to settle; mediation failed; the 15-day window after the stay passed and he
+    filed nothing. What may the mother now do?
+  options:
+    - >-
+      Nothing; once the first filer's window passes, all claims are barred for a year.
+    - >-
+      Only file a new request to settle and wait for a new stay to end.
+    - >-
+      Only file in the court where the father filed the request to settle.
+    - >-
+      File the open issues herself in any competent forum.
+  correct: 3
+  explanation: >-
+    Section 4: if the first filer does not file within 15 days, or files only some issues, the other party
+    may file the rest in any competent forum.
+- id: m22-032
+  module: 22
+  lesson: "22.4"
+  subject: maintenance-date
+  difficulty: 3
+  question: >-
+    Why does it matter for maintenance that a request to settle was filed on 1 November, even though the
+    maintenance claim was filed in March after the stay?
+  options:
+    - >-
+      The claim is treated as filed on the request date, so maintenance runs from it.
+    - >-
+      Maintenance is always paid from the date of separation, whatever was filed.
+    - >-
+      The request's date fixes the amount of maintenance, which cannot then change.
+    - >-
+      The request's date sets the court that must hear the claim, whatever the venue rules.
+  correct: 0
+  explanation: >-
+    Reg. 15(ב): a maintenance claim filed after the stay is treated as filed on the date of the request, so
+    the stay does not cost the claimant months of maintenance.
+- id: m22-033
+  module: 22
+  lesson: "22.5"
+  subject: urgent-defect
+  difficulty: 1
+  question: >-
+    Which defect is most likely to count as "urgent" under s. 25ח(ב), with a three-day repair period?
+  options:
+    - >-
+      A cracked tile in the balcony floor that does not affect use of the flat.
+    - >-
+      No electricity in the flat because the main panel failed.
+    - >-
+      A kitchen cupboard door that has come off its hinge.
+    - >-
+      Faded paint in the living room after two years of rental.
+  correct: 1
+  explanation: >-
+    An urgent defect is one that does not allow reasonable living in the flat. A failed electrical panel
+    qualifies; the others are ordinary or trivial, or wear.
+- id: m22-034
+  module: 22
+  lesson: "22.5"
+  subject: clock-start
+  difficulty: 1
+  question: >-
+    When does the landlord's 30-day repair period start?
+  options:
+    - >-
+      On the day the defect first appeared in the flat.
+    - >-
+      On the day the tenant took photos of the defect.
+    - >-
+      On the day the landlord received the tenant's demand.
+    - >-
+      On the first day of the next rental month.
+  correct: 2
+  explanation: >-
+    Section 25ח(ב) counts from the day the landlord received the demand. Keep proof of delivery.
+- id: m22-035
+  module: 22
+  lesson: "22.5"
+  subject: self-repair-notice
+  difficulty: 2
+  question: >-
+    A shutter motor has been broken for 40 days after your written demand. You want to repair it and claim
+    the cost. What must you do first under s. 9(ב)?
+  options:
+    - >-
+      Obtain three written quotes and send them to the landlord for approval.
+    - >-
+      Get the municipality's confirmation that the defect is the landlord's.
+    - >-
+      Deduct the expected cost from the next rent before calling the technician.
+    - >-
+      Tell the landlord a reasonable time in advance that you intend to repair it.
+  correct: 3
+  explanation: >-
+    A tenant who intends to repair must notify the landlord a reasonable time in advance (s. 9(ב)); only a
+    truly urgent defect may be repaired without notice (s. 9(ג)).
+- id: m22-036
+  module: 22
+  lesson: "22.5"
+  subject: security-uses
+  difficulty: 2
+  question: >-
+    Which of these is a permitted use of a residential security deposit under s. 25י(ג)?
+  options:
+    - >-
+      Unpaid running charges the tenant owes, such as water or arnona.
+    - >-
+      Repainting the flat after ordinary wear over a two-year lease.
+    - >-
+      Repairing a roof leak that caused mould during the lease.
+    - >-
+      A penalty for the tenant leaving at the end of the agreed term.
+  correct: 0
+  explanation: >-
+    The four permitted uses: unpaid rent, repairs the tenant is responsible for, unpaid running charges, and
+    not vacating. Wear and the landlord's own defects are excluded.
+- id: m22-037
+  module: 22
+  lesson: "22.5"
+  subject: deposit-return
+  difficulty: 2
+  question: >-
+    You returned the flat on 30 June and owe nothing. By when must the landlord return the security?
+  options:
+    - >-
+      Within 14 days of 30 June, the general period for consumer refunds.
+    - >-
+      Within 60 days of the flat's return, with any fruits it earned.
+    - >-
+      Within 90 days, to allow the landlord to inspect the flat.
+    - >-
+      Whenever the next tenant pays his own security, if later.
+  correct: 1
+  explanation: >-
+    Section 25י(ה): within 60 days of the flat's return, or when the tenant's debts are paid, whichever is
+    later, including its fruits.
+- id: m22-038
+  module: 22
+  lesson: "22.5"
+  subject: scope
+  difficulty: 2
+  question: >-
+    Which lease is outside the residential-lease chapter, so that ss. 25ח and 25י do not apply as such?
+  options:
+    - >-
+      A two-year lease of a flat for a family, at an ordinary market rent.
+    - >-
+      A one-year lease with an option for a second year, signed by two students.
+    - >-
+      A lease of up to three months with no option to extend.
+    - >-
+      A lease signed through a property-management company for the owner.
+  correct: 2
+  explanation: >-
+    Section 25טו excludes, among others, leases of up to three months without an option, leases over ten
+    years and leases above the rent ceiling (lesson 20.3).
+- id: m22-039
+  module: 22
+  lesson: "22.5"
+  subject: deduction-trap
+  difficulty: 3
+  question: >-
+    Spot the mistake: a tenant, after 30 days without repair of a leak in one of three rooms, paid only 50%
+    of the rent for four months "under s. 9". The landlord kept that shortfall from the security. Why is the
+    landlord's position strong?
+  options:
+    - >-
+      Rent reduction is not available in residential leases since the 2017 amendment.
+    - >-
+      The tenant should have repaired the leak himself before reducing the rent.
+    - >-
+      The tenant should have waited 60 days, not 30, before reducing the rent.
+    - >-
+      A reduction must be proportionate to the lost value; 50% for one room is likely excessive.
+  correct: 3
+  explanation: >-
+    Section 9(א)(2) allows a reduction by the ratio of lost rental value. An excessive reduction leaves rent
+    unpaid, a permitted use of the security (s. 25י(ג)(1)).
+- id: m22-040
+  module: 22
+  lesson: "22.5"
+  subject: plaintiffs
+  difficulty: 3
+  question: >-
+    Yusuf and Lina both signed the lease. Who should be the plaintiffs in the small claim for the deposit
+    and repair costs?
+  options:
+    - >-
+      Both co-tenants, each signing, since the claim is theirs jointly.
+    - >-
+      Only Yusuf, who may represent Lina because she is his wife.
+    - >-
+      Only Lina, because the deposit receipt is in her name alone.
+    - >-
+      Neither; co-tenants must sue in the magistrates' court through a lawyer.
+  correct: 0
+  explanation: >-
+    Both are parties to the lease and owners of the claim; each sues in his or her own right and signs.
+    One spouse cannot represent the other in court.
+- id: m22-041
+  module: 22
+  lesson: "22.6"
+  subject: income-support-court
+  difficulty: 1
+  question: >-
+    Which court hears a dispute about income support?
+  options:
+    - >-
+      The Administrative Affairs Court, as for other government benefits.
+    - >-
+      The regional labour court, which has exclusive jurisdiction.
+    - >-
+      The magistrates' court, because the sums involved are small.
+    - >-
+      The High Court of Justice, because income support is a constitutional right.
+  correct: 1
+  explanation: >-
+    Income Support Law s. 26 gives the regional labour court exclusive jurisdiction; the proceeding is
+    fee-exempt (Fees Regulations reg. 4(22)).
+- id: m22-042
+  module: 22
+  lesson: "22.6"
+  subject: forty-five-days
+  difficulty: 1
+  question: >-
+    You asked a ministry in writing to exercise a power in your favour. By when must it answer, as a rule?
+  options:
+    - >-
+      Within 14 days, the period for urgent matters.
+    - >-
+      Within 90 days, unless the minister extends it.
+    - >-
+      Within 45 days, or explain within that time why it cannot.
+    - >-
+      There is no general period; each ministry sets its own.
+  correct: 2
+  explanation: >-
+    Decisions and Reasons Law s. 2(א), (ג): answer in writing within 45 days, or explain the delay within
+    that time.
+- id: m22-043
+  module: 22
+  lesson: "22.6"
+  subject: silence
+  difficulty: 2
+  question: >-
+    Three months after your written request, a public body has not answered at all. How does the law treat
+    this?
+  options:
+    - >-
+      As acceptance of the request, which you may now act on.
+    - >-
+      As a lapse of the request, which you must file again.
+    - >-
+      As a suspension of the matter until the body is ready to decide.
+    - >-
+      As a refusal without reasons, which you can challenge.
+  correct: 3
+  explanation: >-
+    Decisions and Reasons Law s. 6(ב): no answer within three months is treated as a refusal without
+    reasons, and the burden then shifts to the official (s. 6(א)).
+- id: m22-044
+  module: 22
+  lesson: "22.6"
+  subject: welfare-committee-powers
+  difficulty: 2
+  question: >-
+    What may the welfare appeals committee do on an appeal against a refusal of assistance?
+  options:
+    - >-
+      Confirm, change or cancel the decision, set the assistance, or order reconsideration.
+    - >-
+      Only recommend to the municipality, which may ignore the recommendation.
+    - >-
+      Award compensation for the delay, but not change the decision itself.
+    - >-
+      Refer the matter to the labour court, which alone may decide welfare disputes.
+  correct: 0
+  explanation: >-
+    Welfare Services Law s. 2(ז)–(ח) lists the committee's powers; its final decision is appealable to the
+    Administrative Affairs Court (s. 2(ט)).
+- id: m22-045
+  module: 22
+  lesson: "22.6"
+  subject: subsistence-exclusion
+  difficulty: 2
+  question: >-
+    A household with no income asks the welfare department for a monthly payment to live on. Why is the
+    department likely to refuse, and where should the household go?
+  options:
+    - >-
+      The department may only give in-kind help; the household should ask a charity.
+    - >-
+      Subsistence income is excluded from its support; the household should claim income support from the NII.
+    - >-
+      Only the Ministry of Construction and Housing may pay money; the household should apply there.
+    - >-
+      The department pays only to people over 67; the household should claim old-age benefit.
+  correct: 1
+  explanation: >-
+    Welfare Services Law s. 2א excludes support meant to secure an adequate subsistence income; income
+    support from the NII serves that purpose.
+- id: m22-046
+  module: 22
+  lesson: "22.6"
+  subject: reconsideration-clock
+  difficulty: 2
+  question: >-
+    Spot the mistake in a reconsideration letter to the NII: "I ask you to reconsider; until you answer, the
+    time for going to court is suspended." What is wrong?
+  options:
+    - >-
+      Reconsideration requests must be addressed to the labour court, not the NII.
+    - >-
+      The NII may not reconsider its own decisions once they are delivered.
+    - >-
+      A reconsideration request does not suspend the 12-month period to sue.
+    - >-
+      The letter must also be signed by a lawyer to be valid.
+  correct: 2
+  explanation: >-
+    Reconsideration is a practice, not a statutory stay; the Time for Claims Regulations' 12 months run
+    from notice of the decision. The template says so expressly.
+- id: m22-047
+  module: 22
+  lesson: "22.6"
+  subject: car-exception
+  difficulty: 3
+  question: >-
+    A claimant owns one car worth more than the set amount, which she needs to take her son to dialysis
+    three times a week under a treatment plan. Can the car rule disqualify her?
+  options:
+    - >-
+      Yes; a car above the set amount always disqualifies, whatever its use.
+    - >-
+      Yes, unless she sells the car within six months of claiming.
+    - >-
+      No, but only if the car is registered in her son's name.
+    - >-
+      No; the rule does not apply to a car needed for regular treatment.
+  correct: 3
+  explanation: >-
+    Section 9א(ג)(2) excludes the rule where the claimant or a listed family member needs the car for medical
+    treatment outside the home under a plan or at least six times a month for over 90 days.
+- id: m22-048
+  module: 22
+  lesson: "22.6"
+  subject: dependency
+  difficulty: 3
+  question: >-
+    Rent assistance was refused because the household does not receive income support; income support is
+    under review. Which step order gives the best chance on both?
+  options:
+    - >-
+      Restore income support first, then appeal or reapply for rent assistance with the new decision.
+    - >-
+      Appeal rent assistance first, because the Ministry can grant it without regard to income support.
+    - >-
+      Petition the High Court against both bodies at once to save time.
+    - >-
+      Ask the welfare department to decide both benefits, since it coordinates welfare.
+  correct: 0
+  explanation: >-
+    The refusal rests on the gateway benefit. Win that review, then use the decision in the dependent
+    benefit's appeal or new application (and check other eligibility routes).
+- id: m22-049
+  module: 22
+  lesson: "22.7"
+  subject: bench
+  difficulty: 1
+  question: >-
+    Who are the two people sitting beside the judge in a regional labour-court hearing of a wage claim?
+  options:
+    - >-
+      Two registrars who will write the judgment for the judge.
+    - >-
+      Public representatives, one from employees and one from employers.
+    - >-
+      Officials of the Ministry of Labour supervising the hearing.
+    - >-
+      Lawyers from Legal Aid assigned to help unrepresented parties.
+  correct: 1
+  explanation: >-
+    Section 18(א): the regional court sits as a judge and two public representatives, one from employees'
+    and one from employers' organisations.
+- id: m22-050
+  module: 22
+  lesson: "22.7"
+  subject: order-of-argument
+  difficulty: 1
+  question: >-
+    Under reg. 51, unless the judge directs otherwise, who opens at a labour-court hearing?
+  options:
+    - >-
+      The defendant, who must first answer each item of the claim.
+    - >-
+      The judge, who reads both pleadings aloud before anyone speaks.
+    - >-
+      The claimant, with opening words, then witnesses and other evidence.
+    - >-
+      Whoever filed the longer pleading, to save the court's time.
+  correct: 2
+  explanation: >-
+    Reg. 51: the claimant opens and brings evidence, then the defendant; then summations, claimant first.
+- id: m22-051
+  module: 22
+  lesson: "22.7"
+  subject: evidence-rules
+  difficulty: 2
+  question: >-
+    The employer objects that your WhatsApp screenshots are "not admissible evidence". What is the
+    labour court's starting point?
+  options:
+    - >-
+      Screenshots are never admissible without an expert's certificate.
+    - >-
+      Screenshots are admissible only if the other side agrees to them.
+    - >-
+      Screenshots are admissible only in the National Labour Court on appeal.
+    - >-
+      The court is not bound by evidence rules and weighs their reliability.
+  correct: 3
+  explanation: >-
+    Labour Court Law s. 32: the court is not bound by the rules of evidence (save in certain criminal
+    matters). It decides the weight; keep the original phone and export the chat.
+- id: m22-052
+  module: 22
+  lesson: "22.7"
+  subject: cross-examination
+  difficulty: 2
+  question: >-
+    The employer filed an affidavit by its manager. You want to question him at the hearing. What do you do?
+  options:
+    - >-
+      Give notice in good time that you require him to attend for cross-examination.
+    - >-
+      Nothing; a declarant always attends without being asked.
+    - >-
+      Ask the court on the day to summon him, which is always granted at once.
+    - >-
+      Send him written questions, since affiants cannot be cross-examined in labour cases.
+  correct: 0
+  explanation: >-
+    Reg. 118(א): a party who wants to cross-examine the maker of a verification statement notifies the
+    other side and requires his attendance, with enough time to prepare and come.
+- id: m22-053
+  module: 22
+  lesson: "22.7"
+  subject: absence
+  difficulty: 2
+  question: >-
+    The employer did not appear at the hearing though properly summoned. What may the court do under
+    reg. 49(ב)(2)?
+  options:
+    - >-
+      Only postpone the hearing, since a judgment needs both parties present.
+    - >-
+      Hear the claim as if the employer appeared, or give judgment on the claim.
+    - >-
+      Dismiss the claim, because the claimant cannot prove it without the employer.
+    - >-
+      Refer the case to mediation until the employer agrees to attend.
+  correct: 1
+  explanation: >-
+    Reg. 49(ב)(2): if the absent party is the defendant, the court may hear the claim as if it appeared or
+    give judgment on the claim (reg. 43(א)). The employer may apply to set aside within 30 days (reg. 50).
+- id: m22-054
+  module: 22
+  lesson: "22.7"
+  subject: settlement-conditions
+  difficulty: 2
+  question: >-
+    You are about to accept a compromise sum at an expedited hearing. Which non-money condition matters
+    most for a dismissed employee with a pension fund?
+  options:
+    - >-
+      An apology from the manager, recorded in the protocol.
+    - >-
+      A promise that the employer will not hire a replacement for six months.
+    - >-
+      Delivery of the release letter to the pension fund and form 161, by a date.
+    - >-
+      A clause that the employer pays the court fee twice over.
+  correct: 2
+  explanation: >-
+    Without the release letter the severance balance in the fund may stay blocked, and form 161 matters for
+    tax. Put them, with a date, in the agreement the court approves.
+- id: m22-055
+  module: 22
+  lesson: "22.7"
+  subject: tribunal-record
+  difficulty: 3
+  question: >-
+    At the medical appeals committee you describe pain in your hands, but you notice the doctor typing only
+    about your back. What is the most useful thing to do on the spot?
+  options:
+    - >-
+      Stay silent and raise the omission later in a complaint to the NII director.
+    - >-
+      Leave the room in protest so the committee cannot decide without you.
+    - >-
+      Bring a new specialist letter to the labour court, which will add the hands.
+    - >-
+      Ask politely that your complaint about the hands be recorded in the minutes.
+  correct: 3
+  explanation: >-
+    The committee decides on its record, and the labour court reviews that record. Asking for the complaint
+    to be recorded prevents the omission or creates a clear point of law.
+- id: m22-056
+  module: 22
+  lesson: "22.7"
+  subject: welfare-hearing
+  difficulty: 3
+  question: >-
+    Before your welfare appeals committee hearing, you suspect the department's file contains a social
+    worker's report you have not seen. What can you ask?
+  options:
+    - >-
+      That the department send your file to the committee, and to see what it relies on.
+    - >-
+      That the hearing be public, so the report must be read aloud.
+    - >-
+      That the committee apply the court rules of evidence and exclude the report.
+    - >-
+      That the labour court order the department to disclose the report first.
+  correct: 0
+  explanation: >-
+    Reg. 5 requires the department to deliver the appellant's file to the chair on request; fair procedure
+    lets you respond to what the decision relies on. Hearings are closed (reg. 13), and the rules of evidence do not bind it (reg. 7).
+- id: m22-057
+  module: 22
+  lesson: "22.8"
+  subject: enforcement
+  difficulty: 1
+  question: >-
+    How is an unpaid labour-court judgment enforced?
+  options:
+    - >-
+      By a new claim in the magistrates' court on the judgment debt.
+    - >-
+      Through the Execution Office, like a judgment of any court.
+    - >-
+      By the labour court's own bailiffs, who collect wages directly.
+    - >-
+      By a complaint to the Ministry of Labour's enforcement unit only.
+  correct: 1
+  explanation: >-
+    Labour Court Law s. 37: labour-court judgments are enforced like court judgments, under the Execution
+    Law.
+- id: m22-058
+  module: 22
+  lesson: "22.8"
+  subject: appeal-as-of-right
+  difficulty: 1
+  question: >-
+    A regional labour court gave judgment on the ordinary track in your presence on 10 March. By when may you
+    appeal as of right?
+  options:
+    - >-
+      Within 15 days of 10 March.
+    - >-
+      Within 60 days of 10 March.
+    - >-
+      Within 30 days of 10 March.
+    - >-
+      Within 45 days of receiving the written reasons.
+  correct: 2
+  explanation: >-
+    Reg. 73: 30 days from the day the judgment was given in your presence (or from service if given in your
+    absence); s. 26.
+- id: m22-059
+  module: 22
+  lesson: "22.8"
+  subject: section-29
+  difficulty: 2
+  question: >-
+    Under Severance Pay Law s. 29, when does a final-settlement receipt bind the employee as to severance?
+  options:
+    - >-
+      Whenever it is signed, even orally before a witness.
+    - >-
+      Only when it is approved by the labour court in every case.
+    - >-
+      Never; severance can never be the subject of a settlement.
+    - >-
+      When it is written and states expressly that it concerns severance.
+  correct: 3
+  explanation: >-
+    Section 29: a compromise or receipt about severance has no effect unless it is written and says
+    expressly that it concerns severance. Sign only receipts for sums received.
+- id: m22-060
+  module: 22
+  lesson: "22.8"
+  subject: consent-judgment
+  difficulty: 2
+  question: >-
+    A party regrets a settlement that the labour court gave the force of a judgment. Can it appeal?
+  options:
+    - >-
+      As a rule no; a consent judgment is enforced, not appealed.
+    - >-
+      Yes, as of right within 30 days, like any other judgment.
+    - >-
+      Yes, but only with leave, which is granted if the party regrets the sum.
+    - >-
+      Yes, to the High Court of Justice, which reviews all settlements.
+  correct: 0
+  explanation: >-
+    A judgment by consent records the parties' agreement. Challenging it requires grounds that undo the
+    agreement itself (e.g. a defect in consent), which is a matter for a lawyer.
+- id: m22-061
+  module: 22
+  lesson: "22.8"
+  subject: surviving-deadlines
+  difficulty: 2
+  question: >-
+    Which item belongs in the "surviving deadlines" part of a closing memo after an NII case that ended with
+    a temporary disability degree for 12 months?
+  options:
+    - >-
+      The date the original claim form was signed.
+    - >-
+      The temporary degree's end date and the re-examination.
+    - >-
+      The date of the last hearing at which the NII's lawyer appeared.
+    - >-
+      The date the NII sent its first acknowledgement letter.
+  correct: 1
+  explanation: >-
+    A temporary degree ends; missing that date can stop the benefit. Surviving deadlines are those that
+    outlive the case and need action.
+- id: m22-062
+  module: 22
+  lesson: "22.8"
+  subject: red-flags
+  difficulty: 2
+  question: >-
+    Which situation, in a family clinic matter, is a red flag for getting a lawyer?
+  options:
+    - >-
+      The assistance unit suggests a mediator from the official list.
+    - >-
+      The other parent asks to change a handover time by one hour.
+    - >-
+      The other parent's lawyer files in a religious court during the window.
+    - >-
+      The court asks both parents to confirm the agreement in person.
+  correct: 2
+  explanation: >-
+    A filing race into a religious court affects forum and substance; lessons 10.3 and 18.1 explain why
+    advice is needed. The others are routine.
+- id: m22-063
+  module: 22
+  lesson: "22.8"
+  subject: handover
+  difficulty: 3
+  question: >-
+    You decide your NII appeal needs professional help, and your cousin, a paralegal, offers to "take over
+    the case in court". What is the right handover?
+  options:
+    - >-
+      Let the cousin appear for you, since NII cases allow a close friend in court.
+    - >-
+      Give the cousin a power of attorney, which lets anyone represent in the labour court.
+    - >-
+      Ask the court to appoint your cousin as your guardian for the proceedings.
+    - >-
+      Hand it to Legal Aid or a lawyer; in court only a lawyer or a statutory representative may act.
+  correct: 3
+  explanation: >-
+    The close-friend rule applies before the NII itself (s. 386), not in court. Legal Aid is available
+    without a means test in NII cases (s. 397). See רע״א 8120/08 and s. 20.
+- id: m22-064
+  module: 22
+  lesson: "22.8"
+  subject: late-payment
+  difficulty: 3
+  question: >-
+    After an ordinary-track judgment for wages, the employer pays 45 days late, without interest. You want
+    to recover the extra for the delay. What is the main point to check?
+  options:
+    - >-
+      Whether to enforce the judgment's linkage and interest through execution.
+    - >-
+      Nothing; once a judgment is paid, even late, nothing more can be claimed.
+    - >-
+      Whether the employer's accountant agrees to pay interest voluntarily.
+    - >-
+      Whether the National Labour Court will reopen the judgment to add interest.
+  correct: 0
+  explanation: >-
+    A judgment debt carries linkage and interest that can be enforced through the Execution Office; check
+    the judgment's terms and act promptly rather than letting the matter drift.

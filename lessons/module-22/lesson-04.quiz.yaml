@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    At the first assistance-unit meeting the other parent produces a typed interim parenting schedule and
+    asks you to sign it now "so the children have stability". What do you do?
+  options:
+    - >-
+      Sign it, because interim arrangements made at the unit can be changed freely later.
+    - >-
+      Refuse to discuss it, because nothing about the children may be raised at the first meeting.
+    - >-
+      Discuss it, ask that it be recorded as a proposal, and sign only after you have had a chance to consult.
+    - >-
+      Ask the social worker to decide whether the schedule is fair and to sign it on your behalf.
+  correct: 2
+  explanation: >-
+    Interim arrangements may be discussed if both wish, but reg. 5(ה) forbids signing an agreement or
+    undertaking a commitment until each party has had an opportunity to consult. The unit does not decide
+    or represent anyone.
+- id: q2
+  question: >-
+    You and the other parent reach a full maintenance and parenting agreement in mediation during the
+    stay. What makes it enforceable like a judgment?
+  options:
+    - >-
+      Signing it before the mediator, who certifies it as binding on both parents.
+    - >-
+      Filing it with the court in an application to give it the force of a judgment, under s. 3(ט).
+    - >-
+      Sending each other a copy by registered mail within five days of the last meeting.
+    - >-
+      Registering it with the National Insurance Institute's maintenance department.
+  correct: 1
+  explanation: >-
+    Dispute Resolution Law s. 3(ט) lets a competent court give an arrangement reached in the process the
+    force of a judgment. Without approval it is a contract, which is harder to enforce.
+- id: q3
+  question: >-
+    After a hard meeting you want to post about it in a closed Facebook group for divorced parents, without
+    naming anyone. What is the legal position?
+  options:
+    - >-
+      Family matters are heard behind closed doors, and publishing anything about them needs the court's leave.
+    - >-
+      Posting is allowed as long as you do not use full names or show photos of the children.
+    - >-
+      Posting is allowed because the assistance unit is not a court, so no publication rules apply.
+    - >-
+      Posting is allowed in closed groups, since the ban applies only to newspapers and television.
+  correct: 0
+  explanation: >-
+    Family matters are heard in camera (Courts Law s. 68(ה)(1)), no one may publish about a closed hearing
+    without leave (s. 70(א)), and what is said to the unit is privileged (Family Court Law s. 5א).
+- id: q4
+  question: >-
+    Mediation fails. You filed the request to settle. The stay ends on 1 March. What should already be
+    ready by then?
+  options:
+    - >-
+      A new request to settle, since the first one lapses when the stay ends without agreement.
+    - >-
+      A complaint to the assistance unit's supervisor about the other parent's lack of cooperation.
+    - >-
+      Nothing yet; there is no time limit, and you may file whenever you are ready.
+    - >-
+      Your claims, each with the Form 4 notice, to file within the 15-day window as first filer.
+  correct: 3
+  explanation: >-
+    Under s. 4 the first filer may file claims in any competent forum within 15 days after the periods end,
+    each with Form 4 (reg. 9). If you do not, the other parent may file the open issues in a forum of their
+    choice.

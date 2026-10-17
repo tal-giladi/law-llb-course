@@ -225,3 +225,13 @@
   - [174 · Academic integrity, plagiarism and AI tools](lessons/module-21/lesson-05.md)
   - [175 · Practice lab: write and self-review the proseminar paper](lessons/module-21/lesson-06.md)
   - [Module 21 quiz](assessments/module-21-quiz.md)
+- **Module 22 — Clinic II: Work, Family and Home Without a Lawyer (about 34 hours)**
+  - [176 · Choosing the matter and building the file](lessons/module-22/lesson-01.md)
+  - [177 · An employment claim: from the letter to the labour court](lessons/module-22/lesson-02.md)
+  - [178 · A National Insurance appeal from start to finish](lessons/module-22/lesson-03.md)
+  - [179 · Family court: the request to settle a dispute and mediation](lessons/module-22/lesson-04.md)
+  - [180 · A tenancy dispute: deposit and repairs from letter to small claims](lessons/module-22/lesson-05.md)
+  - [181 · Welfare and housing benefits: application and review](lessons/module-22/lesson-06.md)
+  - [182 · The hearing in the labour court and tribunals](lessons/module-22/lesson-07.md)
+  - [183 · Closing the file and when to get a lawyer](lessons/module-22/lesson-08.md)
+  - [Module 22 quiz](assessments/module-22-quiz.md)

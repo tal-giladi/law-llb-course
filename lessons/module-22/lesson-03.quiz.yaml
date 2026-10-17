@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    The medical appeals committee kept your back at 20%. Your orthopaedic surgeon says it should be 30%,
+    and the committee mentioned his letter and explained why it disagreed. What is your best next step?
+  options:
+    - >-
+      Appeal to the labour court on the ground that 20% is too low given the surgeon's opinion.
+    - >-
+      Appeal to the National Labour Court directly, since the committee is part of the NII.
+    - >-
+      Ask the committee to reconsider, because its decisions can be reopened at any time on request.
+    - >-
+      Accept the decision or seek re-assessment later; a reasoned medical disagreement is not law.
+  correct: 3
+  explanation: >-
+    The labour court hears appeals on a point of law only (s. 213). A committee that considered the letter
+    and gave reasons made a medical judgment; disagreeing with the percentage is not a legal ground.
+- id: q2
+  question: >-
+    The committee's decision was delivered to you on 10 December. Legal Aid has not yet answered your
+    application. How should you plan?
+  options:
+    - >-
+      Wait for Legal Aid, because an application to Legal Aid freezes the 60-day period.
+    - >-
+      Keep your own filing date well inside the 60 days and file yourself if Legal Aid has not taken over.
+    - >-
+      File a medical appeal again to the same committee, which restarts all the periods.
+    - >-
+      Write to the NII asking it to extend the 60 days, as it does for stage-1 appeals.
+  correct: 1
+  explanation: >-
+    The appeal is due within 60 days of delivery (reg. 2), and applying to Legal Aid does not stop the clock.
+    File yourself in time; Legal Aid can take over the pending appeal.
+- id: q3
+  question: >-
+    Which finding from your minutes check is a point of law you can raise in the labour court?
+  options:
+    - >-
+      The committee examined you for only ten minutes, although you expected a longer examination.
+    - >-
+      The committee gave 10% for diabetes; you believe your daily suffering justifies more.
+    - >-
+      The committee did not mention or examine the psychiatric impairment you claimed with a letter.
+    - >-
+      One committee member seemed impatient and did not look at you while you spoke.
+  correct: 2
+  explanation: >-
+    Failing to examine a claimed impairment and ignoring a medical document before the committee are
+    defects in law. Length of the examination, impressions of the members and percentages are not.
+- id: q4
+  question: >-
+    Who decides your appeal on law from the NII medical appeals committee, and what does it cost?
+  options:
+    - >-
+      A single regional labour-court judge; the proceeding is fee-exempt.
+    - >-
+      A panel of a judge and two public representatives; half the regular fee is paid.
+    - >-
+      The National Labour Court; the fee is the minimum for appeals.
+    - >-
+      A registrar of the regional court; a fixed fee is paid for each impairment.
+  correct: 0
+  explanation: >-
+    Appeals from NII medical appeals committees are in the Third Schedule, heard by a single judge
+    (Labour Court Law s. 18(ב)(1)); proceedings under NII Law s. 391 and the appeals in them are exempt
+    from fees (Fees Regulations reg. 4).

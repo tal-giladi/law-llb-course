@@ -12,12 +12,13 @@
 - Module 10: holdings of HCJ 5988/21, BRA 120/69 and BAM 7628/17 come only from a government bill's explanatory notes; review lesson 10.3 for neutrality.
 - Neutrality review done (curriculum/qa/neutrality-report.md): check the 06.6 government-side argument (written from memory) against HCJ 2412/23, and the pending media petitions in 06.4; the course mixes "Judea and Samaria" and "West Bank".
 - Links: 568 checked, 1 fixed; 18 gov.il/Kol-Zchut/court pages blocked automated access and need a manual click (curriculum/qa/link-report.md).
-- Year 1 ready to import: repo tal-giladi/law-llb-course, 12 modules, 89 lessons, 484 quiz questions, check-course 0 problems. Years 2–4 are planned, not written.
+- Years 1–2 ready to import: repo tal-giladi/law-llb-course, 22 modules, 183 lessons, 960 quiz questions, check-course 0 problems. Years 3–4 are planned, not written.
 - Module 13: Ganz (ע"א 2643/97) and Aharonov (ע"א 189/95) described without report citations; confirm whether a private person can file a caveat online end to end.
 - Module 16: nine corporate rulings cited from a secondary summary (Fiegenbaum & Licht 2017); Prat v. Dadon case number incomplete; check multi-founder online company registration.
 - Module 15: about 14 civil-procedure rulings sourced from Hebrew Wikipedia only (incl. רע"א 1954/24); 2026 appeal fees from Wikisource notes.
 - Module 18: many family-law rulings sourced from Wikipedia or Knesset documents (incl. בע"מ 919/15, Brill 7368/22); review module 18 for neutrality.
-- Module 17: expedited labour-hearing ceiling conflicts (₪40,700 Kol-Zchut vs ₪39,500 court fee table); NII appeal period 30 vs 90 days; pension-order rates from secondary sources.
+- Module 17: NII appeal period 30 vs 90 days; pension-order rates from secondary sources.
 - Module 19: ICC Palestine status confirmed only to January 2026; South Africa v. Israel counter-memorial status from South African statements only; review module 19 for neutrality.
 - Module 20: Adras (ד"נ 20/82) and Kestenbaum (ע"א 294/91) citations from memory; Sale Law s. 11(ד) amendment date (2022 vs 2023) conflict.
 - Module 21: the February 2025 Supreme Court case on AI-invented citations is from press reports only (no case number).
+- Year 2 QA (curriculum/qa/neutrality-report.md, Year 2 section): 8 review items, incl. repeated character patterns, territory-term house style, and a possibly wrong justice in the 5658/23 split. Module 22: labour-court online service and family-court Form 1 online filing for unrepresented parties unconfirmed.
