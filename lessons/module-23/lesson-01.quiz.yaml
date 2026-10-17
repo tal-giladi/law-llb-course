@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    In a small claim you want to file a short unsigned note from a neighbour who saw the delivery
+    man drop your television. The neighbour cannot come to court. What is the most accurate
+    prediction?
+  options:
+    - >-
+      The note is inadmissible hearsay and the court must refuse to read it.
+    - >-
+      The court may admit it, but is likely to give it little weight.
+    - >-
+      The court must treat it as full proof, since small claims has no evidence rules.
+    - >-
+      The note is admissible only if a lawyer confirms the neighbour's signature.
+  correct: 1
+  explanation: >-
+    Courts Law s. 62 lets the small claims court admit evidence that would be inadmissible
+    elsewhere (except privileged material), but admissibility is not weight: an untested note from
+    an absent witness usually counts for little.
+- id: q2
+  question: >-
+    The defendant's lawyer attaches thirty pages of printouts of Israeli statutes and rulings to
+    show the court "what the law is". How should this be understood?
+  options:
+    - >-
+      As evidence that must be proved by a certified copy from the Knesset.
+    - >-
+      As hearsay, admissible only through an expert in Israeli law.
+    - >-
+      As unnecessary: Israeli law is argued, not proved.
+    - >-
+      As a public document that must be authenticated under s. 32.
+  correct: 2
+  explanation: >-
+    Evidence Ordinance s. 57ב: every law is among the notorious matters that need no proof. Israeli
+    law is cited in argument; foreign law, by contrast, is a fact proved by expert evidence.
+- id: q3
+  question: >-
+    Two witnesses for the plaintiff contradict each other on the time of the accident (10:00 or
+    10:30). The defendant argues that the court therefore cannot find that an accident happened.
+    Which answer is right?
+  options:
+    - >-
+      Contradictions alone do not prevent the court from finding the facts they concern.
+    - >-
+      Any contradiction makes both testimonies inadmissible under s. 53.
+    - >-
+      The court must call a third witness before it may find any fact.
+    - >-
+      The court must disregard both witnesses and rely on documents only.
+  correct: 0
+  explanation: >-
+    Evidence Ordinance s. 57 says contradictions do not by themselves prevent findings on the facts
+    they concern; under s. 53 the judge weighs credibility and may accept parts of testimony.
+- id: q4
+  question: >-
+    In a criminal trial a police officer's hearsay account was admitted without objection by
+    mistake. On appeal, what decides whether the conviction stands?
+  options:
+    - >-
+      Nothing: evidence admitted without objection becomes admissible.
+    - >-
+      Whether the trial judge believed the officer, under s. 53.
+    - >-
+      Whether the defence later cross-examined the officer about it.
+    - >-
+      Whether the accused would have been convicted on other sufficient evidence.
+  correct: 3
+  explanation: >-
+    Evidence Ordinance s. 56: inadmissible evidence received by mistake in a criminal case cannot
+    support the verdict; the judgment stands only if, without it, there was other sufficient
+    evidence for conviction.

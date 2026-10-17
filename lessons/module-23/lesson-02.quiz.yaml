@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    Dani is charged with burglary of a shop. The prosecution wants to call his wife, who saw him
+    come home that night with the stolen goods. Dani objects. What is the rule?
+  options:
+    - >-
+      She must testify, because every competent person is compellable.
+    - >-
+      She may testify only if the shop owner, as victim, consents.
+    - >-
+      She is not competent against him; no s. 5 exception applies.
+    - >-
+      She may testify, but only by affidavit and not orally.
+  correct: 2
+  explanation: >-
+    Evidence Ordinance s. 3: in a criminal case a spouse is not competent to testify against the
+    accused spouse. The s. 5 exceptions (violence, family sexual offences, breach of a protection
+    order, a prior complaint by the witness) do not cover a shop burglary.
+- id: q2
+  question: >-
+    In a contract dispute the other side asks for the emails in which you asked your lawyer how to
+    get out of the deal. The judge says she might order disclosure "for the sake of justice". Is
+    she right?
+  options:
+    - >-
+      Yes, the court may lift any privilege where justice requires it.
+    - >-
+      No, the lawyer–client privilege is absolute and only you can waive it.
+    - >-
+      Yes, because the privilege belongs to the lawyer, not to you.
+    - >-
+      No, but only because the emails were sent before the claim was filed.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 48 has no "justice outweighs" clause, unlike ss. 49–50א. Communications
+    with a lawyer connected to the professional service are privileged unless the client waives.
+- id: q3
+  question: >-
+    You sue a bus company for a back injury from a sudden stop. The company asks for your medical
+    records. What is the correct position?
+  options:
+    - >-
+      Your records are privileged under s. 49 and the company cannot see them.
+    - >-
+      Only the court-appointed expert may see them, never the company.
+    - >-
+      You must hand over your entire medical history from birth without exception.
+    - >-
+      You must sign a medical waiver, but may object to records unrelated to the injury.
+  correct: 3
+  explanation: >-
+    In a bodily-injury claim the plaintiff attaches a medical confidentiality waiver (CPR reg. 15(3),
+    Form 1): putting your health in issue opens the relevant records. You can still ask the court
+    to limit the waiver to what is relevant.
+- id: q4
+  question: >-
+    A journalist is summoned in a civil defamation case and asked to name her source. What test
+    will the court apply?
+  options:
+    - >-
+      A relative privilege, lifted only if necessary on an essential matter.
+    - >-
+      An absolute privilege under s. 48, as for lawyers.
+    - >-
+      No privilege at all, since the Evidence Ordinance does not mention journalists.
+    - >-
+      A privilege that the source alone may waive, by signing a consent.
+  correct: 0
+  explanation: >-
+    In Citrin (MP 298/86) the Supreme Court recognised a case-law journalist's privilege that is
+    relative: the court may order disclosure where the question is relevant and disclosure is
+    necessary to do justice on an essential, serious matter.

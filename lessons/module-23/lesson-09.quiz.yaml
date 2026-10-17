@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Sapir's draft affidavit says: "The contractor is a crook who cheats everyone, as his Google
+    reviews show." What should she do with this paragraph?
+  options:
+    - >-
+      Keep it and attach the reviews as an exhibit to support it.
+    - >-
+      Keep it, but soften the wording to "unreliable".
+    - >-
+      Move it to the opening paragraph so the judge reads it first.
+    - >-
+      Delete it: it is argument and opinion, and the reviews are hearsay.
+  correct: 3
+  explanation: >-
+    An affidavit contains only facts the deponent knows personally (CPR reg. 178(א)). Labels like
+    "crook" are argument; strangers' online reviews are hearsay and irrelevant to her contract.
+- id: q2
+  question: >-
+    Your neighbour saw the foreman take your toilet bowl to his van. How should this fact reach the
+    court?
+  options:
+    - >-
+      Through the neighbour's own affidavit, written in her words, and her attendance.
+    - >-
+      Through a paragraph in your affidavit: "My neighbour told me she saw it."
+    - >-
+      Through an affidavit you write for the neighbour and she signs.
+    - >-
+      Through a WhatsApp message from the neighbour attached to your affidavit.
+  correct: 0
+  explanation: >-
+    Only the person who perceived a fact can prove it; your report of what she said is hearsay.
+    She should write and sign her own affidavit and attend cross-examination; drafting it for her
+    risks both credibility and the Bar Association Law s. 20 limit.
+- id: q3
+  question: >-
+    Your bank statement shows the ₪25,000 transfer to the contractor. The contractor disputes it.
+    What is the simplest way to lay the foundation for the statement?
+  options:
+    - >-
+      Your own testimony that you remember making the transfer.
+    - >-
+      A bank certificate meeting the s. 36 conditions.
+    - >-
+      A screenshot of your banking app filed without explanation.
+    - >-
+      A notarised translation of the statement into English.
+  correct: 1
+  explanation: >-
+    A bank statement is an institutional record (s. 35); a certificate from the bank about how it
+    records transactions and protects its systems lays the s. 36(א) foundation. Your testimony and
+    app screenshots help, but are weaker if disputed.
+- id: q4
+  question: >-
+    You signed your affidavit before a lawyer, filed it, and then noticed a wrong date in paragraph 7.
+    What is the correct step?
+  options:
+    - >-
+      Correct the date by hand on the filed copy at the hearing.
+    - >-
+      Ignore it; small mistakes do not matter in an affidavit.
+    - >-
+      Ask leave to file a corrected affidavit.
+    - >-
+      Withdraw the claim and file it again with a new affidavit.
+  correct: 2
+  explanation: >-
+    An affidavit is sworn evidence; an error should be corrected openly, by a corrected or
+    supplementary affidavit with the court's leave, before cross-examination exposes it. Sign only
+    after the final edit.

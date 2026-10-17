@@ -45,7 +45,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 22 — Clinic II: Work, Family and Home Without a Lawyer
 - [x] Year 2 QA: links, neutrality, Academy dry run
 - [x] Detailed lesson plan for year 3 (modules 23–31)
-- [ ] Module 23 — Evidence
+- [x] Module 23 — Evidence
 - [x] Module 24 — Criminal Procedure
 - [ ] Module 25 — Tax Law
 - [ ] Module 26 — Inheritance and Wills
@@ -59,7 +59,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 23: sub-agent A
+- Module 26: sub-agent A
 - Module 25: sub-agent B
 
 

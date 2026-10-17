@@ -22,3 +22,4 @@
 - Module 20: Adras (ד"נ 20/82) and Kestenbaum (ע"א 294/91) citations from memory; Sale Law s. 11(ד) amendment date (2022 vs 2023) conflict.
 - Module 21: the February 2025 Supreme Court case on AI-invented citations is from press reports only (no case number).
 - Year 2 QA (curriculum/qa/neutrality-report.md, Year 2 section): 8 review items, incl. repeated character patterns, territory-term house style, and a possibly wrong justice in the 5658/23 split. Module 22: labour-court online service and family-court Form 1 online filing for unrepresented parties unconfirmed.
+- Modules 23–24: about 14 evidence and criminal-procedure rulings sourced from Hebrew Wikipedia only; Evidence Ordinance s. 56א (2022) wording and start date not read from Reshumot.

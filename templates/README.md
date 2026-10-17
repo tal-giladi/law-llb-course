@@ -5,6 +5,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 ## All templates
 
 - [Administrative petition and affidavit (עתירה מינהלית ותצהיר)](administrative-petition.md)
+- [Affidavit and exhibit bundle (תצהיר עדות ראשית ותיק מוצגים)](affidavit-and-exhibit-bundle.md)
 - [Apartment purchase check (בדיקת דירה לפני רכישה – רשימת בדיקה)](apartment-purchase-check.md)
 - [Appeal against a decision to close a criminal file (ערר על החלטה לסגור תיק)](appeal-against-closing-file.md)
 - [Appeal outline (מתווה ערעור אזרחי)](appeal-outline.md)
@@ -65,4 +66,5 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Tort demand letter (מכתב דרישה לפיצוי בגין נזק)](tort-demand-letter.md)
 - [Treaty argument worksheet (גיליון עבודה: טיעון על בסיס אמנה בינלאומית)](treaty-argument-worksheet.md)
 - [Welfare and housing benefit review request (בקשה לעיון מחדש / ערעור / ערר בענייני הבטחת הכנסה, סיוע בשכר דירה ושירותי רווחה)](welfare-benefit-review-request.md)
+- [Witness examination plan (תכנית חקירת עדים)](witness-examination-plan.md)
 - [Written motion (בקשה בכתב)](written-motion.md)

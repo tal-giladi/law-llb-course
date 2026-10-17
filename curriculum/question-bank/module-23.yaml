@@ -1,0 +1,1484 @@
+- id: m23-001
+  module: 23
+  lesson: "23.1"
+  subject: four-layers
+  difficulty: 1
+  question: >-
+    A witness is allowed to testify, her testimony is admitted, but the judge does not believe
+    her. Which layer of evidence law did her testimony fail?
+  options:
+    - >-
+      Competence.
+    - >-
+      Admissibility.
+    - >-
+      Weight.
+    - >-
+      Relevance.
+  correct: 2
+  explanation: >-
+    She was competent and her testimony admissible; credibility is a question of weight, decided by
+    the court under Evidence Ordinance s. 53.
+- id: m23-002
+  module: 23
+  lesson: "23.1"
+  subject: relaxed-forums
+  difficulty: 2
+  question: >-
+    Bar-style: in which forum may the court admit evidence that would be inadmissible elsewhere,
+    but not privileged material, under an express statutory provision?
+  options:
+    - >-
+      The small claims court, under Courts Law s. 62.
+    - >-
+      The district court, under CPR reg. 67.
+    - >-
+      The magistrates' court on the fast track, under CPR reg. 79.
+    - >-
+      Every civil court, under Evidence Ordinance s. 53.
+  correct: 0
+  explanation: >-
+    Courts Law s. 62 allows the small claims court to admit otherwise inadmissible evidence, except
+    privileged material, and frees it from ordinary procedure. The other provisions do not.
+- id: m23-003
+  module: 23
+  lesson: "23.1"
+  subject: judicial-notice
+  difficulty: 2
+  question: >-
+    In an Israeli court a contract is governed by French law. How is the content of French law
+    established?
+  options:
+    - >-
+      The judge takes judicial notice of it under s. 57ב.
+    - >-
+      The parties simply cite French statutes in their summations.
+    - >-
+      The court applies Israeli law, since foreign law is never applied.
+    - >-
+      As a fact, usually proved by an expert opinion.
+  correct: 3
+  explanation: >-
+    Section 57ב makes every (Israeli) law judicially noticed. Foreign law is a question of fact,
+    proved by evidence, normally an expert opinion; module 30 covers choice of law.
+- id: m23-004
+  module: 23
+  lesson: "23.1"
+  subject: labour-court-evidence
+  difficulty: 2
+  question: >-
+    In an ordinary employee wage claim, the employer objects that the employee's evidence includes
+    a co-worker's unsigned note. Which rule applies to the labour court?
+  options:
+    - >-
+      The Evidence Ordinance applies in full, so the note must be excluded.
+    - >-
+      The labour court is not bound by the laws of evidence, save listed proceedings.
+    - >-
+      The note is admissible only if the co-worker signs it before a lawyer.
+    - >-
+      Only small claims rules apply, because wage claims are small.
+  correct: 1
+  explanation: >-
+    Labour Court Law s. 32: the labour court is not bound by the laws of evidence except in listed
+    proceedings. The note can be admitted; its weight will be low if the co-worker does not testify.
+- id: m23-005
+  module: 23
+  lesson: "23.1"
+  subject: credibility-appeal
+  difficulty: 2
+  question: >-
+    You lost a civil case because the judge believed the defendant's witness and not you. You want
+    to appeal "because the judge believed the wrong person". What is your realistic prospect?
+  options:
+    - >-
+      Good: the appeal court rehears the witnesses and decides afresh.
+    - >-
+      Good, if you file a new affidavit with the appeal.
+    - >-
+      Poor: credibility findings are for the trial court and rarely disturbed.
+    - >-
+      Poor, but only because appeals on facts need the defendant's consent.
+  correct: 2
+  explanation: >-
+    Credibility is for the trial court, which saw the witnesses (s. 53); appeal courts intervene in
+    such findings only exceptionally (ע״פ 524/81 ששון, as summarised in secondary sources).
+- id: m23-006
+  module: 23
+  lesson: "23.1"
+  subject: objections-timing
+  difficulty: 1
+  question: >-
+    When should you object to a question you think calls for inadmissible evidence in a civil
+    trial?
+  options:
+    - >-
+      At once, stating the ground, so the court can rule on the spot.
+    - >-
+      In written summations, after all the evidence is in.
+    - >-
+      In an appeal, since trial judges do not rule on objections.
+    - >-
+      Only after the witness has answered, to see if the answer hurts.
+  correct: 0
+  explanation: >-
+    CPR reg. 68: the objector states the grounds immediately, the other side answers immediately
+    and the court rules on the spot. A late objection may be treated as waived.
+- id: m23-007
+  module: 23
+  lesson: "23.1"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. A self-represented plaintiff's evidence plan says: "Small claims, so the court
+    will accept anything; I will submit my sister's summary of what the plumber told her, my lawyer's
+    advice letter and photos." Which item is the real problem?
+  options:
+    - >-
+      The photos, because small claims courts cannot view images.
+    - >-
+      The sister's summary, which the court is barred from reading.
+    - >-
+      None; small claims admits every kind of evidence.
+    - >-
+      The lawyer's letter: privilege is never relaxed.
+  correct: 3
+  explanation: >-
+    Courts Law s. 62 relaxes admissibility (the sister's hearsay summary may be read, with little
+    weight) but not privilege. Filing a privileged advice letter is pointless and may waive the
+    privilege on related advice.
+- id: m23-008
+  module: 23
+  lesson: "23.2"
+  subject: spouse-competence
+  difficulty: 1
+  question: >-
+    A man is charged with assaulting his wife. The prosecution calls the wife as a witness. May she
+    testify against him?
+  options:
+    - >-
+      No, a spouse is never competent against the accused spouse.
+    - >-
+      Yes: the bar does not apply to family violence.
+    - >-
+      Only if she testifies behind a screen.
+    - >-
+      Only if the husband consents in court.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 5(א)(1): the restrictions in ss. 3–4 do not apply in a criminal case for
+    bodily harm, violence or threats. She is competent and compellable.
+- id: m23-009
+  module: 23
+  lesson: "23.2"
+  subject: spouse-definition
+  difficulty: 3
+  question: >-
+    Yael and Itzik still live in the same flat but, for a year, have kept separate households
+    intending to divorce. Itzik is charged with fraud against his employer. May Yael testify against
+    him?
+  options:
+    - >-
+      No, because they are still legally married.
+    - >-
+      Only with the court's leave for special reasons.
+    - >-
+      Yes: s. 8 excludes spouses living apart to divorce.
+    - >-
+      No, because they live under one roof.
+  correct: 2
+  explanation: >-
+    Evidence Ordinance s. 8 excludes from "spouse" one who lives apart and does not keep a joint
+    household intending to end family life permanently, "even under one roof". The s. 3 bar does
+    not apply.
+- id: m23-010
+  module: 23
+  lesson: "23.2"
+  subject: self-incrimination
+  difficulty: 2
+  question: >-
+    In a civil debt claim you are asked whether you sold the goods without issuing invoices, which
+    could expose you to a tax offence. What may you do?
+  options:
+    - >-
+      Claim the privilege against self-incrimination for that question.
+    - >-
+      Refuse to testify at all for the rest of the trial.
+    - >-
+      Nothing: the privilege applies only in criminal trials.
+    - >-
+      Answer, because a civil court cannot pass information to the tax authority.
+  correct: 0
+  explanation: >-
+    Evidence Ordinance s. 47 protects any person from giving evidence that admits an element of an
+    offence he may be charged with; it applies in civil proceedings too, question by question.
+- id: m23-011
+  module: 23
+  lesson: "23.2"
+  subject: lawyer-privilege
+  difficulty: 2
+  question: >-
+    Who may waive the lawyer–client privilege over your emails with your lawyer?
+  options:
+    - >-
+      Your lawyer, if he thinks it helps the case.
+    - >-
+      The court, if justice requires disclosure.
+    - >-
+      The Bar Association, on a complaint.
+    - >-
+      Only you, as the client.
+  correct: 3
+  explanation: >-
+    Evidence Ordinance s. 48: the lawyer need not give the communications in evidence "unless the
+    client waived the privilege". The court has no power to lift it for justice.
+- id: m23-012
+  module: 23
+  lesson: "23.2"
+  subject: social-worker-privilege
+  difficulty: 2
+  question: >-
+    In a custody dispute, the father asks for the welfare department social worker's notes about
+    the mother's visits. What kind of privilege applies?
+  options:
+    - >-
+      None, because social workers are public servants.
+    - >-
+      An absolute privilege, like the lawyer's.
+    - >-
+      A relative privilege the court may lift.
+    - >-
+      A privilege only the social worker may waive.
+  correct: 2
+  explanation: >-
+    Evidence Ordinance s. 50א gives social workers a privilege like doctors and psychologists: the
+    client may waive it, or the court may lift it if the need for justice outweighs it; the claim
+    is heard in camera.
+- id: m23-013
+  module: 23
+  lesson: "23.2"
+  subject: mediation-confidentiality
+  difficulty: 1
+  question: >-
+    In a court-referred mediation the defendant said, "I know the roof leaked when I sold you the
+    house." The mediation failed. Can you prove that statement at the trial?
+  options:
+    - >-
+      Yes, it is an admission of a party.
+    - >-
+      No: mediation statements are not evidence.
+    - >-
+      Yes, if the mediator agrees to testify.
+    - >-
+      Only if you recorded it with the mediator's consent.
+  correct: 1
+  explanation: >-
+    Courts Law s. 79ג(ד): things said in a mediation process shall not serve as evidence in a civil
+    legal proceeding. Prove the knowledge by other evidence.
+- id: m23-014
+  module: 23
+  lesson: "23.2"
+  subject: journalist-privilege
+  difficulty: 3
+  question: >-
+    Police seek a photographer's pictures of a violent protest, saying they may identify the
+    attackers. The photographer claims journalist's privilege. Under Makor Rishon, which factor
+    weighs most strongly for lifting it?
+  options:
+    - >-
+      The photographer was paid by a newspaper.
+    - >-
+      The photographs are of high artistic quality.
+    - >-
+      There is no alternative source.
+    - >-
+      The protest took place on public land.
+  correct: 2
+  explanation: >-
+    In LCrimA 761/12 the Supreme Court applied the Citrin test: the privilege may be lifted where
+    the information is relevant and significant and the authorities have no available alternative.
+- id: m23-015
+  module: 23
+  lesson: "23.2"
+  subject: child-cross-examination
+  difficulty: 2
+  question: >-
+    An unrepresented accused charged with a listed offence against a child wants to cross-examine
+    the child victim himself. What is the rule?
+  options:
+    - >-
+      He may, because every accused may conduct his own defence.
+    - >-
+      He may, but only by written questions.
+    - >-
+      He may, if a social worker is present.
+    - >-
+      He may not; a defender questions the child.
+  correct: 3
+  explanation: >-
+    Examination of Witnesses Law s. 2ד: the accused may not personally cross-examine a child victim
+    of a listed offence; if unrepresented, the court appoints a defender for that purpose.
+- id: m23-016
+  module: 23
+  lesson: "23.3"
+  subject: hearsay-definition
+  difficulty: 1
+  question: >-
+    Which statement, repeated by a witness, is offered for a non-hearsay purpose?
+  options:
+    - >-
+      "The tenant told me the boiler was broken", to prove the boiler was broken.
+    - >-
+      "The guard said the car was red", to prove the car was red.
+    - >-
+      "I sent the landlord a cancellation notice", to prove notice was given.
+    - >-
+      "My doctor said I had a fracture", to prove the fracture.
+  correct: 2
+  explanation: >-
+    A notice of cancellation has legal effect by being given; proving it was given is not proving
+    the truth of its content. The others are offered to prove what they assert.
+- id: m23-017
+  module: 23
+  lesson: "23.3"
+  subject: section-9
+  difficulty: 2
+  question: >-
+    A passer-by shouted "He's running to the blue car!" seconds after a robbery and testifies at
+    trial. A police officer who heard the shout wants to repeat it. Under which section is the
+    officer's testimony admissible?
+  options:
+    - >-
+      Section 9, since the maker testifies.
+    - >-
+      Section 10, as a statement of a victim of violence.
+    - >-
+      Section 10א, as a written out-of-court statement.
+    - >-
+      It is inadmissible hearsay in any event.
+  correct: 0
+  explanation: >-
+    Evidence Ordinance s. 9 admits testimony about a statement made at the time of, or close to, an
+    alleged offence and directly about a relevant fact, if its maker testifies, as the passer-by
+    does.
+- id: m23-018
+  module: 23
+  lesson: "23.3"
+  subject: section-10a-pressure
+  difficulty: 3
+  question: >-
+    A key prosecution witness disappears before trial after threats. The prosecution wants to use
+    his signed police statement. What must the court be convinced of under s. 10א(ב)?
+  options:
+    - >-
+      That the accused personally made the threats.
+    - >-
+      That the witness's statement was video-recorded.
+    - >-
+      That the statement is the only evidence in the case.
+    - >-
+      That improper means kept him from testifying.
+  correct: 3
+  explanation: >-
+    Section 10א(ב) allows the statement when the maker cannot be brought, if the court is convinced
+    from the circumstances that improper means were used to deter or prevent testimony. Case law
+    has not required that the accused himself applied them.
+- id: m23-019
+  module: 23
+  lesson: "23.3"
+  subject: section-10b-consent
+  difficulty: 1
+  question: >-
+    Bar-style: under s. 10ב a written out-of-court statement is admissible in a criminal case even
+    if its maker does not testify, provided which conditions are met?
+  options:
+    - >-
+      The prosecutor certifies the statement is true.
+    - >-
+      Consent, undisputed content and a represented accused.
+    - >-
+      The maker is dead and the statement was signed.
+    - >-
+      The court finds the statement spontaneous.
+  correct: 1
+  explanation: >-
+    Section 10ב: admissible if both parties consented, the content was not in dispute and the
+    accused was represented by a lawyer.
+- id: m23-020
+  module: 23
+  lesson: "23.3"
+  subject: party-admission
+  difficulty: 2
+  question: >-
+    At a party, your former partner told several guests, "I took the money from the shared
+    account." How can you prove this in your civil claim against him?
+  options:
+    - >-
+      You cannot; statements at social events are hearsay.
+    - >-
+      Only by his written confession signed before a lawyer.
+    - >-
+      Through any guest who heard him say it, as his own admission.
+    - >-
+      Through your own affidavit saying the guests told you about it.
+  correct: 2
+  explanation: >-
+    A party's own out-of-court statement is admissible against him as an admission, through anyone
+    who heard it directly. Your report of what guests told you would be hearsay.
+- id: m23-021
+  module: 23
+  lesson: "23.3"
+  subject: child-investigator
+  difficulty: 2
+  question: >-
+    A 7-year-old's account of abuse was recorded by a child investigator, who testifies instead of
+    the child. What is needed to convict on that evidence?
+  options:
+    - >-
+      Corroboration in other evidence.
+    - >-
+      Nothing more, if the investigator is credible.
+    - >-
+      The child's own testimony as well.
+    - >-
+      A confession by the accused.
+  correct: 0
+  explanation: >-
+    Child Protection Law s. 9 admits the investigator's recording and notes; s. 11 bars conviction
+    on such evidence unless it has corroboration (סיוע) in other evidence.
+- id: m23-022
+  module: 23
+  lesson: "23.3"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this civil affidavit paragraph: "On 4 April the defendant told me by phone
+    that he had received my payment. My accountant later told me that the defendant's books show
+    the payment too."
+  options:
+    - >-
+      The first sentence: what the defendant said is hearsay.
+    - >-
+      Both sentences: an affidavit may not mention any conversation.
+    - >-
+      Neither: affidavits attached to pleadings may state anything.
+    - >-
+      The second sentence: the accountant's report of the books is hearsay.
+  correct: 3
+  explanation: >-
+    The defendant's own words are an admission of a party, admissible against him. What the
+    accountant said about the books is hearsay; prove the books by disclosure or by the accountant's
+    own testimony.
+- id: m23-023
+  module: 23
+  lesson: "23.3"
+  subject: conviction-in-civil
+  difficulty: 1
+  question: >-
+    The driver who hit your car was convicted by a final judgment of reckless driving. In your
+    civil claim against him, what is the status of the criminal judgment's findings?
+  options:
+    - >-
+      Inadmissible: criminal findings never bind civil courts.
+    - >-
+      Prima facie evidence of its findings against him.
+    - >-
+      Conclusive proof that cannot be rebutted in any way.
+    - >-
+      Admissible only if the prosecutor testifies.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 42א: findings and conclusions of a final convicting judgment are admissible
+    in a civil case as prima facie evidence against the convicted person; rebuttal needs leave
+    (s. 42ג).
+- id: m23-024
+  module: 23
+  lesson: "23.4"
+  subject: institutional-record-definition
+  difficulty: 1
+  question: >-
+    Which of these is an "institution" whose records can be institutional records under s. 35?
+  options:
+    - >-
+      A private individual keeping a personal diary.
+    - >-
+      Only government ministries.
+    - >-
+      Only banks, as before 1995.
+    - >-
+      Any business, including a profession.
+  correct: 3
+  explanation: >-
+    Section 35 defines "institution" as the State, a local authority, a business (including a
+    profession) or anyone who provides a service to the public.
+- id: m23-025
+  module: 23
+  lesson: "23.4"
+  subject: output-foundation
+  difficulty: 2
+  question: >-
+    What must be shown, in addition to the ordinary record conditions, for computer output to be
+    admitted as an institutional record?
+  options:
+    - >-
+      That a notary certified the printout.
+    - >-
+      Reliable production and reasonable system protection.
+    - >-
+      That the output was printed on the day of the event.
+    - >-
+      That the opposing party consented to its use.
+  correct: 1
+  explanation: >-
+    Section 36(א)(3) adds two conditions for output: the way it is produced indicates reliability,
+    and the institution regularly takes reasonable measures against intrusion into computer
+    material and disruption of the computer.
+- id: m23-026
+  module: 23
+  lesson: "23.4"
+  subject: bank-records
+  difficulty: 3
+  question: >-
+    You sue a former partner and need his bank's record of a transfer. The bank is not a party.
+    Bar-style: what route does the Evidence Ordinance give you?
+  options:
+    - >-
+      Subpoena the bank manager, who must testify about any account.
+    - >-
+      Ask the court for an order to inspect and copy the bank's record.
+    - >-
+      Write to the bank, which must reply within 30 days under s. 38.
+    - >-
+      Rely on the Privacy Law s. 13 right of access to his account.
+  correct: 1
+  explanation: >-
+    Section 38 bars compelling a bank that is not a party to produce its records except by court
+    order for special reason; s. 39 lets a party ask the court for an order to inspect and copy
+    entries. The s. 13 right covers only your own data.
+- id: m23-027
+  module: 23
+  lesson: "23.4"
+  subject: photocopy-output
+  difficulty: 1
+  question: >-
+    Under s. 41ב, computer output that is an institutional record is treated, for the photocopy
+    provisions, as what?
+  options:
+    - >-
+      As an original, not a copy.
+    - >-
+      As a photocopy that needs a certificate.
+    - >-
+      As hearsay that needs the clerk's testimony.
+    - >-
+      As a public document.
+  correct: 0
+  explanation: >-
+    Section 41ב: output that is an institutional record is not regarded as a copy of the document
+    from which it was produced, but as the original.
+- id: m23-028
+  module: 23
+  lesson: "23.4"
+  subject: public-documents
+  difficulty: 1
+  question: >-
+    How can you prove the content of a land-registry extract (a public document) in a civil case?
+  options:
+    - >-
+      Only by calling the Land Registrar to testify.
+    - >-
+      Only by the original register book.
+    - >-
+      By a copy certified by its custodian.
+    - >-
+      By your own description of what you saw online.
+  correct: 2
+  explanation: >-
+    Evidence Ordinance s. 32 lists ways to prove a public document, including a copy certified by
+    the official who has official custody of it; s. 34 presumes official seals and custody genuine.
+- id: m23-029
+  module: 23
+  lesson: "23.4"
+  subject: electronic-signature
+  difficulty: 1
+  question: >-
+    A message is signed with a certified electronic signature. What does it prove prima facie under
+    the Electronic Signature Law s. 3(ב)?
+  options:
+    - >-
+      Only that it was sent from an Israeli computer.
+    - >-
+      That it is unaltered and the holder signed it.
+    - >-
+      Nothing more than an unsigned email.
+    - >-
+      That its content is true.
+  correct: 1
+  explanation: >-
+    Section 3(ב): a message with a secure signature is prima facie unchanged after signing; with a
+    certified signature it is also prima facie signed by the holder of the signing device.
+- id: m23-030
+  module: 23
+  lesson: "23.4"
+  subject: digital-integrity
+  difficulty: 3
+  question: >-
+    The other side challenges your WhatsApp screenshot as "cropped and edited". What best answers
+    the challenge?
+  options:
+    - >-
+      An affidavit from a friend who saw the screenshot on your phone.
+    - >-
+      Printing the screenshot in colour on better paper.
+    - >-
+      Arguing that the other side bears the burden of proving forgery.
+    - >-
+      The full chat export and the original phone.
+  correct: 3
+  explanation: >-
+    Integrity and completeness are shown by the full export and the original on the device; give
+    reg. 71 notice to present it. Courts weigh unexplained screenshots lightly.
+- id: m23-031
+  module: 23
+  lesson: "23.4"
+  subject: old-documents
+  difficulty: 1
+  question: >-
+    You find a 25-year-old handwritten agreement between your grandfather and a neighbour in the
+    family's papers. What may the court presume under s. 43?
+  options:
+    - >-
+      That its content is true.
+    - >-
+      That it is in the apparent writer's hand and duly signed.
+    - >-
+      That it binds every later owner of the land.
+    - >-
+      Nothing, because only public documents carry presumptions.
+  correct: 1
+  explanation: >-
+    Section 43: for a document at least 20 years old from custody the court finds proper, it may
+    presume the handwriting and due execution by the person who appears to have made it.
+- id: m23-032
+  module: 23
+  lesson: "23.5"
+  subject: yissacharov-test
+  difficulty: 1
+  question: >-
+    In Yissacharov, what type of exclusionary doctrine did the Supreme Court adopt?
+  options:
+    - >-
+      An absolute rule excluding all illegally obtained evidence.
+    - >-
+      A rule excluding only confessions, never physical evidence.
+    - >-
+      A relative, discretionary doctrine based on the fair-trial right.
+    - >-
+      A deterrence rule applied only when police acted in bad faith.
+  correct: 2
+  explanation: >-
+    CrimA 5121/98 adopted a relative case-law doctrine: exclude if admission would substantially
+    violate the accused's right to a fair trial; it is preventive, not mainly deterrent.
+- id: m23-033
+  module: 23
+  lesson: "23.5"
+  subject: section-56a
+  difficulty: 2
+  question: >-
+    Bar-style: which factor is NOT listed in Evidence Ordinance s. 56א(א) for excluding illegally
+    obtained evidence?
+  options:
+    - >-
+      The nature and seriousness of the breach.
+    - >-
+      The extent to which the breach affected the evidence.
+    - >-
+      The public interest in admitting or excluding it.
+    - >-
+      Whether the accused has previous convictions.
+  correct: 3
+  explanation: >-
+    Section 56א(א) lists the nature and seriousness of the breach, its effect on the evidence and
+    the public interest in admitting or not admitting it. Previous convictions are not a factor.
+- id: m23-034
+  module: 23
+  lesson: "23.5"
+  subject: eavesdropping-exception
+  difficulty: 3
+  question: >-
+    Police intercepted calls without a warrant by mistake, in good faith, believing they had one.
+    In a murder trial, can the recording be admitted under Eavesdropping Law s. 13?
+  options:
+    - >-
+      Never; unlawful eavesdropping is always inadmissible.
+    - >-
+      Possibly, if special reasons favour truth.
+    - >-
+      Yes, automatically, because murder is a serious felony.
+    - >-
+      Only with the accused's consent.
+  correct: 1
+  explanation: >-
+    Section 13(א)(2) allows unlawfully intercepted material in a serious felony case if the court,
+    for special reasons, finds truth outweighs privacy; for an authority that could get a warrant,
+    only if the error was in good faith; the Attorney General's approval is needed (13(א1)).
+- id: m23-035
+  module: 23
+  lesson: "23.5"
+  subject: privacy-32
+  difficulty: 2
+  question: >-
+    In a business dispute the defendant offers your private letters to your accountant, which his
+    employee copied from your office without permission. What is the starting point?
+  options:
+    - >-
+      Inadmissible without consent, unless the court allows it.
+    - >-
+      Admissible, since copying letters is not a privacy infringement.
+    - >-
+      Admissible, because civil courts have no exclusionary rules.
+    - >-
+      Inadmissible only if the employee is convicted of a crime.
+  correct: 0
+  explanation: >-
+    Copying a writing not meant for publication without permission infringes privacy (Privacy Law
+    s. 2(5)); s. 32 makes such material inadmissible without the victim's consent unless the court
+    allows it or the infringer has a defence.
+- id: m23-036
+  module: 23
+  lesson: "23.5"
+  subject: shemesh-timing
+  difficulty: 3
+  question: >-
+    A suspect asks the magistrate at a remand hearing to exclude evidence obtained unlawfully, before
+    any indictment. Following the further hearing in Shemesh, what is the position?
+  options:
+    - >-
+      The magistrate must exclude it at once to protect the suspect.
+    - >-
+      The Supreme Court decides exclusion at the investigation stage.
+    - >-
+      Exclusion is decided by the trial court once an indictment is filed.
+    - >-
+      Exclusion can never be raised in criminal proceedings.
+  correct: 2
+  explanation: >-
+    In דנ״פ 5852/10 Shemesh the further hearing held that admissibility under the Yissacharov
+    doctrine is for the trial court after an indictment, which sees the whole picture (secondary
+    summary).
+- id: m23-037
+  module: 23
+  lesson: "23.5"
+  subject: neutrality-arguments
+  difficulty: 2
+  question: >-
+    Which argument was the core of Justice Grunis's dissent in Yissacharov?
+  options:
+    - >-
+      That all illegally obtained evidence should be excluded automatically.
+    - >-
+      That such a doctrine is for the Knesset, not the courts.
+    - >-
+      That the Basic Law requires the American fruit-of-the-tree rule.
+    - >-
+      That confessions should never be admissible.
+  correct: 1
+  explanation: >-
+    Justice Grunis doubted that a broad doctrine should be created by case law instead of the
+    Knesset; on the facts he would not have excluded, since the soldier had been told of his right
+    to silence. The Knesset later enacted s. 56א.
+- id: m23-038
+  module: 23
+  lesson: "23.5"
+  subject: forum-choice
+  difficulty: 2
+  question: >-
+    Which provision governs privacy-infringing evidence in a civil tort claim?
+  options:
+    - >-
+      Evidence Ordinance s. 56א.
+    - >-
+      Evidence Ordinance s. 12.
+    - >-
+      Criminal Procedure Law s. 74.
+    - >-
+      Protection of Privacy Law s. 32.
+  correct: 3
+  explanation: >-
+    Section 56א is limited to criminal trials and s. 12 to confessions. Privacy Law s. 32 applies
+    in every court, including civil courts.
+- id: m23-039
+  module: 23
+  lesson: "23.5"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. A tenant's plan: "I'll install a hidden recorder in the landlord's office
+    during the inspection and leave it there to capture what he tells his agent; then I'll use it in
+    small claims, which accepts anything." What is wrong?
+  options:
+    - >-
+      Nothing, as long as the tenant transcribes the recording.
+    - >-
+      Only that small claims needs notice three days before.
+    - >-
+      Only that a recording must be under ten minutes.
+    - >-
+      It is a crime, and the recording is inadmissible in any court.
+  correct: 3
+  explanation: >-
+    Recording others' conversation without any party's consent is secret eavesdropping, a crime
+    (Eavesdropping Law s. 2), and inadmissible in any civil court (s. 13). Courts Law s. 62 does not
+    change that.
+- id: m23-040
+  module: 23
+  lesson: "23.6"
+  subject: burden-default
+  difficulty: 1
+  question: >-
+    In a debt claim the defendant admits the loan but says he repaid it. Who must prove repayment?
+  options:
+    - >-
+      The plaintiff, who must prove the debt is still owed.
+    - >-
+      The defendant, because repayment is his defence.
+    - >-
+      Nobody; the court presumes repayment after one year.
+    - >-
+      The court, by ordering a bank inquiry.
+  correct: 1
+  explanation: >-
+    Whoever asserts a fact on which his claim or defence depends must prove it; repayment is the
+    defendant's defence, so he bears the burden.
+- id: m23-041
+  module: 23
+  lesson: "23.6"
+  subject: criminal-standard
+  difficulty: 1
+  question: >-
+    What is the standard of proof for criminal liability under Penal Law s. 34כב(א)?
+  options:
+    - >-
+      Balance of probabilities.
+    - >-
+      Clear and convincing evidence.
+    - >-
+      Beyond reasonable doubt.
+    - >-
+      Prima facie evidence.
+  correct: 2
+  explanation: >-
+    Section 34כב(א): no one is criminally liable unless the offence is proved beyond reasonable
+    doubt.
+- id: m23-042
+  module: 23
+  lesson: "23.6"
+  subject: res-ipsa
+  difficulty: 2
+  question: >-
+    A lift in a building managed by a company drops two floors and injures you. You cannot know
+    why. Which provision may shift the burden of proving negligence to the company?
+  options:
+    - >-
+      Civil Wrongs Ordinance s. 41.
+    - >-
+      Evidence Ordinance s. 57א (manufacturer's presumption).
+    - >-
+      Penal Law s. 34כב (reasonable doubt).
+    - >-
+      Wage Protection Law s. 26ב.
+  correct: 0
+  explanation: >-
+    Section 41 shifts the burden where the plaintiff could not know the circumstances, the damage
+    was caused by property in the defendant's full control, and the event fits negligence better.
+- id: m23-043
+  module: 23
+  lesson: "23.6"
+  subject: posted-letter
+  difficulty: 2
+  question: >-
+    You sent a cancellation notice by properly addressed, prepaid post. The other side says it never
+    arrived. What does Evidence Ordinance s. 57ג provide?
+  options:
+    - >-
+      Posting proves nothing; you must prove actual receipt.
+    - >-
+      The notice is effective only from the day it is signed for.
+    - >-
+      Service is conclusively proved and cannot be challenged.
+    - >-
+      Delivery is presumed unless the contrary is proved.
+  correct: 3
+  explanation: >-
+    Section 57ג: where a law allows service by post, it is deemed effected by posting a properly
+    addressed prepaid letter, at the time it would arrive in the ordinary course of post, unless
+    the contrary is proved.
+- id: m23-044
+  module: 23
+  lesson: "23.6"
+  subject: intermediate-standard
+  difficulty: 3
+  question: >-
+    In a civil claim you allege that the defendant forged your signature. Following Zikri, what
+    should you expect?
+  options:
+    - >-
+      Proof beyond reasonable doubt, as in a criminal trial.
+    - >-
+      A stronger evidential showing because the allegation is serious.
+    - >-
+      No change; any allegation is proved by the same bare balance.
+    - >-
+      Automatic referral to the police before the civil case proceeds.
+  correct: 1
+  explanation: >-
+    In ע״א 475/81 Zikri, Justice Barak held the standard stays the balance of probabilities but
+    serious allegations need stronger evidence; Justice Bach favoured an intermediate standard.
+    Either way, expect to need strong proof.
+- id: m23-045
+  module: 23
+  lesson: "23.6"
+  subject: malul
+  difficulty: 3
+  question: >-
+    Your expert says there is a 40% chance the hospital's negligence caused your injury. Following
+    Malul, what is the likely result in an ordinary single-plaintiff case?
+  options:
+    - >-
+      40% of the damages, as proportional liability.
+    - >-
+      Full damages, because negligence was proved.
+    - >-
+      The causation claim fails.
+    - >-
+      A retrial before a court-appointed expert.
+  correct: 2
+  explanation: >-
+    In FH 4693/05 Malul the majority kept the all-or-nothing balance of probabilities, allowing
+    proportional liability only in narrow recurring-risk cases. At 40% you have not proved
+    causation.
+- id: m23-046
+  module: 23
+  lesson: "23.6"
+  subject: discrimination-burden
+  difficulty: 2
+  question: >-
+    An employee dismissed after returning from reserve duty proves her conduct gave no reason for
+    dismissal. Under the Equal Employment Opportunities Law s. 9(א)(2), what follows?
+  options:
+    - >-
+      The employer must prove it did not act in breach of s. 2.
+    - >-
+      The employee must still prove the discriminatory motive.
+    - >-
+      The court must reinstate her automatically.
+    - >-
+      The case goes to the Equal Opportunities Commission first.
+  correct: 0
+  explanation: >-
+    Section 9(א)(2): in a dismissal, once the employee proves there was no reason in her conduct
+    for the dismissal, the burden is on the employer to prove it did not discriminate.
+- id: m23-047
+  module: 23
+  lesson: "23.6"
+  subject: manufacturer-presumption
+  difficulty: 2
+  question: >-
+    A jar of jam bears the brand "Shaked Farms". In a consumer claim, what does that name prove
+    under s. 57א(א)?
+  options:
+    - >-
+      Conclusively that Shaked Farms made it.
+    - >-
+      Nothing, unless an invoice shows the origin.
+    - >-
+      Only that Shaked Farms sold it to the shop.
+    - >-
+      Prima facie that it made the jam.
+  correct: 3
+  explanation: >-
+    Section 57א(א): a manufacturer's name, business name or trademark on goods or packaging is prima
+    facie evidence that it manufactured, grew or packed them.
+- id: m23-048
+  module: 23
+  lesson: "23.7"
+  subject: medical-opinion-timing
+  difficulty: 1
+  question: >-
+    Bar-style: in a civil personal-injury claim, when must the plaintiff's medical expert opinion
+    be filed?
+  options:
+    - >-
+      With the statement of claim.
+    - >-
+      Ninety days before the evidence hearing.
+    - >-
+      After the defendant's opinion, as a reply.
+    - >-
+      At the pre-trial hearing.
+  correct: 0
+  explanation: >-
+    CPR reg. 87(א): a party proving a medical matter attaches the expert's opinion to its pleading.
+    The 90-day period in reg. 87(ה) is for non-medical opinions.
+- id: m23-049
+  module: 23
+  lesson: "23.7"
+  subject: defence-examination
+  difficulty: 2
+  question: >-
+    After you filed your medical opinion, the defendant demands in writing that you be examined by
+    its doctor. What must you do?
+  options:
+    - >-
+      Refuse; you are not obliged to see the other side's doctor.
+    - >-
+      Agree only if the court orders it after a hearing.
+    - >-
+      Comply without delay unless you have a justification to refuse.
+    - >-
+      Agree only if the defendant pays you for the day.
+  correct: 2
+  explanation: >-
+    CPR reg. 87(ב): the plaintiff must comply with the defendant's written demand for examination
+    by its expert without delay, unless refusal is justified; the opinion must be given to the
+    plaintiff.
+- id: m23-050
+  module: 23
+  lesson: "23.7"
+  subject: expert-declaration
+  difficulty: 1
+  question: >-
+    Why must an expert opinion contain the expert's declaration that s. 25 is known to him?
+  options:
+    - >-
+      Because the opinion counts as sworn testimony.
+    - >-
+      Because only declared experts may charge fees.
+    - >-
+      Because it makes the opinion binding on the court.
+    - >-
+      Because it waives the right to cross-examine the expert.
+  correct: 0
+  explanation: >-
+    Evidence Ordinance s. 25: an opinion filed in evidence is treated as sworn testimony for the
+    perjury offence, and every opinion must declare that the expert knows this.
+- id: m23-051
+  module: 23
+  lesson: "23.7"
+  subject: lay-opinion
+  difficulty: 2
+  question: >-
+    Your neighbour, a retired teacher, is willing to testify that the crack in your wall "was
+    certainly caused by the excavation next door". How will the court treat that statement?
+  options:
+    - >-
+      As expert evidence, because he has lived next to the wall for years.
+    - >-
+      As admissible opinion if he signs an affidavit.
+    - >-
+      As binding unless the defendant brings an expert.
+    - >-
+      As inadmissible lay opinion; he may state what he saw.
+  correct: 3
+  explanation: >-
+    Under the opinion rule a lay witness testifies to facts; causation of structural damage needs
+    an expert (Evidence Ordinance s. 20). He may testify when the crack appeared and what he saw.
+- id: m23-052
+  module: 23
+  lesson: "23.7"
+  subject: court-expert-conflict
+  difficulty: 2
+  question: >-
+    The court proposes to appoint an engineer who gave an opinion to the defendant eight months
+    ago in another matter. What do the Experts Regulations say?
+  options:
+    - >-
+      Nothing; past work for a party is irrelevant.
+    - >-
+      He is treated as possibly conflicted.
+    - >-
+      He may be appointed only if the defendant consents.
+    - >-
+      He may be appointed if he discloses the fee he received.
+  correct: 1
+  explanation: >-
+    Experts Regulations reg. 16(ד)(3): an expert who gave an opinion or other service to one of the
+    parties in the last year is regarded as possibly in a conflict of interest.
+- id: m23-053
+  module: 23
+  lesson: "23.7"
+  subject: medical-records
+  difficulty: 1
+  question: >-
+    Your hospital refuses to give you your own medical file for your expert. Which law gives you
+    the right to it?
+  options:
+    - >-
+      The Freedom of Information Law, only for public hospitals.
+    - >-
+      Evidence Ordinance s. 49, the medical privilege.
+    - >-
+      The Patient's Rights Law s. 18.
+    - >-
+      The Civil Procedure Regulations reg. 87.
+  correct: 2
+  explanation: >-
+    Patient's Rights Law s. 18(א): a patient is entitled to receive medical information from his
+    record, including a copy; refusal is allowed only in narrow cases reviewed by an ethics
+    committee.
+- id: m23-054
+  module: 23
+  lesson: "23.7"
+  subject: family-court-expert
+  difficulty: 3
+  question: >-
+    In a custody case the family court appointed a psychologist as its expert. The mother wants to
+    file her own psychologist's opinion. What is the rule?
+  options:
+    - >-
+      She may do so only with the court's leave.
+    - >-
+      She may do so as of right within 30 days.
+    - >-
+      She may never do so in family matters.
+    - >-
+      She may do so only if the father consents.
+  correct: 0
+  explanation: >-
+    Family Court Law s. 8(ג): where the court appointed an expert or adviser, a party may not bring
+    additional expert evidence of its own without the court's leave.
+- id: m23-055
+  module: 23
+  lesson: "23.8"
+  subject: confession-admissibility
+  difficulty: 1
+  question: >-
+    What must the prosecution show before a confession is admitted under Evidence Ordinance s. 12?
+  options:
+    - >-
+      That the accused signed it before a lawyer.
+    - >-
+      That it was video-recorded in every case.
+    - >-
+      That the confession is supported by "something extra".
+    - >-
+      The circumstances, and that it was free and voluntary.
+  correct: 3
+  explanation: >-
+    Section 12(א): evidence of a confession is admissible only if the prosecution brings evidence of
+    the circumstances and the court finds it free and voluntary. "Something extra" concerns
+    conviction, not admissibility.
+- id: m23-056
+  module: 23
+  lesson: "23.8"
+  subject: accomplice
+  difficulty: 2
+  question: >-
+    An ordinary accomplice (no benefit promised) is the only witness against the accused. What does
+    s. 54א(א) require for conviction?
+  options:
+    - >-
+      Corroboration implicating the accused.
+    - >-
+      Something to strengthen the testimony.
+    - >-
+      Nothing, if the accomplice is believed.
+    - >-
+      A confession by the accused.
+  correct: 1
+  explanation: >-
+    Section 54א(א): no conviction on an accomplice's sole testimony without something in the
+    evidence to strengthen it (חיזוק); corroboration (סיוע) is required only for a state witness.
+- id: m23-057
+  module: 23
+  lesson: "23.8"
+  subject: silence-reply
+  difficulty: 2
+  question: >-
+    At the start of the trial the accused refuses to answer the charge. What consequence does
+    Criminal Procedure Law s. 152(ב) allow?
+  options:
+    - >-
+      The court must enter a guilty plea.
+    - >-
+      The court must acquit for lack of a plea.
+    - >-
+      It may strengthen the prosecution's evidence.
+    - >-
+      The trial is postponed until he answers.
+  correct: 2
+  explanation: >-
+    Section 152(ב): refusal to answer the charge or the court's questions may strengthen the weight
+    of the prosecution's evidence; the court must explain this to the accused.
+- id: m23-058
+  module: 23
+  lesson: "23.8"
+  subject: sex-offence-reasons
+  difficulty: 2
+  question: >-
+    A court convicts of a sexual offence on the complainant's sole testimony. What must it do under
+    s. 54א(ב)?
+  options:
+    - >-
+      Require corroboration before conviction.
+    - >-
+      Obtain the Attorney General's approval.
+    - >-
+      Refer the case to a panel of three judges.
+    - >-
+      Give reasons for relying on it alone.
+  correct: 3
+  explanation: >-
+    Section 54א(ב): a conviction for a sexual offence on the victim's sole testimony is allowed, but
+    the verdict must state what moved the court to rely on it alone.
+- id: m23-059
+  module: 23
+  lesson: "23.8"
+  subject: no-case
+  difficulty: 2
+  question: >-
+    Bar-style: at the end of the prosecution case the evidence does not prove guilt even prima
+    facie. What does Criminal Procedure Law s. 158 provide?
+  options:
+    - >-
+      The court acquits the accused.
+    - >-
+      The defence must still present its case.
+    - >-
+      The prosecution may reopen its case as of right.
+    - >-
+      The court convicts if the accused stays silent.
+  correct: 0
+  explanation: >-
+    Section 158: if at the end of the prosecution case guilt is not proved even prima facie, the
+    court acquits, after hearing the prosecutor, at the defence's request or on its own initiative.
+- id: m23-060
+  module: 23
+  lesson: "23.8"
+  subject: recording-interrogation
+  difficulty: 2
+  question: >-
+    A suspect in a listed serious offence is interrogated at a police station. How must the
+    interrogation be documented under the Interrogation of Suspects Law, as a rule?
+  options:
+    - >-
+      In writing only, signed by the suspect.
+    - >-
+      By video, save stated exceptions.
+    - >-
+      By audio only, to protect the suspect's privacy.
+    - >-
+      Not at all, unless the suspect asks.
+  correct: 1
+  explanation: >-
+    Interrogation of Suspects Law s. 7: interrogation at a station for a listed offence is
+    video-recorded, except where a senior officer directs audio or written recording because of a
+    technical failure or a practical need, with written reasons.
+- id: m23-061
+  module: 23
+  lesson: "23.8"
+  subject: hierarchy
+  difficulty: 3
+  question: >-
+    Rank the evidential additions from the lightest to the heaviest.
+  options:
+    - >-
+      Corroboration, strengthening, something extra.
+    - >-
+      Strengthening, something extra, corroboration.
+    - >-
+      Something extra, strengthening, corroboration.
+    - >-
+      Something extra, corroboration, strengthening.
+  correct: 2
+  explanation: >-
+    "Something extra" for a confession can be slight; strengthening confirms the testimony from
+    another source; corroboration must independently implicate the accused on a disputed point.
+- id: m23-062
+  module: 23
+  lesson: "23.8"
+  subject: section-162-limit
+  difficulty: 3
+  question: >-
+    An accused does not testify. For which evidence may his silence NOT serve as corroboration under
+    Criminal Procedure Law s. 162(א)?
+  options:
+    - >-
+      A state witness's testimony.
+    - >-
+      A recanting witness's police statement.
+    - >-
+      An accomplice's testimony.
+    - >-
+      Child-investigator evidence.
+  correct: 3
+  explanation: >-
+    Section 162(א): silence may strengthen and corroborate prosecution evidence, but not for the
+    corroboration required by s. 11 of the Child Protection Law, or under the law on investigating
+    people with disabilities.
+- id: m23-063
+  module: 23
+  lesson: "23.9"
+  subject: affidavit-belief
+  difficulty: 2
+  question: >-
+    In which affidavit may you state facts "to the best of my knowledge and belief"?
+  options:
+    - >-
+      In an affidavit attached to a pleading, stating the source.
+    - >-
+      In an affidavit in lieu of main testimony, without restriction.
+    - >-
+      In no affidavit at all.
+    - >-
+      Only in an affidavit to the Execution Office.
+  correct: 0
+  explanation: >-
+    CPR reg. 178(א): an affidavit contains facts within personal knowledge; an affidavit attached to
+    a pleading may also state knowledge or belief, provided the source is given.
+- id: m23-064
+  module: 23
+  lesson: "23.9"
+  subject: affidavit-confirmation
+  difficulty: 1
+  question: >-
+    Before whom may you sign your affidavit so that the warning is validly confirmed under Evidence
+    Ordinance s. 15(ב)?
+  options:
+    - >-
+      Any two adult witnesses.
+    - >-
+      A bank clerk who knows you.
+    - >-
+      A lawyer or other listed person.
+    - >-
+      Your employer, on company letterhead.
+  correct: 2
+  explanation: >-
+    Section 15(ב) lists who gives and confirms the warning: a judge, a religious-court judge, listed
+    prosecutors, a lawyer, a local authority head, or another person authorised by the Minister.
+- id: m23-065
+  module: 23
+  lesson: "23.9"
+  subject: no-show-deponent
+  difficulty: 2
+  question: >-
+    Your witness filed an affidavit in lieu of main testimony but does not come for cross-examination.
+    What is the effect?
+  options:
+    - >-
+      The affidavit stands with reduced weight.
+    - >-
+      The affidavit is not evidence.
+    - >-
+      The court must postpone until the witness can come.
+    - >-
+      The other side must prove the affidavit false.
+  correct: 1
+  explanation: >-
+    CPR reg. 178(ב): an affidavit in lieu of main testimony is evidence only if the deponent came for
+    cross-examination.
+- id: m23-066
+  module: 23
+  lesson: "23.9"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in an exhibit index row: "נספח 6 – צילום מסך של פוסט בפייסבוק שבו כתב אדם
+    אנונימי שהנתבע רימה גם אותו; מקור: חבר שלח לי."
+  options:
+    - >-
+      Only that the date is missing.
+    - >-
+      Only that it should be numbered נספח 1.
+    - >-
+      Nothing; any screenshot is admissible.
+    - >-
+      Unverifiable anonymous hearsay: drop it.
+  correct: 3
+  explanation: >-
+    An anonymous stranger's post is hearsay with no way to test or authenticate it, and it is about
+    a different transaction. It adds nothing and invites an attack on your credibility.
+- id: m23-067
+  module: 23
+  lesson: "23.10"
+  subject: leading-questions
+  difficulty: 1
+  question: >-
+    In which part of a witness's testimony are leading questions the normal tool?
+  options:
+    - >-
+      Cross-examination.
+    - >-
+      Examination in chief.
+    - >-
+      Re-examination.
+    - >-
+      The witness's oath.
+  correct: 0
+  explanation: >-
+    Leading questions are for cross-examination; in chief and in re-examination you ask open
+    questions so the witness speaks for himself.
+- id: m23-068
+  module: 23
+  lesson: "23.10"
+  subject: unfair-questions
+  difficulty: 2
+  question: >-
+    The defendant's lawyer asks you, in a contract case, about your divorce and your children's
+    school grades "to test your reliability". What may you ask the court?
+  options:
+    - >-
+      Nothing; any question is allowed in cross-examination.
+    - >-
+      To close the hearing to the public.
+    - >-
+      To disallow it as irrelevant and unfair questioning.
+    - >-
+      To fine the lawyer under reg. 60.
+  correct: 2
+  explanation: >-
+    Examination of Witnesses Law s. 2: the court will not allow questioning that is irrelevant and
+    unfair, especially insulting or shaming questions. Object and ask the court to disallow it.
+- id: m23-069
+  module: 23
+  lesson: "23.10"
+  subject: rebuttal-evidence
+  difficulty: 2
+  question: >-
+    After the defendant's evidence, you want to call a new witness to rebut a point raised for the
+    first time. What do you need?
+  options:
+    - >-
+      Nothing; the plaintiff always has the last word.
+    - >-
+      The court's leave.
+    - >-
+      The defendant's consent in writing.
+    - >-
+      A new statement of claim.
+  correct: 1
+  explanation: >-
+    CPR reg. 66: the plaintiff's case comes first, then the defence; rebuttal evidence requires the
+    court's leave.
+- id: m23-070
+  module: 23
+  lesson: "23.10"
+  subject: summations
+  difficulty: 3
+  question: >-
+    Which summation structure best fits Israeli civil practice for a self-represented plaintiff?
+  options:
+    - >-
+      A retelling of the story from the beginning, with the emotional impact.
+    - >-
+      A list of all the defendant's lies, with adjectives.
+    - >-
+      Quotes from as many Supreme Court rulings as possible.
+    - >-
+      Element by element: what had to be proved, the evidence, the burden.
+  correct: 3
+  explanation: >-
+    Summations connect each element of the cause of action to the evidence (exhibits, transcript
+    pages), address who bore the burden and why the other side's evidence does not displace yours,
+    then the remedy.

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    You sue a shop for a refund, claiming the washing machine was faulty on delivery. At the end of
+    the trial the judge finds the evidence on that point exactly balanced. What is the result?
+  options:
+    - >-
+      The shop loses, because a seller must prove the goods were sound.
+    - >-
+      You lose on that point, because you bear the burden of persuasion.
+    - >-
+      The court splits the refund in half to reflect the doubt.
+    - >-
+      The court must appoint an expert and reopen the evidence.
+  correct: 1
+  explanation: >-
+    Whoever claims must prove; the plaintiff bears the burden of persuasion on the elements of the
+    claim, and a perfectly balanced finding goes against the party bearing it. Malul rejected
+    general proportional awards.
+- id: q2
+  question: >-
+    An accused claims self-defence. The judge is not persuaded it is more likely than not, but
+    thinks there is a reasonable possibility he acted in self-defence. What follows?
+  options:
+    - >-
+      Conviction, because the accused failed to prove his defence on the balance.
+    - >-
+      Conviction, unless the accused testifies and is believed.
+    - >-
+      Acquittal, because an unremoved reasonable doubt about a defence applies it.
+    - >-
+      A retrial before another judge on the self-defence issue only.
+  correct: 2
+  explanation: >-
+    Penal Law s. 34כב(ב): if a reasonable doubt arises that a defence applies and is not removed,
+    the defence applies. The accused need not prove it on the balance of probabilities.
+- id: q3
+  question: >-
+    A gas cylinder stored by a restaurant explodes and damages your car parked outside. You cannot
+    know exactly why it exploded. Which rule helps you most?
+  options:
+    - >-
+      Civil Wrongs Ordinance s. 38: the owner must prove it was not negligent.
+    - >-
+      Evidence Ordinance s. 57א: the manufacturer's name proves who made it.
+    - >-
+      Penal Law s. 34כב: the restaurant must prove its innocence.
+    - >-
+      Nothing; you must prove the precise cause of the explosion.
+  correct: 0
+  explanation: >-
+    Section 38 shifts the burden for damage caused by a dangerous thing to its owner or keeper, who
+    must prove there was no negligence. Section 41 (res ipsa) may also help where the restaurant
+    had full control.
+- id: q4
+  question: >-
+    A waiter claims unpaid overtime of 10 hours a week. The employer kept no attendance records
+    although required to. Who must prove how many hours he worked?
+  options:
+    - >-
+      The waiter, because he is the claimant.
+    - >-
+      The waiter, unless he brings a co-worker to confirm the hours.
+    - >-
+      Nobody; the court estimates the hours from the payslips.
+    - >-
+      The employer, within the statutory cap.
+  correct: 3
+  explanation: >-
+    Wage Protection Law s. 26ב: if the employer does not produce the time records it must keep, it
+    bears the burden of proving the employee did not work the disputed hours; for overtime the
+    shift is capped at 15 hours a week or 60 a month.

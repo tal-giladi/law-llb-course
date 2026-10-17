@@ -1,0 +1,36 @@
+- **דיני ראיות** (dinei re'ayot) — Evidence law: the rules on who may testify, what the court may receive, what it proves and who must prove it.
+- **כשרות להעיד** (kashrut le'hayid) — Competence to testify; everyone is competent, with criminal-law exceptions for spouses, parents and children (Evidence Ordinance ss. 2–5).
+- **קבילות** (kvilut) — Admissibility: whether the court may receive an item of evidence at all.
+- **משקל ראייתי** (mishkal re'ayati) — Weight: how much an admitted item proves; decided by the court on credibility and circumstances (Evidence Ordinance s. 53).
+- **דיות** (dayut) — Sufficiency: whether admitted, credited evidence is enough, including corroboration requirements.
+- **ידיעה שיפוטית** (yedi'a shiputit) — Judicial notice: facts and law the court takes without proof; every Israeli law is judicially noticed (s. 57ב), foreign law must be proved.
+- **עדות שמיעה / עדות מפי השמועה** (edut shmi'a / edut mipi hashmu'a) — Hearsay: an out-of-court statement offered to prove that its content is true.
+- **אמרת חוץ** (imrat chutz) — Out-of-court statement; in criminal cases a witness's written statement may be admitted under s. 10א.
+- **הודיית בעל דין** (hodayat ba'al din) — Admission of a party: the opposing party's own statement, admissible against him.
+- **רס גסטה** (res gestae) — Spontaneous statements made in the excitement of an event, admitted as an exception to hearsay.
+- **חוקר ילדים** (choker yeladim) — Child investigator who records a child's account in listed offences (Child Protection Law 1955); conviction needs corroboration.
+- **חיסיון יחסי / מוחלט** (chisayon yachasi / muchlat) — Relative privilege (the court may lift it, e.g. doctor, psychologist) / absolute privilege (only the holder waives, e.g. lawyer–client).
+- **תעודת חיסיון** (te'udat chisayon) — A minister's certificate claiming state-security or public-interest privilege (Evidence Ordinance ss. 44–45).
+- **חיסיון עיתונאי** (chisayon itona'i) — Journalist's source privilege, a relative case-law privilege (Citrin, MP 298/86).
+- **כתב ויתור על סודיות רפואית** (ktav vitur al sodiyut refu'it) — Medical confidentiality waiver a bodily-injury plaintiff attaches to the claim (CPR reg. 15(3), Form 1).
+- **רשומה מוסדית** (reshuma mosadit) — Institutional record: a document, including computer output, made by an institution in its ordinary course, admissible to prove its content under s. 36.
+- **פלט** (pelet) — Computer output (Computers Law s. 1); can be an institutional record if s. 36(א)(3) is met.
+- **תעודה ציבורית** (te'uda tziburit) — Public document: an official act or record of a public body, proved by a certified copy (s. 32).
+- **תעודה נושנה** (te'uda noshana) — Ancient document, at least 20 years old, presumed genuine if from proper custody (s. 43).
+- **חתימה אלקטרונית מאובטחת / מאושרת** (chatima elektronit me'ubtachat / me'usheret) — Secure / certified electronic signature, carrying statutory presumptions (Electronic Signature Law s. 3).
+- **ראיה שהושגה שלא כדין** (re'aya shehusga shelo kadin) — Illegally obtained evidence; a criminal court may exclude it under Evidence Ordinance s. 56א (codifying Yissacharov).
+- **דוקטרינת הפסילה הפסיקתית** (doktrinat hapsila hapsikatit) — The relative case-law exclusionary doctrine adopted in Yissacharov (CrimA 5121/98).
+- **פרי העץ המורעל** (pri ha'etz hamur'al) — "Fruit of the poisonous tree": evidence derived from illegal evidence; Israeli law assesses it case by case, without automatic exclusion.
+- **משפט זוטא** (mishpat zuta) — Trial within a trial on the admissibility of evidence, typically a confession.
+- **הודיה חופשית ומרצון** (hodaya chofshit umeratzon) — Free and voluntary confession, the condition of admissibility in s. 12.
+- **דבר מה נוסף** (davar ma nosaf) — "Something extra": the slight independent confirmation case law requires to convict on a confession.
+- **חיזוק** (chizuk) — Strengthening: confirming evidence required for an accomplice's sole testimony, a recanting witness's statement or a young child's testimony.
+- **עד מדינה** (ed medina) — State witness: an accomplice testifying for the prosecution after a benefit; his testimony needs corroboration (s. 54א).
+- **נטל השכנוע** (netel hashichnu'a) — Burden of persuasion: the fixed burden that decides the case if the evidence is evenly balanced.
+- **נטל הבאת הראיות** (netel hava'at hare'ayot) — Evidential burden: the shifting duty to bring evidence in answer to the other side's.
+- **מאזן ההסתברויות** (ma'azan hahistabruyot) — Balance of probabilities, the civil standard of proof.
+- **נזק ראייתי** (nezek re'ayati) — Evidential damage: loss of evidence caused by the defendant's negligence, which may shift the burden.
+- **מומחה מטעם בית המשפט** (mumche mita'am beit hamishpat) — Court-appointed expert (CPR reg. 88); appointment with the parties' consent usually excludes party opinions.
+- **שאלות הבהרה** (she'elot havhara) — Written clarification questions to a court expert, within set deadlines.
+- **שאלה מדריכה** (she'ela madricha) — Leading question, suggesting the answer; the tool of cross-examination, not of examination in chief.
+- **חקירה חוזרת** (chakira chozeret) — Re-examination, limited to matters arising from cross-examination (CPR reg. 67(ג)).

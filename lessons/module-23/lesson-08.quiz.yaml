@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    The defence argues that the accused's police confession was given after the interrogator
+    promised him release if he "just signed". Who must prove what, and when?
+  options:
+    - >-
+      The accused must prove the promise beyond reasonable doubt at the end of the trial.
+    - >-
+      The prosecution must prove the confession was free and voluntary before it is admitted.
+    - >-
+      Nobody: a signed confession is admissible and the promise affects only weight.
+    - >-
+      The court decides only after hearing the accused testify in his own defence.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 12(א): a confession is admissible only if the prosecution brings evidence
+    of the circumstances and the court finds it free and voluntary, usually in a trial within a
+    trial held before the court rules on guilt.
+- id: q2
+  question: >-
+    The only evidence against Ronen is the testimony of Gil, his accomplice, who was promised
+    immunity in exchange for testifying. What does the court need to convict Ronen?
+  options:
+    - >-
+      Nothing more, if the court believes Gil.
+    - >-
+      Something to strengthen Gil's testimony, from any source.
+    - >-
+      Corroboration: independent evidence implicating Ronen.
+    - >-
+      A confession by Ronen, since accomplice testimony is inadmissible.
+  correct: 2
+  explanation: >-
+    Gil is a state witness (an accomplice testifying for the prosecution after a benefit was
+    promised), so s. 54א(א) requires corroboration (סיוע), not merely strengthening as for an
+    ordinary accomplice.
+- id: q3
+  question: >-
+    An accused confessed to the police, then exercised his right not to testify at trial. The
+    prosecution argues his silence is the "something extra" for the confession. What did Milstein
+    hold?
+  options:
+    - >-
+      Silence can never count against an accused in any way.
+    - >-
+      Silence is always enough, since s. 162 makes it corroboration.
+    - >-
+      Silence counts only if the accused has prior convictions.
+    - >-
+      As a rule no, save under strict conditions.
+  correct: 3
+  explanation: >-
+    In Milstein (LCrimA 4142/04) the majority held that silence at trial should not, as a rule, be
+    "something extra" for a confession; the court may treat it so only sparingly, where the
+    confession is clear and detailed, a false confession is ruled out and silence has no innocent
+    or pressured cause.
+- id: q4
+  question: >-
+    You sue your late uncle's estate for ₪60,000, saying you lent it to him orally. You are the only
+    witness. What does s. 54 of the Evidence Ordinance require?
+  options:
+    - >-
+      If the court relies on your testimony alone, it must explain why.
+    - >-
+      The claim must be dismissed without corroboration.
+    - >-
+      The estate must prove the loan was repaid.
+    - >-
+      Your testimony is inadmissible because you are an interested party.
+  correct: 0
+  explanation: >-
+    Section 54 lets a civil court decide on a single uncorroborated witness, but in listed cases,
+    including a claim against an estate and testimony of a party, it must state what led it to rely
+    on that testimony; in practice it looks hard for support.

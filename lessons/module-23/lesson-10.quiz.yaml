@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are cross-examining the defendant's manager. Which question is best?
+  options:
+    - >-
+      "Why did your company stop coming to my flat after 3 March?"
+    - >-
+      "Can you tell the court everything that happened in March?"
+    - >-
+      "On 10 March you wrote to me 'we'll be back on Sunday', correct?"
+    - >-
+      "Do you admit that your company abandoned the job and cheated me?"
+  correct: 2
+  explanation: >-
+    Cross-examination uses short, closed, leading questions tied to a document. "Why" and open
+    questions let the witness give a speech; a question that asks him to accept your conclusion
+    invites a denial and belongs in summations.
+- id: q2
+  question: >-
+    During your own testimony the other side's lawyer asks you: "Isn't it true that your neighbour
+    told you she saw nothing?" Your neighbour is on your witness list. What do you do?
+  options:
+    - >-
+      Answer quickly so as not to annoy the judge.
+    - >-
+      Object at once, stating the ground; the court rules on the spot.
+    - >-
+      Refuse to answer and wait for summations to explain why.
+    - >-
+      Ask the court to postpone the hearing so you can consult a lawyer.
+  correct: 1
+  explanation: >-
+    CPR reg. 68: an objection is stated with its grounds at once, answered at once and decided at
+    once. You may object that the question seeks hearsay of a witness who will testify herself.
+- id: q3
+  question: >-
+    After the defendant cross-examined your witness, you want to ask her again about matters she
+    already covered fully in her affidavit. What is the rule?
+  options:
+    - >-
+      Only matters arising from cross-examination.
+    - >-
+      You may ask any question again, since she is your witness.
+    - >-
+      Re-examination is not allowed in civil cases.
+    - >-
+      You may re-examine only with the defendant's written consent.
+  correct: 0
+  explanation: >-
+    CPR reg. 67(ג): after main testimony and cross-examination, re-examination is limited to
+    clarifying matters that arose in the cross-examination; it is not a second main testimony.
+- id: q4
+  question: >-
+    The court ordered written summations within 21 days. You miss the date because of work. What
+    is the risk?
+  options:
+    - >-
+      None; the court will decide on the evidence anyway.
+    - >-
+      A small fine, but your summations will still be read.
+    - >-
+      Only that the other side may file a reply to nothing.
+    - >-
+      It is treated like not appearing, which can end your claim.
+  correct: 3
+  explanation: >-
+    CPR reg. 74: failure to file written summations on time is treated like non-appearance; for a
+    plaintiff that can mean the claim is struck out (reg. 75). Ask for an extension before the date.

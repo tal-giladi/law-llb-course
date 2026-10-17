@@ -1,0 +1,187 @@
+- id: q1
+  question: >-
+    In a family-court property dispute, the wife asks the court to ignore the evidence rules and
+    order her husband's psychiatrist to testify about his therapy, arguing that the family court
+    "may do whatever justice requires". How should the court approach the request?
+  options:
+    - >-
+      Grant it: the family court is not bound by any rule of evidence.
+    - >-
+      Refuse automatically: psychiatric evidence is never admissible in family cases.
+    - >-
+      Apply the s. 49 privilege, which it may lift for justice.
+    - >-
+      Order the testimony, but only in writing and without cross-examination.
+  correct: 2
+  explanation: >-
+    Family Court Law s. 8(א) relaxes evidence rules but expressly keeps privileges. The medical
+    privilege (Evidence Ordinance s. 49) is relative: the court may lift it if the need for
+    justice outweighs confidentiality, after an in-camera hearing.
+- id: q2
+  question: >-
+    In a criminal trial for assault, the victim's sister testifies that ten seconds after the blow
+    the victim, bleeding, shouted "Moshe hit me with a bottle!". The victim later died of unrelated
+    illness before trial. Is the sister's testimony admissible to prove who struck the victim?
+  options:
+    - >-
+      No: it is hearsay, and the maker of the statement is not a witness.
+    - >-
+      Yes, under s. 10, as a violence victim's statement.
+    - >-
+      Yes, under s. 10א, because the victim gave a statement out of court.
+    - >-
+      Only if the accused consents and is represented by a lawyer.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 10 admits a statement of the alleged victim of violence about the act,
+    even though he cannot be brought to court because he died, if it was made at or soon after the
+    act. Section 10א requires a written statement and a testifying witness.
+- id: q3
+  question: >-
+    A telecom company sues you for ₪3,400 in unpaid charges, relying on a printout from its billing
+    system. You dispute the charges. On what does the admissibility of the printout to prove the
+    charges depend?
+  options:
+    - >-
+      On proof that the s. 36 conditions are met.
+    - >-
+      On nothing; a party's own records are always admissible in its favour.
+    - >-
+      On your consent, since you are the customer named in the record.
+    - >-
+      On certification by a notary that the printout matches the screen.
+  correct: 0
+  explanation: >-
+    A billing printout is computer output and may be an institutional record (s. 35). Under
+    s. 36(א) the company must show it records such events routinely at the time, its methods
+    indicate truthfulness, production is reliable and it protects its systems.
+- id: q4
+  question: >-
+    During a lawful search for stolen phones, police opened the accused's laptop without a warrant
+    for computer material and found evidence of fraud. At the fraud trial the defence asks the
+    court to exclude it. Which framework applies?
+  options:
+    - >-
+      Privacy Law s. 32 only, since a laptop holds private information.
+    - >-
+      Automatic exclusion, because the search of the laptop was unlawful.
+    - >-
+      No exclusion is possible; reliability is the only test for real evidence.
+    - >-
+      Evidence Ordinance s. 56א: discretion based on the fair-trial test and its factors.
+  correct: 3
+  explanation: >-
+    Section 56א (codifying Yissacharov) lets a criminal court exclude unlawfully obtained evidence of
+    any kind if admitting it would substantially harm the right to a fair trial, weighing the breach,
+    its effect on the evidence and the public interest. There is no automatic exclusion.
+- id: q5
+  question: >-
+    Rachel claims she was not hired because she is pregnant. She proves she met all the conditions
+    the employer published for the job. The employer says it simply chose a better candidate but
+    brings no evidence. Who wins on the evidence, and why?
+  options:
+    - >-
+      The employer, because Rachel bears the burden of proving discrimination throughout.
+    - >-
+      Rachel, because the burden shifted to the employer, which did not discharge it.
+    - >-
+      Neither; the court must split the damages equally in a case of doubt.
+    - >-
+      The employer, unless Rachel proves discrimination beyond reasonable doubt.
+  correct: 1
+  explanation: >-
+    Equal Employment Opportunities Law s. 9(א)(1): once the applicant proves she met the employer's
+    conditions, the burden is on the employer to prove it did not discriminate. An unsupported
+    statement does not discharge it.
+- id: q6
+  question: >-
+    In a road-accident claim the court appointed a neurologist, who assessed 5% disability. Your own
+    neurologist found 20%. What is the most effective lawful step?
+  options:
+    - >-
+      File your neurologist's opinion and ask the court to prefer it.
+    - >-
+      Ask the court to appoint a second court expert of your choice.
+    - >-
+      Send clarification questions and cross-examine him.
+    - >-
+      Appeal immediately against the appointment of the court expert.
+  correct: 2
+  explanation: >-
+    Road Accident Victims Compensation Law s. 6א(ב): once a court medical expert is appointed, the
+    parties may send written clarification questions and cross-examine him, but may bring other
+    expert evidence only with leave for special reasons.
+- id: q7
+  question: >-
+    The only evidence against Tamar is her confession at the police station, which the court found
+    free and voluntary. She did not testify at trial. The prosecution has no other evidence. What
+    should the court do?
+  options:
+    - >-
+      Acquit unless there is "something extra" confirming the confession.
+    - >-
+      Convict, because a free and voluntary confession is enough by itself.
+    - >-
+      Convict, because her silence at trial is always "something extra".
+    - >-
+      Order a retrial so the prosecution can find more evidence.
+  correct: 0
+  explanation: >-
+    Case law requires "something extra" for a conviction on a confession. Under Milstein, the
+    accused's silence at trial is, as a rule, not "something extra", except under strict
+    conditions; with nothing else, she should be acquitted.
+- id: q8
+  question: >-
+    In a civil claim against your late father's partner's estate, you are the only witness that
+    your father lent the partner ₪90,000 in cash. What follows from Evidence Ordinance s. 54?
+  options:
+    - >-
+      The court may not rely on your testimony unless a second witness confirms it.
+    - >-
+      Your testimony is inadmissible because you are an heir with an interest.
+    - >-
+      The estate must prove the loan was never made.
+    - >-
+      The court may rely on it alone, giving reasons.
+  correct: 3
+  explanation: >-
+    Section 54 allows a civil judgment on a single uncorroborated witness, but in a claim against an
+    estate, or where the witness is a party or interested, the court must state its reasons. In
+    practice it looks hard for documents or other support.
+- id: q9
+  question: >-
+    A cosmetics company sued a retailer over a defective product. The tube bears only the
+    retailer's name and logo. When asked, the retailer refuses to say who manufactured it. How is
+    the retailer treated?
+  options:
+    - >-
+      As a mere seller, since only the true manufacturer is liable.
+    - >-
+      As the manufacturer for all purposes, under s. 57א(ב).
+    - >-
+      As the manufacturer only if the plaintiff proves it made the product.
+    - >-
+      As neither, until a court expert identifies the factory.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 57א(ב): where goods bear the marketer's name and not the manufacturer's,
+    the marketer is treated as the manufacturer for all purposes unless it discloses the
+    manufacturer's identity when asked.
+- id: q10
+  question: >-
+    You plan to play, at a magistrates' court hearing in five days, a recording of your phone call
+    with the defendant in which he admits the debt. Which combination is correct?
+  options:
+    - >-
+      The recording is unlawful eavesdropping and cannot be played.
+    - >-
+      The recording is admissible only if the defendant agreed to be recorded.
+    - >-
+      Lawful (you were a party); give notice by two days before the hearing.
+    - >-
+      Lawful (you were a party); notify the court at least three days before.
+  correct: 3
+  explanation: >-
+    Recording a conversation you take part in is not secret eavesdropping (Eavesdropping Law s. 1),
+    and the defendant's own admission is admissible against him. Electronic evidence requires
+    notice at least three days before the hearing (CPR reg. 71).

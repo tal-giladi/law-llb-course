@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    In a contract claim you testify: "On 5 May the supplier told me on the phone, 'I accept your
+    order at ₪40 a unit'." The supplier objects that this is hearsay. Who is right?
+  options:
+    - >-
+      The supplier, because the sentence repeats words spoken out of court.
+    - >-
+      The supplier, unless you recorded the call and file the recording.
+    - >-
+      You, because the words are offered to prove an acceptance was made.
+    - >-
+      You, but only if the court is a small claims court.
+  correct: 2
+  explanation: >-
+    Hearsay is an out-of-court statement offered to prove its content true. Words of acceptance are
+    offered to prove that they were said, which has legal effect; they are also the opposing party's
+    own words, admissible against him.
+- id: q2
+  question: >-
+    In a criminal trial for assault, the main witness told the police he saw the accused hit the
+    victim. In court he says he "doesn't remember anything". What may the prosecution do?
+  options:
+    - >-
+      Nothing; a witness who does not remember cannot be contradicted.
+    - >-
+      Offer his written police statement under s. 10א; a conviction still needs support.
+    - >-
+      Read the statement in place of his testimony without cross-examination.
+    - >-
+      Ask the court to convict on the statement alone, since he is a witness.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 10א(א) admits a witness's written out-of-court statement when he testifies
+    and claims not to remember; the court may prefer it with reasons (10א(ג)), but s. 10א(ד) bars a
+    conviction without something in the evidence to strengthen it.
+- id: q3
+  question: >-
+    Your affidavit in a rental dispute says: "The new tenant told me the landlord admitted he never
+    fixed the leak." How can you best prove the landlord's admission?
+  options:
+    - >-
+      Keep the sentence; admissions of a party are always admissible in any form.
+    - >-
+      Attach a screenshot of your own note of the conversation with the new tenant.
+    - >-
+      Ask the court to summon the landlord's lawyer to confirm what his client said.
+    - >-
+      Have the new tenant testify to what he heard the landlord say.
+  correct: 3
+  explanation: >-
+    The landlord's own words are admissible against him as a party's admission, but only through
+    someone who heard them. Your sentence is double hearsay; the new tenant, who heard the landlord
+    directly, can testify to the admission.
+- id: q4
+  question: >-
+    A shop owner was stabbed and, before dying in hospital that night, told a nurse who attacked
+    him. Is the nurse's testimony admissible at the attacker's trial?
+  options:
+    - >-
+      Yes, under s. 10, as a statement of a victim of violence who cannot testify.
+    - >-
+      No, because the maker of the statement is not a witness, as s. 9 requires.
+    - >-
+      Only if the nurse wrote the statement down and the victim signed it.
+    - >-
+      Only if the accused consents and is represented, under s. 10ב.
+  correct: 0
+  explanation: >-
+    Section 10 admits a statement by the victim of violence who cannot be brought to court (here he
+    died) if it was made at or soon after the act, or when he was dying or believed he was dying.

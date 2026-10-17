@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    You sue for a knee injury from a fall on a broken pavement. You attach photos and your own
+    affidavit describing the pain, but no medical opinion, and you did not ask for an exemption.
+    What is the likely consequence?
+  options:
+    - >-
+      The court will appoint its own expert at the state's expense.
+    - >-
+      The court will accept your affidavit as proof of the injury's extent.
+    - >-
+      You cannot prove the medical matter, save for special reasons.
+    - >-
+      The defendant must prove you were not injured.
+  correct: 2
+  explanation: >-
+    CPR reg. 87(א) requires a medical opinion attached to the pleading; under reg. 93(א) a party who
+    did not attach one and was not exempted cannot prove a medical matter, unless the court allows
+    it for special reasons.
+- id: q2
+  question: >-
+    The defendant filed an engineer's opinion. You want to question the engineer at trial, but the
+    defendant says the written opinion is enough. Who is right?
+  options:
+    - >-
+      You: the court must order the expert to be examined if a party asks.
+    - >-
+      The defendant: a written opinion replaces testimony entirely.
+    - >-
+      The defendant, unless you file a counter-opinion first.
+    - >-
+      Neither: the court decides only after reading both sides' summations.
+  correct: 0
+  explanation: >-
+    Evidence Ordinance s. 26(א): the court will grant a party's request to examine an expert; CPR
+    reg. 87(ח) requires the party filing the opinion to bring the expert for cross-examination
+    unless the other side waives.
+- id: q3
+  question: >-
+    Both sides agreed that the court appoint an independent appraiser. You had already filed your
+    own appraiser's opinion. Unless the court orders otherwise, what happens to it?
+  options:
+    - >-
+      It stays in evidence and the court averages the two opinions.
+    - >-
+      It stays in evidence, but your appraiser cannot be cross-examined.
+    - >-
+      It becomes a confidential document that only the court expert reads.
+    - >-
+      It is treated as not admitted, because you agreed to a court expert.
+  correct: 3
+  explanation: >-
+    CPR reg. 88(ד): where a court expert is appointed with the parties' consent, by default no party
+    opinions are filed and those filed earlier are treated as not received in evidence.
+- id: q4
+  question: >-
+    In a road-accident claim the court appointed an orthopaedic expert. The insurer wants to file
+    its own orthopaedist's opinion as well. What is the rule?
+  options:
+    - >-
+      It may, as of right, since every party may bring its own expert.
+    - >-
+      Only with the court's leave, for special reasons.
+    - >-
+      Only if the plaintiff consents in writing.
+    - >-
+      Never; the court expert's opinion is final and cannot be questioned.
+  correct: 1
+  explanation: >-
+    Road Accident Victims Compensation Law s. 6א(ב)(1): parties may summon the court expert for
+    cross-examination but may not bring further expert evidence on the matter without leave for
+    special reasons; they may also send clarification questions.

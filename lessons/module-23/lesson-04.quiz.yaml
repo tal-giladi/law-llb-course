@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    You need your mobile operator's call log to prove you called its service centre twelve times.
+    The operator is not a party. What turns the printout into admissible proof of its content?
+  options:
+    - >-
+      Your own affidavit that you downloaded it from the operator's website.
+    - >-
+      A stamp from a notary confirming the printout is a true copy.
+    - >-
+      A statement that the operator routinely logs calls and protects its systems.
+    - >-
+      Nothing; a computer printout is always hearsay and inadmissible.
+  correct: 2
+  explanation: >-
+    Computer output can be an institutional record (s. 35). Under s. 36(א) it proves its content if
+    the institution routinely records such events at the time, its methods indicate truthfulness,
+    production is reliable and it takes reasonable protective measures.
+- id: q2
+  question: >-
+    An online lender sues you on a loan agreement "signed" by clicking a box on its website. You
+    deny signing. The agreement says the customer bears the burden of disproving a signature. Who
+    must prove the signature?
+  options:
+    - >-
+      The lender, as the party that designed the electronic signing process.
+    - >-
+      You, because the contract term places the burden on the customer.
+    - >-
+      You, because electronic signatures are presumed valid in every case.
+    - >-
+      Neither; the court appoints an expert and decides on the expert's view.
+  correct: 0
+  explanation: >-
+    Electronic Signature Law s. 3א: the "designing party" relying on the other party's signature on
+    an electronic message must prove that party signed, despite any contract term, unless the
+    signature is a certified electronic signature.
+- id: q3
+  question: >-
+    In a criminal trial the prosecution wants to prove a suspect's movements by filing a police
+    patrol log as an institutional record, without calling the officers. What is the rule?
+  options:
+    - >-
+      Allowed, because the police routinely keep such logs.
+    - >-
+      Allowed only if the log is computer output and the police use antivirus software.
+    - >-
+      Allowed if the defence does not object within three days.
+    - >-
+      Not allowed: s. 36 excludes police records offered by police.
+  correct: 3
+  explanation: >-
+    Evidence Ordinance s. 36(ג): the institutional-record route does not apply to a record made by
+    an investigating or prosecuting authority and offered by it in a criminal case; the officers
+    must testify (or another rule must apply).
+- id: q4
+  question: >-
+    You want to play a 4-minute video of the flooded flat at your magistrates' court hearing next
+    week. What must you do?
+  options:
+    - >-
+      Nothing; the judge will watch any file you bring on the day.
+    - >-
+      Notify the court at least three days before the hearing.
+    - >-
+      Ask for a court-appointed expert to certify the video first.
+    - >-
+      Transcribe the video and file only the transcript as an affidavit.
+  correct: 1
+  explanation: >-
+    CPR reg. 71: a party presenting evidence in electronic or digital media notifies the court no
+    later than three days before the hearing, in the format set by the Courts Director.

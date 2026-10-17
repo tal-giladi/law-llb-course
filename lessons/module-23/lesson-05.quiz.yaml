@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    Police found a knife in a suspect's car during a search that the trial court later held was
+    unlawful. Under Evidence Ordinance s. 56א, what decides whether the knife is excluded?
+  options:
+    - >-
+      Nothing: illegally obtained evidence is always excluded in Israel.
+    - >-
+      Only whether the knife is reliable and relevant physical evidence.
+    - >-
+      Only whether the officers acted deliberately and in bad faith.
+    - >-
+      Whether admitting it would substantially harm a fair trial.
+  correct: 3
+  explanation: >-
+    Section 56א, codifying Yissacharov, gives the court discretion: exclude if admission would
+    substantially harm the right to a fair trial, considering the nature and seriousness of the
+    breach, its effect on the evidence and the public interest in admitting or excluding it.
+- id: q2
+  question: >-
+    In a civil neighbours' dispute, Eli secretly left his phone recording in the stairwell meeting
+    room after he walked out, capturing two neighbours plotting against him. Can he use it?
+  options:
+    - >-
+      No: unlawful secret eavesdropping is inadmissible in civil cases.
+    - >-
+      Yes, if the court finds that truth outweighs privacy for special reasons.
+    - >-
+      Yes, because he was the person the conversation was about.
+    - >-
+      Yes, but only in small claims, where evidence rules are relaxed.
+  correct: 0
+  explanation: >-
+    Eavesdropping Law s. 13(א) makes unlawful eavesdropping inadmissible in any court; its two
+    exceptions are criminal proceedings only. Eli was not a party to the conversation, so this was
+    secret eavesdropping, also a crime.
+- id: q3
+  question: >-
+    In a divorce case in the rabbinical court, the husband offers photos he took of his wife inside
+    her rented flat through the window. Which rule governs their admissibility?
+  options:
+    - >-
+      Evidence Ordinance s. 56א, since the photos were obtained unlawfully.
+    - >-
+      Privacy Law s. 32, which applies in all courts, rabbinical courts included.
+    - >-
+      None: rabbinical courts follow their own evidence rules only.
+    - >-
+      Eavesdropping Law s. 13, because the photos were taken secretly.
+  correct: 1
+  explanation: >-
+    Photographing a person in the private domain infringes privacy; s. 32 makes such material
+    inadmissible unless the court allows it or a defence applies. בג״ץ 6650/04 held the Privacy Law
+    applies in rabbinical courts and between spouses. Section 56א is for criminal trials.
+- id: q4
+  question: >-
+    After an unlawful interrogation, the accused told police where he hid stolen jewellery, and
+    the jewellery was found there. Under Israeli law, what happens to the jewellery as evidence?
+  options:
+    - >-
+      It is automatically excluded as fruit of the poisonous tree.
+    - >-
+      It is automatically admitted, since only statements can be excluded.
+    - >-
+      Its admissibility is assessed case by case under the relative doctrine.
+    - >-
+      It is admissible only if the accused repeats the confession in court.
+  correct: 2
+  explanation: >-
+    Yissacharov expressly did not adopt the American fruit-of-the-poisonous-tree rule; derivative
+    evidence is weighed case by case under the fair-trial test, now in s. 56א, which covers any
+    evidence, including objects.
