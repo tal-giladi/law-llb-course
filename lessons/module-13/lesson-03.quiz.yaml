@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    An owner signs a sale contract with Buyer A, then sells the same flat to Buyer B, who checks a clean
+    extract, pays, signs the deed, and only on the morning of registration hears of A's contract. B registers
+    anyway. Who has priority under s. 9?
+  options:
+    - >-
+      B, because he was in good faith when he signed and paid.
+    - >-
+      B, because registration always defeats an earlier unregistered contract.
+    - >-
+      A, because B was no longer in good faith when the transfer was registered.
+    - >-
+      Neither; the court divides the flat between the two buyers.
+  correct: 2
+  explanation: >-
+    Section 9 requires that the second transaction be registered while the second party is still in good
+    faith. Notice before registration defeats him.
+- id: q2
+  question: >-
+    Your aunt promised in writing to give you her flat, then sold it to a buyer who knew of the promise, paid,
+    and registered. Which point helps you most in a s. 9 dispute?
+  options:
+    - >-
+      The buyer was not in good faith, so the first undertaking prevails.
+    - >-
+      A gift needs no registration, so your right was complete when promised.
+    - >-
+      Family promises take priority over commercial sales under the Land Law.
+    - >-
+      The buyer gave value, which is irrelevant once a promise is in writing.
+  correct: 0
+  explanation: >-
+    The second party wins only if in good faith, for value, and registered in good faith; a buyer who knew
+    of the promise fails the good-faith test. (Your own gift promise may still be revocable under the Gift
+    Law.)
+- id: q3
+  question: >-
+    A buyer paid in full and moved in five years ago but never registered a caveat. A creditor of the seller
+    now attaches the flat. Which framework does an Israeli court start from?
+  options:
+    - >-
+      Section 9 directly, treating the attachment as a second sale for value.
+    - >-
+      The case law on buyers against attaching creditors (the Aharonov line).
+    - >-
+      Section 10, because the creditor relied on the register in good faith.
+    - >-
+      The Execution Law alone, under which an attachment always prevails.
+  correct: 1
+  explanation: >-
+    An attachment is not an undertaking to make a transaction, so s. 9 does not apply directly; the case
+    law generally prefers a buyer who paid before the attachment, while weighing his failure to register a
+    caveat.
+- id: q4
+  question: >-
+    Why did the Ganz ruling make registering a caveat close to a duty for a first buyer?
+  options:
+    - >-
+      Because the Land Registry refuses later transfers to a buyer without a caveat.
+    - >-
+      Because the Land Law was amended to require a caveat within 30 days.
+    - >-
+      Because a caveat is the only written document that satisfies s. 8.
+    - >-
+      Because a long, unexplained failure to register can be bad faith that shifts priority.
+  correct: 3
+  explanation: >-
+    Through s. 39 and s. 61(ב) of the Contracts Law, the first buyer's neglect can defeat "first in time",
+    letting a good-faith second buyer prevail even before registration.

@@ -119,3 +119,17 @@
   - [88 · After judgment: payment, enforcement, request for leave to appeal](lessons/module-12/lesson-07.md)
   - [89 · When to stop and get a lawyer, and where to get free help](lessons/module-12/lesson-08.md)
   - [Module 12 quiz](assessments/module-12-quiz.md)
+
+- Year 2 — Core Courses
+- **Module 13 — Property and Land Law (about 23 hours)**
+  - [90 · Property rights: ownership and its limits under the Land Law 1969 and the Movable Property Law 1971](lessons/module-13/lesson-01.md)
+  - [91 · Land registration: the Land Registry, Israel Land Authority leases and the registration of rights](lessons/module-13/lesson-02.md)
+  - [92 · Transactions in land: obligation and transaction, the writing requirement, competing transactions (s. 9)](lessons/module-13/lesson-03.md)
+  - [93 · The caveat (הערת אזהרה): what it protects and how it is registered](lessons/module-13/lesson-04.md)
+  - [94 · Co-ownership and dissolution of joint ownership](lessons/module-13/lesson-05.md)
+  - [95 · Condominiums (בית משותף): bylaws, common property and the superintendent](lessons/module-13/lesson-06.md)
+  - [96 · Possession, neighbours and easements; self-help and protection of possession](lessons/module-13/lesson-07.md)
+  - [97 · Movables: good-faith acquisition, lost property and pledges](lessons/module-13/lesson-08.md)
+  - [98 · Practice lab: read a land-registry extract and check an apartment before buying](lessons/module-13/lesson-09.md)
+  - [99 · Practice lab: a condominium dispute before the superintendent](lessons/module-13/lesson-10.md)
+  - [Module 13 quiz](assessments/module-13-quiz.md)

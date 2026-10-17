@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You return from three months abroad and find a stranger living in your empty flat; he entered about ten
+    weeks ago. Friends offer to help you throw him out tonight. What does the Land Law allow?
+  options:
+    - >-
+      Reasonable force, because you are the owner and he has no right.
+    - >-
+      Any force needed, because he committed a criminal trespass.
+    - >-
+      No self-help now; the s. 18(ב) period has passed, so go to court.
+    - >-
+      Self-help only if you first send him a written warning.
+  correct: 2
+  explanation: >-
+    Section 18(ב) allows reasonable force to remove a trespasser only within thirty days of the seizure;
+    after that, removing him yourself would oblige you to restore possession under s. 19.
+- id: q2
+  question: >-
+    A landlord changes the locks while the tenant is away, claiming unpaid rent. The tenant sues. What is
+    the court's first step likely to be?
+  options:
+    - >-
+      Order the landlord to restore possession, then decide the rent dispute.
+    - >-
+      Decide whether rent was owed, because that settles who may possess.
+    - >-
+      Refer the case to the Execution Office to collect the rent.
+    - >-
+      Dismiss the claim, because an owner may always retake his property.
+  correct: 0
+  explanation: >-
+    Section 19 obliges whoever took land from the possessor outside s. 18(ב) to return it; the court may
+    decide both sides' rights together but self-help does not pay.
+- id: q3
+  question: >-
+    Roots from your neighbour's tree have lifted the tiles in your yard. What must you do before removing
+    the roots yourself at his cost?
+  options:
+    - >-
+      Get a court order, because a neighbour's tree is his property.
+    - >-
+      Demand that he remove them and wait a reasonable time.
+    - >-
+      Nothing; damaging roots may be removed immediately.
+    - >-
+      Ask the house committee to vote on removing them.
+  correct: 1
+  explanation: >-
+    Section 51 lets you remove harmful roots yourself at the owner's cost only after demanding removal and
+    waiting a reasonable time.
+- id: q4
+  question: >-
+    For 28 years villagers have crossed your field to reach the spring. You do not mind now, but you might
+    want to build later. What simple step protects you under s. 94?
+  options:
+    - >-
+      Charging a symbolic fee, which turns the use into a lease.
+    - >-
+      Registering a caveat on your own field against the villagers.
+    - >-
+      Planting a hedge, since physical obstruction is the only way to stop the period.
+    - >-
+      A written notice of objection to the users, including a public notice.
+  correct: 3
+  explanation: >-
+    Section 94(ב) provides that the owner's written notice of objection, including a notice to the public,
+    interrupts the thirty-year period for acquiring an easement by use.

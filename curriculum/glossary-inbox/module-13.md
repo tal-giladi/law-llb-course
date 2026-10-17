@@ -1,0 +1,31 @@
+- **זכות קניינית** (Zchut kinyanit) — Property (in rem) right, enforceable against everyone.
+- **זכות אובליגטורית** (Zchut obligatorit) — Personal (contractual) right, enforceable only against the other party.
+- **בעלות** (Ba'alut) — Ownership: the right to possess, use and deal with property (Land Law s. 2; Movable Property Law s. 2).
+- **מקרקעין** (Mekarke'in) — Land, including everything built, planted or permanently attached to it, except separable attachments (Land Law s. 1).
+- **מיטלטלין** (Metaltelin) — Movables: tangible property other than land; the Movable Property Law also applies to rights (s. 13).
+- **מחוברים** (Mehubarim) — Fixtures: things permanently attached to land, owned with the land (Land Law s. 12).
+- **חכירה / חכירה לדורות** (Hakhira / hakhira ledorot) — Lease of land for over 5 years / over 25 years (Land Law s. 3).
+- **זיקת הנאה** (Zikat hana'a) — Easement: a burden on land for a benefit without possession (Land Law s. 5); acquired also by 30 years of use (s. 94).
+- **זכות קדימה** (Zchut kdima) — Right of first refusal over land, registrable (Land Law s. 99).
+- **מקרקעין מוסדרים** (Mekarke'in musdarim) — Settled land, registered after settlement of title; the register is conclusive for it (Land Law s. 125).
+- **נסח רישום (נסח טאבו)** (Nesah rishum) — Certified extract of the land register; anyone may order it (s. 124).
+- **נסח מרוכז** (Nesah merukaz) — Concentrated extract of all the flats in a condominium.
+- **גוש / חלקה / תת־חלקה** (Gush / helka / tat-helka) — Block / parcel / sub-parcel (a flat in a condominium).
+- **הממונה על המרשם** (Ha-memune al ha-mirsham) — Registration commissioner, who hears administrative appeals (ערר) against registrars and superintendents (s. 121).
+- **רשות מקרקעי ישראל (רמ״י)** (Reshut mekarke'ei yisra'el) — Israel Land Authority, which manages state, Development Authority and JNF land, mostly by long leases.
+- **חוזה חכירה מהוון** (Hozeh hakhira mehuvan) — Capitalised lease, with the rent paid in advance; qualifies urban lessees for ownership transfer (ILA Law s. 4יז).
+- **עסקאות נוגדות** (Iska'ot nogdot) — Competing transactions in the same land or movable (Land Law s. 9; Movable Property Law s. 12).
+- **הערת אזהרה** (He'arat azhara) — Caveat: a note recording a written undertaking to make or refrain from a land transaction, blocking contradicting registrations (Land Law ss. 126–127).
+- **פירוק השיתוף** (Peruk ha-shituf) — Dissolution of co-ownership, by division in kind, sale, or conversion to a condominium (Land Law ss. 37–43).
+- **שכר ראוי** (Skhar ra'ui) — Reasonable payment for use, owed by a co-owner who used the common property (Land Law s. 33).
+- **בית משותף** (Bayit meshutaf) — Condominium: a building with two or more flats registered in the condominium register (Land Law s. 52).
+- **רכוש משותף** (Rekhush meshutaf) — Common property of a condominium: everything not registered as a flat (Land Law s. 52).
+- **הצמדה** (Hatzmada) — Attachment of a specific part of the common property to a flat by the bylaws (Land Law s. 55(ג)).
+- **תקנון מצוי** (Takanon matzui) — Model bylaws in the Schedule to the Land Law, applying where no bylaws were registered (s. 64).
+- **נציגות הבית המשותף** (Netzigut ha-bayit ha-meshutaf) — The representative (house) committee, the owners' agent for management (Land Law ss. 65, 69).
+- **המפקח על רישום מקרקעין** (Ha-mefake'ah al rishum mekarke'in) — Superintendent of land registration, who also decides condominium disputes with a magistrate's powers (Land Law ss. 72–77).
+- **החזרת גזלה** (Hachzarat gzela) — Restoration of land taken from the possessor by unlawful self-help (Land Law s. 19).
+- **תקנת השוק** (Takanat ha-shuk) — Market overt: clean title for a good-faith buyer from a dealer in the ordinary course (Sale Law s. 34).
+- **אבידה** (Aveda) — Lost property, which the finder must return or report to the police (Return of Lost Property Law s. 2).
+- **משכון** (Mashkon) — Pledge: a charge on an asset as security for a debt (Pledges Law s. 1).
+- **עיכבון** (Ikavon) — Lien: a right under law to keep movables until a debt is paid (Movable Property Law s. 11).

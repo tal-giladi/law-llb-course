@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You and your brother each own half of an inherited flat. He wants to rent it to a tenant for a year;
+    you object. There is no co-ownership agreement. What is the legal position?
+  options:
+    - >-
+      He may rent it alone, because each co-owner may deal with his share freely.
+    - >-
+      With no majority of shares, neither decides alone; a court may give directions.
+    - >-
+      You can block it only if you pay him half of the expected rent.
+    - >-
+      Renting is never ordinary management, so it always needs a court order.
+  correct: 1
+  explanation: >-
+    Section 30(א) gives ordinary management to the holders of a majority of shares; with 50/50 there is no
+    majority, and a co-owner may ask the court for directions (s. 30(ב)).
+- id: q2
+  question: >-
+    Your sister has lived alone in the family house you co-own in equal shares for four years without
+    paying. What claim does the Land Law give you?
+  options:
+    - >-
+      Eviction, because a co-owner may never use the property exclusively.
+    - >-
+      Nothing, because each co-owner may use the whole property.
+    - >-
+      Reasonable payment for her use, according to your share.
+    - >-
+      Ownership of her share, because she breached the duty to share.
+  correct: 2
+  explanation: >-
+    Section 33 makes a co-owner who used the common property liable to the others for reasonable payment
+    for the use, by their shares.
+- id: q3
+  question: >-
+    Divorcing spouses co-own their home; the court decides on dissolution by sale. Their two children live
+    with the mother. When will the sale be carried out?
+  options:
+    - >-
+      Once the court finds suitable other housing for the children and mother.
+    - >-
+      Immediately, because each co-owner may demand dissolution at any time.
+    - >-
+      Only after the youngest child turns 18, under s. 40א.
+    - >-
+      Only if the father agrees to pay the mother's rent for three years.
+  correct: 0
+  explanation: >-
+    Section 40א delays carrying out a sale of the spouses' home until the court is satisfied that suitable
+    alternative housing exists for the minor children and the parent who has them.
+- id: q4
+  question: >-
+    Four cousins co-own a plot under an agreement not to dissolve for ten years. After two years one cousin
+    builds a house on part of the plot without the others' consent. What may another cousin do?
+  options:
+    - >-
+      Nothing until the ten years end, because the agreement binds all parties.
+    - >-
+      Register the house in her own name under s. 21 of the Land Law.
+    - >-
+      Ask the superintendent to demolish the house at the builder's expense.
+    - >-
+      Demand dissolution now, despite the agreement, because of the unlawful building.
+  correct: 3
+  explanation: >-
+    Section 46 lets any other co-owner demand dissolution, despite any restriction in the agreement, when
+    a co-owner builds without right; ss. 47–48 then deal with the building in the dissolution.

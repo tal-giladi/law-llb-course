@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The top-floor owner says the roof is "his" because only his flat has access to it. The concentrated
+    extract shows no attachment of the roof to any flat. What is the roof?
+  options:
+    - >-
+      Part of his flat, because access decides ownership of roofs.
+    - >-
+      Common property of all the owners, because it is not attached.
+    - >-
+      Owned by the developer until all flats are sold and registered.
+    - >-
+      His, once he has used it exclusively for seven years.
+  correct: 1
+  explanation: >-
+    Section 52 makes the roof common property unless the bylaws attach it to a flat (s. 55(ג)); the
+    extract shows no such attachment.
+- id: q2
+  question: >-
+    A general meeting decides by a two-thirds majority to attach the yard to the ground-floor flat in return
+    for a payment to the committee. Two owners objected. Is the decision valid?
+  options:
+    - >-
+      Yes, because bylaws may be changed by owners holding two-thirds.
+    - >-
+      Yes, if the payment is divided among all owners by floor area.
+    - >-
+      No, because attaching common property to a flat needs all owners' consent.
+    - >-
+      No, because only the superintendent may decide on attachments.
+  correct: 2
+  explanation: >-
+    Section 62(א) allows two-thirds to change bylaws but requires the consent of all owners for a new
+    attachment; s. 71ב's special majority applies only to extensions under a valid plan.
+- id: q3
+  question: >-
+    A neighbour has stopped paying his share of cleaning and electricity for the stairwell. Where does the
+    house committee bring its claim?
+  options:
+    - >-
+      To the superintendent of land registration, who decides expense disputes.
+    - >-
+      To the small claims court, because the amount is small.
+    - >-
+      To the Execution Office, since the bylaws are an executable document.
+    - >-
+      To the municipality, which supervises maintenance of buildings.
+  correct: 0
+  explanation: >-
+    Disputes about duties under s. 58 and the bylaws go to the superintendent (s. 72(א)); the committee
+    may sue (s. 73(2)), and the decision is enforced like a magistrates' judgment (s. 76).
+- id: q4
+  question: >-
+    A neighbour obtained a building permit and enclosed part of the common stairwell landing. What is
+    your best legal starting point?
+  options:
+    - >-
+      The permit settles the matter unless you appeal to the planning committee.
+    - >-
+      You may only claim damages, since building on common property is lawful once permitted.
+    - >-
+      You must first ask the municipality to revoke the permit before any claim.
+    - >-
+      Taking common property needs the owners' consent; a permit does not authorise it.
+  correct: 3
+  explanation: >-
+    Roker v. Solomon holds that a building permit does not legitimise infringing the other owners' rights in
+    the common property; you may sue the superintendent or a court for trespass (s. 72(ב)).

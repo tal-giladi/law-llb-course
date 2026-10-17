@@ -4,9 +4,11 @@ Hebrew templates for documents you file in your own name, with English instructi
 
 ## All templates
 
+- [Apartment purchase check (בדיקת דירה לפני רכישה – רשימת בדיקה)](apartment-purchase-check.md)
 - [Appeal against a decision to close a criminal file (ערר על החלטה לסגור תיק)](appeal-against-closing-file.md)
 - [Argument from principle (טיעון מן העקרונות)](argument-from-principle.md)
 - [Case brief (תקציר פסק דין)](case-brief.md)
+- [Caveat request checklist (בקשה לרישום הערת אזהרה – רשימת בדיקה)](caveat-request-checklist.md)
 - [Clinic case file (תיק עבודה לסכסוך: כרטיס תיק, כרונולוגיה, נספחים, יומן)](clinic-case-file.md)
 - [Comment on a draft bill or regulation (הערות לתזכיר חוק או לטיוטת תקנות)](comment-on-draft-legislation.md)
 - [Consumer withdrawal notice (הודעת ביטול עסקה צרכנית)](consumer-withdrawal-notice.md)
@@ -33,4 +35,5 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Research memo (תזכיר משפטי)](research-memo.md)
 - [Small claim for a contract or consumer dispute (כתב תביעה – תביעה קטנה בעניין חוזה או צרכנות)](small-claim-contract-consumer.md)
 - [Small claim for property damage (כתב תביעה – תביעה קטנה בגין נזק לרכוש)](small-claim-property-damage.md)
+- [Statement of claim to the superintendent of land registration (כתב תביעה למפקח על רישום המקרקעין)](superintendent-claim.md)
 - [Tort demand letter (מכתב דרישה לפיצוי בגין נזק)](tort-demand-letter.md)

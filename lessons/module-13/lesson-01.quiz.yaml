@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You signed a contract to buy a flat and paid half the price. Before the transfer is registered, a
+    creditor of the seller attaches the flat. Why is your position weaker than a registered owner's?
+  options:
+    - >-
+      Because a contract to buy land is void until the full price is paid.
+    - >-
+      Because until registration you hold a personal right against the seller, not ownership.
+    - >-
+      Because attachments always take priority over any earlier private agreement.
+    - >-
+      Because only a lawyer's signature on the contract creates rights against third parties.
+  correct: 1
+  explanation: >-
+    Under s. 7 of the Land Law the transaction completes only on registration; until then the buyer has
+    an undertaking (a contract right). A caveat (s. 127(ב)) is what protects it against a later attachment.
+- id: q2
+  question: >-
+    A seller removes the fitted kitchen and a rooted fruit tree before handing over a house sold "as is".
+    Which test decides whether they were part of the land?
+  options:
+    - >-
+      Whether the seller paid for them himself or a previous owner installed them.
+    - >-
+      Whether they appear by name in the Land Registry extract for the parcel.
+    - >-
+      Whether they were permanently attached and cannot be separated without real damage.
+    - >-
+      Whether their value is more or less than a tenth of the price of the house.
+  correct: 2
+  explanation: >-
+    Sections 1 and 12 include in land everything permanently attached to it, except attached things that
+    can be separated; who installed them does not matter (s. 12).
+- id: q3
+  question: >-
+    A relative says she has an "equitable right" in your family plot because the family always treated a
+    corner as hers. Nothing is written. What is the starting point under the Land Law?
+  options:
+    - >-
+      There is no right in land except under statute (s. 161), so she must point to one.
+    - >-
+      Long family use creates an easement automatically after ten years of use.
+    - >-
+      Equitable rights survive in Israel because the law follows English common law.
+    - >-
+      Any right recognised by custom binds the owner if the relative is a close family member.
+  correct: 0
+  explanation: >-
+    Section 161 abolished rights in land not created by statute. She would need a statutory route, such
+    as co-ownership, a written undertaking (s. 8) or, after 30 years, an easement by use (s. 94).
+- id: q4
+  question: >-
+    In Roker v. Solomon, owners built into common property during a gap between injunctions. What did the
+    majority decide about the neighbours' demand to demolish?
+  options:
+    - >-
+      Demolition was refused because the building permit made the extension lawful.
+    - >-
+      Demolition was refused because the cost was far larger than the neighbours' loss.
+    - >-
+      The court sent the case to the superintendent to decide on damages instead.
+    - >-
+      The demolition order stood; consent of the owners is needed and a permit is not enough.
+  correct: 3
+  explanation: >-
+    The majority held that changes in the common property require the owners' prior consent and that a
+    building permit does not authorise infringing their rights; Justice Englard's dissent would have
+    awarded damages instead.

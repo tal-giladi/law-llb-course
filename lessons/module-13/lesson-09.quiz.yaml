@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The extract of a flat you want to buy shows a caveat registered this year in favour of a person you do
+    not know. The seller says it is "an old deal that fell through". What should you require before paying?
+  options:
+    - >-
+      A signed letter from the seller confirming the deal was cancelled.
+    - >-
+      Deletion of the caveat, by the beneficiary's consent or a court order.
+    - >-
+      Registration of your own caveat, which will rank ahead of the old one.
+    - >-
+      A discount on the price equal to the old buyer's deposit.
+  correct: 1
+  explanation: >-
+    A registered caveat blocks contradicting transactions without the beneficiary's consent or a court
+    order (s. 127(א)); your later caveat ranks after it, so it must be deleted (s. 132) before you pay.
+- id: q2
+  question: >-
+    The seller promises that a parking space "comes with the flat". On the extract the flat's attachments
+    list only a storage room. What is the best response?
+  options:
+    - >-
+      Accept the promise, since common parking belongs to all owners anyway.
+    - >-
+      Ask the house committee to confirm in writing that the space is his.
+    - >-
+      Treat it as excluded unless attached or sold as a separate unit.
+    - >-
+      Register a caveat on the parking space as part of the flat.
+  correct: 2
+  explanation: >-
+    Only registered attachments are treated as part of the flat (s. 55(ג)); an unattached space is common
+    property or a separate unit, and a new attachment needs all owners' consent (s. 62(א)).
+- id: q3
+  question: >-
+    A buyer's lawyer submits a printout of the online extract to prove ownership in a later court case. Why
+    is that a problem?
+  options:
+    - >-
+      A printout of a signed online extract cannot prove rights.
+    - >-
+      Online extracts show only the owners, not mortgages and notes.
+    - >-
+      Extracts older than 30 days are void as evidence of ownership.
+    - >-
+      Only a lawyer may order an extract that is admissible in court.
+  correct: 0
+  explanation: >-
+    Regulation 92(ג) provides that a paper printout of an online extract signed electronically is not a true
+    copy and is not admissible to prove rights in land; submit the signed file or a certified extract.
+- id: q4
+  question: >-
+    The extract shows an Execution Office attachment on the seller's half of a flat he co-owns with his wife.
+    How should the contract handle it?
+  options:
+    - >-
+      Ignore it, because only the wife's half is being sold to you.
+    - >-
+      Pay the full price into the seller's account so he can pay his creditor.
+    - >-
+      Ask the Execution Office to transfer the attachment to your caveat.
+    - >-
+      Tie payment to lifting the attachment, paying the creditor directly.
+  correct: 3
+  explanation: >-
+    An attachment on a share can block or lead to the sale of that share; the contract should tie payment
+    to its removal, typically by paying the creditor from the price against a release.

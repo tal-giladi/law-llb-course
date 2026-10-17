@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You bought a used bicycle at a bike shop, with a receipt, at a normal price. The original owner shows a
+    police report that it was stolen and demands it. Who owns the bicycle?
+  options:
+    - >-
+      The original owner, because a thief can never pass ownership.
+    - >-
+      You, as a good-faith buyer from a dealer in the ordinary course.
+    - >-
+      The shop, which must now compensate both of you equally.
+    - >-
+      The original owner, unless you registered the purchase with the police.
+  correct: 1
+  explanation: >-
+    Sale Law s. 34 (market overt) gives clean title to a buyer who bought and received goods in good faith
+    from a dealer in goods of that kind in the ordinary course of business.
+- id: q2
+  question: >-
+    A seller agrees to sell his car to Noa, who pays a deposit. Next day he sells it to Eli, who pays in full
+    in good faith and drives it away. Who has the better right?
+  options:
+    - >-
+      Noa, because she contracted first and paid a deposit.
+    - >-
+      Noa, because the car is registered and registration decides.
+    - >-
+      Eli, because he received the car in good faith and for value.
+    - >-
+      Neither; the seller must return both payments and keep the car.
+  correct: 2
+  explanation: >-
+    Movable Property Law s. 12: the first wins unless the second contracted and received the goods in good
+    faith and for value. Noa has a claim against the seller.
+- id: q3
+  question: >-
+    You find a wallet on the street with an ID card and ₪600. What does the Return of Lost Property Law
+    require?
+  options:
+    - >-
+      Return it to the owner or report it promptly to the police.
+    - >-
+      Keep it for four months, after which it becomes yours.
+    - >-
+      Hand it to the nearest shop, which becomes responsible for it.
+    - >-
+      Nothing, since cash found in a public place is ownerless.
+  correct: 0
+  explanation: >-
+    Section 2(א) requires a finder who takes lost property to return it or report it to the police
+    promptly; only after complying and the period passing does the finder become owner (s. 4(א)).
+- id: q4
+  question: >-
+    You are buying a second-hand van from a small business. What is the best way to find out whether a lender
+    holds a pledge on it that could bind you?
+  options:
+    - >-
+      Ask the seller to sign a declaration that the van is free of debts.
+    - >-
+      Check the vehicle licence only, because pledges must appear there to be valid.
+    - >-
+      Rely on s. 34, which always gives a buyer clean title from a business.
+    - >-
+      Search the pledges register and get a lender's payoff letter if one appears.
+  correct: 3
+  explanation: >-
+    A registered pledge binds other creditors and later buyers (Pledges Law s. 4); s. 34 protects only
+    buyers from dealers in goods of that kind in the ordinary course, which a business selling its own van
+    usually is not.

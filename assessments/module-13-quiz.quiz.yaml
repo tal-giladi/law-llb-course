@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    Bar-style. A owns a registered flat. On 1 May he signs a sale to B, who registers no caveat. On 1 June he
+    sells to C, who knows of the sale to B, pays in full and registers the transfer on 1 July. Who has the
+    better right?
+  options:
+    - >-
+      C, because he registered the transfer and B did not register a caveat.
+    - >-
+      B, because C was not in good faith when he contracted and registered.
+    - >-
+      C, because he paid the full price while B paid only part.
+    - >-
+      B and C share the flat equally, since each has a valid contract.
+  correct: 1
+  explanation: >-
+    Under s. 9 the second party prevails only if he acted in good faith, for value, and registered while in
+    good faith; C knew of B's contract, so B's earlier right prevails.
+- id: q2
+  question: >-
+    You signed a contract for a flat in Rishon LeZion and the seller signed a caveat request. Three months
+    later his creditor attaches the flat, and then he is declared bankrupt. The caveat was registered before
+    both. What is your position?
+  options:
+    - >-
+      You become an ordinary creditor in the bankruptcy.
+    - >-
+      The attachment ranks first because it is a court-backed order.
+    - >-
+      Your rights under the noted undertaking are not harmed by either.
+    - >-
+      You must re-register the caveat with the trustee to keep priority.
+  correct: 2
+  explanation: >-
+    Section 127(ב) protects the beneficiary of an earlier caveat against later attachments, bankruptcy,
+    liquidation and receivers, subject only to defences that would have applied had the deal been
+    performed on time.
+- id: q3
+  question: >-
+    A self-represented buyer wants to register a caveat for her own purchase without hiring a lawyer. What
+    does the law allow?
+  options:
+    - >-
+      She may sign the request before the registrar, who verifies her signature.
+    - >-
+      Nothing; caveat requests may be filed only by lawyers online.
+    - >-
+      She may file it by post with a signature verified by any two witnesses.
+    - >-
+      She must first obtain a court order recognising her contract.
+  correct: 0
+  explanation: >-
+    Under s. 126(א) the beneficiary may apply, and reg. 21(א) accepts a signature verified by a lawyer or by
+    the registrar; online filing is designed for lawyers.
+- id: q4
+  question: >-
+    Two brothers co-own a building plot equally. One wants to sell; the other refuses and says their father's
+    will "wanted the land kept in the family". There is no co-ownership agreement. What can the brother who
+    wants to sell do?
+  options:
+    - >-
+      Nothing, because a sale is beyond ordinary management and needs unanimity.
+    - >-
+      Sell the whole plot, since he holds half and the other half cannot block him.
+    - >-
+      Ask the superintendent to approve a sale of the whole plot by majority.
+    - >-
+      Demand dissolution; the court will divide the plot in kind or order a sale.
+  correct: 3
+  explanation: >-
+    Each co-owner may demand dissolution at any time (s. 37(א)); the court prefers division in kind and
+    orders a sale only if the land is indivisible or division would cause significant loss (ss. 39–40). He
+    may also sell his own half (s. 34).
+- id: q5
+  question: >-
+    In a registered condominium, the general meeting decides by two-thirds to let flat 3 build a room on the
+    common yard and attach the yard to it. No valid plan allows an extension. One owner objects. Which
+    statement is correct?
+  options:
+    - >-
+      The decision is valid, because bylaws may be changed by two-thirds of the owners.
+    - >-
+      Attaching common property needs all owners' consent; the decision cannot bind the objector.
+    - >-
+      The decision is valid once the municipality issues a building permit for the room.
+    - >-
+      The objector must accept the decision but may claim compensation from flat 3.
+  correct: 1
+  explanation: >-
+    Section 62(א) requires the consent of all owners for a new attachment; s. 71ב's special majority applies
+    only to extensions permitted under a valid plan, and a permit does not cure the lack of consent (Roker).
+- id: q6
+  question: >-
+    Your neighbour in the building has not paid his share of the lift repair for a year. You are on the
+    house committee. Which forum fits and who sues?
+  options:
+    - >-
+      The small claims court, by you personally as a neighbour.
+    - >-
+      The Execution Office, by the committee, on the basis of the minutes.
+    - >-
+      The superintendent, by the representative committee.
+    - >-
+      The district court, by all the other flat owners jointly.
+  correct: 2
+  explanation: >-
+    Disputes about expenses under s. 58 and the bylaws go to the superintendent (s. 72(א)); the
+    representative committee may sue (s. 73(2)) as the owners' agent (s. 69).
+- id: q7
+  question: >-
+    Bar-style. Shira's ex-partner, who moved out a year ago, broke into her flat last week and changed the
+    locks, claiming he is a co-owner. What is Shira's most effective first remedy?
+  options:
+    - >-
+      A claim to restore her possession, which the court can order before deciding ownership.
+    - >-
+      Breaking back in with friends, because she is in possession and the flat is hers.
+    - >-
+      A claim for dissolution of the co-ownership in the family court.
+    - >-
+      A complaint to the Land Registry to note the dispute on the extract.
+  correct: 0
+  explanation: >-
+    Section 19 requires whoever took land from the possessor outside s. 18(ב) to return it; the court may
+    regulate possession and decide both sides' rights together. Self-help with force risks liability.
+- id: q8
+  question: >-
+    You bought a used mountain bike from a private seller in a car park for a third of its price. It turns out
+    to be stolen. The owner demands it. What is the likely outcome?
+  options:
+    - >-
+      You keep it, because you paid value and took possession.
+    - >-
+      You keep it if you report the purchase to the police within 30 days.
+    - >-
+      The owner may take it only if he pays you what you paid.
+    - >-
+      The owner gets it back; market overt does not apply.
+  correct: 3
+  explanation: >-
+    Sale Law s. 34 protects only a good-faith buyer from a dealer in goods of that kind in the ordinary
+    course; a private seller in a car park at a third of the price fails those conditions.
+- id: q9
+  question: >-
+    You want to buy a flat on Israel Land Authority land. The registry extract shows the State as owner and no
+    lease registered to the seller. What is the right next step?
+  options:
+    - >-
+      Walk away, because state land can never be sold or leased on.
+    - >-
+      Get ILA confirmation of the seller's rights before signing.
+    - >-
+      Rely on s. 10, because the land is registered and settled.
+    - >-
+      Register a caveat at the registry against the State's ownership.
+  correct: 1
+  explanation: >-
+    Rights in ILA land are often recorded only at the ILA until registered; the registry proves only the
+    State's ownership, so the buyer must confirm the seller's rights with the ILA.
+- id: q10
+  question: >-
+    Villagers have walked across your field to the spring for 31 years without written objection. You now
+    fence it. A neighbour sues. Which argument is strongest for the villagers?
+  options:
+    - >-
+      The path is common property of the village under s. 52.
+    - >-
+      Long use made them co-owners of the strip under s. 27.
+    - >-
+      Thirty years of use gave them an easement (s. 94).
+    - >-
+      Fencing is self-help that s. 18 forbids after the period.
+  correct: 2
+  explanation: >-
+    Section 94(א) gives an easement to a user who exercised such a right for 30 continuous years; only a
+    written objection (s. 94(ב)) would have interrupted the period.

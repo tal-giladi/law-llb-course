@@ -1,0 +1,1305 @@
+- id: m13-001
+  module: 13
+  lesson: "13.1"
+  subject: property-vs-contract
+  difficulty: 1
+  question: >-
+    Which feature most clearly marks a right as a property right rather than a contractual one?
+  options:
+    - >-
+      It was created by a signed document between the parties.
+    - >-
+      It is worth more than the amount stated in the regulations.
+    - >-
+      It binds third parties, not only the other party.
+    - >-
+      It was approved by a court or by a public authority.
+  correct: 2
+  explanation: >-
+    A property (in rem) right binds everyone; a contractual right binds only the party who promised. Form
+    and value do not decide the category.
+- id: m13-002
+  module: 13
+  lesson: "13.1"
+  subject: lease-terms
+  difficulty: 1
+  question: >-
+    Under s. 3 of the Land Law, what is a lease of land for thirty years called?
+  options:
+    - >-
+      חכירה לדורות, a lease for generations.
+    - >-
+      שכירות, an ordinary lease.
+    - >-
+      זיקת הנאה, an easement.
+    - >-
+      חכירה, but not a lease for generations.
+  correct: 0
+  explanation: >-
+    A lease over five years is חכירה; over twenty-five years it is חכירה לדורות.
+- id: m13-003
+  module: 13
+  lesson: "13.1"
+  subject: fixtures
+  difficulty: 2
+  question: >-
+    A seller removes a wall-mounted TV bracket, built-in wardrobes and a rooted olive tree before handover.
+    The contract is silent. Which item is most likely a separable movable he may take?
+  options:
+    - >-
+      The built-in wardrobes fitted to the walls.
+    - >-
+      The rooted olive tree in the garden.
+    - >-
+      None of them, since everything in a house is land.
+    - >-
+      The TV bracket, removable with little damage.
+  correct: 3
+  explanation: >-
+    Sections 1 and 12 include permanently attached things in land unless they can be separated; a bracket
+    is easily separable, fitted wardrobes and a rooted tree usually are not.
+- id: m13-004
+  module: 13
+  lesson: "13.1"
+  subject: numerus-clausus
+  difficulty: 2
+  question: >-
+    What does s. 161 of the Land Law ("אין זכות במקרקעין אלא לפי חוק") mean for a claim based on long family
+    custom?
+  options:
+    - >-
+      Custom creates a right in land after fifteen years.
+    - >-
+      The claimant must point to a right created by statute.
+    - >-
+      Customary rights bind only relatives, not buyers.
+    - >-
+      Custom is enough if a court finds it fair.
+  correct: 1
+  explanation: >-
+    Since 1970 there is no right in land except under statute; the claimant needs a statutory basis such as
+    co-ownership, a written undertaking or an easement by 30 years of use.
+- id: m13-005
+  module: 13
+  lesson: "13.1"
+  subject: s14-abuse
+  difficulty: 3
+  question: >-
+    In Roker v. Solomon, what was Justice Englard's main reason for dissenting from the demolition order?
+  options:
+    - >-
+      The building permit made the extension lawful.
+    - >-
+      The neighbours had consented by staying silent.
+    - >-
+      The superintendent, not the courts, had jurisdiction.
+    - >-
+      Insisting on demolition was an abuse of the property right.
+  correct: 3
+  explanation: >-
+    He relied on s. 14 of the Land Law and the Jewish-law principle כופין על מידת סדום, preferring damages;
+    the majority held that a deliberate infringer cannot avoid restoration.
+- id: m13-006
+  module: 13
+  lesson: "13.1"
+  subject: abandonment
+  difficulty: 1
+  question: >-
+    When does ownership of a movable end by abandonment under the Movable Property Law?
+  options:
+    - >-
+      When the owner gives up control intending to abandon it.
+    - >-
+      When the owner has not used it for a year.
+    - >-
+      When someone else takes it openly for three months.
+    - >-
+      When the owner loses it and does not report the loss.
+  correct: 0
+  explanation: >-
+    Section 7: ownership ends when the owner removes the movable from his control with intent to abandon
+    it. Lost property is not abandoned.
+- id: m13-007
+  module: 13
+  lesson: "13.1"
+  subject: rights-as-property
+  difficulty: 2
+  question: >-
+    Does the Movable Property Law apply to a bank deposit, which is not a tangible thing?
+  options:
+    - >-
+      No; it applies only to tangible property, never to rights.
+    - >-
+      Only if the deposit is held in a foreign currency account.
+    - >-
+      Yes, with adaptations, because s. 13 extends it to rights.
+    - >-
+      Only after a court order declares the deposit to be property.
+  correct: 2
+  explanation: >-
+    Section 13(א) applies the Law, as far as suitable and with adaptations, to rights as well.
+- id: m13-008
+  module: 13
+  lesson: "13.2"
+  subject: public-register
+  difficulty: 1
+  question: >-
+    Who may order a current extract of a registered parcel?
+  options:
+    - >-
+      Only the registered owner or his lawyer.
+    - >-
+      Anyone, on request and payment of the fee.
+    - >-
+      Only a person with a signed contract for the parcel.
+    - >-
+      Only a lawyer or a licensed real-estate agent.
+  correct: 1
+  explanation: >-
+    Section 124 opens the registers to everyone; regs 91–92 set the procedure and fee.
+- id: m13-009
+  module: 13
+  lesson: "13.2"
+  subject: conclusive-evidence
+  difficulty: 2
+  question: >-
+    For unsettled land registered before settlement of title, what is the evidential force of the register?
+  options:
+    - >-
+      Conclusive evidence of its contents.
+    - >-
+      No evidential force until settlement.
+    - >-
+      Evidence only of the registered mortgages.
+    - >-
+      Prima facie evidence that may be rebutted.
+  correct: 3
+  explanation: >-
+    Section 125(ב): for unsettled land the register is prima facie evidence; for settled land it is
+    conclusive (s. 125(א)).
+- id: m13-010
+  module: 13
+  lesson: "13.2"
+  subject: s10-good-faith
+  difficulty: 3
+  question: >-
+    A buyer paid cash to a man claiming to be the registered owner of a settled-land flat, without seeing his
+    ID or visiting the flat, because the price was low. The deed was forged. Does s. 10 protect the buyer?
+  options:
+    - >-
+      Probably not, because the circumstances undermine his good faith.
+    - >-
+      Yes, because he relied on the register and paid.
+    - >-
+      Yes, because cash payment counts as value under s. 10.
+    - >-
+      No, because s. 10 never applies when a deed was forged.
+  correct: 0
+  explanation: >-
+    Section 10 requires reliance in good faith; courts read it strictly, and ignoring obvious warning signs
+    defeats good faith. Forgery as such does not exclude s. 10.
+- id: m13-011
+  module: 13
+  lesson: "13.2"
+  subject: registrar-appeal
+  difficulty: 2
+  question: >-
+    The registrar refuses to register your gift deed. What is the route to challenge the refusal?
+  options:
+    - >-
+      A small claim against the Ministry of Justice for the fee and costs.
+    - >-
+      A petition to the High Court of Justice, filed at once.
+    - >-
+      A ערר to the registration commissioner, then the district court.
+    - >-
+      A complaint to the superintendent about the registrar's conduct.
+  correct: 2
+  explanation: >-
+    Section 121 allows a ערר to the commissioner within the regulation period (reg. 74); s. 122 then allows an
+    appeal to the district court.
+- id: m13-012
+  module: 13
+  lesson: "13.2"
+  subject: ila-basic-law
+  difficulty: 1
+  question: >-
+    What does Basic Law: Israel Lands provide about land of the State, the Development Authority and the JNF?
+  options:
+    - >-
+      It may be sold only to Israeli citizens and residents.
+    - >-
+      Ownership may not be transferred except as a statute allows.
+    - >-
+      It must be registered in the name of the Israel Land Authority.
+    - >-
+      It may be leased for no more than 49 years at a time.
+  correct: 1
+  explanation: >-
+    Section 1 bars transfer of ownership; the Israel Lands Law s. 2 lists the statutory exceptions, including
+    urban land under the 2009 reform.
+- id: m13-013
+  module: 13
+  lesson: "13.2"
+  subject: kaadan
+  difficulty: 2
+  question: >-
+    What did the Supreme Court hold in Ka'adan v. Israel Land Administration?
+  options:
+    - >-
+      Allocation through the Jewish Agency may lawfully exclude non-Jews.
+    - >-
+      The ILA may allocate land only by an open public tender.
+    - >-
+      Cooperative societies may choose members without any review.
+    - >-
+      Allocating state land by nationality was unlawful discrimination.
+  correct: 3
+  explanation: >-
+    The Court held that equality binds the allocation of state land and that acting through the Jewish
+    Agency could not legitimise discrimination; Justice Kedmi would have limited relief to a declaration.
+- id: m13-014
+  module: 13
+  lesson: "13.2"
+  subject: online-extract
+  difficulty: 2
+  question: >-
+    Spot the mistake: "I attached a printout of the online extract to my statement of claim as proof of
+    ownership." What is wrong?
+  options:
+    - >-
+      A printout of a signed online extract cannot prove rights.
+    - >-
+      Extracts may never be attached to a statement of claim.
+    - >-
+      Only the seller may submit an extract to the court.
+    - >-
+      Online extracts expire seven days after they are issued.
+  correct: 0
+  explanation: >-
+    Regulation 92(ג): the printout is not a true copy and is not admissible to prove rights; submit the signed
+    electronic file or a certified extract.
+- id: m13-015
+  module: 13
+  lesson: "13.3"
+  subject: s7-completion
+  difficulty: 1
+  question: >-
+    When is a sale of land completed under the Land Law?
+  options:
+    - >-
+      When the contract is signed.
+    - >-
+      When the buyer pays the full price.
+    - >-
+      When the transaction is registered.
+    - >-
+      When the buyer receives the keys.
+  correct: 2
+  explanation: >-
+    Section 7(א): a land transaction completes on registration; before that it is an undertaking (s. 7(ב)).
+- id: m13-016
+  module: 13
+  lesson: "13.3"
+  subject: s79-short-lease
+  difficulty: 2
+  question: >-
+    A landlord and tenant agree orally on a three-year lease of a shop with an option for three more years.
+    Does s. 79's exemption from writing apply?
+  options:
+    - >-
+      Yes, because the initial term is under five years.
+    - >-
+      No, because the option can take the total beyond five years.
+    - >-
+      Yes, because shop leases are never land transactions.
+    - >-
+      No, because all commercial leases must be registered.
+  correct: 1
+  explanation: >-
+    Section 79(ב) excludes from the exemption a lease with an option that can extend it beyond five years in
+    total.
+- id: m13-017
+  module: 13
+  lesson: "13.3"
+  subject: s9-test
+  difficulty: 1
+  question: >-
+    Under s. 9, which three conditions must the second buyer meet to defeat the first?
+  options:
+    - >-
+      A written contract, a registered caveat and full payment.
+    - >-
+      Possession, payment and a lawyer's verification of signatures.
+    - >-
+      Earlier payment, a larger price and registration of the deal.
+    - >-
+      Good faith, value, and registration while in good faith.
+  correct: 3
+  explanation: >-
+    The second party prevails only if he acted in good faith and for value and his transaction was registered
+    while he was still in good faith.
+- id: m13-018
+  module: 13
+  lesson: "13.3"
+  subject: s9-gift
+  difficulty: 2
+  question: >-
+    An owner sells a flat to Ruth, then before registration gives it as a gift to his son, who registers it in
+    good faith. Who prevails?
+  options:
+    - >-
+      Ruth, because the son did not give value.
+    - >-
+      The son, because he registered first in good faith.
+    - >-
+      The son, because family gifts take precedence.
+    - >-
+      Ruth, but only if she had registered a caveat.
+  correct: 0
+  explanation: >-
+    The second transaction must be for value; a gift fails s. 9, so the first buyer prevails.
+- id: m13-019
+  module: 13
+  lesson: "13.3"
+  subject: ganz
+  difficulty: 3
+  question: >-
+    Bar-style. A first buyer left his contract unregistered and without a caveat for six years. A second buyer
+    in good faith paid and registered a caveat but not the transfer. Which argument most helps the second
+    buyer?
+  options:
+    - >-
+      Section 9 gives priority to whichever buyer paid more.
+    - >-
+      A registered caveat counts as registration for s. 9.
+    - >-
+      The first buyer's long neglect to register was bad faith.
+    - >-
+      The first contract lapsed after five years without registration.
+  correct: 2
+  explanation: >-
+    The Ganz line uses s. 39 through s. 61(ב) to let a good-faith second buyer prevail where the first buyer's
+    neglect left the seller appearing free; on the words of s. 9 alone the first would win.
+- id: m13-020
+  module: 13
+  lesson: "13.3"
+  subject: aharonov
+  difficulty: 2
+  question: >-
+    Why does s. 9 not directly decide a contest between a buyer and the seller's attaching creditor?
+  options:
+    - >-
+      Because attachments are governed only by the law of torts.
+    - >-
+      Because an attachment is not an undertaking to transact.
+    - >-
+      Because creditors always rank before buyers of land.
+    - >-
+      Because s. 9 applies only to rights already registered.
+  correct: 1
+  explanation: >-
+    Section 9 deals with two undertakings by the owner; an attachment is an execution measure, so the case
+    law (Aharonov) supplies the rule.
+- id: m13-021
+  module: 13
+  lesson: "13.3"
+  subject: notice-before-registration
+  difficulty: 3
+  question: >-
+    A second buyer learns of the first contract after paying but before the transfer is registered. His lawyer
+    says, "Register quickly, we were in good faith when we paid." What is the risk?
+  options:
+    - >-
+      None, because good faith is tested only at payment.
+    - >-
+      The registry will refuse any transfer once a dispute exists.
+    - >-
+      He becomes liable for the first buyer's deposit.
+    - >-
+      Section 9 requires good faith at registration too, so he may lose.
+  correct: 3
+  explanation: >-
+    Section 9 requires that the second transaction be registered "while he is still in good faith"; notice
+    before registration defeats him.
+- id: m13-022
+  module: 13
+  lesson: "13.3"
+  subject: forum-ownership
+  difficulty: 2
+  question: >-
+    Which court generally hears a dispute over who owns a flat sold twice?
+  options:
+    - >-
+      The district court: ownership in land is outside the magistrates' court.
+    - >-
+      The small claims court, if the deposit is within its ceiling.
+    - >-
+      The superintendent of land registration, who supervises registration.
+    - >-
+      The magistrates' court, whatever the value of the flat.
+  correct: 0
+  explanation: >-
+    Courts Law s. 51(א)(3) gives the magistrates' court possession and use of land but not other claims
+    concerning land, which go to the district court.
+- id: m13-023
+  module: 13
+  lesson: "13.4"
+  subject: caveat-basis
+  difficulty: 1
+  question: >-
+    What must be shown to the registrar to register a caveat under s. 126?
+  options:
+    - >-
+      A court judgment recognising the buyer's right to the land.
+    - >-
+      A written undertaking to make or refrain from a transaction.
+    - >-
+      Payment of at least half of the price to the seller.
+    - >-
+      The written consent of all the parcel's neighbours.
+  correct: 1
+  explanation: >-
+    Section 126(א) requires proof that the holder of a registered right undertook in writing to make or to
+    refrain from a transaction.
+- id: m13-024
+  module: 13
+  lesson: "13.4"
+  subject: caveat-effect
+  difficulty: 1
+  question: >-
+    While a caveat stands, when may a contradicting transaction be registered?
+  options:
+    - >-
+      Never, under any circumstances at all.
+    - >-
+      When the registered owner pays an extra fee.
+    - >-
+      With the beneficiary's consent or a court order.
+    - >-
+      After one year from the caveat's registration.
+  correct: 2
+  explanation: >-
+    Section 127(א): no contradicting transaction is registered without the beneficiary's consent or a court
+    order.
+- id: m13-025
+  module: 13
+  lesson: "13.4"
+  subject: caveat-rank
+  difficulty: 2
+  question: >-
+    You register a caveat on a flat that already has a registered bank mortgage. What is the relation between
+    them?
+  options:
+    - >-
+      The mortgage, registered earlier, keeps its priority.
+    - >-
+      Your caveat moves ahead of the mortgage.
+    - >-
+      The mortgage is suspended until your purchase completes.
+    - >-
+      The bank must consent to your caveat for it to be valid.
+  correct: 0
+  explanation: >-
+    A caveat protects against later contradicting registrations and measures; it does not outrank rights
+    registered before it.
+- id: m13-026
+  module: 13
+  lesson: "13.4"
+  subject: caveat-verification
+  difficulty: 2
+  question: >-
+    Spot the mistake: "The seller and I signed the caveat request at home in front of two friends and posted
+    it to the registry." What is wrong?
+  options:
+    - >-
+      Caveat requests may be signed and filed only by the seller.
+    - >-
+      The request must be filed in the buyer's home city office.
+    - >-
+      The request must be typed and submitted by a lawyer.
+    - >-
+      The signatures need verification by a lawyer or the registrar.
+  correct: 3
+  explanation: >-
+    Regulation 21(א) requires a request signed by the obligor or beneficiary and verified by a lawyer or the
+    registrar, as for a deed.
+- id: m13-027
+  module: 13
+  lesson: "13.4"
+  subject: caveat-owner-consent
+  difficulty: 3
+  question: >-
+    You buy rights from someone who himself bought from the registered owner but never registered. Your caveat
+    request names him as obligor. What extra document does the regulation require?
+  options:
+    - >-
+      A court order confirming the chain of sales.
+    - >-
+      The registered owner's verified consent to the caveat.
+    - >-
+      An affidavit from the first buyer's lawyer.
+    - >-
+      Nothing; the obligor need not be the registered owner.
+  correct: 1
+  explanation: >-
+    Regulation 21(ב)(2): if the obligor is not the registered right-holder, attach the registered holder's
+    consent verified by a lawyer or the registrar.
+- id: m13-028
+  module: 13
+  lesson: "13.4"
+  subject: caveat-deletion
+  difficulty: 2
+  question: >-
+    A deal was cancelled lawfully but the buyer refuses to consent to deleting his caveat. What can the owner
+    do?
+  options:
+    - >-
+      Ask the registrar to delete it at once, showing the cancellation letter.
+    - >-
+      Wait for the caveat to lapse on its own after three years.
+    - >-
+      Go to court, or ask the registrar to delete it after notice.
+    - >-
+      Register a second caveat in his own favour to cancel the first.
+  correct: 2
+  explanation: >-
+    Section 132(א): deletion by court order, by consent, or where the basis has lapsed after the registrar gave
+    the parties notice and time to go to court.
+- id: m13-029
+  module: 13
+  lesson: "13.4"
+  subject: caveat-forum
+  difficulty: 3
+  question: >-
+    Which forum-and-remedy choice best fits a buyer who discovers, a week after signing, that the seller is
+    negotiating a second sale and no caveat has been registered?
+  options:
+    - >-
+      Register a caveat now and seek an injunction if needed.
+    - >-
+      File a complaint with the superintendent of land registration.
+    - >-
+      Sue for damages in small claims and wait for the outcome.
+    - >-
+      Ask the police to stop the second sale as a case of fraud.
+  correct: 0
+  explanation: >-
+    A caveat (s. 126) can be registered by the beneficiary alone; it blocks a contradicting registration, and
+    an injunction can be sought in the competent court if registration is imminent.
+- id: m13-030
+  module: 13
+  lesson: "13.5"
+  subject: undivided-shares
+  difficulty: 1
+  question: >-
+    Two sisters each own half a house. One says, "The upstairs is mine." What does s. 27 say?
+  options:
+    - >-
+      Each sister owns the floor on which she lives.
+    - >-
+      Each share covers every part; no one owns a part.
+    - >-
+      The elder sister chooses which part is hers.
+    - >-
+      Parts are allocated by the area each one uses.
+  correct: 1
+  explanation: >-
+    Section 27: each co-owner's share extends over the whole land; there is no particular part for any
+    co-owner.
+- id: m13-031
+  module: 13
+  lesson: "13.5"
+  subject: majority-management
+  difficulty: 2
+  question: >-
+    Three co-owners hold 50%, 30% and 20%. The first two want to repaint and repair the gutters; the third
+    objects. Can they proceed?
+  options:
+    - >-
+      No, because any decision about the house needs unanimity.
+    - >-
+      Only with a court order for directions under s. 30(ב).
+    - >-
+      No, because repairs must be approved by the superintendent.
+    - >-
+      Yes; ordinary management goes by majority of shares.
+  correct: 3
+  explanation: >-
+    Section 30(א): the majority of shares decides ordinary management and use; the objector may ask the court
+    for directions if wronged.
+- id: m13-032
+  module: 13
+  lesson: "13.5"
+  subject: sale-of-share
+  difficulty: 1
+  question: >-
+    May a co-owner sell his share in a plot without the others' consent?
+  options:
+    - >-
+      Yes; s. 34(א) allows it.
+    - >-
+      Only to another co-owner.
+    - >-
+      Only after offering it to the others for six months.
+    - >-
+      No; a share can be sold only with a court order.
+  correct: 0
+  explanation: >-
+    Section 34(א) lets each co-owner transfer or deal in his share without consent; a restricting clause binds
+    for at most five years (s. 34(ב)), and a registered right of first refusal is possible (s. 99).
+- id: m13-033
+  module: 13
+  lesson: "13.5"
+  subject: dissolution-methods
+  difficulty: 2
+  question: >-
+    Bar-style. Co-owners of a single small flat cannot agree how to end their co-ownership. How will the court
+    usually dissolve it?
+  options:
+    - >-
+      Division in kind, giving each a separate room.
+    - >-
+      Conversion to a condominium with one flat each.
+    - >-
+      Sale and division of the proceeds.
+    - >-
+      Refusing dissolution because the flat is indivisible.
+  correct: 2
+  explanation: >-
+    Section 40(א): land that cannot be divided is dissolved by sale and division of the proceeds, by the
+    execution-sale method unless the court orders another way.
+- id: m13-034
+  module: 13
+  lesson: "13.5"
+  subject: no-dissolution-clause
+  difficulty: 3
+  question: >-
+    Co-owners agreed not to seek dissolution for ten years. After four years one asks the court to dissolve.
+    What may the court do?
+  options:
+    - >-
+      Nothing; the clause binds the co-owners for the full ten years.
+    - >-
+      Order dissolution if just, as three years have passed.
+    - >-
+      Order dissolution only if all co-owners now agree to it.
+    - >-
+      Void the whole agreement and award damages to the others.
+  correct: 1
+  explanation: >-
+    Section 37(ב): if a clause restricts dissolution for more than three years, the court may, after three
+    years, order dissolution despite it if just.
+- id: m13-035
+  module: 13
+  lesson: "13.5"
+  subject: family-home
+  difficulty: 2
+  question: >-
+    In a divorce, the court orders the sale of the co-owned home. The children live with the father. What does
+    s. 40א require before the sale is carried out?
+  options:
+    - >-
+      The mother's written consent to the sale price.
+    - >-
+      The children's agreement through a guardian ad litem.
+    - >-
+      A valuer's opinion approved by the superintendent.
+    - >-
+      Suitable other housing for the children and father.
+  correct: 3
+  explanation: >-
+    Section 40א delays carrying out the sale until the court is satisfied that suitable alternative housing
+    exists for the minor children and the parent who has them.
+- id: m13-036
+  module: 13
+  lesson: "13.5"
+  subject: dissolution-forum
+  difficulty: 2
+  question: >-
+    Two unrelated friends co-own a plot worth ₪4 million and want it divided. Which court has jurisdiction?
+  options:
+    - >-
+      The magistrates' court, which hears division of land whatever the value.
+    - >-
+      The district court, because the value exceeds the magistrates' ceiling.
+    - >-
+      The family court, because co-ownership is a personal matter.
+    - >-
+      The superintendent, who approves every division.
+  correct: 0
+  explanation: >-
+    Courts Law s. 51(א)(3) gives the magistrates' court claims for division of land and its use, whatever the
+    value; the superintendent only approves an agreed division in kind (s. 38(א)).
+- id: m13-037
+  module: 13
+  lesson: "13.6"
+  subject: condo-definition
+  difficulty: 1
+  question: >-
+    Under s. 52, when is a building a "בית משותף"?
+  options:
+    - >-
+      When it has at least four flats on two or more floors.
+    - >-
+      When the owners have elected a representative committee.
+    - >-
+      When it has two or more flats and is registered as such.
+    - >-
+      When it was built under a single building permit.
+  correct: 2
+  explanation: >-
+    A condominium is a building with two or more flats that is registered in the condominium register;
+    unregistered buildings are governed by ss. 77א–77ב.
+- id: m13-038
+  module: 13
+  lesson: "13.6"
+  subject: attachment-limits
+  difficulty: 2
+  question: >-
+    Which part of the common property may never be attached to a single flat by the bylaws?
+  options:
+    - >-
+      The stairwell.
+    - >-
+      A parking space.
+    - >-
+      Part of the roof.
+    - >-
+      The garden.
+  correct: 0
+  explanation: >-
+    Section 55(ג) forbids attaching stairwells, the lift, shelters and installations serving all owners.
+- id: m13-039
+  module: 13
+  lesson: "13.6"
+  subject: expense-ratio
+  difficulty: 2
+  question: >-
+    The bylaws say nothing about expense shares. A 120 m² flat in a building totalling 1,200 m² faces a
+    ₪60,000 repair. What is its share?
+  options:
+    - >-
+      ₪5,000, an equal share among twelve flats.
+    - >-
+      ₪6,000, by floor area under s. 58(א).
+    - >-
+      Nothing, unless the flat owner voted for the repair.
+    - >-
+      ₪12,000, because larger flats pay double.
+  correct: 1
+  explanation: >-
+    Section 58(א): by the ratio of the flat's floor area to the total (120/1,200 × ₪60,000 = ₪6,000) unless
+    the bylaws set another ratio.
+- id: m13-040
+  module: 13
+  lesson: "13.6"
+  subject: improvement-vs-maintenance
+  difficulty: 3
+  question: >-
+    The committee wants to replace a working lobby with luxury marble and charge everyone. An owner objects.
+    What is the key legal question?
+  options:
+    - >-
+      Whether the committee was elected unanimously by the owners.
+    - >-
+      Whether the municipality approved the design of the lobby.
+    - >-
+      Whether the objector lives on the ground floor of the building.
+    - >-
+      Whether it is maintenance or an improvement needing consent.
+  correct: 3
+  explanation: >-
+    Section 58(א) defines proper maintenance as keeping the building as completed, plus improvements agreed by
+    the owners; an unagreed upgrade is not a compulsory expense.
+- id: m13-041
+  module: 13
+  lesson: "13.6"
+  subject: superintendent-jurisdiction
+  difficulty: 2
+  question: >-
+    A neighbour has put his bicycles and a cabinet permanently in the common stairwell. Where may you sue?
+  options:
+    - >-
+      Only before the superintendent of land registration.
+    - >-
+      Only in the magistrates' court for the area.
+    - >-
+      Before the superintendent or a court, as you choose.
+    - >-
+      Only through the municipality's enforcement unit.
+  correct: 2
+  explanation: >-
+    Section 72(ב): trespass by an owner on the common property may be brought, at the claimant's choice,
+    before a court or the superintendent.
+- id: m13-042
+  module: 13
+  lesson: "13.6"
+  subject: extension-majority
+  difficulty: 3
+  question: >-
+    Owners want to attach part of the roof to flats for extensions permitted under a valid plan. What
+    majority does s. 71ב require?
+  options:
+    - >-
+      Three-quarters of the flats holding two-thirds of the common property.
+    - >-
+      A simple majority of the owners present at a general meeting.
+    - >-
+      All the flat owners, because it creates a new attachment.
+    - >-
+      Two-thirds of the flats, regardless of their shares in the property.
+  correct: 0
+  explanation: >-
+    Section 71ב(1): three-quarters of the flats with two-thirds of the common property (60% of the flats for a
+    protected space); an objector may sue the superintendent within the s. 71ג period.
+- id: m13-043
+  module: 13
+  lesson: "13.6"
+  subject: no-committee
+  difficulty: 1
+  question: >-
+    Your building has had no functioning committee for two years. What can the superintendent do?
+  options:
+    - >-
+      Nothing; only the owners themselves can elect a committee.
+    - >-
+      Appoint one, usually after trying to convene a meeting.
+    - >-
+      Manage the building directly through his own office.
+    - >-
+      Cancel the building's registration as a condominium.
+  correct: 1
+  explanation: >-
+    Section 67 lets the superintendent appoint a committee if none functions, generally after convening a
+    general meeting that failed to elect one.
+- id: m13-044
+  module: 13
+  lesson: "13.6"
+  subject: unregistered-building
+  difficulty: 2
+  question: >-
+    A four-flat building was never registered as a condominium. A dispute arises over the roof repair costs.
+    Does the superintendent have jurisdiction?
+  options:
+    - >-
+      No; only registered condominiums can go to the superintendent.
+    - >-
+      Only after the building has been registered as a condominium.
+    - >-
+      Only if all four owners agree in writing to his jurisdiction.
+    - >-
+      Yes; s. 77ב applies the dispute sections to such buildings.
+  correct: 3
+  explanation: >-
+    Chapter 6א (ss. 77א–77ב) applies ss. 58 and 72–77, among others, to buildings with two or more flats not
+    registered as condominiums.
+- id: m13-045
+  module: 13
+  lesson: "13.7"
+  subject: possession-claim
+  difficulty: 1
+  question: >-
+    Who may demand delivery of land from someone holding it unlawfully under s. 16?
+  options:
+    - >-
+      Only the owner whose name is in the register.
+    - >-
+      The owner and whoever is entitled to possess it.
+    - >-
+      Only the person who is in actual possession.
+    - >-
+      Only the State, acting through the police.
+  correct: 1
+  explanation: >-
+    Section 16 gives the claim to the owner and to whoever is entitled to possess the land, such as a tenant.
+- id: m13-046
+  module: 13
+  lesson: "13.7"
+  subject: self-help
+  difficulty: 2
+  question: >-
+    Bar-style. A lawful possessor finds a trespasser who entered two weeks ago. May he remove him with
+    reasonable force?
+  options:
+    - >-
+      No; only the police may ever remove trespassers.
+    - >-
+      Yes, but only with a lawyer present at the time.
+    - >-
+      Yes; within the s. 18(ב) period, reasonable force.
+    - >-
+      No; after 48 hours only a court may act at all.
+  correct: 2
+  explanation: >-
+    Section 18(ב) permits a lawful possessor to use reasonable force to remove someone who seized the land
+    unlawfully, within thirty days of the seizure.
+- id: m13-047
+  module: 13
+  lesson: "13.7"
+  subject: gzela
+  difficulty: 3
+  question: >-
+    An owner retakes his flat by force from a tenant six months after the lease ended. The tenant sues. What
+    will the court likely do first?
+  options:
+    - >-
+      Order the owner to restore possession, then decide their rights.
+    - >-
+      Dismiss the claim because the lease had ended.
+    - >-
+      Award the owner rent for the six months and close the case.
+    - >-
+      Refer the case to the superintendent of land registration.
+  correct: 0
+  explanation: >-
+    Section 19 requires whoever takes land from the possessor outside s. 18(ב) to return it; the court may
+    decide both sides' rights together and regulate possession meanwhile.
+- id: m13-048
+  module: 13
+  lesson: "13.7"
+  subject: building-on-anothers-land
+  difficulty: 3
+  question: >-
+    A neighbour built a shed on your land and sends you a written demand to choose whether to keep it. You
+    ignore it for seven months. What is the consequence?
+  options:
+    - >-
+      The neighbour becomes owner of the land under the shed.
+    - >-
+      You may no longer demand removal, only claim damages.
+    - >-
+      Nothing; the choice under s. 21 is yours at any time.
+    - >-
+      You are treated as keeping the shed and must pay for it.
+  correct: 3
+  explanation: >-
+    Section 22: if the owner does not choose within six months of a written demand, he is treated as having
+    chosen to keep the fixtures, paying the lower of investment or value (s. 21(ב)).
+- id: m13-049
+  module: 13
+  lesson: "13.7"
+  subject: boundary-wall
+  difficulty: 1
+  question: >-
+    Who owns a stone wall standing exactly on the boundary between two plots, absent other proof?
+  options:
+    - >-
+      The neighbour who built it.
+    - >-
+      Both neighbours, as co-owners.
+    - >-
+      The neighbour whose plot is larger.
+    - >-
+      The local authority.
+  correct: 1
+  explanation: >-
+    Section 49(א) presumes boundary fixtures co-owned by the neighbours unless the contrary is proved; both
+    share upkeep (s. 49(ב)).
+- id: m13-050
+  module: 13
+  lesson: "13.7"
+  subject: easement-prescription
+  difficulty: 2
+  question: >-
+    A neighbour's pipes have run under your garden for 25 years. Can he claim an easement by long use now?
+  options:
+    - >-
+      Yes; twenty years of continuous use are enough.
+    - >-
+      Yes, because the pipes are fixtures that he owns.
+    - >-
+      Not yet; s. 94 requires thirty continuous years.
+    - >-
+      No; easements can arise only by registration.
+  correct: 2
+  explanation: >-
+    Section 94(א) requires thirty continuous years; a written objection by the owner interrupts the period
+    (s. 94(ב)).
+- id: m13-051
+  module: 13
+  lesson: "13.7"
+  subject: forum-possession
+  difficulty: 2
+  question: >-
+    Which court hears a claim to evict a squatter from a commercial property worth ₪8 million?
+  options:
+    - >-
+      The district court, because of the property's value.
+    - >-
+      The superintendent of land registration.
+    - >-
+      The small claims court, because it is fast.
+    - >-
+      The magistrates' court, whatever the value.
+  correct: 3
+  explanation: >-
+    Courts Law s. 51(א)(3) gives the magistrates' court claims for possession or use of land whatever the
+    value.
+- id: m13-052
+  module: 13
+  lesson: "13.8"
+  subject: market-overt
+  difficulty: 1
+  question: >-
+    Which of these is not a condition of market overt under Sale Law s. 34?
+  options:
+    - >-
+      The seller deals in goods of that kind.
+    - >-
+      The sale is in the ordinary course of his business.
+    - >-
+      The buyer registers the purchase with the police.
+    - >-
+      The buyer buys and takes possession in good faith.
+  correct: 2
+  explanation: >-
+    Section 34 requires a movable, a dealer in goods of that kind, the ordinary course of business, and
+    good-faith purchase and possession; no police registration.
+- id: m13-053
+  module: 13
+  lesson: "13.8"
+  subject: double-sale-movables
+  difficulty: 2
+  question: >-
+    A dealer agrees to sell the same tractor to two farmers. The second pays and takes the tractor in good
+    faith. The first paid a deposit earlier. Who prevails?
+  options:
+    - >-
+      The second, who received it in good faith and for value.
+    - >-
+      The first, because he contracted first.
+    - >-
+      The first, because he paid a deposit before the second paid.
+    - >-
+      Neither; the dealer must sell it at auction.
+  correct: 0
+  explanation: >-
+    Movable Property Law s. 12: the second prevails if he contracted and received the goods in good faith and
+    for value.
+- id: m13-054
+  module: 13
+  lesson: "13.8"
+  subject: authority-sale
+  difficulty: 2
+  question: >-
+    You buy a car at an Execution Office sale. The original owner's bank had a pledge on it. What does s. 34א
+    of the Sale Law provide?
+  options:
+    - >-
+      The bank's pledge follows the car into your hands.
+    - >-
+      You take free of the pledge; it attaches to the proceeds.
+    - >-
+      The sale is void unless the bank consented.
+    - >-
+      You must pay the bank the balance of the loan.
+  correct: 1
+  explanation: >-
+    Section 34א gives clean title on a sale by a court or execution office, except rights that survive under
+    the sale terms; s. 34ב moves security rights to the proceeds.
+- id: m13-055
+  module: 13
+  lesson: "13.8"
+  subject: lost-property
+  difficulty: 2
+  question: >-
+    You found a watch, reported it to the police at once, and the owner was not found within the statutory
+    period. What is the position?
+  options:
+    - >-
+      The State owns the watch, as for all lost property.
+    - >-
+      The police must sell it and keep the proceeds.
+    - >-
+      You must keep it in trust for seven more years.
+    - >-
+      You own it, but the former owner may redeem it.
+  correct: 3
+  explanation: >-
+    Section 4(א) makes a complying finder the owner after the period; s. 5 lets the former owner redeem it
+    within a year by paying its value.
+- id: m13-056
+  module: 13
+  lesson: "13.8"
+  subject: pledge-perfection
+  difficulty: 3
+  question: >-
+    A lender takes a pledge on a borrower's equipment by agreement but neither registers it nor takes the
+    equipment. The borrower's other creditor, who knew nothing of it, attaches the equipment. Who prevails?
+  options:
+    - >-
+      The lender, because the pledge agreement came first in time.
+    - >-
+      The lender, because pledges never need any registration.
+    - >-
+      The creditor, as the pledge was not deposited or registered.
+    - >-
+      They share the value of the equipment equally between them.
+  correct: 2
+  explanation: >-
+    Pledges Law s. 4: against other creditors, a pledge of movables is effective on deposit or registration,
+    or against a creditor who knew or should have known of it.
+- id: m13-057
+  module: 13
+  lesson: "13.8"
+  subject: lien
+  difficulty: 1
+  question: >-
+    A garage keeps your car until you pay for repairs, then hands it back before you pay. What happens to its
+    lien?
+  options:
+    - >-
+      It ends, because the garage gave up the car.
+    - >-
+      It continues for three months after the return.
+    - >-
+      It becomes a registered pledge automatically.
+    - >-
+      It moves to your other property of equal value.
+  correct: 0
+  explanation: >-
+    Movable Property Law s. 11(ד): a lien ends if the creditor voluntarily removes the goods from his
+    control. The debt itself remains.
+- id: m13-058
+  module: 13
+  lesson: "13.8"
+  subject: nemo-dat
+  difficulty: 3
+  question: >-
+    Spot the mistake in a small claim: "I bought the phone from a private person in good faith, so under s. 34
+    of the Sale Law I own it free of the true owner's rights." What is wrong?
+  options:
+    - >-
+      Section 34 of the Sale Law applies only to land.
+    - >-
+      Good faith is irrelevant to a claim under s. 34.
+    - >-
+      Small claims courts have no power to apply s. 34.
+    - >-
+      Section 34 needs a dealer selling in ordinary course.
+  correct: 3
+  explanation: >-
+    Market overt protects buyers from dealers, not from private persons; otherwise the rule is that a non-owner
+    cannot pass ownership.
+- id: m13-059
+  module: 13
+  lesson: "13.9"
+  subject: extract-notes
+  difficulty: 2
+  question: >-
+    An extract shows "עיקול לפי צו הוצאה לפועל" on the seller's flat. What should a careful buyer do?
+  options:
+    - >-
+      Proceed, because attachments lapse when the flat is sold.
+    - >-
+      Make payment conditional on lifting the attachment.
+    - >-
+      Register a caveat, which removes the attachment.
+    - >-
+      Ask the house committee to confirm the debt is small.
+  correct: 1
+  explanation: >-
+    An attachment can block or lead to the sale of the flat; the contract should tie payment to its removal,
+    often by paying the creditor directly against a release.
+- id: m13-060
+  module: 13
+  lesson: "13.9"
+  subject: extract-co-owners
+  difficulty: 1
+  question: >-
+    The extract lists two owners, each with half. Only one is selling to you. What do you buy?
+  options:
+    - >-
+      The whole flat, since one co-owner may sell everything.
+    - >-
+      Nothing, because co-owned flats cannot be sold.
+    - >-
+      A half share, unless the other co-owner also sells.
+    - >-
+      The part of the flat the seller lives in.
+  correct: 2
+  explanation: >-
+    A co-owner may sell only his own share (s. 34(א)); to buy the whole flat both must sell.
+- id: m13-061
+  module: 13
+  lesson: "13.9"
+  subject: fresh-extract
+  difficulty: 3
+  question: >-
+    The agent gives you an extract from two months ago showing no notes, and urges you to pay 40% today. What
+    is the best step?
+  options:
+    - >-
+      Order your own fresh extract today before paying.
+    - >-
+      Pay, because a two-month-old extract is still valid.
+    - >-
+      Ask the agent to sign that nothing changed.
+    - >-
+      Pay into the seller's account and register a caveat next week.
+  correct: 0
+  explanation: >-
+    Notes, attachments and caveats can be registered at any time; check a fresh extract on the day you pay and
+    register your caveat at once.
+- id: m13-062
+  module: 13
+  lesson: "13.10"
+  subject: superintendent-appeal
+  difficulty: 2
+  question: >-
+    You lost before the superintendent. Where do you appeal?
+  options:
+    - >-
+      To the registration commissioner, by way of ערר.
+    - >-
+      To the magistrates' court in the building's area.
+    - >-
+      To the Supreme Court, as an appeal as of right.
+    - >-
+      To the district court for the building's area.
+  correct: 3
+  explanation: >-
+    Section 77(א) gives an appeal to the district court; s. 121 excludes condominium-dispute decisions from the
+    ערר to the commissioner.
+- id: m13-063
+  module: 13
+  lesson: "13.10"
+  subject: superintendent-procedure
+  difficulty: 1
+  question: >-
+    Which statement about procedure before the superintendent is correct?
+  options:
+    - >-
+      He must apply the rules of evidence strictly, like any court.
+    - >-
+      He may relax evidence and procedure, recording his reasons.
+    - >-
+      He decides only on written submissions, never at a hearing.
+    - >-
+      He may not give interim orders, only final decisions.
+  correct: 1
+  explanation: >-
+    Section 75(א) allows departure from evidence and procedure rules where it helps find the truth and do
+    justice, with recorded reasons; interim orders are enforceable (s. 76).
+- id: m13-064
+  module: 13
+  lesson: "13.10"
+  subject: claim-mistakes
+  difficulty: 3
+  question: >-
+    Spot the mistake in a committee's claim: "The defendant must pay one-eighteenth of the ₪54,000 roof
+    repair, ₪3,000, as an equal share of the eighteen flats." What is wrong?
+  options:
+    - >-
+      Roof repairs are the sole duty of the top-floor owner.
+    - >-
+      The committee may not sue flat owners in its own name.
+    - >-
+      Absent a bylaw, shares follow floor area, not head count.
+    - >-
+      The claim must be filed in the district court instead.
+  correct: 2
+  explanation: >-
+    Section 58(א) divides expenses by floor area unless the bylaws set another ratio; the committee may sue
+    (s. 73(2)) before the superintendent.

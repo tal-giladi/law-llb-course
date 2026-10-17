@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You signed a contract to buy a flat; the seller is abroad and has not signed any caveat request. Can you
+    apply for the caveat yourself?
+  options:
+    - >-
+      No; only the registered owner may apply, since it is his property.
+    - >-
+      Yes; the beneficiary may apply, and the registrar then notifies the owner.
+    - >-
+      Only through a court, because the owner's signature is always required.
+    - >-
+      Yes, but only if the contract was signed in front of the registrar.
+  correct: 1
+  explanation: >-
+    Section 126(א) lets the obligor or the beneficiary apply; if only the beneficiary applies, s. 126(ב)
+    requires the registrar to notify the obligor at once.
+- id: q2
+  question: >-
+    You have no lawyer and want to sign a caveat request for your own purchase. Whose verification of your
+    signature does the regulation accept?
+  options:
+    - >-
+      A notary's only, because the request is a public document.
+    - >-
+      Any two adult witnesses who are not parties to the deal.
+    - >-
+      A lawyer or the registrar, in the way a deed is verified.
+    - >-
+      The seller's lawyer only, since he represents the owner of the land.
+  correct: 2
+  explanation: >-
+    Regulation 21(א) requires a request verified by a lawyer or the registrar, as for a deed; a private
+    person can sign before the registrar at the office.
+- id: q3
+  question: >-
+    A caveat for your purchase was registered in March. In June the seller's creditor attaches the flat, and
+    in August the seller is declared bankrupt. What is the effect on your rights?
+  options:
+    - >-
+      Neither the attachment nor the bankruptcy harms your rights under the noted undertaking.
+    - >-
+      The attachment prevails because it was ordered by an official authority.
+    - >-
+      The bankruptcy cancels all caveats and you become an ordinary creditor.
+    - >-
+      You keep priority only if you also register the caveat at the Execution Office.
+  correct: 0
+  explanation: >-
+    Section 127(ב) protects the beneficiary against later attachments, bankruptcy, liquidation and
+    receivers (subject to defences that would have applied had the deal been performed on time); s.
+    127(ב1) says no other register is needed.
+- id: q4
+  question: >-
+    A deal is cancelled by agreement and the buyer's caveat remains on the seller's flat. What is the
+    simplest lawful way to remove it?
+  options:
+    - >-
+      Ask the registrar to delete it orally at the counter, showing the cancellation.
+    - >-
+      Wait one year, after which an unused caveat lapses automatically.
+    - >-
+      Sue in small claims court for an order to delete the caveat.
+    - >-
+      A deletion request by consent, verified by a lawyer or the registrar.
+  correct: 3
+  explanation: >-
+    Section 132(א)(1) allows deletion when the interested parties consent; reg. 22(א) requires the request
+    to be verified like a deed. There is no automatic lapse.

@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    You want to see who owns the empty plot next to your home before you complain about it. The registry
+    clerk asks why you want the extract. What is the legal position?
+  options:
+    - >-
+      You must show a direct connection to the plot, such as being a neighbour.
+    - >-
+      Anyone may inspect the registers and get an extract without giving a reason.
+    - >-
+      Only the owner or a lawyer acting for a buyer may order an extract.
+    - >-
+      You may inspect the register but only the owner may receive a copy.
+  correct: 1
+  explanation: >-
+    Section 124 opens the registers to the public. A direct connection is needed only to inspect the
+    documents behind a registration (reg. 93).
+- id: q2
+  question: >-
+    A forger registered a settled-land flat in his own name and sold it to Rami, who paid a fair price
+    through a bank after visiting the flat and checking the extract. The true owner sues. Who is likely to
+    keep the flat?
+  options:
+    - >-
+      The true owner, because a forged deed can never pass any right.
+    - >-
+      The true owner, unless Rami also registered a caveat before paying.
+    - >-
+      Rami, because he relied in good faith on the register and gave value.
+    - >-
+      Neither; the court must order a sale and split the proceeds.
+  correct: 2
+  explanation: >-
+    Section 10 protects a person who acquired a right in settled land for value, relying in good faith on
+    the register, even if the registration was wrong. The true owner's remedies lie against the forger
+    and, possibly, others at fault.
+- id: q3
+  question: >-
+    A seller shows a purchase contract from a housing company; the parcel extract lists the State as owner
+    and the housing company as lessee. What should the buyer conclude first?
+  options:
+    - >-
+      The seller's rights are recorded elsewhere and must be confirmed with that body.
+    - >-
+      The seller cannot sell, because state land can never be transferred or leased on.
+    - >-
+      The extract is wrong and must be corrected before any sale can happen.
+    - >-
+      The buyer is protected by s. 10, because the land is registered and settled.
+  correct: 0
+  explanation: >-
+    The register proves only what is in it: the State's ownership and the company's lease. The seller's
+    right must be confirmed with the housing company or the ILA; s. 10 protects reliance on registered
+    rights only.
+- id: q4
+  question: >-
+    A lessee under a capitalised residential lease from the Israel Land Authority receives a registered
+    letter announcing that ownership will be transferred to him free of charge. What happens if he does
+    nothing?
+  options:
+    - >-
+      The lease ends at its original date because he did not accept in writing.
+    - >-
+      He must hire a lawyer to sign a transfer deed within the period stated.
+    - >-
+      The offer lapses and the ILA may offer the flat to the other residents.
+    - >-
+      If he does not object in time, the ILA asks the registry to register him as owner.
+  correct: 3
+  explanation: >-
+    Under s. 4יז(ב) of the ILA Law, consent or failure to object within the stated period leads the ILA
+    itself to file for registration of ownership in the lessee's name, without a deed from him.

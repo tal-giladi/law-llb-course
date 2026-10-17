@@ -13,3 +13,4 @@
 - Neutrality review done (curriculum/qa/neutrality-report.md): check the 06.6 government-side argument (written from memory) against HCJ 2412/23, and the pending media petitions in 06.4; the course mixes "Judea and Samaria" and "West Bank".
 - Links: 568 checked, 1 fixed; 18 gov.il/Kol-Zchut/court pages blocked automated access and need a manual click (curriculum/qa/link-report.md).
 - Year 1 ready to import: repo tal-giladi/law-llb-course, 12 modules, 89 lessons, 484 quiz questions, check-course 0 problems. Years 2–4 are planned, not written.
+- Module 13: Ganz (ע"א 2643/97) and Aharonov (ע"א 189/95) described without report citations; confirm whether a private person can file a caveat online end to end.

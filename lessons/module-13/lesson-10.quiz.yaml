@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are drafting a claim to the superintendent about unpaid maintenance. Besides the usual particulars
+    of a civil claim, what must the claim state under reg. 80?
+  options:
+    - >-
+      The defendant's income and the reasons he cannot pay.
+    - >-
+      The building's address, block and parcel, buildings, flats and entrances.
+    - >-
+      The names of all the flat owners who voted for the expense.
+    - >-
+      The municipality's approval of the building's maintenance budget.
+  correct: 1
+  explanation: >-
+    Regulation 80 adds the building's address, block and parcel numbers, number of buildings, number of
+    flats in each building and number of entrances.
+- id: q2
+  question: >-
+    The superintendent orders your neighbour to remove a gate from the roof stairwell. He files an appeal and
+    leaves the gate in place. What is the effect of the appeal?
+  options:
+    - >-
+      The order is stayed automatically until the district court decides.
+    - >-
+      The order lapses unless you file a counter-appeal within the same period.
+    - >-
+      The order stands unless the superintendent or the court stays it.
+    - >-
+      The order is sent back to the superintendent for a new hearing.
+  correct: 2
+  explanation: >-
+    Section 77(ב): filing an appeal does not stay execution of the decision unless the superintendent or the
+    appeal court so orders; the decision is enforceable like a magistrates' judgment (s. 76).
+- id: q3
+  question: >-
+    A general meeting decided on a ₪30,000 repair, but nobody recorded the decision. A neighbour now refuses
+    to pay. What should the committee do first to strengthen its claim?
+  options:
+    - >-
+      Hold a meeting under the bylaws and record the decision.
+    - >-
+      Sue at once, since oral decisions bind all owners equally.
+    - >-
+      Ask the municipality to confirm that the repair was necessary.
+    - >-
+      Split the cost equally, which needs no recorded decision.
+  correct: 0
+  explanation: >-
+    Section 71(א) makes binding a decision adopted under the bylaws and recorded in the decisions book;
+    recording it properly removes the neighbour's main defence.
+- id: q4
+  question: >-
+    The committee wins a money decision against a flat owner who still does not pay. How is the decision
+    enforced?
+  options:
+    - >-
+      By a new claim in the magistrates' court to turn it into a judgment.
+    - >-
+      By the superintendent's own bailiffs, who collect condominium debts.
+    - >-
+      By registering a caveat on the owner's flat for the amount.
+    - >-
+      Through the Execution Office, like a magistrates' court judgment.
+  correct: 3
+  explanation: >-
+    Section 76 gives the superintendent's decision the force of a magistrates' court judgment for
+    enforcement, so the committee opens an execution file (lesson 08.9).

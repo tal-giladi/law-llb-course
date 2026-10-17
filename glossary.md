@@ -4,6 +4,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 
 ## Terms
 
+- **אבידה** (Aveda) — Lost property, which the finder must return or report to the police (Return of Lost Property Law s. 2).
 - **אדישות** (Adishut) — Indifference: one of the two kinds of recklessness towards a result.
 - **אדם סביר ונבון** (Adam savir venavon) — The reasonable and prudent person, the standard of care.
 - **אומד דעת הצדדים** (omed da'at ha-tzdadim) — the parties' intention, the basis of contract interpretation.
@@ -37,13 +38,16 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בית הדין לחוזים אחידים** (beit ha-din le-hozim ahidim) — the Standard Contracts Tribunal.
 - **בית הדין לעבודה** (beit ha-din la-avoda) — labour court.
 - **בית המשפט המחוזי** (beit ha-mishpat ha-mehozi) — district court.
+- **בית משותף** (Bayit meshutaf) — Condominium: a building with two or more flats registered in the condominium register (Land Law s. 52).
 - **בית משפט השלום** (beit mishpat ha-shalom) — magistrates' court.
 - **בית משפט לתביעות קטנות** (Beit mishpat letvi'ot ktanot) — Small claims court.
 - **בעל דין** (ba'al din) — party to legal proceedings, litigant.
 - **בעל דין שאינו מיוצג** (ba'al din she-eino meyutzag) — self-represented (unrepresented) party.
 - **בעל שיחה** (Ba'al sicha) — Party to a conversation (the speaker or the person it is addressed to).
+- **בעלות** (Ba'alut) — Ownership: the right to possess, use and deal with property (Land Law s. 2; Movable Property Law s. 2).
 - **בקשה ליישוב סכסוך** (Bakasha le-yishuv sikhsukh) — The bare request that must precede any contested family claim (2014 Law).
 - **גורם זר מתערב** (Gorem zar mitarev) — Intervening cause that may break the causal chain.
+- **גוש / חלקה / תת־חלקה** (Gush / helka / tat-helka) — Block / parcel / sub-parcel (a flat in a condominium).
 - **גזל** (Gezel) — Conversion of goods (s. 52).
 - **גזר דין** (Gzar din) — Sentence.
 - **גישור** (Gishur) — Mediation: a mediator helps the parties agree, without power to decide (Courts Law s. 79ג).
@@ -81,6 +85,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הוראת שעה** (hora'at sha'ah) — A temporary provision in force for a set period.
 - **הזדהות לאומית** (Hizdahut le'umit) — National digital identification used to log in to government services.
 - **הזמנה להציע הצעות** (hazmana le-hatzi'a hatza'ot) — invitation to make offers (to treat).
+- **החזרת גזלה** (Hachzarat gzela) — Restoration of land taken from the possessor by unlawful self-help (Land Law s. 19).
 - **החלטה** (hachlata) — Decision: any other ruling of a court, including interim decisions.
 - **החלטת הררי** (Hahlatat Harari) — The Knesset's decision of 13 June 1950 to build the constitution chapter by chapter, as Basic Laws.
 - **החלק הכללי** (Ha-helek ha-klali) — The general part of the Penal Law (elements, attempt, complicity, defences).
@@ -102,7 +107,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **המהפכה החוקתית** (Ha-mahapekha ha-hukatit) — The constitutional revolution: the 1992 rights Basic Laws and Bank Mizrahi (1995), which made judicial review of statutes possible.
 - **המועצה הישראלית לצרכנות** (Hamo'etza hayisra'elit letzarchanut) — Israel Consumer Council, a statutory body that advises, assists and may represent consumers.
 - **הממונה על הגנת הצרכן** (Hamemuneh al haganat hatzarchan) — Consumer Protection Commissioner, head of the Consumer Protection and Fair Trade Authority.
+- **הממונה על המרשם** (Ha-memune al ha-mirsham) — Registration commissioner, who hears administrative appeals (ערר) against registrars and superintendents (s. 121).
 - **הממונה על חופש המידע** (hamemune al chofesh hameida) — An authority's freedom-of-information officer.
+- **המפקח על רישום מקרקעין** (Ha-mefake'ah al rishum mekarke'in) — Superintendent of land registration, who also decides condominium disputes with a magistrate's powers (Land Law ss. 72–77).
 - **המצאה** (Hamtza'a) — Service of court documents.
 - **המשפט המקובל** (ha-mishpat ha-mekubal) — the common law.
 - **המתה בקלות דעת** (Hamata be-kalut da'at) — Reckless homicide (s. 301ג).
@@ -123,12 +130,14 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסתייגות** (Histaygut) — Reservation: an amendment rejected in committee that an MK or minister asks to put to a plenum vote at second reading.
 - **הסתכנות מרצון** (Histaknut miratzon) — Voluntary assumption of risk (s. 5).
 - **הערכת השפעות אסדרה** (Ha'arakhat hashpa'ot asdara) — Regulatory impact assessment (RIA).
+- **הערת אזהרה** (He'arat azhara) — Caveat: a note recording a written undertaking to make or refrain from a land transaction, blocking contradicting registrations (Land Law ss. 126–127).
 - **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
 - **הפרדה בין המשפט למוסר** (Hafrada bein ha-mishpat la-musar) — The separation thesis: whether a law exists and whether it is good are different questions (Austin).
 - **הפרה יסודית** (hafara yesodit) — fundamental breach (Remedies Law s. 6).
 - **הפרה צפויה** (hafara tzfuya) — anticipatory breach (s. 17).
 - **הפרת חובה חקוקה** (Hafarat chova chakuka) — Breach of statutory duty (s. 63).
 - **הצהרת נפגע** (Hatzharat nifga) — Victim impact statement (Crime Victims' Rights Law s. 18).
+- **הצמדה** (Hatzmada) — Attachment of a specific part of the common property to a flat by the bylaws (Land Law s. 55(ג)).
 - **הצעה** (hatza'a) — offer; a communication showing intent to be bound and certain enough for acceptance (Contracts Law s. 2).
 - **הצעות חוק (ה"ח)** (Hatza'ot Chok) — The Reshumot series for bills, with their explanatory notes.
 - **הצעת חוק מטעם ועדה** (Hatza'at hok mi-ta'am va'ada) — Committee bill, allowed only on subjects listed in Rules s. 80.
@@ -153,9 +162,13 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
 - **זוכה** (Zocheh) — Judgment creditor in an execution file.
 - **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
+- **זיקת הנאה** (Zikat hana'a) — Easement: a burden on land for a benefit without possession (Land Law s. 5); acquired also by 30 years of use (s. 94).
+- **זכות אובליגטורית** (Zchut obligatorit) — Personal (contractual) right, enforceable only against the other party.
 - **זכות נגזרת** (Zkhut nigzeret) — Derived right, read into human dignity (equality, expression, family life, minimum subsistence).
 - **זכות עיון במידע** (Zchut iyun bameida) — Right to inspect personal information about you held in a database (Privacy Law s. 13).
 - **זכות עמידה / עותר ציבורי** (Zkhut amida / oter tzibori) — Standing / public petitioner with no personal interest (Ressler).
+- **זכות קדימה** (Zchut kdima) — Right of first refusal over land, registrable (Land Law s. 99).
+- **זכות קניינית** (Zchut kinyanit) — Property (in rem) right, enforceable against everyone.
 - **זכות שהומחתה** (Zchut shehumcheta) — Assigned right; claims based on one cannot be brought in small claims.
 - **חבלה חמורה** (Havala hamura) — Grievous harm (s. 333).
 - **חוב פסוק** (Chov pasuk) — Judgment debt, including linkage, interest and costs.
@@ -163,6 +176,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חובת זהירות קונקרטית** (Chovat zehirut konkretit) — Concrete duty of care: whether this plaintiff's harm was foreseeable in these circumstances.
 - **חוזה** (hoze) — contract.
 - **חוזה אחיד** (hoze ahid) — standard-form contract (Standard Contracts Law s. 2).
+- **חוזה חכירה מהוון** (Hozeh hakhira mehuvan) — Capitalised lease, with the rent paid in advance; qualifies urban lessees for ownership transfer (ILA Law s. 4יז).
 - **חוזה למראית עין** (hoze le-mar'it ayin) — sham contract (s. 13).
 - **חוזה עסקי** (hoze iski) — business contract; read by its language alone under s. 25(א)(2) as amended in 2026.
 - **חוזה פסול** (hoze pasul) — contract void as illegal, immoral or against public policy (s. 30).
@@ -185,6 +199,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חיוב** (hiyuv) — obligation.
 - **חייב** (Chayav) — Judgment debtor in an execution file.
 - **חיקוק** (hikuk) — enactment: a statute or a regulation.
+- **חכירה / חכירה לדורות** (Hakhira / hakhira ledorot) — Lease of land for over 5 years / over 25 years (Land Law s. 3).
 - **חסינות עובד ציבור** (Chasinut oved tzibur) — A public servant's personal immunity for governmental acts (Ordinance s. 7א).
 - **חקיקת משנה** (hakikat mishne) — secondary (subordinate) legislation.
 - **חקירת יכולת** (Chakirat yecholet) — Means inquiry into a debtor's ability to pay (s. 67).
@@ -240,9 +255,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
 - **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
 - **מחדל** (Mehdal) — Omission, a failure to act where the law imposes a duty.
+- **מחוברים** (Mehubarim) — Fixtures: things permanently attached to land, owned with the land (Land Law s. 12).
 - **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
 - **מידתיות** (Midatiyut) — Proportionality; with immediacy and necessity, one of the conditions of self-defence and necessity. A defence does not apply where the act was not reasonable in the circumstances (s. 34טז).
 - **מידתיות במובן הצר** (Midatiyut ba-muvan ha-tzar) — Proportionality in the narrow sense: the benefit is in reasonable relation to the harm.
+- **מיטלטלין** (Metaltelin) — Movables: tangible property other than land; the Movable Property Law also applies to rights (s. 13).
 - **מיטרד ליחיד** (Mitrad leyachid) — Private nuisance: substantial interference with reasonable use or enjoyment of land (s. 44).
 - **מיטרד לציבור** (Mitrad latzibur) — Public nuisance (s. 42).
 - **מיצוי הליכים / פנייה מוקדמת** (Mitzui halikhim / pniya mukdemet) — Exhaustion of remedies / prior written demand to the authority before petitioning.
@@ -258,9 +275,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מעוול** (Me'avel) — Tortfeasor, wrongdoer.
 - **מעוולים יחד** (Me'avlim yachad) — Joint tortfeasors, liable jointly and severally (s. 11).
 - **מקרה קשה** (Mikre kashe) — Hard case, where the rules do not clearly decide the outcome.
+- **מקרקעין** (Mekarke'in) — Land, including everything built, planted or permanently attached to it, except separable attachments (Land Law s. 1).
+- **מקרקעין מוסדרים** (Mekarke'in musdarim) — Settled land, registered after settlement of title; the register is conclusive for it (Land Law s. 125).
 - **מרכז מידע טלפוני** (Merkaz meida telefoni) — The Judiciary's telephone information centre.
 - **מרקם פתוח** (Mirkam patu'ah) — Open texture: the zone of doubtful cases (penumbra) around a rule's clear core.
 - **משדל** (Meshadel) — Inducer (instigator) (s. 30).
+- **משכון** (Mashkon) — Pledge: a charge on an asset as security for a debt (Pledges Law s. 1).
 - **משנה** (Mishnah) — The first code of the Oral Law, edited about 200 CE.
 - **משפט הטבע** (Mishpat ha-teva) — Natural law: the view that law answers to standards of reason and justice, so that gross injustice is a defect in law.
 - **משפט כשלמות** (Mishpat ki-shlemut) — Law as integrity: the right legal answer is the one that best fits and justifies the community's legal practice (Dworkin).
@@ -280,11 +300,14 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נייר עמדה** (Neyar emda) — Position paper submitted to a Knesset committee.
 - **ניסיון** (Nisayon) — Attempt: conduct beyond preparation, with intent to commit the offence (s. 25).
 - **ניקיון כפיים** (Nikayon kapayim) — Clean hands: full and honest disclosure by the petitioner.
+- **נסח מרוכז** (Nesah merukaz) — Concentrated extract of all the flats in a condominium.
+- **נסח רישום (נסח טאבו)** (Nesah rishum) — Certified extract of the land register; anyone may order it (s. 124).
 - **נספח** (nispach) — Attachment or exhibit to a letter or pleading.
 - **נפגע משני** (Nifga mishni) — Secondary victim: a relative who suffers mental harm because of another's injury.
 - **נפגע עבירה** (Nifga avera) — Victim of an offence (Crime Victims' Rights Law s. 2).
 - **נציב תלונות הציבור** (Netziv tlunot ha-tzibur) — The Ombudsman; the State Comptroller acting on public complaints.
 - **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Ombudsman for complaints against judges.
+- **נציגות הבית המשותף** (Netzigut ha-bayit ha-meshutaf) — The representative (house) committee, the owners' agent for management (Land Law ss. 65, 69).
 - **נקודת יציאה** (Nekudat yetsi'a) — Walk-away figure: the lowest settlement one will accept, set before negotiating.
 - **סגירת תיק** (Sgirat tik) — Closing a criminal file.
 - **סדר דין אזרחי** (Seder din ezrachi) — Civil procedure; since 1.1.2021 governed by the Civil Procedure Regulations 2018.
@@ -306,6 +329,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עורך דין** (orekh din) — lawyer (advocate), a member of the Israel Bar.
 - **עושק** (oshek) — exploitation (unconscionability) (s. 18).
 - **עיגון** (Igun) — Anchoring: the pull of a first number on later estimates.
+- **עיכבון** (Ikavon) — Lien: a right under law to keep movables until a debt is paid (Movable Property Law s. 11).
 - **עיכוב ביצוע** (Ikuv bitzu'a) — Stay of execution; not automatic on appeal (CPR reg. 145).
 - **עילת הסבירות** (Ilat ha-svirut) — The reasonableness ground of review of administrative decisions.
 - **עילת סגירה** (Ilat sgira) — Ground for closing a file: insufficient evidence, no guilt, or lack of public interest.
@@ -347,6 +371,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פיצויי הסתמכות / פיצויי קיום** (pitzuyei histamkhut / pitzuyei kiyum) — reliance damages / expectation damages.
 - **פיצויים לדוגמה** (Pitzuyim ledugma) — Exemplary (statutory, no-proof) damages, e.g. Consumer Protection Law s. 31א, Communications Law s. 30א(י).
 - **פיצויים מוסכמים** (pitzuyim muskamim) — agreed (liquidated) damages (s. 15).
+- **פירוק השיתוף** (Peruk ha-shituf) — Dissolution of co-ownership, by division in kind, sale, or conversion to a condominium (Land Law ss. 37–43).
 - **פל״א** (Pla) — The police file number given to a complaint.
 - **פמיניזם משפטי** (Feminizm mishpati) — Feminist legal theory, which examines how law built on one group's experience treats women.
 - **פניות הציבור** (Pniyot hatzibur) — Public-enquiries (complaints) unit of a regulator or a business.
@@ -394,10 +419,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **קשר סיבתי** (Kesher sibati) — Causation, factual (but-for) and legal.
 - **ריאליזם משפטי** (Re'alizm mishpati) — Legal realism: law as a prediction of what courts will actually do.
 - **ריבון** (Ribon) — Sovereign; for Austin, the person or body habitually obeyed by most of society and obeying no one.
+- **רכוש משותף** (Rekhush meshutaf) — Common property of a condominium: everything not registered as a flat (Land Law s. 52).
 - **רצח בנסיבות מחמירות** (Retzah be-nesibot mahmirot) — Murder in aggravating circumstances (s. 301א).
 - **רשומות** (Reshumot) — The official gazette in which laws, regulations and notices are published; the official text of legislation.
 - **רשות האכיפה והגבייה** (Reshut ha'akifa vehagvi'a) — Enforcement and Collection Authority, which runs the Execution Offices.
 - **רשות מכוננת / סמכות מכוננת** (Rashut mekhonenet / samkhut mekhonenet) — Constituent authority / constituent power: the power to make a constitution, which the Knesset exercises when enacting Basic Laws (Bank Mizrahi, majority view).
+- **רשות מקרקעי ישראל (רמ״י)** (Reshut mekarke'ei yisra'el) — Israel Land Authority, which manages state, Development Authority and JNF land, mostly by long leases.
 - **רשלנות** (Rashlanut) — Negligence: careless conduct towards someone owed a duty, causing damage (ss. 35–36).
 - **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
 - **רת״ק (רשות ערעור תביעות קטנות)** (Ratak) — Application for leave to appeal a small-claims decision to the district court.
@@ -414,6 +441,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שימוש לרעה בזכות** (shimush le-ra'a bi-zkhut) — abuse of a right.
 - **שימוש לרעה בסמכות המכוננת** (Shimush lera'a ba-samkhut ha-mekhonenet) — Abuse of constituent power: using the form of a Basic Law for a norm that lacks stability, generality or fit with the constitutional fabric (Bar-On, Shafir).
 - **שיעור בסיס** (Shi'ur basis) — Base rate: the typical frequency or duration in comparable cases, the starting point for an estimate.
+- **שכר ראוי** (Skhar ra'ui) — Reasonable payment for use, owed by a co-owner who used the common property (Land Law s. 33).
 - **שלטון החוק הפורמלי / המהותי** (Shilton ha-hok ha-formali / ha-mahuti) — The formal (thin) and substantive (thick) conceptions of the rule of law.
 - **שמאי** (Shamai) — Loss adjuster, assessor.
 - **שנאת הפסד** (Sin'at hefsed) — Loss aversion: losses weigh roughly twice as much as equal gains.
@@ -447,6 +475,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תקיפה הגורמת חבלה של ממש** (Tkifa ha-goremet havala shel mamash) — Assault causing actual bodily harm (s. 380).
 - **תקיפה עקיפה** (Tkifa akifa) — Indirect challenge: raising the invalidity of a norm as an argument in another proceeding.
 - **תקנה** (takana) — regulation: a provision of legislative effect made under a statute.
+- **תקנון מצוי** (Takanon matzui) — Model bylaws in the Schedule to the Land Law, applying where no bylaws were registered (s. 64).
 - **תקנות שעת חירום** (Takanot sha'at herum) — Emergency regulations under Basic Law: The Government s. 39.
 - **תקנת הציבור** (takanat ha-tzibur) — public policy.
+- **תקנת השוק** (Takanat ha-shuk) — Market overt: clean title for a good-faith buyer from a dealer in the ordinary course (Sale Law s. 34).
 - **תשלום תכוף** (Tashlum tachuf) — Interim payment under the road-accidents Law (s. 5).

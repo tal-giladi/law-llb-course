@@ -209,3 +209,30 @@ Every fee, ceiling and deadline the course uses is kept on this page; lessons li
 | Legal Aid means test (Legal Aid Regulations reg. 2(ב)) | Income up to 67% of the average wage for a single person or family of up to three; +6% per additional person from the fourth; no realisable assets above a threshold; home lived in not counted | https://he.wikisource.org/wiki/תקנות_הסיוע_המשפטי (2026-10-17) ⚠️ the Legal Aid site publishes current shekel figures; manual check | 12.8 |
 | Legal Aid for people aged 65+ in exploitation-based contract and consumer cases | No means test (Legal Aid Law, Schedule item 16, amendment 5786) | https://he.wikisource.org/wiki/חוק_הסיוע_המשפטי#תוספת (2026-10-17) | 12.4, 12.8 |
 | Judiciary telephone information centre | 077-2703333 or *3852; Sun–Thu 08:00–17:00, Fri and holiday eves 08:00–12:30; WhatsApp 050-6255727 | gov.il service pages (notice_court_case; application-permit-examine-court-files) as quoted in web search results, 2026-10-17 ⚠️ manual check (gov.il blocks bots) | 12.8, template get-a-lawyer-checklist |
+| Land Registry: certified extract or certified copy (paper) | ₪88 | תקנות המקרקעין (אגרות), Schedule item 7(א), https://he.wikisource.org/wiki/תקנות_המקרקעין_(אגרות) (2026-10-17) | 13.2, 13.9 |
+| Land Registry: concentrated extract of a condominium (paper) | ₪154 | same, item 7(א1) (2026-10-17) | 13.6, 13.9 |
+| Land Registry: electronic extract signed with a secure electronic signature (including concentrated) | ₪18 | same, item 7(א2) (2026-10-17); ⚠️ confirm the online price on https://www.gov.il/he/service/land_registration_extract | 13.2, 13.9 |
+| Land Registry: inspection of the register, per property or right | ₪85 | same, item 8(1) (2026-10-17) | 13.2 |
+| Caveat: registration (per registration) | ₪188 | same, item 13(א)(1) (2026-10-17) | 13.4, 13.9, project |
+| Caveat: deletion at the parties' request | ₪127 | same, item 13(ב) (2026-10-17) | 13.4 |
+| Caveat: registration or deletion through the Ministry of Justice online interface | 80% of the fee in item 13 | same, reg. 2א (2026-10-17) | 13.4 |
+| Note on need for consent (s. 128): registration / deletion | ₪188 / ₪127 | same, item 15 (2026-10-17) | 13.4 |
+| Superintendent condominium proceedings: fee | As for a civil claim in the magistrates' court | same, item on proceedings under Chapter 6 סימן ד׳ ("יחולו ההוראות החלות על אגרות המשתלמות בבית משפט השלום") (2026-10-17) | 13.6, 13.10, project |
+| ערר to the registration commissioner against a registrar's or superintendent's decision | 15 days from delivery (or knowledge) of the decision; extendable | תקנות המקרקעין (ניהול ורישום) reg. 74, https://he.wikisource.org/wiki/תקנות_המקרקעין_(ניהול_ורישום) (2026-10-17) | 13.2 |
+| Appeal to the district court from the commissioner | 15 days from delivery (or knowledge) | same, reg. 76(א) (2026-10-17) | 13.2 |
+| Appeal to the district court from the superintendent's decision in a condominium dispute | 45 days from service of the decision | same, reg. 83 (2026-10-17) | 13.6, 13.10, project |
+| Objection to an extension decision (s. 71ב) by claim to the superintendent | 30 days from the decision, or from service if absent; extendable for special reasons | Land Law s. 71ג(ב), https://he.wikisource.org/wiki/חוק_המקרקעין#סעיף_71ג (2026-10-17) | 13.6 |
+| Majorities for changes in common property | Bylaws: 2/3 of common property (s. 62(א)); new attachment: all owners; extension under a plan: 3/4 of flats + 2/3 of common property; protected space: 60% of flats (s. 71ב) | Land Law ss. 62, 71ב (2026-10-17) | 13.6 |
+| Self-help against a trespasser who seized land | Within 30 days of the seizure | Land Law s. 18(ב) (2026-10-17) | 13.7 |
+| Owner's choice after building on his land | 6 months from the builder's written demand | Land Law s. 22 (2026-10-17) | 13.7 |
+| Easement by long use | 30 continuous years | Land Law s. 94(א) (2026-10-17) | 13.7 |
+| Short lease exempt from writing and registration | Up to 5 years (not if an option or deferred start takes it beyond) | Land Law s. 79 (2026-10-17) | 13.3 |
+| Lease terminology | חכירה: over 5 years; חכירה לדורות: over 25 years | Land Law s. 3 (2026-10-17) | 13.1, 13.2 |
+| Restriction on a co-owner's right to sell his share | Binds for at most 5 years | Land Law s. 34(ב) (2026-10-17) | 13.5 |
+| Restriction on the right to demand dissolution | Court may override after 3 years if the restriction exceeded 3 years | Land Law s. 37(ב) (2026-10-17) | 13.5 |
+| Lost property: finder becomes owner | 4 months from reporting to the police (or from finding if no report was needed) | חוק השבת אבידה s. 4(א), https://he.wikisource.org/wiki/חוק_השבת_אבידה (2026-10-17) | 13.8 |
+| Lost property: finder who handed it to the police must claim it | Within 2 months of becoming owner, otherwise the State | same, s. 4(ב) (2026-10-17) | 13.8 |
+| Lost property: former owner's redemption | Within 1 year, paying its value | same, s. 5 (2026-10-17) | 13.8 |
+| Property left in hotels, hospitals and similar places | Treated as lost after 2 months | same, s. 7(א) (2026-10-17) | 13.8 |
+| ILA ownership transfer (s. 4יז): lessee's objection to free transfer | 60 days from the ILA's registered-mail notice | חוק רשות מקרקעי ישראל s. 4יז(ב)(1), https://he.wikisource.org/wiki/חוק_רשות_מקרקעי_ישראל (2026-10-17) | 13.2 |
+| Limitation, land | Already on the page (15 years; 25 for land registered after settlement) | Prescription Law s. 5(2) | 13.5 |
