@@ -40,6 +40,8 @@ By the end of this lesson you will be able to take a Jewish couple's separation,
 
 Israel has no civil marriage or divorce for Jews inside the country. A Jewish couple who are citizens or residents marry and divorce through the state rabbinical courts, under Jewish law, whatever their beliefs. Around that core, the law gives the rabbinical court and the Family Court overlapping powers over property, maintenance and children. Which court hears those issues can change the applicable rules of procedure, the court's culture, and sometimes the outcome; that is why spouses have historically rushed to file first.
 
+The religious monopoly over Jewish marriage is itself contested. Supporters argue that one shared track keeps all Jews able to marry one another under Jewish law (avoiding doubts of personal status such as mamzerut) and reflects the status-quo arrangement on which the 1953 Law rests. Critics argue that it imposes religious law on citizens who do not hold it, leaves some people (those without a recognised religion, interfaith and same-sex couples) no way to marry in Israel, and disadvantages women in divorce. Proposals for civil marriage or civil unions have not been enacted as of October 2026; this lesson works with the law as it stands. ([Overview of the debate, Hebrew Wikipedia](https://he.wikipedia.org/wiki/נישואים_אזרחיים_בישראל))
+
 Lesson 01.4 introduced the map and two cases (Amir: consent cannot create jurisdiction; Lev: the HCJ supervises religious courts). This lesson goes deeper: the statutory text, joinder (כריכה), the race and its regulation since 2016, the civil statutes the rabbinical court must apply, and the 2025 controversy over child maintenance.
 
 > [!IMPORTANT]

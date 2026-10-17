@@ -10,3 +10,6 @@
 - Module 7: after the 27.10.2026 election, update the lessons that describe the dissolved 25th Knesset and pending bills.
 - Module 8: confirm whether unrepresented parties can open a civil case on Net HaMishpat and use the Enforcement Authority personal area; 2026 execution fees.
 - Module 10: holdings of HCJ 5988/21, BRA 120/69 and BAM 7628/17 come only from a government bill's explanatory notes; review lesson 10.3 for neutrality.
+- Neutrality review done (curriculum/qa/neutrality-report.md): check the 06.6 government-side argument (written from memory) against HCJ 2412/23, and the pending media petitions in 06.4; the course mixes "Judea and Samaria" and "West Bank".
+- Links: 568 checked, 1 fixed; 18 gov.il/Kol-Zchut/court pages blocked automated access and need a manual click (curriculum/qa/link-report.md).
+- Year 1 ready to import: repo tal-giladi/law-llb-course, 12 modules, 89 lessons, 484 quiz questions, check-course 0 problems. Years 2–4 are planned, not written.

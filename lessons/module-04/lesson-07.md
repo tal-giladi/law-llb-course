@@ -77,7 +77,7 @@ The exceptions:
 
 - No liability for an act within lawful authority or in reasonable good-faith belief in it, **but** liability for negligence in doing it (s. 3).
 - No liability for a **combat action** of the IDF (s. 5), defined broadly to include fighting terror and hostilities and actions to prevent them that are combat in character (s. 1).
-- For damage caused by the IDF in Judea, Samaria and Gaza: written notice within 60 days and a claim within two years, extendable by the court in limited cases (s. 5א).
+- For damage caused by the IDF in Judea, Samaria and Gaza (the "Area" as the Law defines it; also called the West Bank and Gaza): written notice within 60 days and a claim within two years, extendable by the court in limited cases (s. 5א).
 - No liability towards nationals of an enemy state, residents of territory declared enemy territory (Gaza has been so declared since 2014), or members and activists of a terrorist organisation, except as the Law's schedule allows (s. 5ב).
 - No tort liability for injury or illness of a soldier caused by military service; compensation comes through the rehabilitation laws instead (s. 6).
 

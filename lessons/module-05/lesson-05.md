@@ -59,7 +59,7 @@ Murder in aggravating circumstances (s. 301א) carries mandatory life imprisonme
 
 Killing in circumstances of reduced responsibility (s. 301ב) carries 15 or 20 years: after severe and prolonged abuse of the killer or a family member by the victim; immediately after provocation that substantially impaired self-control; with severely limited mental capacity; or slightly exceeding self-defence, necessity or duress. Killing by rashness (s. 301ג) carries 12 years, and causing death by negligence (s. 304) three years.
 
-A 2026 amendment added s. 301א(ג), allowing the death penalty or life imprisonment for an intentional killing in a terrorist act aimed at denying the existence of the State of Israel. Supporters argue it expresses the gravity of terror murder and deters; opponents, including legal scholars, argue it is unconstitutional, conflicts with Israel's international commitments and will not deter. Its status before the courts should be checked (see [current numbers](../../references/current-numbers.md) and the Knesset database).
+A 2026 amendment added s. 301א(ג), allowing the death penalty or life imprisonment for an intentional killing in a terrorist act aimed at denying the existence of the State of Israel. Supporters argue it expresses the particular gravity of terror murder, deters, and is confined to a narrow category in which the court may still choose life imprisonment; opponents argue it is unconstitutional, conflicts with Israel's international commitments and will not deter. Its status before the courts should be checked (see [current numbers](../../references/current-numbers.md) and the Knesset database).
 
 ### Bodily harm and assault
 
@@ -110,7 +110,7 @@ Riot and insult in a public place (s. 194, three months), disorderly conduct in 
 
 The appellant stabbed his unmarried sister to death because, he said, she intended to travel alone to Egypt and had questioned his paternity of his children, and he asked the court to take into account his community's view of family honour so as to reduce the offence from murder to manslaughter (provocation). The Supreme Court (Justices Rubinstein, Naor and Adiel) dismissed the appeal: "family honour" is not a recognised ground to mitigate a killing, and the victim's dignity and the sanctity of life take precedence.
 
-Why it matters: it addresses whether the objective test of provocation should reflect a defendant's culture. The court refused to let a norm that devalues women's lives lower criminal responsibility. Under the 2019 reform, provocation mitigates only when it substantially impaired self-control **and** the difficulty mitigates culpability in all the circumstances (s. 301ב(ב)(1)), which keeps this evaluative check. [English translation](https://larc.cardozo.yu.edu/iscp-opinions/280)
+Why it matters: it addresses whether the objective test of provocation should reflect a defendant's culture. The court held that a claimed norm of "family honour", which it saw as devaluing women's lives, cannot lower criminal responsibility. Under the 2019 reform, provocation mitigates only when it substantially impaired self-control **and** the difficulty mitigates culpability in all the circumstances (s. 301ב(ב)(1)), which keeps this evaluative check. [English translation](https://larc.cardozo.yu.edu/iscp-opinions/280)
 
 ### Yamar (lesson 05.4)
 

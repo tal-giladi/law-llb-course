@@ -83,7 +83,7 @@ Section 8 is the engine of constitutional review: it sets the test a later statu
 
 | Level | Examples | Valid if |
 |---|---|---|
-| Basic Laws | Basic Law: Human Dignity and Liberty; Basic Law: The Judiciary | Enacted by the Knesset as a Basic Law (and, per HCJ 5658/23, not an extreme abuse of constituent power) |
+| Basic Laws | Basic Law: Human Dignity and Liberty; Basic Law: The Judiciary | Enacted by the Knesset as a Basic Law (and, per HCJ 5658/23, not an extreme deviation from constituent authority) |
 | Statutes (laws, ordinances) | Contracts (General Part) Law; Civil Wrongs Ordinance | Consistent with the Basic Laws, or protected by a "preservation of laws" clause |
 | Regulations, orders, bylaws | Civil Procedure Regulations 2018; a city's parking bylaw | Authorised by a statute, within its scope, made by the right body by the right procedure |
 | Administrative directives and procedures | AG guidelines; a ministry's internal procedure | Consistent with all of the above; bind the authority more than the public |
@@ -107,7 +107,7 @@ Why it matters: it explains the line between statute and secondary legislation. 
 
 ### בג״ץ 5658/23 התנועה למען איכות השלטון בישראל נ׳ הכנסת (1.1.2024)
 
-A fifteen-justice panel considered Amendment No. 3 to Basic Law: The Judiciary, which barred courts from reviewing the reasonableness of decisions of the Government, the Prime Minister and ministers. Twelve justices held that the court has authority, in exceptional and extreme cases, to review Basic Laws for abuse of the Knesset's constituent power. Eight held that this amendment was such a case and declared it void; seven would have upheld it or interpreted it narrowly.
+A fifteen-justice panel considered Amendment No. 3 to Basic Law: The Judiciary, which barred courts from reviewing the reasonableness of decisions of the Government, the Prime Minister and ministers. Twelve justices held that the court has authority, in exceptional and extreme cases, to review Basic Laws for deviation from (exceeding) the Knesset's constituent authority. Eight held that this amendment was such a case and declared it void; seven would have upheld it or interpreted it narrowly.
 
 Why it matters: it adds a level at the very top of the hierarchy, a limit on Basic Laws themselves. The strongest argument for the ruling is that a parliament with a bare majority could otherwise remove core democratic protections by calling an ordinary law a Basic Law. The strongest argument against is that no text authorises the court to review Basic Laws, so the court, whose own powers are set by a Basic Law, should not sit above the constitution-maker. The consolidated text of the Basic Law now shows the struck amendment with a note citing the ruling. [English translation](https://larc.cardozo.yu.edu/iscp-opinions/273)
 
@@ -127,7 +127,7 @@ Use the chain test on any rule that is applied against you.
 
 ## Worked example
 
-Daniel Avraham, an Ultra-Orthodox father of five from Bnei Brak, receives a municipal parking fine for stopping in a loading zone outside his home at 23:00. The sign shows loading hours of 07:00–19:00. The fine cites a section of the city's parking bylaw.
+Daniel Avraham, an Ultra-Orthodox resident of Bnei Brak, receives a municipal parking fine for stopping in a loading zone outside his home at 23:00. The sign shows loading hours of 07:00–19:00. The fine cites a section of the city's parking bylaw.
 
 1. **The rule.** The bylaw section on loading zones. Daniel reads it on the municipality's site and finds it prohibits parking in a loading zone "during the hours shown on the sign".
 2. **Its authority.** The bylaw states it was made under the Municipalities Ordinance. That ordinance allows municipalities to regulate parking by bylaw, so the bylaw is valid in principle.
