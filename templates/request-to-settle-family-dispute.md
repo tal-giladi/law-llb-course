@@ -80,7 +80,7 @@ Notes in English in brackets are guidance; delete them.
 [Concise; only facts needed (reg. 16(ד)). Shortening grounds include: urgent transfer of a child's educational framework; psychological treatment; a new request within a year of an earlier one; urgent maintenance or custody where waiting causes real harm; unknown address or a party abroad; an indictment for violence or sexual offences against the spouse or child; a party in prison or detention; a woman in a shelter; insolvency proceedings; or the unit's recommendation (reg. 16(א)). Extension grounds: bad-faith non-attendance; mourning or illness; a party abroad expected back shortly (reg. 16(ב)). The unit's view is sought in some cases, and a party who did not attend a meeting needs special leave (reg. 16(ג)).]
 
 **הבקשה:** [קיצור / הארכה] של תקופת עיכוב ההליכים בבקשה מס׳ [מספר] מיום [תאריך]
-**העילה:** תקנה 16[(א)/(ב)]([פסקה])
+**העילה:** תקנה 16 (סעיף קטן (א) או (ב), פסקה: ___)
 **העובדות הדרושות:** [1–3 short paragraphs, with documents]
 **העניין שלגביו מבוקש הקיצור:** [specify; shortening for one matter does not open others, reg. 16(ו)]
 
