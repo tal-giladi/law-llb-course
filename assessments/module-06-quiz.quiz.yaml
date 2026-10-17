@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    A coalition passes "Basic Law: The Knesset (Amendment)" by 58–52, changing the method of
+    elections so that they are no longer proportional. A petition argues the amendment has no
+    effect. What is the strongest ground?
+  options:
+    - >-
+      Basic Laws may only be passed with a two-thirds majority of the Knesset.
+    - >-
+      Section 4 is entrenched: it may be changed only by 61 members, in every reading.
+    - >-
+      The amendment fails the limitation clause of Human Dignity and Liberty.
+    - >-
+      Electoral methods are a primary arrangement that only a referendum can change.
+  correct: 1
+  explanation: >-
+    Section 4 of Basic Law: The Knesset may be changed only by a majority of all members, and s. 46
+    requires that majority in all three readings for express or implied changes. This is formal
+    entrenchment, enforced since Bergman (1969); no general two-thirds rule exists.
+- id: q2
+  question: >-
+    A law enacted in 2025 requires every new dental clinic to be at least 500 metres from the
+    nearest existing clinic. A dentist challenges it. Which analysis is correct?
+  options:
+    - >-
+      It is protected by the preservation clause because licensing laws predate 1992.
+    - >-
+      It cannot be reviewed because economic regulation is not justiciable.
+    - >-
+      It is reviewable under Freedom of Occupation unless enacted with a valid override.
+    - >-
+      It is reviewable only if the dentist first shows it harms human dignity.
+  correct: 2
+  explanation: >-
+    Freedom of occupation is a listed right (s. 3) and a post-1992 law is open to review under s. 4.
+    The only escape is an override under s. 8: 61 members and an express statement, lapsing after
+    four years.
+- id: q3
+  question: >-
+    A ministry wants to stop a welfare benefit for anyone who owns a motorbike, on the presumption
+    that owners have hidden income. A lawyer for the ministry asks where the measure is most
+    vulnerable. What do you say?
+  options:
+    - >-
+      Least harmful means: an individual check of real value and use is possible.
+    - >-
+      Proper purpose: preventing benefit fraud is never a proper purpose.
+    - >-
+      Values: a welfare rule does not befit a Jewish and democratic state.
+    - >-
+      Rational connection: owning a vehicle has no link at all to income.
+  correct: 0
+  explanation: >-
+    In Hassan (2012) an absolute car-ownership presumption barely passed rational connection but
+    failed the least-harmful-means test, because an individual examination could achieve the purpose
+    with less harm to the right to minimum dignified existence.
+- id: q4
+  question: >-
+    A minister, relying only on the Government's residual power (Basic Law: The Government s. 32),
+    orders that protest tents may not be set up within 1 km of any ministry. Which stage of the
+    limitation clause is the minister's biggest problem?
+  options:
+    - >-
+      Proportionality in the narrow sense, because the benefit is small.
+    - >-
+      Proper purpose, because public order is not a legitimate aim.
+    - >-
+      Infringement, because protest tents are conduct, not expression.
+    - >-
+      Legality: a right may be limited only by or under express statutory authority.
+  correct: 3
+  explanation: >-
+    The limitation clause requires an infringement "by a law, or under a law by express
+    authorisation". Residual power does not authorise infringing rights, so the order fails at the
+    first condition, before purpose or balancing.
+- id: q5
+  question: >-
+    A city closes a main road through a religious neighbourhood on Sabbath afternoons. Secular
+    residents of that road petition. Following Horev, what is the most likely kind of ruling if the
+    decision ignored them?
+  options:
+    - >-
+      The closure is void because religious feelings are never a legitimate consideration.
+    - >-
+      The decision is sent back to be reconsidered with the residents' interests weighed.
+    - >-
+      The petition is dismissed because closures are a matter for the Knesset alone.
+    - >-
+      The Court orders the road open on all days and sets its own traffic rules.
+  correct: 1
+  explanation: >-
+    Horev held that protecting a religious lifestyle is a legitimate consideration, but that the
+    secular residents of the street had not been properly weighed. The Court set the decision aside
+    for reconsideration rather than setting the policy itself.
+- id: q6
+  question: >-
+    A student writes: "In January 2024 the Supreme Court abolished reasonableness review." How do
+    you correct the sentence accurately?
+  options:
+    - >-
+      The Court voided, 8–7, the amendment that barred reasonableness review of ministers.
+    - >-
+      The Court upheld the amendment but read it as covering only extreme cases.
+    - >-
+      The Court deferred the amendment so that it applies from the next Knesset.
+    - >-
+      The Court held Basic Laws can never be reviewed, so the amendment stands.
+  correct: 0
+  explanation: >-
+    In HCJ 5658/23 twelve justices held Basic Laws reviewable in extreme cases and eight voided the
+    reasonableness amendment, so reasonableness review continues. Deferral was the remedy in the
+    separate incapacity case (2412/23), and a narrow reading was the view of three minority justices.
+- id: q7
+  question: >-
+    For a debate, you must give the strongest legal argument for the 2025 judicial-selection
+    amendment and the strongest against. Which pair is stated fairly?
+  options:
+    - >-
+      For: the current judges are partisan. Against: the politicians who would choose them are self-serving.
+    - >-
+      For: it was passed by a Knesset majority. Against: the Attorney General opposes it and fully backs the petitioners in court.
+    - >-
+      For: elected officials choose judges in most democracies. Against: with few other checks, this risks independence.
+    - >-
+      For: it removes the judges from the committee. Against: it gives the Bar a veto.
+  correct: 2
+  explanation: >-
+    The fair pair states each side's legal and structural reason. The amendment keeps three judges
+    on the committee and removes the Bar representatives, so the last option misstates it; the first
+    two are slogans or appeals to authority, not arguments.
+- id: q8
+  question: >-
+    Your welfare office has failed to decide your application for seven months despite two letters.
+    You want the cheapest effective step outside court. What is it?
+  options:
+    - >-
+      A petition to the High Court of Justice, since delay is unreasonable.
+    - >-
+      A complaint to the President, who supervises government offices.
+    - >-
+      A request to a Knesset committee to order the office to decide.
+    - >-
+      A signed complaint to the Ombudsman, which covers delay and is free.
+  correct: 3
+  explanation: >-
+    The Ombudsman (the State Comptroller) investigates acts and omissions, including delay, that
+    harm the complainant directly (State Comptroller Law s. 37), without a fee. A court petition
+    costs a fee and is slower; the President and Knesset committees do not decide individual cases.
+- id: q9
+  question: >-
+    You analyse a 2004 statutory provision setting a mandatory age for leaving a job. Your draft
+    concludes it fails least harmful means because "a higher age would be gentler". What is wrong?
+  options:
+    - >-
+      A higher age achieves less of the purpose, so it belongs in the narrow-sense balance.
+    - >-
+      The provision predates 1992 and is protected by the preservation clause.
+    - >-
+      Least harmful means can only be argued with comparative foreign law.
+    - >-
+      Equality on grounds of age is not a constitutional right in Israel.
+  correct: 0
+  explanation: >-
+    The least-harmful-means test asks whether an alternative achieves the purpose to the same degree
+    with less harm. An alternative that achieves less is weighed at the narrow-sense stage. The
+    provision is from 2004, and Gavish recognised the infringement of equality.
+- id: q10
+  question: >-
+    The IDF refused, without reasons, your request to defer reserve duty starting in three weeks. You
+    wrote asking for reasons and a hearing; no answer after ten days. Which dry-run petition is best
+    drafted?
+  options:
+    - >-
+      To the Administrative Affairs Court, asking for an exemption and damages.
+    - >-
+      To the HCJ, asking to cancel the decision, reconsider after a hearing, with an interim order.
+    - >-
+      To the HCJ, asking for a declaration that the whole reserve-duty system is unconstitutional and void.
+    - >-
+      To the HCJ, filed only after the duty starts, so the harm is proved.
+  correct: 1
+  explanation: >-
+    IDF reserve decisions are not in the Administrative Affairs Courts' schedule, so the HCJ is
+    residual. A prior demand was made, the relief is narrow and grantable, and an interim order
+    prevents the petition from becoming pointless. Waiting risks mootness; damages are not HCJ relief.

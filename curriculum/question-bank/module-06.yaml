@@ -1,0 +1,1336 @@
+# Module 06 question bank (not imported). Feeds the daily practice tool.
+- id: m06-001
+  module: 6
+  lesson: "06.1"
+  subject: harari-decision
+  difficulty: 1
+  question: >-
+    What did the Knesset's Harari Decision of June 1950 decide about the constitution?
+  options:
+    - >-
+      That Israel would have no written constitution at all.
+    - >-
+      That the Declaration of Independence would serve as the constitution.
+    - >-
+      That it would be built chapter by chapter, each chapter a Basic Law.
+    - >-
+      That a Constituent Assembly would be elected again within five years.
+  correct: 2
+  explanation: >-
+    The Harari Decision chose a gradual path: Basic Laws, one chapter at a time, to be joined later.
+    It left open the majority needed, their status and when the work would end.
+- id: m06-002
+  module: 6
+  lesson: "06.1"
+  subject: entrenchment
+  difficulty: 1
+  question: >-
+    Which Basic Law has no entrenchment clause at all, so that in form it can be amended by a simple
+    majority?
+  options:
+    - >-
+      Basic Law: Human Dignity and Liberty.
+    - >-
+      Basic Law: Freedom of Occupation.
+    - >-
+      Basic Law: The Knesset, section 4.
+    - >-
+      Basic Law: The Knesset, section 9א.
+  correct: 0
+  explanation: >-
+    Human Dignity and Liberty has a limitation clause but no entrenchment clause. Freedom of
+    Occupation requires a Basic Law passed by 61 members to change it (s. 7); s. 4 and s. 9א of
+    Basic Law: The Knesset are entrenched by s. 45–46.
+- id: m06-003
+  module: 6
+  lesson: "06.1"
+  subject: bergman
+  difficulty: 2
+  question: >-
+    In Bergman (1969), why could the election-funding law not be applied as it stood?
+  options:
+    - >-
+      It failed the limitation clause of Human Dignity and Liberty.
+    - >-
+      It had been passed in only two readings instead of three.
+    - >-
+      The Court held all laws on elections non-justiciable.
+    - >-
+      It changed the equality of elections without the 61-member majority.
+  correct: 3
+  explanation: >-
+    Section 4 of Basic Law: The Knesset requires a majority of all members to change the equality of
+    elections. The law lacked that majority, so it could not stand unless re-enacted by 61 or
+    amended. The limitation clause did not exist until 1992.
+- id: m06-004
+  module: 6
+  lesson: "06.1"
+  subject: constituent-authority-theories
+  difficulty: 2
+  question: >-
+    In Bank Mizrahi, which justice held that the Knesset has no constituent power and can bind
+    itself only by procedural entrenchment?
+  options:
+    - >-
+      President Barak.
+    - >-
+      Justice Cheshin.
+    - >-
+      Former President Shamgar.
+    - >-
+      Justice Dorner.
+  correct: 1
+  explanation: >-
+    Barak held the "two hats" constituent-authority theory, Shamgar the unlimited-sovereignty
+    theory; Cheshin denied that constituent power passed to later Knessets and accepted only
+    procedural self-limitation.
+- id: m06-005
+  module: 6
+  lesson: "06.1"
+  subject: abuse-of-constituent-power
+  difficulty: 2
+  question: >-
+    A coalition uses a "temporary" Basic Law to set a special rule that will apply only to the
+    current Government's budget. Which doctrine is a petitioner most likely to rely on?
+  options:
+    - >-
+      The limitation clause, because a budget infringes property.
+    - >-
+      Non-justiciability, because budgets are political.
+    - >-
+      Abuse of constituent power: the norm lacks stability and generality.
+    - >-
+      The preservation-of-laws clause, because budgets are annual.
+  correct: 2
+  explanation: >-
+    Bar-On (2011) warned against using Basic Laws for ordinary political needs, and Shafir (2021)
+    set the tests of stability, generality, fit with the constitutional fabric and distinctiveness.
+    A tailored temporary norm is the classic target.
+- id: m06-006
+  module: 6
+  lesson: "06.1"
+  subject: basic-law-torah-study
+  difficulty: 1
+  question: >-
+    By what vote and in what form was Basic Law: Torah Study passed in July 2026?
+  options:
+    - >-
+      80–40, as a detailed law on service exemptions.
+    - >-
+      61–59, together with a Basic Law: Legislation.
+    - >-
+      By referendum, after a Knesset vote of 70–50.
+    - >-
+      63–52, as a single section stating a value.
+  correct: 3
+  explanation: >-
+    It passed 63–52 on 13 July 2026 as a one-section declaration. It shows how light the procedure
+    for creating a Basic Law is: no special majority is required.
+- id: m06-007
+  module: 6
+  lesson: "06.1"
+  subject: deviation-from-constituent-authority
+  difficulty: 3
+  question: >-
+    A classmate says: "After 5658/23, the Court can strike down any Basic Law it considers unwise."
+    What is the most accurate correction?
+  options:
+    - >-
+      Twelve justices held review possible only in extreme cases touching the democratic core.
+    - >-
+      The Court held it may review Basic Laws only for procedural defects in the readings.
+    - >-
+      A majority held that only the Knesset's legal adviser may question a Basic Law.
+    - >-
+      All fifteen justices agreed that Basic Laws can be reviewed for proportionality.
+  correct: 0
+  explanation: >-
+    Twelve of fifteen held that the Knesset as constituent authority may not deny Israel's core as a
+    Jewish and democratic state, and that review is possible only in extreme cases. Three justices
+    held there is no power at all to review Basic Laws.
+- id: m06-008
+  module: 6
+  lesson: "06.1"
+  subject: neutrality
+  difficulty: 3
+  question: >-
+    Which statement fairly states the strongest argument AGAINST judicial review of Basic Laws?
+  options:
+    - >-
+      Judges in Israel are biased towards one political camp, so their review of Basic Laws cannot be trusted.
+    - >-
+      No text grants the power, and the vague limits are defined by the judges applying them.
+    - >-
+      Basic Laws are always passed by large majorities, so they reflect consensus.
+    - >-
+      Other democracies never allow courts to review constitutional amendments.
+  correct: 1
+  explanation: >-
+    The strongest legal argument is about source and standards: no text gives the power, and the
+    judges themselves define the limits. The other options are an attack on judges, a false fact
+    (Basic Laws are often passed narrowly) and an inaccurate comparison (India, Germany).
+- id: m06-009
+  module: 6
+  lesson: "06.2"
+  subject: kol-haam
+  difficulty: 1
+  question: >-
+    What test did Kol Ha'am (1953) set for suspending a newspaper under the Press Ordinance?
+  options:
+    - >-
+      A reasonable possibility of harm to public order.
+    - >-
+      Any danger the minister believes in good faith.
+    - >-
+      A "near certainty" of real danger to public peace.
+    - >-
+      Proof that an offence had already been committed.
+  correct: 2
+  explanation: >-
+    The Court read the Ordinance in light of freedom of expression and required a near certainty
+    (ודאות קרובה) of real danger, through interpretation rather than striking down the statute.
+- id: m06-010
+  module: 6
+  lesson: "06.2"
+  subject: preservation-of-laws
+  difficulty: 2
+  question: >-
+    A provision of a 1985 law limits personal liberty. It has not been amended since. Can a court
+    declare it void under Human Dignity and Liberty?
+  options:
+    - >-
+      No; s. 10 preserves it, though it is interpreted in the Basic Law's spirit.
+    - >-
+      Yes; the preservation clause of Human Dignity and Liberty expired in March 2002.
+    - >-
+      Yes, but only the HCJ, sitting as an expanded panel.
+    - >-
+      No, because liberty is not a right listed in that Basic Law.
+  correct: 0
+  explanation: >-
+    Section 10 of Human Dignity and Liberty has no end date and protects law in force before March
+    1992. The 2002 expiry applies to Freedom of Occupation's preservation clause. Liberty is listed in
+    s. 5.
+- id: m06-011
+  module: 6
+  lesson: "06.2"
+  subject: override-clause
+  difficulty: 2
+  question: >-
+    A 2026 law bans a type of business and states it is valid "despite Basic Law: Freedom of
+    Occupation". It passed 64–50. What is its status?
+  options:
+    - >-
+      Void, because override needs 80 votes.
+    - >-
+      Valid permanently, because the Knesset expressly said so.
+    - >-
+      Void, because override applies only to Human Dignity and Liberty.
+    - >-
+      Valid even if disproportionate, but it lapses after four years.
+  correct: 3
+  explanation: >-
+    Section 8 of Freedom of Occupation allows an override with 61 members and an express statement;
+    it lapses after four years unless an earlier date is set. Human Dignity and Liberty has no
+    override clause.
+- id: m06-012
+  module: 6
+  lesson: "06.2"
+  subject: meat-law
+  difficulty: 1
+  question: >-
+    Which law is the only one to have used the Freedom of Occupation override?
+  options:
+    - >-
+      The Retirement Age Law 2004.
+    - >-
+      The Meat and Meat Products Law 1994.
+    - >-
+      The Tal Law 2002.
+    - >-
+      The Prevention of Infiltration Law 2013.
+  correct: 1
+  explanation: >-
+    The Meat Law banned importing non-kosher meat and was declared valid despite the Basic Law
+    (s. 5). Passed within a year of the Basic Law, it is exempt from the four-year lapse (s. 8(ב)).
+- id: m06-013
+  module: 6
+  lesson: "06.2"
+  subject: tzemach
+  difficulty: 2
+  question: >-
+    In Tzemach (1999), what remedy did the Court use after holding 96-hour military detention before
+    a judge disproportionate?
+  options:
+    - >-
+      It ordered the release of all soldiers then in detention.
+    - >-
+      It rewrote the provision to read 48 hours with immediate effect.
+    - >-
+      It voided the provision and suspended the declaration for six months.
+    - >-
+      It referred the question to the Knesset without a ruling.
+  correct: 2
+  explanation: >-
+    The Court struck only the specific provision and suspended the declaration so the Knesset could
+    legislate. Both tools, narrow invalidation and suspension, are now standard.
+- id: m06-014
+  module: 6
+  lesson: "06.2"
+  subject: ressler-tal-law
+  difficulty: 2
+  question: >-
+    Why did the Court hold the Tal Law disproportionate in Ressler v. Knesset (2012)?
+  options:
+    - >-
+      Religious study can never justify a different service arrangement.
+    - >-
+      It had not achieved its own aims in practice, harming equality.
+    - >-
+      It was passed without the 61 votes needed to change a Basic Law.
+    - >-
+      It infringed the yeshiva students' freedom of religion.
+  correct: 1
+  explanation: >-
+    The Court looked at how the law worked: the gradual integration it promised had not happened, so
+    its infringement of equality, part of human dignity, was disproportionate and it could not be
+    extended beyond August 2012.
+- id: m06-015
+  module: 6
+  lesson: "06.2"
+  subject: reviewability-check
+  difficulty: 3
+  question: >-
+    A 1980 law on professional licences was amended in 2019 to add a new condition. A professional
+    challenges the 2019 condition. Which first step is correct?
+  options:
+    - >-
+      The whole law is reviewable because it was amended after 1992.
+    - >-
+      Nothing is reviewable because the law dates from 1980.
+    - >-
+      Only the HCJ may decide, and only on a public petitioner's petition.
+    - >-
+      The 2019 amendment is reviewable; check for an override, then apply s. 4.
+  correct: 3
+  explanation: >-
+    Preservation protects law as it stood before the Basic Laws; a later amendment is new law and is
+    reviewable. For occupation, check for a valid override, then apply the limitation clause.
+- id: m06-016
+  module: 6
+  lesson: "06.2"
+  subject: neutrality
+  difficulty: 3
+  question: >-
+    Critics of broad judicial review have proposed several reforms. Which is one they have proposed,
+    as described in this module, and what is its status in October 2026?
+  options:
+    - >-
+      A special majority of justices to strike down a law; not enacted.
+    - >-
+      Abolishing the High Court of Justice; passed a first reading.
+    - >-
+      Electing judges by popular vote; enacted in 2025.
+    - >-
+      Requiring a referendum before any ruling; enacted in 2023.
+  correct: 0
+  explanation: >-
+    Proposals include a general override clause, a special majority of justices, or review only by a
+    full panel. None has been enacted as of October 2026. The 2025 amendment changed the selection
+    committee, not elections by voters.
+- id: m06-017
+  module: 6
+  lesson: "06.3"
+  subject: limitation-clause-structure
+  difficulty: 1
+  question: >-
+    Who bears the burden at the stage of showing that a constitutional right was infringed?
+  options:
+    - >-
+      The State, at every stage of the analysis, including the infringement stage.
+    - >-
+      The court, which investigates of its own motion.
+    - >-
+      The challenger; the State then justifies under the limitation clause.
+    - >-
+      The Knesset's legal adviser, who must defend the law.
+  correct: 2
+  explanation: >-
+    The challenger must first show an infringement of a protected right. The burden then moves to
+    the State to show that the four conditions of the limitation clause are met.
+- id: m06-018
+  module: 6
+  lesson: "06.3"
+  subject: least-harmful-means
+  difficulty: 2
+  question: >-
+    A by-law bans all street performers from the city centre to reduce noise. A performer proposes
+    instead a decibel limit enforced by inspectors, which would cut noise just as much. At which
+    stage does this argument belong?
+  options:
+    - >-
+      Least harmful means: an equally effective, less harmful alternative.
+    - >-
+      Proper purpose: noise reduction is not important enough.
+    - >-
+      Narrow sense: the benefit of quieter streets is too small for the harm.
+    - >-
+      Rational connection: a ban does not reduce noise.
+  correct: 0
+  explanation: >-
+    An alternative that achieves the purpose to the same degree with less harm is the core of the
+    least-harmful-means test. If it achieved less, it would move to the narrow-sense balance.
+- id: m06-019
+  module: 6
+  lesson: "06.3"
+  subject: adalah
+  difficulty: 2
+  question: >-
+    In Adalah (2006) on family unification, why is the case taught as a lesson about the narrow-sense
+    stage?
+  options:
+    - >-
+      The Court held the law had no proper purpose at all.
+    - >-
+      All justices agreed the law failed the least-harmful-means test.
+    - >-
+      The law was struck down because a temporary provision cannot limit the right to family life.
+    - >-
+      Justices applying the same test split 6–5 on whether the gain justified the harm.
+  correct: 3
+  explanation: >-
+    Barak's five held a blanket ban added little security over individual checks at great cost to
+    rights; the majority on the outcome upheld it. The case shows hard cases are decided at the
+    balancing stage.
+- id: m06-020
+  module: 6
+  lesson: "06.3"
+  subject: private-prison
+  difficulty: 2
+  question: >-
+    What made the private-prison amendment unconstitutional in Academic Center (2009)?
+  options:
+    - >-
+      Evidence from its first years of operation showed that inmates in the private prison had been abused.
+    - >-
+      Giving the power to imprison to a profit-making body infringed liberty and dignity by its nature.
+    - >-
+      The Knesset passed it without the required 61-member majority.
+    - >-
+      Prisons are a primary arrangement that the minister had decided alone.
+  correct: 1
+  explanation: >-
+    The prison had not opened; the 8–1 majority held that the transfer of the power to imprison to a
+    profit-making company was itself an additional, disproportionate infringement. Justice Levy
+    dissented as the harm was speculative.
+- id: m06-021
+  module: 6
+  lesson: "06.3"
+  subject: legality
+  difficulty: 2
+  question: >-
+    A ministry's internal directive, issued without any statutory provision mentioning the subject,
+    limits whom detainees may phone. Which condition of the limitation clause fails first?
+  options:
+    - >-
+      Values, because the directive does not befit a democracy.
+    - >-
+      Proper purpose, because security is not proper.
+    - >-
+      Legality: no law, and no express authorisation in a law.
+    - >-
+      Narrow sense, because the benefit is small.
+  correct: 2
+  explanation: >-
+    The infringement must be by a law or under a law with express authorisation. An internal
+    directive without such authorisation fails at the first condition, before purpose or balancing.
+- id: m06-022
+  module: 6
+  lesson: "06.3"
+  subject: desta
+  difficulty: 2
+  question: >-
+    What did the Court decide in Desta (2015) about the Prevention of Infiltration Law?
+  options:
+    - >-
+      It upheld three months' custody but held the 20-month residency-centre maximum disproportionate.
+    - >-
+      It struck down the whole law and ordered all residency centres and custody facilities closed at once.
+    - >-
+      It upheld every provision as within the Knesset's margin.
+    - >-
+      It held the subject non-justiciable as foreign policy.
+  correct: 0
+  explanation: >-
+    The Court read the custody provision narrowly and upheld it, struck the 20-month maximum and set
+    an interim limit. It was the third round of a dialogue with the Knesset after Adam and Eitan.
+- id: m06-023
+  module: 6
+  lesson: "06.3"
+  subject: purpose-evidence
+  difficulty: 3
+  question: >-
+    You are preparing a proportionality argument against a 2025 law. Where do you look first for its
+    purpose, and how do you state it?
+  options:
+    - >-
+      In newspaper op-eds by its opponents, stated as they describe it.
+    - >-
+      In the minister's social-media posts, stated as the most extreme reading.
+    - >-
+      Nowhere; the court decides purpose without sources.
+    - >-
+      In the explanatory notes and committee protocols, stated at its strongest.
+  correct: 3
+  explanation: >-
+    Courts look at the declared purpose in the bill's explanatory notes and committee protocols, and
+    at how the law works. Stating it at its strongest makes your argument credible.
+- id: m06-024
+  module: 6
+  lesson: "06.3"
+  subject: remedy
+  difficulty: 3
+  question: >-
+    Your analysis concludes that one sub-section of a long law fails the narrow-sense test. Which
+    remedy should your memo propose as most consistent with Israeli practice?
+  options:
+    - >-
+      Voiding the entire law, so that the Knesset must start the legislative process over.
+    - >-
+      Striking or reading down that sub-section, possibly with a suspended declaration.
+    - >-
+      A declaration that the Knesset acted in bad faith.
+    - >-
+      Damages for everyone affected since the law began.
+  correct: 1
+  explanation: >-
+    The Court usually chooses the narrowest remedy: severance, reading down and suspension (Tzemach,
+    Desta, Avneri). Voiding a whole law is rare, and the HCJ does not award damages.
+- id: m06-025
+  module: 6
+  lesson: "06.4"
+  subject: derived-rights
+  difficulty: 1
+  question: >-
+    Equality is not listed in Basic Law: Human Dignity and Liberty. How is it protected
+    constitutionally?
+  options:
+    - >-
+      Only through the Nation-State Basic Law.
+    - >-
+      It is not protected; only statutes protect equality.
+    - >-
+      As a right derived from human dignity.
+    - >-
+      Through the Declaration of Independence, which is a Basic Law.
+  correct: 2
+  explanation: >-
+    The courts derive equality, expression, family life and minimum subsistence from human dignity.
+    The Declaration is not a Basic Law, and the Nation-State Basic Law does not mention equality.
+- id: m06-026
+  module: 6
+  lesson: "06.4"
+  subject: who-holds-rights
+  difficulty: 1
+  question: >-
+    A tourist with no Israeli status wants to open a business in Israel and invokes freedom of
+    occupation. What is the problem?
+  options:
+    - >-
+      Freedom of occupation belongs to citizens and residents only.
+    - >-
+      Freedom of occupation protects only employees, not businesses.
+    - >-
+      Tourists must first petition the Knesset for recognition.
+    - >-
+      Freedom of occupation applies only to licensed professions.
+  correct: 0
+  explanation: >-
+    Section 3 of Freedom of Occupation protects "every citizen or resident". Most rights in Human
+    Dignity and Liberty belong to every person.
+- id: m06-027
+  module: 6
+  lesson: "06.4"
+  subject: miller
+  difficulty: 2
+  question: >-
+    In Miller (1995), why did the majority reject the army's reasons for excluding women from the
+    pilots' course?
+  options:
+    - >-
+      Women had been shown to perform better than men in training.
+    - >-
+      The army had no statutory power to run a pilots' course.
+    - >-
+      The Knesset had passed a law requiring women pilots.
+    - >-
+      Budget and planning reasons could not justify a general exclusion.
+  correct: 3
+  explanation: >-
+    The majority held that cost and planning considerations did not justify excluding all women;
+    equality required individual consideration. The dissent would have deferred to the army.
+- id: m06-028
+  module: 6
+  lesson: "06.4"
+  subject: horizontal-effect
+  difficulty: 2
+  question: >-
+    A private gym refuses entry to people of a certain religion. Can you rely directly on Basic Law:
+    Human Dignity and Liberty against it?
+  options:
+    - >-
+      Yes; s. 11 binds every person and every business in Israel, exactly as it binds the State.
+    - >-
+      Not directly: it binds public authorities; values enter through statutes and open terms.
+    - >-
+      No; private discrimination is lawful unless the Knesset bans it.
+    - >-
+      Yes, but only in the High Court of Justice.
+  correct: 1
+  explanation: >-
+    Section 11 binds governmental authorities. Against private parties, constitutional values enter
+    through anti-discrimination statutes and open terms such as good faith and public policy.
+- id: m06-029
+  module: 6
+  lesson: "06.4"
+  subject: minimum-subsistence
+  difficulty: 2
+  question: >-
+    In Commitment to Peace and Social Justice (2005), why did the petitions against benefit cuts
+    fail even though the Court recognised a right to minimum dignified existence?
+  options:
+    - >-
+      The petitioners had not proved the cuts left people below that minimum.
+    - >-
+      The right was held to apply only to citizens over 65.
+    - >-
+      Budget and benefit laws were held immune from any constitutional review.
+    - >-
+      The petitions were filed too late.
+  correct: 0
+  explanation: >-
+    The majority recognised the derived right but held that the petitioners carried the burden of
+    showing an infringement and had not met it. Justice Levy, dissenting, would have shifted the
+    burden to the State.
+- id: m06-030
+  module: 6
+  lesson: "06.4"
+  subject: hasson
+  difficulty: 2
+  question: >-
+    How did the Court in Hasson (2021) treat s. 7 of the Nation-State Basic Law on Jewish settlement?
+  options:
+    - >-
+      It voided s. 7 as contrary to equality.
+    - >-
+      It held that s. 7 overrides the principle of equality in every allocation of state land.
+    - >-
+      It read s. 7 as not permitting land allocation by religion or nationality.
+    - >-
+      It held s. 7 non-justiciable as a declaration of values.
+  correct: 2
+  explanation: >-
+    The majority read the Basic Law together with the others: s. 7 does not permit allocating state
+    land on the basis of religion or nationality. Justice Karra would have voided parts of the law.
+- id: m06-031
+  module: 6
+  lesson: "06.4"
+  subject: religion-public-space
+  difficulty: 3
+  question: >-
+    A local council in a mixed Jewish-Arab town wants to ban loudspeakers at all houses of worship
+    at night. Residents of each community object. Which framing would a court use?
+  options:
+    - >-
+      Religious practice is outside the court's jurisdiction.
+    - >-
+      Only the majority community's interest is legitimate, so the by-law should follow its wishes.
+    - >-
+      Noise rules are never subject to rights analysis.
+    - >-
+      Both religious freedom and residents' rest are legitimate; weigh them proportionately.
+  correct: 3
+  explanation: >-
+    As in Horev, both groups' interests are legitimate and must be weighed. A by-law limiting
+    religious expression needs authority and must pass proportionality; less harmful options such as
+    volume limits are relevant.
+- id: m06-032
+  module: 6
+  lesson: "06.4"
+  subject: draft-equality-current
+  difficulty: 3
+  question: >-
+    As of October 2026, what is the legal state of military-service equality for yeshiva students?
+  options:
+    - >-
+      A 2024 ruling requires enforcement; new 2026 laws are challenged, the arrests law frozen.
+    - >-
+      The Tal Law is in force again and was upheld by an expanded panel of the Court in June 2024.
+    - >-
+      Basic Law: Torah Study was voided by the Court in August 2026.
+    - >-
+      No court has ruled on the subject since 1998.
+  correct: 0
+  explanation: >-
+    In June 2024 (HCJ 6198/23) the Court held the State must enforce the Defence Service Law absent
+    a statutory exemption. Basic Law: Torah Study and an arrests law followed in July 2026; petitions
+    are pending and the arrests law was frozen by interim order.
+- id: m06-033
+  module: 6
+  lesson: "06.5"
+  subject: constructive-no-confidence
+  difficulty: 1
+  question: >-
+    How can the Knesset bring down the Government by a no-confidence vote?
+  options:
+    - >-
+      By a simple majority of the members present voting against the Government.
+    - >-
+      By a two-thirds majority of all members.
+    - >-
+      By 61 members expressing confidence in an alternative government.
+    - >-
+      By a referendum initiated by 61 members.
+  correct: 2
+  explanation: >-
+    Section 28 of Basic Law: The Government requires a "constructive" no-confidence vote: a majority
+    of members expressing confidence in another government.
+- id: m06-034
+  module: 6
+  lesson: "06.5"
+  subject: president-powers
+  difficulty: 1
+  question: >-
+    Which act of the President does NOT need a minister's countersignature?
+  options:
+    - >-
+      Granting a pardon.
+    - >-
+      Assigning the task of forming a government.
+    - >-
+      Signing the instrument that ratifies a treaty.
+    - >-
+      Appointing an ambassador.
+  correct: 1
+  explanation: >-
+    Section 12 of Basic Law: The President requires a countersignature for official acts except
+    those relating to forming a government and dissolving the Knesset. Pardons are countersigned.
+- id: m06-035
+  module: 6
+  lesson: "06.5"
+  subject: ombudsman-scope
+  difficulty: 2
+  question: >-
+    Which complaint will the Ombudsman NOT investigate?
+  options:
+    - >-
+      A tax office's two-year delay in answering you.
+    - >-
+      A clerk at a local authority treating you rudely.
+    - >-
+      A ministry ignoring a relevant document you sent.
+    - >-
+      A judge's decision in your pending lawsuit.
+  correct: 3
+  explanation: >-
+    Section 38 of the State Comptroller Law excludes judicial acts and matters pending before a
+    court. Delay, rudeness and ignoring relevant material are classic Ombudsman matters (s. 37).
+- id: m06-036
+  module: 6
+  lesson: "06.5"
+  subject: ombudsman-deadline
+  difficulty: 2
+  question: >-
+    You have 30 days to appeal a ministry decision to a tribunal and decide to complain to the
+    Ombudsman instead. What is the risk?
+  options:
+    - >-
+      A complaint does not extend the appeal deadline, and an appeal route may bar investigation.
+    - >-
+      None; the Ombudsman's investigation automatically freezes all statutory deadlines until it ends.
+    - >-
+      The Ombudsman will forward the complaint to the tribunal as an appeal.
+    - >-
+      The ministry may fine you for duplicate proceedings.
+  correct: 0
+  explanation: >-
+    A complaint does not extend any statutory deadline (s. 45(א)(2)), and where an appeal route
+    exists the Ombudsman investigates only for a special reason (s. 39). File the appeal on time.
+- id: m06-037
+  module: 6
+  lesson: "06.5"
+  subject: kach-disqualification
+  difficulty: 2
+  question: >-
+    What evidentiary standard did Kach (1988) set for disqualifying a list under s. 7א?
+  options:
+    - >-
+      A reasonable suspicion based on the list's platform.
+    - >-
+      A criminal conviction of the list's leader.
+    - >-
+      Clear, convincing and unequivocal evidence of the prohibited aims or acts.
+    - >-
+      A two-thirds vote of the Central Elections Committee, with no need for court approval.
+  correct: 2
+  explanation: >-
+    The Court upheld Kach's disqualification on clear, convincing and unequivocal evidence, a
+    standard it applies narrowly before every election.
+- id: m06-038
+  module: 6
+  lesson: "06.5"
+  subject: speaker-case
+  difficulty: 2
+  question: >-
+    Why is the 2020 Speaker case (HCJ 2144/20) controversial?
+  options:
+    - >-
+      The Court appointed a new Speaker itself instead of letting the Knesset vote.
+    - >-
+      The Court ordered the presiding officer of the Knesset to hold a vote.
+    - >-
+      The Court dissolved the Knesset.
+    - >-
+      The Court refused to hear a petition by 61 members.
+  correct: 1
+  explanation: >-
+    The Court ordered a vote on a permanent Speaker by a set date. Supporters say it protected the
+    Knesset majority; critics say it intruded into internal Knesset procedure. The Speaker resigned.
+- id: m06-039
+  module: 6
+  lesson: "06.5"
+  subject: comptroller-term
+  difficulty: 1
+  question: >-
+    How is the State Comptroller chosen, and for how long?
+  options:
+    - >-
+      Appointed by the Government for five years, renewable.
+    - >-
+      Appointed by the President on the PM's advice for life.
+    - >-
+      Chosen by the Judicial Selection Committee for ten years.
+    - >-
+      Elected by the Knesset by secret ballot for a single seven-year term.
+  correct: 3
+  explanation: >-
+    Basic Law: The State Comptroller s. 7: elected by the Knesset by secret ballot, seven years, one
+    term only. The Comptroller answers only to the Knesset (s. 6).
+- id: m06-040
+  module: 6
+  lesson: "06.5"
+  subject: which-institution
+  difficulty: 3
+  question: >-
+    A ministry policy you think is wrong, but lawful, will affect thousands of people including you.
+    Which route best fits?
+  options:
+    - >-
+      A letter to the minister and participation in the Knesset committee process.
+    - >-
+      An Ombudsman complaint about the policy as a whole.
+    - >-
+      An HCJ petition arguing that the policy is unwise and should be replaced by another.
+    - >-
+      A request to the President to cancel the policy.
+  correct: 0
+  explanation: >-
+    Lawful policy disagreements belong to the political institutions: the minister, the Government
+    and Knesset committees. The Ombudsman deals with individual harm, courts with unlawfulness, and
+    the President has no such power.
+- id: m06-041
+  module: 6
+  lesson: "06.6"
+  subject: standing
+  difficulty: 1
+  question: >-
+    What did Ressler v. Minister of Defence (1988) establish about standing?
+  options:
+    - >-
+      Only Knesset members may petition on constitutional questions.
+    - >-
+      Only people personally harmed may ever petition.
+    - >-
+      Public petitioners may be heard where the rule of law is at stake.
+    - >-
+      Organisations may petition only with the Attorney General's consent.
+  correct: 2
+  explanation: >-
+    Ressler opened the HCJ to public petitioners on rule-of-law issues and narrowed
+    non-justiciability. Critics say it made the Court a forum for every public controversy.
+- id: m06-042
+  module: 6
+  lesson: "06.6"
+  subject: primary-arrangements
+  difficulty: 2
+  question: >-
+    In Rubinstein (1998), what did the Court decide about yeshiva-student deferrals?
+  options:
+    - >-
+      That a decision of that scale must be made by the Knesset in a statute.
+    - >-
+      That all deferrals are unconstitutional and must end at once, without any transition.
+    - >-
+      That the minister has unlimited discretion over deferrals.
+    - >-
+      That the matter is non-justiciable.
+  correct: 0
+  explanation: >-
+    The primary-arrangements doctrine: a decision of that scale, dividing society, must be made by
+    the Knesset. The Court suspended its ruling for twelve months; the Tal Law followed.
+- id: m06-043
+  module: 6
+  lesson: "06.6"
+  subject: incapacity-amendment
+  difficulty: 2
+  question: >-
+    What was the remedy in HCJ 2412/23 on the 2023 incapacity amendment?
+  options:
+    - >-
+      The amendment was voided entirely, 8–7.
+    - >-
+      The amendment was upheld with no conditions.
+    - >-
+      The Court read it narrowly to cover mental incapacity only.
+    - >-
+      Its application was deferred to the next Knesset, by 6–5.
+  correct: 3
+  explanation: >-
+    The majority held it an abuse of constituent power because of its personal character and
+    immediate application, and deferred it to the 26th Knesset rather than voiding it.
+- id: m06-044
+  module: 6
+  lesson: "06.6"
+  subject: judicial-selection-rules
+  difficulty: 2
+  question: >-
+    Under the 2025 judicial-selection amendment, who replaces the two Bar Association
+    representatives on the committee?
+  options:
+    - >-
+      Two more Supreme Court justices.
+    - >-
+      Two public representatives chosen by coalition and opposition MKs respectively.
+    - >-
+      Two additional ministers chosen by the Prime Minister with the Government's approval.
+    - >-
+      Two academics chosen by the law faculties.
+  correct: 1
+  explanation: >-
+    The amendment replaces the Bar representatives with two public representatives, one chosen by
+    coalition MKs and one by opposition MKs, and splits the two MK seats the same way.
+- id: m06-045
+  module: 6
+  lesson: "06.6"
+  subject: judicial-selection-status
+  difficulty: 2
+  question: >-
+    A journalist writes in September 2026 that "the new committee appointed three judges last
+    month". What is wrong?
+  options:
+    - >-
+      The committee can appoint only Supreme Court justices.
+    - >-
+      The amendment was voided by the Supreme Court in an expanded panel in 2025.
+    - >-
+      The amendment applies only from the 26th Knesset, not yet begun.
+    - >-
+      Appointments now need a referendum.
+  correct: 2
+  explanation: >-
+    The amendment takes effect when the 26th Knesset begins (elections 27 October 2026). Petitions
+    against it were pending; the old committee composition still applied in September 2026.
+- id: m06-046
+  module: 6
+  lesson: "06.6"
+  subject: reasonableness-arguments
+  difficulty: 3
+  question: >-
+    Which is the strongest legal argument FOR keeping reasonableness review of ministers, as the
+    module presents it?
+  options:
+    - >-
+      In a one-chamber system it is often the only check on appointments and failures to act.
+    - >-
+      Ministers are less competent than judges in policy matters.
+    - >-
+      Reasonableness review in its Israeli form exists unchanged in every other common-law country.
+    - >-
+      The public trusts the courts more than the Government.
+  correct: 0
+  explanation: >-
+    The structural argument: with one chamber and a Government controlling it, reasonableness often
+    reaches decisions other grounds miss. The others are value judgments or a comparative claim the
+    other side disputes.
+- id: m06-047
+  module: 6
+  lesson: "06.6"
+  subject: reasonableness-arguments
+  difficulty: 3
+  question: >-
+    Which is the strongest legal argument FOR limiting reasonableness review, as the module
+    presents it?
+  options:
+    - >-
+      Courts have ruled against the Government too often recently.
+    - >-
+      Judges are unelected and therefore cannot interpret law.
+    - >-
+      The Knesset can always override any ruling of the Court by a simple majority anyway.
+    - >-
+      Balancing lets judges substitute their weighting for an accountable minister's.
+  correct: 3
+  explanation: >-
+    The core argument is about standards and accountability: "balancing" reasonableness has no clear
+    legal test and lets judges reweigh what a minister answerable to the Knesset weighed.
+- id: m06-048
+  module: 6
+  lesson: "06.6"
+  subject: gatekeepers
+  difficulty: 3
+  question: >-
+    As of October 2026, what is the legal status of the 2025 dismissal of the Attorney General?
+  options:
+    - >-
+      Upheld by the Court; a new Attorney General chosen by the Government took office in 2026.
+    - >-
+      Annulled with the new procedure by a seven-justice panel; she remains in office.
+    - >-
+      Pending before the Court with no interim order.
+    - >-
+      Approved by the Knesset, which has the final word.
+  correct: 1
+  explanation: >-
+    In December 2025 a seven-justice panel annulled both the new procedure (June 2025) and the
+    dismissal (August 2025). Check the Judiciary's site for later developments.
+- id: m06-049
+  module: 6
+  lesson: "06.7"
+  subject: gavish
+  difficulty: 1
+  question: >-
+    In Gavish (2016) the Court upheld mandatory retirement at 67. Which factor weighed most for
+    restraint?
+  options:
+    - >-
+      Age is not a protected ground in Israeli law.
+    - >-
+      The petitioners had no standing.
+    - >-
+      The wide margin left to the Knesset in social and economic policy.
+    - >-
+      The law was enacted before 1992 and is protected by the preservation clause.
+  correct: 2
+  explanation: >-
+    The Court found an infringement of equality but upheld the provision under the limitation
+    clause, reviewing "with extreme care" in a polycentric area of social and economic policy.
+- id: m06-050
+  module: 6
+  lesson: "06.7"
+  subject: avneri
+  difficulty: 2
+  question: >-
+    What did the Court strike from the Boycott Law in Avneri (2015)?
+  options:
+    - >-
+      The whole law, as an unjustified infringement of freedom of expression.
+    - >-
+      The provision allowing compensation without proof of damage.
+    - >-
+      The definition of a boycott.
+    - >-
+      Nothing; it upheld every provision.
+  correct: 1
+  explanation: >-
+    The Court upheld most of the law but held the compensation-without-proof provision
+    disproportionate, a model of a mixed outcome.
+- id: m06-051
+  module: 6
+  lesson: "06.7"
+  subject: method
+  difficulty: 2
+  question: >-
+    You are analysing a provision. Which order of work is correct?
+  options:
+    - >-
+      Remedy, balancing, purpose, then the text.
+    - >-
+      Case law first, then decide whether the provision exists.
+    - >-
+      Balancing first, since most hard cases are decided at the narrow-sense stage anyway.
+    - >-
+      Text and date, purpose from primary sources, infringement, conditions, remedy.
+  correct: 3
+  explanation: >-
+    Fix the provision and its reviewability, find the purpose, show the infringement, test the four
+    conditions, then choose a remedy, and only then compare with the Court's ruling.
+- id: m06-052
+  module: 6
+  lesson: "06.7"
+  subject: memo-quality
+  difficulty: 2
+  question: >-
+    Spot the mistake in this memo sentence: "The law plainly fails proportionality, as everyone
+    knows; no serious person could argue otherwise."
+  options:
+    - >-
+      It states a conclusion with no stage, no reason and no counter-argument.
+    - >-
+      It cites no foreign or comparative law to support its claim about proportionality.
+    - >-
+      It is too short for a legal memo.
+    - >-
+      It should be in Hebrew.
+  correct: 0
+  explanation: >-
+    A memo must say which stage fails and why, and must state the strongest counter-argument. A
+    rhetorical conclusion persuades no one who disagrees.
+- id: m06-053
+  module: 6
+  lesson: "06.7"
+  subject: least-harmful-means
+  difficulty: 3
+  question: >-
+    For mandatory retirement, which alternative is the strongest least-harmful-means argument?
+  options:
+    - >-
+      Abolishing pensions so people must keep working.
+    - >-
+      A higher fixed age, which achieves less planning.
+    - >-
+      Individual capacity assessment, if shown to achieve the purposes equally.
+    - >-
+      Letting each employer choose any retirement age it likes for its own workforce.
+  correct: 2
+  explanation: >-
+    Individual assessment is less harmful; the argument works only if it achieves uniformity and a
+    dignified exit as well, which Gavish doubted. A higher age achieves less and belongs in the
+    balance.
+- id: m06-054
+  module: 6
+  lesson: "06.7"
+  subject: pension-vs-retirement
+  difficulty: 1
+  question: >-
+    Which section of the Retirement Age Law sets the age at which an employee can be made to
+    retire?
+  options:
+    - >-
+      Section 3.
+    - >-
+      Section 5.
+    - >-
+      Section 8.
+    - >-
+      Section 4.
+  correct: 3
+  explanation: >-
+    Section 4 sets the mandatory retirement age (67 for men and women). Section 3 sets the pension
+    entitlement age.
+- id: m06-055
+  module: 6
+  lesson: "06.7"
+  subject: using-the-memo
+  difficulty: 3
+  question: >-
+    Your memo shows a provision probably fails proportionality as applied to you, and your employer
+    is a public body with discretion under the law. What is the best first use of the memo?
+  options:
+    - >-
+      An HCJ petition against the Knesset asking the Court to void the statute itself.
+    - >-
+      A letter asking the body to use its discretion consistently with your rights.
+    - >-
+      A complaint to the President.
+    - >-
+      Posting it online and waiting for the law to change.
+  correct: 1
+  explanation: >-
+    Where the law leaves discretion, ask the authority to exercise it lawfully; it is cheaper and
+    often effective. Challenging the statute itself needs expert help and rarely succeeds.
+- id: m06-056
+  module: 6
+  lesson: "06.7"
+  subject: margin
+  difficulty: 2
+  question: >-
+    In which kind of case does the Court give the Knesset the LEAST room under proportionality?
+  options:
+    - >-
+      Detention and imprisonment, which touch core personal liberty.
+    - >-
+      Pension and retirement policy.
+    - >-
+      Tax rates and budget allocations decided in the annual budget law.
+    - >-
+      Workforce planning in the public sector.
+  correct: 0
+  explanation: >-
+    The margin is wide in social and economic policy (Gavish) and narrow where core liberty is at
+    stake, such as custody (Tzemach, Desta).
+- id: m06-057
+  module: 6
+  lesson: "06.8"
+  subject: forum
+  difficulty: 1
+  question: >-
+    A freedom-of-information officer refused your request. Where do you petition?
+  options:
+    - >-
+      The Supreme Court sitting as the High Court of Justice.
+    - >-
+      The magistrates' court.
+    - >-
+      The labour court.
+    - >-
+      The Administrative Affairs Court.
+  correct: 3
+  explanation: >-
+    Freedom of information is item 2 of the First Schedule of the Administrative Affairs Courts Law
+    (and FOI Law s. 17). The HCJ is residual.
+- id: m06-058
+  module: 6
+  lesson: "06.8"
+  subject: delay
+  difficulty: 2
+  question: >-
+    You received a final refusal from a ministry nine months ago and did nothing. Now you want to
+    petition. What is the main threshold risk and how do you address it?
+  options:
+    - >-
+      Delay: explain the reason honestly and show no one relied on the decision.
+    - >-
+      Standing: add a public organisation as a co-petitioner to strengthen the petition.
+    - >-
+      Fee: pay double to compensate for the delay.
+    - >-
+      None: there is no fixed deadline for HCJ petitions.
+  correct: 0
+  explanation: >-
+    There is no fixed deadline, but delay (Aviram) is weighed: subjective delay, objective harm to
+    others' reliance and the rule-of-law interest. An honest explanation is essential.
+- id: m06-059
+  module: 6
+  lesson: "06.8"
+  subject: relief
+  difficulty: 2
+  question: >-
+    Spot the mistake in this requested order: "בית המשפט מתבקש לחייב את המשרד לפצות את העותר ב־100,000 ש״ח."
+  options:
+    - >-
+      It is in Hebrew instead of English.
+    - >-
+      Compensation is not HCJ relief; ask to cancel and reconsider.
+    - >-
+      The amount should be in dollars.
+    - >-
+      It should be addressed to the Knesset, which sets the ministry's budget.
+  correct: 1
+  explanation: >-
+    The HCJ gives orders to act or refrain (s. 15(ד)(2)). Damages belong in a civil court. Ask for
+    an order nisi to cancel the decision and reconsider it.
+- id: m06-060
+  module: 6
+  lesson: "06.8"
+  subject: clean-hands
+  difficulty: 2
+  question: >-
+    Your petition omits that the authority offered you a partial solution, which you refused. The
+    State's response attaches the offer. What is the likely effect?
+  options:
+    - >-
+      None, because the offer was refused.
+    - >-
+      The State must now prove the offer was reasonable.
+    - >-
+      Possible dismissal for lack of clean hands, and doubt about your credibility.
+    - >-
+      The Court will treat the refused offer as the ministry's formal admission of fault.
+  correct: 2
+  explanation: >-
+    A petitioner must disclose all relevant facts, including those against them. Hiding them can
+    lead to dismissal for lack of clean hands, whatever the merits.
+- id: m06-061
+  module: 6
+  lesson: "06.8"
+  subject: affidavit
+  difficulty: 1
+  question: >-
+    Before whom may you make the affidavit supporting your HCJ petition?
+  options:
+    - >-
+      Any adult witness who signs next to you and adds their own identity number.
+    - >-
+      Only a notary.
+    - >-
+      Only the Supreme Court registrar.
+    - >-
+      A lawyer, a judge or another person listed in Evidence Ordinance s. 15.
+  correct: 3
+  explanation: >-
+    Section 15(ב) lists judges, dayanim, prosecutors, lawyers, heads of local authorities and others
+    authorised by the Minister of Justice. They warn you to tell the truth and certify it.
+- id: m06-062
+  module: 6
+  lesson: "06.8"
+  subject: interim-order
+  difficulty: 3
+  question: >-
+    A ministry will demolish your shed next week under an order you are challenging. In your dry
+    run, what should the interim-order paragraph argue?
+  options:
+    - >-
+      That the ministry's lawyer has a conflict of interest.
+    - >-
+      That you will suffer emotional distress from the case.
+    - >-
+      That the Court must always freeze any act that is under challenge in a petition.
+    - >-
+      Irreparable harm, balance of convenience and the petition's prospects.
+  correct: 3
+  explanation: >-
+    Interim orders (reg. 19) are discretionary. The court weighs whether the harm is irreversible,
+    the balance of convenience, and the chances of the petition. Check first whether a demolition
+    order belongs to another court.
+- id: m06-063
+  module: 6
+  lesson: "06.8"
+  subject: fee-exemption
+  difficulty: 2
+  question: >-
+    You cannot afford the HCJ fee. When and how do you ask for an exemption?
+  options:
+    - >-
+      With the petition, with an affidavit on your and your spouse's property and income.
+    - >-
+      After the judgment, if you lose, by a request to the registrar with your recent pay slips.
+    - >-
+      By letter to the Minister of Justice.
+    - >-
+      Orally at the first hearing.
+  correct: 0
+  explanation: >-
+    Courts (Fees) Regulations reg. 14: the request is filed with the first filing, with an affidavit
+    on property and six months' income; the court also asks whether the petition shows a cause of
+    action.
+- id: m06-064
+  module: 6
+  lesson: "06.8"
+  subject: costs-risk
+  difficulty: 3
+  question: >-
+    A friend says filing an HCJ petition "costs nothing but the fee, even if it is dismissed at
+    once". What is the correct answer?
+  options:
+    - >-
+      Correct; costs are never awarded in public law.
+    - >-
+      Costs are awarded only against the State, never against a private petitioner acting alone.
+    - >-
+      Costs may be imposed for the State even if the respondent was never called (reg. 6).
+    - >-
+      Costs arise only if a lawyer represents the petitioner.
+  correct: 2
+  explanation: >-
+    Reg. 6 allows the Court to impose costs on the petitioner in favour of the State when it
+    dismisses a petition without calling the respondent, and costs may follow a failed petition.

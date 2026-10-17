@@ -6,3 +6,4 @@
 - Module 3: ע"א 692/86 Botkovsky cite unconfirmed; Hebrew party names for CA 9311/99 (Menorah) and Kal Binyan are renderings. supremedecisions.court.gov.il is unreachable from this machine, so Supreme Court citations in all modules need a manual check.
 - Module 4: ע"א 145/80 ועקנין cite from secondary sources; check road-accident non-pecuniary cap and small-claims fee figures on gov.il.
 - Module 5: Saad (ע"פ 8641/12) has no free text; check the victim-compensation cap and private-complaint court fee.
+- Module 6: review lessons 06.4–06.6 for neutrality and current status (judicial review, 2023–2026 dispute); HCJ and administrative petition fees from Wikisource notes only.

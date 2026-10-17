@@ -1,0 +1,48 @@
+- **חוק יסוד** (Hok yesod) — Basic Law; a chapter of Israel's future constitution under the Harari Decision.
+- **חוקה** (Huka) — Constitution; Israel has none in a single document.
+- **החלטת הררי** (Hahlatat Harari) — The Knesset's decision of 13 June 1950 to build the constitution chapter by chapter, as Basic Laws.
+- **רשות מכוננת / סמכות מכוננת** (Rashut mekhonenet / samkhut mekhonenet) — Constituent authority / constituent power: the power to make a constitution, which the Knesset exercises when enacting Basic Laws (Bank Mizrahi, majority view).
+- **שריון / סעיף משוריין** (Shiryun / se'if meshuryan) — Entrenchment / an entrenched section, changeable only by a special majority (for example Basic Law: The Knesset s. 4).
+- **נוקשות** (Nukshut) — Rigidity: the protection of a Basic Law against change.
+- **עליונות נורמטיבית** (Elyonut normativit) — Normative supremacy of Basic Laws over ordinary legislation.
+- **שימוש לרעה בסמכות המכוננת** (Shimush lera'a ba-samkhut ha-mekhonenet) — Abuse of constituent power: using the form of a Basic Law for a norm that lacks stability, generality or fit with the constitutional fabric (Bar-On, Shafir).
+- **חריגה מסמכות מכוננת** (Harigah mi-samkhut mekhonenet) — Deviation from constituent authority: a Basic Law that denies the core of Israel as a Jewish and democratic state (Hasson, HCJ 5658/23).
+- **המהפכה החוקתית** (Ha-mahapekha ha-hukatit) — The constitutional revolution: the 1992 rights Basic Laws and Bank Mizrahi (1995), which made judicial review of statutes possible.
+- **ביקורת שיפוטית** (Bikoret shiputit) — Judicial review, of statutes or of administrative decisions.
+- **הכרזה על בטלות** (Hakhraza al batlut) — Declaration of invalidity of a statutory provision.
+- **השעיית הכרזת בטלות** (Hash'ayat hakhrazat batlut) — Suspending a declaration of invalidity to give the Knesset time to legislate (Tzemach).
+- **פסקת ההגבלה** (Piskat ha-hagbala) — The limitation clause (Human Dignity and Liberty s. 8; Freedom of Occupation s. 4): legality, values, proper purpose, proportionality.
+- **פסקת שמירת הדינים** (Piskat shmirat ha-dinim) — Preservation-of-laws clause protecting law in force before the Basic Law (Human Dignity and Liberty s. 10).
+- **פסקת התגברות** (Piskat hitgabrut) — Override clause: Freedom of Occupation s. 8, 61 members and an express statement, lapsing after four years.
+- **תכלית ראויה** (Takhlit re'uya) — Proper purpose, a condition of the limitation clause.
+- **מידתיות** (Midatiyut) — Proportionality: rational connection, least harmful means, and proportionality in the narrow sense.
+- **מבחן הקשר הרציונלי** (Mivhan ha-kesher ha-ratzionali) — Rational connection test: the means actually advance the purpose.
+- **מבחן האמצעי שפגיעתו פחותה** (Mivhan ha-emtza'i she-pgi'ato pehuta) — Least harmful means test: no other means achieves the purpose equally with less harm.
+- **מידתיות במובן הצר** (Midatiyut ba-muvan ha-tzar) — Proportionality in the narrow sense: the benefit is in reasonable relation to the harm.
+- **כבוד האדם** (Kvod ha-adam) — Human dignity, the source of most derived constitutional rights.
+- **זכות נגזרת** (Zkhut nigzeret) — Derived right, read into human dignity (equality, expression, family life, minimum subsistence).
+- **קיום אנושי בכבוד** (Kiyum enoshi be-khavod) — Minimum dignified existence, a right derived from dignity (Commitment to Peace, Hassan).
+- **חופש הדת וחופש מדת** (Hofesh ha-dat ve-hofesh mi-dat) — Freedom of religion and freedom from religion.
+- **אי־אמון קונסטרוקטיבי** (I-emun konstruktivi) — Constructive no-confidence: 61 members must express confidence in another government (Basic Law: The Government s. 28).
+- **הסמכות השיורית** (Ha-samkhut ha-shyurit) — The Government's residual power (Basic Law: The Government s. 32); it does not authorise infringing rights.
+- **חתימת קיום** (Hatimat kiyum) — Ministerial countersignature required for most of the President's official acts.
+- **נציב תלונות הציבור** (Netziv tlunot ha-tzibur) — The Ombudsman; the State Comptroller acting on public complaints.
+- **זכות עמידה / עותר ציבורי** (Zkhut amida / oter tzibori) — Standing / public petitioner with no personal interest (Ressler).
+- **שפיטות** (Shfitut) — Justiciability, institutional and normative.
+- **עילת הסבירות** (Ilat ha-svirut) — The reasonableness ground of review of administrative decisions.
+- **הסדרים ראשוניים** (Hesderim rishoniyim) — Primary arrangements: basic policy choices that must be made by the Knesset in a statute (Rubinstein).
+- **הוועדה לבחירת שופטים** (Ha-va'ada li-vhirat shoftim) — The Judicial Selection Committee (Basic Law: The Judiciary s. 4).
+- **נבצרות** (Nivtzarut) — Incapacity of the Prime Minister (Basic Law: The Government s. 16).
+- **שומרי סף** (Shomrei saf) — Gatekeepers: the Attorney General, legal advisers and the Comptroller.
+- **תחולה נדחית** (Tkhula nidhet) — Deferred application, a remedy used in HCJ 2412/23.
+- **מתחם התמרון של המחוקק** (Mithem ha-timrun shel ha-mehokek) — The legislature's margin of appreciation, wide in social and economic policy (Gavish).
+- **דברי הסבר** (Divrei hesber) — Explanatory notes to a bill, the first source for a law's purpose.
+- **עתירה** (Atira) — Petition, to the High Court of Justice or the Administrative Affairs Court.
+- **צו על תנאי** (Tzav al tnai) — Order nisi: an order to the respondent to show cause why relief should not be granted.
+- **צו ביניים** (Tzav beinayim) — Interim order pending the decision (HCJ Procedure Regulations reg. 19).
+- **מיצוי הליכים / פנייה מוקדמת** (Mitzui halikhim / pniya mukdemet) — Exhaustion of remedies / prior written demand to the authority before petitioning.
+- **שיהוי** (Shihui) — Delay (laches): subjective delay, objective delay and the rule-of-law interest (Aviram).
+- **סעד חלופי** (Sa'ad halufi) — Alternative remedy that bars or delays an HCJ petition.
+- **ניקיון כפיים** (Nikayon kapayim) — Clean hands: full and honest disclosure by the petitioner.
+- **תגובה מקדמית** (Tguva mukdemet) — Preliminary response of the respondent to a petition.
+- **דחייה על הסף** (Dhiya al ha-saf) — Dismissal in limine, without a hearing on the merits.

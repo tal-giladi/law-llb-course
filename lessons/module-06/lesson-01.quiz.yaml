@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A law changing how Knesset seats are allocated passed 55–40. A citizen argues it breaches the
+    equality of elections in s. 4 of Basic Law: The Knesset. What is the strongest objection to the
+    law's validity?
+  options:
+    - >-
+      Any law on elections must be passed as a Basic Law, whatever the vote.
+    - >-
+      Only the Central Elections Committee may change how seats are allocated.
+    - >-
+      A change to s. 4 needs a majority of all members, in every reading, and 55 is not 61.
+    - >-
+      Election laws need an 80-member majority under s. 45 of Basic Law: The Knesset.
+  correct: 2
+  explanation: >-
+    Section 4 is entrenched: it may be changed, expressly or by implication, only by 61 members (s. 46
+    applies this to all three readings). Bergman shows a court will not apply a law that fails this.
+- id: q2
+  question: >-
+    In a seminar, a student says: "The Knesset can bind future Knessets only because it inherited the
+    Constituent Assembly's power to write a constitution." Which Bank Mizrahi opinion does this match?
+  options:
+    - >-
+      Barak's constituent-authority theory ("two hats").
+    - >-
+      Shamgar's theory of the Knesset's unlimited sovereignty.
+    - >-
+      Cheshin's view that the Knesset is a legislature only.
+    - >-
+      The unanimous holding of the whole nine-justice panel.
+  correct: 0
+  explanation: >-
+    Barak held that constituent power passed to every later Knesset, which acts either as a
+    legislature or as a constituent authority. Shamgar rested self-limitation on sovereignty;
+    Cheshin denied constituent power. The theories were not unanimous.
+- id: q3
+  question: >-
+    A coalition passes a "Basic Law" that applies only to the current government and expires when it
+    leaves office. Under the Court's current case law, which doctrine fits a challenge best?
+  options:
+    - >-
+      The limitation clause in s. 8 of Basic Law: Human Dignity and Liberty.
+    - >-
+      Abuse of constituent power, using the stability and generality tests from Shafir.
+    - >-
+      Deviation from constituent authority, because every temporary norm denies democracy.
+    - >-
+      None, because the Court has held it can never review a Basic Law.
+  correct: 1
+  explanation: >-
+    A temporary, tailor-made Basic Law raises a question of form: is this really a constitutional
+    norm? That is the abuse doctrine (Bar-On, Shafir). The limitation clause governs ordinary laws.
+- id: q4
+  question: >-
+    What did a majority of the Supreme Court hold in HCJ 5658/23 about review of Basic Laws, and what
+    did the minority hold?
+  options:
+    - >-
+      All fifteen held the Court may review Basic Laws; they split only on the remedy.
+    - >-
+      Eight held the Court may review Basic Laws; seven held it may review only ordinary laws.
+    - >-
+      Twelve held the Court has no power to review Basic Laws; three would have voided the amendment.
+    - >-
+      Twelve held review is possible in extreme cases; three rejected that power.
+  correct: 3
+  explanation: >-
+    Twelve of fifteen recognised review of Basic Laws in extreme cases of deviation from constituent
+    authority; Sohlberg, Mintz and Elron rejected it. The 8–7 split concerned voiding this amendment.

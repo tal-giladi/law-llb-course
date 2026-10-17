@@ -1,0 +1,91 @@
+- id: q1
+  question: >-
+    The municipality refused your request to reduce your arnona and rejected your objection. You
+    believe the refusal is unreasonable. Where does a petition against the municipality's
+    decision go, if it goes to court at all?
+  options:
+    - >-
+      The High Court of Justice, because any public body can be petitioned there.
+    - >-
+      The magistrates' court, because arnona is a debt to the municipality.
+    - >-
+      The Supreme Court as a court of appeal, after the objection is decided.
+    - >-
+      The arnona appeal route, then the district court (First Schedule).
+  correct: 3
+  explanation: >-
+    Arnona has its own objection and appeal route (module 1 lab), and arnona is item 1 of the First
+    Schedule of the Administrative Affairs Courts Law. The HCJ is residual (Basic Law: The Judiciary
+    s. 15(ג)), so it is the wrong court.
+- id: q2
+  question: >-
+    A ministry refused your licence application by email. The next day you file an HCJ petition
+    without writing back to the ministry. What is the most likely result?
+  options:
+    - >-
+      Dismissal in limine for lack of a prior demand, possibly with costs.
+    - >-
+      An order nisi, because a refusal by email is a final decision.
+    - >-
+      Transfer to the Administrative Affairs Court for a full hearing.
+    - >-
+      A hearing on the merits, because exhaustion applies only to statutory appeals.
+  correct: 0
+  explanation: >-
+    The Court expects a written demand to the authority and a final answer or a reasonable wait
+    before it is asked to intervene. Without it the petition is usually dismissed on the threshold,
+    and reg. 6 allows costs where the respondent was not called.
+- id: q3
+  question: >-
+    In Aviram v. Minister of Justice (2017), the petitioners raised a serious constitutional
+    argument about the Judicial Selection Committee. Why did they lose?
+  options:
+    - >-
+      They lacked standing because they were not Knesset members.
+    - >-
+      Unexplained delay while the committee kept working.
+    - >-
+      The matter belonged to the Administrative Affairs Court.
+    - >-
+      The Court held that constitutional customs are never binding.
+  correct: 1
+  explanation: >-
+    The Court applied the delay test: subjective delay without a good explanation, objective delay
+    because the committee had worked on appointments in the meantime, and no serious harm to the rule
+    of law in dismissing. It did not decide the constitutional question.
+- id: q4
+  question: >-
+    Your draft petition asks the Court to "order the ministry to pay me ₪50,000 compensation and to
+    declare its whole policy illegal". What should you change first?
+  options:
+    - >-
+      Add an interim order so the compensation is paid during the case.
+    - >-
+      Nothing, because the HCJ may grant any relief "for the sake of justice".
+    - >-
+      Ask for an order nisi to cancel your decision and reconsider it.
+    - >-
+      Move the compensation request into the affidavit instead.
+  correct: 2
+  explanation: >-
+    The HCJ gives orders to act or refrain from acting (s. 15(ד)(2)); damages belong in a civil court.
+    A narrow order nisi (why the decision should not be cancelled and reconsidered after a hearing)
+    is what the Court can realistically grant.
+- id: q5
+  question: >-
+    You attach a photocopy of your affidavit, signed only by you, to an HCJ petition. What is the
+    problem?
+  options:
+    - >-
+      None; affidavits are optional for self-represented petitioners.
+    - >-
+      Only the respondent needs to file an affidavit at this stage.
+    - >-
+      The affidavit must be notarised abroad if you were born abroad.
+    - >-
+      It must be an original, certified by an authorised person.
+  correct: 3
+  explanation: >-
+    Reg. 4 requires a supporting affidavit in Form 2, and the President's registry guidelines require
+    the original for HCJ petitions. Under Evidence Ordinance s. 15 a lawyer, judge or other listed
+    person must warn you and certify it.

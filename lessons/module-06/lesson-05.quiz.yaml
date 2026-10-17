@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your local authority has not answered your request for a parking permit for four months. You
+    want someone to look into it without paying a fee. What is the best route?
+  options:
+    - >-
+      A petition to the High Court of Justice, which hears all complaints against authorities.
+    - >-
+      A request to the President to instruct the local authority.
+    - >-
+      A signed complaint to the Ombudsman about the delay, after a written reminder.
+    - >-
+      A no-confidence motion through your Knesset member.
+  correct: 2
+  explanation: >-
+    Delay by an audited body that harms you directly is a classic Ombudsman complaint (s. 37); it is
+    free. Courts charge a fee and the President has no such power.
+- id: q2
+  question: >-
+    Sixty-one Knesset members want to replace the Prime Minister but cannot agree on an alternative.
+    Can they bring the Government down by a no-confidence vote?
+  options:
+    - >-
+      No, they must also back a specific alternative government.
+    - >-
+      Yes, any vote of 61 against the Government ends its term at once.
+    - >-
+      Yes, but only if the President countersigns the decision.
+    - >-
+      No, only the Prime Minister can end the Government's term.
+  correct: 0
+  explanation: >-
+    Section 28 makes no-confidence constructive: a majority of members must express confidence in
+    another government. They could instead pass a dissolution law under Basic Law: The Knesset s. 34.
+- id: q3
+  question: >-
+    A court ruled against you, and you think the judgment was wrong. You file an Ombudsman complaint
+    against the court. What will happen?
+  options:
+    - >-
+      The Ombudsman will review the judgment and recommend a new hearing.
+    - >-
+      The Ombudsman will investigate only if you complained within a year.
+    - >-
+      The complaint will extend your time to appeal while it is investigated.
+    - >-
+      It will not be investigated: judicial acts and decided matters are excluded.
+  correct: 3
+  explanation: >-
+    Section 38 excludes judicial acts and matters decided by a court. The remedy is an appeal, and a
+    complaint never extends a statutory deadline (s. 45).
+- id: q4
+  question: >-
+    Which description of HCJ 2144/20 (the Speaker case, 2020) is accurate?
+  options:
+    - >-
+      The Court refused to intervene in any internal Knesset matter.
+    - >-
+      It ordered the blocked vote on a permanent Speaker to be held.
+    - >-
+      The Court itself appointed a new Speaker of the Knesset.
+    - >-
+      The Court dissolved the Knesset for failing to elect a Speaker.
+  correct: 1
+  explanation: >-
+    The Court ordered that the vote requested by 61 members be held; the acting Speaker resigned.
+    Supporters saw protection of the Knesset majority, critics a breach of separation of powers.

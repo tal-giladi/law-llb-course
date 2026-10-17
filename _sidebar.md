@@ -57,3 +57,13 @@
   - [40 · Practice lab: filing a police complaint as a victim and using the Crime Victims' Rights Law](lessons/module-05/lesson-07.md)
   - [41 · Practice lab: appealing a decision to close a file; the private criminal complaint (קובלנה פלילית)](lessons/module-05/lesson-08.md)
   - [Module 5 quiz](assessments/module-05-quiz.md)
+- **Module 6 — Constitutional Law (about 22 hours)**
+  - [42 · A constitution built from Basic Laws: the constituent-authority debate](lessons/module-06/lesson-01.md)
+  - [43 · The constitutional revolution: Bank Mizrahi and judicial review](lessons/module-06/lesson-02.md)
+  - [44 · The limitation clause and proportionality](lessons/module-06/lesson-03.md)
+  - [45 · Rights: dignity, liberty, equality, expression, religion, property, occupation](lessons/module-06/lesson-04.md)
+  - [46 · Institutions: Knesset, Government, President, State Comptroller](lessons/module-06/lesson-05.md)
+  - [47 · Judicial review, its limits and the 2023–2026 dispute](lessons/module-06/lesson-06.md)
+  - [48 · Practice lab: a proportionality analysis of a real law](lessons/module-06/lesson-07.md)
+  - [49 · Practice lab: a self-represented HCJ petition (dry run)](lessons/module-06/lesson-08.md)
+  - [Module 6 quiz](assessments/module-06-quiz.md)

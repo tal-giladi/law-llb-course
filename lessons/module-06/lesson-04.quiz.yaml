@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You write to a ministry that its new grants policy discriminates against your town. Which
+    citation of the right to equality is accurate?
+  options:
+    - >-
+      Section 4 of Basic Law: Human Dignity and Liberty, which lists equality expressly.
+    - >-
+      The Nation-State Basic Law, which guarantees equality to all citizens.
+    - >-
+      Equality as derived from human dignity in case law, for example Miller.
+    - >-
+      Basic Law: Freedom of Occupation, which covers all economic equality.
+  correct: 2
+  explanation: >-
+    No Basic Law lists equality expressly. The courts read it into human dignity, so a careful
+    letter cites dignity together with a case that recognised equality as part of it.
+- id: q2
+  question: >-
+    A private gym refuses entry to people of one community. Which legal basis is most direct for
+    a claim against the gym?
+  options:
+    - >-
+      The anti-discrimination statute on products, services and public places.
+    - >-
+      Section 11 of Human Dignity and Liberty, which binds every person.
+    - >-
+      A High Court of Justice petition against the gym under the Basic Laws.
+    - >-
+      Freedom of occupation, because the gym limits the customers' occupation.
+  correct: 0
+  explanation: >-
+    Section 11 binds governmental authorities, not private businesses. Discrimination by a business
+    is dealt with under the specific statute, which gives a civil claim.
+- id: q3
+  question: >-
+    A minister closes a road on Sabbaths for religious residents without hearing secular residents
+    of the same street. What does Horev suggest?
+  options:
+    - >-
+      Religious considerations are never legitimate in a traffic decision.
+    - >-
+      The religious residents' interest automatically prevails on their street.
+    - >-
+      The Court must decide the exact hours of closure itself.
+    - >-
+      Religious lifestyle is legitimate, but all affected interests must be weighed.
+  correct: 3
+  explanation: >-
+    Horev accepted protection of religious lifestyle as a legitimate consideration but set aside a
+    decision that had not properly weighed the secular residents' freedom of movement.
+- id: q4
+  question: >-
+    What did the Court hold in Hasson v. Knesset (2021) about s. 7 of the Nation-State Basic Law
+    on Jewish settlement?
+  options:
+    - >-
+      It is void because it plainly contradicts the right to equality.
+    - >-
+      It is read with equality, so no land allocation by religion or nationality.
+    - >-
+      It overrides equality in land matters because it is a later Basic Law.
+    - >-
+      The Court refused to interpret it because the petition was premature.
+  correct: 1
+  explanation: >-
+    The majority upheld the Basic Law and read s. 7 together with the other Basic Laws, so it does
+    not authorise discriminatory land allocation. Justice Karra dissented.

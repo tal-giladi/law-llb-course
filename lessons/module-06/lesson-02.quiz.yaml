@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A licensing rule for tour guides comes from a 1976 law, unchanged since. A guide argues it
+    infringes Basic Law: Human Dignity and Liberty. What is the main obstacle?
+  options:
+    - >-
+      Tour guiding is an occupation, so only the Freedom of Occupation Basic Law applies.
+    - >-
+      Section 10 preserves laws in force before March 1992; it can only be read narrowly.
+    - >-
+      Licensing rules are regulations, which no court may review.
+    - >-
+      Only the Knesset may decide whether its laws are constitutional.
+  correct: 1
+  explanation: >-
+    The preservation clause in s. 10 protects law in force when the Basic Law began. A later
+    amendment would be reviewable, and the old law should be interpreted in the Basic Law's spirit.
+- id: q2
+  question: >-
+    A 2025 law bans a type of business and says it is valid "despite Basic Law: Freedom of
+    Occupation". It passed 58–40. Does the override protect it?
+  options:
+    - >-
+      Yes, an express statement is enough whatever the vote.
+    - >-
+      Yes, but only for four years from its commencement.
+    - >-
+      No, overrides are available only under Human Dignity and Liberty.
+    - >-
+      No, the override also needs 61 votes, a majority of all members.
+  correct: 3
+  explanation: >-
+    Section 8 requires both an express statement and passage by a majority of Knesset members. With
+    58 votes, the law is reviewed under the limitation clause like any other.
+- id: q3
+  question: >-
+    What was decided in Bank Mizrahi about the 1993 amendment that let a rehabilitator write off
+    debts owed by agricultural cooperatives?
+  options:
+    - >-
+      It infringed property but met the limitation clause, so it was upheld.
+    - >-
+      It infringed property and was declared void, the first law struck down.
+    - >-
+      It did not infringe any right, because debts are not property.
+    - >-
+      The Court refused to decide, leaving the question to the Knesset.
+  correct: 0
+  explanation: >-
+    The Court established supremacy and review in principle, found an infringement of property, and
+    upheld the amendment as proportionate. The first actual strike-down came two years later.
+- id: q4
+  question: >-
+    The Court finds a provision unconstitutional but knows that voiding it at once would leave no
+    rules in place. What does Israeli practice, as in Tzemach, suggest?
+  options:
+    - >-
+      Uphold the provision, since a gap in the law is worse than a violation.
+    - >-
+      Void the entire statute so the Knesset must start again.
+    - >-
+      Declare the provision void but suspend the declaration to let the Knesset legislate.
+    - >-
+      Refer the question to the Knesset's Constitution Committee for a binding opinion.
+  correct: 2
+  explanation: >-
+    Israeli courts usually strike the specific provision and often suspend the declaration for a
+    set period, giving the Knesset time to enact a replacement.

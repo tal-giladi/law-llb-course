@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You want to argue that mandatory retirement at 67 is unconstitutional. Which provision are you
+    analysing?
+  options:
+    - >-
+      Section 3 of the Retirement Age Law, the age of entitlement to a pension.
+    - >-
+      Section 5, the early-retirement age of 60.
+    - >-
+      Section 4, the age at which an employee can be required to retire.
+    - >-
+      Section 8 of Basic Law: Human Dignity and Liberty.
+  correct: 2
+  explanation: >-
+    Section 4 sets the age at which retirement can be compelled. Section 3 concerns pension
+    entitlement, and s. 8 of the Basic Law is the test you apply, not the provision under review.
+- id: q2
+  question: >-
+    In Gavish (2016), why did the Court uphold mandatory retirement despite finding an infringement
+    of equality?
+  options:
+    - >-
+      Age is not a protected ground of equality in Israeli law.
+    - >-
+      It met the limitation clause, given the wide policy margin.
+    - >-
+      The petitioners lacked standing because they had already retired.
+    - >-
+      The law was enacted before 1992 and was preserved by s. 10.
+  correct: 1
+  explanation: >-
+    The Court found an infringement of dignity but held that the proper purposes and the
+    legislature's margin in a polycentric field satisfied the limitation clause.
+- id: q3
+  question: >-
+    You propose "individual capacity tests instead of a fixed age" as a less harmful means. What
+    is the State's strongest reply at that stage?
+  options:
+    - >-
+      Capacity tests would not achieve uniformity and a dignified exit equally.
+    - >-
+      Capacity tests are always unconstitutional because they infringe privacy.
+    - >-
+      The least-harmful-means test does not apply to labour legislation.
+    - >-
+      The Knesset never considered capacity tests, so they cannot be compared.
+  correct: 0
+  explanation: >-
+    An alternative counts at this stage only if it achieves the purposes equally. Individual tests
+    give up uniformity and require employers to prove decline.
+- id: q4
+  question: >-
+    In Avneri (2015), what did the Court do with the Boycott Law?
+  options:
+    - >-
+      It struck down the whole law as an infringement of expression.
+    - >-
+      It upheld the whole law because boycotts are not expression.
+    - >-
+      It referred the law back to the Knesset without a ruling.
+    - >-
+      It upheld most of it but struck compensation without proof of damage.
+  correct: 3
+  explanation: >-
+    The majority upheld the core provisions but held that compensation without proof of damage was
+    disproportionate, an example of a mixed outcome.

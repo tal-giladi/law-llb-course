@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A minister issues a directive, relying only on the government's general residual power, that
+    limits public protests near ministry buildings. What is the first problem under s. 8?
+  options:
+    - >-
+      Protests are not a protected right, so no limitation analysis is needed.
+    - >-
+      The purpose of keeping ministries working is never a proper purpose.
+    - >-
+      A directive is not "by a law or under express authority in a law".
+    - >-
+      The directive must have been approved by the Knesset Constitution Committee.
+  correct: 2
+  explanation: >-
+    The legality condition requires the infringement to be in a statute or made under express
+    statutory authority. A general or residual power does not authorise limiting a right.
+- id: q2
+  question: >-
+    A benefit is denied to anyone who owns a car, with no exceptions. The State shows that the
+    rule saves administration costs. At which sub-test was such a rule struck down in Hassan?
+  options:
+    - >-
+      Least harmful means: an individual check of the car's value and use was possible.
+    - >-
+      Proper purpose: saving money is never a proper purpose for limiting dignity.
+    - >-
+      Rational connection: owning a car says nothing about income.
+    - >-
+      Narrow sense: the harm was greater than any benefit to the state budget.
+  correct: 0
+  explanation: >-
+    The Court found the presumption barely rational but held that an individual examination would
+    achieve the purpose with less harm, so it failed the least-harmful-means test.
+- id: q3
+  question: >-
+    You argue that a blanket ban could be replaced by a lighter rule that would achieve "most" of
+    its purpose. Where does this argument belong in the analysis?
+  options:
+    - >-
+      Rational connection, because the ban is not connected to the purpose.
+    - >-
+      Proper purpose, because the State should have chosen a smaller aim.
+    - >-
+      Least harmful means, because any lighter rule counts as an alternative.
+    - >-
+      Narrow sense, because the lighter rule achieves less, so it is a question of balance.
+  correct: 3
+  explanation: >-
+    The least-harmful-means test asks for an alternative that achieves the purpose equally. An
+    alternative that achieves less raises the question of whether the extra gain is worth the harm.
+- id: q4
+  question: >-
+    Why is Adalah v. Minister of Interior (2006) used to teach proportionality in the narrow sense?
+  options:
+    - >-
+      The Court unanimously struck the law down at that stage.
+    - >-
+      Five found the blanket ban failed the balance; six upheld it.
+    - >-
+      The Court held that the narrow-sense test does not apply to security laws.
+    - >-
+      The State conceded that the law failed every proportionality sub-test.
+  correct: 1
+  explanation: >-
+    Barak's five-justice minority held that the small security gain over individual checks did not
+    justify the large harm; the 6–5 majority upheld the law, partly on different reasoning.

@@ -1,0 +1,82 @@
+- id: q1
+  question: >-
+    A friend says: "Since January 2024 courts can no longer review ministers' decisions for
+    reasonableness." What is the accurate correction?
+  options:
+    - >-
+      Correct, the amendment barring reasonableness review is in force.
+    - >-
+      Partly correct: review applies only to decisions made before 2023.
+    - >-
+      Wrong: the amendment barring that review was declared void, so review continues.
+    - >-
+      Wrong: the amendment was deferred and will apply only from the next Knesset.
+  correct: 2
+  explanation: >-
+    HCJ 5658/23 voided Amendment No. 3 by 8–7 on 1 January 2024. Deferral to the next Knesset was
+    the remedy in a different case, on the incapacity amendment.
+- id: q2
+  question: >-
+    Under the judicial-selection amendment, when does the new committee composition apply?
+  options:
+    - >-
+      From the day the 26th Knesset begins its term.
+    - >-
+      Immediately from its passage in March 2025.
+    - >-
+      Only after the High Court approves it in a ruling.
+    - >-
+      From the start of the next Supreme Court President's term.
+  correct: 0
+  explanation: >-
+    Each new provision of s. 4 is marked "from the start of the term of the 26th Knesset", which
+    follows the election of 27 October 2026. Until then the old composition applies.
+- id: q3
+  question: >-
+    Which doctrine did the Court use in HCJ 2412/23 to defer the incapacity amendment?
+  options:
+    - >-
+      Reasonableness balancing of the Knesset's decision.
+    - >-
+      The primary-arrangements doctrine, requiring a regular statute.
+    - >-
+      The limitation clause of Basic Law: Human Dignity and Liberty.
+    - >-
+      Abuse of constituent power: a personal, immediate amendment.
+  correct: 3
+  explanation: >-
+    The 6–5 majority held that a personal, immediately applicable amendment abused constituent power,
+    and chose deferral to the next Knesset as the remedy.
+- id: q4
+  question: >-
+    Under the amended s. 4, what does a Supreme Court appointment require?
+  options:
+    - >-
+      Seven of nine votes, including all three justices.
+    - >-
+      Five votes, including one coalition-side and one opposition-side member.
+    - >-
+      A simple majority of those present, with the Minister of Justice's consent.
+    - >-
+      Approval by the Knesset plenum after the committee's vote.
+  correct: 1
+  explanation: >-
+    Section 4(ה) requires a majority of five including a member from the coalition side and one from
+    the opposition side; s. 4א adds a deadlock procedure after long vacancies.
+- id: q5
+  question: >-
+    In Rubinstein v. Minister of Defense (1998) the Court invalidated mass deferrals of military
+    service. What was the core reason?
+  options:
+    - >-
+      At this scale it is a primary arrangement for the Knesset.
+    - >-
+      Deferrals are unreasonable in every case and must be cancelled at once.
+    - >-
+      Yeshiva students have no standing to receive deferrals.
+    - >-
+      The Minister acted in bad faith in granting the deferrals.
+  correct: 0
+  explanation: >-
+    "Quantity becomes quality": a decision dividing society must be set by statute. The Court
+    suspended its ruling for twelve months to let the Knesset legislate.
