@@ -14,7 +14,7 @@ Status: approved direction (Tal, 2026-10-16): a new course, separate from `activ
 | Repo | `tal-giladi/law-llb-course`, public |
 | Language | My choice for accuracy: English prose; Israeli statutes, rulings, forms and templates quoted in Hebrew (same as the activist course, which Tal approved on 2026-10-12). This is the one deviation from "English only". |
 | Relation to activist course | Standalone. No links to `activist-law-course`; some overlap is accepted. |
-| Scope now | Years 1–2 (modules 1–22) written 2026-10-17. Years 3–4 later. |
+| Scope now | Years 1–2 (modules 1–22) written 2026-10-17; year 3 (modules 23–31) being written. Year 4 later. |
 | Practice | Besides the university curriculum, as many practice sections as possible, so a learner can act for themselves without a lawyer wherever Israeli law allows it. |
 
 ## 1. Purpose and honest positioning
@@ -337,6 +337,113 @@ Year 2 total: 10 modules, 94 lessons.
 | 29 | Commercial Law: Payments, Liens and Consumer Protection | Cheques, liens registry check, consumer claim |
 | 30 | Private International Law | Foreign judgment, international purchase dispute |
 | 31 | Clinic III: Property, Estates and Money | Will, succession order, land registration, tax refund |
+
+#### Year 3 lessons (planned 2026-10-17)
+
+Year 3 modules build on years 1–2: link to earlier lessons instead of repeating them (relative path). Module 23 deepens 15.7; module 24 deepens module 5's practice labs; module 28 deepens 8.7 and 12.7; module 29 extends modules 3 and 20; module 30 extends module 19.
+
+**Module 23 — Evidence**
+1. The structure of evidence law: admissibility and weight
+2. Witnesses: competence, compellability and privilege
+3. Hearsay and its exceptions
+4. Documents, institutional records and digital evidence
+5. Illegally obtained evidence
+6. Burden of proof, standard of proof and presumptions
+7. Expert opinions and medical evidence
+8. Confessions and corroboration in criminal cases
+9. Practice lab: an affidavit and a document bundle for your own case
+10. Practice lab: witness questions and cross-examination
+
+**Module 24 — Criminal Procedure**
+1. The structure of the criminal process
+2. Police powers: search, arrest and detention
+3. Interrogation: the warning, silence, a lawyer and recording
+4. Remand, release and bail conditions
+5. Prosecution decisions: closing a file, conditional arrangements and the pre-indictment hearing
+6. The trial: the plea, plea bargains and the defence case
+7. Sentencing and appeals
+8. Criminal records, police records and rehabilitation
+9. Practice lab: a pre-indictment hearing request and defending yourself in a minor case
+10. Practice lab: a request to delete a police record
+
+**Module 25 — Tax Law**
+1. Principles of income tax: residency and sources of income
+2. Individuals: employment income, credit points, deductions and the annual return
+3. The self-employed: VAT, bookkeeping and advance payments
+4. Tax refunds for employees
+5. Assessment, objection and appeal
+6. Real-estate taxation: purchase tax
+7. Capital gains on real estate and the single-apartment exemption
+8. Collection, penalties and voluntary disclosure
+9. Tax and benefits: the work grant and the National Insurance interplay
+10. Practice lab: an employee's tax-refund request
+11. Practice lab: a purchase-tax self-assessment and an objection
+
+**Module 26 — Inheritance and Wills**
+1. The Succession Law: heirs on intestacy and their shares
+2. Wills: the four forms and their requirements
+3. Validity: capacity, undue influence, defects and curing them
+4. Special cases: gifts on death, mutual wills and wills benefiting witnesses
+5. Administering an estate: debts, distribution and the spouse's rights
+6. Succession and probate orders: the Registrar, objections and the Family Court
+7. Inheritance of land and the enduring power of attorney
+8. Practice lab: write your own will and deposit it
+9. Practice lab: apply for a succession or probate order
+
+**Module 27 — Planning, Building and Local Government**
+1. The planning institutions under the Planning and Building Law
+2. Plans: outline and detailed plans, and reading a plan online
+3. Objections to plans and planning appeals
+4. Building permits and exemptions
+5. Planning enforcement: offences and demolition orders
+6. Betterment levy and compensation for planning harm
+7. Local government: structure, powers, bylaws and the council
+8. Arnona: classification, exemptions and discounts
+9. Practice lab: object to a plan near you
+10. Practice lab: an arnona objection and appeal
+
+**Module 28 — Insolvency and Execution**
+1. The Execution Law in depth: the file, the warning and the debtor's rights
+2. Execution measures: attachments, restrictions and protected assets
+3. The debtor's defences: opposition, "I paid" claims and requests to the registrar
+4. Consolidating files and payment arrangements
+5. Individual insolvency under the 2018 law: the process
+6. The rehabilitation plan, the trustee and discharge
+7. Corporate insolvency in brief
+8. Practice lab: respond to an execution file and propose an arrangement
+9. Practice lab: assess and prepare an individual insolvency application (dry run)
+
+**Module 29 — Commercial Law: Payments, Liens and Consumer Protection**
+1. Bills of exchange: cheques and promissory notes
+2. The holder in due course and defences against payment
+3. Bounced cheques and the restricted-account rules
+4. Pledges and liens: the Pledges Law and the registrar
+5. Banks and customers: duties, fees and complaints
+6. Consumer protection: misleading, unfair practices and enforcement
+7. Credit and debt: fair-credit rules and collection
+8. Practice lab: check the pledges registry and answer a bounced-cheque demand
+9. Practice lab: a consumer claim with exemplary damages
+
+**Module 30 — Private International Law**
+1. What private international law is: jurisdiction, choice of law and recognition
+2. International jurisdiction of Israeli courts and service abroad
+3. Choice of law in contracts and torts
+4. Family and succession across borders
+5. Enforcing foreign judgments
+6. International online purchases and cross-border disputes
+7. Practice lab: a foreign judgment and an international purchase dispute
+
+**Module 31 — Clinic III: Property, Estates and Money**
+1. Choosing the matter and building the file
+2. Your own will and enduring power of attorney
+3. A succession order from start to finish
+4. Registering rights in land
+5. A tax refund and an objection
+6. Defending an execution file and reaching an arrangement
+7. An arnona objection from start to finish
+8. Closing the file and when to get a lawyer
+
+Year 3 total: 9 modules, 83 lessons.
 
 ### Year 4 — Specialisation, ethics and capstone
 

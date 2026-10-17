@@ -44,11 +44,23 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 21 — Proseminar: Academic Legal Writing
 - [x] Module 22 — Clinic II: Work, Family and Home Without a Lawyer
 - [x] Year 2 QA: links, neutrality, Academy dry run
-- [ ] Year 3 (23–31), Year 4 (32–39)
+- [x] Detailed lesson plan for year 3 (modules 23–31)
+- [ ] Module 23 — Evidence
+- [ ] Module 24 — Criminal Procedure
+- [ ] Module 25 — Tax Law
+- [ ] Module 26 — Inheritance and Wills
+- [ ] Module 27 — Planning, Building and Local Government
+- [ ] Module 28 — Insolvency and Execution
+- [ ] Module 29 — Commercial Law: Payments, Liens and Consumer Protection
+- [ ] Module 30 — Private International Law
+- [ ] Module 31 — Clinic III: Property, Estates and Money
+- [ ] Year 3 QA: links, neutrality, Academy dry run
+- [ ] Year 4 (32–39)
 
 ## Now working
 
-- (none)
+- Module 23: sub-agent A
+- Module 24: sub-agent B
 
 
 ## Decisions and open questions
