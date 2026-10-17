@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Bar-style. A private company's latest audited statements, dated eight months ago, show retained
+    earnings of ₪2 million. Since then it lost its main client and expects not to meet a ₪1.5 million
+    loan repayment next quarter. The board approves a ₪1 million dividend. Which is correct?
+  options:
+    - >-
+      Permitted, because the retained earnings exceed the dividend.
+    - >-
+      Permitted, if the general meeting ratifies the board's decision.
+    - >-
+      Prohibited: the statements are too old and the solvency test fails.
+    - >-
+      Prohibited only if a creditor objected before the payment.
+  correct: 2
+  explanation: >-
+    The profit test uses statements no more than six months old (s. 302(ב)), and in any case a dividend is
+    prohibited where there is a reasonable concern that the company cannot meet its expected obligations
+    (s. 302(א)).
+- id: q2
+  question: >-
+    After a prohibited distribution, which director escapes the deemed breach of duty under s. 311?
+  options:
+    - >-
+      One who abstained in the board vote and said nothing at all.
+    - >-
+      One who opposed it and took every reasonable step to stop it.
+    - >-
+      One who personally received no part of the distribution.
+    - >-
+      One who was appointed by a minority shareholder.
+  correct: 1
+  explanation: >-
+    Section 311 deems every director in office to have breached his duties unless he proves that he
+    opposed and took all reasonable steps to stop it, relied reasonably on misleading information, or did
+    not and should not have known of it.
+- id: q3
+  question: >-
+    A restaurant company owes a supplier ₪90,000. Its sole shareholder was merely careless in managing
+    it: no fraud, no asset stripping, no excessive risk. The supplier asks to lift the veil. Likely result?
+  options:
+    - >-
+      Granted, because it is just and proper that the owner pay.
+    - >-
+      Granted, because a sole shareholder is always aware of the company's affairs.
+    - >-
+      Granted only if the shareholder also signed the supplier's orders.
+    - >-
+      Refused: s. 6(א) needs fraud, deprivation or unreasonable risk with awareness.
+  correct: 3
+  explanation: >-
+    Since Amendment 3, "just and proper" is not enough: one of the grounds in s. 6(א)(1) and the
+    shareholder's awareness must be shown, and mere negligence does not count as awareness (s. 6(א)(2)).
+- id: q4
+  question: >-
+    The owner of a small company transfers a company car worth ₪120,000 to himself for ₪10,000. How does
+    the Companies Law classify the transfer?
+  options:
+    - >-
+      As a dividend, since it is an asset given without equivalent value.
+    - >-
+      As a sale, outside the distribution rules, because a price was paid.
+    - >-
+      As salary, which the board may approve freely.
+    - >-
+      As a loan, which must be repaid within a year.
+  correct: 0
+  explanation: >-
+    "Dividend" includes any asset given to a shareholder by virtue of his shares, including a transfer
+    without equivalent consideration (s. 1), so the profit and solvency tests apply.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A director of a private company sold company land to his cousin's company at half its value. A 5%
+    shareholder wants the company to recover the loss. What is the right first step?
+  options:
+    - >-
+      A written demand to the board chairman that the company sue.
+    - >-
+      A personal claim in her own name for 5% of the loss.
+    - >-
+      An oppression application asking the court to cancel the sale.
+    - >-
+      A complaint to the Companies Registrar asking it to sue.
+  correct: 0
+  explanation: >-
+    The loss is the company's, so the claim is derivative; it starts with a written demand to the
+    chairman setting out the facts and reasons (s. 194(ב)–(ג)), unless a demand is excused (s. 194(ד)).
+- id: q2
+  question: >-
+    You hold 15% of a private company and ask to see "all the company's bank statements for 2025" without
+    saying why. The company refuses. Is the refusal lawful?
+  options:
+    - >-
+      No, a shareholder may inspect every company document as of right.
+    - >-
+      No, a refusal is lawful only if the court approves it first.
+    - >-
+      Likely yes: such documents need a stated purpose tied to s. 185's grounds.
+    - >-
+      Yes, because only holders of 25% may ask for documents.
+  correct: 2
+  explanation: >-
+    Bank statements are not in the as-of-right list of s. 184; under s. 185(א) a shareholder must state
+    his purpose, and the document must relate to a transaction needing general-meeting approval or, in a
+    private company, to an agenda item.
+- id: q3
+  question: >-
+    A company received a s. 194 demand on 1 March and wrote back on 20 March that it decided to sue. By
+    10 June it has filed nothing. What may the shareholder do?
+  options:
+    - >-
+      Nothing, since the company has already decided to sue.
+    - >-
+      Seek the court's approval to file a derivative claim.
+    - >-
+      Send a fresh demand and wait another 45 days.
+    - >-
+      Sue the directors personally for breach of their duty to him.
+  correct: 1
+  explanation: >-
+    If the company says it will sue but does not file within 75 days of its notice, the claimant may file
+    a derivative claim with the court's approval (s. 197(3)).
+- id: q4
+  question: >-
+    Two founders of a three-founder company stop paying the third her agreed salary, remove her as
+    director, and stop all distributions while raising their own pay. What claim fits best?
+  options:
+    - >-
+      A derivative claim for the company's loss of profits.
+    - >-
+      A class action on behalf of all small shareholders.
+    - >-
+      A claim to lift the corporate veil against the two founders.
+    - >-
+      Oppression, for harm to her reasonable expectations as founder.
+  correct: 3
+  explanation: >-
+    Removing a founder and diverting value to the majority harms her reasonable expectations and
+    distributes value unfairly; the court may give directions or order a buy-out under s. 191.

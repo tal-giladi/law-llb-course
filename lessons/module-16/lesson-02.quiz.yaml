@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Amir and his sister Hila want to register a company with both of them as shareholders and directors.
+    Amir wants to file the online application himself, without a lawyer. What must happen?
+  options:
+    - >-
+      Nothing more; any one shareholder may approve the articles for all founders.
+    - >-
+      Hila must also log in securely and approve the articles online.
+    - >-
+      Online filing without a lawyer is allowed only for a single shareholder.
+    - >-
+      Hila must sign the forms in front of the Registrar at the Jerusalem office.
+  correct: 1
+  explanation: >-
+    Regulation 16ב(ב) lets a shareholder file online if each first shareholder and director identifies
+    securely and approves the articles and declarations online; the sole-founder route in 16ב(ג) is a
+    simpler special case.
+- id: q2
+  question: >-
+    Which of these must appear in every Israeli company's articles?
+  options:
+    - >-
+      The number of directors and the quorum for board meetings.
+    - >-
+      A right of first refusal on any transfer of shares.
+    - >-
+      Name, objects, registered capital and limitation of liability.
+    - >-
+      The names of the auditor and of the general manager.
+  correct: 2
+  explanation: >-
+    Section 18 lists four mandatory items; everything else, including management rules and transfer
+    restrictions, is optional under s. 19.
+- id: q3
+  question: >-
+    Before her company was registered, Shira signed a lease "on behalf of a company in formation". The
+    landlord knew. Fourteen months later the company has still not ratified the lease. What may the landlord do?
+  options:
+    - >-
+      Treat Shira as the tenant or withdraw and claim damages from her.
+    - >-
+      Nothing; a contract for an unformed company is void.
+    - >-
+      Sue the company, which is bound automatically on registration.
+    - >-
+      Sue only the other founders, since Shira acted as their agent.
+  correct: 0
+  explanation: >-
+    When the third party knew of the promotion and the company did not ratify within a year, s. 13(א)(1)
+    lets him treat the promoter as his counterparty or withdraw and claim his damages from her.
+- id: q4
+  question: >-
+    A private company's articles say that any change to the clause on transfer of shares needs 75% of the
+    votes. The majority shareholder, with 60%, passes an ordinary resolution deleting that clause. Is the
+    deletion valid?
+  options:
+    - >-
+      Yes, because articles may always be changed by an ordinary majority.
+    - >-
+      Yes, if the change is reported to the Registrar within 14 days.
+    - >-
+      Only if the court approves it on the majority's application.
+    - >-
+      No, a clause requiring a special majority can be changed only by that majority.
+  correct: 3
+  explanation: >-
+    Under s. 20(ב), where the articles require a specific majority to amend a provision, the company may
+    change it only by that majority (or the proposed one, whichever is higher).

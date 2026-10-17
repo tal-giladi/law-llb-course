@@ -1,0 +1,1311 @@
+- id: m16-001
+  module: 16
+  lesson: "16.1"
+  subject: legal-personality
+  difficulty: 1
+  question: >-
+    Which provision of the Companies Law states that a company may have a single shareholder?
+  options:
+    - >-
+      Section 35.
+    - >-
+      Section 6.
+    - >-
+      Section 3.
+    - >-
+      Section 17.
+  correct: 2
+  explanation: >-
+    Section 3 says "לחברה יכול שיהיה בעל מניה אחד"; s. 4 gives personality, s. 35 limited liability.
+- id: m16-002
+  module: 16
+  lesson: "16.1"
+  subject: partnership-existence
+  difficulty: 2
+  question: >-
+    Two sisters jointly own an inherited flat and split the rent. A tenant says they are a partnership and must register. Are they partners?
+  options:
+    - >-
+      No; shared ownership and rent alone do not make a partnership.
+    - >-
+      Yes, because they share profits from a common asset.
+    - >-
+      Yes, but only after the rent exceeds the VAT ceiling.
+    - >-
+      No, because family members can never be partners.
+  correct: 0
+  explanation: >-
+    Partnerships Ordinance s. 2(1)–(2): co-ownership and sharing gross income from property do not by themselves create a partnership; the Land Law co-ownership rules apply.
+- id: m16-003
+  module: 16
+  lesson: "16.1"
+  subject: amuta
+  difficulty: 1
+  question: >-
+    What is the minimum number of founders for an amuta?
+  options:
+    - >-
+      One adult with a board of three.
+    - >-
+      Seven members, as for a cooperative.
+    - >-
+      Any number, including one.
+    - >-
+      Two adults.
+  correct: 3
+  explanation: >-
+    Amutot Law s. 1: two or more adults may found an amuta for a lawful non-profit purpose.
+- id: m16-004
+  module: 16
+  lesson: "16.1"
+  subject: limited-partnership
+  difficulty: 2
+  question: >-
+    Which is a requirement for a limited partnership?
+  options:
+    - >-
+      At least seven partners, all with limited liability.
+    - >-
+      At least one general partner with unlimited liability.
+    - >-
+      Registration as a company with the Companies Registrar.
+    - >-
+      Approval of the Registrar of Cooperative Societies.
+  correct: 1
+  explanation: >-
+    Ordinance s. 57(א): at least one general partner liable for all obligations and at least one limited partner.
+- id: m16-005
+  module: 16
+  lesson: "16.1"
+  subject: choose-form
+  difficulty: 3
+  question: >-
+    A group of residents wants to run a neighbourhood grocery as a collective where each member has one share and no one may hold more than a fifth of the capital. Which form fits that rule?
+  options:
+    - >-
+      An amuta.
+    - >-
+      A cooperative society.
+    - >-
+      A limited partnership.
+    - >-
+      A public-benefit company.
+  correct: 1
+  explanation: >-
+    The Cooperative Societies Ordinance limits any individual member to a fifth of the share capital (s. 5) and serves mutual economic aid (s. 4).
+- id: m16-006
+  module: 16
+  lesson: "16.1"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. A supplier's letter says: "As the sole shareholder of Gal Ltd you are personally liable for its unpaid invoice under s. 4 of the Companies Law." What is wrong?
+  options:
+    - >-
+      Nothing; s. 4 imposes liability on sole shareholders.
+    - >-
+      The letter should cite s. 35, which imposes unlimited liability.
+    - >-
+      The letter should be sent to the Registrar, not the shareholder.
+    - >-
+      Section 4 makes the company a separate person, not its owner liable.
+  correct: 3
+  explanation: >-
+    Section 4 gives the company separate personality; personal liability needs an exception such as s. 6 or a guarantee.
+- id: m16-007
+  module: 16
+  lesson: "16.1"
+  subject: guarantees
+  difficulty: 2
+  question: >-
+    Why does limited liability often give little protection to the owner of a small company against its bank?
+  options:
+    - >-
+      Banks usually require personal guarantees from the shareholders.
+    - >-
+      Banks may always lift the veil without a court order.
+    - >-
+      Bank loans are excluded from limited liability by s. 35.
+    - >-
+      The Companies Law makes directors guarantors of bank loans.
+  correct: 0
+  explanation: >-
+    Limited liability protects against creditors who did not obtain a guarantee; banks routinely ask shareholders of small companies to sign personal guarantees.
+- id: m16-008
+  module: 16
+  lesson: "16.2"
+  subject: online-registration
+  difficulty: 1
+  question: >-
+    Who may file an online application to register a company?
+  options:
+    - >-
+      Any person with a national ID.
+    - >-
+      Only an accountant or a lawyer.
+    - >-
+      Only a shareholder or a lawyer.
+    - >-
+      Only the first director.
+  correct: 2
+  explanation: >-
+    Companies (Reporting, Registration Details and Forms) Regulations reg. 16ב(א).
+- id: m16-009
+  module: 16
+  lesson: "16.2"
+  subject: articles-mandatory
+  difficulty: 1
+  question: >-
+    Which item is NOT mandatory in a company's articles under s. 18?
+  options:
+    - >-
+      The company's name.
+    - >-
+      The company's objects.
+    - >-
+      The limitation of liability.
+    - >-
+      The number of directors.
+  correct: 3
+  explanation: >-
+    Section 18 lists name, objects, registered share capital and limitation of liability; the number of directors is optional (s. 19(2)).
+- id: m16-010
+  module: 16
+  lesson: "16.2"
+  subject: certificate
+  difficulty: 2
+  question: >-
+    A company's certificate of incorporation was issued, but its articles contain a clause that conflicts with a mandatory rule of the Companies Law. Does the certificate cure the clause?
+  options:
+    - >-
+      Yes, the certificate is conclusive proof that the articles are valid.
+    - >-
+      No; the certificate does not cure a defect in the articles.
+    - >-
+      Yes, unless a shareholder objects within 30 days.
+    - >-
+      Only if the Registrar confirms the clause in writing.
+  correct: 1
+  explanation: >-
+    Section 10(ד) makes the certificate conclusive on registration requirements, but s. 10(ה) says it does not cure a defect in the articles.
+- id: m16-011
+  module: 16
+  lesson: "16.2"
+  subject: promoter
+  difficulty: 2
+  question: >-
+    A promoter signed a contract for a company in formation; the other side did not know a company was planned. The company is formed and ratifies. Who is bound?
+  options:
+    - >-
+      Only the company, from the moment it ratifies the contract.
+    - >-
+      Only the promoter, since the other side never knew of the plan.
+    - >-
+      Both the company and the promoter, jointly and severally.
+    - >-
+      Neither, because the contract was made before incorporation.
+  correct: 2
+  explanation: >-
+    Section 14(2): where the third party did not know of the promotion, ratification binds the company and the promoter jointly and severally and only the company is entitled.
+- id: m16-012
+  module: 16
+  lesson: "16.2"
+  subject: name
+  difficulty: 2
+  question: >-
+    You want to register "Delta Foods Ltd". "Delta Food Ltd" is already registered. What will the Registrar most likely do?
+  options:
+    - >-
+      Refuse it as misleadingly similar.
+    - >-
+      Register it, since the two names are not identical.
+    - >-
+      Register it if you pay a higher registration fee.
+    - >-
+      Register it and notify the other company of the clash.
+  correct: 0
+  explanation: >-
+    Section 27(א)(1) bars a name identical to, or misleadingly similar to, a registered body's name.
+- id: m16-013
+  module: 16
+  lesson: "16.2"
+  subject: amendment-report
+  difficulty: 1
+  question: >-
+    Within how many days must a company report an amendment of its articles to the Registrar?
+  options:
+    - >-
+      14 days.
+    - >-
+      30 days.
+    - >-
+      45 days.
+    - >-
+      90 days.
+  correct: 0
+  explanation: >-
+    Section 21(ב).
+- id: m16-014
+  module: 16
+  lesson: "16.2"
+  subject: amendment-limits
+  difficulty: 3
+  question: >-
+    Bar-style. The general meeting of a private company, by 90%, amends the articles so that every shareholder must buy 100 more shares a year. A 10% holder voted against. Is she bound?
+  options:
+    - >-
+      Yes, because 90% exceeds every special majority.
+    - >-
+      Yes, if the amendment was reported within 14 days.
+    - >-
+      No; such an amendment needs her consent.
+    - >-
+      Only if a separate class meeting approved it as well.
+  correct: 2
+  explanation: >-
+    Section 20(ד): an amendment obliging a shareholder to buy more shares or increasing his liability does not bind him without his consent.
+- id: m16-015
+  module: 16
+  lesson: "16.3"
+  subject: organs
+  difficulty: 1
+  question: >-
+    Which organ appoints the auditor of a company?
+  options:
+    - >-
+      The board of directors.
+    - >-
+      The general meeting.
+    - >-
+      The general manager.
+    - >-
+      The Companies Registrar.
+  correct: 1
+  explanation: >-
+    Section 57(3); the company cannot contract out of s. 57 (s. 58).
+- id: m16-016
+  module: 16
+  lesson: "16.3"
+  subject: residual
+  difficulty: 2
+  question: >-
+    A power is not given by the law or the articles to any organ. Who may exercise it?
+  options:
+    - >-
+      The general meeting by ordinary majority.
+    - >-
+      The general manager alone.
+    - >-
+      The chairman of the board alone.
+    - >-
+      The board of directors.
+  correct: 3
+  explanation: >-
+    Section 49: residual authority belongs to the board.
+- id: m16-017
+  module: 16
+  lesson: "16.3"
+  subject: special-meeting
+  difficulty: 2
+  question: >-
+    Which shareholder may force the board of a private company to call a special meeting?
+  options:
+    - >-
+      Any shareholder with at least one share.
+    - >-
+      Only a holder of more than 25% of the capital.
+    - >-
+      One holding 10% of the votes.
+    - >-
+      Only a shareholder who is also a director.
+  correct: 2
+  explanation: >-
+    Section 63(א)(2): 10% of issued capital and 1% of votes, or 10% of votes.
+- id: m16-018
+  module: 16
+  lesson: "16.3"
+  subject: written-resolution
+  difficulty: 2
+  question: >-
+    Can a private company's general meeting adopt a resolution by email without meeting?
+  options:
+    - >-
+      Yes, if every voting shareholder agrees.
+    - >-
+      Yes, by a simple majority if all were sent the text.
+    - >-
+      No, a general meeting must always physically meet.
+    - >-
+      Only if the Registrar approves the procedure in advance.
+  correct: 0
+  explanation: >-
+    Section 76: unanimous resolution of all voting shareholders without notice or meeting.
+- id: m16-019
+  module: 16
+  lesson: "16.3"
+  subject: quorum
+  difficulty: 1
+  question: >-
+    What is the default quorum for a general meeting?
+  options:
+    - >-
+      A majority of the shareholders by number.
+    - >-
+      Shareholders holding 50% of all the votes.
+    - >-
+      Any one shareholder present in person or by proxy.
+    - >-
+      Two holders of 25% of the votes.
+  correct: 3
+  explanation: >-
+    Section 78(א); it may be changed in the articles (s. 81) and does not apply to a one-shareholder company (s. 78(ג)).
+- id: m16-020
+  module: 16
+  lesson: "16.3"
+  subject: gm-powers
+  difficulty: 3
+  question: >-
+    The articles of a private company let the general meeting take over the board's power to approve a large loan for one transaction. The shareholders approve the loan negligently. What follows?
+  options:
+    - >-
+      The approval is void, since board powers can never move.
+    - >-
+      They carry directors' duties for that matter.
+    - >-
+      Nothing; shareholders owe no duties at all when voting.
+    - >-
+      Only the board stays liable, as the power is its own.
+  correct: 1
+  explanation: >-
+    Section 50(א) allows the transfer for a specific matter; s. 50(ב) applies directors' rights, duties and liability to shareholders exercising it.
+- id: m16-021
+  module: 16
+  lesson: "16.3"
+  subject: which-forum
+  difficulty: 2
+  question: >-
+    Which court hears an application to order a company to convene a meeting the board refused to call?
+  options:
+    - >-
+      The magistrates' court of the company's registered office.
+    - >-
+      The district court (Economic Department where competent).
+    - >-
+      The small claims court, since no money is claimed at all.
+    - >-
+      A special tribunal at the Companies Registrar's office.
+  correct: 1
+  explanation: >-
+    Civil matters under the Companies Law are within the district court (Courts Law s. 40(5)); matters of shareholders' rights are economic matters (s. 42ב(א)(3)).
+- id: m16-022
+  module: 16
+  lesson: "16.3"
+  subject: pre-emption
+  difficulty: 3
+  question: >-
+    Spot the mistake. A board minute says: "Since the company has one class of shares and the articles are silent, the board allots 10,000 new shares to Mr Levi only." What is wrong?
+  options:
+    - >-
+      Only the general meeting may ever allot new shares.
+    - >-
+      New shares must be offered first to the general public.
+    - >-
+      Every allotment needs the Registrar's approval in advance.
+    - >-
+      The other shareholders had a pre-emption right.
+  correct: 3
+  explanation: >-
+    Section 290(א): in a private company with one class, new shares are offered pro rata unless the articles say otherwise; the board may allot within the registered capital (s. 288).
+- id: m16-023
+  module: 16
+  lesson: "16.4"
+  subject: officer-definition
+  difficulty: 1
+  question: >-
+    Which of these is NOT an "officer" (נושא משרה) under s. 1?
+  options:
+    - >-
+      A junior sales employee.
+    - >-
+      A director of the company.
+    - >-
+      The deputy general manager.
+    - >-
+      A manager reporting to the CEO.
+  correct: 0
+  explanation: >-
+    Section 1 covers the GM and his deputies, directors and managers reporting directly to the GM.
+- id: m16-024
+  module: 16
+  lesson: "16.4"
+  subject: care-standard
+  difficulty: 1
+  question: >-
+    What standard does s. 253 apply to an officer's skill?
+  options:
+    - >-
+      The best expert in the company's whole industry.
+    - >-
+      An ordinary person with no business training at all.
+    - >-
+      A reasonable officer in the same position.
+    - >-
+      Whatever standard the company's articles happen to set.
+  correct: 2
+  explanation: >-
+    Section 253 uses the reasonable officer test and requires reasonable steps to get information.
+- id: m16-025
+  module: 16
+  lesson: "16.4"
+  subject: loyalty-limbs
+  difficulty: 2
+  question: >-
+    A director keeps silent about a report showing that a key client is about to leave, because it would hurt his bonus. Which limb of loyalty does he breach?
+  options:
+    - >-
+      The duty not to compete with the company's business.
+    - >-
+      The duty not to exploit a business opportunity.
+    - >-
+      No limb at all, because silence is not an act.
+    - >-
+      The duty to disclose relevant information.
+  correct: 3
+  explanation: >-
+    Section 254(א)(4): an officer must disclose every information and document relating to the company's affairs that came to him through his position.
+- id: m16-026
+  module: 16
+  lesson: "16.4"
+  subject: approval-conditions
+  difficulty: 2
+  question: >-
+    Which is NOT a condition for approving an officer's conflicted act under s. 255?
+  options:
+    - >-
+      That the officer acts in good faith.
+    - >-
+      That an independent expert confirm the price is fair.
+    - >-
+      That the act does not harm the company.
+    - >-
+      That he disclosed his interest a reasonable time before approval.
+  correct: 1
+  explanation: >-
+    Section 255(א) requires good faith, no harm and prior disclosure; there is no statutory requirement for an expert opinion.
+- id: m16-027
+  module: 16
+  lesson: "16.4"
+  subject: insurance-limits
+  difficulty: 3
+  question: >-
+    Bar-style. A company's articles allow D&O insurance. A director breached loyalty but in good faith and with reasonable grounds to think the act would not harm the company. Can the insurance cover him?
+  options:
+    - >-
+      No, nothing can cover any breach of loyalty.
+    - >-
+      Yes, and the company may also exempt him in advance.
+    - >-
+      Yes, within s. 261(2).
+    - >-
+      Only if the general meeting approves after the event.
+  correct: 2
+  explanation: >-
+    Section 261(2) allows insurance for breach of loyalty where the officer acted in good faith with reasonable grounds; s. 258(א) still bars exemption.
+- id: m16-028
+  module: 16
+  lesson: "16.4"
+  subject: exemption-distribution
+  difficulty: 2
+  question: >-
+    Can a company's articles exempt a director in advance from liability for negligence in approving a distribution?
+  options:
+    - >-
+      No, s. 259(ב) bars it.
+    - >-
+      Yes, exactly like any other breach of the duty of care.
+    - >-
+      Yes, if the shareholders approve that distribution.
+    - >-
+      Only in public companies that have an audit committee.
+  correct: 0
+  explanation: >-
+    Section 259(ב).
+- id: m16-029
+  module: 16
+  lesson: "16.4"
+  subject: remedy
+  difficulty: 3
+  question: >-
+    A director diverted a deal and earned ₪500,000; the company proves no direct loss. What can the company claim?
+  options:
+    - >-
+      An account of his profit.
+    - >-
+      Nothing, because damages always need proof of loss.
+    - >-
+      Only a fine, which is payable to the Registrar.
+    - >-
+      Only cancellation of his appointment as director.
+  correct: 0
+  explanation: >-
+    Section 256 applies contract remedies to breach of loyalty; fiduciary law requires the disloyal officer to account for his profit (Kossoy).
+- id: m16-030
+  module: 16
+  lesson: "16.4"
+  subject: bjr
+  difficulty: 3
+  question: >-
+    Which fact most weakens directors' reliance on the business judgment rule?
+  options:
+    - >-
+      The decision turned out badly for the company.
+    - >-
+      The company lost money in the following year.
+    - >-
+      The directors had a personal interest.
+    - >-
+      A shareholder disagreed with it at the meeting.
+  correct: 2
+  explanation: >-
+    Deference applies to informed, good-faith, unconflicted decisions; potential conflict triggers enhanced scrutiny (Vrednikov).
+- id: m16-031
+  module: 16
+  lesson: "16.5"
+  subject: veil-grounds
+  difficulty: 1
+  question: >-
+    Which is one of the two grounds for attributing a company's debt to a shareholder under s. 6(א)?
+  options:
+    - >-
+      Any case at all where the company cannot pay its debts.
+    - >-
+      Use of the company to defraud or deprive a creditor.
+    - >-
+      The shareholder also being the company's only director.
+    - >-
+      A creditor having signed a contract with the company.
+  correct: 1
+  explanation: >-
+    Section 6(א)(1)(א); the other ground is harming the company's purpose with unreasonable risk to its ability to pay (s. 6(א)(1)(ב)).
+- id: m16-032
+  module: 16
+  lesson: "16.5"
+  subject: awareness
+  difficulty: 2
+  question: >-
+    A shareholder suspected the manager was stripping the company but chose not to check. Is he "aware" for s. 6?
+  options:
+    - >-
+      No, only actual knowledge counts.
+    - >-
+      No, because he did not act himself.
+    - >-
+      Only if he received the stripped money.
+    - >-
+      Yes; wilful blindness counts.
+  correct: 3
+  explanation: >-
+    Section 6(א)(2) treats wilful blindness as awareness, but not mere negligence.
+- id: m16-033
+  module: 16
+  lesson: "16.5"
+  subject: subordination
+  difficulty: 2
+  question: >-
+    In liquidation, the court orders that the controlling shareholder's loan to the company be repaid only after all other creditors. What power is this?
+  options:
+    - >-
+      Reverse attribution under s. 6(ב).
+    - >-
+      A restriction order under s. 7.
+    - >-
+      Subordination under s. 6(ג).
+    - >-
+      Cancellation of a prohibited distribution under s. 310.
+  correct: 2
+  explanation: >-
+    Section 6(ג) lets the court suspend a shareholder's right to be repaid until other creditors are paid in full.
+- id: m16-034
+  module: 16
+  lesson: "16.5"
+  subject: profit-test
+  difficulty: 1
+  question: >-
+    For the profit test, how old may the financial statements be?
+  options:
+    - >-
+      Six months.
+    - >-
+      One year at most.
+    - >-
+      Two years at most.
+    - >-
+      Any age, if audited.
+  correct: 0
+  explanation: >-
+    Section 302(ב).
+- id: m16-035
+  module: 16
+  lesson: "16.5"
+  subject: court-distribution
+  difficulty: 2
+  question: >-
+    A company has no retained earnings but is clearly solvent and wants to pay a dividend. What can it do?
+  options:
+    - >-
+      Pay it after a general-meeting resolution passed by 75%.
+    - >-
+      Pay it once all creditors are notified in writing.
+    - >-
+      Nothing; a distribution without profits is never possible.
+    - >-
+      Seek court approval under s. 303.
+  correct: 3
+  explanation: >-
+    Section 303 allows court approval where the solvency test is met, after notice to creditors, who may object.
+- id: m16-036
+  module: 16
+  lesson: "16.5"
+  subject: buyback
+  difficulty: 3
+  question: >-
+    Bar-style. A company lends money to an outsider so he can buy shares of the company from a retiring founder. How is the loan treated?
+  options:
+    - >-
+      As an ordinary loan, outside the distribution rules.
+    - >-
+      As a distribution subject to both tests.
+    - >-
+      As a dividend that only the general meeting may approve.
+    - >-
+      As a prohibited transaction in each and every case.
+  correct: 1
+  explanation: >-
+    "Purchase" in s. 1 includes financing the purchase of the company's shares, and a purchase is a distribution; this is the Kossoy situation.
+- id: m16-037
+  module: 16
+  lesson: "16.5"
+  subject: directors-defence
+  difficulty: 2
+  question: >-
+    Which director can rely on s. 311 after a prohibited distribution?
+  options:
+    - >-
+      One who missed the meeting without a reason.
+    - >-
+      One who relied reasonably and in good faith on misleading figures.
+    - >-
+      One appointed after the distribution was announced but before payment.
+    - >-
+      One who did not personally benefit.
+  correct: 1
+  explanation: >-
+    Section 311(2): good-faith, reasonable reliance on information that, had it not been misleading, would have made the distribution permitted.
+- id: m16-038
+  module: 16
+  lesson: "16.5"
+  subject: which-forum
+  difficulty: 3
+  question: >-
+    An employee owed ₪40,000 in wages by an empty company wants to lift the veil against its owner. Where should she sue?
+  options:
+    - >-
+      Only in the district court, which has exclusive power over s. 6.
+    - >-
+      In the Companies Registrar's office.
+    - >-
+      In the small claims court, which alone handles wage claims.
+    - >-
+      In the labour court, which may decide s. 6 in her wage claim.
+  correct: 3
+  explanation: >-
+    Veil-lifting is decided by the court competent for the claim (Courts Law s. 40(5) excludes ss. 6–7 from the district court's list); wage claims go to the labour court.
+- id: m16-039
+  module: 16
+  lesson: "16.6"
+  subject: as-of-right
+  difficulty: 1
+  question: >-
+    Which document may a shareholder inspect as of right, without giving a purpose?
+  options:
+    - >-
+      Minutes of general meetings.
+    - >-
+      Board minutes.
+    - >-
+      The company's bank statements.
+    - >-
+      Contracts with suppliers.
+  correct: 0
+  explanation: >-
+    Section 184(1); board minutes and other documents need s. 185.
+- id: m16-040
+  module: 16
+  lesson: "16.6"
+  subject: refusal
+  difficulty: 2
+  question: >-
+    On which ground may a company refuse a s. 185 request?
+  options:
+    - >-
+      The shareholder holds less than 10%.
+    - >-
+      The shareholder is also a customer.
+    - >-
+      The documents contain a trade secret.
+    - >-
+      The request was sent by email.
+  correct: 2
+  explanation: >-
+    Section 185(ב): bad faith, trade secret or patent, or other harm to the company's interest.
+- id: m16-041
+  module: 16
+  lesson: "16.6"
+  subject: demand-excused
+  difficulty: 2
+  question: >-
+    When is a would-be derivative claimant excused from sending a demand to the company?
+  options:
+    - >-
+      The shareholder holds less than 10% of the shares.
+    - >-
+      The shareholder is also a customer of the company.
+    - >-
+      The request was sent by email rather than by post.
+    - >-
+      Documents containing a trade secret.
+  correct: 3
+  explanation: >-
+    Section 194(ד)(1); also where a demand would harm the chance of the remedy (s. 194(ד)(2)).
+- id: m16-042
+  module: 16
+  lesson: "16.6"
+  subject: company-answer
+  difficulty: 1
+  question: >-
+    How long does a company have to answer a s. 194 demand?
+  options:
+    - >-
+      14 days.
+    - >-
+      45 days.
+    - >-
+      21 days.
+    - >-
+      90 days.
+  correct: 1
+  explanation: >-
+    Section 196.
+- id: m16-043
+  module: 16
+  lesson: "16.6"
+  subject: settlement
+  difficulty: 2
+  question: >-
+    A derivative claimant agrees to drop the claim if the defendant pays him ₪50,000 personally. What does the law require?
+  options:
+    - >-
+      14 days.
+    - >-
+      21 days.
+    - >-
+      45 days.
+    - >-
+      90 days.
+  correct: 2
+  explanation: >-
+    Section 202: no withdrawal or settlement without court approval, full details including any consideration to the claimant, and publication for objections.
+- id: m16-044
+  module: 16
+  lesson: "16.6"
+  subject: direct-v-derivative
+  difficulty: 3
+  question: >-
+    A director misled a shareholder into selling him her shares cheaply. The company lost nothing. What claim does she have?
+  options:
+    - >-
+      A direct claim, because she was the injured party.
+    - >-
+      A derivative claim, because a director was involved.
+    - >-
+      An oppression claim on behalf of the company.
+    - >-
+      A creditor's derivative claim under s. 204.
+  correct: 0
+  explanation: >-
+    Drin: the identity of the injured party decides; here only she was harmed.
+- id: m16-045
+  module: 16
+  lesson: "16.6"
+  subject: oppression-remedy
+  difficulty: 3
+  question: >-
+    Which remedy may a court give for oppression under s. 191?
+  options:
+    - >-
+      A direct claim; she was the injured party.
+    - >-
+      A derivative claim, because a director was involved.
+    - >-
+      An oppression claim brought on behalf of the company.
+    - >-
+      A creditor's derivative claim under s. 204 of the law.
+  correct: 0
+  explanation: >-
+    Section 191(א) allows any direction to remove the oppression, including future management rules and buy-out orders.
+- id: m16-046
+  module: 16
+  lesson: "16.6"
+  subject: fairness-duty
+  difficulty: 2
+  question: >-
+    Who owes the company a duty of fairness under s. 193?
+  options:
+    - >-
+      A fine imposed on the majority shareholder.
+    - >-
+      A criminal referral of the majority to the police.
+    - >-
+      A buy-out of the minority's shares.
+    - >-
+      Removal of the company from the companies register.
+  correct: 2
+  explanation: >-
+    Section 193(א); every shareholder owes good faith under s. 192.
+- id: m16-047
+  module: 16
+  lesson: "16.6"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake. A shareholder's letter says: "Under s. 194 I demand that the company pay me personally the ₪200,000 the CEO took." What is wrong?
+  options:
+    - >-
+      The letter must go to the Registrar, not to the chairman.
+    - >-
+      The company's loss is the company's claim, not a payment to him.
+    - >-
+      Only holders of 10% may send a demand under s. 194.
+    - >-
+      A demand of this kind must be made in court, not by letter.
+  correct: 1
+  explanation: >-
+    The derivative claim is the company's claim; recovery goes to the company (ss. 1, 194).
+- id: m16-048
+  module: 16
+  lesson: "16.7"
+  subject: exempt-ceiling
+  difficulty: 1
+  question: >-
+    What decides whether a dealer may be an exempt dealer (other than for listed professions)?
+  options:
+    - >-
+      His net profit after deducting expenses.
+    - >-
+      The number of employees he will have.
+    - >-
+      Whether he works from home or an office.
+    - >-
+      His annual turnover against the ceiling.
+  correct: 3
+  explanation: >-
+    VAT Law s. 1, definition of "עוסק פטור"; the ceiling is indexed each 1 January (s. 126).
+- id: m16-049
+  module: 16
+  lesson: "16.7"
+  subject: declaration
+  difficulty: 1
+  question: >-
+    By what date must an exempt dealer declare his previous year's turnover?
+  options:
+    - >-
+      15 March.
+    - >-
+      30 April.
+    - >-
+      31 January.
+    - >-
+      31 December.
+  correct: 2
+  explanation: >-
+    VAT Registration Regulations reg. 15.
+- id: m16-050
+  module: 16
+  lesson: "16.7"
+  subject: reports
+  difficulty: 2
+  question: >-
+    A licensed dealer with turnover of ₪800,000 had no sales in July–August. Must he file a VAT report for that period?
+  options:
+    - >-
+      Yes; reports are due even with no activity.
+    - >-
+      No, reports are needed only when tax is payable.
+    - >-
+      No, small dealers report once a year.
+    - >-
+      Only if the director asks for it.
+  correct: 0
+  explanation: >-
+    VAT Law s. 67(ב): a periodic report is due within 15 days after the period even without activity; bimonthly for turnover up to the threshold (s. 67(א2)).
+- id: m16-051
+  module: 16
+  lesson: "16.7"
+  subject: company-vat
+  difficulty: 2
+  question: >-
+    A one-person company expects ₪40,000 turnover. Can it register as an exempt dealer?
+  options:
+    - >-
+      Yes, like any dealer below the ceiling.
+    - >-
+      Yes, if its only shareholder is an exempt dealer.
+    - >-
+      Only in its first year of business.
+    - >-
+      No; a company is always a licensed dealer.
+  correct: 3
+  explanation: >-
+    VAT Registration Regulations reg. 13(7).
+- id: m16-052
+  module: 16
+  lesson: "16.7"
+  subject: ni-self-employed
+  difficulty: 2
+  question: >-
+    For National Insurance, which person is "self-employed" under the hours test?
+  options:
+    - >-
+      No, retirement ends all of his liability.
+    - >-
+      Yes, unless the creditor released him.
+    - >-
+      Only if he still appears on the registration.
+    - >-
+      Only for debts above ₪50,000 each.
+  correct: 1
+  explanation: >-
+    National Insurance Law s. 1, definition of "עובד עצמאי", para. (1); paras. (2)–(3) add income tests.
+- id: m16-053
+  module: 16
+  lesson: "16.7"
+  subject: retiring-partner
+  difficulty: 3
+  question: >-
+    A partner retired in March; in May a creditor sues for a debt the partnership incurred in January. Is the retired partner liable?
+  options:
+    - >-
+      Automatic dissolution of the whole partnership.
+    - >-
+      An account of his profits.
+    - >-
+      A fine payable to the Registrar of Partnerships.
+    - >-
+      Nothing, unless the agreement forbids it.
+  correct: 1
+  explanation: >-
+    Ordinance s. 27: a retiring partner remains liable for obligations incurred before he left, unless agreed otherwise with the creditors and the new partnership.
+- id: m16-054
+  module: 16
+  lesson: "16.7"
+  subject: competition
+  difficulty: 2
+  question: >-
+    A partner secretly runs a competing shop. What does the Ordinance give the partnership?
+  options:
+    - >-
+      Automatic dissolution of the partnership.
+    - >-
+      A fine payable to the Registrar.
+    - >-
+      Nothing, unless the agreement forbids it.
+    - >-
+      An account of the profits he made from it.
+  correct: 3
+  explanation: >-
+    Ordinance s. 39.
+- id: m16-055
+  module: 16
+  lesson: "16.7"
+  subject: dissolution
+  difficulty: 3
+  question: >-
+    A two-person partnership of indefinite duration has no written agreement. One partner sends notice that she is dissolving it from 1 July. What is the default position?
+  options:
+    - >-
+      It dissolves on the date in her notice.
+    - >-
+      It continues until the court orders dissolution.
+    - >-
+      It continues until the other partner agrees.
+    - >-
+      It dissolves only at the end of the tax year.
+  correct: 0
+  explanation: >-
+    Ordinance s. 41(א)(3), (ב), subject to agreement between the partners.
+- id: m16-056
+  module: 16
+  lesson: "16.8"
+  subject: extract-fields
+  difficulty: 1
+  question: >-
+    Where in a company extract would you find a bank's security over the company's assets?
+  options:
+    - >-
+      In the shareholders section.
+    - >-
+      In the capital section.
+    - >-
+      In the charges section.
+    - >-
+      In the status line.
+  correct: 2
+  explanation: >-
+    Charges are registered with the Registrar and shown on the extract.
+- id: m16-057
+  module: 16
+  lesson: "16.8"
+  subject: public-registers
+  difficulty: 1
+  question: >-
+    Who may inspect the Registrar's registers about a company?
+  options:
+    - >-
+      Only shareholders and creditors.
+    - >-
+      Only lawyers and accountants.
+    - >-
+      Only persons with a court order.
+    - >-
+      Anyone.
+  correct: 3
+  explanation: >-
+    Companies Law s. 43(א).
+- id: m16-058
+  module: 16
+  lesson: "16.8"
+  subject: knowledge
+  difficulty: 2
+  question: >-
+    A company filed an amendment of its articles with the Registrar. A supplier says he never knew of it. Does the filing prove he knew?
+  options:
+    - >-
+      Yes, everyone is deemed to know what is filed.
+    - >-
+      No; registration alone is not proof of knowing its content.
+    - >-
+      Yes, but only for suppliers with contracts above ₪10,000.
+    - >-
+      Only if the amendment was published in Reshumot.
+  correct: 1
+  explanation: >-
+    Companies Law s. 42.
+- id: m16-059
+  module: 16
+  lesson: "16.8"
+  subject: violating-effect
+  difficulty: 2
+  question: >-
+    What may the Registrar refuse to do for a violating company?
+  options:
+    - >-
+      Allow it to sign contracts with its suppliers.
+    - >-
+      Allow it to appear in court as a party.
+    - >-
+      Register name or objects changes, and charges.
+    - >-
+      Allow it to pay its employees' salaries.
+  correct: 2
+  explanation: >-
+    Section 362א(ג)(1).
+- id: m16-060
+  module: 16
+  lesson: "16.8"
+  subject: post-registration
+  difficulty: 2
+  question: >-
+    After registering a company, which register must it keep at its registered office open to anyone?
+  options:
+    - >-
+      The directors' register.
+    - >-
+      The register of its bank accounts.
+    - >-
+      The register of its customers.
+    - >-
+      The register of its employees' salaries.
+  correct: 0
+  explanation: >-
+    Section 224; the shareholders' register is also open to everyone (s. 129).
+- id: m16-061
+  module: 16
+  lesson: "16.8"
+  subject: foreign-founder
+  difficulty: 3
+  question: >-
+    One founder is a resident of France. Can the other founder file the online registration without a lawyer?
+  options:
+    - >-
+      No; a lawyer must file the foreign documents.
+    - >-
+      Yes, if the French founder logs in with a French ID.
+    - >-
+      Yes, if the French founder holds less than 50%.
+    - >-
+      Only if the company's articles are written in English.
+  correct: 0
+  explanation: >-
+    Regulations reg. 16א(ד) with reg. 16 (verification of a non-resident's passport).
+- id: m16-062
+  module: 16
+  lesson: "16.8"
+  subject: red-flags
+  difficulty: 3
+  question: >-
+    Which extract entry is the strongest warning sign before giving large credit?
+  options:
+    - >-
+      The registered office is at its own business address.
+    - >-
+      The company was incorporated six years ago.
+    - >-
+      A change of all shares and directors last month.
+    - >-
+      The annual fee for this year was paid in March.
+  correct: 2
+  explanation: >-
+    A sudden change of control to a new entity can precede asset stripping; ask who stands behind it and take a guarantee.
+- id: m16-063
+  module: 16
+  lesson: "16.9"
+  subject: articles-v-agreement
+  difficulty: 2
+  question: >-
+    Which founders' term must be in the articles to bind a future buyer of shares?
+  options:
+    - >-
+      The founders' monthly salaries.
+    - >-
+      A right of first refusal.
+    - >-
+      An IP assignment by each founder.
+    - >-
+      Each founder's time commitment.
+  correct: 1
+  explanation: >-
+    Articles bind the company and all shareholders (s. 17); side agreements bind only their parties.
+- id: m16-064
+  module: 16
+  lesson: "16.9"
+  subject: entrenchment
+  difficulty: 2
+  question: >-
+    How do founders stop a future majority from deleting a veto clause in the articles?
+  options:
+    - >-
+      Register the founders' agreement with the Registrar.
+    - >-
+      Sign a voting agreement among the directors.
+    - >-
+      Put the clause only in the founders' agreement.
+    - >-
+      Require a special majority to amend it and entrench it.
+  correct: 3
+  explanation: >-
+    Sections 20(ב) and 22; directors may not make voting agreements (s. 106).
+- id: m16-065
+  module: 16
+  lesson: "16.9"
+  subject: vesting
+  difficulty: 1
+  question: >-
+    What does a vesting clause with a one-year cliff do?
+  options:
+    - >-
+      All of his shares vest on the very first day.
+    - >-
+      The founder may sell his shares only after a year.
+    - >-
+      Nothing vests if he leaves in year one.
+    - >-
+      The company may never buy back any of his shares.
+  correct: 2
+  explanation: >-
+    Vesting with a cliff lets the company buy back unvested shares from an early leaver.
+- id: m16-066
+  module: 16
+  lesson: "16.9"
+  subject: deadlock
+  difficulty: 2
+  question: >-
+    In a 50/50 company, which clause most directly resolves a lasting deadlock?
+  options:
+    - >-
+      A BMBY (shotgun) buy-sell clause.
+    - >-
+      A pre-emption right on new shares.
+    - >-
+      A drag-along clause at 75%.
+    - >-
+      An exemption clause for directors.
+  correct: 0
+  explanation: >-
+    BMBY forces one founder to buy the other's shares at a named price; the others deal with issues and sales.
+- id: m16-067
+  module: 16
+  lesson: "16.9"
+  subject: request-strategy
+  difficulty: 3
+  question: >-
+    Spot the mistake. An information request asks: "Please send all documents of the company for 2025 by tomorrow." What is the main problem?
+  options:
+    - >-
+      It should be addressed to the Registrar, not the company.
+    - >-
+      Only lawyers may send information requests to companies.
+    - >-
+      Requests must be filed in court rather than sent by letter.
+    - >-
+      No section-based purpose and no reasonable deadline.
+  correct: 3
+  explanation: >-
+    Section 185 needs a stated purpose tied to its grounds, and a reasonable time makes refusal harder; as-of-right items should be listed separately.
+- id: m16-068
+  module: 16
+  lesson: "16.9"
+  subject: escalation
+  difficulty: 2
+  question: >-
+    After a special-meeting demand on 1 March, by when must the board convene the meeting?
+  options:
+    - >-
+      Within 7 days of the demand.
+    - >-
+      Within 21 days of the demand.
+    - >-
+      Within 45 days of the demand.
+    - >-
+      At the next annual meeting.
+  correct: 1
+  explanation: >-
+    Section 63(ג).
+- id: m16-069
+  module: 16
+  lesson: "16.9"
+  subject: directors-pay
+  difficulty: 3
+  question: >-
+    You hold 12% of a non-reporting company that has an auditor. What can you demand about the directors' pay?
+  options:
+    - >-
+      A copy of each director's personal tax return.
+    - >-
+      An auditor-approved statement of their pay.
+    - >-
+      The board minutes on pay, as of right under s. 184.
+    - >-
+      The directors' personal bank statements for the year.
+  correct: 1
+  explanation: >-
+    Section 186(א), unless the board finds the demand is in bad faith (s. 186(ב)).

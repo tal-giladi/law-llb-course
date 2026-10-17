@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Dana and Eli run a bicycle-repair shop together and split the profits, but they never registered
+    anything. A supplier is owed ₪40,000 and the shop has no money. Can the supplier recover from Dana
+    personally?
+  options:
+    - >-
+      No, because an unregistered partnership does not exist in law.
+    - >-
+      Only up to half the debt, because each partner owes his own share.
+    - >-
+      Yes, as a partner she is liable jointly and severally for the whole debt.
+    - >-
+      Only if Dana personally signed the supplier's order forms.
+  correct: 2
+  explanation: >-
+    Running a business together for profit is a partnership (Ordinance s. 1); failure to register does not
+    affect its existence (s. 6), and each partner is liable jointly and severally for its debts (s. 20).
+- id: q2
+  question: >-
+    Noa is the only shareholder and only director of "Noa Design Ltd". The company cannot pay a printer's
+    bill. The printer says that since Noa is the company, she must pay. What is the starting point in law?
+  options:
+    - >-
+      The company is a separate person, so owning it does not make Noa liable.
+    - >-
+      A one-person company is treated as a sole trader for all its creditors.
+    - >-
+      Noa is liable because a company must have at least two shareholders.
+    - >-
+      Noa is liable because a director guarantees the company's trade debts.
+  correct: 0
+  explanation: >-
+    A company is a legal person (s. 4) and may have one shareholder (s. 3); as in Salomon, the owner is
+    not liable for its debts unless an exception such as lifting the veil (s. 6) applies or she gave a
+    guarantee.
+- id: q3
+  question: >-
+    Five neighbours in Rahat want to run a youth football club, collect membership fees and apply for
+    municipal grants. No one wants to take profits. Which form fits best?
+  options:
+    - >-
+      A limited partnership, so that the neighbours' liability is capped.
+    - >-
+      An amuta, a non-profit legal person founded by two or more adults.
+    - >-
+      A sole trader registered in the name of the club's treasurer.
+    - >-
+      A private company, because only companies may receive public grants.
+  correct: 1
+  explanation: >-
+    An amuta is founded by two or more adults for a lawful purpose not aimed at distributing profits
+    (Amutot Law s. 1); it is the usual form for clubs and community groups.
+- id: q4
+  question: >-
+    An investor puts ₪500,000 into a limited partnership as a limited partner and then starts managing
+    its day-to-day business and signing contracts. What is the risk for him?
+  options:
+    - >-
+      None, because his liability was fixed when he contributed the capital.
+    - >-
+      The partnership is automatically dissolved by his involvement.
+    - >-
+      He loses his share in the profits but keeps his limited liability.
+    - >-
+      While he manages, he is liable for all its debts as a general partner.
+  correct: 3
+  explanation: >-
+    A limited partner may not manage the business; if he does, he is liable for all the partnership's
+    obligations as if he were a general partner for as long as he takes part (Ordinance s. 63(ג)).

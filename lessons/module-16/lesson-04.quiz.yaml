@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A director of a private software company learns, through his board seat, that a client wants a
+    custom system. He builds it through his own side company and keeps the fee. Which duty is engaged?
+  options:
+    - >-
+      Only the duty of care, because the company itself lost no money.
+    - >-
+      No duty, because directors may run any other business freely.
+    - >-
+      Loyalty: he took the company's business opportunity.
+    - >-
+      Only a duty to the client, who chose to use the side company.
+  correct: 2
+  explanation: >-
+    Section 254(א)(3) forbids an officer to exploit the company's business opportunity for himself; it can
+    be approved only under s. 255, after full disclosure, in good faith and without harm to the company.
+- id: q2
+  question: >-
+    The articles of a company exempt its directors in advance from "all liability to the company". A
+    director knowingly paid company money to his wife's business. Does the clause protect him?
+  options:
+    - >-
+      Yes, because the shareholders approved the articles.
+    - >-
+      Yes, if he acted without intent to make an unlawful profit.
+    - >-
+      Only if the company also bought D&O insurance for him.
+    - >-
+      No, disloyalty can never be exempted.
+  correct: 3
+  explanation: >-
+    Section 258(א) bars any exemption for breach of loyalty; s. 259 allows advance exemption only for
+    breach of care, and s. 263 voids clauses covering disloyalty, intentional or reckless breaches.
+- id: q3
+  question: >-
+    A board approved a large acquisition after a two-hour meeting with a valuation report, a legal
+    opinion and questions to management. The deal lost money. A shareholder says the directors were
+    negligent. What is the directors' strongest answer?
+  options:
+    - >-
+      Their decision was informed, unconflicted and in good faith.
+    - >-
+      Directors are never liable for losses on any business decision.
+    - >-
+      The general meeting later approved the financial statements.
+    - >-
+      The company's articles name the general manager as responsible.
+  correct: 0
+  explanation: >-
+    Section 253 asks whether the officer acted as a reasonable officer and took reasonable steps to get
+    information; under the business judgment rule adopted in Vrednikov, courts defer to an informed,
+    good-faith decision without a conflict.
+- id: q4
+  question: >-
+    In a private company without an audit committee, the general manager, who is also a director, wants
+    the company to buy his flat for its offices at above-market rent. Who must approve?
+  options:
+    - >-
+      The board alone, with the general manager voting.
+    - >-
+      The board without him voting, and then the general meeting.
+    - >-
+      The general manager may approve it himself as part of daily management.
+    - >-
+      Only the Companies Registrar, after notice to creditors.
+  correct: 1
+  explanation: >-
+    An extraordinary transaction in which a director has a personal interest needs, in a private company
+    without an audit committee, board approval and general-meeting approval (s. 272(ב)); he may not take
+    part in the board vote (s. 278).

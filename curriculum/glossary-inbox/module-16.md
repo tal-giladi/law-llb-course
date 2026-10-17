@@ -1,0 +1,40 @@
+- **תאגיד** (Ta'agid) — Body corporate, legal person.
+- **אישיות משפטית נפרדת** (Ishiyut mishpatit nifredet) — Separate legal personality of a company (Companies Law s. 4).
+- **אחריות מוגבלת** (Ahrayut mugbelet) — Limited liability of shareholders, set in the articles (Companies Law s. 35).
+- **חברה פרטית / ציבורית** (Hevra pratit / tziburit) — Private company / public company (shares listed or offered to the public) (Companies Law s. 1).
+- **תקנון** (Takanon) — Articles of association; a contract between the company and its shareholders and among them (Companies Law s. 17).
+- **תזכיר** (Tazkir) — Memorandum of association; exists only for companies formed before the Companies Law 1999.
+- **תעודת התאגדות** (Te'udat hitagdut) — Certificate of incorporation issued by the Companies Registrar (Companies Law s. 10).
+- **רשם החברות** (Rasham ha-havarot) — Companies Registrar, at the Corporations Authority of the Ministry of Justice.
+- **יזם** (Yazam) — Promoter acting for a company before its incorporation (Companies Law ss. 12–14).
+- **הון מניות רשום / מונפק** (Hon menayot rashum / munpak) — Registered (authorised) / issued share capital.
+- **ערך נקוב** (Erekh nakuv) — Par (nominal) value of a share.
+- **משרד רשום / מען דיגיטלי** (Misrad rashum / me'an digitali) — Registered office / digital address of a company (Companies Law ss. 123, 123א).
+- **אורגן** (Organ) — Organ of a company: general meeting, board, general manager (Companies Law s. 46).
+- **אסיפה כללית** (Asefa klalit) — General meeting of shareholders (annual or special).
+- **דירקטוריון** (Direktoryon) — Board of directors.
+- **מנהל כללי** (Menahel klali) — General manager (CEO).
+- **סמכות שיורית** (Samkhut shyurit) — Residual authority, held by the board (Companies Law s. 49).
+- **מניין חוקי** (Minyan hukki) — Quorum.
+- **נושא משרה** (Nose misra) — Officer: GM, deputies, directors, managers reporting to the GM (Companies Law s. 1).
+- **חובת זהירות** (Hovat zehirut) — Officer's duty of care (Companies Law ss. 252–253).
+- **חובת אמונים** (Hovat emunim) — Officer's duty of loyalty (Companies Law s. 254).
+- **עניין אישי** (Inyan ishi) — Personal interest in a company's transaction (Companies Law s. 1).
+- **עסקה חריגה** (Iska harigah) — Extraordinary transaction: outside ordinary course, not on market terms, or materially affecting the company (Companies Law s. 1).
+- **בעל שליטה** (Ba'al shlita) — Controlling shareholder.
+- **חובת הגינות** (Hovat haginut) — Duty of fairness of a controlling or pivotal shareholder (Companies Law s. 193).
+- **הרמת מסך** (Haramat masakh) — Lifting (piercing) the corporate veil (Companies Law s. 6).
+- **חלוקה / חלוקה אסורה** (Haluka / haluka asura) — Distribution / prohibited distribution (Companies Law ss. 1, 301).
+- **מבחן הרווח / מבחן יכולת הפירעון** (Mivhan ha-revah / mivhan yekholet ha-pira'on) — Profit test / solvency test for distributions (Companies Law s. 302).
+- **קיפוח** (Kipuah) — Oppression (unfair prejudice) of shareholders (Companies Law s. 191).
+- **תביעה נגזרת** (Tvi'a nigzeret) — Derivative claim brought for the company by a shareholder or director (Companies Law ss. 194–206).
+- **שעבוד** (Shi'bud) — Charge (security interest) registered over a company's assets.
+- **נסח חברה** (Nesah hevra) — Company extract from the Registrar.
+- **חברה מפרה** (Hevra mafera) — Violating company: registered as such for unpaid fees or missing annual reports (Companies Law s. 362א).
+- **שותפות כללית / מוגבלת** (Shutafut klalit / mugbelet) — General / limited partnership (Partnerships Ordinance ss. 1, 57).
+- **שותף מוגבל** (Shutaf mugbal) — Limited partner, liable only up to his contribution and barred from management (Partnerships Ordinance ss. 1, 63).
+- **עמותה** (Amuta) — Non-profit association registered under the Amutot Law 1980.
+- **אגודה שיתופית** (Aguda shitufit) — Cooperative society registered under the Cooperative Societies Ordinance.
+- **עוסק פטור / עוסק מורשה** (Osek patur / osek murshe) — Exempt dealer (turnover below the VAT ceiling) / licensed VAT-registered dealer (VAT Law s. 1).
+- **עובד עצמאי** (Oved atzma'i) — Self-employed person for National Insurance (National Insurance Law s. 1).
+- **הבשלה (וסטינג)** (Havshala) — Vesting of founders' shares over time.

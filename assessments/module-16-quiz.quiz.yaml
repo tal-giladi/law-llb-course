@@ -1,0 +1,185 @@
+- id: q1
+  question: >-
+    Bar-style. Dov and Rachel run a café together and share profits. They never registered anything.
+    Rachel signs a ₪60,000 coffee-machine lease for the café; Dov did not know. The lessor sues Dov.
+    Which is correct?
+  options:
+    - >-
+      Dov is not liable, because an unregistered partnership has no legal existence.
+    - >-
+      Dov is liable only for half, because each partner answers for his own share.
+    - >-
+      Dov is liable jointly and severally, as Rachel acted in the ordinary course.
+    - >-
+      Dov is liable only if he later used the machine in the café himself.
+  correct: 2
+  explanation: >-
+    They are partners whether registered or not (Ordinance ss. 1, 6); a partner's act in the ordinary
+    course binds the partnership and the other partners (s. 14), and partners are liable jointly and
+    severally (s. 20).
+- id: q2
+  question: >-
+    Bar-style. A private company's articles require 75% to amend the clause on transfers of shares. A 70%
+    shareholder calls a meeting with proper notice and votes to delete the clause; the 30% holder votes
+    against. What is the result?
+  options:
+    - >-
+      The clause stays: it can be changed only by the 75% majority it requires.
+    - >-
+      The clause is deleted, since amendments need only a simple majority.
+    - >-
+      The clause is deleted, but the 30% holder may demand a buy-out.
+    - >-
+      The clause stays only if the Registrar refuses to register the change.
+  correct: 0
+  explanation: >-
+    Where the articles require a special majority to change a provision, it can be changed only by that
+    majority (s. 20(ב)); entrenchment works the same way (s. 22).
+- id: q3
+  question: >-
+    Bar-style. A director who holds 5% of a private company sells it his warehouse at 30% above market
+    value. He told the other two directors about his ownership, and they approved it. No general meeting
+    was held. The company has no audit committee. Is the transaction valid?
+  options:
+    - >-
+      Yes, because the disinterested directors approved after disclosure.
+    - >-
+      Yes, because a director with only 5% has no personal interest.
+    - >-
+      No, unless the Companies Registrar confirms the price.
+    - >-
+      No: as an extraordinary deal it also needs the general meeting.
+  correct: 3
+  explanation: >-
+    A transaction at above-market price is extraordinary (s. 1); in a private company without an audit
+    committee, an extraordinary transaction with a director needs board and general-meeting approval
+    (s. 272(ב)); without it the transaction has no force against the company (s. 280).
+- id: q4
+  question: >-
+    Bar-style. A company's statements from four months ago show retained earnings of ₪3 million. It has
+    ₪200,000 in cash and a ₪2 million bank loan due next month that it cannot refinance. The board
+    declares a ₪1 million dividend. Which is correct?
+  options:
+    - >-
+      Permitted, because the profit test is met and statements are recent.
+    - >-
+      Prohibited, because the solvency test fails.
+    - >-
+      Permitted, if the shareholders return the money when the loan is due.
+    - >-
+      Prohibited only if the bank objects before payment.
+  correct: 1
+  explanation: >-
+    A distribution must pass both the profit test and the solvency test (s. 302(א)); a reasonable concern
+    that the company cannot pay the loan makes it a prohibited distribution, and directors in office are
+    deemed in breach unless they prove a s. 311 defence.
+- id: q5
+  question: >-
+    A sole shareholder of an insolvent company moved all its customers, staff and equipment to a new
+    company he formed a week after a supplier's invoice went unpaid. The supplier asks the magistrates'
+    court to make him pay. What is the supplier's best argument?
+  options:
+    - >-
+      The shareholder used the separate personality to deprive a creditor, knowingly.
+    - >-
+      Any sole shareholder is personally liable for the company's trade debts.
+    - >-
+      The company's limited liability ended when it became insolvent.
+    - >-
+      The magistrates' court must refer veil-lifting to the district court.
+  correct: 0
+  explanation: >-
+    Section 6(א)(1)(א) allows attributing the debt where the separate personality was used to deprive a
+    creditor, with the shareholder's awareness; the court competent for the claim decides it (Courts Law
+    s. 40(5)).
+- id: q6
+  question: >-
+    You own 8% of a private company. You want to see the contract under which the company pays a
+    director's relative for consulting, which the general meeting must approve next month. How do you ask?
+  options:
+    - >-
+      You cannot; only holders of 10% may ask for company documents.
+    - >-
+      Ask the Companies Registrar for a copy from the company's file.
+    - >-
+      Ask the company, stating your purpose, under s. 185.
+    - >-
+      Apply to court for discovery under s. 198א at once.
+  correct: 2
+  explanation: >-
+    Any shareholder may demand, stating his purpose, documents about a transaction needing general-meeting
+    approval or needed to decide on an agenda item (s. 185(א)); the 10% threshold applies to s. 186 and
+    to meeting demands, not to s. 185.
+- id: q7
+  question: >-
+    A minority shareholder's own shares were not offered to her when the company issued new shares only
+    to the majority holder, diluting her from 30% to 10%. The company has one class of shares and
+    default articles. What kind of claim is this?
+  options:
+    - >-
+      A derivative claim, after a demand to the chairman.
+    - >-
+      A creditor's claim for a prohibited distribution.
+    - >-
+      A claim to lift the veil against the majority holder.
+    - >-
+      A direct claim: her pre-emption right was breached.
+  correct: 3
+  explanation: >-
+    In a private company with one class of shares, new shares must be offered pro rata unless the
+    articles say otherwise (s. 290(א)); her own right was harmed, so the claim is direct, and oppression
+    (s. 191) may also apply.
+- id: q8
+  question: >-
+    A shareholder sends a s. 194 demand. The company answers within 45 days that it rejects it, with
+    reasons. The shareholder now files a claim in the company's name. What must the court decide first?
+  options:
+    - >-
+      Whether the claim is prima facie in the company's interest.
+    - >-
+      Whether the shareholder holds at least 10% of all the shares.
+    - >-
+      Whether the directors who rejected the demand were negligent.
+    - >-
+      Whether the Companies Registrar consents to the claim.
+  correct: 0
+  explanation: >-
+    A derivative claim needs court approval, given if the court is satisfied that prima facie the claim
+    and its conduct are in the company's interest and the claimant is not in bad faith (s. 198(א)); any
+    shareholder may sue derivatively (s. 194(א)).
+- id: q9
+  question: >-
+    Nadia, a freelance English–Hebrew translator, expects ₪45,000 turnover. She plans to register as an
+    exempt dealer and issue simple receipts. What is the correct position?
+  options:
+    - >-
+      She is right, because she is below the exempt-dealer ceiling.
+    - >-
+      She must register as a licensed dealer, because translators are listed.
+    - >-
+      She need not register at all until she passes the ceiling.
+    - >-
+      She may choose, but must decide within her first year.
+  correct: 1
+  explanation: >-
+    Regulation 13(1) of the VAT Registration Regulations lists translators (מתורגמן) among professionals
+    always registered as licensed dealers, whatever their turnover.
+- id: q10
+  question: >-
+    You are about to give a new customer company ₪150,000 of credit. Its extract shows "מפרת חוק", a
+    bank's floating charge on all assets, and all shares transferred last week to a company formed last
+    month. What is the most sensible decision?
+  options:
+    - >-
+      Give the credit; a registered company cannot avoid its debts.
+    - >-
+      Refuse any dealings; a violating company cannot contract.
+    - >-
+      Give small credit only, against a personal guarantee and fast payment terms.
+    - >-
+      Give the credit and register your own floating charge without consent.
+  correct: 2
+  explanation: >-
+    Violating status (s. 362א), a prior bank charge and a sudden change of control are red flags; a
+    violating company can still contract, so the answer is protection: limited exposure, a guarantee from
+    the new controller and short terms.

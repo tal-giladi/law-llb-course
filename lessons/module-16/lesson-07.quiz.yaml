@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Yael, a newly qualified architect, expects only ₪50,000 turnover in her first year. She wants to
+    register as an exempt dealer to keep things simple. What will happen?
+  options:
+    - >-
+      She is registered as exempt, since her turnover is below the ceiling.
+    - >-
+      She may choose either status freely in her first year.
+    - >-
+      She is exempt until her turnover passes the ceiling for two years.
+    - >-
+      She is registered as a licensed dealer, since architects are listed.
+  correct: 3
+  explanation: >-
+    Regulation 13(1) of the VAT Registration Regulations lists architects among the professionals who are
+    always registered as licensed dealers, whatever their turnover.
+- id: q2
+  question: >-
+    Avi plans to open a bicycle shop on 1 December. When must he register for VAT?
+  options:
+    - >-
+      By the day the business starts, or earlier.
+    - >-
+      Within 30 days after his very first sale.
+    - >-
+      Only after his turnover passes the exempt-dealer ceiling.
+    - >-
+      By 31 January of the following year, with his declaration.
+  correct: 0
+  explanation: >-
+    Dealers must register (s. 52(א)) by submitting the form no later than the day they start business
+    (reg. 2(א)(2)); a person setting up a business may register in advance (s. 52(ב)).
+- id: q3
+  question: >-
+    Partner A of a two-person plumbing partnership buys ₪30,000 of pipes on credit for the business. B
+    says she never agreed. Is the partnership bound?
+  options:
+    - >-
+      No, because every purchase needs both partners' consent.
+    - >-
+      Yes, a partner acting in the ordinary course binds the partnership.
+    - >-
+      Only if the supplier first checked the partnership's registration.
+    - >-
+      Only A is bound, because he signed the order himself.
+  correct: 1
+  explanation: >-
+    Each partner is the agent of the partnership for its business, and his acts in the ordinary course
+    bind it and the other partners (s. 14), unless the supplier knew he lacked authority.
+- id: q4
+  question: >-
+    Two partners agreed nothing about pay. One works full time in the business, the other only invests.
+    The working partner demands a salary before profits are split. What is the default rule?
+  options:
+    - >-
+      He is entitled to a reasonable salary for his work.
+    - >-
+      He gets a salary set by majority vote of the partners.
+    - >-
+      No partner is entitled to pay for his work unless agreed.
+    - >-
+      The court fixes a salary on the working partner's application.
+  correct: 2
+  explanation: >-
+    Under s. 34(6) of the Partnerships Ordinance, subject to agreement, a partner is not entitled to
+    remuneration for his work in the partnership business.

@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    The board of a private company resolves to amend the articles so that the company may skip annual
+    meetings. No general meeting is held. Is the amendment valid?
+  options:
+    - >-
+      Yes, because the board holds the company's residual authority.
+    - >-
+      Yes, if all the directors voted for it and signed the minutes.
+    - >-
+      No, amending the articles is reserved to the general meeting.
+    - >-
+      No, a private company may never skip its annual meeting.
+  correct: 2
+  explanation: >-
+    Amending the articles is a general-meeting power under s. 57(1), which the company cannot contract out
+    of (s. 58); s. 61 does allow a private company to skip annual meetings, but only if its articles say so.
+- id: q2
+  question: >-
+    You hold 12% of the shares and votes of a private company. You demand a special general meeting to
+    discuss a sale of the company's main asset. Five weeks pass and the board does nothing. What can you do?
+  options:
+    - >-
+      Convene it yourself within three months, at the company's cost.
+    - >-
+      Nothing, because only a director may demand any special meeting.
+    - >-
+      File a complaint with the Companies Registrar, who must convene it.
+    - >-
+      Wait for the next annual meeting and raise it under "any other business".
+  correct: 0
+  explanation: >-
+    A 10% holder may demand a meeting (s. 63(א)(2)); if the board does not convene within 21 days the
+    demanding shareholder may convene it within three months at the company's expense (s. 64), or ask the
+    court (s. 65).
+- id: q3
+  question: >-
+    A shareholder received notice of a general meeting two days before it, attended it, and voted against
+    the resolution. Afterwards she asks the court to cancel it because the notice period was too short.
+    What is the likely outcome?
+  options:
+    - >-
+      The resolution is void automatically because notice was defective.
+    - >-
+      The court must cancel it if she shows any defect in the notice.
+    - >-
+      She must first complain to the board, which decides on defects.
+    - >-
+      She cannot rely on a defect about the date, since she attended despite it.
+  correct: 3
+  explanation: >-
+    The court may cancel a resolution of a defectively convened meeting (s. 91(א)), but a shareholder who
+    came to the meeting despite a defect in the notice of its place or date cannot demand cancellation
+    (s. 91(ב)).
+- id: q4
+  question: >-
+    An investor offers to buy shares in a start-up if the founder, who is also a director, signs an
+    agreement to vote on the board as the investor tells him. What is the legal problem?
+  options:
+    - >-
+      None; directors and shareholders may freely agree how to vote.
+    - >-
+      A director must judge independently and cannot sign voting agreements.
+    - >-
+      The agreement is valid only if the general meeting approves it in advance.
+    - >-
+      Voting agreements are allowed only in public companies.
+  correct: 1
+  explanation: >-
+    Section 106(א) treats a director's voting agreement as a breach of the duty of loyalty; s. 189 allows
+    voting agreements only between shareholders, as shareholders.

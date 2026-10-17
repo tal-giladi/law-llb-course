@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are the only shareholder and only director of the company you are forming. Which route lets you
+    register it without a lawyer verifying your signature?
+  options:
+    - >-
+      Paper forms sent by registered post to the Registrar.
+    - >-
+      The online application, after secure electronic identification.
+    - >-
+      Signing the forms before a notary instead of a lawyer.
+    - >-
+      Asking an accountant to file on your behalf as your agent.
+  correct: 1
+  explanation: >-
+    A shareholder may file online (reg. 16ב(א)); a sole shareholder-director approves the articles and
+    declarations himself (reg. 16ב(ג)), and online filers are exempt from signature verification (reg.
+    16א(ב1)). Paper forms need a lawyer's verification (reg. 1(ג)).
+- id: q2
+  question: >-
+    A potential customer's extract shows status "מפרת חוק". What does this most likely mean?
+  options:
+    - >-
+      The company was convicted of some criminal offence.
+    - >-
+      The company is in liquidation and cannot contract.
+    - >-
+      It has unpaid annual fees or missing annual reports.
+    - >-
+      Its directors are barred from managing any company.
+  correct: 2
+  explanation: >-
+    Under s. 362א the Registrar may register a company as violating, after a 30-day warning, for unpaid
+    fees or a missing annual report; it does not by itself mean insolvency, but it is a warning sign.
+- id: q3
+  question: >-
+    A supplier reads in an extract that a bank holds a floating charge over all the customer company's
+    assets. What does this mean for the supplier?
+  options:
+    - >-
+      In insolvency, the bank is paid from the assets before unsecured creditors.
+    - >-
+      The supplier may register a second charge without the company's consent.
+    - >-
+      The bank guarantees the company's debts to its suppliers.
+    - >-
+      The company may not buy goods on credit without the bank's approval.
+  correct: 0
+  explanation: >-
+    A charge gives the bank security over the company's assets; an unsecured supplier ranks behind it,
+    which is why suppliers ask for guarantees or their own security.
+- id: q4
+  question: >-
+    You want to know whether a company's new director has been a director of other companies that were
+    struck off. Which Registrar service helps?
+  options:
+    - >-
+      A certified copy of the certificate of incorporation.
+    - >-
+      An FOI request to the Ministry of Justice.
+    - >-
+      The company's scanned file, which lists all other companies.
+    - >-
+      A reverse search by the director's ID number.
+  correct: 3
+  explanation: >-
+    The Fees Regulations define a reverse search (חיפוש הפוך) as a search of the registers by a person's
+    ID for the companies in which he is or was a shareholder or officer.

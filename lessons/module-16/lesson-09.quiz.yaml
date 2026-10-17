@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    Founders agree in a signed side agreement that no one may sell shares without first offering them to
+    the others. One founder sells to an outsider who never signed it. What protects the others best next
+    time?
+  options:
+    - >-
+      A clause in the side agreement that binds future shareholders.
+    - >-
+      Registering the side agreement with the Companies Registrar.
+    - >-
+      A first-refusal clause in the articles, entrenched against amendment.
+    - >-
+      A voting agreement among the directors to reject transfers.
+  correct: 2
+  explanation: >-
+    The articles bind the company and every shareholder, present and future (s. 17); a side agreement
+    binds only its parties. Entrenchment (s. 22) protects the clause from a majority amendment, and
+    directors may not make voting agreements (s. 106).
+- id: q2
+  question: >-
+    In your information request you ask for the board minutes approving a lease from the CEO's brother,
+    "because I need to decide how to vote at the general meeting that must approve it". Which section
+    supports the request?
+  options:
+    - >-
+      Section 185, with the stated purpose.
+    - >-
+      Section 184, which gives access to board minutes as of right.
+    - >-
+      Section 187, which covers the financial statements.
+    - >-
+      Section 186, which covers only directors' pay.
+  correct: 0
+  explanation: >-
+    Board minutes are not in the as-of-right list; s. 185(א)(1) lets a shareholder, stating his purpose,
+    inspect documents about a transaction that needs general-meeting approval under ss. 255 and 268–275.
+- id: q3
+  question: >-
+    Three founders hold equal shares. One works full time; two are part time. Which founders' agreement
+    term best addresses the risk that a part-time founder leaves after four months keeping a third?
+  options:
+    - >-
+      A drag-along clause for any future sale.
+    - >-
+      A BMBY buy-sell clause after deadlock.
+    - >-
+      An entrenched quorum clause in the articles.
+    - >-
+      Vesting with a cliff and a buy-back.
+  correct: 3
+  explanation: >-
+    Vesting with a cliff lets the company buy back unvested shares from a founder who leaves early; the
+    other clauses deal with sales, deadlock or meetings.
+- id: q4
+  question: >-
+    You sent an information request; the company ignored it. You hold 20%. What is the next step that
+    forces a decision within a set time?
+  options:
+    - >-
+      A complaint to the Israel Securities Authority.
+    - >-
+      A demand for a special meeting under s. 63.
+    - >-
+      An application to strike the company off the register.
+    - >-
+      A derivative claim filed at once without any demand.
+  correct: 1
+  explanation: >-
+    A holder of 10% may demand a special meeting, which the board must convene within 21 days (s. 63);
+    if it does not, the shareholder may convene it himself within three months (s. 64).
