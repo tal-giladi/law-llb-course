@@ -1,0 +1,173 @@
+- id: q1
+  question: >-
+    A municipal official tells a resident that a request "is contrary to international law" and cites
+    a UN special rapporteur's report. The resident asks how much weight this has. What is the best
+    answer?
+  options:
+    - >-
+      It binds the municipality, because special rapporteurs are appointed by the UN.
+    - >-
+      It is soft law: possibly persuasive, but not a source of binding obligation by itself.
+    - >-
+      It binds Israel only if Israel voted for the resolution appointing the rapporteur.
+    - >-
+      It has no relevance at all, because only ICJ judgments count in international law.
+  correct: 1
+  explanation: >-
+    Special-procedures reports are not among the art. 38 sources. They may be evidence of the law or
+    persuasive interpretation; the official should identify the treaty or customary rule itself.
+- id: q2
+  question: >-
+    The Government wants to ratify a bilateral agreement giving up a small area where Israeli law
+    applies, in exchange for land elsewhere. The coalition has 68 seats. What is required?
+  options:
+    - >-
+      Only a Government decision after the two-week tabling in the Knesset.
+    - >-
+      Approval by a Knesset majority and the President's signature, without more.
+    - >-
+      A Knesset majority and then a referendum, unless 80 members approve.
+    - >-
+      A Supreme Court opinion confirming the agreement's legality before ratification.
+  correct: 2
+  explanation: >-
+    Basic Law: Referendum s. 1 applies to agreements under which Israeli law, jurisdiction and
+    administration cease to apply to an area: Knesset majority plus referendum, unless 80 approve.
+- id: q3
+  question: >-
+    You must convince an Israeli magistrates' court that a foreign State's agency is not immune from
+    your claim. Which argument is properly built?
+  options:
+    - >-
+      The agency's purpose was commercial, and purpose decides immunity under Edelson.
+    - >-
+      The agency signed an ordinary supply contract, a commercial transaction under s. 3 of the 2008 Law.
+    - >-
+      Foreign States never enjoy immunity in Israel since Israel adopted restrictive immunity.
+    - >-
+      The agency is immune only if Israel recognises the foreign State's government.
+  correct: 1
+  explanation: >-
+    The 2008 Law grants immunity subject to exceptions; s. 3 removes it for commercial transactions,
+    judged by the nature of the act (Edelson), not its purpose.
+- id: q4
+  question: >-
+    A journalist asks you, as a neutral expert, to sum up the ICJ's South Africa v. Israel case as of
+    October 2026 in one sentence. Which is accurate?
+  options:
+    - >-
+      Interim measures were ordered; pleadings run to 2029; no merits ruling.
+    - >-
+      The Court found genocide in 2024 and is now deciding on reparations.
+    - >-
+      The Court dismissed the case in 2026 after Israel's jurisdictional objections.
+    - >-
+      The case was transferred to the ICC because it concerns individual crimes.
+  correct: 0
+  explanation: >-
+    Provisional measures were ordered in 2024; Israel's Counter-Memorial was due March 2026; the
+    21 May 2026 order set the Reply for November 2027 and the Rejoinder for May 2029.
+- id: q5
+  question: >-
+    A lawyer argues that Israel cannot be bound by a rule codified in a 1990s treaty it never joined.
+    The rule appears in State practice worldwide and governments describe it as legally required.
+    What is the best reply?
+  options:
+    - >-
+      The lawyer is right: a non-party is never bound by a rule found in a treaty.
+    - >-
+      Israel is bound only if the treaty has more parties than half the UN membership.
+    - >-
+      Israel is bound because the UN General Assembly endorsed the treaty.
+    - >-
+      Israel may be bound by the same rule as custom, unless it was a persistent objector.
+  correct: 3
+  explanation: >-
+    A treaty rule can reflect or generate custom (ILC conclusion 11) when practice is general and
+    accepted as law; custom binds non-parties, except persistent objectors.
+- id: q6
+  question: >-
+    A father whose daughter was kept in Israel by her mother after a summer visit asks what makes his
+    case strong in the Family Court. What is the key legal feature?
+  options:
+    - >-
+      The CRC's best-interests principle, which lets the court decide custody immediately.
+    - >-
+      The ICCPR, which requires family reunification in every case.
+    - >-
+      The Hague Convention has force of law; return within a year is mandatory.
+    - >-
+      The ICJ, which hears child-abduction disputes between parents of different nationalities.
+  correct: 2
+  explanation: >-
+    The Hague Convention Law 1991 s. 2 gives the Convention force of law; art. 12 requires return
+    within a year of wrongful retention, subject to narrow exceptions (LFA 741/11).
+- id: q7
+  question: >-
+    A pupil was permanently expelled after her parents were heard, but she was not allowed into the
+    meeting. Which argument best uses the CRC?
+  options:
+    - >-
+      Section 6 names the pupil too; read with s. 1 and CRC art. 12, she must be heard.
+    - >-
+      The CRC is incorporated by the Pupils' Rights Law, so its art. 12 overrides any contrary section.
+    - >-
+      The expulsion is void because Israel has not reported to the CRC Committee recently.
+    - >-
+      She should complain to the CRC Committee, which can annul school decisions in Israel.
+  correct: 0
+  explanation: >-
+    The Law's purpose clause refers to the CRC, which supports reading "the pupil and her parents"
+    literally. The CRC is not incorporated, and Israel accepted no complaint procedure.
+- id: q8
+  question: >-
+    An Israeli statute's words clearly exclude a group from a benefit. A ratified treaty, as read by its
+    committee, requires including them. What can the court do under Israeli law?
+  options:
+    - >-
+      Read the statute to include the group under the presumption of compatibility.
+    - >-
+      Declare the statute void for conflict with a ratified treaty.
+    - >-
+      Apply the statute, since the presumption is rebutted here.
+    - >-
+      Refer the question to the ICJ for an advisory opinion before deciding.
+  correct: 2
+  explanation: >-
+    Yated para. 8: the presumption yields where the language cannot be reconciled. Unincorporated
+    treaties cannot override statutes; only Basic Law arguments could.
+- id: q9
+  question: >-
+    Which description of the ICC Palestine situation, as last confirmed in early 2026, is neutral and
+    accurate?
+  options:
+    - >-
+      The ICC convicted Israeli leaders in absentia in 2025.
+    - >-
+      The Appeals Chamber cancelled the warrants because Israel is not a party.
+    - >-
+      The ICC has no case, because the Prosecutor withdrew all requests in 2025.
+    - >-
+      The 2024 warrants stood while Israel's challenge was on remand.
+  correct: 3
+  explanation: >-
+    The Appeals Chamber in April 2025 remanded Israel's jurisdiction challenge; the Chamber declined to
+    withdraw the warrants. The ICC does not try accused persons in absentia. Check for later rulings.
+- id: q10
+  question: >-
+    An Israeli resident working for a foreign embassy in Herzliya is injured by the embassy's car
+    driven by a staff member on a Tel Aviv street. Which provision most directly removes the foreign
+    State's immunity from his tort claim?
+  options:
+    - >-
+      Section 5: a tort in Israel causing bodily injury.
+    - >-
+      Section 3: the car was bought in a commercial transaction.
+    - >-
+      Section 21: diplomatic immunity does not cover vehicles.
+    - >-
+      Section 20: the Foreign Minister may lift immunity by order.
+  correct: 0
+  explanation: >-
+    Section 5 removes immunity for a tort committed in Israel causing bodily injury or damage to
+    tangible property. The driver's personal diplomatic status is a separate question.

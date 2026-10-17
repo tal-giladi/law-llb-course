@@ -39,7 +39,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 16 — Corporate Law
 - [x] Module 17 — Labour, Welfare and Social Security Law
 - [x] Module 18 — Family Law
-- [ ] Module 19 — Public International Law
+- [x] Module 19 — Public International Law
 - [ ] Module 20 — Contracts: Advanced and Special Contracts
 - [ ] Module 21 — Proseminar: Academic Legal Writing
 - [ ] Module 22 — Clinic II: Work, Family and Home Without a Lawyer
@@ -48,7 +48,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 19: sub-agent A
+- Module 21: sub-agent A
 - Module 20: sub-agent B
 
 ## Decisions and open questions

@@ -1,0 +1,1309 @@
+- id: m19-001
+  module: 19
+  lesson: "19.1"
+  subject: sources
+  difficulty: 1
+  question: >-
+    Which of the following is listed in ICJ Statute art. 38(1) as a subsidiary means for determining
+    rules of law, rather than a source?
+  options:
+    - >-
+      International conventions establishing rules recognised by the parties.
+    - >-
+      International custom, as evidence of a general practice accepted as law.
+    - >-
+      Judicial decisions and the teachings of the most highly qualified publicists.
+    - >-
+      General principles of law recognised by the main legal systems.
+  correct: 2
+  explanation: >-
+    Art. 38(1)(d) treats judgments and teachings as subsidiary means, subject to art. 59; (a)–(c) are
+    the sources proper.
+- id: m19-002
+  module: 19
+  lesson: "19.1"
+  subject: sources
+  difficulty: 1
+  question: >-
+    What does art. 59 of the ICJ Statute say about the Court's decisions?
+  options:
+    - >-
+      They bind only the parties and only in respect of that case.
+    - >-
+      They bind all UN members as precedent for later cases.
+    - >-
+      They bind all parties to any treaty the Court interpreted.
+    - >-
+      They bind the parties only after Security Council approval.
+  correct: 0
+  explanation: >-
+    There is no binding precedent at the ICJ; in practice the Court follows its earlier reasoning,
+    and its judgments are persuasive for others.
+- id: m19-003
+  module: 19
+  lesson: "19.1"
+  subject: jus-cogens
+  difficulty: 2
+  question: >-
+    Two States agree by treaty to cooperate in deporting members of an ethnic group to camps where
+    they will be destroyed. What is the legal status of the treaty?
+  options:
+    - >-
+      Valid between the parties, but they must report it to the UN Secretary-General.
+    - >-
+      Valid until the Security Council adopts a resolution declaring it unlawful.
+    - >-
+      Voidable only if a third State objects within twelve months.
+    - >-
+      Void, because it conflicts with a peremptory norm (VCLT art. 53).
+  correct: 3
+  explanation: >-
+    The prohibition of genocide is a generally accepted peremptory norm; a treaty conflicting with it
+    is void from the outset.
+- id: m19-004
+  module: 19
+  lesson: "19.1"
+  subject: sources
+  difficulty: 2
+  question: >-
+    A Security Council decision under Chapter VII requires all States to freeze certain assets. A State
+    says a bilateral investment treaty obliges it to release them. Which rule resolves the conflict?
+  options:
+    - >-
+      Lex posterior: the later of the two instruments prevails.
+    - >-
+      UN Charter art. 103: Charter obligations prevail over other agreements.
+    - >-
+      Lex specialis: the investment treaty is more specific and prevails.
+    - >-
+      ICJ Statute art. 59: only the parties to the treaty are bound.
+  correct: 1
+  explanation: >-
+    Art. 103 gives Charter obligations, including binding Council decisions, priority over obligations
+    under any other international agreement.
+- id: m19-005
+  module: 19
+  lesson: "19.1"
+  subject: lotus
+  difficulty: 2
+  question: >-
+    What principle is the Lotus case (PCIJ 1927) best known for?
+  options:
+    - >-
+      States need a permissive rule before extending their laws to acts abroad.
+    - >-
+      Collisions on the high seas fall under the exclusive jurisdiction of the flag State of each ship.
+    - >-
+      Restrictions on States' independence cannot be presumed; what is not prohibited is permitted.
+    - >-
+      Criminal jurisdiction belongs only to the State where the accused is a national.
+  correct: 2
+  explanation: >-
+    The Court rejected France's argument that Turkey needed a permissive rule; the collision rule
+    itself was later changed by treaty.
+- id: m19-006
+  module: 19
+  lesson: "19.1"
+  subject: eichmann
+  difficulty: 2
+  question: >-
+    Which argument did the Supreme Court reject in Eichmann (CrimA 336/61)?
+  options:
+    - >-
+      That custom forbids a State to try foreigners for crimes abroad.
+    - >-
+      That genocide and crimes against humanity are crimes under international law.
+    - >-
+      That the crimes were of a universal character affecting all humanity.
+    - >-
+      That the Nuremberg tribunal rejected the act-of-State defence for such crimes.
+  correct: 0
+  explanation: >-
+    The Court found no customary rule forbidding extraterritorial or retroactive legislation for such
+    crimes and upheld universal jurisdiction; the other statements support its reasoning.
+- id: m19-007
+  module: 19
+  lesson: "19.1"
+  subject: soft-law
+  difficulty: 1
+  question: >-
+    The Universal Declaration of Human Rights (1948) was adopted as a General Assembly resolution. What
+    is its status as such?
+  options:
+    - >-
+      A treaty binding all UN members since its adoption in 1948.
+    - >-
+      A binding Security Council decision under Chapter VII.
+    - >-
+      A peremptory norm overriding all conflicting treaties.
+    - >-
+      Not binding as such; parts may reflect custom.
+  correct: 3
+  explanation: >-
+    Resolutions are not art. 38 sources; parts of the UDHR are widely regarded as customary, which is a
+    separate question requiring practice and opinio juris.
+- id: m19-008
+  module: 19
+  lesson: "19.1"
+  subject: source-test
+  difficulty: 3
+  question: >-
+    Spot the weakest sentence in this letter to a ministry: "(1) Israel ratified the CRC in 1991. (2)
+    Art. 3 requires best interests to be a primary consideration. (3) The UN has ruled that your
+    policy is illegal. (4) We ask you to reconsider."
+  options:
+    - >-
+      Sentence 1, because the CRC was never ratified by Israel.
+    - >-
+      Sentence 3, because no UN body issued a binding ruling of that kind.
+    - >-
+      Sentence 2, because art. 3 applies only to courts, not ministries.
+    - >-
+      Sentence 4, because a ministry cannot reconsider a policy.
+  correct: 1
+  explanation: >-
+    "The UN ruled" overstates any committee or rapporteur view; say "the Committee recommended" and
+    give the paragraph. Art. 3(1) expressly covers administrative authorities.
+- id: m19-009
+  module: 19
+  lesson: "19.2"
+  subject: treaties
+  difficulty: 1
+  question: >-
+    Under VCLT art. 2(1)(a), which of these is a "treaty"?
+  options:
+    - >-
+      Only a document formally titled "Treaty" and signed by heads of State.
+    - >-
+      Any oral agreement between foreign ministers recorded in the press.
+    - >-
+      A written agreement between States governed by international law, whatever its name.
+    - >-
+      A contract between a State and a foreign company governed by English law.
+  correct: 2
+  explanation: >-
+    The name does not matter; written form, State parties and international-law governance do. A
+    contract with a company under national law is not a treaty.
+- id: m19-010
+  module: 19
+  lesson: "19.2"
+  subject: treaties
+  difficulty: 1
+  question: >-
+    What did Israel's 2002 communication about the Rome Statute achieve?
+  options:
+    - >-
+      It ended the art. 18 VCLT duty from its 2000 signature.
+    - >-
+      It withdrew Israel's ratification of the Rome Statute.
+    - >-
+      It suspended the Court's jurisdiction over all Israeli nationals.
+    - >-
+      It made Israel a party with a reservation on war crimes.
+  correct: 0
+  explanation: >-
+    Israel had signed but not ratified; by stating it did not intend to become a party, it made its
+    intention clear under art. 18 and declared no obligations arising from the signature.
+- id: m19-011
+  module: 19
+  lesson: "19.2"
+  subject: reservations
+  difficulty: 2
+  question: >-
+    Israel's reservation to CEDAW art. 7(b) concerns what?
+  options:
+    - >-
+      Women serving in combat units of the armed forces.
+    - >-
+      Equal pay for women in the public sector.
+    - >-
+      Women as religious-court judges, where barred.
+    - >-
+      Women's right to vote in elections for local authorities.
+  correct: 2
+  explanation: >-
+    Israel reserved on art. 7(b) regarding women as religious-court judges, and on art. 16 regarding
+    religious personal-status law.
+- id: m19-012
+  module: 19
+  lesson: "19.2"
+  subject: israel-practice
+  difficulty: 2
+  question: >-
+    Under the Government Work Regulations, what must a minister do before proposing ratification of a
+    treaty?
+  options:
+    - >-
+      Obtain a Knesset vote approving the treaty by an absolute majority.
+    - >-
+      Table it in the Knesset two weeks before, with a summary.
+    - >-
+      Publish the treaty in Reshumot thirty days before the Government decision.
+    - >-
+      Obtain the President's signature before the Government considers it.
+  correct: 1
+  explanation: >-
+    The tabling rule lets members examine the treaty; urgency or confidentiality may justify skipping
+    it with the Foreign and Justice Ministers' agreement.
+- id: m19-013
+  module: 19
+  lesson: "19.2"
+  subject: interpretation
+  difficulty: 2
+  question: >-
+    Two treaty parties have, for 20 years, both applied an article to include internet transactions,
+    without objection. How does VCLT art. 31 treat this?
+  options:
+    - >-
+      As irrelevant, because only the original text and the travaux count.
+    - >-
+      As an amendment requiring new ratification by both parties.
+    - >-
+      As preparatory work, usable only if the text is ambiguous.
+    - >-
+      As subsequent practice establishing the parties' agreement on interpretation.
+  correct: 3
+  explanation: >-
+    Art. 31(3)(b) requires taking into account subsequent practice that establishes the parties'
+    agreement regarding interpretation.
+- id: m19-014
+  module: 19
+  lesson: "19.2"
+  subject: internal-law
+  difficulty: 2
+  question: >-
+    A State fails to pay sums due under a treaty and explains that its parliament refused the budget.
+    How does international law treat the excuse?
+  options:
+    - >-
+      No justification: internal law is no excuse (art. 27).
+    - >-
+      It is a full defence, because parliaments control budgets in democracies.
+    - >-
+      It suspends the obligation until the next budget year.
+    - >-
+      It is a defence only if the treaty was never tabled in parliament.
+  correct: 0
+  explanation: >-
+    Art. 27 bars invoking internal law to justify non-performance; art. 46 concerns only manifest
+    violations of fundamental competence rules when consent was given.
+- id: m19-015
+  module: 19
+  lesson: "19.2"
+  subject: incorporation
+  difficulty: 2
+  question: >-
+    Which technique did the Knesset use to give the Hague Abduction Convention effect in Israeli law?
+  options:
+    - >-
+      A Government decision published in the Israel Treaty Series.
+    - >-
+      A statute giving the Convention's articles in its schedule the force of law.
+    - >-
+      A Supreme Court ruling declaring the Convention customary.
+    - >-
+      Regulations by the Minister of Justice under the Interpretation Law.
+  correct: 1
+  explanation: >-
+    The Hague Convention Law (Return of Abducted Children) 1991 s. 2 gives the scheduled articles the
+    force of law, notwithstanding any other law.
+- id: m19-016
+  module: 19
+  lesson: "19.2"
+  subject: israel-practice
+  difficulty: 3
+  question: >-
+    A columnist claims that any treaty not approved by a Knesset vote is invalid for Israel under Basic
+    Law: The President s. 11(a)(5). What is the best legal response?
+  options:
+    - >-
+      Correct: the President may sign only treaties approved by the Knesset, so all others are void.
+    - >-
+      Correct, but only for treaties concluded after the Basic Law was amended.
+    - >-
+      Incorrect: the clause covers only treaties put to the Knesset.
+    - >-
+      Incorrect, because the President has no role at all in treaty matters.
+  correct: 2
+  explanation: >-
+    The courts and practice read the clause narrowly; most treaties are ratified by the Government
+    alone under its residual power, after tabling. Whether more Knesset control is desirable is debated.
+- id: m19-017
+  module: 19
+  lesson: "19.2"
+  subject: status
+  difficulty: 3
+  question: >-
+    A treaty's final clause says it enters into force for a State 30 days after deposit of its
+    instrument. Israel deposited on 3 March. Events in your case occurred on 20 March. What follows?
+  options:
+    - >-
+      The treaty bound Israel on 20 March, because ratification is effective immediately.
+    - >-
+      The treaty did not yet bind Israel on 20 March, though art. 18 duties applied.
+    - >-
+      The treaty bound Israel from the date the Government decided to ratify.
+    - >-
+      The treaty never binds Israel until incorporated by statute.
+  correct: 1
+  explanation: >-
+    Entry into force for Israel would be 2 April; before that, Israel had only the interim duty not to
+    defeat the object and purpose. Domestic incorporation is a separate question.
+- id: m19-018
+  module: 19
+  lesson: "19.2"
+  subject: extradition
+  difficulty: 2
+  question: >-
+    In Mondrowitz (CA 2144/08), what role did the Extradition Law play alongside the Israel–US treaty?
+  options:
+    - >-
+      None, because extradition treaties override Israeli statutes.
+    - >-
+      It applied only to offences listed in the treaty's original version.
+    - >-
+      It required a Knesset vote on every extradition request.
+    - >-
+      Its limitation exception barred extradition anyway.
+  correct: 3
+  explanation: >-
+    The treaty amendment could apply to the request, but the statutory limitation exception applied,
+    so the appeal was allowed.
+- id: m19-019
+  module: 19
+  lesson: "19.3"
+  subject: custom
+  difficulty: 1
+  question: >-
+    According to the ILC's 2018 conclusions, what are the two constituent elements of customary
+    international law?
+  options:
+    - >-
+      A general practice and its acceptance as law (opinio juris).
+    - >-
+      A treaty and a General Assembly resolution endorsing it.
+    - >-
+      Long duration and unanimous practice of all States.
+    - >-
+      An ICJ judgment and practice of the parties to that case.
+  correct: 0
+  explanation: >-
+    Conclusion 2: a general practice accepted as law. Each element is assessed separately; no
+    particular duration is required.
+- id: m19-020
+  module: 19
+  lesson: "19.3"
+  subject: custom
+  difficulty: 1
+  question: >-
+    Which of these counts as State practice under ILC conclusion 6?
+  options:
+    - >-
+      An article by a professor at a foreign university.
+    - >-
+      A decision of a national court applying the rule.
+    - >-
+      A statement by an NGO in a UN side event.
+    - >-
+      A newspaper editorial urging the rule's adoption.
+  correct: 1
+  explanation: >-
+    Forms of State practice include decisions of national courts, legislation and executive conduct;
+    teachings are subsidiary means, and NGO conduct is not State practice.
+- id: m19-021
+  module: 19
+  lesson: "19.3"
+  subject: custom
+  difficulty: 2
+  question: >-
+    In the North Sea Continental Shelf cases (1969), why was the equidistance method not binding on
+    Germany as custom?
+  options:
+    - >-
+      Because Germany had ratified the 1958 Convention with a reservation.
+    - >-
+      Because custom cannot develop from a treaty provision under any circumstances.
+    - >-
+      Because the practice did not show a belief that the method was legally required.
+    - >-
+      Because the ICJ has no power to identify customary rules.
+  correct: 2
+  explanation: >-
+    The Court required extensive and virtually uniform practice, including specially affected States,
+    and evidence of opinio juris, which was lacking. Germany had signed but not ratified.
+- id: m19-022
+  module: 19
+  lesson: "19.3"
+  subject: persistent-objector
+  difficulty: 2
+  question: >-
+    A State begins objecting to a customary rule fifty years after the rule was well established. Is
+    it a persistent objector?
+  options:
+    - >-
+      Yes, provided its objection is expressed clearly and publicly.
+    - >-
+      Yes, if it also withdraws from any treaty codifying the rule.
+    - >-
+      No, unless the rule is a peremptory norm.
+    - >-
+      No: objection must be made while the rule is forming and maintained.
+  correct: 3
+  explanation: >-
+    ILC conclusion 15 requires objection during formation. A late objector is bound; and the rule
+    never protects against jus cogens.
+- id: m19-023
+  module: 19
+  lesson: "19.3"
+  subject: beit-el
+  difficulty: 2
+  question: >-
+    In Beit El (HCJ 606/78), on what basis could individuals invoke the 1907 Hague Regulations in an
+    Israeli court?
+  options:
+    - >-
+      The Regulations reflect customary law, which is part of Israeli law.
+    - >-
+      The Knesset incorporated the Regulations by statute in 1967.
+    - >-
+      Israel signed the 1907 Convention before independence.
+    - >-
+      Military orders in the territories expressly adopted the Regulations.
+  correct: 0
+  explanation: >-
+    Witkon J. held that only customary provisions are enforceable without legislation; the Hague
+    Regulations qualified, the Fourth Geneva Convention, as conventional law, did not.
+- id: m19-024
+  module: 19
+  lesson: "19.3"
+  subject: custom
+  difficulty: 2
+  question: >-
+    A State repeatedly breaches a customary rule but each time claims a legal exception (self-defence).
+    What does this conduct usually show?
+  options:
+    - >-
+      That the rule has lapsed, because practice is no longer consistent.
+    - >-
+      That the State has become a persistent objector to the rule.
+    - >-
+      That the rule is now a peremptory norm binding all States.
+    - >-
+      That the rule is confirmed, since the State justifies itself within it.
+  correct: 3
+  explanation: >-
+    Following Nicaragua (1986), inconsistent conduct justified by an exception within the rule tends to
+    confirm the rule rather than weaken it.
+- id: m19-025
+  module: 19
+  lesson: "19.3"
+  subject: custom-israel
+  difficulty: 3
+  question: >-
+    You want an Israeli court to apply a customary rule that a 1990s Israeli statute directly
+    contradicts. What does Edelson para. 12 indicate?
+  options:
+    - >-
+      The customary rule prevails because custom is part of Israeli law.
+    - >-
+      The court must refer the question to the Attorney General first.
+    - >-
+      The statute prevails; custom yields to legislation.
+    - >-
+      The court applies whichever rule is more recent.
+  correct: 2
+  explanation: >-
+    Custom is part of the law of the land "subject to Israeli legislation providing otherwise"; Israel
+    may then be in breach internationally, but the court applies the statute.
+- id: m19-026
+  module: 19
+  lesson: "19.3"
+  subject: custom
+  difficulty: 3
+  question: >-
+    Your evidence file for a claimed custom contains statutes of eight European States and three US
+    judgments. What is the main weakness?
+  options:
+    - >-
+      Statutes are not State practice; only diplomatic notes count.
+    - >-
+      The sample is not representative of States from different regions.
+    - >-
+      Judgments of national courts cannot be practice or opinio juris.
+    - >-
+      Custom requires at least 100 years of practice.
+  correct: 1
+  explanation: >-
+    Practice must be widespread and representative (ILC conclusion 8); add States from other regions
+    and legal systems, and separate evidence of opinio juris.
+- id: m19-027
+  module: 19
+  lesson: "19.4"
+  subject: statehood
+  difficulty: 1
+  question: >-
+    Which is not one of the Montevideo criteria for statehood?
+  options:
+    - >-
+      A permanent population.
+    - >-
+      Recognition by a majority of UN members.
+    - >-
+      A defined territory.
+    - >-
+      Capacity to enter into relations with other States.
+  correct: 1
+  explanation: >-
+    Art. 1 lists population, territory, government and capacity; art. 3 states that statehood is
+    independent of recognition (declaratory theory).
+- id: m19-028
+  module: 19
+  lesson: "19.4"
+  subject: recognition
+  difficulty: 2
+  question: >-
+    Israel recognised Somaliland in December 2025. Somalia protested. Which statement is legally
+    accurate?
+  options:
+    - >-
+      Recognition is discretionary; Somalia cites its territorial integrity.
+    - >-
+      Recognition by one State automatically makes Somaliland a UN member.
+    - >-
+      Recognition is void because only the Security Council may recognise States.
+    - >-
+      Recognition has no legal effects of any kind under international law.
+  correct: 0
+  explanation: >-
+    Recognition is a political act with legal effects between the States concerned; Somalia and others
+    say it breaches territorial integrity, Israel cites Somaliland's effective statehood.
+- id: m19-029
+  module: 19
+  lesson: "19.4"
+  subject: jurisdiction
+  difficulty: 1
+  question: >-
+    An Israeli citizen is assaulted abroad because he is Israeli. Which Penal Law basis allows Israeli
+    law to apply?
+  options:
+    - >-
+      Section 12, the territorial principle.
+    - >-
+      Section 17, vicarious application by treaty.
+    - >-
+      Section 13(ב), offences against Israelis.
+    - >-
+      Section 16, treaty-based universal jurisdiction only.
+  correct: 2
+  explanation: >-
+    Section 13(ב)(1) applies Israeli law to offences abroad against the life or body of an Israeli
+    citizen or resident "באשר הוא כזה" (passive personality).
+- id: m19-030
+  module: 19
+  lesson: "19.4"
+  subject: immunity
+  difficulty: 1
+  question: >-
+    Under the Foreign States Immunity Law 2008, when must a foreign State raise its immunity?
+  options:
+    - >-
+      At any time before final judgment.
+    - >-
+      Only on appeal, after the trial court rules.
+    - >-
+      Within 30 days of the Attorney General's notice.
+    - >-
+      At the first opportunity, before the merits.
+  correct: 3
+  explanation: >-
+    Section 12: otherwise it is treated as having waived immunity, unless it did not and could not have
+    known the relevant facts.
+- id: m19-031
+  module: 19
+  lesson: "19.4"
+  subject: immunity
+  difficulty: 2
+  question: >-
+    A foreign embassy's car, driven by a chauffeur on official business, damages your parked car in
+    Jerusalem. Which exception in the 2008 Law applies to a claim against the State?
+  options:
+    - >-
+      Section 5: a tort in Israel causing damage to tangible property.
+    - >-
+      Section 3: the car was bought in a commercial transaction.
+    - >-
+      Section 6: the car is property of the foreign State in Israel.
+    - >-
+      Section 11: the State agreed to arbitration by buying insurance.
+  correct: 0
+  explanation: >-
+    Section 5 removes immunity for torts committed in Israel causing bodily injury or damage to
+    tangible property.
+- id: m19-032
+  module: 19
+  lesson: "19.4"
+  subject: immunity
+  difficulty: 2
+  question: >-
+    A foreign national posted from his home ministry to its embassy in Israel, and not an Israeli
+    resident, sues the embassy for wages. What is the likely result?
+  options:
+    - >-
+      No immunity, because s. 3 covers all employment contracts.
+    - >-
+      No immunity, because the work was done in Israel.
+    - >-
+      Immunity applies under s. 4(ב) (foreign national).
+    - >-
+      Immunity applies only if the embassy raises it after filing a defence.
+  correct: 2
+  explanation: >-
+    Section 4(ב) preserves immunity for a claimant who was a national of the foreign State and not an
+    Israeli resident when proceedings began; s. 4(ג) excludes reliance on s. 3.
+- id: m19-033
+  module: 19
+  lesson: "19.4"
+  subject: immunity
+  difficulty: 2
+  question: >-
+    How must a statement of claim against a foreign State be served under the 2008 Law?
+  options:
+    - >-
+      By registered mail to the embassy's address in Israel.
+    - >-
+      Through the Foreign Ministry channel.
+    - >-
+      By hand to the ambassador at his residence.
+    - >-
+      By publication in two daily newspapers.
+  correct: 1
+  explanation: >-
+    Section 13(א) requires service through the Foreign Ministry; the State then has an extended period
+    to respond, which the court may extend.
+- id: m19-034
+  module: 19
+  lesson: "19.4"
+  subject: immunity
+  difficulty: 3
+  question: >-
+    Victims sue a foreign State in Israel for wartime acts of its army abroad, arguing that grave
+    human-rights violations remove immunity. What does Germany v. Italy (ICJ 2012) indicate?
+  options:
+    - >-
+      Immunity does not apply where jus cogens is violated.
+    - >-
+      Immunity applies only if the foreign State is a party to the UN immunity convention.
+    - >-
+      Immunity applies only to acts committed within the forum State's territory.
+    - >-
+      Military acts abroad stay immune, however grave.
+  correct: 3
+  explanation: >-
+    The ICJ held that immunity is procedural and that custom recognised no exception for serious
+    violations of armed-conflict law committed by armed forces abroad.
+- id: m19-035
+  module: 19
+  lesson: "19.4"
+  subject: recognition
+  difficulty: 3
+  question: >-
+    Which statement best summarises the recognition debate about Palestine in a neutral way?
+  options:
+    - >-
+      Most UN members recognise it; Israel disputes statehood.
+    - >-
+      Palestine is a full UN member State since 2012 with all membership rights.
+    - >-
+      No State recognises Palestine, so the question is purely theoretical.
+    - >-
+      The ICJ has ruled with binding effect that Palestine is a State.
+  correct: 0
+  explanation: >-
+    Palestine is a non-member observer State; roughly three-quarters of UN members recognise it.
+    Israel's position and the opposing positions should be attributed.
+- id: m19-036
+  module: 19
+  lesson: "19.4"
+  subject: immunity
+  difficulty: 3
+  question: >-
+    You won a judgment against a foreign State. Which step should come first before applying to the
+    Execution Office?
+  options:
+    - >-
+      Ask the Execution Office to attach the embassy's general bank account.
+    - >-
+      Identify s. 16 assets, such as land in Israel.
+    - >-
+      Ask the court to fine the ambassador for non-payment.
+    - >-
+      Request the arrest of the defence attaché until payment.
+  correct: 1
+  explanation: >-
+    Section 15 grants execution immunity, with exceptions in s. 16; fines or imprisonment for
+    non-compliance are barred (s. 15(ב)), and mission accounts are usually protected.
+- id: m19-037
+  module: 19
+  lesson: "19.5"
+  subject: icj
+  difficulty: 1
+  question: >-
+    Who may be parties to contentious cases before the ICJ?
+  options:
+    - >-
+      Any individual whose rights a State has violated.
+    - >-
+      Non-governmental organisations with UN consultative status.
+    - >-
+      Only States.
+    - >-
+      States and multinational corporations by special agreement.
+  correct: 2
+  explanation: >-
+    Only States may be parties in contentious cases; advisory opinions are requested by authorised UN
+    organs and agencies.
+- id: m19-038
+  module: 19
+  lesson: "19.5"
+  subject: icj
+  difficulty: 1
+  question: >-
+    What is the legal effect of an ICJ provisional-measures order?
+  options:
+    - >-
+      Binding, with no finding of breach.
+    - >-
+      Advisory only, like an advisory opinion.
+    - >-
+      A final determination of the merits.
+    - >-
+      Binding only after Security Council endorsement.
+  correct: 0
+  explanation: >-
+    Since LaGrand (2001) provisional measures are binding; they protect plausible rights pending the
+    judgment and do not decide whether a violation occurred.
+- id: m19-039
+  module: 19
+  lesson: "19.5"
+  subject: icj
+  difficulty: 2
+  question: >-
+    Why is Israel not exposed to ICJ cases under the optional clause of art. 36(2)?
+  options:
+    - >-
+      Because Israel is not a party to the ICJ Statute.
+    - >-
+      Because the optional clause applies only to European States.
+    - >-
+      Because the Security Council exempted Israel in 1949.
+    - >-
+      It has no art. 36(2) declaration in force.
+  correct: 3
+  explanation: >-
+    All UN members are parties to the Statute, but jurisdiction requires consent; Israel is not on the
+    ICJ's list of declarations, so cases come through treaty clauses.
+- id: m19-040
+  module: 19
+  lesson: "19.5"
+  subject: icc
+  difficulty: 1
+  question: >-
+    What does complementarity mean under the Rome Statute?
+  options:
+    - >-
+      The ICC hears appeals from national criminal courts.
+    - >-
+      Genuine national proceedings make a case inadmissible.
+    - >-
+      National courts must transfer all war-crimes cases to the ICC.
+    - >-
+      The ICC and the ICJ share jurisdiction over genocide.
+  correct: 1
+  explanation: >-
+    Art. 17(1)(a): the ICC defers to genuine national proceedings against the same person for
+    substantially the same conduct, unless the State is unwilling or unable.
+- id: m19-041
+  module: 19
+  lesson: "19.5"
+  subject: icc
+  difficulty: 2
+  question: >-
+    Which is Israel's central legal argument against ICC jurisdiction in the Palestine situation?
+  options:
+    - >-
+      That the ICC Statute does not cover war crimes committed after 2015.
+    - >-
+      That the ICC must first obtain an ICJ advisory opinion.
+    - >-
+      That Palestine cannot delegate jurisdiction over Israelis.
+    - >-
+      That Security Council referral is required for all situations.
+  correct: 2
+  explanation: >-
+    Israel argues lack of Palestinian statehood and, under Oslo, no criminal jurisdiction over Israelis
+    to delegate; the opposing view relies on Palestine's accession and art. 12(2)(a).
+- id: m19-042
+  module: 19
+  lesson: "19.5"
+  subject: icj-israel
+  difficulty: 2
+  question: >-
+    What did the ICJ's 19 July 2024 advisory opinion conclude, by majority?
+  options:
+    - >-
+      That Israel's continued presence in the OPT is unlawful.
+    - >-
+      That Israel committed genocide in Gaza and must pay reparations.
+    - >-
+      That the Oslo Accords are void and replaced by GA resolutions.
+    - >-
+      That it lacked jurisdiction to answer the General Assembly's questions.
+  correct: 0
+  explanation: >-
+    The opinion so advised, with dissents; Israel's Government rejected it, while most participating
+    States treat it as authoritative. It is not a binding judgment as such.
+- id: m19-043
+  module: 19
+  lesson: "19.5"
+  subject: icj-israel
+  difficulty: 3
+  question: >-
+    A student writes: "In May 2024 the ICJ ordered Israel to stop all fighting in Gaza." How should the
+    sentence be corrected in a neutral note?
+  options:
+    - >-
+      It is accurate and needs no change.
+    - >-
+      Replace it with "the ICJ ruled that Israel did nothing wrong in Rafah".
+    - >-
+      Say the order was later cancelled by the Security Council.
+    - >-
+      Quote the paragraph and attribute both readings.
+  correct: 3
+  explanation: >-
+    The May 2024 order concerned the Rafah offensive with a qualifying clause; Israel and South Africa
+    read it differently. Quote it and attribute both readings.
+- id: m19-044
+  module: 19
+  lesson: "19.5"
+  subject: icj-israel
+  difficulty: 3
+  question: >-
+    What is the procedural status of South Africa v. Israel under the Order of 21 May 2026?
+  options:
+    - >-
+      Oral hearings on the merits are set for early 2027.
+    - >-
+      Reply due November 2027; Rejoinder May 2029.
+    - >-
+      The Court will rule on Israel's preliminary objections in 2026.
+    - >-
+      The case is suspended pending the ICC proceedings.
+  correct: 1
+  explanation: >-
+    The Order fixed 22 November 2027 and 22 May 2029, reserving the subsequent procedure; no merits
+    hearing is scheduled.
+- id: m19-045
+  module: 19
+  lesson: "19.6"
+  subject: human-rights-treaties
+  difficulty: 1
+  question: >-
+    In what year did Israel ratify the ICCPR, ICESCR, CEDAW, CAT and CRC?
+  options:
+    - >-
+      1966
+    - >-
+      1979
+    - >-
+      1991
+    - >-
+      2012
+  correct: 2
+  explanation: >-
+    All five were ratified on 3 October 1991; CERD in 1979; the CRPD in 2012.
+- id: m19-046
+  module: 19
+  lesson: "19.6"
+  subject: human-rights-treaties
+  difficulty: 1
+  question: >-
+    What is a treaty body's "concluding observations" document?
+  options:
+    - >-
+      The committee's recommendations on the report.
+    - >-
+      A binding judgment on an individual complaint.
+    - >-
+      A General Assembly resolution adopting the committee's report.
+    - >-
+      The State's own summary of its compliance.
+  correct: 0
+  explanation: >-
+    After the constructive dialogue the committee adopts concluding observations; they are
+    authoritative recommendations, not binding judgments.
+- id: m19-047
+  module: 19
+  lesson: "19.6"
+  subject: un-system
+  difficulty: 1
+  question: >-
+    Which body conducts the Universal Periodic Review of every UN member?
+  options:
+    - >-
+      The Security Council.
+    - >-
+      The International Court of Justice.
+    - >-
+      The Human Rights Committee under the ICCPR.
+    - >-
+      The Human Rights Council.
+  correct: 3
+  explanation: >-
+    The UPR is a Charter-based mechanism of the Human Rights Council, separate from the treaty bodies.
+- id: m19-048
+  module: 19
+  lesson: "19.6"
+  subject: human-rights-treaties
+  difficulty: 2
+  question: >-
+    A mother in Ashdod wants the CRC Committee to examine her son's case against Israel. What should
+    you tell her?
+  options:
+    - >-
+      She must first exhaust the Supreme Court and then file within six months.
+    - >-
+      Israel has not accepted the CRC complaint protocol; use domestic remedies.
+    - >-
+      She may file only through the Attorney General's office.
+    - >-
+      She may file because the CRC binds Israel since 1991.
+  correct: 1
+  explanation: >-
+    Israel accepted no individual-complaint procedure; the CRC still guides Israeli courts through
+    interpretation, and NGOs can raise issues in shadow reports.
+- id: m19-049
+  module: 19
+  lesson: "19.6"
+  subject: crc
+  difficulty: 2
+  question: >-
+    In CrimA 4596/98, how did the Supreme Court use the CRC?
+  options:
+    - >-
+      As an incorporated statute creating a new offence of corporal punishment.
+    - >-
+      As irrelevant, because criminal law is purely domestic.
+    - >-
+      As support for holding that corporal punishment for education is unlawful.
+    - >-
+      As a ground to acquit the mother, since the CRC respects parental authority.
+  correct: 2
+  explanation: >-
+    Beinisch J. relied on the CRC's prohibition of violence toward children, among other sources, in
+    interpreting the existing offences.
+- id: m19-050
+  module: 19
+  lesson: "19.6"
+  subject: scope
+  difficulty: 3
+  question: >-
+    In a dialogue with a treaty body, Israel argues that the ICESCR does not apply in Gaza. How would a
+    neutral summary describe the opposing view?
+  options:
+    - >-
+      The committees and the ICJ (2004) say they apply there.
+    - >-
+      Everyone agrees with Israel's view, so there is no opposing position.
+    - >-
+      The opposing view is that only customary law applies outside Israel.
+    - >-
+      The opposing view holds that Israel must incorporate the covenants by statute first.
+  correct: 0
+  explanation: >-
+    Israel's position: no extraterritorial application, IHL as lex specialis. Opposing: application
+    wherever effective control or jurisdiction is exercised (committees; ICJ 2004, advisory).
+- id: m19-051
+  module: 19
+  lesson: "19.6"
+  subject: un-system
+  difficulty: 2
+  question: >-
+    What did Israel announce regarding the UN Human Rights Council in February 2025?
+  options:
+    - >-
+      That it would seek election as a member for 2026–2028.
+    - >-
+      That it would accept all Council resolutions under item 7.
+    - >-
+      That it would withdraw from all UN treaty bodies.
+    - >-
+      That it would stop taking part in the Council.
+  correct: 3
+  explanation: >-
+    The Foreign Minister cited item 7 and the Council's treatment of Israel; treaty-body reporting is
+    separate and continues.
+- id: m19-052
+  module: 19
+  lesson: "19.6"
+  subject: crpd
+  difficulty: 2
+  question: >-
+    Which CRPD provision most directly supports a demand for an aide so a child can stay in a regular
+    class?
+  options:
+    - >-
+      Art. 24(2)(c), reasonable accommodation.
+    - >-
+      Art. 1, the purpose of the Convention.
+    - >-
+      Art. 33, national implementation and monitoring.
+    - >-
+      Art. 45, entry into force.
+  correct: 0
+  explanation: >-
+    Art. 24(2)(a) bars exclusion from general education and (c) requires reasonable accommodation;
+    use them with the Israeli statute and Yated.
+- id: m19-053
+  module: 19
+  lesson: "19.7"
+  subject: domestic-status
+  difficulty: 1
+  question: >-
+    Under Israeli case law, what is the domestic status of a ratified but unincorporated treaty?
+  options:
+    - >-
+      It is part of Israeli law and overrides earlier statutes.
+    - >-
+      Not Israeli law, but a guide to reading statutes.
+    - >-
+      It has no effect in Israeli courts whatsoever.
+    - >-
+      It is part of Israeli law only for constitutional cases.
+  correct: 1
+  explanation: >-
+    Beit El: treaties need incorporation; Yated para. 8: the presumption of compatibility applies.
+- id: m19-054
+  module: 19
+  lesson: "19.7"
+  subject: presumption
+  difficulty: 2
+  question: >-
+    When is the presumption of compatibility rebutted, according to Yated?
+  options:
+    - >-
+      Whenever the Government states that the treaty does not apply.
+    - >-
+      Whenever the treaty body's interpretation is older than five years.
+    - >-
+      Only when the statute's words cannot be reconciled.
+    - >-
+      Only when the Knesset passed the statute before ratification.
+  correct: 2
+  explanation: >-
+    Para. 8: rebuttal requires irreconcilable statutory language or specific purpose; the timing of the
+    statute alone does not decide.
+- id: m19-055
+  module: 19
+  lesson: "19.7"
+  subject: domestic-status
+  difficulty: 2
+  question: >-
+    Which of these may an Israeli court apply directly without any legislation?
+  options:
+    - >-
+      A CEDAW article Israel ratified without reservation.
+    - >-
+      A General Assembly resolution adopted by consensus.
+    - >-
+      The CRPD Committee's general comment on accessibility.
+    - >-
+      A proven customary rule not contradicted by statute.
+  correct: 3
+  explanation: >-
+    Only custom (and incorporated treaties) apply directly; ratified treaties guide interpretation;
+    resolutions and comments are persuasive.
+- id: m19-056
+  module: 19
+  lesson: "19.7"
+  subject: advisory-opinions
+  difficulty: 2
+  question: >-
+    What is the Israeli Supreme Court's working rule on ICJ advisory opinions, following Mara'abe?
+  options:
+    - >-
+      Appropriate weight to the norms, but not binding.
+    - >-
+      Binding as res judicata on all Israeli courts.
+    - >-
+      Inadmissible as evidence because Israel did not consent.
+    - >-
+      Binding only when the Security Council endorses them.
+  correct: 0
+  explanation: >-
+    The Court weighs the international norms as interpreted by the ICJ but reviews facts and
+    proportionality itself.
+- id: m19-057
+  module: 19
+  lesson: "19.7"
+  subject: argument
+  difficulty: 3
+  question: >-
+    Spot the mistake in this argument: "The Equal Rights Law must be ignored, because the CRPD, which
+    Israel ratified, gives my client a better right."
+  options:
+    - >-
+      None: ratified treaties override earlier Israeli statutes.
+    - >-
+      It cites the wrong treaty; only the CRC protects disability rights.
+    - >-
+      It asks to ignore a statute; the treaty can only guide its reading.
+    - >-
+      It should cite a General Assembly resolution instead.
+  correct: 2
+  explanation: >-
+    Unincorporated treaties cannot displace statutes; frame the CRPD as a reason to prefer one reading
+    of the Equal Rights Law (Yated para. 8).
+- id: m19-058
+  module: 19
+  lesson: "19.7"
+  subject: basic-laws
+  difficulty: 3
+  question: >-
+    Which statement accurately describes the current law on international law and Basic Laws?
+  options:
+    - >-
+      The Court has held that treaties override Basic Laws.
+    - >-
+      It informs Basic Law rights; limiting them is unresolved.
+    - >-
+      Basic Laws may not be interpreted with any reference to international law.
+    - >-
+      The Knesset enacted a Basic Law making all ratified treaties constitutional.
+  correct: 1
+  explanation: >-
+    International human-rights law informs the interpretation of Basic Law rights; whether it could
+    limit Basic Laws is debated and undecided.
+- id: m19-059
+  module: 19
+  lesson: "19.8"
+  subject: hague-abduction
+  difficulty: 1
+  question: >-
+    Which Israeli court hears Hague Convention return petitions?
+  options:
+    - >-
+      The Family Court.
+    - >-
+      The Rabbinical Court.
+    - >-
+      The Supreme Court as the High Court of Justice.
+    - >-
+      The Magistrates' Court in its civil jurisdiction.
+  correct: 0
+  explanation: >-
+    Hague Convention Law s. 6 designates the Family Court; the Attorney General is the central
+    authority (s. 4).
+- id: m19-060
+  module: 19
+  lesson: "19.8"
+  subject: hague-abduction
+  difficulty: 2
+  question: >-
+    A child aged 16 and a half was taken from Italy to Israel by one parent. Can the other parent use
+    the Hague Convention?
+  options:
+    - >-
+      Yes, because the one-year period has not passed.
+    - >-
+      Yes, but only if the child consents in writing.
+    - >-
+      No, because the Convention ceases to apply at 16 (art. 4).
+    - >-
+      No, because Italy is not a party to the Convention.
+  correct: 2
+  explanation: >-
+    Art. 4: the Convention applies to children habitually resident in a Contracting State and ceases
+    to apply when the child reaches 16.
+- id: m19-061
+  module: 19
+  lesson: "19.8"
+  subject: hague-abduction
+  difficulty: 3
+  question: >-
+    A taking parent argues that returning the child "is against the child's best interests" in
+    general. What is the problem with the argument?
+  options:
+    - >-
+      Best interests are irrelevant to the Convention in every respect.
+    - >-
+      It must be raised only before the courts of the State of origin.
+    - >-
+      It must be supported by a CRC Committee opinion to be admissible.
+    - >-
+      It decides forum, not custody; she needs art. 13.
+  correct: 3
+  explanation: >-
+    The Convention presumes return serves children's interests; only the exceptions (consent,
+    acquiescence, grave risk, mature objection, art. 20) open discretion, read narrowly.
+- id: m19-062
+  module: 19
+  lesson: "19.8"
+  subject: pupils-rights
+  difficulty: 2
+  question: >-
+    A school decides to expel a pupil permanently. Under the Pupils' Rights Law s. 6, what must the
+    decision be?
+  options:
+    - >-
+      Oral, so as to protect the pupil's privacy.
+    - >-
+      Written and reasoned, after a hearing.
+    - >-
+      Approved by the Family Court before it takes effect.
+    - >-
+      Immediate and final, with no appeal possible.
+  correct: 1
+  explanation: >-
+    Section 6(א)–(ב): hearing of the pupil and parents, written reasoned decision, then notice of the
+    right to appeal to a hearing committee; no expulsion pending appeal save immediate removal.
+- id: m19-063
+  module: 19
+  lesson: "19.8"
+  subject: argument
+  difficulty: 3
+  question: >-
+    Which opening sentence of a treaty section is best for a hearing committee under the Pupils'
+    Rights Law?
+  options:
+    - >-
+      "Section 6(א) requires a hearing, read with the CRC (s. 1)."
+    - >-
+      "International law requires that every child be heard in every matter."
+    - >-
+      "The UN Committee on the Rights of the Child ordered Israel to hear pupils."
+    - >-
+      "The CRC is part of Israeli law and overrides the school's rules."
+  correct: 0
+  explanation: >-
+    Lead with the Israeli statute and its purpose clause; then bring CRC art. 12 as interpretation.
+- id: m19-064
+  module: 19
+  lesson: "19.8"
+  subject: argument
+  difficulty: 2
+  question: >-
+    You are preparing a two-minute oral version of your treaty argument. Which order is best?
+  options:
+    - >-
+      Treaty history, UN reports, then the facts.
+    - >-
+      Political background, the treaty, then the relief.
+    - >-
+      Israeli norm, treaty, application, relief.
+    - >-
+      The other side's arguments, then your own, then the treaty.
+  correct: 2
+  explanation: >-
+    Lead with the Israeli law the forum applies, bring the treaty through the right channel, apply it,
+    and ask for specific relief.

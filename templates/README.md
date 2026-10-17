@@ -52,4 +52,5 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Statement of claim, magistrates' court (כתב תביעה – בית משפט השלום)](statement-of-claim-magistrates.md)
 - [Statement of defence (כתב הגנה – בית משפט השלום / המחוזי)](statement-of-defence.md)
 - [Tort demand letter (מכתב דרישה לפיצוי בגין נזק)](tort-demand-letter.md)
+- [Treaty argument worksheet (גיליון עבודה: טיעון על בסיס אמנה בינלאומית)](treaty-argument-worksheet.md)
 - [Written motion (בקשה בכתב)](written-motion.md)

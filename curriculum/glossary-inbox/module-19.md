@@ -1,0 +1,24 @@
+- **משפט בינלאומי פומבי** (Mishpat beinleumi pumbi) — Public international law: the law between States, international organisations and, increasingly, individuals.
+- **אמנה** (Amana) — Treaty or convention: a written agreement between States governed by international law, whatever its name.
+- **מנהג בינלאומי** (Minhag beinleumi) — Customary international law: a general practice accepted as law; part of Israeli law unless a statute provides otherwise.
+- **תודעת חיוב משפטי (opinio juris)** (Toda'at hiyuv mishpati) — Acceptance of a practice as legally required; the second element of custom.
+- **נורמה קוגנטית** (Norma kogentit) — Peremptory norm (jus cogens) from which no derogation is permitted; a conflicting treaty is void (VCLT art. 53).
+- **משפט רך** (Mishpat rach) — Soft law: non-binding instruments such as resolutions, declarations and treaty-body recommendations.
+- **אשרור** (Ishrur) — Ratification: the international act by which a State consents to be bound by a treaty.
+- **הסתייגות** (Histaygut) — Reservation: a statement excluding or modifying a treaty provision for the reserving State.
+- **הנחה על שולחן הכנסת** (Hanaha al shulhan ha-knesset) — Tabling a treaty in the Knesset two weeks before the Government ratifies it (Government Work Regulations s. 10).
+- **כתבי אמנה** (Kitvei amana) — The Israel Treaty Series, the official publication of treaties to which Israel is party.
+- **מתנגד עקבי** (Mitnaged akavi) — Persistent objector: a State that objected to a customary rule while it formed and is not bound by it.
+- **הכרה** (Hakara) — Recognition of a State or government by another State; a political act with legal effects.
+- **חסינות מדינה זרה** (Hasinut medina zara) — Foreign State immunity from Israeli courts, subject to the exceptions of the Foreign States Immunity Law 2008.
+- **עסקה מסחרית** (Iska mischarit) — Commercial transaction: a private-law commercial act for which a foreign State has no immunity (s. 3 of the 2008 Law).
+- **גוף נפרד** (Guf nifrad) — Separate entity: a foreign governmental body with legal personality distinct from the foreign government.
+- **שיפוט אוניברסלי** (Shiput universali) — Universal jurisdiction over international crimes regardless of where or by whom committed (Eichmann).
+- **בית הדין הבינלאומי לצדק** (Beit ha-din ha-beinleumi le-tzedek) — International Court of Justice: the UN court for disputes between consenting States and advisory opinions.
+- **בית הדין הפלילי הבינלאומי** (Beit ha-din ha-plili ha-beinleumi) — International Criminal Court: a treaty court trying individuals for the gravest international crimes.
+- **חוות דעת מייעצת** (Havat da'at meya'etzet) — Advisory opinion of the ICJ: authoritative but not binding as such.
+- **צווים זמניים** (Tzavim zmaniyim) — Provisional measures ordered by the ICJ pending judgment; binding, without a finding of breach.
+- **עקרון המשלימות** (Ekron ha-mashlimut) — Complementarity: the ICC acts only where national courts do not genuinely investigate or prosecute.
+- **הערות מסכמות** (He'arot mesakmot) — Concluding observations: a treaty body's recommendations after reviewing a State's report.
+- **חזקת ההתאמה** (Hezkat ha-hat'ama) — Presumption of compatibility: Israeli law is read, where possible, consistently with Israel's international obligations (Yated).
+- **החזרת ילד חטוף** (Hachzarat yeled hatuf) — Return of a child wrongfully removed or retained, under the Hague Abduction Convention as incorporated in 1991.

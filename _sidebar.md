@@ -195,3 +195,13 @@
   - [150 · Practice lab: the request to settle a dispute and the assistance-unit meetings](lessons/module-18/lesson-09.md)
   - [151 · Practice lab: a property-agreement checklist and a protection-order request](lessons/module-18/lesson-10.md)
   - [Module 18 quiz](assessments/module-18-quiz.md)
+- **Module 19 — Public International Law (about 18 hours)**
+  - [152 · What international law is and its sources](lessons/module-19/lesson-01.md)
+  - [153 · Treaties and Israel's treaty practice](lessons/module-19/lesson-02.md)
+  - [154 · Customary international law](lessons/module-19/lesson-03.md)
+  - [155 · States, recognition, jurisdiction and immunity](lessons/module-19/lesson-04.md)
+  - [156 · International courts and tribunals: the ICJ and the ICC (overview)](lessons/module-19/lesson-05.md)
+  - [157 · Human-rights treaties and the UN system](lessons/module-19/lesson-06.md)
+  - [158 · International law in Israeli courts](lessons/module-19/lesson-07.md)
+  - [159 · Practice lab: use a treaty in an Israeli court argument](lessons/module-19/lesson-08.md)
+  - [Module 19 quiz](assessments/module-19-quiz.md)

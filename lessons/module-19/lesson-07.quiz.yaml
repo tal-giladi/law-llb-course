@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A tenant asks a magistrates' court to order relief "under article 11 of the ICESCR (right to
+    housing)". Israel ratified the ICESCR but never incorporated it. How will the court most likely
+    treat the argument?
+  options:
+    - >-
+      As a direct cause of action, because ratified human-rights treaties override Israeli statutes.
+    - >-
+      As irrelevant, because Israeli courts never refer to unincorporated treaties.
+    - >-
+      As binding only if the tenant proves the article is also a rule of jus cogens.
+    - >-
+      As an aid to interpreting the Israeli statute that governs the tenancy, not as a free-standing claim.
+  correct: 3
+  explanation: >-
+    Unincorporated treaties are not Israeli law (Beit El), but the presumption of compatibility (Yated)
+    lets them guide the reading of Israeli legislation where the text allows.
+- id: q2
+  question: >-
+    A statute says in plain words that a benefit is paid only to residents who have lived in Israel for
+    five years. A ratified treaty, read by its committee, would require payment after one year. What
+    does the presumption of compatibility achieve here?
+  options:
+    - >-
+      Little: the clear words cannot be reconciled with the treaty, so the presumption is rebutted.
+    - >-
+      It requires the court to read "five years" as "one year" to comply with the treaty.
+    - >-
+      It allows the court to declare the statute void for conflict with the treaty.
+    - >-
+      It shifts the burden to the State to prove the treaty does not bind Israel.
+  correct: 0
+  explanation: >-
+    Yated para. 8: the presumption is rebutted where the statute's language or specific purpose cannot
+    be reconciled with the international norm. Look for a constitutional ground instead.
+- id: q3
+  question: >-
+    Which international rule could an Israeli court apply directly as the basis of its judgment, with
+    no Knesset legislation?
+  options:
+    - >-
+      A ratified treaty article that the Government published in the Israel Treaty Series.
+    - >-
+      A proven rule of customary international law that no Israeli statute contradicts.
+    - >-
+      A recommendation in the treaty body's concluding observations on Israel.
+    - >-
+      A paragraph of an ICJ advisory opinion requested by the General Assembly.
+  correct: 1
+  explanation: >-
+    Custom is part of Israeli law unless a statute provides otherwise (Edelson para. 12). Treaties need
+    incorporation; soft law and advisory opinions are persuasive only.
+- id: q4
+  question: >-
+    In your claim you cite an ICJ advisory opinion that supports your reading of a humanitarian rule.
+    How should you frame it, following Mara'abe?
+  options:
+    - >-
+      As res judicata that binds the Israeli court on both law and facts.
+    - >-
+      As inadmissible, since advisory opinions cannot be cited in Israeli courts.
+    - >-
+      As weighty on the law and given appropriate weight, but not binding.
+    - >-
+      As binding only if Israel took part in the oral proceedings before the ICJ.
+  correct: 2
+  explanation: >-
+    The Supreme Court gives "full appropriate weight" to the norms as interpreted by the ICJ but is not
+    bound by the opinion's conclusions, especially on facts.

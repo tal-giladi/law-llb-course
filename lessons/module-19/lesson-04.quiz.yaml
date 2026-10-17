@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    A foreign State's embassy in Ramat Gan hired an Israeli citizen living in Holon as a security
+    guard and dismissed her without severance pay. The embassy claims immunity. What is the strongest
+    answer under the Foreign States Immunity Law 2008?
+  options:
+    - >-
+      Section 3, because hiring a guard is a commercial transaction of a private nature.
+    - >-
+      Section 5, because unlawful dismissal is a tort committed in Israel.
+    - >-
+      Section 4, because the labour-court claim concerns work in Israel by an Israeli resident.
+    - >-
+      Section 21, because the embassy's diplomatic status is irrelevant to labour claims.
+  correct: 2
+  explanation: >-
+    Employment claims are governed by s. 4 (and s. 4(ג) excludes reliance on s. 3). Its conditions are
+    exclusive labour-court jurisdiction, work in Israel, and an Israeli citizen or resident employee.
+- id: q2
+  question: >-
+    A State-owned foreign shipping line ordered spare parts from an Israeli supplier and did not pay.
+    It argues the parts were for a navy supply ship, so the purchase was sovereign. Following Edelson,
+    what decides?
+  options:
+    - >-
+      The legal nature of the transaction, an ordinary sale, rather than its military purpose.
+    - >-
+      The purpose of the transaction, because military use always attracts immunity.
+    - >-
+      Whether the foreign State has an embassy in Israel at the time of the claim.
+    - >-
+      Whether Israel recognises the foreign State's current government.
+  correct: 0
+  explanation: >-
+    Edelson adopted the nature-of-the-act test, reflected in the 2008 Law's definition of a commercial
+    transaction as one that does not in substance involve sovereign authority.
+- id: q3
+  question: >-
+    You won a judgment against a foreign State for an unpaid commercial debt. Which asset are you most
+    likely to be able to attach in Israel?
+  options:
+    - >-
+      The ambassador's official residence used for the diplomatic mission.
+    - >-
+      Funds of the foreign central bank deposited with an Israeli bank.
+    - >-
+      Equipment of the foreign State's military attaché.
+    - >-
+      An office building in Israel the State rents out to private tenants.
+  correct: 3
+  explanation: >-
+    Execution immunity (s. 15) has exceptions for commercial property and land in Israel (s. 16);
+    diplomatic, military and central-bank property is protected.
+- id: q4
+  question: >-
+    A Belgian court issues an arrest warrant for a serving foreign minister of another State on
+    universal-jurisdiction war-crimes charges. What did the ICJ hold in Arrest Warrant (2002)?
+  options:
+    - >-
+      The warrant was lawful because universal jurisdiction overrides any immunity for war crimes.
+    - >-
+      The serving minister enjoyed full immunity from foreign criminal jurisdiction while in office.
+    - >-
+      The warrant was lawful because Belgium had not signed any treaty granting immunity.
+    - >-
+      Immunity applied only to acts the minister committed after taking office.
+  correct: 1
+  explanation: >-
+    The Court separated jurisdiction from immunity: a serving foreign minister has full personal
+    immunity and inviolability abroad, whatever the alleged crime, subject to international courts.

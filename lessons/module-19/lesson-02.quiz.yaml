@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    Israel signed a convention in 2015 but the Government never ratified it. A ministry now adopts a
+    policy that would defeat the convention's central aim. What does international law say?
+  options:
+    - >-
+      Nothing, because a signature without ratification has no legal effect of any kind.
+    - >-
+      Israel is fully bound by every article, because signature expresses consent to be bound.
+    - >-
+      Israel must not defeat the treaty's object and purpose unless it has made clear it will not join.
+    - >-
+      Israel is bound only if the Knesset voted on the convention during the tabling period.
+  correct: 2
+  explanation: >-
+    VCLT art. 18, accepted as custom, imposes an interim duty on a signatory not to defeat the
+    treaty's object and purpose until it makes clear it will not become a party.
+- id: q2
+  question: >-
+    A lawyer says the VCLT's interpretation rules "do not apply to Israel because Israel never
+    joined the Convention". What is the best reply?
+  options:
+    - >-
+      Arts 31–32 are widely treated as customary law, which binds Israel without ratification.
+    - >-
+      The lawyer is right, so Israeli courts interpret treaties only by the Barak method.
+    - >-
+      The VCLT applies to Israel because Israel signed it in 1969 with a reservation.
+    - >-
+      The VCLT binds Israel because the UN Charter incorporates all of its articles.
+  correct: 0
+  explanation: >-
+    Israel is neither a party nor a signatory, but the core VCLT rules, including interpretation, are
+    regarded as customary international law and are used as such by Israel and its courts.
+- id: q3
+  question: >-
+    A minister wants the Government to ratify a technical aviation agreement next week, without
+    tabling it in the Knesset. Under the Government Work Regulations, when is that possible?
+  options:
+    - >-
+      Never, because Basic Law: The President requires a Knesset vote on every treaty.
+    - >-
+      Only if the agreement gives up territory and 80 members of the Knesset approve it.
+    - >-
+      Whenever the Attorney General certifies in writing that the treaty is purely technical.
+    - >-
+      If urgency or secrecy prevents it, with the Foreign and Justice Ministers' consent.
+  correct: 3
+  explanation: >-
+    The two-week tabling rule has an exception for urgency or confidentiality, decided by the
+    proposing minister with the agreement of the Foreign Minister and the Justice Minister.
+- id: q4
+  question: >-
+    You want to rely on CEDAW art. 16 (equality in marriage and family relations) in a dispute about
+    a religious-court divorce rule. What must you check first?
+  options:
+    - >-
+      Whether the CEDAW Committee has issued a general recommendation on article 16.
+    - >-
+      Israel's reservation to article 16 regarding religious personal-status law.
+    - >-
+      Whether the Family Court or the rabbinical court heard the case first.
+    - >-
+      Whether CEDAW was tabled in the Knesset before the Government ratified it.
+  correct: 1
+  explanation: >-
+    Israel ratified CEDAW with a reservation to art. 16 to the extent religious personal-status laws do
+    not conform; the reservation directly limits the argument.
+- id: q5
+  question: >-
+    In Mondrowitz (CA 2144/08), the extradition treaty had been amended to cover the offences, yet the
+    Supreme Court refused extradition. Why?
+  options:
+    - >-
+      Because applying an amended treaty to earlier acts is always forbidden retroactivity.
+    - >-
+      Because the United States had formally pardoned the appellant years earlier.
+    - >-
+      Because the Extradition Law's limitation exception applied, whatever the treaty allowed.
+    - >-
+      Because the treaty amendment was never tabled in the Knesset before ratification.
+  correct: 2
+  explanation: >-
+    The Court held the amendment's application was not retroactive punishment, but the offences were
+    time-barred under Israeli law, and the Israeli statute's exception barred extradition.

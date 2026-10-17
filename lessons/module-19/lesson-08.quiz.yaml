@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A mother brought her daughter from France to Israel on 1 March "for Passover", and on 1 May told
+    the father she would stay. He files a return petition on 15 April of the following year. Is
+    return mandatory under art. 12?
+  options:
+    - >-
+      No, because more than a year passed from the flight on 1 March.
+    - >-
+      Yes, since under a year passed from the retention on 1 May, barring an exception.
+    - >-
+      No, because the child entered Israel lawfully with the father's consent.
+    - >-
+      Yes, and no exception can apply once the petition is filed within a year.
+  correct: 1
+  explanation: >-
+    The period runs from the wrongful removal or retention. The trip was agreed; the retention became
+    wrongful on 1 May. Within a year return is mandatory, subject to the art. 13 and 20 exceptions.
+- id: q2
+  question: >-
+    In your appeal against a pupil's permanent expulsion, how should you use the CRC before the
+    hearing committee?
+  options:
+    - >-
+      As the main cause of action, because the CRC overrides the Pupils' Rights Law.
+    - >-
+      Not at all, because a hearing committee may apply only Ministry circulars.
+    - >-
+      To interpret s. 6 of the Pupils' Rights Law, whose purpose clause refers to the CRC.
+    - >-
+      Only after first filing a complaint with the UN Committee on the Rights of the Child.
+  correct: 2
+  explanation: >-
+    The Law's s. 1 states that it sets pupils' rights in the spirit of the CRC, so the CRC guides the
+    reading of s. 6; it is not a free-standing cause of action, and Israel accepted no UN complaint route.
+- id: q3
+  question: >-
+    In a Hague return case the left-behind father once wrote "let's think about Israel". The mother
+    argues consent. What does LFA 741/11 suggest about this argument?
+  options:
+    - >-
+      Exceptions are read narrowly; consent may be implied but must be proved.
+    - >-
+      Any written message mentioning the new country is conclusive proof of consent.
+    - >-
+      Consent is irrelevant, because only the grave-risk exception exists in Israeli law.
+    - >-
+      Consent must be given before a notary to count under the Convention.
+  correct: 0
+  explanation: >-
+    The Court held the exceptions must be interpreted narrowly, that consent need not be explicit,
+    and that contract-law principles, the reasons and the time elapsed matter. A vague message is weak.
+- id: q4
+  question: >-
+    Your Track C letter about a child with a disability opens: "Under CRPD art. 24, the municipality
+    must keep Nadav in his class." What is the main structural flaw?
+  options:
+    - >-
+      It cites the CRPD instead of the CRC, which is the only treaty on education.
+    - >-
+      It should cite the CRPD Committee's views first, since they bind the ministry.
+    - >-
+      It should be addressed to the UN Human Rights Council rather than the municipality.
+    - >-
+      It leads with an unincorporated treaty instead of the Israeli statute it should help interpret.
+  correct: 3
+  explanation: >-
+    The CRPD is ratified but not incorporated; lead with the Special Education Law or the Equal Rights
+    Law and ask for the reading consistent with art. 24 (Yated para. 8).

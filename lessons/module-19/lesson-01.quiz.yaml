@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    An NGO report says a practice "violates international law" and cites only a General Assembly
+    resolution adopted by a large majority. How should you classify that source under ICJ Statute
+    art. 38?
+  options:
+    - >-
+      As a treaty under art. 38(1)(a), because a majority of UN members voted for the text.
+    - >-
+      As soft law that may be evidence of custom, but does not by itself create a binding rule.
+    - >-
+      As a general principle of law under art. 38(1)(c), because it reflects shared values.
+    - >-
+      As binding on all UN members, since the General Assembly is the UN's main organ.
+  correct: 1
+  explanation: >-
+    A resolution is not listed in art. 38. The ILC's 2018 conclusions say it cannot by itself create
+    custom, though it may be evidence of a rule if matched by general practice accepted as law.
+- id: q2
+  question: >-
+    In a dispute between two other States, the ICJ interpreted a treaty article that Israel is also
+    party to. An Israeli official says the judgment "binds Israel too". What is the best answer?
+  options:
+    - >-
+      Correct, because ICJ judgments are binding precedent for every State party to the treaty.
+    - >-
+      Correct, but only if Israel voted for the judges who sat in that case.
+    - >-
+      Incorrect, because ICJ judgments never have any relevance outside the case itself.
+    - >-
+      Incorrect: under art. 59 it binds only the parties, though it is persuasive on the meaning.
+  correct: 3
+  explanation: >-
+    Art. 59 limits binding force to the parties and the case. Judgments are still subsidiary means
+    (art. 38(1)(d)) and carry heavy weight as evidence of what the treaty means.
+- id: q3
+  question: >-
+    Two States sign a treaty under which one may hand over detainees for use in forced labour. Which
+    rule most directly makes the treaty void?
+  options:
+    - >-
+      The rule that a treaty conflicting with a peremptory norm is void (VCLT art. 53).
+    - >-
+      The rule that Charter obligations prevail over other agreements (UN Charter art. 103).
+    - >-
+      The rule that ICJ judgments bind only the parties to the case (ICJ Statute art. 59).
+    - >-
+      The Lotus principle that restrictions on States cannot be presumed.
+  correct: 0
+  explanation: >-
+    The prohibition of slavery and forced labour of this kind is generally treated as jus cogens; a
+    treaty conflicting with it is void, not merely overridden.
+- id: q4
+  question: >-
+    Eichmann argued that Israel could not try a foreign national for acts committed abroad before
+    the State existed. How did the Supreme Court answer?
+  options:
+    - >-
+      It held that Israeli statutes always prevail, so international law was irrelevant to the case.
+    - >-
+      It held that only an international tribunal could try him, but that Israel acted as its agent.
+    - >-
+      It found no customary rule forbidding such legislation, and universal jurisdiction over the crimes.
+    - >-
+      It held that the abduction made the trial unlawful but that the conviction could still stand.
+  correct: 2
+  explanation: >-
+    The Court examined customary international law, found no prohibition on retroactive or
+    extraterritorial legislation for such crimes, and held that their universal character gives every
+    State power to try them.

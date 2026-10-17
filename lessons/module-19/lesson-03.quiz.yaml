@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You find that 40 States, from every region, routinely give advance notice before large dam
+    releases that affect neighbours, but their officials say they do it "as a matter of good
+    neighbourliness". What is missing for a customary rule?
+  options:
+    - >-
+      A minimum period of thirty years of consistent practice.
+    - >-
+      Evidence that States give the notice because they believe the law requires it.
+    - >-
+      A General Assembly resolution endorsing the practice by a large majority.
+    - >-
+      A judgment of the ICJ confirming that the practice exists among States.
+  correct: 1
+  explanation: >-
+    The practice may be general, but conduct out of courtesy is usage, not law. Opinio juris must be
+    shown separately (ILC conclusions 3 and 9); no particular duration is required.
+- id: q2
+  question: >-
+    A treaty article was adopted in 2010 and has 120 parties. A non-party State argues it is not bound.
+    When would the article bind that State as custom?
+  options:
+    - >-
+      Automatically, once more than half of the UN members have ratified the treaty.
+    - >-
+      Only if the non-party signed the treaty and failed to object within twelve months.
+    - >-
+      If it codified, crystallised or generated a general practice accepted as law.
+    - >-
+      Only if the Security Council declares the article binding on all UN members.
+  correct: 2
+  explanation: >-
+    ILC conclusion 11 lists the three routes. Wide ratification alone does not prove custom, as the
+    North Sea cases show.
+- id: q3
+  question: >-
+    In Beit El (HCJ 606/78), why could the petitioners rely on the Hague Regulations but not on the
+    Fourth Geneva Convention?
+  options:
+    - >-
+      The Court held the Hague Regulations customary and so part of Israeli law, the Convention conventional.
+    - >-
+      Israel had incorporated the Hague Regulations by statute in 1950 but not the Geneva Convention.
+    - >-
+      The Geneva Convention applies only to international armed conflicts between two signatories.
+    - >-
+      The petitioners filed their Geneva Convention arguments after the deadline for amendments.
+  correct: 0
+  explanation: >-
+    The Court applied the rule that only custom enters Israeli law without legislation. It treated the
+    Hague Regulations as customary and the Fourth Geneva Convention, absent legislation, as unenforceable
+    in an Israeli court.
+- id: q4
+  question: >-
+    A State has protested clearly and repeatedly since a rule began to form, and still protests. The
+    rule is not a peremptory norm. What is its position?
+  options:
+    - >-
+      It is bound like everyone else, because custom binds all States equally.
+    - >-
+      It is bound only once the ICJ confirms the rule in a case to which it is party.
+    - >-
+      It is bound unless it also withdraws from the United Nations.
+    - >-
+      It is not bound while it maintains the objection, as a persistent objector.
+  correct: 3
+  explanation: >-
+    ILC conclusion 15: a clear, known and persistent objection during formation makes the rule not
+    opposable to that State, but never for jus cogens.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A resident of Lod believes a ministry violated her rights under the ICCPR and wants to file an
+    individual complaint with the UN Human Rights Committee. What is the main obstacle?
+  options:
+    - >-
+      Israel has not ratified the ICCPR, so the Committee has no role regarding Israel.
+    - >-
+      She must first obtain the Attorney General's consent to complain abroad.
+    - >-
+      Israel has not accepted the First Optional Protocol, so individual complaints are inadmissible.
+    - >-
+      Complaints are accepted only from NGOs registered with the Human Rights Council.
+  correct: 2
+  explanation: >-
+    Israel ratified the ICCPR in 1991 but not the Optional Protocol that allows individual
+    communications; the reporting procedure is the only treaty-body route.
+- id: q2
+  question: >-
+    You are writing to a ministry about your child's school placement and want to cite the CRC
+    Committee's latest concluding observations on Israel. Which phrasing is legally accurate?
+  options:
+    - >-
+      "The UN has ordered Israel to change this policy, and the ministry must comply."
+    - >-
+      "The Committee recommended that Israel change this; the treaty itself binds Israel since 1991."
+    - >-
+      "The Committee's observations have the force of Israeli law under the Pupils' Rights Law."
+    - >-
+      "The observations are binding because Israel took part in the constructive dialogue."
+  correct: 1
+  explanation: >-
+    Concluding observations are recommendations by the treaty body; the binding obligation is the
+    treaty Israel ratified. Present both accurately.
+- id: q3
+  question: >-
+    A parent wants to rely on CRPD art. 24 on inclusive education. When did the CRPD start binding
+    Israel, as far as ratification is concerned?
+  options:
+    - >-
+      Ratified in 2012, after signature in 2007.
+    - >-
+      Ratified in 1991, together with the CRC and the two covenants.
+    - >-
+      Never ratified; Israel relies only on its Equal Rights Law.
+    - >-
+      Ratified in 2005, together with the CRC protocol on armed conflict.
+  correct: 0
+  explanation: >-
+    OHCHR records signature on 30.3.2007 and ratification on 28.9.2012. Check the entry-into-force
+    clause for the exact date it took effect for Israel.
+- id: q4
+  question: >-
+    A UN committee says Israel's ICCPR obligations extend to the West Bank. Which statement presents
+    the dispute accurately?
+  options:
+    - >-
+      Israel accepts that position but argues the rights may be limited for security reasons.
+    - >-
+      Both Israel and the committees agree the covenants apply only inside the Green Line.
+    - >-
+      The ICJ ruled in a binding judgment that Israel's position is wrong.
+    - >-
+      Israel says they do not apply outside its territory; the committees disagree.
+  correct: 3
+  explanation: >-
+    Israel's position is non-application abroad with humanitarian law as lex specialis; the committees,
+    and the ICJ in its 2004 advisory (not binding) opinion, take the view that they apply.

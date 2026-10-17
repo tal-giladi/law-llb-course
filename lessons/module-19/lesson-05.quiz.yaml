@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A friend says: "In January 2024 the ICJ ruled that Israel committed genocide." What is the
+    accurate correction?
+  options:
+    - >-
+      The Court gave an advisory opinion on genocide, which is not binding on Israel.
+    - >-
+      The Court dismissed South Africa's case for lack of jurisdiction in January 2024.
+    - >-
+      The Court found Israel responsible but suspended the judgment pending negotiations.
+    - >-
+      The Court issued binding provisional measures, with no finding that genocide occurred.
+  correct: 3
+  explanation: >-
+    Provisional measures require only prima facie jurisdiction, plausible rights and urgency. They bind
+    the parties but decide nothing on the merits, which are still in written pleadings.
+- id: q2
+  question: >-
+    Why can South Africa bring a contentious ICJ case against Israel at all, given that Israel has
+    made no declaration under art. 36(2) of the Statute?
+  options:
+    - >-
+      Because the General Assembly may refer any dispute to the Court by majority vote.
+    - >-
+      Because art. IX of the Genocide Convention, which both ratified, gives the Court jurisdiction.
+    - >-
+      Because Israel is bound by the declarations of all other States on the ICJ's list.
+    - >-
+      Because the Security Council referred the situation in Gaza to the ICJ in 2023.
+  correct: 1
+  explanation: >-
+    ICJ jurisdiction rests on consent. A compromissory clause in a ratified treaty is one form of
+    consent; whether the dispute falls within it is the subject of Israel's jurisdictional objections.
+- id: q3
+  question: >-
+    Israel is not a party to the Rome Statute. On what basis did the ICC Pre-Trial Chamber hold that
+    it could act regarding conduct in Gaza?
+  options:
+    - >-
+      Territorial jurisdiction (art. 12(2)(a)) through Palestine's accession.
+    - >-
+      A Security Council referral of the situation under art. 13(b) in 2023.
+    - >-
+      Israel's signature of the Statute in 2000, which art. 18 VCLT made binding.
+    - >-
+      Universal jurisdiction, which lets the ICC try any international crime anywhere.
+  correct: 0
+  explanation: >-
+    The Chamber relied on art. 12(2)(a). Israel contests that Palestine is a State able to delegate
+    jurisdiction over Israelis; that challenge was remanded by the Appeals Chamber in April 2025.
+- id: q4
+  question: >-
+    In Mara'abe (HCJ 7957/04), how did the Israeli Supreme Court treat the ICJ's 2004 advisory
+    opinion on the barrier?
+  options:
+    - >-
+      As binding res judicata requiring the dismantling of the entire barrier.
+    - >-
+      As irrelevant, because Israel did not take part in the oral hearings.
+    - >-
+      As weighty on the law, but not binding on its own segment-by-segment factual review.
+    - >-
+      As binding only on the parts of the route inside East Jerusalem.
+  correct: 2
+  explanation: >-
+    The Court gave full appropriate weight to the norms as interpreted by the ICJ, but held that the
+    opinion, based on a different factual record, did not bind it to find the whole barrier unlawful.
