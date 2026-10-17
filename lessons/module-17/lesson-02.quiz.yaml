@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A full-time security guard's payslip shows a basic wage slightly below the monthly minimum, plus a
+    seniority increment and a travel refund that together lift the total above it. Is the minimum wage met?
+  options:
+    - >-
+      Yes, because the total gross pay is what the Minimum Wage Law compares with the minimum.
+    - >-
+      Yes, as long as the travel refund is paid every month at a fixed rate.
+    - >-
+      No, because seniority increments and expense refunds do not count towards the minimum.
+    - >-
+      No, but only if the guard is under 18 and covered by the youth rates.
+  correct: 2
+  explanation: >-
+    Section 3(ב) of the Minimum Wage Law excludes seniority, shift and family increments, bonuses and
+    expense refunds, including travel. Only the basic wage and fixed components count.
+- id: q2
+  question: >-
+    An employee in a 5-day week works 11 hours on one Tuesday (no weekly-rest work). Under the statutory
+    rules, how are the hours beyond 8 that day paid?
+  options:
+    - >-
+      All three extra hours at 150% of the regular wage, because the day exceeded ten hours.
+    - >-
+      Two hours at 125% and one hour at 150% of the regular wage.
+    - >-
+      All three extra hours at 125%, because premiums rise only on rest days.
+    - >-
+      Nothing extra, if the employee's contract says the wage includes overtime.
+  correct: 1
+  explanation: >-
+    Section 16 pays the first two overtime hours each day at no less than 125% and every later hour at
+    150%. A wage "including overtime" is treated as regular wage only (Wage Protection Law s. 5).
+- id: q3
+  question: >-
+    A worker is sick Sunday to Thursday (five working days) and has enough accrued sick days. How much
+    sick pay is due under the Sick Pay Law?
+  options:
+    - >-
+      Nothing for day 1, half pay for days 2 and 3, full pay for days 4 and 5.
+    - >-
+      Full pay for all five days, because the worker had accrued enough sick days.
+    - >-
+      Half pay for all five days, unless a collective agreement says otherwise.
+    - >-
+      Nothing at all, because a medical certificate is required for absences over three days.
+  correct: 0
+  explanation: >-
+    Section 2 pays half sick pay for the second and third days and full sick pay from the fourth; the
+    first day is unpaid unless an agreement or regulation provides otherwise.
+- id: q4
+  question: >-
+    A shift manager at a supermarket works 55 hours a week. The employer says the Hours of Work and Rest
+    Law does not apply to "managers". What is the correct approach?
+  options:
+    - >-
+      The employer's job title decides; a worker called a manager is always excluded.
+    - >-
+      Only the Ministry of Labour may decide, by issuing an exclusion certificate.
+    - >-
+      The Law applies to every employee without exception once they work over 45 hours.
+    - >-
+      Exclusion depends on the real role; if disputed, the labour court decides under s. 30(ב).
+  correct: 3
+  explanation: >-
+    Section 30 excludes real management or special-trust positions and work whose hours cannot be
+    supervised. A shift manager whose hours are recorded is often not excluded; the labour court decides disputes.

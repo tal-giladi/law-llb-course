@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your May wage, due at the end of May, reaches your account on 5 June. Is it "late" under the Wage
+    Protection Law?
+  options:
+    - >-
+      Yes, because any payment after the last day of the month is late wages.
+    - >-
+      Yes, but only if your contract fixes payment on the 1st of the month.
+    - >-
+      No, because the employer has until the end of June to pay May's wage.
+    - >-
+      No, because a wage becomes late only if unpaid by the ninth day after the due date.
+  correct: 3
+  explanation: >-
+    The determining day is the ninth day after the due date (s. 1). A May wage paid by 9 June is not
+    "late" for the purposes of late-wage compensation.
+- id: q2
+  question: >-
+    Your employer paid three months of overdue wages on 1 March. You want the late-wage compensation.
+    What is the key deadline?
+  options:
+    - >-
+      Seven years, the general limitation period for any claim arising from employment.
+    - >-
+      Sixty days from 1 March (extendable to 90), unless the three-year rule applies.
+    - >-
+      One year from the end of employment, whenever the wages were paid.
+    - >-
+      There is no deadline once the employer has admitted the delay in writing.
+  correct: 1
+  explanation: >-
+    Section 17א bars the compensation unless you sue within a year of the delay or 60 days from receiving
+    the wage, whichever is earlier; three delays in 12 months extend the period to three years.
+- id: q3
+  question: >-
+    After a customer complaint, a shop deducts ₪800 from a cashier's wage "for the damage". The cashier
+    signed nothing about it. What is the position?
+  options:
+    - >-
+      The deduction is unlawful, because s. 25 allows debt deductions only on a written undertaking.
+    - >-
+      The deduction is lawful if it is less than a quarter of the cashier's monthly wage.
+    - >-
+      The deduction is lawful once the employer proves the cashier caused the damage.
+    - >-
+      The deduction is lawful if it appears clearly as a separate line on the payslip.
+  correct: 0
+  explanation: >-
+    Section 25(א) lists the permitted deductions. A debt may be deducted only under the employee's
+    written undertaking, and even then up to a quarter of the wage.
+- id: q4
+  question: >-
+    A waiter's employer gave no payslips for two years and keeps no attendance records. The waiter
+    claims overtime. What helps the waiter most?
+  options:
+    - >-
+      Nothing: the employee always carries the full burden of proving every hour worked.
+    - >-
+      A request that the court appoint an accountant at the State's expense to rebuild the hours.
+    - >-
+      The presumptions in s. 26ב, which shift the burden on disputed hours to the employer.
+    - >-
+      A complaint to the police, since failing to issue payslips is only a criminal matter.
+  correct: 2
+  explanation: >-
+    Without attendance records the employer must prove the worker was not working the disputed hours
+    (up to 15 overtime hours a week), and without payslips a "global wage" is presumed (s. 26ב).

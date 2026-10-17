@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Omer worked 11 months for one employer, then 2 months elsewhere after a 3-month gap, and was
+    dismissed. All 13 months fall within the last 18. Does he meet the unemployment qualifying period?
+  options:
+    - >-
+      No, because he needs 12 consecutive months with one and the same employer.
+    - >-
+      Yes: he has 12 or more contribution months within the last 18.
+    - >-
+      No, because the 3-month gap restarts the qualifying period from zero.
+    - >-
+      Yes, but only if his last employer agrees to sign his dismissal form.
+  correct: 1
+  explanation: >-
+    Section 161 counts calendar months with unemployment contributions within the 18 months before the
+    determining date. They need not be consecutive or with the same employer.
+- id: q2
+  question: >-
+    Sara slipped and broke her wrist while walking from the office kitchen back to her desk. Which
+    benefit route fits first?
+  options:
+    - >-
+      General disability, because the injury may leave her with a lasting impairment.
+    - >-
+      Income support, because she will lose wages while she recovers.
+    - >-
+      A tort claim against her employer, which replaces National Insurance.
+    - >-
+      Work injury, with injury allowance while she cannot work.
+  correct: 3
+  explanation: >-
+    An accident during and because of work is a work accident (s. 79). Injury allowance is paid for up
+    to 13 weeks; lasting harm is assessed later by a medical committee.
+- id: q3
+  question: >-
+    A doctor sets a claimant's medical disability at 45%, made up of one impairment of 30% and smaller
+    ones. Can she qualify for a general disability pension on the medical side?
+  options:
+    - >-
+      Yes: with one impairment of 25% or more, the threshold is 40%.
+    - >-
+      No, because the medical threshold is always 60% for every claimant.
+    - >-
+      No, because only work injuries count towards a general disability pension.
+    - >-
+      Yes, but only if she has already reached the retirement age.
+  correct: 0
+  explanation: >-
+    Section 208 sets 60% medical disability, or 40% where one impairment is at least 25%. Earning
+    incapacity and income conditions must also be met.
+- id: q4
+  question: >-
+    Yossi discovers he was entitled to an injury allowance for an accident 20 months ago and never
+    claimed. What does s. 296 mean for him?
+  options:
+    - >-
+      He can claim and receive all arrears, because entitlement never expires.
+    - >-
+      He can no longer claim, because claims must be filed within 12 months.
+    - >-
+      He can claim, but payment is limited to the 12 months before the claim.
+    - >-
+      He can claim only in the labour court, not at the NII branch.
+  correct: 2
+  explanation: >-
+    Claims should be filed within 12 months. A late claim can still be decided, but payment goes back no
+    more than 12 months before the month of claim.

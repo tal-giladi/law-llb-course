@@ -1,0 +1,51 @@
+- **יחסי עובד ומעסיק** (Yahasei oved u-ma'asik) — Employment relationship; its existence is decided by the labour court on the facts, not by the contract's label.
+- **מבחן ההשתלבות** (Mivhan ha-hishtalvut) — Integration test: whether the work is part of the business (positive side) and whether the worker runs a business of his own (negative side).
+- **קבלן כוח אדם** (Kablan ko'ah adam) — Manpower agency that supplies its own workers to work for a user; after nine months the worker is deemed the user's employee.
+- **מעסיק בפועל** (Ma'asik ba-po'al) — Actual (user) employer of a manpower-agency worker.
+- **מזמין שירות** (Mazmin sherut) — Client of a cleaning, security or catering contractor; may become liable for the contractor's wage duties after notice (Enforcement Law s. 25).
+- **זכויות קוגנטיות** (Zchuyot kognetiviyot) — Cogent labour rights that cannot be waived by contract.
+- **שכר מינימום** (Schar minimum) — Minimum wage, 47.5% of the average wage, updated each April.
+- **גמול שעות נוספות** (Gmul sha'ot nosafot) — Overtime premium: 125% for the first two daily overtime hours, 150% after.
+- **מנוחה שבועית** (Menuha shvu'it) — Weekly rest of at least 36 consecutive hours.
+- **פדיון חופשה** (Pidyon hufsha) — Redemption in money of unused annual leave when employment ends.
+- **דמי מחלה** (Dmei mahala) — Sick pay: none for day 1, half for days 2–3, full from day 4.
+- **דמי הבראה** (Dmei havra'a) — Recuperation pay, an annual payment set by extension order according to seniority.
+- **תלוש שכר** (Tlush sachar) — Payslip, which must contain the details in the Wage Protection Law Schedule.
+- **שכר מולן** (Sachar mulan) — Wage paid late, i.e. unpaid by the determining day (the ninth day after the due date).
+- **פיצויי הלנת שכר** (Pitzuyei halanat sachar) — Statutory compensation for late wages (Wage Protection Law s. 17).
+- **שכר כולל** (Sachar kolel) — All-inclusive ("global") wage; treated as regular wage only unless an approved collective agreement provides otherwise.
+- **פיצויים לדוגמה** (Pitzuyim le-dugma) — Exemplary damages awarded without proof of loss (for example for defective payslips or no written terms).
+- **הודעה על תנאי עבודה** (Hoda'a al tna'ei avoda) — Written notice of terms of employment, due within 30 days of starting.
+- **שימוע** (Shimu'a) — Pre-dismissal hearing.
+- **הודעה מוקדמת** (Hoda'a mukdemet) — Prior notice of dismissal or resignation; pay in lieu (חלף הודעה מוקדמת) if not given.
+- **פיצויי פיטורים** (Pitzuyei piturim) — Severance pay: a month's wage per year after a year of work.
+- **התפטרות בדין מפוטר** (Hitpatrut be-din mefutar) — Resignation treated as dismissal for severance purposes (Severance Pay Law s. 11 and others).
+- **הסדר סעיף 14** (Hesder se'if 14) — Arrangement under which pension-fund severance contributions replace severance pay.
+- **מכתב שחרור** (Michtav shihrur) — Employer's release letter allowing the pension fund to pay the employee.
+- **גמר חשבון** (Gmar heshbon) — Final settlement of all payments when employment ends.
+- **הודאת סילוק** (Hoda'at silluk) — Final-settlement waiver; for severance valid only in writing and expressly (s. 29).
+- **היתר פיטורים** (Heter piturim) — Ministerial permit needed to dismiss a pregnant employee or one after maternity leave or in fertility treatment.
+- **הפליה** (Haflaya) — Discrimination on a ground listed in the Equal Employment Opportunities Law.
+- **העדפה מתקנת** (Adafa metakenet) — Affirmative action.
+- **הטרדה מינית** (Hatrada minit) — Sexual harassment as defined in s. 3 of the Prevention of Sexual Harassment Law.
+- **התנכלות** (Hitnaklut) — Retaliation for harassment or for complaining about it.
+- **נציבות שוויון הזדמנויות בעבודה** (Netzivut shivyon hizdamnuyot ba-avoda) — Equal Employment Opportunities Commission in the Ministry of Labour.
+- **הסכם קיבוצי מיוחד / כללי** (Heskem kibutzi meyuhad / klali) — Special (single employer) / general (sector or economy) collective agreement.
+- **ארגון עובדים יציג** (Irgun ovdim yatzig) — Representative workers' organisation (largest, and at least a third of covered employees).
+- **צו הרחבה** (Tzav harhava) — Extension order spreading a general collective agreement to others.
+- **שביתה מוגנת** (Shvita mugenet) — Protected strike; political strikes are not protected, quasi-political only briefly.
+- **התארגנות ראשונית** (Hitargenut rishonit) — Initial organising of employees in a union.
+- **תקופת אכשרה** (Tkufat achshara) — Qualifying period for a National Insurance benefit.
+- **דמי אבטלה** (Dmei avtala) — Unemployment benefit.
+- **דמי לידה** (Dmei leida) — Maternity (birth) pay from National Insurance.
+- **דמי פגיעה** (Dmei pgi'a) — Injury allowance after a work accident, up to 13 weeks.
+- **נכות כללית** (Nechut klalit) — General disability insurance (non-work disability).
+- **אי־כושר להשתכר** (I-kosher le-hishtaker) — Earning incapacity, set at 60%, 65%, 74% or 100%.
+- **פקיד תביעות** (Pkid tvi'ot) — NII claims officer who decides benefit claims.
+- **ועדה רפואית לעררים** (Va'ada refu'it le-ararim) — Medical appeals committee of the NII.
+- **ידיד קרוב** (Yedid karov) — Close friend, who may represent a claimant before the NII (NII Law s. 386).
+- **דיון מהיר** (Diyun mahir) — Expedited hearing for small employee claims in the labour court.
+- **גמלת הבטחת הכנסה** (Gimlat havtahat hachnasa) — Income support benefit, means-tested.
+- **קיום מינימלי בכבוד** (Kiyum minimali be-chavod) — Dignified minimum existence, a constitutional right.
+- **מחלקה לשירותים חברתיים** (Mahlaka le-sherutim hevratiyim) — Municipal social services department.
+- **סיוע בשכר דירה** (Siyua bi-schar dira) — Rent assistance from the Ministry of Construction and Housing.

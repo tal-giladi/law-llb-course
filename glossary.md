@@ -18,6 +18,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אחריות שילוחית** (Achrayut shilucheet) — Vicarious liability of an employer or principal.
 - **אי־אמון קונסטרוקטיבי** (I-emun konstruktivi) — Constructive no-confidence: 61 members must express confidence in another government (Basic Law: The Government s. 28).
 - **אי־התאמה** (i-hat'ama) — non-conformity of goods sold (Sale Law s. 11).
+- **אי־כושר להשתכר** (I-kosher le-hishtaker) — Earning incapacity, set at 60%, 65%, 74% or 100%.
 - **איומים** (Iyumim) — Threats (s. 192).
 - **איחוד עילות** (Ichud ilot) — Joinder of all causes of action from the same facts in one claim (reg. 24).
 - **אימוץ הורה שני** (Imutz hore sheni) — Second-parent adoption of a partner's child (Yaros-Hakak).
@@ -33,6 +34,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אפליה מבנית** (Aflaya mivnit) — Structural (systemic) discrimination, which can operate without intent.
 - **אפקט הבעלות** (Efekt ha-ba'alut) — Endowment effect: valuing what one has more than the same thing one does not have.
 - **אצילת סמכויות** (Atzilat samchuyot) — Delegation of powers (Basic Law: The Government s. 33).
+- **ארגון עובדים יציג** (Irgun ovdim yatzig) — Representative workers' organisation (largest, and at least a third of covered employees).
 - **ארכה** (arkha) — extension given before cancelling for a non-fundamental breach (s. 7(ב)).
 - **אשם תורם** (Asham torem) — Contributory fault, reducing damages (s. 68).
 - **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
@@ -71,7 +73,10 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **גזר דין** (Gzar din) — Sentence.
 - **גישור** (Gishur) — Mediation: a mediator helps the parties agree, without power to decide (Courts Law s. 79ג).
 - **גלגול שלישי** (Gilgul shlishi) — Third instance; leave given only for issues beyond the parties (Haniyon Haifa).
+- **גמול שעות נוספות** (Gmul sha'ot nosafot) — Overtime premium: 125% for the first two daily overtime hours, 150% after.
 - **גמירת דעת** (gmirat da'at) — intent to be bound, judged objectively.
+- **גמלת הבטחת הכנסה** (Gimlat havtahat hachnasa) — Income support benefit, means-tested.
+- **גמר חשבון** (Gmar heshbon) — Final settlement of all payments when employment ends.
 - **גרימת מוות ברשלנות** (Grimat mavet be-rashlanut) — Causing death by negligence (s. 304).
 - **דבר המלך במועצתו** (dvar ha-melekh be-mo'atzto) — the Palestine Order in Council 1922, the Mandate's constitutional document.
 - **דברי הסבר** (divrei hesber) — Explanatory notes published with a bill.
@@ -90,7 +95,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דיני עונשין** (Dinei onshin) — Criminal law.
 - **דירקטוריון** (Direktoryon) — Board of directors.
 - **דמוקרטיה מתגוננת** (Demokratya mitgonenet) — Defensive (militant) democracy, which may bar those who seek to destroy it.
+- **דמי אבטלה** (Dmei avtala) — Unemployment benefit.
 - **דמי ביטול** (dmei bitul) — cancellation fee (capped by s. 14ה and the Cancellation Regulations).
+- **דמי הבראה** (Dmei havra'a) — Recuperation pay, an annual payment set by extension order according to seniority.
+- **דמי לידה** (Dmei leida) — Maternity (birth) pay from National Insurance.
+- **דמי מחלה** (Dmei mahala) — Sick pay: none for day 1, half for days 2–3, full from day 4.
+- **דמי פגיעה** (Dmei pgi'a) — Injury allowance after a work accident, up to 13 weeks.
 - **דעה נעולה** (De'a ne'ula) — Closed mind; prejudgment that disqualifies a decision-maker.
 - **דעת מיעוט** (da'at mi'ut) — Dissenting opinion.
 - **דעת רוב** (da'at rov) — Majority opinion.
@@ -104,8 +114,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הגנה עצמית** (Hagana atzmit) — Self-defence (s. 34י).
 - **הדבר מעיד על עצמו** (Hadavar me'id al atzmo) — Res ipsa loquitur; shifts the burden of proving no negligence to the defendant (s. 41).
 - **הודאה בקיום זכות** (Hoda'a bekiyum zchut) — Acknowledgement of a claim in writing or before a court, which restarts limitation (Prescription Law s. 9).
+- **הודאת סילוק** (Hoda'at silluk) — Final-settlement waiver; for severance valid only in writing and expressly (s. 29).
 - **הודעה לצד שלישי** (Hoda'a letzad shlishi) — Third-party notice by a defendant seeking contribution or indemnity (regs 22–23).
+- **הודעה מוקדמת** (Hoda'a mukdemet) — Prior notice of dismissal or resignation; pay in lieu (חלף הודעה מוקדמת) if not given.
 - **הודעה נלווית** (Hoda'a nilvet) — Accompanying notice (Form 4) filed with a family claim after the stay.
+- **הודעה על תנאי עבודה** (Hoda'a al tna'ei avoda) — Written notice of terms of employment, due within 30 days of starting.
 - **הוועדה לבחירת שופטים** (Ha-va'ada li-vhirat shoftim) — The Judicial Selection Committee (Basic Law: The Judiciary s. 4).
 - **הון מניות רשום / מונפק** (Hon menayot rashum / munpak) — Registered (authorised) / issued share capital.
 - **הוצאה לפועל** (Hotza'a lapo'al) — Execution, enforcement of judgments and other executable documents.
@@ -122,11 +135,13 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הטיה אנוכית** (Hataya anokhit) — Self-serving bias: seeing fairness in the light most favourable to oneself.
 - **הטיית בחירה** (Hatayat bkhira) — Selection effect: tried cases are not a random sample of disputes, because clear cases settle.
 - **הטעיה** (hat'aya) — deceit, including non-disclosure (s. 15).
+- **הטרדה מינית** (Hatrada minit) — Sexual harassment as defined in s. 3 of the Prevention of Sexual Harassment Law.
 - **היועץ המשפטי לממשלה** (ha-yo'etz ha-mishpati la-memshala) — Attorney General.
 - **היזק בזדון** (Hezek be-zadon) — Malicious damage to property (s. 452).
 - **היסוד הנפשי** (Ha-yesod ha-nafshi) — The mental element (mens rea).
 - **היסוד העובדתי** (Ha-yesod ha-uvdati) — The factual element (actus reus): conduct, circumstances and, in result offences, the result (s. 18).
 - **היקש** (hekesh) — analogy, reasoning from a similar rule.
+- **היתר פיטורים** (Heter piturim) — Ministerial permit needed to dismiss a pregnant employee or one after maternity leave or in fertility treatment.
 - **הכחשה מפורשת ומפורטת** (Hakchasha meforeshet umefuretet) — Express and detailed denial required to avoid deemed admission (reg. 14(ב)).
 - **הכנה** (Hakhana) — Preparation, not punishable by itself.
 - **הכרזה על בטלות** (Hakhraza al batlut) — Declaration of invalidity of a statutory provision.
@@ -153,10 +168,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסדר איזון המשאבים** (Hesder izun ha-mash'abim) — Balance of resources: the default property regime between spouses married since 1974.
 - **הסדר טיעון** (Hesder ti'un) — Plea bargain.
 - **הסדר מותנה** (Hesder mutne) — Conditional arrangement: closing a criminal file on admission and conditions (CPL ss. 67א–67ב).
+- **הסדר סעיף 14** (Hesder se'if 14) — Arrangement under which pension-fund severance contributions replace severance pay.
 - **הסדר ראשוני** (Hesder rishoni) — Primary arrangement: a basic policy choice that must be made by the Knesset in a statute (Rubinstein).
 - **הסדרים ראשוניים** (hesderim rishoniyim) — primary arrangements, which must be set by the Knesset in statute.
 - **הסיוע המשפטי** (ha-siyua ha-mishpati) — Legal Aid (Ministry of Justice).
 - **הסכם ממון** (Heskem mamon) — Property agreement between spouses; must be in writing and approved or certified.
+- **הסכם קיבוצי מיוחד / כללי** (Heskem kibutzi meyuhad / klali) — Special (single employer) / general (sector or economy) collective agreement.
 - **הסכמה מדעת** (Haskama mida'at) — Informed consent.
 - **הסכמה מתמשכת** (Haskama mitmashekhet) — Continuing consent, required at every stage of IVF on the minority view in Nahmani (1996).
 - **הסמכה מפורשת** (Hasmacha meforeshet) — Express authorisation in a statute, required to limit a protected right (Basic Law: Human Dignity and Liberty s. 8).
@@ -164,9 +181,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסניגוריה הציבורית** (ha-sanegoria ha-tziburit) — Public Defender's Office.
 - **הסתייגות** (Histaygut) — Reservation: an amendment rejected in committee that an MK or minister asks to put to a plenum vote at second reading.
 - **הסתכנות מרצון** (Histaknut miratzon) — Voluntary assumption of risk (s. 5).
+- **העדפה מתקנת** (Adafa metakenet) — Affirmative action.
 - **הערכת השפעות אסדרה** (Ha'arakhat hashpa'ot asdara) — Regulatory impact assessment (RIA).
 - **הערכת מסוכנות** (Ha'arakhat mesukanut) — Risk assessment by a state assessor, used for electronic-monitoring orders.
 - **הערת אזהרה** (He'arat azhara) — Caveat: a note recording a written undertaking to make or refrain from a land transaction, blocking contradicting registrations (Land Law ss. 126–127).
+- **הפליה** (Haflaya) — Discrimination on a ground listed in the Equal Employment Opportunities Law.
 - **הפניה ספציפית** (hafnaya spetzifit) — A pinpoint reference to a section, page or paragraph.
 - **הפרדה בין המשפט למוסר** (Hafrada bein ha-mishpat la-musar) — The separation thesis: whether a law exists and whether it is good are different questions (Austin).
 - **הפרה יסודית** (hafara yesodit) — fundamental breach (Remedies Law s. 6).
@@ -192,19 +211,24 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **השעיית הכרזת בטלות** (Hash'ayat hakhrazat batlut) — Suspending a declaration of invalidity to give the Knesset time to legislate (Tzemach).
 - **השתק פלוגתא** (Hashtak plugta) — Issue estoppel.
 - **התאמה והצדקה** (Hat'ama ve-hatsdaka) — Fit and justification, the two dimensions of Dworkinian interpretation.
+- **התארגנות ראשונית** (Hitargenut rishonit) — Initial organising of employees in a union.
 - **התגרות** (Hitgarut) — Provocation; relevant to reduced-responsibility killing (s. 301ב).
 - **התחייבות עצמית** (Hitchayvut atzmit) — Self-undertaking to compensate for damage caused by an interim order (reg. 96, Form 7).
 - **התיישנות** (hityashnut) — limitation (time bar).
 - **התיישנות עבירה** (Hityashnut avera) — Limitation period for prosecution (Criminal Procedure Law s. 9).
 - **התיישנות שלא מדעת** (Hityashnut shelo mida'at) — Limitation running only from discovery of the facts (Prescription Law s. 8).
 - **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
+- **התנכלות** (Hitnaklut) — Retaliation for harassment or for complaining about it.
+- **התפטרות בדין מפוטר** (Hitpatrut be-din mefutar) — Resignation treated as dismissal for severance purposes (Severance Pay Law s. 11 and others).
 - **ויתור וסילוק** (Vitur vesiluk) — Release and discharge clause in a settlement.
+- **ועדה רפואית לעררים** (Va'ada refu'it le-ararim) — Medical appeals committee of the NII.
 - **ועדת השרים לענייני חקיקה** (Va'adat ha-sarim le-inyenei hakika) — Ministerial Committee for Legislation, which decides the Government's position on bills.
 - **ועדת מכרזים** (Va'adat michrazim) — Tender committee.
 - **זוטי דברים** (Zutei dvarim) — De minimis: an act too trivial to prosecute (s. 34יז).
 - **זוכה** (Zocheh) — Judgment creditor in an execution file.
 - **זיכרון דברים** (zikhron dvarim) — memorandum of understanding; may be a binding contract.
 - **זיקת הנאה** (Zikat hana'a) — Easement: a burden on land for a benefit without possession (Land Law s. 5); acquired also by 30 years of use (s. 94).
+- **זכויות קוגנטיות** (Zchuyot kognetiviyot) — Cogent labour rights that cannot be waived by contract.
 - **זכות אובליגטורית** (Zchut obligatorit) — Personal (contractual) right, enforceable only against the other party.
 - **זכות הטיעון / שימוע** (Zkhut ha-ti'un / shimu'a) — Right to be heard / hearing before an adverse decision.
 - **זכות נגזרת** (Zkhut nigzeret) — Derived right, read into human dignity (equality, expression, family life, minimum subsistence).
@@ -272,9 +296,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **טענות מקדמיות** (Ta'anot mukdamot) — Preliminary arguments at the start of a criminal trial (CPL s. 149).
 - **טענת פרעתי** (Ta'anat parati) — A debtor's claim that he already paid or no longer owes (s. 19).
 - **ידועים בציבור** (Yedu'im ba-tzibur) — Cohabitants known in public as a couple: family life and a joint household.
+- **ידיד קרוב** (Yedid karov) — Close friend, who may represent a claimant before the NII (NII Law s. 386).
 - **יומן תיק** (Yoman tik) — Case log: a running record of every step, communication and deadline in a dispute.
 - **יזם** (Yazam) — Promoter acting for a company before its incorporation (Companies Law ss. 12–14).
 - **יחידת סיוע** (Yehidat siyua) — Welfare Ministry assistance unit at a family or religious court.
+- **יחסי עובד ומעסיק** (Yahasei oved u-ma'asik) — Employment relationship; its existence is decided by the labour court on the facts, not by the contract's label.
 - **ייחוד העילה** (Yichud ha'ila) — Exclusivity of the road-accident claim; no negligence claim for bodily injury (s. 8).
 - **ייחוד פעולות המקצוע** (yihud pe'ulot ha-miktzo'a) — the acts reserved to lawyers under s. 20 of the Bar Association Law.
 - **ייפוי כוח** (yipui ko'ah) — power of attorney; the document appointing a representative.
@@ -306,6 +332,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מאסדר** (Ma'asder) — Regulator.
 - **מאסר על תנאי** (Maasar al tnai) — Suspended sentence.
 - **מבחן האמצעי שפגיעתו פחותה** (Mivhan ha-emtza'i she-pgi'ato pehuta) — Least harmful means test: no other means achieves the purpose equally with less harm.
+- **מבחן ההשתלבות** (Mivhan ha-hishtalvut) — Integration test: whether the work is part of the business (positive side) and whether the worker runs a business of his own (negative side).
 - **מבחן הקשר הרציונלי** (Mivhan ha-kesher ha-ratzionali) — Rational connection test: the means actually advance the purpose.
 - **מבחן הרווח / מבחן יכולת הפירעון** (Mivhan ha-revah / mivhan yekholet ha-pira'on) — Profit test / solvency test for distributions (Companies Law s. 302).
 - **מבחן כלכלי** (Mivchan kalkali) — Legal Aid means test.
@@ -317,10 +344,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
 - **מזונות זמניים** (Mezonot zmaniyim) — Interim maintenance pending judgment.
 - **מזכירות בית המשפט** (mazkirut beit ha-mishpat) — court registry (clerks' office).
+- **מזמין שירות** (Mazmin sherut) — Client of a cleaning, security or catering contractor; may become liable for the contractor's wage duties after notice (Enforcement Law s. 25).
 - **מחדל** (Mehdal) — Omission, a failure to act where the law imposes a duty.
 - **מחוברים** (Mehubarim) — Fixtures: things permanently attached to land, owned with the land (Land Law s. 12).
 - **מחזיק** (Machzik) — Holder: a third party (such as a bank) holding the respondent's assets (regs 104–105).
 - **מחיקה / דחייה על הסף** (Mechika / dchiya al hasaf) — Striking out (not res judicata) / summary dismissal (final) (regs 41, 43).
+- **מחלקה לשירותים חברתיים** (Mahlaka le-sherutim hevratiyim) — Municipal social services department.
 - **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
 - **מידתיות** (Midatiyut) — Proportionality; with immediacy and necessity, one of the conditions of self-defence and necessity. A defence does not apply where the act was not reasonable in the circumstances (s. 34טז).
 - **מידתיות במובן הצר** (Midatiyut ba-muvan ha-tzar) — Proportionality in the narrow sense: the benefit is in reasonable relation to the harm.
@@ -332,10 +361,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מכרז פומבי** (Michraz pumbi) — Public tender giving everyone an equal opportunity (Mandatory Tenders Law s. 2).
 - **מכתב דרישה** (michtav drisha) — Demand letter.
 - **מכתב התראה** (Michtav hatra'a) — Pre-action (warning) letter sent before suing.
+- **מכתב שחרור** (Michtav shihrur) — Employer's release letter allowing the pension fund to pay the employee.
 - **מלאי תיקים** (Mlai tikim) — Pending caseload (stock) at a given date.
 - **ממונה על חופש המידע** (Memune al hofesh ha-meida) — The FOI officer of a public authority (FOI Law s. 3).
 - **מנהג** (Minhag) — Custom, a legal source of Jewish law, strong in civil matters.
 - **מנהל כללי** (Menahel klali) — General manager (CEO).
+- **מנוחה שבועית** (Menuha shvu'it) — Weekly rest of at least 36 consecutive hours.
 - **מניין חוקי** (Minyan hukki) — Quorum.
 - **מסוימות** (mesuyamut) — certainty (definiteness) of the essential terms.
 - **מסייע** (Mesaye'a) — Accessory (aider) (s. 31).
@@ -345,6 +376,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מעוול** (Me'avel) — Tortfeasor, wrongdoer.
 - **מעוולים יחד** (Me'avlim yachad) — Joint tortfeasors, liable jointly and severally (s. 11).
 - **מעין צוואה** (Me'ein tzava'a) — Quasi-will: a surviving cohabitant's statutory inheritance under Succession Law s. 55.
+- **מעסיק בפועל** (Ma'asik ba-po'al) — Actual (user) employer of a manpower-agency worker.
 - **מקום שיפוט / סמכות מקומית** (Mekom shiput / samchut mekomit) — Venue: which district a claim is filed in (regs 7–8).
 - **מקרה קשה** (Mikre kashe) — Hard case, where the rules do not clearly decide the outcome.
 - **מקרקעין** (Mekarke'in) — Land, including everything built, planted or permanently attached to it, except separable attachments (Land Law s. 1).
@@ -377,6 +409,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ניסיון** (Nisayon) — Attempt: conduct beyond preparation, with intent to commit the offence (s. 25).
 - **ניקיון כפיים** (Nikayon kapayim) — Clean hands: full and honest disclosure by the petitioner.
 - **נישואי יוטה** (Nisu'ei Utah) — Online civil marriage under the law of Utah County, registered in Israel since the 2023 Brill ruling.
+- **נכות כללית** (Nechut klalit) — General disability insurance (non-work disability).
 - **נסח חברה** (Nesah hevra) — Company extract from the Registrar.
 - **נסח מרוכז** (Nesah merukaz) — Concentrated extract of all the flats in a condominium.
 - **נסח רישום (נסח טאבו)** (Nesah rishum) — Certified extract of the land register; anyone may order it (s. 124).
@@ -385,11 +418,13 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נפגע עבירה** (Nifga avera) — Victim of an offence (Crime Victims' Rights Law s. 2).
 - **נציב תלונות הציבור** (Netziv tlunot ha-tzibur) — The Ombudsman; the State Comptroller acting on public complaints.
 - **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Ombudsman for complaints against judges.
+- **נציבות שוויון הזדמנויות בעבודה** (Netzivut shivyon hizdamnuyot ba-avoda) — Equal Employment Opportunities Commission in the Ministry of Labour.
 - **נציגות הבית המשותף** (Netzigut ha-bayit ha-meshutaf) — The representative (house) committee, the owners' agent for management (Land Law ss. 65, 69).
 - **נקודת יציאה** (Nekudat yetsi'a) — Walk-away figure: the lowest settlement one will accept, set before negotiating.
 - **סבירות איזונית** (Svirut izunit) — "Balancing" reasonableness, the test developed in Dapei Zahav (1980).
 - **סגירת תיק** (Sgirat tik) — Closing a criminal file.
 - **סדר דין אזרחי** (Seder din ezrachi) — Civil procedure; since 1.1.2021 governed by the Civil Procedure Regulations 2018.
+- **סיוע בשכר דירה** (Siyua bi-schar dira) — Rent assistance from the Ministry of Construction and Housing.
 - **סייג לאחריות פלילית** (Seyag le-ahrayut plilit) — Exemption (defence) from criminal liability (Penal Law chapter ה1).
 - **סיכול** (sikul) — frustration (s. 18).
 - **סיכומים** (Sikumim) — Summations (reg. 74).
@@ -463,10 +498,13 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פגישות מהו״ת** (Pgishot mahut) — Information, acquaintance and coordination meetings at the court's assistance unit.
 - **פגישת מהו״ת** (Pgishat mahut) — Free mediation-intake meeting (information, acquaintance, coordination) under reg. 37.
 - **פגרה** (Pagra) — Court recess; counts in small-claims periods unless the court orders otherwise (reg. 16א(ב)).
+- **פדיון חופשה** (Pidyon hufsha) — Redemption in money of unused annual leave when employment ends.
 - **פוזיטיביזם משפטי** (Pozitivizm mishpati) — Legal positivism: the validity of law depends on its source, not its merit.
 - **פטור עקב חרטה** (Ptor ekev harata) — Exemption for voluntary withdrawal from an attempt or complicity (s. 28, s. 34).
 - **פיצוי לנפגע** (Pitzuy la-nifga) — Compensation to the victim ordered on conviction (Penal Law s. 77).
+- **פיצויי הלנת שכר** (Pitzuyei halanat sachar) — Statutory compensation for late wages (Wage Protection Law s. 17).
 - **פיצויי הסתמכות / פיצויי קיום** (pitzuyei histamkhut / pitzuyei kiyum) — reliance damages / expectation damages.
+- **פיצויי פיטורים** (Pitzuyei piturim) — Severance pay: a month's wage per year after a year of work.
 - **פיצויים לדוגמה** (Pitzuyim ledugma) — Exemplary (statutory, no-proof) damages, e.g. Consumer Protection Law s. 31א, Communications Law s. 30א(י).
 - **פיצויים מוסכמים** (pitzuyim muskamim) — agreed (liquidated) damages (s. 15).
 - **פיצול סעדים** (Pitzul sa'adim) — Leave to claim remedies from one cause separately (reg. 25(ב)).
@@ -486,6 +524,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פעולה משפטית** (pe'ula mishpatit) — legal (juristic) act; the Contracts Law applies to non-contractual legal acts through s. 61(ב).
 - **פקודה בלתי חוקית בעליל** (Pkuda bilti hukit be-alil) — Manifestly unlawful order; obedience to it is no defence (Penal Law s. 34יג(2); the "black flag" test of the Kafr Qasim trial).
 - **פקודת הנזיקין [נוסח חדש]** (Pkudat hanezikin) — The Civil Wrongs Ordinance [New Version], the main tort statute (Mandate 1944, re-enacted 1968).
+- **פקיד תביעות** (Pkid tvi'ot) — NII claims officer who decides benefit claims.
 - **פרקליטות המדינה** (praklitut ha-medina) — State Attorney's Office.
 - **פרשנות מקלה** (Parshanut mekila) — Lenient construction: where a law has several reasonable meanings, the one more lenient to the accused is chosen (s. 34כא).
 - **פרשנות נגד המנסח** (parshanut neged ha-menase'ah) — contra proferentem (s. 25(ב1)).
@@ -500,6 +539,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **צו הגבלה** (Tzav hagbala) — Restriction order against a spouse who does not comply with a divorce judgment.
 - **צו הגנה** (Tzav hagana) — Protection order (Prevention of Family Violence Law 1991).
 - **צו הורות** (Tzav horut) — Parentage order given to intended parents after a surrogacy birth.
+- **צו הרחבה** (Tzav harhava) — Extension order spreading a general collective agreement to others.
 - **צו מרווה** (Tzav Mareva) — Freezing order acting on the person; given as a temporary injunction (reg. 109).
 - **צו על תנאי** (Tzav al tnai) — Order nisi: an order to the respondent to show cause why relief should not be granted.
 - **צו תשלומים** (Tzav tashlumim) — Payment (instalment) order for a debtor who cannot pay in full (s. 7א).
@@ -509,6 +549,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **צירוף בעלי דין** (Tziruf ba'alei din) — Joinder of parties (reg. 26).
 - **קאדי / קאדי־מד׳הב** (Kadi / kadi-madhab) — Judge of a Sharia court / of a Druze religious court.
 - **קבלה לרישום** (Kabala lerishum) — Registry acceptance of a document for filing (reg. 33).
+- **קבלן כוח אדם** (Kablan ko'ah adam) — Manpower agency that supplies its own workers to work for a user; after nine months the worker is deemed the user's employee.
 - **קבלת דבר במרמה** (Kabalat davar be-mirma) — Obtaining by deceit (fraud) (s. 415).
 - **קדם משפט** (Kdam mishpat) — Pre-trial hearing.
 - **קדם משפט מסכם** (Kdam mishpat mesakem) — Final pre-trial hearing that sets the trial plan (reg. 63(ד)).
@@ -518,6 +559,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **קודיפיקציה** (kodifikatzia) — codification: replacing scattered rules with Israeli codes.
 - **קיבול** (kibul) — acceptance of an offer (s. 5).
 - **קיום אנושי בכבוד** (Kiyum enoshi be-khavod) — Minimum dignified existence, a right derived from dignity (Commitment to Peace, Hassan).
+- **קיום מינימלי בכבוד** (Kiyum minimali be-chavod) — Dignified minimum existence, a constitutional right.
 - **קיפוח** (Kipuah) — Oppression (unfair prejudice) of shareholders (Companies Law s. 191).
 - **קלות דעת** (Kalut da'at) — Rashness: taking an unreasonable risk while hoping to avoid the result.
 - **קליטה** (klita) — reception of foreign law into the local legal system.
@@ -542,6 +584,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רת״ק (רשות ערעור תביעות קטנות)** (Ratak) — Application for leave to appeal a small-claims decision to the district court.
 - **שאלון** (She'elon) — Interrogatory: written questions answered by affidavit (reg. 56).
 - **שאלות ותשובות (שו״ת)** (She'elot u-teshuvot) — Responsa: authorities' written rulings on concrete questions.
+- **שביתה מוגנת** (Shvita mugenet) — Protected strike; political strikes are not protected, quasi-political only briefly.
 - **שדלן** (Shadlan) — Lobbyist: one who, as an occupation or for payment, acts for a client to persuade MKs (Knesset Law s. 65).
 - **שוויון בנטל** (Shivyon ba-netel) — Equality in bearing the burden, central in Ressler v. Knesset (2012).
 - **שוויון מהותי** (Shivyon mahuti) — Substantive equality, as opposed to formal equality; the basis of affirmative action in Israel Women's Network (1994).
@@ -552,6 +595,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שותפות כללית / מוגבלת** (Shutafut klalit / mugbelet) — General / limited partnership (Partnerships Ordinance ss. 1, 57).
 - **שחקן חוזר** (Sahkan hozer) — Repeat player: a litigant (insurer, bank, the state) that litigates often and gains structural advantages over one-shotters.
 - **שיהוי** (Shihui) — Delay (laches): subjective delay, objective delay and the rule-of-law interest (Aviram).
+- **שימוע** (Shimu'a) — Pre-dismissal hearing.
 - **שימוע לפני הגשת כתב אישום** (Shimu'a) — Pre-indictment hearing: a felony suspect's written request not to be indicted (CPL s. 60א).
 - **שימוש לרעה בהליך** (Shimush lera'a bahalich) — Abuse of process (reg. 4): a step meant to disrupt, delay or harass, or disproportionate to the case.
 - **שימוש לרעה בזכות** (shimush le-ra'a bi-zkhut) — abuse of a right.
@@ -559,6 +603,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שיעור בסיס** (Shi'ur basis) — Base rate: the typical frequency or duration in comparable cases, the starting point for an estimate.
 - **שיקולים זרים** (Shikulim zarim) — Extraneous considerations, unrelated to the purpose of the power.
 - **שיתוף ספציפי** (Shituf spetzifi) — Specific partnership in a particular asset, proved by intention to share.
+- **שכר כולל** (Sachar kolel) — All-inclusive ("global") wage; treated as regular wage only unless an approved collective agreement provides otherwise.
+- **שכר מולן** (Sachar mulan) — Wage paid late, i.e. unpaid by the determining day (the ninth day after the due date).
+- **שכר מינימום** (Schar minimum) — Minimum wage, 47.5% of the average wage, updated each April.
 - **שכר ראוי** (Skhar ra'ui) — Reasonable payment for use, owed by a co-owner who used the common property (Land Law s. 33).
 - **שלטון החוק הפורמלי / המהותי** (Shilton ha-hok ha-formali / ha-mahuti) — The formal (thin) and substantive (thick) conceptions of the rule of law.
 - **שמאי** (Shamai) — Loss adjuster, assessor.
@@ -593,6 +640,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תכלית סובייקטיבית** (tachlit subyektivit) — Subjective purpose: what the legislature actually intended.
 - **תכלית ראויה** (Takhlit re'uya) — Proper purpose, a condition of the limitation clause.
 - **תלונה** (Tluna) — A complaint to the police (Criminal Procedure Law s. 58).
+- **תלוש שכר** (Tlush sachar) — Payslip, which must contain the details in the Wage Protection Law Schedule.
 - **תלמוד** (Talmud) — The Babylonian and Jerusalem discussions of the Mishnah; records disputes and rulings.
 - **תמליל** (Tamlil) — Transcript of a recording.
 - **תמריצים** (Tamritsim) — Incentives: the rewards and costs a rule creates for those deciding whether to obey it.
@@ -605,6 +653,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תצהיר גילוי מסמכים** (Tatzhir giluy mismachim) — Disclosure affidavit listing relevant documents (reg. 57).
 - **תצהיר עדות ראשית** (Tatzhir edut rashit) — Affidavit in lieu of main testimony (regs 67, 178).
 - **תקדים** (takdim) — precedent.
+- **תקופת אכשרה** (Tkufat achshara) — Qualifying period for a National Insurance benefit.
 - **תקיפה** (Tkifa) — Assault, including battery (s. 23).
 - **תקיפה הגורמת חבלה של ממש** (Tkifa ha-goremet havala shel mamash) — Assault causing actual bodily harm (s. 380).
 - **תקיפה עקיפה** (Tkifa akifa) — Indirect challenge: raising the invalidity of a norm as an argument in another proceeding.

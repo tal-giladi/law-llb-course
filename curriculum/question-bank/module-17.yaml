@@ -1,0 +1,1455 @@
+- id: m17-001
+  module: 17
+  lesson: "17.1"
+  subject: employee-status
+  difficulty: 1
+  question: >-
+    Which court has exclusive jurisdiction to decide whether an employment relationship existed?
+  options:
+    - >-
+      The magistrates' court, as part of an ordinary contract claim.
+    - >-
+      The regional labour court (Labour Court Law s. 24(א)(1)).
+    - >-
+      The district court, because status questions are declaratory.
+    - >-
+      The National Insurance Institute, through its claims officer.
+  correct: 1
+  explanation: >-
+    Section 24(א)(1) gives the regional labour court exclusive jurisdiction over employee-employer
+    claims, including the question whether employment exists at all.
+- id: m17-002
+  module: 17
+  lesson: "17.1"
+  subject: employee-status
+  difficulty: 2
+  question: >-
+    A software house pays a programmer against monthly invoices. He works only for it, at its
+    office, with its laptop, under a team leader. Which side of the integration test points to
+    employment most clearly?
+  options:
+    - >-
+      The positive side only, because programming is the firm's core activity.
+    - >-
+      Neither side, because he chose to issue invoices.
+    - >-
+      Both: the work is core and he runs no business of his own.
+    - >-
+      The negative side only, because he has no staff.
+  correct: 2
+  explanation: >-
+    The positive side asks whether the work is part of the business; the negative side whether the
+    worker has his own business. Here both point to employment.
+- id: m17-003
+  module: 17
+  lesson: "17.1"
+  subject: manpower
+  difficulty: 1
+  question: >-
+    After how many consecutive months at the same user is a manpower-agency worker deemed the user's
+    employee, absent a ministerial extension?
+  options:
+    - >-
+      Nine months.
+    - >-
+      Six months.
+    - >-
+      Twelve months.
+    - >-
+      Fifteen months.
+  correct: 0
+  explanation: >-
+    Manpower Agencies Law s. 12א(א), (ג): nine months, extendable by the Minister to 15 in
+    exceptional cases.
+- id: m17-004
+  module: 17
+  lesson: "17.1"
+  subject: misclassification
+  difficulty: 3
+  question: >-
+    A municipality paid a "consultant" ₪20,000 a month for five years; a court finds she was an
+    employee whose full employee cost would have been ₪23,000. The municipality argues she acted in
+    bad faith by asking for the consultant arrangement. Under Kota, what is the likely result?
+  options:
+    - >-
+      No employee status, because her bad faith defeats the claim.
+    - >-
+      Status recognised; she must repay the excess fees of past years.
+    - >-
+      Status recognised; good faith may affect only non-pecuniary damages.
+    - >-
+      Status recognised; she receives full social rights on top of the fees.
+  correct: 2
+  explanation: >-
+    The Kota majority held that good faith does not affect status. Pecuniary compensation is the
+    cost difference (here ₪3,000 a month); good faith may matter for non-pecuniary damages.
+- id: m17-005
+  module: 17
+  lesson: "17.1"
+  subject: service-contractors
+  difficulty: 2
+  question: >-
+    Three security guards of a contractor guard a mall for a year; the contractor stops paying
+    travel refunds. Is the mall liable under Enforcement Law s. 25 after notice?
+  options:
+    - >-
+      Yes, because any client of a contractor is liable after 30 days.
+    - >-
+      Yes, but only for wages, not for travel refunds.
+    - >-
+      No, because security is not a service covered by the Law.
+    - >-
+      No, because the condition of at least four workers is not met.
+  correct: 3
+  explanation: >-
+    Section 25 requires at least four workers providing the service. With only three, the client is
+    not liable under s. 25 (unless s. 26 applies because no reporting channel was set up).
+- id: m17-006
+  module: 17
+  lesson: "17.1"
+  subject: forum
+  difficulty: 2
+  question: >-
+    A worker wants to sue for unpaid wages and, in the same case, for injuries from a workplace fall
+    caused by the employer's negligence. What is the problem?
+  options:
+    - >-
+      The tort claim falls outside the labour court's jurisdiction.
+    - >-
+      Wage claims must be filed in the magistrates' court in all cases.
+    - >-
+      Both claims must first be decided by the Ministry of Labour.
+    - >-
+      There is no problem, as the labour court hears both claims together.
+  correct: 0
+  explanation: >-
+    Section 24(א)(1) excludes claims based on the Civil Wrongs Ordinance. A negligence claim goes to
+    the civil courts; the wages go to the labour court.
+- id: m17-007
+  module: 17
+  lesson: "17.1"
+  subject: evidence
+  difficulty: 1
+  question: >-
+    In the labour court, are WhatsApp messages showing who gave instructions admissible?
+  options:
+    - >-
+      No, only signed documents are admitted in labour-court cases.
+    - >-
+      Yes, as the court is not bound by the rules of evidence.
+    - >-
+      Only if a notary first certifies each of the screenshots.
+    - >-
+      Only if the employer gives its consent to their use in court.
+  correct: 1
+  explanation: >-
+    Labour Court Law s. 32 frees the court from the rules of evidence in most proceedings; weight
+    depends on completeness and authenticity.
+- id: m17-008
+  module: 17
+  lesson: "17.2"
+  subject: minimum-wage
+  difficulty: 1
+  question: >-
+    The monthly minimum wage is defined in the Minimum Wage Law as what share of the average wage?
+  options:
+    - >-
+      40 percent.
+    - >-
+      50 percent.
+    - >-
+      60 percent.
+    - >-
+      47.5%.
+  correct: 3
+  explanation: >-
+    Section 1 defines the monthly minimum wage as 47.5% of the average wage as of 1 April each year.
+- id: m17-009
+  module: 17
+  lesson: "17.2"
+  subject: minimum-wage
+  difficulty: 2
+  question: >-
+    A full-time worker's basic wage is just below the minimum; the payslip adds a fixed monthly
+    "professional increment" paid to everyone in the role. Does it count towards the minimum?
+  options:
+    - >-
+      Yes, a fixed increment paid for the work counts under s. 3(ב).
+    - >-
+      No, only the basic wage ever counts towards the minimum.
+    - >-
+      No, because all increments are excluded by s. 3(ב).
+    - >-
+      Yes, but only if a collective agreement says so.
+  correct: 0
+  explanation: >-
+    Section 3(ב) counts basic wage, cost-of-living and fixed increments paid for the work; it
+    excludes seniority, shift, family, bonuses and expense refunds.
+- id: m17-010
+  module: 17
+  lesson: "17.2"
+  subject: overtime
+  difficulty: 2
+  question: >-
+    A worker works 12 hours on a Wednesday (statutory day 8 hours). How are the four extra hours
+    paid at minimum?
+  options:
+    - >-
+      Four hours at 125%.
+    - >-
+      Four hours at 150%.
+    - >-
+      Two hours at 125% and two at 150%.
+    - >-
+      Two hours at 150% and two at 200%.
+  correct: 2
+  explanation: >-
+    Hours of Work and Rest Law s. 16: the first two overtime hours each day at 125%, every later
+    hour at 150%.
+- id: m17-011
+  module: 17
+  lesson: "17.2"
+  subject: weekly-rest
+  difficulty: 1
+  question: >-
+    What is the minimum weekly rest under the Hours of Work and Rest Law?
+  options:
+    - >-
+      24 consecutive hours, on any day that the employer chooses.
+    - >-
+      36 consecutive hours, including the day of rest.
+    - >-
+      48 hours in total, split over two separate days.
+    - >-
+      One full calendar day, which must always be Saturday.
+  correct: 1
+  explanation: >-
+    Section 7: at least 36 consecutive hours, including Saturday for Jews and Saturday, Sunday or
+    Friday for others according to their custom.
+- id: m17-012
+  module: 17
+  lesson: "17.2"
+  subject: annual-leave
+  difficulty: 2
+  question: >-
+    An employee in her seventh year with the same employer, working a six-day week, asks how many
+    leave days she is entitled to this year. What does s. 3 say?
+  options:
+    - >-
+      16 days, as in the first five years.
+    - >-
+      18 days.
+    - >-
+      28 days, the statutory maximum.
+    - >-
+      21 days.
+  correct: 3
+  explanation: >-
+    Annual Leave Law s. 3: 16 days for each of the first five years, 18 for the sixth, 21 for the
+    seventh, then one more day a year up to 28.
+- id: m17-013
+  module: 17
+  lesson: "17.2"
+  subject: sick-pay
+  difficulty: 1
+  question: >-
+    How do sick days accrue under the Sick Pay Law?
+  options:
+    - >-
+      1.5 days per full month, up to 90.
+    - >-
+      One day per month, up to 30 days.
+    - >-
+      Two days per month, with no ceiling.
+    - >-
+      Ten days a year, reset in January.
+  correct: 0
+  explanation: >-
+    Section 4: a day and a half for each full month worked, up to a maximum of 90 days.
+- id: m17-014
+  module: 17
+  lesson: "17.2"
+  subject: hours-exclusion
+  difficulty: 3
+  question: >-
+    A delivery driver works alone all day; the employer tracks his route by GPS and his deliveries
+    by app. The employer says the Hours Law does not apply because it "cannot supervise" his hours.
+    Who is likely right?
+  options:
+    - >-
+      The employer, because drivers who work alone are always excluded.
+    - >-
+      The employer, because GPS data is private and cannot be used.
+    - >-
+      Neither; only the Ministry decides exclusion questions.
+    - >-
+      The driver, because GPS and app data allow supervision of his hours.
+  correct: 3
+  explanation: >-
+    Section 30(א)(6) excludes only work whose conditions prevent any supervision of hours. Where
+    technology allows supervision, the exclusion usually fails; the labour court decides disputes.
+- id: m17-015
+  module: 17
+  lesson: "17.2"
+  subject: cogency
+  difficulty: 3
+  question: >-
+    A West Bank resident works for an Israeli company in an industrial zone beyond the Green Line.
+    The employer says Jordanian law, with a lower minimum wage, governs the contract. What did HCJ
+    5666/03 hold in a similar case?
+  options:
+    - >-
+      Local law applies because the work is done in the territory.
+    - >-
+      Israeli law applies by the closest-connection test and equality.
+    - >-
+      The parties' nationality decides which law applies.
+    - >-
+      Only international law applies to such employment.
+  correct: 1
+  explanation: >-
+    Absent an express choice, the closest-connection test applies; territorial ties weigh less where
+    several systems operate, and equality requires the same law for Israeli and Palestinian workers.
+- id: m17-016
+  module: 17
+  lesson: "17.3"
+  subject: wage-protection
+  difficulty: 1
+  question: >-
+    By what day must a monthly wage for March be paid before it is "late" (מולן)?
+  options:
+    - >-
+      31 March.
+    - >-
+      9 April.
+    - >-
+      15 April.
+    - >-
+      30 April.
+  correct: 1
+  explanation: >-
+    The wage is due at the end of the month (s. 9) and becomes late if unpaid by the determining
+    day, the ninth day after the due date (s. 1).
+- id: m17-017
+  module: 17
+  lesson: "17.3"
+  subject: late-wage
+  difficulty: 2
+  question: >-
+    Late-wage compensation under s. 17 is calculated as:
+  options:
+    - >-
+      The higher of 5% then 10% a week, or linkage plus 20% a month.
+    - >-
+      Statutory interest only, from the due date to payment.
+    - >-
+      A fixed amount set by the court in its discretion.
+    - >-
+      Double the late wage, regardless of the delay.
+  correct: 0
+  explanation: >-
+    Section 17: the higher of (1) 5% for the first week and 10% for each later week or part, or (2)
+    linkage plus 20% for each month.
+- id: m17-018
+  module: 17
+  lesson: "17.3"
+  subject: late-wage
+  difficulty: 3
+  question: >-
+    An employer paid wages late three times in 2025, each by about two weeks; the employee received
+    the last one in December 2025 and did not sue. In October 2026, can she still claim the
+    compensation?
+  options:
+    - >-
+      No, because the 60-day period from each payment has passed.
+    - >-
+      Yes, because the wage claim itself has seven years.
+    - >-
+      Possibly: three delays in a year extend it to three years.
+    - >-
+      No, because she accepted all the payments without protest.
+  correct: 2
+  explanation: >-
+    Section 17א(ב): three late payments within 12 consecutive months extend the limitation to three
+    years, except for compensation already barred under the one-year rule.
+- id: m17-019
+  module: 17
+  lesson: "17.3"
+  subject: payslip
+  difficulty: 1
+  question: >-
+    Which detail is required on every payslip by the Wage Protection Law Schedule?
+  options:
+    - >-
+      The employer's annual turnover.
+    - >-
+      The employee's home address.
+    - >-
+      The names of all colleagues.
+    - >-
+      The current minimum wage.
+  correct: 3
+  explanation: >-
+    Item 9 of the Schedule requires the current monthly and hourly minimum wage; items 1–8 cover
+    identity, seniority, time, pay, deductions, employer payments and net pay.
+- id: m17-020
+  module: 17
+  lesson: "17.3"
+  subject: payslip-damages
+  difficulty: 2
+  question: >-
+    An employer issued payslips without hours or leave balances for 18 months. What can the labour
+    court award besides any unpaid wages?
+  options:
+    - >-
+      Nothing, because the defect itself caused no money loss.
+    - >-
+      A criminal fine that is paid directly to the employee.
+    - >-
+      Exemplary damages per payslip, without proof of loss.
+    - >-
+      Only an order requiring corrected payslips to be issued.
+  correct: 2
+  explanation: >-
+    Section 26א(ב) allows exemplary damages for each payslip knowingly withheld or missing required
+    details; two breaches in 24 months create a presumption of knowledge.
+- id: m17-021
+  module: 17
+  lesson: "17.3"
+  subject: deductions
+  difficulty: 2
+  question: >-
+    An employee signed a written undertaking to repay a ₪6,000 loan. Her wage is ₪8,000. How much
+    may the employer deduct from one month's wage on account of the loan?
+  options:
+    - >-
+      Up to ₪2,000, a quarter of the wage.
+    - >-
+      The full ₪6,000, since she signed.
+    - >-
+      Nothing without a court order.
+    - >-
+      Up to ₪4,000, half of the wage.
+  correct: 0
+  explanation: >-
+    Section 25(א)(6): a debt under a written undertaking may be deducted, but no more than a quarter
+    of the wage. On leaving, a remaining debt may be set off from the last wage (s. 25(ב)).
+- id: m17-022
+  module: 17
+  lesson: "17.3"
+  subject: notice-to-employee
+  difficulty: 1
+  question: >-
+    Within how long must an employer give a new adult employee written notice of terms of
+    employment?
+  options:
+    - >-
+      Seven days.
+    - >-
+      Thirty days.
+    - >-
+      Ninety days.
+    - >-
+      Only on request.
+  correct: 1
+  explanation: >-
+    Notice to Employee Law s. 1: within 30 days of starting (seven days for a youth).
+- id: m17-023
+  module: 17
+  lesson: "17.3"
+  subject: global-wage
+  difficulty: 3
+  question: >-
+    A contract states "the wage of ₪10,000 includes overtime". Payslips show only "salary ₪10,000".
+    The employee proves regular overtime. What is the legal position?
+  options:
+    - >-
+      The clause is valid if the employee signed it freely and knowingly.
+    - >-
+      Overtime is included unless the employee protested every month.
+    - >-
+      The clause is valid for managers only, whatever their real role.
+    - >-
+      The ₪10,000 counts as regular wage; overtime is owed on top.
+  correct: 3
+  explanation: >-
+    Wage Protection Law s. 5 treats a wage that includes overtime or rest pay as regular wage only
+    (unless an approved collective agreement says otherwise); s. 26ב adds a presumption without
+    proper payslips.
+- id: m17-024
+  module: 17
+  lesson: "17.3"
+  subject: fees
+  difficulty: 2
+  question: >-
+    Which of these labour-court claims is exempt from court fees under the Fees Regulations?
+  options:
+    - >-
+      A claim for pay in lieu of prior notice.
+    - >-
+      A claim for statutory severance pay.
+    - >-
+      A Wage Protection Law late-wage claim.
+    - >-
+      A claim for damages for discrimination.
+  correct: 2
+  explanation: >-
+    Regulation 4 exempts proceedings under the Wage Protection Law and the Minimum Wage Law, NII
+    claims and income-support claims, among others. Notice, severance and discrimination heads pay a
+    fee.
+- id: m17-025
+  module: 17
+  lesson: "17.4"
+  subject: notice
+  difficulty: 1
+  question: >-
+    How much notice is due to a monthly-paid employee with five years' seniority?
+  options:
+    - >-
+      Two weeks.
+    - >-
+      Two months.
+    - >-
+      One month.
+    - >-
+      Five days per year of work.
+  correct: 2
+  explanation: >-
+    Prior Notice Law s. 3(3): after the first year, a monthly-paid employee is entitled to a month's
+    notice.
+- id: m17-026
+  module: 17
+  lesson: "17.4"
+  subject: notice
+  difficulty: 2
+  question: >-
+    An hourly-paid employee in his second year, after 6 months of that year, is dismissed. How much
+    notice is due?
+  options:
+    - >-
+      17 days: 14 plus a day per two months.
+    - >-
+      One month, exactly as for monthly employees.
+    - >-
+      12 days: one day for each month of work.
+    - >-
+      21 days, as in the third year of work.
+  correct: 0
+  explanation: >-
+    Section 4(2): in the second year, 14 days plus one day for every two months of work in that
+    year; six months give three extra days.
+- id: m17-027
+  module: 17
+  lesson: "17.4"
+  subject: notice
+  difficulty: 2
+  question: >-
+    An employee resigns without giving notice and stops coming the next day. What may the employer
+    do?
+  options:
+    - >-
+      Withhold the employee's entire severance pay as a penalty.
+    - >-
+      Claim the wage for the missing notice period (s. 7(ב)).
+    - >-
+      Nothing, because the duty of notice binds only employers.
+    - >-
+      Report the employee to the police for breach of contract.
+  correct: 1
+  explanation: >-
+    Section 5 applies notice to resignations, and s. 7(ב) makes an employee who left without notice
+    pay the employer the regular wage for the missing period, often by set-off.
+- id: m17-028
+  module: 17
+  lesson: "17.4"
+  subject: severance
+  difficulty: 1
+  question: >-
+    After how long with the same employer does a dismissed employee become entitled to statutory
+    severance pay?
+  options:
+    - >-
+      Six months of work.
+    - >-
+      Two years of work.
+    - >-
+      Immediately on starting.
+    - >-
+      One continuous year.
+  correct: 3
+  explanation: >-
+    Severance Pay Law s. 1: one year of continuous work (two seasons for a seasonal worker).
+- id: m17-029
+  module: 17
+  lesson: "17.4"
+  subject: severance
+  difficulty: 2
+  question: >-
+    For severance purposes, which components make up the "wage" under reg. 1 of the Severance Pay
+    Regulations?
+  options:
+    - >-
+      Basic wage plus seniority, cost-of-living and family.
+    - >-
+      Total gross pay, including overtime and all bonuses.
+    - >-
+      Basic wage only, without any of the increments.
+    - >-
+      Net pay after income tax and National Insurance.
+  correct: 0
+  explanation: >-
+    Regulation 1 lists basic wage, seniority increment, cost-of-living increment and family
+    increment; overtime and bonuses are excluded.
+- id: m17-030
+  module: 17
+  lesson: "17.4"
+  subject: section-14
+  difficulty: 3
+  question: >-
+    An employer deposited 8.33% severance contributions into a pension fund under a written s. 14
+    arrangement throughout employment. The employee is dismissed. What does the employer still owe
+    as severance?
+  options:
+    - >-
+      Full statutory severance, because fund money belongs to the pension.
+    - >-
+      Nothing more; full deposits replace severance and are released.
+    - >-
+      Half of the statutory severance, as a penalty for the dismissal.
+    - >-
+      Severance only for the last year of work, which the fund lacks.
+  correct: 1
+  explanation: >-
+    Under the general s. 14 approval, deposits at the full rate replace severance in full (⚠️ verify
+    the approval's terms). The employer must release the fund's money to the employee.
+- id: m17-031
+  module: 17
+  lesson: "17.4"
+  subject: resignation-as-dismissal
+  difficulty: 3
+  question: >-
+    Mor resigns citing harassment by her manager that the employer ignored after her written
+    complaint. The employer says she resigned, so no severance. What is her best basis?
+  options:
+    - >-
+      Severance Pay Law s. 8, resignation when moving home elsewhere.
+    - >-
+      Severance Pay Law s. 6, resignation for reasons of poor health.
+    - >-
+      Section 11(א): she cannot be expected to stay.
+    - >-
+      Prior Notice Law s. 7, payment in lieu of the prior notice.
+  correct: 2
+  explanation: >-
+    Section 11(א) covers resignation because of circumstances in the employment in which the
+    employee cannot be expected to continue, such as unaddressed harassment after a complaint.
+- id: m17-032
+  module: 17
+  lesson: "17.4"
+  subject: late-severance
+  difficulty: 2
+  question: >-
+    Employment ended on 1 May. When does unpaid severance become "late" with linkage plus 20% a
+    month?
+  options:
+    - >-
+      From 9 May, the determining day for that month.
+    - >-
+      From 1 June, a full month after employment ended.
+    - >-
+      Only after the employee files a claim in court.
+    - >-
+      From day 31; linkage only from day 16.
+  correct: 3
+  explanation: >-
+    Wage Protection Law s. 20: severance is late if unpaid within 15 days; from day 16 to 30 linkage
+    only, and after day 30 linkage plus 20% a month.
+- id: m17-033
+  module: 17
+  lesson: "17.4"
+  subject: pregnancy
+  difficulty: 2
+  question: >-
+    A temporary worker who has worked four months for an employer tells it she is pregnant and is
+    then dismissed. Does the permit requirement in s. 9(א) of the Women's Employment Law apply?
+  options:
+    - >-
+      No, because it applies only after six months with the employer.
+    - >-
+      Yes, because it applies from the first day of employment.
+    - >-
+      No, because temporary workers are never protected.
+    - >-
+      Yes, but only for permanent workers in the public sector.
+  correct: 0
+  explanation: >-
+    Section 9(א) requires a permit for permanent and temporary workers who have worked six months;
+    she may still claim discrimination under the EEO Law, which has no seniority condition.
+- id: m17-034
+  module: 17
+  lesson: "17.4"
+  subject: hearing
+  difficulty: 1
+  question: >-
+    Which is a basic requirement of a fair pre-dismissal hearing?
+  options:
+    - >-
+      The employee must be represented by a lawyer.
+    - >-
+      The employee is told the reasons in advance and can respond.
+    - >-
+      The hearing must take place before a labour-court registrar.
+    - >-
+      The decision must be unanimous among managers.
+  correct: 1
+  explanation: >-
+    The hearing duty requires advance notice of the reasons, time and documents to prepare, a real
+    chance to respond and a decision taken with an open mind.
+- id: m17-035
+  module: 17
+  lesson: "17.4"
+  subject: waiver
+  difficulty: 3
+  question: >-
+    Spot the mistake: an employee writes to his lawyer friend, "I signed 'I received all my rights
+    and waive all claims' so I cannot claim the severance top-up." What is wrong with his
+    conclusion?
+  options:
+    - >-
+      Nothing; a signed waiver always ends every claim he has.
+    - >-
+      Waivers are valid only if they are signed in the labour court.
+    - >-
+      Waivers are invalid only for employees who are under 18.
+    - >-
+      A severance waiver must expressly mention severance.
+  correct: 3
+  explanation: >-
+    Severance Pay Law s. 29 gives effect to a severance settlement or waiver only if written and
+    expressly about severance; courts also read general waivers narrowly.
+- id: m17-036
+  module: 17
+  lesson: "17.5"
+  subject: discrimination
+  difficulty: 1
+  question: >-
+    Which of these is NOT among the grounds listed in s. 2(א) of the EEO Law?
+  options:
+    - >-
+      Place of residence.
+    - >-
+      Reserve duty service.
+    - >-
+      Fertility treatment.
+    - >-
+      Qualifications.
+  correct: 3
+  explanation: >-
+    Qualifications are a legitimate consideration. Residence, reserve duty and fertility treatment
+    are listed protected grounds.
+- id: m17-037
+  module: 17
+  lesson: "17.5"
+  subject: burden
+  difficulty: 2
+  question: >-
+    An employee dismissed shortly after returning from reserve duty proves she had a clean
+    disciplinary and performance record. What follows under s. 9?
+  options:
+    - >-
+      The employer must prove it did not discriminate.
+    - >-
+      She must still prove the employer's actual intent.
+    - >-
+      The court must order her reinstatement at once.
+    - >-
+      The case moves to the Commission automatically.
+  correct: 0
+  explanation: >-
+    Section 9(א)(2): if the employee proves nothing in her conduct caused the dismissal, the burden
+    shifts to the employer.
+- id: m17-038
+  module: 17
+  lesson: "17.5"
+  subject: harassment
+  difficulty: 2
+  question: >-
+    A colleague of equal rank asks a co-worker out once; she says no, and he never asks again. Is
+    this sexual harassment under s. 3?
+  options:
+    - >-
+      Yes, because any sexual proposal at work is harassment.
+    - >-
+      Yes, because she clearly said no to the proposal.
+    - >-
+      No: a single proposal between equals is not enough.
+    - >-
+      No, unless she first complained to the police.
+  correct: 2
+  explanation: >-
+    Section 3(א)(3) requires repeated proposals after lack of interest was shown; a single proposal
+    is harassment only in listed authority situations.
+- id: m17-039
+  module: 17
+  lesson: "17.5"
+  subject: retaliation
+  difficulty: 2
+  question: >-
+    Two weeks after complaining of harassment, an employee is moved to a worse shift. What is the
+    legal name of this conduct if linked to the complaint?
+  options:
+    - >-
+      Constructive dismissal.
+    - >-
+      Retaliation (התנכלות).
+    - >-
+      Unlawful deduction.
+    - >-
+      Breach of notice.
+  correct: 1
+  explanation: >-
+    Section 3(ב) defines retaliation as any harm resulting from harassment or from a complaint or
+    claim about it; it is a separate civil wrong and offence.
+- id: m17-040
+  module: 17
+  lesson: "17.5"
+  subject: employer-duties
+  difficulty: 1
+  question: >-
+    An employer of how many employees must adopt and publish an anti-harassment code?
+  options:
+    - >-
+      Any employer with at least one employee.
+    - >-
+      More than 50.
+    - >-
+      More than 25.
+    - >-
+      More than 100.
+  correct: 2
+  explanation: >-
+    Section 7(ב): an employer of more than 25 employees must adopt a code and publish it among
+    employees.
+- id: m17-041
+  module: 17
+  lesson: "17.5"
+  subject: discrimination
+  difficulty: 3
+  question: >-
+    A firm advertises for "drivers, age 25–35, from the centre of the country". A 45-year-old driver
+    from Kiryat Shmona with a clean record applies and is rejected. Which provisions does the ad
+    breach?
+  options:
+    - >-
+      None, because ads are not "hiring decisions".
+    - >-
+      Only s. 8, as ads are regulated separately.
+    - >-
+      Only the age ground, because residence is not protected.
+    - >-
+      Age and residence grounds in s. 2, and the ad rule in s. 8.
+  correct: 3
+  explanation: >-
+    Age and place of residence are protected grounds in s. 2(א), and s. 8 prohibits discriminatory
+    job advertisements; the employer may try to show a real job requirement under s. 2(ד).
+- id: m17-042
+  module: 17
+  lesson: "17.5"
+  subject: leading-cases
+  difficulty: 1
+  question: >-
+    What did HCJ 104/87 (Nevo) decide?
+  options:
+    - >-
+      Forced earlier retirement for women was discrimination.
+    - >-
+      Women may be paid less if they work fewer hours.
+    - >-
+      Collective agreements can never be reviewed by courts.
+    - >-
+      Sexual harassment at work is a criminal offence.
+  correct: 0
+  explanation: >-
+    The Court held that forcing women to retire at 60 while men retired at 65 was discriminatory and
+    void as contrary to public policy; an option to retire earlier was acceptable.
+- id: m17-043
+  module: 17
+  lesson: "17.6"
+  subject: collective-agreements
+  difficulty: 1
+  question: >-
+    What is an extension order (צו הרחבה)?
+  options:
+    - >-
+      A court order extending a filing deadline for a party.
+    - >-
+      An order extending a general agreement to others.
+    - >-
+      An employer's notice extending an employee's fixed contract.
+    - >-
+      A union's decision to extend a strike to other workplaces.
+  correct: 1
+  explanation: >-
+    Collective Agreements Law s. 25: the Minister may extend provisions of a general collective
+    agreement by order to employers and employees outside it.
+- id: m17-044
+  module: 17
+  lesson: "17.6"
+  subject: collective-agreements
+  difficulty: 2
+  question: >-
+    An employee signs a personal contract waiving a collective-agreement shift premium in exchange
+    for flexible hours. Is the waiver effective?
+  options:
+    - >-
+      Yes, because personal contracts prevail over collective ones.
+    - >-
+      Yes, if the union was told of the personal contract.
+    - >-
+      No: collective-agreement rights cannot be waived.
+    - >-
+      No, unless the Minister of Labour approved the waiver.
+  correct: 2
+  explanation: >-
+    Section 20 forbids waiving rights under a collective agreement; a personal contract may give
+    more, but not less, than the collective personal provisions.
+- id: m17-045
+  module: 17
+  lesson: "17.6"
+  subject: strikes
+  difficulty: 2
+  question: >-
+    How much notice must a union give before a strike under the Settlement of Labour Disputes Law?
+  options:
+    - >-
+      Fifteen days, to the employer and the labour officer.
+    - >-
+      Seven days, to the employer only, in writing.
+    - >-
+      Thirty days, to the regional labour court.
+    - >-
+      None at all, if the strike is purely economic.
+  correct: 0
+  explanation: >-
+    Section 5א requires at least 15 days' notice of a strike or lockout to the other side and to the
+    Chief Labour Relations Officer.
+- id: m17-046
+  module: 17
+  lesson: "17.6"
+  subject: strikes
+  difficulty: 3
+  question: >-
+    A union representing retired university staff threatens a strike to improve pension linkage for
+    current retirees. The university says pensioners are not employees, so the strike is
+    unprotected. Following HCJ 1181/03, how strong is that argument?
+  options:
+    - >-
+      Strong, because strikes are lawful only about current employees.
+    - >-
+      Strong, because pension disputes may go only to arbitration.
+    - >-
+      Weak in principle, though fixed retirement rights stay protected.
+    - >-
+      Weak, because every strike by a recognised union is protected.
+  correct: 2
+  explanation: >-
+    The Court held that a union may strike over its pensioner members' retirement terms and such a
+    strike can be a protected economic strike, within limits; fixed rights cannot be taken away.
+- id: m17-047
+  module: 17
+  lesson: "17.6"
+  subject: organising
+  difficulty: 2
+  question: >-
+    An employer refuses to hire a candidate after learning she was a union committee member at her
+    previous job. Which provision is breached?
+  options:
+    - >-
+      Collective Agreements Law s. 33י.
+    - >-
+      Collective Agreements Law s. 3.
+    - >-
+      Settlement of Labour Disputes Law s. 5א.
+    - >-
+      Minimum Wage Law s. 2.
+  correct: 0
+  explanation: >-
+    Section 33י forbids dismissing, worsening terms or refusing to hire because of union membership
+    or activity (or non-membership).
+- id: m17-048
+  module: 17
+  lesson: "17.6"
+  subject: class-actions
+  difficulty: 3
+  question: >-
+    Workers in a unionised security company want a class action for unpaid wages. The company says
+    the statutory bar for unionised workplaces applies. Under HCJ 1893/11, when does the bar not
+    apply?
+  options:
+    - >-
+      Whenever more than 100 workers are affected by the breach.
+    - >-
+      When the agreement lacks enforcement and the union is idle.
+    - >-
+      When the employer is a public body rather than a company.
+    - >-
+      Only if the union gives its written consent to the action.
+  correct: 1
+  explanation: >-
+    The Court held that the bar does not apply where the collective agreement lacks enforcement
+    mechanisms and the union is not actually enforcing workers' rights.
+- id: m17-049
+  module: 17
+  lesson: "17.7"
+  subject: unemployment
+  difficulty: 1
+  question: >-
+    How many unpaid waiting days apply at the start of each unemployment period of four months?
+  options:
+    - >-
+      None.
+    - >-
+      Three.
+    - >-
+      Ten.
+    - >-
+      Five.
+  correct: 3
+  explanation: >-
+    NII Law s. 172: unemployment benefit is not paid for the first five days of unemployment in each
+    period of four consecutive months from the determining date.
+- id: m17-050
+  module: 17
+  lesson: "17.7"
+  subject: maternity
+  difficulty: 2
+  question: >-
+    A self-employed woman paid contributions for 7 of the 14 months before giving birth. What
+    maternity pay is she entitled to?
+  options:
+    - >-
+      None, because the self-employed are not insured for maternity.
+    - >-
+      Eight weeks, under s. 50(א)(2).
+    - >-
+      Fifteen weeks, under s. 50(א)(1).
+    - >-
+      Twelve weeks, the average of the two periods.
+  correct: 1
+  explanation: >-
+    Section 50 covers employees and the self-employed: 15 weeks with 10 of 14 (or 15 of 22) months;
+    8 weeks with 6 of 14. Seven months gives 8 weeks.
+- id: m17-051
+  module: 17
+  lesson: "17.7"
+  subject: work-injury
+  difficulty: 2
+  question: >-
+    At what rate is injury allowance (דמי פגיעה) paid?
+  options:
+    - >-
+      100% of the regular wage, with no ceiling.
+    - >-
+      60% of the average wage.
+    - >-
+      75% of the regular wage, up to a ceiling.
+    - >-
+      A fixed daily sum set by the employer.
+  correct: 2
+  explanation: >-
+    NII Law s. 97: three-quarters of the insured person's regular wage, up to 75% of five times the
+    basic amount divided by 30.
+- id: m17-052
+  module: 17
+  lesson: "17.7"
+  subject: disability
+  difficulty: 3
+  question: >-
+    A claimant has medical disability of 50%, made up of impairments of 20%, 20% and 15%. Does she
+    meet the medical threshold for general disability?
+  options:
+    - >-
+      No: under 60%, and no single impairment reaches 25%.
+    - >-
+      Yes, because 50% exceeds the 40% threshold.
+    - >-
+      Yes, because any combined degree above 40% suffices.
+    - >-
+      No, because three impairments cannot be combined.
+  correct: 0
+  explanation: >-
+    Section 208: 60% is required, or 40% only where one impairment is at least 25%. None of her
+    impairments reaches 25%, so 50% is not enough.
+- id: m17-053
+  module: 17
+  lesson: "17.7"
+  subject: claim-deadline
+  difficulty: 1
+  question: >-
+    What is the general deadline for claiming a cash benefit from the NII?
+  options:
+    - >-
+      Thirty days from the event.
+    - >-
+      Six months from the event.
+    - >-
+      Seven years, as for contracts.
+    - >-
+      Twelve months.
+  correct: 3
+  explanation: >-
+    NII Law s. 296: within 12 months; a late claim is paid no more than 12 months back (48 for
+    old-age pension, with limits).
+- id: m17-054
+  module: 17
+  lesson: "17.7"
+  subject: survivors
+  difficulty: 2
+  question: >-
+    A widow receiving a survivors' pension starts living with a new partner in a shared household.
+    Following Boaron (HCJ 5492/07), what may the NII do?
+  options:
+    - >-
+      Nothing, because only formal remarriage affects the pension.
+    - >-
+      Stop it as on remarriage; 'wife' includes a common-law wife.
+    - >-
+      Reduce the pension by half while the relationship lasts.
+    - >-
+      Stop it only after five years of living together.
+  correct: 1
+  explanation: >-
+    The Court upheld the NII's decisions: the statutory definition includes a common-law spouse, so
+    the remarriage rules apply, and the restoration rules apply if the relationship ends.
+- id: m17-055
+  module: 17
+  lesson: "17.8"
+  subject: income-support
+  difficulty: 1
+  question: >-
+    What is the general minimum age for income support under s. 2(א)?
+  options:
+    - >-
+      18.
+    - >-
+      21.
+    - >-
+      25.
+    - >-
+      30.
+  correct: 2
+  explanation: >-
+    Section 2(א): Israeli residents aged 25 or over, with exceptions for listed groups and rules for
+    ages 20 to 25.
+- id: m17-056
+  module: 17
+  lesson: "17.8"
+  subject: income-support
+  difficulty: 2
+  question: >-
+    A new immigrant who arrived 14 months ago, aged 40 and unable to work, claims income support.
+    What condition may block the claim?
+  options:
+    - >-
+      The 24-month residence condition in s. 2(ב).
+    - >-
+      The claimant must have been a citizen for five years.
+    - >-
+      The claimant must first receive unemployment benefit.
+    - >-
+      Immigrants are excluded from income support entirely.
+  correct: 0
+  explanation: >-
+    Section 2(ב) requires 24 consecutive months of residence before the claim, except for recipients
+    of certain NII pensions.
+- id: m17-057
+  module: 17
+  lesson: "17.8"
+  subject: dignity
+  difficulty: 3
+  question: >-
+    Petitioners argue that a cut in income support violates the right to a dignified minimum
+    existence. Following HCJ 366/03, what must they show?
+  options:
+    - >-
+      That the cut reduced the benefit by any amount at all.
+    - >-
+      That other countries pay more generous benefits.
+    - >-
+      That the Knesset passed the cut without proper debate.
+    - >-
+      That the whole system leaves people below the minimum.
+  correct: 3
+  explanation: >-
+    The majority recognised the right but required a factual showing that the overall system of
+    support, not just one benefit, fell below the dignified minimum.
+- id: m17-058
+  module: 17
+  lesson: "17.8"
+  subject: welfare-services
+  difficulty: 2
+  question: >-
+    Where is a final decision of a welfare appeals committee (Welfare Services Law) appealed?
+  options:
+    - >-
+      The regional labour court.
+    - >-
+      The Administrative Affairs Court.
+    - >-
+      The High Court of Justice only.
+    - >-
+      The Minister of Welfare.
+  correct: 1
+  explanation: >-
+    Welfare Services Law s. 2: a final decision of the appeals committee may be appealed to the
+    Administrative Affairs Court.
+- id: m17-059
+  module: 17
+  lesson: "17.8"
+  subject: income-support
+  difficulty: 2
+  question: >-
+    Under s. 9, which asset is NOT treated as an asset producing notional income for income support?
+  options:
+    - >-
+      A second apartment let to tenants.
+    - >-
+      Savings far above the disregarded amount.
+    - >-
+      The apartment the claimant lives in.
+    - >-
+      Shares in a company listed on the exchange.
+  correct: 2
+  explanation: >-
+    The definition of "asset" in s. 9 excludes the home used for the claimant's own residence, and
+    cash up to a multiple of the basic amount is disregarded.
+- id: m17-060
+  module: 17
+  lesson: "17.9"
+  subject: nii-procedure
+  difficulty: 1
+  question: >-
+    How long do you have to appeal a medical appeals committee's decision to the labour court?
+  options:
+    - >-
+      Thirty days.
+    - >-
+      Ninety days.
+    - >-
+      Twelve months.
+    - >-
+      Sixty days.
+  correct: 3
+  explanation: >-
+    Appeal Time Regulations reg. 2: 60 days from the day the decision was delivered, on a point of
+    law only.
+- id: m17-061
+  module: 17
+  lesson: "17.9"
+  subject: nii-procedure
+  difficulty: 2
+  question: >-
+    You claimed a benefit 20 days ago and the NII has not decided. Can you sue in the labour court
+    now?
+  options:
+    - >-
+      No: only after 30 days, unless the NII decided.
+    - >-
+      Yes, any delay at all allows an immediate claim.
+    - >-
+      No, you must wait a full 12 months first.
+    - >-
+      Yes, but only if Legal Aid represents you.
+  correct: 0
+  explanation: >-
+    Time for Claims Regulations reg. 1(א): a claim against the NII may be filed no earlier than 30
+    days after the claim to the NII, unless the NII decided earlier.
+- id: m17-062
+  module: 17
+  lesson: "17.9"
+  subject: nii-procedure
+  difficulty: 3
+  question: >-
+    Spot the mistake in this appeal to the labour court from a medical appeals committee: "The
+    committee gave my back 10%; my orthopaedist's new report, attached, shows it deserves 20%." What
+    is wrong?
+  options:
+    - >-
+      Nothing; new medical evidence is the main ground of appeal.
+    - >-
+      It should be filed with the NII branch, not the court.
+    - >-
+      It argues the percentage with new evidence instead of a point of law.
+    - >-
+      It is late, because such appeals are due within 30 days.
+  correct: 2
+  explanation: >-
+    Appeals to the labour court are on law only (ss. 123, 213). A new report and a different
+    percentage belong to re-assessment, not to an appeal on law.
+- id: m17-063
+  module: 17
+  lesson: "17.9"
+  subject: representation
+  difficulty: 1
+  question: >-
+    Who may represent you before the medical appeals committee in a general disability case under
+    reg. 22?
+  options:
+    - >-
+      Only a licensed lawyer.
+    - >-
+      Your treating doctor.
+    - >-
+      Any family member.
+    - >-
+      Only an NII employee.
+  correct: 1
+  explanation: >-
+    Disability Regulations reg. 22: the appellant may be represented before the medical appeals
+    committee by the treating doctor or a specialist.
+- id: m17-064
+  module: 17
+  lesson: "17.9"
+  subject: labour-court-procedure
+  difficulty: 2
+  question: >-
+    You were sued by your former employer in the labour court. How long do you usually have to file
+    a defence?
+  options:
+    - >-
+      Fifteen days from service.
+    - >-
+      Sixty days from service.
+    - >-
+      Until the first hearing.
+    - >-
+      Thirty days from service.
+  correct: 3
+  explanation: >-
+    Labour Court Procedure Regulations reg. 28: within 30 days from service; the court may extend or
+    shorten.
+- id: m17-065
+  module: 17
+  lesson: "17.10"
+  subject: final-settlement
+  difficulty: 2
+  question: >-
+    In a five-day week with a monthly wage of ₪8,666, what is a reasonable daily wage for redeeming
+    unused leave?
+  options:
+    - >-
+      About ₪400 (₪8,666 ÷ 21.67).
+    - >-
+      About ₪289 (₪8,666 ÷ 30).
+    - >-
+      About ₪347 (₪8,666 ÷ 25).
+    - >-
+      About ₪722 (₪8,666 ÷ 12).
+  correct: 0
+  explanation: >-
+    In a five-day week a month has on average 21.67 working days; leave is paid at the regular wage
+    for the days that would have been worked (Annual Leave Law s. 10).
+- id: m17-066
+  module: 17
+  lesson: "17.10"
+  subject: final-settlement
+  difficulty: 3
+  question: >-
+    Which forum and remedy fit best? A former employee is owed ₪12,000 in unpaid overtime and leave
+    redemption; the employer is solvent and refuses to answer letters.
+  options:
+    - >-
+      Small claims court, for a quick hearing without any lawyers.
+    - >-
+      A complaint to the Ministry of Labour, which collects wages for workers.
+    - >-
+      An expedited labour-court hearing; wage heads are fee-free.
+    - >-
+      An execution file at the Execution Office opened straight away.
+  correct: 2
+  explanation: >-
+    Wage disputes belong exclusively to the labour court; a claim below the ceiling is heard in an
+    expedited hearing, and Wage Protection Law heads are fee-free. Execution needs a judgment first.
+- id: m17-067
+  module: 17
+  lesson: "17.10"
+  subject: final-settlement
+  difficulty: 2
+  question: >-
+    What should you request from the employer, besides money, when employment ends with a s. 14
+    pension arrangement?
+  options:
+    - >-
+      A personal letter of recommendation.
+    - >-
+      A fund release letter and form 161.
+    - >-
+      The employer's own annual tax returns.
+    - >-
+      Copies of colleagues' payslips for comparison.
+  correct: 1
+  explanation: >-
+    The release letter lets the fund pay the severance component to you; form 161 reports retirement
+    payments to the tax authority.
+- id: m17-068
+  module: 17
+  lesson: "17.11"
+  subject: medical-appeal
+  difficulty: 2
+  question: >-
+    You missed the 30-day deadline for appealing a medical decision by a week. What can you do?
+  options:
+    - >-
+      Ask the NII to consent within a further 30 days.
+    - >-
+      Nothing; the decision is final for every purpose.
+    - >-
+      Appeal directly to the labour court on the findings.
+    - >-
+      File a new claim at once with the same documents.
+  correct: 0
+  explanation: >-
+    Disability Regulations reg. 20(ב): a late appeal is possible within a further 30 days with the
+    NII's consent.
+- id: m17-069
+  module: 17
+  lesson: "17.11"
+  subject: medical-appeal
+  difficulty: 3
+  question: >-
+    Which forum and remedy fit best? A medical appeals committee lowered a claimant's degree from
+    40% to 30% without examining her and without explaining why it departed from the first
+    committee.
+  options:
+    - >-
+      A new claim to the NII for re-assessment, the only possible route.
+    - >-
+      A petition to the High Court of Justice against the NII.
+    - >-
+      A complaint to the Ombudsman about the committee's conduct.
+    - >-
+      An appeal on law to the labour court within 60 days, seeking remand.
+  correct: 3
+  explanation: >-
+    Failing to examine and to explain a departure are points of law. The appeal goes to the regional
+    labour court within 60 days, usually asking for remand to a different panel.
+- id: m17-070
+  module: 17
+  lesson: "17.11"
+  subject: legal-aid
+  difficulty: 1
+  question: >-
+    Is Legal Aid for an NII appeal in the labour court subject to a means test?
+  options:
+    - >-
+      Yes, like all other Legal Aid services.
+    - >-
+      No, s. 397 removes the means test.
+    - >-
+      Only for claimants over the age of 67.
+    - >-
+      Only for work-injury cases, not others.
+  correct: 1
+  explanation: >-
+    Section 397: Legal Aid is given to any individual in NII proceedings in the labour court without
+    the usual means test, and NII decisions must say so.

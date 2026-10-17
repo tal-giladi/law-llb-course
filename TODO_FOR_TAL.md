@@ -17,3 +17,4 @@
 - Module 16: nine corporate rulings cited from a secondary summary (Fiegenbaum & Licht 2017); Prat v. Dadon case number incomplete; check multi-founder online company registration.
 - Module 15: about 14 civil-procedure rulings sourced from Hebrew Wikipedia only (incl. רע"א 1954/24); 2026 appeal fees from Wikisource notes.
 - Module 18: many family-law rulings sourced from Wikipedia or Knesset documents (incl. בע"מ 919/15, Brill 7368/22); review module 18 for neutrality.
+- Module 17: expedited labour-hearing ceiling conflicts (₪40,700 Kol-Zchut vs ₪39,500 court fee table); NII appeal period 30 vs 90 days; pension-order rates from secondary sources.

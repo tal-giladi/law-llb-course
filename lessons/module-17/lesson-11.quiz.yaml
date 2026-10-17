@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    An authorised doctor set your medical disability at 35%. You received the decision on 1 March and
+    were abroad until 25 March. When must your appeal to the medical appeals committee be filed?
+  options:
+    - >-
+      Within 60 days of 1 March, the period for appealing NII decisions.
+    - >-
+      Within 30 days of 1 March; later only with NII consent, within 30 more days.
+    - >-
+      Within 30 days of 25 March, because the period starts when you return home.
+    - >-
+      Within 12 months of 1 March, the general deadline for NII claims.
+  correct: 1
+  explanation: >-
+    Regulation 20 sets 30 days from notice of the decision; a late appeal is possible within a further
+    30 days only with the NII's consent.
+- id: q2
+  question: >-
+    Which ground is a point of law suitable for an appeal from a medical appeals committee to the labour
+    court?
+  options:
+    - >-
+      The committee gave 20% for the knee, but your orthopaedist thinks 30% is more accurate.
+    - >-
+      The committee's three doctors examined you for only fifteen minutes in total.
+    - >-
+      The committee did not address your psychiatric impairment, though you raised it with documents.
+    - >-
+      The committee was more strict than the committee your neighbour faced last year.
+  correct: 2
+  explanation: >-
+    Failing to address a ground and documents put before it is a legal defect. A different view of the
+    percentage is a medical question the court will not decide.
+- id: q3
+  question: >-
+    Your mother asks you to help with her disability appeal. You are not a lawyer. What is the right
+    way to help?
+  options:
+    - >-
+      Help her prepare it; she signs and files it in her own name.
+    - >-
+      Sign and file the appeal in your own name as her representative.
+    - >-
+      Charge a small fee so that your help is formally recognised.
+    - >-
+      Refuse, because only a lawyer may help with an NII appeal.
+  correct: 0
+  explanation: >-
+    Free help to a relative is lawful; she remains the appellant and signs. A representative may not
+    sign the claim, and paid representation of others as an occupation is reserved to lawyers.
+- id: q4
+  question: >-
+    After the medical appeals committee, your medical degree is 44%, including one impairment of 30%.
+    What happens next in a general disability claim?
+  options:
+    - >-
+      The pension is paid automatically at the full rate from the claim date.
+    - >-
+      The claim fails, because the medical threshold is always 60%.
+    - >-
+      You must file a new claim after waiting six months.
+    - >-
+      The claims officer decides earning incapacity, appealable within 30 days.
+  correct: 3
+  explanation: >-
+    With one impairment of 25% or more the medical threshold is 40% (s. 208). The claims officer then
+    decides earning incapacity (s. 209), which can be appealed to an appeals committee (reg. 27).

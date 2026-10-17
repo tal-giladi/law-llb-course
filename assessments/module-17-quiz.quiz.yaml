@@ -1,0 +1,172 @@
+- id: q1
+  question: >-
+    A hospital's cleaners are employed by a cleaning contractor. Six of them have worked there for two
+    years. The contractor stopped paying recuperation pay and is close to collapse. What protects the
+    cleaners best?
+  options:
+    - >-
+      Suing the hospital at once, because it is automatically their employer after nine months.
+    - >-
+      A written demand to the contractor with notice to the hospital, then 30 days without payment.
+    - >-
+      A complaint to the Ombudsman, since the hospital is a public body.
+    - >-
+      Nothing, because a client of a service contractor is never liable for wages.
+  correct: 1
+  explanation: >-
+    Service contractors are not manpower agencies, so the nine-month rule does not apply. Under the
+    Enforcement of Labour Laws Law s. 25 the client becomes liable after written notice and 30 days.
+- id: q2
+  question: >-
+    A café pays a 24-year-old waiter a basic hourly wage below the minimum and says tips "make up the
+    rest". The tips never appear on the payslip. What is the strongest argument for the waiter?
+  options:
+    - >-
+      Tips can never be part of wages, so the café must pay the full minimum on top of them.
+    - >-
+      Tips count towards the minimum whenever the waiter's total income exceeds it.
+    - >-
+      Only the Ministry of Labour can decide how tips are treated, so no claim is possible.
+    - >-
+      Tips may count as wages only if recorded as wages on the payslip; here they were not.
+  correct: 3
+  explanation: >-
+    Under the 2018 tips ruling, tips in restaurants are income used to pay service staff wages and count
+    as wages only when properly recorded; unrecorded tips cannot cover a shortfall in the payslip wage.
+- id: q3
+  question: >-
+    Shlomo, 3 years' seniority, monthly paid, receives a dismissal letter effective immediately with no
+    hearing. What does he have a claim for, apart from severance?
+  options:
+    - >-
+      A month's pay in lieu of notice and compensation for the lack of a hearing.
+    - >-
+      Reinstatement as of right, because any dismissal without a hearing is void.
+    - >-
+      Only the pay in lieu of notice, since private employers owe no hearing.
+    - >-
+      Double severance, which replaces notice and hearing claims.
+  correct: 0
+  explanation: >-
+    After the first year a monthly-paid employee is owed a month's notice or pay in lieu (ss. 3, 7). The
+    labour courts require a fair hearing even in the private sector; the usual remedy is compensation.
+- id: q4
+  question: >-
+    Rina resigned after her employer moved her, without consent, to a night shift with a 20% pay cut.
+    She complained in writing and waited a month with no change. Is she entitled to severance?
+  options:
+    - >-
+      No, because an employee who resigns is never entitled to severance pay.
+    - >-
+      Only if the employer agrees in writing that her resignation is a dismissal.
+    - >-
+      Yes: after a warned, material deterioration it counts as dismissal.
+    - >-
+      Only if she proves that the employer intended to make her resign.
+  correct: 2
+  explanation: >-
+    Severance Pay Law s. 11(א) treats a resignation caused by a material deterioration in conditions as
+    dismissal; Rina also gave the employer a warning and time to fix it, as the courts require.
+- id: q5
+  question: >-
+    An employer tells a candidate in a job interview that "we prefer someone who has finished reserve
+    duty". The candidate, a reservist, meets all stated requirements and is not hired. What follows?
+  options:
+    - >-
+      Nothing, because reserve service is a lawful business consideration for any employer.
+    - >-
+      The burden of proof shifts to the employer, since reserve duty is a protected ground.
+    - >-
+      Only the IDF may complain, since the matter concerns military service.
+    - >-
+      The candidate must prove the employer's intent beyond reasonable doubt.
+  correct: 1
+  explanation: >-
+    The EEO Law lists reserve service among protected grounds (s. 2(א)). A candidate who met the stated
+    conditions shifts the burden to the employer (s. 9), and the remark itself is evidence.
+- id: q6
+  question: >-
+    Workers at a bank branch network sign up with a union. Management holds staff meetings explaining
+    why "a union is bad for everyone". The union has not yet reached a third of the employees. What rule applies?
+  options:
+    - >-
+      Management may speak freely until the union becomes representative.
+    - >-
+      Management may speak only if it also invites a union speaker to reply.
+    - >-
+      Management may not campaign against initial organising (Pelephone).
+    - >-
+      The meetings are lawful but must be held outside normal working hours.
+  correct: 2
+  explanation: >-
+    The National Labour Court held in Pelephone (2013) that during initial organising an employer may
+    not express itself against the organising, directly or indirectly.
+- id: q7
+  question: >-
+    Dvir was injured at work four months ago and returned to work after five weeks. His employer told
+    him "National Insurance is not relevant for short injuries". What should he do?
+  options:
+    - >-
+      Claim a work-injury allowance now; the claim is well within 12 months of the event.
+    - >-
+      Nothing, because injury allowance is paid only after 13 weeks of incapacity.
+    - >-
+      Sue the employer in tort, which is the only remedy for short injuries.
+    - >-
+      Ask the employer to pay sick pay instead, which replaces National Insurance.
+  correct: 0
+  explanation: >-
+    Injury allowance is paid for up to 13 weeks of incapacity (s. 92); claims are filed within 12 months
+    (s. 296). The employer's view does not affect the NII's duty to decide.
+- id: q8
+  question: >-
+    A single father of two, aged 30, works part time and earns little. He owns an inexpensive car he
+    uses to take his daughter to dialysis three times a week. The NII refused income support "because
+    of the car". What is his best argument?
+  options:
+    - >-
+      Car ownership is irrelevant to income support after the Hassan ruling.
+    - >-
+      Income support cannot be refused to any parent of young children.
+    - >-
+      He should petition the High Court of Justice directly against the NII.
+    - >-
+      The car falls within the medical-treatment exception in s. 9א, so it cannot bar him.
+  correct: 3
+  explanation: >-
+    After Hassan the Law uses value and use limits, with exceptions for regular medical treatment. A car
+    needed for a family member's planned treatment is exempt; disputes go to the labour court.
+- id: q9
+  question: >-
+    The NII rejected Ronit's claim for maternity pay, saying she lacked the qualifying period. She
+    believes some months were not reported by her employer. The letter arrived three months ago. Which route?
+  options:
+    - >-
+      An appeal to a medical appeals committee within 30 days of the letter.
+    - >-
+      Prove the months to the NII; if refused, sue it within 12 months.
+    - >-
+      An appeal on a point of law to the National Labour Court within 60 days.
+    - >-
+      A request to the Ombudsman, which can order the NII to pay her.
+  correct: 1
+  explanation: >-
+    A non-medical decision is challenged by a claim in the regional labour court within 12 months of
+    notice; correcting the employer's reports with payslips may settle it first.
+- id: q10
+  question: >-
+    A medical appeals committee confirmed 30% work disability. Avi's lawyer friend says the committee
+    simply "got it wrong" on his shoulder. Avi has 50 days left. What should Avi do?
+  options:
+    - >-
+      Appeal to the labour court arguing the shoulder deserves a higher percentage.
+    - >-
+      Ask the NII to reopen the case, which stops the 60-day period running.
+    - >-
+      Find a legal defect, such as an ignored document, and appeal on it.
+    - >-
+      Wait six months and file a new claim, since appeals on percentages are pointless.
+  correct: 2
+  explanation: >-
+    Appeals from medical appeals committees are on points of law only (s. 123), within 60 days. Only a
+    legal defect, not a different percentage, will succeed; worsening later can be raised by re-assessment.

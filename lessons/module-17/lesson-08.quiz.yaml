@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Eli, 23, unemployed and living alone, applies for income support. He has lived in Israel all his
+    life and is registered with the Employment Service. What is the main obstacle?
+  options:
+    - >-
+      None, since registration with the Employment Service suffices at any adult age.
+    - >-
+      He must first exhaust a full year of unemployment benefit from the NII.
+    - >-
+      The age condition is 25; he qualifies only under a listed exception.
+    - >-
+      Income support is paid only to parents who are raising young children.
+  correct: 2
+  explanation: >-
+    Section 2(א) applies to residents aged 25 or over; younger people qualify only under listed groups
+    or rules for ages 20 to 25.
+- id: q2
+  question: >-
+    What did the Supreme Court decide in Hassan (HCJ 10662/04) about the old rule that a car owner was
+    deemed to have income equal to the benefit?
+  options:
+    - >-
+      Void: the blanket presumption disproportionately harmed dignity.
+    - >-
+      Valid, because the State may design social benefits as it sees fit.
+    - >-
+      Valid for costly cars and void for cars worth less than the benefit.
+    - >-
+      Sent back to the National Labour Court with no ruling on validity.
+  correct: 0
+  explanation: >-
+    The Court struck down the absolute presumption as a disproportionate infringement of dignity, since
+    an individual assessment was possible. The Knesset later adopted value-based limits.
+- id: q3
+  question: >-
+    The NII cuts your income support because of "undisclosed income". You disagree. Where is the dispute
+    decided if the NII will not change its mind?
+  options:
+    - >-
+      The Administrative Affairs Court, because the NII is a public authority.
+    - >-
+      The regional labour court, which has exclusive jurisdiction (s. 26).
+    - >-
+      The magistrates' court in your city, as an ordinary money claim against the State.
+    - >-
+      The welfare appeals committee that serves your own municipality.
+  correct: 1
+  explanation: >-
+    Section 26 gives the regional labour court exclusive jurisdiction over claims under the Income
+    Support Law, and such proceedings are exempt from court fees.
+- id: q4
+  question: >-
+    You asked your municipality's social services department for home help for your disabled mother.
+    Two months later you have had only phone calls and no decision. What is your best next step?
+  options:
+    - >-
+      Wait, because the department has no deadline and its delay cannot be challenged.
+    - >-
+      Petition the High Court of Justice directly against the municipality.
+    - >-
+      File a claim in the regional labour court against the department.
+    - >-
+      Ask in writing for a decision, then appeal the delay to the committee.
+  correct: 3
+  explanation: >-
+    The Welfare Services Law requires a written decision within a reasonable time, and allows an appeal
+    to the welfare appeals committee both against a decision and against failure to answer.

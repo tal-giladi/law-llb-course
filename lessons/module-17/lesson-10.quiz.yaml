@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your final-settlement table uses your gross pay including overtime and bonuses as the base for
+    severance. What is wrong?
+  options:
+    - >-
+      Nothing; severance is always one month's gross pay as shown on the last payslip.
+    - >-
+      Severance uses basic wage and listed increments, not overtime or bonuses (severance regs reg. 1).
+    - >-
+      Severance must be based on the average of the best three months of employment.
+    - >-
+      Severance uses net pay, because tax has already been deducted from gross pay.
+  correct: 1
+  explanation: >-
+    The Severance Pay Regulations list the components: basic wage, seniority, cost-of-living and family
+    increments. Overtime and bonuses are not part of the severance base.
+- id: q2
+  question: >-
+    An employee worked 4 years; the employer deposited 6% severance into a pension fund for the whole
+    period under a written s. 14 arrangement. What else may the employee claim as severance?
+  options:
+    - >-
+      Nothing, because a s. 14 arrangement always replaces severance in full.
+    - >-
+      The full statutory severance again, because the fund money is a separate pension right.
+    - >-
+      Only the fund money, and the employer may refuse to sign the release letter.
+    - >-
+      A top-up of the part not covered (about 28% at a 6% rate) and the release letter.
+  correct: 3
+  explanation: >-
+    Under the general approval a 6% deposit replaces part of severance (about 72%); the employer owes the
+    rest and must release the fund's money to the employee (⚠️ terms of the 1998 approval to verify).
+- id: q3
+  question: >-
+    You built your table in a spreadsheet with all numbers typed into each line. You then find your
+    last wage was ₪200 higher. What does good practice say?
+  options:
+    - >-
+      Put inputs in their own cells and make each line a formula, so one change updates all.
+    - >-
+      Retype every line by hand, because formulas are not accepted by the labour court.
+    - >-
+      Ignore the change, because ₪200 does not affect severance or notice.
+    - >-
+      Ask the employer to correct the table, since the calculation is its responsibility.
+  correct: 0
+  explanation: >-
+    Separating inputs from formulas prevents errors spreading and lets you correct one input. The court
+    receives the table as an annex; how you built it does not matter, but its accuracy does.
+- id: q4
+  question: >-
+    Your table totals ₪18,000, made up of overtime, leave redemption, notice and a severance top-up. The
+    employer ignores your demand. Which track and fee rule apply in the labour court?
+  options:
+    - >-
+      An ordinary hearing with full fees on every head, since several laws are involved.
+    - >-
+      A small-claims court hearing, because the amount is under the small-claims ceiling.
+    - >-
+      An expedited hearing; wage heads are fee-free and other heads pay a reduced fee.
+    - >-
+      No court at all; the Ministry of Labour must first decide the claim administratively.
+  correct: 2
+  explanation: >-
+    Employee claims below the regulatory ceiling are heard in an expedited hearing (s. 31). Wage
+    Protection and Minimum Wage heads are fee-free; other heads pay half the usual fee (Fees Regulations reg. 6).

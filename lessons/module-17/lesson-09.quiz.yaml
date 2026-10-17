@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A medical appeals committee confirmed your 30% disability but never mentioned the cardiology report
+    you submitted. You received the decision 40 days ago. What can you still do?
+  options:
+    - >-
+      Appeal to the labour court on a point of law: the committee ignored a document.
+    - >-
+      Appeal again to the same committee, since 30 days have not yet passed twice.
+    - >-
+      Nothing, because medical appeals committee decisions are final on every issue.
+    - >-
+      Sue the NII in the magistrates' court for the missing disability percentage.
+  correct: 0
+  explanation: >-
+    Appeals committee decisions can be appealed to the regional labour court on law only, within 60
+    days. Ignoring a submitted medical document is a recognised point of law.
+- id: q2
+  question: >-
+    The NII rejected your unemployment claim because it says you resigned without good reason. The
+    letter arrived five months ago. Which route and deadline apply?
+  options:
+    - >-
+      An appeal to a medical appeals committee within 30 days of the letter.
+    - >-
+      An appeal on a point of law to the National Labour Court within 60 days.
+    - >-
+      A claim against the NII in the regional labour court within 12 months of the letter.
+    - >-
+      A complaint to the Ombudsman, which is the only route for unemployment cases.
+  correct: 2
+  explanation: >-
+    Non-medical decisions go straight to the regional labour court as a claim against the NII, within
+    12 months of receiving notice of the decision (Time for Claims Regulations reg. 1(ב)).
+- id: q3
+  question: >-
+    Your adult son, not a lawyer, wants to represent you in your NII claim and attend meetings with the
+    claims officer. Is that allowed?
+  options:
+    - >-
+      No, because only a lawyer may represent another person before any public body.
+    - >-
+      Yes, without limits, including signing and settling the claim for you.
+    - >-
+      No, because family members are excluded from representation by s. 20.
+    - >-
+      Yes, as a close friend with your authorisation, but he cannot sign the claim.
+  correct: 3
+  explanation: >-
+    Section 386 of the NII Law lists a "close friend" among those who may represent you; the regulations
+    require a special authorisation and bar the representative from signing, waiving or settling the claim.
+- id: q4
+  question: >-
+    An employee sues her former employer for ₪25,000 in unpaid wages and wins at an expedited hearing.
+    The employer wants to appeal. What does the Labour Court Law say?
+  options:
+    - >-
+      The employer may appeal as of right within 30 days to the National Labour Court.
+    - >-
+      Appeal is possible only with leave from the National Labour Court.
+    - >-
+      No appeal at all is possible from an expedited hearing.
+    - >-
+      The employer must appeal to the district court, as in small claims.
+  correct: 1
+  explanation: >-
+    Section 31(ד): a regional court judgment given in an expedited hearing may be appealed only with
+    leave of the President or Deputy President of the National Labour Court or a judge appointed by them.

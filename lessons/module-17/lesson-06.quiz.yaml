@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A collective agreement at your factory expired last year and no new one was signed. Your wage
+    increments came from that agreement. What happens to them?
+  options:
+    - >-
+      They lapse with the agreement, so the employer may pay only the minimum wage.
+    - >-
+      They continue as part of your contract until lawfully changed or cancelled (s. 19).
+    - >-
+      They continue only for union members who paid dues during the last year.
+    - >-
+      They continue only if the Minister issues an extension order for the factory.
+  correct: 1
+  explanation: >-
+    Personal provisions take effect as part of each covered employee's contract and remain in force
+    after the agreement expires, until changed or cancelled lawfully.
+- id: q2
+  question: >-
+    At a call centre with 300 employees, 90 have joined a union and no other union is active. Can the
+    union be the representative organisation for a special collective agreement?
+  options:
+    - >-
+      Yes, because it is the only union and has the largest number of members.
+    - >-
+      Yes, as soon as the employer agrees to recognise it in writing.
+    - >-
+      Not yet, because it needs at least a third of the covered employees, here 100.
+    - >-
+      No, because a representative union needs a majority of all employees.
+  correct: 2
+  explanation: >-
+    Section 3 requires the largest organised group and at least one third of the employees the
+    agreement will cover. Ninety of 300 is below a third.
+- id: q3
+  question: >-
+    A public-sector union strikes for two weeks against a government decision to privatise a service,
+    without showing a clear and immediate harm to its members' terms. How would HCJ 1074/93 classify it?
+  options:
+    - >-
+      At most quasi-political, so only a short protest strike is justified.
+    - >-
+      Economic and fully protected, because privatisation always affects employees.
+    - >-
+      Political but protected, because the State is also the employer.
+    - >-
+      Outside the labour courts' jurisdiction, because it concerns government policy.
+  correct: 0
+  explanation: >-
+    The Court classified strikes against government policy that do not clearly and immediately affect
+    terms as political or at most quasi-political; a quasi-political strike justifies only a short protest.
+- id: q4
+  question: >-
+    During initial organising, a manager emails employees that "a union will destroy the friendly
+    atmosphere here". What rule did the National Labour Court set in the Pelephone ruling?
+  options:
+    - >-
+      Employers may express any opinion as long as they make no threats or promises.
+    - >-
+      Employers may speak against a union only after it becomes representative.
+    - >-
+      Employers may speak only through their own employers' organisation, not directly.
+    - >-
+      Employers may not express themselves against initial organising, directly or indirectly.
+  correct: 3
+  explanation: >-
+    The Pelephone ruling (2013) held that during initial organising an employer may not express itself
+    against the organising at all; the Supreme Court declined to intervene.

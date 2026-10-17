@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    At a job interview you are asked whether you plan to have children soon. You meet every stated
+    requirement but are not hired. How does the EEO Law help you prove discrimination?
+  options:
+    - >-
+      It does not; you must prove that the question was the only reason why you were refused.
+    - >-
+      The burden shifts to the employer: you met the conditions and faced a prohibited question.
+    - >-
+      The employer must hire you, because asking about children is an automatic admission.
+    - >-
+      Only the Commission may sue in such a case, so your own claim in court is barred.
+  correct: 1
+  explanation: >-
+    Section 9 moves the burden to the employer if the candidate met the stated conditions, and also
+    where the employer asked for information on a prohibited ground such as parenthood.
+- id: q2
+  question: >-
+    A team leader once tells a junior employee, whom he supervises, that he would like to take her on a
+    romantic date. She had shown no reaction before. Is this sexual harassment under the Law?
+  options:
+    - >-
+      No, because a single proposal is harassment only after the person showed lack of interest.
+    - >-
+      No, because harassment requires physical contact or an explicit threat.
+    - >-
+      Yes, because a proposal made by abusing a relationship of authority at work needs no prior refusal.
+    - >-
+      Yes, but only if the company has more than 25 employees and a published code.
+  correct: 2
+  explanation: >-
+    Section 3(א)(6) covers proposals or remarks to an employee made by abusing authority at work, even
+    if she did not first show lack of interest.
+- id: q3
+  question: >-
+    An employee complained in writing of harassment by a manager. The company, with 40 employees, never
+    appointed anyone to handle complaints and did nothing. What is the company's position?
+  options:
+    - >-
+      It is liable as well, because it failed its duties under s. 7 to set a channel and act.
+    - >-
+      It is not liable, because only the harasser personally committed the wrong.
+    - >-
+      It is liable only if the manager is convicted in a criminal case first.
+    - >-
+      It is not liable, because harassment claims may be brought only against individuals.
+  correct: 0
+  explanation: >-
+    Section 7(ג) makes an employer that failed its duties to prevent, provide a complaint channel and
+    handle complaints liable for harassment by its employee or manager in the employment context.
+- id: q4
+  question: >-
+    A pilot is told he cannot fly after 65 because the regulator forbids it for safety reasons. A
+    younger colleague with the same record keeps flying. Which provision is the employer's best defence?
+  options:
+    - >-
+      Section 9, because the burden of proof never shifts to the employer in age cases.
+    - >-
+      Section 10, because compensation is available only for proven financial loss.
+    - >-
+      Section 3 of the Sexual Harassment Law, because age is a personal characteristic.
+    - >-
+      Section 2(ד): treatment required by the nature of the job is not discrimination.
+  correct: 3
+  explanation: >-
+    Distinctions required by the nature of the position are not discrimination (s. 2(ד)). The employer
+    must still show the requirement is real and binding, here a regulatory safety rule.

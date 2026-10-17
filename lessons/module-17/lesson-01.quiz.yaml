@@ -1,0 +1,72 @@
+- id: q1
+  question: >-
+    Dana signed a "freelance services agreement" with a dental clinic and invoices it monthly as a sole
+    trader. She works fixed shifts as the clinic's receptionist, uses its computer and has no other
+    clients. Which conclusion best fits the labour courts' approach?
+  options:
+    - >-
+      She is a contractor, because she freely chose the agreement and registered herself as a sole trader.
+    - >-
+      She is probably an employee: her work is part of the clinic's regular activity and she has no business.
+    - >-
+      She is an employee only if the clinic deducted income tax and National Insurance from her payments.
+    - >-
+      Her status depends only on whether the clinic controls the way she does her work at the front desk.
+  correct: 1
+  explanation: >-
+    The integration test looks at whether the work is part of the business (positive side) and whether
+    the worker runs her own business (negative side). The label and tax registration weigh little
+    against the facts.
+- id: q2
+  question: >-
+    Avi has worked 11 months at a logistics company through a manpower agency, without a ministerial
+    extension. The agency stops paying him. Against whom is his strongest wage claim for the last months?
+  options:
+    - >-
+      Only the agency, because the agency signed his contract and issued his payslips.
+    - >-
+      Only the National Insurance Institute, which guarantees wages when an agency fails.
+    - >-
+      The logistics company, which is deemed his employer after nine consecutive months there.
+    - >-
+      Nobody, because manpower workers are excluded from the Wage Protection Law.
+  correct: 2
+  explanation: >-
+    Under s. 12א of the Manpower Agencies Law a worker placed with the same user for more than nine
+    consecutive months is deemed the user's employee from the end of the nine months, with seniority
+    carried over.
+- id: q3
+  question: >-
+    Under the Kota ruling (2021), a worker paid ₪14,000 a month as a contractor is found to have been
+    an employee whose full employee cost would have been ₪12,500. What follows for pecuniary rights?
+  options:
+    - >-
+      The worker must repay the ₪1,500 monthly difference to the employer.
+    - >-
+      The worker receives all social rights in full on top of the ₪14,000 paid.
+    - >-
+      The court splits the difference equally between the parties.
+    - >-
+      The worker receives no pecuniary difference but repays nothing either.
+  correct: 3
+  explanation: >-
+    Kota compares the employer's cost of a salaried employee with the fee actually paid. If the fee was
+    higher, there is no pecuniary award, and the majority held that the worker never repays the employer.
+- id: q4
+  question: >-
+    Five cleaners employed by a contractor have cleaned a college for a year. The contractor has not
+    paid recuperation pay. What step creates liability for the college under the Enforcement of Labour
+    Laws Law s. 25?
+  options:
+    - >-
+      A written demand to the contractor, notice to the college, then 30 days without payment.
+    - >-
+      A complaint to the police about the contractor's failure to pay the workers' wages.
+    - >-
+      A claim filed against the college alone, in the magistrates' court where it is located.
+    - >-
+      A verbal complaint by the workers to the college's cleaning supervisor, made in person.
+  correct: 0
+  explanation: >-
+    The client's liability needs at least four workers, at least six months of regular service, and a
+    written demand to the contractor with written notice to the client, followed by 30 days without payment.

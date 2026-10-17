@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A monthly-paid employee with 9 months' seniority is dismissed. How much prior notice is due under
+    the Prior Notice Law?
+  options:
+    - >-
+      Nine days, one day for each month of work.
+    - >-
+      One full month, because the employee is monthly paid.
+    - >-
+      13.5 days: six days plus 2.5 days for each of months 7 to 9.
+    - >-
+      No notice, because severance is not yet due in the first year.
+  correct: 2
+  explanation: >-
+    Section 3(2): from the seventh month to the end of the first year, notice is six days plus two and a
+    half days for each month in that period, here months 7, 8 and 9.
+- id: q2
+  question: >-
+    Your employer cut your wage by 25% without consent. You want to resign and still receive severance.
+    What should you do first?
+  options:
+    - >-
+      Resign immediately, since any unilateral wage cut automatically counts as a dismissal.
+    - >-
+      Warn in writing, allow time to restore the wage, then resign citing s. 11.
+    - >-
+      Stop coming to work until the employer restores the full wage.
+    - >-
+      File a police complaint, since cutting wages is always a criminal offence.
+  correct: 1
+  explanation: >-
+    A material deterioration can make a resignation count as dismissal (s. 11(א)), but the courts
+    usually require a prior warning and a chance to fix the problem.
+- id: q3
+  question: >-
+    On your last day the employer asks you to sign "I received all my rights and have no claims". You
+    received the last wage only. What is the legal effect on severance?
+  options:
+    - >-
+      No effect on severance unless it expressly mentions severance pay (s. 29).
+    - >-
+      It bars every claim, including severance, once it was signed voluntarily.
+    - >-
+      It bars severance only if a lawyer witnessed the employee sign it.
+    - >-
+      It is void entirely, because waivers in employment are always unlawful.
+  correct: 0
+  explanation: >-
+    Section 29 of the Severance Pay Law gives a settlement or waiver about severance effect only if it
+    is in writing and says expressly that it concerns severance pay; courts also read waivers narrowly.
+- id: q4
+  question: >-
+    An employer wants to dismiss an employee who is five months pregnant and has worked there for two
+    years, saying business is slow. What does the law require?
+  options:
+    - >-
+      Only a proper hearing and the usual prior notice under the Law.
+    - >-
+      Written notice to the employee's health fund and to National Insurance.
+    - >-
+      Nothing special, as long as the economic reason is documented.
+    - >-
+      A ministerial permit, refused if the dismissal is linked to the pregnancy.
+  correct: 3
+  explanation: >-
+    Women's Employment Law s. 9(א): a pregnant employee with six months' seniority may be dismissed only
+    with a permit from the Minister, which is refused if the dismissal is connected to the pregnancy.
