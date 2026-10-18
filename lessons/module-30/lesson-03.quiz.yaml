@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Amir bought headphones for himself from a US website. The seller argues the CISG governs and that
+    Amir lost his claim by not giving notice of the defect fast enough. What is the best answer?
+  options:
+    - >-
+      The CISG applies, but the two-year outer limit has not passed.
+    - >-
+      The CISG does not apply to goods bought for personal use.
+    - >-
+      The CISG applies only if both the US and Israel ratified it after 2002.
+    - >-
+      The CISG applies, but art. 39 notice is never required from consumers.
+  correct: 1
+  explanation: >-
+    Art. 2(1) excludes goods bought for personal, family or household use, unless the seller neither
+    knew nor should have known of that purpose. Israeli consumer and sale law governs instead.
+- id: q2
+  question: >-
+    An Israeli importer's contract with a supplier in a State that is not a party to the CISG says
+    nothing about the applicable law. An Israeli court finds Israeli law applies. Does the CISG govern?
+  options:
+    - >-
+      No, because the CISG needs both States to be parties.
+    - >-
+      No, because the CISG applies only where the contract expressly adopts it.
+    - >-
+      Yes, because Israeli law extends the CISG to parties in non-party States.
+    - >-
+      Yes, but only for questions of the contract's validity.
+  correct: 2
+  explanation: >-
+    Section 3 of the Israeli law applies the Convention also where a party's place of business is in a
+    non-party State; and the CISG does not cover validity (art. 4).
+- id: q3
+  question: >-
+    Two Israelis from Kiryat Gat rent a car together in Greece; one crashes it and the passenger is hurt.
+    Back in Israel she sues the driver. What is the starting point for the applicable law?
+  options:
+    - >-
+      Israeli law, because both parties are Israeli and the case is heard in Israel.
+    - >-
+      Greek law, but only if the claim is also actionable under Israeli law.
+    - >-
+      Whichever law gives the higher compensation, to protect the injured party.
+    - >-
+      Greek law as the law of the place of the tort, unless the narrow exception applies.
+  correct: 3
+  explanation: >-
+    Yinon adopted the law of the place of the tort, abandoning double actionability, with a narrow
+    exception where justice requires; the shared Israeli connection is an argument for the exception.
+- id: q4
+  question: >-
+    A consumer wants to escape a foreign-law clause in an app's standard terms. According to Ben Hamo,
+    what must he show for the clause to be presumed depriving?
+  options:
+    - >-
+      That the foreign law bars a specific claim of his.
+    - >-
+      That he did not read the terms before clicking "I agree".
+    - >-
+      That Israeli law gives consumers wider protection in general.
+    - >-
+      That the company chose its own home State's law.
+  correct: 0
+  explanation: >-
+    Under s. 4(8) the presumption arises where the term limits the right to raise particular claims; the
+    burden is on the customer, and in Ben Hamo no such evidence was given.

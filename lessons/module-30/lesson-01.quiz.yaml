@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Dana in Ashdod wants to sue a German online shop that sent her a broken espresso machine. She asks
+    you first which country's consumer law applies. Why is that the wrong first question?
+  options:
+    - >-
+      Because consumer law is public law, so only the German regulator can apply it.
+    - >-
+      Because the court that hears the case applies its own choice-of-law rules, so the forum comes first.
+    - >-
+      Because international law, not Israeli law, decides disputes between parties in different States.
+    - >-
+      Because the shop's terms always fix the applicable law, so there is nothing to decide.
+  correct: 1
+  explanation: >-
+    Every State has its own private international law. Only once you know which court will hear the case
+    do you know which choice-of-law rules will pick the applicable law.
+- id: q2
+  question: >-
+    A will was made in Paris by an Israeli resident. His heirs disagree whether a rule about the will's
+    witnesses is a matter of "form" or of "capacity". Under the Succession Law, how is that classified?
+  options:
+    - >-
+      By French concepts, because the will was made in France.
+    - >-
+      By whichever classification makes the will valid, to respect the testator's wishes.
+    - >-
+      By Israeli concepts, and the witnesses' capacity is treated as a matter of form.
+    - >-
+      By the court's discretion, after hearing an expert on comparative law.
+  correct: 2
+  explanation: >-
+    Section 141 gives every term its Israeli meaning, and s. 140(ב) treats the capacity required of
+    the testator or the witnesses as a matter of form.
+- id: q3
+  question: >-
+    An Israeli court must apply the inheritance law of State X. State X's own rules say the estate is
+    governed by the law of State Y, the deceased's nationality. What law does the Israeli court apply?
+  options:
+    - >-
+      State X's internal law, ignoring the referral to State Y.
+    - >-
+      State Y's internal law, accepting the referral.
+    - >-
+      Israeli internal law, since the foreign laws disagree.
+    - >-
+      State Y's law including its own choice-of-law rules.
+  correct: 0
+  explanation: >-
+    Under s. 142 a referral onwards to a third law is ignored and the internal law of the State whose
+    law applies is used; only a referral back to Israeli law is accepted.
+- id: q4
+  question: >-
+    In a contract dispute in the Tel Aviv Magistrates' Court, the contract says English law applies,
+    but neither party submits any evidence of English law. What is the likely result?
+  options:
+    - >-
+      The court must research English law itself and apply it.
+    - >-
+      The claim is dismissed because the applicable law was not proved.
+    - >-
+      The court refers the question to the Ministry of Justice for an opinion.
+    - >-
+      The court in practice decides the case by Israeli law.
+  correct: 3
+  explanation: >-
+    Foreign law is proved by the party relying on it, usually by an expert. If no one proves it, Israeli
+    courts in practice decide by Israeli law, which is why proving foreign law is a strategic choice.

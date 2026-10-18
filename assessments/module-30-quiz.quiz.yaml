@@ -1,0 +1,178 @@
+- id: q1
+  question: >-
+    Sivan in Tiberias wants to sue a Dutch furniture site that took her money and never delivered. She
+    has the order, the tracking page and the site's terms. What should she settle first?
+  options:
+    - >-
+      Whether Dutch or Israeli consumer law gives her more compensation.
+    - >-
+      Whether an Israeli court can hear the case and how the seller will be served.
+    - >-
+      Whether the Hague Judgments Convention applies between the two States.
+    - >-
+      Whether Dutch courts would enforce an Israeli judgment against the seller.
+  correct: 1
+  explanation: >-
+    Jurisdiction comes first, and in Israel it is tied to service: without a reg. 166 ground and an
+    approved method of service abroad, the case cannot proceed. The forum then applies its choice-of-law rules.
+- id: q2
+  question: >-
+    A Swiss company is served in Zurich with an Israeli claim under reg. 166(4)(א). It appoints an Israeli
+    lawyer only to argue that Switzerland is the proper forum. Can the plaintiff now serve it through
+    that lawyer, so that the plea is waived?
+  options:
+    - >-
+      Yes: appointing an Israeli lawyer is consent to Israeli jurisdiction.
+    - >-
+      Yes, but only if the lawyer also files a defence on the merits.
+    - >-
+      No: until 14 days after the decision, such service and waiver are barred.
+    - >-
+      No, because foreign companies can be served only through the Hague Convention.
+  correct: 2
+  explanation: >-
+    Reg. 169 shields a defendant who contests jurisdiction or forum: no service in Israel on him or his
+    lawyer, and no waiver from their acts, until 14 days after the decision (or as the court orders).
+- id: q3
+  question: >-
+    A streaming service's terms send all disputes to the courts of Delaware under Delaware law. An
+    Israeli subscriber sues in Israel for unlawful charges. The service moves to dismiss on the forum
+    clause. What is the likely ruling?
+  options:
+    - >-
+      The motion fails: the forum clause is presumed depriving in a consumer standard contract.
+    - >-
+      The motion succeeds: forum clauses bind consumers who clicked "I agree".
+    - >-
+      The motion succeeds unless the subscriber shows Delaware courts are corrupt.
+    - >-
+      The motion fails, and the court must also apply Israeli law instead of Delaware law.
+  correct: 0
+  explanation: >-
+    Following Ben Hamo, a foreign-court clause in a consumer's standard contract is presumed depriving
+    and was struck; the foreign-law clause, however, survives unless the consumer shows it removes
+    specific claims.
+- id: q4
+  question: >-
+    An Israeli bakery bought a dough mixer from an Italian maker; the contract chose "Israeli law". The
+    bakery discovered a defect in January and complained in September. Which rule could defeat its claim?
+  options:
+    - >-
+      The Consumer Protection Law's 14-day cancellation period for distance sales.
+    - >-
+      The Italian Civil Code, as the seller's home law.
+    - >-
+      None, because a choice of Israeli law excludes international conventions.
+    - >-
+      CISG art. 39: notice of a lack of conformity within a reasonable time.
+  correct: 3
+  explanation: >-
+    The CISG is part of Israeli law for international business sales; a choice of Israeli law includes
+    it unless excluded (art. 6). Late notice under art. 39 can bar reliance on the defect.
+- id: q5
+  question: >-
+    Nadav, from Haifa, was hurt on a jet-ski in Cyprus operated by a Cypriot company. He sues in Israel.
+    Which law will the court start from on liability and damages?
+  options:
+    - >-
+      Israeli law, because the injured party lives in Israel.
+    - >-
+      Cypriot law as the place of the tort, barring the narrow exception.
+    - >-
+      Cypriot law on liability and Israeli law on the amount of damages.
+    - >-
+      Israeli law, unless the company proves that Cypriot law gives him more.
+  correct: 1
+  explanation: >-
+    Yinon adopted the law of the place of the tort with a narrow justice-based exception, and treated
+    heads of damage and caps as substantive, so liability and damages are not split between laws.
+- id: q6
+  question: >-
+    Olga died domiciled in Ashdod. Her will, typed and signed before one witness, was made in 2015 in Riga,
+    where she then lived. Her son says the will fails Israeli form rules. What is the correct test?
+  options:
+    - >-
+      Valid in form if it meets any s. 140 law, such as Latvian law.
+    - >-
+      The will must meet Israeli form rules, the law of her domicile at death.
+    - >-
+      The will must meet both Latvian and Israeli form rules.
+    - >-
+      Form is irrelevant because the Registrar decides only on capacity.
+  correct: 0
+  explanation: >-
+    Section 140(א) validates a will in form under any of several laws, including the place of making and
+    the domicile at the time of making; the son must face proof of Latvian law.
+- id: q7
+  question: >-
+    In 2026 a Moscow creditor applies in Haifa to enforce a 2022 Russian judgment against Boris, who
+    guaranteed a loan while living in Moscow and signed a clause choosing Russian courts. Boris says
+    Russia lacked jurisdiction over him. How strong is that defence?
+  options:
+    - >-
+      Strong: Israel recognises foreign jurisdiction only over its own citizens abroad.
+    - >-
+      Strong: jurisdiction is judged only by Russian law, which Boris can challenge.
+    - >-
+      Weak: residence or consent, even implied, gives a foreign court jurisdiction.
+    - >-
+      Weak: jurisdiction defences are never available once a judgment is final.
+  correct: 2
+  explanation: >-
+    Under s. 6(א)(3) jurisdiction is judged by Israeli rules; VTB v. Margolis applied the "residence or
+    consent" test, and here there was both residence and an express clause.
+- id: q8
+  question: >-
+    Roni gets a letter: a German court judgment against him from 2020 "will be enforced in Israel". It is
+    now October 2026, and there is no special reason for the delay. What is his best position?
+  options:
+    - >-
+      He must pay, since judgments from EU States are enforced automatically.
+    - >-
+      He should file an appeal against the German judgment in an Israeli court.
+    - >-
+      The judgment can still be enforced at any time if it is final in Germany.
+    - >-
+      Check any treaty period, then raise the five-year bar of s. 5.
+  correct: 3
+  explanation: >-
+    Section 5 bars applications more than five years after the judgment, unless a treaty with that State
+    sets another period or there are special reasons; a bilateral arrangement with Germany exists, so
+    check it.
+- id: q9
+  question: >-
+    Lea paid a foreign online shop in one card payment, already debited. Nothing arrived by the promised
+    date. She cancelled with the shop and wrote to her issuer under the Payment Services Law. What should
+    she also ask for?
+  options:
+    - >-
+      A refund under s. 29, since all online purchases are payments without a document.
+    - >-
+      A network chargeback for the debited sum, since s. 17 stops charging from her notice.
+    - >-
+      An order from the Consumer Protection Commissioner freezing the shop's money.
+    - >-
+      Nothing more, since s. 17 obliges the issuer to refund within eight business days.
+  correct: 1
+  explanation: >-
+    Section 17 stops execution and charging from the notice; it does not itself refund an amount already
+    debited, which is handled by the card network's chargeback rules. Section 29 is for charges she did
+    not make.
+- id: q10
+  question: >-
+    Two Jewish Israelis married by Jewish law live in Berlin; the husband lives there, the wife moved back
+    to Israel four months ago. She wants a divorce suit heard in Israel. Which connection gives the
+    rabbinical court jurisdiction?
+  options:
+    - >-
+      None, because the husband is domiciled abroad.
+    - >-
+      Her domicile in Israel, because she has lived here for a year.
+    - >-
+      Both spouses are Israeli citizens (s. 4א(א)(2)).
+    - >-
+      The Family Court, not the rabbinical court, has jurisdiction over couples abroad.
+  correct: 2
+  explanation: >-
+    Section 4א gives the rabbinical court international jurisdiction on any listed connection; joint
+    Israeli citizenship is enough even though she has not yet lived here a year.

@@ -1,0 +1,1365 @@
+- id: m30-001
+  module: 30
+  lesson: "30.1"
+  subject: pil-structure
+  difficulty: 1
+  question: >-
+    Which three questions make up private international law as Israeli courts apply it?
+  options:
+    - >-
+      Jurisdiction, choice of law, and recognition and enforcement of foreign judgments.
+    - >-
+      Treaty interpretation, State immunity and diplomatic protection.
+    - >-
+      Standing, limitation and the burden of proof in cases with foreigners.
+    - >-
+      Extradition, mutual legal assistance and recognition of foreign arrests.
+  correct: 0
+  explanation: >-
+    Private international law asks whether the court may hear the case, which law decides it, and what a
+    foreign judgment is worth here. The other lists belong to public international law or criminal
+    procedure.
+- id: m30-002
+  module: 30
+  lesson: "30.1"
+  subject: pil-sources
+  difficulty: 1
+  question: >-
+    Which Israeli statute contains a full chapter of choice-of-law rules, including characterization and
+    renvoi?
+  options:
+    - >-
+      The Contracts (General Part) Law 1973.
+    - >-
+      The Foreign Judgments Enforcement Law 1958.
+    - >-
+      The Succession Law 1965, chapter 7.
+    - >-
+      The Courts Law, in its jurisdiction chapter.
+  correct: 2
+  explanation: >-
+    Sections 135–144 of the Succession Law set out jurisdiction, choice of law, characterization (s.
+    141), renvoi (s. 142) and public-policy limits (s. 143) for inheritance.
+- id: m30-003
+  module: 30
+  lesson: "30.1"
+  subject: characterization
+  difficulty: 2
+  question: >-
+    In an inheritance case, the parties disagree whether a foreign rule is about "form" or "capacity".
+    By which concepts does the Israeli court classify it?
+  options:
+    - >-
+      By the concepts of the law that would apply under each classification.
+    - >-
+      By Israeli concepts, under s. 141 of the Succession Law.
+    - >-
+      By the concepts of the place where the deceased was born.
+    - >-
+      By agreement of the heirs, failing which by the Registrar's choice.
+  correct: 1
+  explanation: >-
+    Section 141 gives every term the meaning it has in Israeli law for the purposes of ss. 136–140.
+- id: m30-004
+  module: 30
+  lesson: "30.1"
+  subject: renvoi
+  difficulty: 2
+  question: >-
+    An Israeli court must apply State A's succession law. State A's rules refer the matter back to
+    Israeli law. What does the court apply?
+  options:
+    - >-
+      State A's internal succession law, ignoring the referral.
+    - >-
+      The law of a third State with the closest connection.
+    - >-
+      State A's law including its rules on referral, endlessly.
+    - >-
+      Israeli internal law, since a referral back is accepted.
+  correct: 3
+  explanation: >-
+    Section 142 ignores a referral onwards but accepts a referral back to Israeli law, applying Israeli
+    internal law.
+- id: m30-005
+  module: 30
+  lesson: "30.1"
+  subject: public-policy
+  difficulty: 2
+  question: >-
+    A foreign succession law gives sons twice the share of daughters. In an estate governed by that law,
+    what does the Israeli court do with that rule?
+  options:
+    - >-
+      Applies it, because the deceased's domicile law governs the succession.
+    - >-
+      Applies it, but only to movable assets.
+    - >-
+      Does not apply it, as it discriminates on grounds of sex (s. 143).
+    - >-
+      Refers the question to the religious court of the deceased's community.
+  correct: 2
+  explanation: >-
+    Section 143 excludes a foreign law to the extent that it discriminates on grounds of race, religion,
+    sex or nationality or contradicts Israeli public policy.
+- id: m30-006
+  module: 30
+  lesson: "30.1"
+  subject: foreign-law-proof
+  difficulty: 3
+  question: >-
+    You are suing a foreign seller whose terms choose its home law, which you suspect is less
+    protective. Neither side has an expert. What is the realistic tactical position?
+  options:
+    - >-
+      The court will research the foreign law itself, so you must answer it.
+    - >-
+      If no one proves the foreign law, the court will in practice apply Israeli law.
+    - >-
+      The claim must be stayed until a court-appointed expert reports.
+    - >-
+      You must prove the foreign law, or the claim is dismissed.
+  correct: 1
+  explanation: >-
+    Foreign law is proved by the party relying on it, usually by an expert opinion; where it is not
+    proved, Israeli courts generally decide by Israeli law.
+- id: m30-007
+  module: 30
+  lesson: "30.1"
+  subject: pil-structure
+  difficulty: 1
+  question: >-
+    Which statement about private international law is correct?
+  options:
+    - >-
+      It is a set of treaties that binds all States equally, whatever their own law.
+    - >-
+      It is applied only by international tribunals such as the ICJ.
+    - >-
+      It applies only to disputes between States, not private persons.
+    - >-
+      It is part of Israeli law, and other States have their own rules.
+  correct: 3
+  explanation: >-
+    Every State has its own conflict rules; Israeli private international law is Israeli law, partly
+    statutory and mostly judge-made.
+- id: m30-008
+  module: 30
+  lesson: "30.1"
+  subject: substance-procedure
+  difficulty: 3
+  question: >-
+    Bar-exam style. A tort is governed by foreign law that caps compensation. The plaintiff argues that
+    the amount of damages is procedural and governed by Israeli law. How did Yinon treat such a cap?
+  options:
+    - >-
+      As procedural, because the forum computes damages.
+    - >-
+      As substantive, governed by the law that governs the tort.
+    - >-
+      As a public-policy question to be decided case by case.
+    - >-
+      As procedural only in claims for personal injury.
+  correct: 1
+  explanation: >-
+    Yinon held that the existence of a head of damage and a cap on compensation are substantive
+    questions governed by the law applicable to the tort, and that liability and its limit cannot be
+    split.
+- id: m30-009
+  module: 30
+  lesson: "30.1"
+  subject: pil-structure
+  difficulty: 2
+  question: >-
+    Which situation does NOT raise a question of private international law?
+  options:
+    - >-
+      A dispute between two Tel Aviv residents over a flat in Jaffa.
+    - >-
+      A claim against a website operated from Cyprus.
+    - >-
+      The estate of a person who left a bank account in France.
+    - >-
+      A Russian court's judgment against a Netanya resident.
+  correct: 0
+  explanation: >-
+    Without a foreign element, ordinary domestic rules apply. Each of the other cases has a foreign
+    party, asset or judgment.
+- id: m30-010
+  module: 30
+  lesson: "30.2"
+  subject: service-abroad
+  difficulty: 1
+  question: >-
+    Which regulation of the Civil Procedure Regulations 2018 lists the grounds for serving a pleading
+    outside Israel?
+  options:
+    - >-
+      Regulation 157.
+    - >-
+      Regulation 170.
+    - >-
+      Regulation 129.
+    - >-
+      Regulation 166.
+  correct: 3
+  explanation: >-
+    Reg. 166 lists the grounds; reg. 167 sets the request procedure; reg. 168 the defendant's challenge;
+    reg. 169 protects him while he challenges.
+- id: m30-011
+  module: 30
+  lesson: "30.2"
+  subject: service-abroad
+  difficulty: 2
+  question: >-
+    What must the affidavit supporting a request for service abroad set out under reg. 167(א)?
+  options:
+    - >-
+      The facts of the cause of action, of the ground for service abroad, and where the defendant is.
+    - >-
+      The defendant's assets in Israel, the plaintiff's means and the value of the claim in shekels.
+    - >-
+      Proof that the defendant refused service by e-mail and by registered mail in the last month.
+    - >-
+      An expert opinion on the foreign State's service rules and its treaties with Israel.
+  correct: 0
+  explanation: >-
+    The affidavit covers the facts establishing the cause of action, the facts establishing the ground
+    for service abroad, and the place where the recipient is or may be.
+- id: m30-012
+  module: 30
+  lesson: "30.2"
+  subject: service-abroad
+  difficulty: 2
+  question: >-
+    Which forum and remedy? An Israeli buys a phone from a Chinese marketplace seller. It overheats and
+    burns his couch in Rehovot. He wants to sue the seller in Israel. Which ground fits best?
+  options:
+    - >-
+      Reg. 166(3), because the couch, like land, was located in Israel.
+    - >-
+      Reg. 166(5): damage in Israel from an international trader's product.
+    - >-
+      Reg. 166(7), because a later judgment will need enforcement abroad.
+    - >-
+      Reg. 166(2), because the plaintiff himself is domiciled in Israel.
+  correct: 1
+  explanation: >-
+    Para. (5) covers damage caused in Israel by a product, if foreseeable and the defendant or a related
+    person trades internationally on a significant scale.
+- id: m30-013
+  module: 30
+  lesson: "30.2"
+  subject: forum-challenge
+  difficulty: 2
+  question: >-
+    Bar-exam style. A defendant served abroad wishes to argue forum non conveniens. By when must the
+    application be filed?
+  options:
+    - >-
+      Within 14 days of service, whatever the defence deadline.
+    - >-
+      At the first pre-trial hearing, orally or in writing.
+    - >-
+      No later than the date set for filing the defence.
+    - >-
+      At any time before the evidence stage begins.
+  correct: 2
+  explanation: >-
+    Reg. 168: the written application is filed no later than the defence deadline, and the time for the
+    defence then runs from the decision on it.
+- id: m30-014
+  module: 30
+  lesson: "30.2"
+  subject: forum-challenge
+  difficulty: 3
+  question: >-
+    Spot the mistake. A foreign defendant's Israeli lawyer files a full statement of defence on the
+    merits, and a month later applies to dismiss for lack of international jurisdiction. What is the
+    problem?
+  options:
+    - >-
+      None: jurisdiction can be raised at any stage of a civil case.
+    - >-
+      The application had to come from the defendant personally, not the lawyer.
+    - >-
+      The application should have been filed in the foreign court.
+    - >-
+      The objection came late; arguing the merits first risks being treated as consent.
+  correct: 3
+  explanation: >-
+    Jurisdiction and forum objections must be raised first and by the defence deadline (reg. 168; reg.
+    29 for defendants served in Israel); defending on the merits first may amount to submission.
+- id: m30-015
+  module: 30
+  lesson: "30.2"
+  subject: jurisdiction-clause
+  difficulty: 2
+  question: >-
+    Under the Standard Contracts Law, how is a term that fixes the place of jurisdiction treated in a
+    consumer's standard contract?
+  options:
+    - >-
+      It is presumed depriving (s. 4(9)).
+    - >-
+      It is always void (s. 5(ב)).
+    - >-
+      It is valid unless the supplier is foreign.
+    - >-
+      It is valid if printed in bold.
+  correct: 0
+  explanation: >-
+    Section 4(9) presumes depriving a term that varies the legal rules on venue or gives the supplier
+    the exclusive choice of forum; the supplier may try to rebut the presumption.
+- id: m30-016
+  module: 30
+  lesson: "30.2"
+  subject: jurisdiction-clause
+  difficulty: 3
+  question: >-
+    In Ben Hamo, Facebook argued that the forum clause should stand because its service is free and it
+    cannot litigate in every country. Why did the Court reject this?
+  options:
+    - >-
+      Because the argument was raised for the first time on appeal and so was barred.
+    - >-
+      Because free services fall outside the Standard Contracts Law, so no test was needed.
+    - >-
+      Because the risk of no remedy in Israel outweighed the benefit, and the claim was unproven.
+    - >-
+      Because the Attorney General's position binds the Court in every standard-contract case.
+  correct: 2
+  explanation: >-
+    The Court held that the free service did not offset the risk of users being unable to obtain a
+    remedy, and the claimed operational burden was unsupported by evidence; Facebook also exempted some
+    users.
+- id: m30-017
+  module: 30
+  lesson: "30.2"
+  subject: hague-service
+  difficulty: 1
+  question: >-
+    Who is Israel's central authority under the 1965 Hague Service Convention?
+  options:
+    - >-
+      The Ministry of Foreign Affairs.
+    - >-
+      The Courts Director.
+    - >-
+      The Attorney General.
+    - >-
+      The Registrar of the Supreme Court.
+  correct: 1
+  explanation: >-
+    Reg. 3 of the 1975 Regulations names the Courts Director as the central authority; requests from
+    Israel go through the court to the Director, who forwards them abroad.
+- id: m30-018
+  module: 30
+  lesson: "30.2"
+  subject: apostille
+  difficulty: 1
+  question: >-
+    Which Israeli authorities may issue an apostille on an Israeli public document?
+  options:
+    - >-
+      Only the Supreme Court registry in Jerusalem, for all documents.
+    - >-
+      Only notaries licensed in Israel, under the Notaries Law.
+    - >-
+      The Population and Immigration Authority, at any of its offices.
+    - >-
+      The Foreign Ministry, magistrates' court registrars and authorised officials.
+  correct: 3
+  explanation: >-
+    Reg. 5 of the 1977 Apostille Regulations names the Foreign Ministry, magistrates' court registrars
+    and officials appointed by the Minister of Justice; others may be authorised by notice.
+- id: m30-019
+  module: 30
+  lesson: "30.2"
+  subject: foreign-affidavit
+  difficulty: 2
+  question: >-
+    Your witness lives in Spain and signs an affidavit before a Spanish notary for your Israeli civil
+    case. What makes it acceptable as an affidavit under the 2018 Regulations?
+  options:
+    - >-
+      A notarial certification of the signer's ID and an apostille confirming the notary.
+    - >-
+      A certificate from the Israeli embassy in Madrid that the witness exists.
+    - >-
+      Nothing: affidavits made abroad are never accepted in Israeli courts.
+    - >-
+      A sworn translation, without any confirmation of the notary.
+  correct: 0
+  explanation: >-
+    The definition of "תצהיר" in reg. 1 includes a declaration before a foreign notary, with notarial
+    certification of the signer's identity document and an apostille confirming the notary.
+- id: m30-020
+  module: 30
+  lesson: "30.2"
+  subject: security-for-costs
+  difficulty: 2
+  question: >-
+    A Paris resident sues an Israeli in the Tel Aviv District Court. The Israeli fears he will never
+    collect his costs. What can he ask for?
+  options:
+    - >-
+      An exit ban on the plaintiff.
+    - >-
+      A dismissal, since foreigners cannot sue in Israel.
+    - >-
+      Security for costs under reg. 157.
+    - >-
+      A transfer of the case to Paris.
+  correct: 2
+  explanation: >-
+    Reg. 157 lets the court order a plaintiff to give security for the defendant's costs, striking the
+    claim if it is not given; foreign plaintiffs without Israeli assets are the classic case.
+- id: m30-021
+  module: 30
+  lesson: "30.2"
+  subject: small-claims-service
+  difficulty: 2
+  question: >-
+    Do the rules on service abroad apply in the small claims court?
+  options:
+    - >-
+      No: a small claim can never be brought against a defendant who lives abroad.
+    - >-
+      Yes: small-claims service follows chapter 19 of the CPR unless the court orders otherwise.
+    - >-
+      Only if the claim exceeds half the small-claims ceiling and the judge gives special leave.
+    - >-
+      Only with the written consent of the foreign defendant, filed before the first hearing.
+  correct: 1
+  explanation: >-
+    Reg. 7(ג) of the Small Claims Regulations applies chapter 19 of the Civil Procedure Regulations,
+    which includes regs 166–169, unless the court orders otherwise.
+- id: m30-022
+  module: 30
+  lesson: "30.3"
+  subject: cisg
+  difficulty: 1
+  question: >-
+    What is the status of the UN Convention on Contracts for the International Sale of Goods in Israel?
+  options:
+    - >-
+      Signed but never ratified by Israel, so it is only persuasive in court.
+    - >-
+      Applied only in international arbitration, never by Israeli courts.
+    - >-
+      Replaced by the Sale Law 1968 for all sales made after 2000.
+    - >-
+      Part of Israeli law under the 1999 international sale law.
+  correct: 3
+  explanation: >-
+    Section 2 of the 1999 Law gives the Convention in its Schedule the force of law; Israel acceded in
+    2002 and it entered into force for Israel in 2003.
+- id: m30-023
+  module: 30
+  lesson: "30.3"
+  subject: cisg
+  difficulty: 2
+  question: >-
+    An Israeli company buys fabric from a supplier in a State that never joined the CISG. The court
+    finds Israeli law applies. Does the CISG govern?
+  options:
+    - >-
+      Yes: s. 3 extends it to parties in non-party States.
+    - >-
+      No: both States must be parties to the Convention for it to apply.
+    - >-
+      No: the CISG applies only if the contract names it expressly.
+    - >-
+      Only for the formation of the contract, not for its performance.
+  correct: 0
+  explanation: >-
+    Section 3 of the Israeli Law applies the Convention also where a party's place of business is in a
+    non-party State.
+- id: m30-024
+  module: 30
+  lesson: "30.3"
+  subject: cisg
+  difficulty: 2
+  question: >-
+    Which of these sales is excluded from the CISG?
+  options:
+    - >-
+      A restaurant buying ovens from Italy for its kitchen.
+    - >-
+      A shop importing toys from China for resale in its branches.
+    - >-
+      A family buying a sofa from Denmark for their home.
+    - >-
+      A farm buying irrigation pumps from Spain for its fields.
+  correct: 2
+  explanation: >-
+    Art. 2(1) excludes goods bought for personal, family or household use, unless the seller neither
+    knew nor ought to have known of that purpose.
+- id: m30-025
+  module: 30
+  lesson: "30.3"
+  subject: cisg
+  difficulty: 3
+  question: >-
+    Spot the mistake. An importer's lawyer writes: "Our contract chose Israeli law, so the CISG does not
+    apply and we have seven years to complain about defects." What is wrong?
+  options:
+    - >-
+      Nothing: a choice of Israeli law always excludes every international convention.
+    - >-
+      Israeli law includes the CISG unless excluded, and art. 39 needs timely notice.
+    - >-
+      The CISG applies only to sales above a fixed amount, which this sale is below.
+    - >-
+      The general limitation period in Israel is three years, not seven, for all claims.
+  correct: 1
+  explanation: >-
+    The CISG is part of Israeli law and applies unless excluded (art. 6); art. 39 bars reliance on a
+    defect not notified within a reasonable time, and in any case within two years of delivery.
+- id: m30-026
+  module: 30
+  lesson: "30.3"
+  subject: cisg
+  difficulty: 2
+  question: >-
+    A buyer claims under the CISG that the contract was induced by fraud and is void. Which law decides
+    that?
+  options:
+    - >-
+      The CISG's own rules on avoidance of the contract for fundamental breach.
+    - >-
+      Always the seller's law, under the CISG's provisions on validity.
+    - >-
+      The law of the State where the goods were delivered to the buyer.
+    - >-
+      The law picked by ordinary conflict rules, since art. 4 excludes validity.
+  correct: 3
+  explanation: >-
+    Art. 4 leaves the validity of the contract and its terms outside the Convention, so the ordinary
+    choice-of-law rules pick the governing law.
+- id: m30-027
+  module: 30
+  lesson: "30.3"
+  subject: contract-choice
+  difficulty: 2
+  question: >-
+    A contract between an Israeli and a Greek company has no choice-of-law clause and is not a sale of
+    goods. What test do Israeli courts use?
+  options:
+    - >-
+      The law with the closest connection to the contract.
+    - >-
+      Always Israeli law, as the law of the forum.
+    - >-
+      The law of the State where the contract was signed, without exception.
+    - >-
+      The law more favourable to the weaker party.
+  correct: 0
+  explanation: >-
+    Absent a choice, the common-law approach kept in Israel looks for the law with the closest
+    connection: place of negotiation, performance, the parties' places of business, language, currency,
+    subject matter.
+- id: m30-028
+  module: 30
+  lesson: "30.3"
+  subject: contract-choice
+  difficulty: 3
+  question: >-
+    Bar-exam style. In Ben Hamo, why did the Supreme Court uphold Facebook's California-law clause?
+  options:
+    - >-
+      Because choice-of-law clauses fall entirely outside the Standard Contracts Law.
+    - >-
+      Because the user had not shown that California law barred any specific claim.
+    - >-
+      Because California law was proved by experts to be more protective than Israeli law.
+    - >-
+      Because the user kept using Facebook for many years after the terms were changed.
+  correct: 1
+  explanation: >-
+    The burden of showing a presumption of deprivation under s. 4(8) is on the customer, and no evidence
+    showed that deciding under California law would prevent specific claims.
+- id: m30-029
+  module: 30
+  lesson: "30.3"
+  subject: tort-choice
+  difficulty: 1
+  question: >-
+    What rule did Yinon (CA 1432/03) abandon?
+  options:
+    - >-
+      The law of the place of the tort.
+    - >-
+      The presumption of compatibility with international law.
+    - >-
+      The English double actionability rule.
+    - >-
+      The rule that foreign law must be proved.
+  correct: 2
+  explanation: >-
+    Rivlin J. held that the double actionability rule, which required the act to be actionable both in
+    the forum and where it occurred, should no longer be followed, and adopted the law of the place of
+    the tort.
+- id: m30-030
+  module: 30
+  lesson: "30.3"
+  subject: tort-choice
+  difficulty: 3
+  question: >-
+    Why did the Court in Yinon apply Israeli law, not Jordanian law, although the accident happened in
+    the West Bank?
+  options:
+    - >-
+      Because Israeli law gave the worker more compensation than Jordanian law.
+    - >-
+      Because neither party managed to prove the content of Jordanian law.
+    - >-
+      Because the plaintiff chose to sue in Israel rather than in the territories.
+    - >-
+      Because the narrow exception applied to an Israeli factory in a settlement.
+  correct: 3
+  explanation: >-
+    The Court adopted the place-of-the-tort rule but applied its exception: in the unique legal reality
+    of an Israeli-owned factory in an Israeli settlement, the reasons for the rule did not hold.
+- id: m30-031
+  module: 30
+  lesson: "30.3"
+  subject: tort-choice
+  difficulty: 2
+  question: >-
+    Two Israeli friends on a trip in Thailand crash a rented scooter; the passenger sues the driver in
+    Israel. What is the best argument for Israeli law?
+  options:
+    - >-
+      The Yinon exception: shared Israeli ties make Thai law a poor fit.
+    - >-
+      Double actionability: the act must also be actionable under Israeli law.
+    - >-
+      Israeli courts always apply Israeli law when both parties are Israeli.
+    - >-
+      Thai law cannot apply because Thailand has not joined the CISG at all.
+  correct: 0
+  explanation: >-
+    The starting point is Thai law (place of the tort); the narrow exception, where justice demands, is
+    the route to Israeli law. Double actionability was abandoned and the CISG is irrelevant to torts.
+- id: m30-032
+  module: 30
+  lesson: "30.3"
+  subject: contract-choice
+  difficulty: 2
+  question: >-
+    Under s. 4(8) of the Standard Contracts Law, which kind of term is presumed depriving?
+  options:
+    - >-
+      A term fixing the price in a foreign currency at the supplier's rate.
+    - >-
+      A term limiting the customer's right to raise particular claims in court.
+    - >-
+      A term allowing the supplier to change prices with 30 days' notice.
+    - >-
+      A term stating the supplier's registered address abroad for notices.
+  correct: 1
+  explanation: >-
+    Section 4(8) covers terms that remove or limit the customer's right to raise particular claims in
+    court or send every dispute to arbitration; a foreign-law clause can fall within it if shown to do
+    so.
+- id: m30-033
+  module: 30
+  lesson: "30.4"
+  subject: succession-jurisdiction
+  difficulty: 1
+  question: >-
+    When may an Israeli court deal with a person's estate under s. 136 of the Succession Law?
+  options:
+    - >-
+      Only if the deceased was an Israeli citizen at the time of death.
+    - >-
+      Only if all the heirs live in Israel when the application is filed.
+    - >-
+      If the deceased was domiciled in Israel at death or left assets here.
+    - >-
+      Only if the will was made in Israel before an Israeli authority.
+  correct: 2
+  explanation: >-
+    Section 136 gives jurisdiction over the estate of anyone domiciled in Israel at death or who left
+    assets in Israel; nationality and the heirs' residence are irrelevant.
+- id: m30-034
+  module: 30
+  lesson: "30.4"
+  subject: succession-choice
+  difficulty: 1
+  question: >-
+    Which law generally governs succession under s. 137?
+  options:
+    - >-
+      The law of the deceased's domicile at the time of death.
+    - >-
+      The law of the deceased's nationality at the time of death.
+    - >-
+      The law of the place where the will was found after death.
+    - >-
+      The law of each heir's domicile when the estate is divided.
+  correct: 0
+  explanation: >-
+    Section 137 applies the law of the deceased's domicile at death, subject to ss. 138–140.
+- id: m30-035
+  module: 30
+  lesson: "30.4"
+  subject: domicile
+  difficulty: 2
+  question: >-
+    How does the Succession Law define a person's "domicile" (מושב)?
+  options:
+    - >-
+      The State whose passport the person holds.
+    - >-
+      The place where the person is registered in the Population Registry.
+    - >-
+      The place where the person paid most tax in the last year.
+    - >-
+      The place where the centre of the person's life is.
+  correct: 3
+  explanation: >-
+    Section 135 defines domicile as the place where the centre of one's life is; a minor or a person
+    under guardianship is presumed domiciled with his representative.
+- id: m30-036
+  module: 30
+  lesson: "30.4"
+  subject: will-form
+  difficulty: 2
+  question: >-
+    A testator domiciled in Israel made a will in Greece in a form valid under Greek law but not under
+    Israeli law. Is it valid in form?
+  options:
+    - >-
+      No, because Israeli law, the law of the domicile at death, governs form.
+    - >-
+      Yes: the law of the place of making is one of the s. 140 options.
+    - >-
+      Only for the assets that are situated in Greece, not those in Israel.
+    - >-
+      Only if the Registrar approves a deviation from form under Israeli law.
+  correct: 1
+  explanation: >-
+    Section 140(א) validates a will if it is valid under any listed law, including the law of the place
+    where it was made.
+- id: m30-037
+  module: 30
+  lesson: "30.4"
+  subject: will-capacity
+  difficulty: 2
+  question: >-
+    Which law governs the testator's capacity to make a will?
+  options:
+    - >-
+      The law of the testator's domicile at the time of death.
+    - >-
+      Israeli law in all cases, since the estate is handled here.
+    - >-
+      The law of the testator's domicile when the will was made.
+    - >-
+      The law of the place where the will is later probated.
+  correct: 2
+  explanation: >-
+    Section 139 refers capacity to the testator's domicile at the time of making the will.
+- id: m30-038
+  module: 30
+  lesson: "30.4"
+  subject: matrimonial-property
+  difficulty: 2
+  question: >-
+    A couple married in Buenos Aires in 2005 while living there and moved to Israel in 2012. Which law
+    governs their property relations absent an agreement?
+  options:
+    - >-
+      Argentine law, their domicile at the time of marriage.
+    - >-
+      Israeli law, from the date on which they moved to Israel.
+    - >-
+      Israeli law, because the Family Court applies its own law.
+    - >-
+      The law of the place where each asset happens to be situated.
+  correct: 0
+  explanation: >-
+    Section 15 of the Spouses Property Relations Law fixes the law of domicile at the time of marriage,
+    subject to an agreement made under the law of the domicile when it is made.
+- id: m30-039
+  module: 30
+  lesson: "30.4"
+  subject: matrimonial-property
+  difficulty: 3
+  question: >-
+    An Israeli couple living in Ramat Gan married in a civil ceremony in Prague. On divorce, one argues
+    that Czech matrimonial property law applies. What is the answer?
+  options:
+    - >-
+      Czech law applies, as the law of the place of the marriage.
+    - >-
+      Czech law applies unless they made a property agreement.
+    - >-
+      The rabbinical court decides the applicable law at its discretion.
+    - >-
+      Israeli law applies, as their domicile at the time of marriage.
+  correct: 3
+  explanation: >-
+    Section 15 looks to the spouses' domicile at the time of marriage, not the place of the ceremony.
+- id: m30-040
+  module: 30
+  lesson: "30.4"
+  subject: divorce-jurisdiction
+  difficulty: 2
+  question: >-
+    Which forum? A couple of no recognised religion married in Cyprus and live in Haifa. Who may
+    dissolve the marriage?
+  options:
+    - >-
+      The rabbinical court, under the 1953 Law.
+    - >-
+      The Family Court, under the 1969 Law.
+    - >-
+      Only a Cypriot court, since the marriage was celebrated there.
+    - >-
+      The Population Registry, by administrative cancellation.
+  correct: 1
+  explanation: >-
+    The 1969 Law gives the Family Court jurisdiction over dissolution of marriages not within a
+    religious court's exclusive jurisdiction, on the connections in s. 2.
+- id: m30-041
+  module: 30
+  lesson: "30.4"
+  subject: divorce-choice
+  difficulty: 3
+  question: >-
+    Under s. 5 of the 1969 Law, which law does the Family Court apply first to a divorce?
+  options:
+    - >-
+      Israeli internal law, as the law of the forum.
+    - >-
+      The law of the place of marriage.
+    - >-
+      The internal law of the couple's common domicile.
+    - >-
+      The law of the petitioner's nationality.
+  correct: 2
+  explanation: >-
+    Section 5(א) sets an order: common domicile, last common domicile, common nationality, place of
+    marriage, skipping a law that treats the spouses differently or bars divorce; consent is always a
+    ground.
+- id: m30-042
+  module: 30
+  lesson: "30.4"
+  subject: get-abroad
+  difficulty: 3
+  question: >-
+    Spot the mistake. A friend tells an Orthodox-married Jewish woman: "Your civil divorce in Paris is
+    final, so you can remarry by Jewish law in Israel." What is wrong?
+  options:
+    - >-
+      A civil divorce abroad does not end a Jewish-law marriage; a get is needed.
+    - >-
+      Nothing: Israeli law recognises every foreign divorce for every purpose.
+    - >-
+      French divorces must first be declared enforceable under the 1958 Law.
+    - >-
+      Only the Family Court can decide whether she may remarry in Israel.
+  correct: 0
+  explanation: >-
+    Without a get, she cannot remarry by Jewish law; s. 4א(ג) lets the rabbinical court hear a suit for
+    a get or to remove the bar to remarriage even after a foreign civil divorce.
+- id: m30-043
+  module: 30
+  lesson: "30.4"
+  subject: divorce-jurisdiction
+  difficulty: 2
+  question: >-
+    Two Jews married by Jewish law; the husband lives in Israel, the wife in Canada. She wants a divorce
+    in the Israeli rabbinical court. Which connection in s. 4א applies?
+  options:
+    - >-
+      None, because the plaintiff lives abroad.
+    - >-
+      Both must be citizens, so it depends on her passport.
+    - >-
+      Only if she has lived in Israel for a year.
+    - >-
+      The defendant's domicile in Israel.
+  correct: 3
+  explanation: >-
+    Section 4א(א)(1) gives jurisdiction where the defendant is domiciled in Israel; any one connection
+    is enough.
+- id: m30-044
+  module: 30
+  lesson: "30.5"
+  subject: fjel-conditions
+  difficulty: 1
+  question: >-
+    Which of these is NOT one of the conditions in s. 3 of the Foreign Judgments Enforcement Law?
+  options:
+    - >-
+      The judgment is no longer appealable.
+    - >-
+      The judgment is enforceable in the State where it was given.
+    - >-
+      The judgment was given by a court with jurisdiction under that State's law.
+    - >-
+      The judgment was confirmed by the Israeli consulate.
+  correct: 3
+  explanation: >-
+    Section 3 requires foreign jurisdiction under its own law, finality, enforceability in Israel
+    without breach of public policy, and enforceability at home; no consular confirmation is required.
+- id: m30-045
+  module: 30
+  lesson: "30.5"
+  subject: fjel-route
+  difficulty: 1
+  question: >-
+    Can a creditor open an Execution Office file directly on a foreign judgment?
+  options:
+    - >-
+      Yes, if the judgment carries an apostille from the foreign State.
+    - >-
+      No: an Israeli court must first declare it enforceable.
+    - >-
+      Yes, if the debtor is an Israeli citizen living in Israel.
+    - >-
+      Yes, for judgments below the small-claims ceiling in value.
+  correct: 1
+  explanation: >-
+    Section 2 makes the 1958 Law the only route; after the declaration, s. 10 lets it be executed like
+    an Israeli judgment.
+- id: m30-046
+  module: 30
+  lesson: "30.5"
+  subject: fjel-time
+  difficulty: 2
+  question: >-
+    Bar-exam style. From when do the five years of s. 5 run?
+  options:
+    - >-
+      From the day the judgment was given.
+    - >-
+      From the day it became final.
+    - >-
+      From the day the debtor learned of it.
+    - >-
+      From the day the creditor discovered assets in Israel.
+  correct: 0
+  explanation: >-
+    Section 5 counts from the day the judgment was given, subject to a treaty period or special reasons.
+- id: m30-047
+  module: 30
+  lesson: "30.5"
+  subject: reciprocity
+  difficulty: 2
+  question: >-
+    The State where a judgment was given does not enforce Israeli judgments. Can the Israeli court still
+    enforce it?
+  options:
+    - >-
+      Yes, if the debtor consents in writing.
+    - >-
+      No, under any circumstances.
+    - >-
+      Yes, if the Attorney General asks it to (s. 4(ב)).
+    - >-
+      Yes, if the judgment is for less than a fixed sum.
+  correct: 2
+  explanation: >-
+    Section 4(ב) lets the court enforce a foreign judgment without reciprocity at the Attorney General's
+    request.
+- id: m30-048
+  module: 30
+  lesson: "30.5"
+  subject: fjel-defences
+  difficulty: 2
+  question: >-
+    Which argument is NOT a defence against enforcement under the 1958 Law?
+  options:
+    - >-
+      The judgment was obtained by fraud.
+    - >-
+      The foreign court misinterpreted the contract.
+    - >-
+      The debtor had no reasonable opportunity to defend.
+    - >-
+      A conflicting valid judgment exists between the same parties.
+  correct: 1
+  explanation: >-
+    The Israeli court does not sit on appeal over the merits; the defences are those in ss. 6 and 7 and
+    public policy (s. 3(3)).
+- id: m30-049
+  module: 30
+  lesson: "30.5"
+  subject: fjel-defences
+  difficulty: 3
+  question: >-
+    The debtor's only argument is that he never received the foreign claim. It was sent to the address
+    he gave in the contract, which he had since left without telling the creditor. Following VTB, how
+    likely is the s. 6(א)(2) defence to succeed?
+  options:
+    - >-
+      Likely, because actual receipt is required.
+    - >-
+      Likely, because foreign service rules are reviewed strictly.
+    - >-
+      Unlikely only if the judgment was given by consent.
+    - >-
+      Unlikely, because service at the address he gave was reasonable.
+  correct: 3
+  explanation: >-
+    VTB asked whether the debtor had a reasonable opportunity to know of the proceedings and defend;
+    service at the official address the debtor himself gave was held reasonable.
+- id: m30-050
+  module: 30
+  lesson: "30.5"
+  subject: fjel-jurisdiction
+  difficulty: 2
+  question: >-
+    Under Israeli private international law, as stated in VTB, when does a foreign court have
+    international jurisdiction over a defendant for enforcement purposes?
+  options:
+    - >-
+      When the defendant was resident there or consented, even impliedly.
+    - >-
+      When the contract in dispute was mainly performed in that State.
+    - >-
+      Only when the defendant was a citizen of that State when sued.
+    - >-
+      Whenever the foreign court's own law says that it has jurisdiction.
+  correct: 0
+  explanation: >-
+    VTB applied the "residence or consent" test (citing earlier case law) and held that consent may be
+    implied as well as express.
+- id: m30-051
+  module: 30
+  lesson: "30.5"
+  subject: fjel-appearance
+  difficulty: 3
+  question: >-
+    A debtor appeared in a foreign court only to seek a stay in favour of arbitration and to release his
+    seized assets. Did he consent to the foreign court's jurisdiction?
+  options:
+    - >-
+      Yes, any appearance is consent.
+    - >-
+      Yes, because releasing assets is a merits argument.
+    - >-
+      No, such appearances are not consent under s. 6(ב).
+    - >-
+      It depends only on the foreign court's law.
+  correct: 2
+  explanation: >-
+    Section 6(ב) lists contesting jurisdiction, seeking a stay for arbitration or another court, and
+    protecting seized assets as appearances that do not amount to consent.
+- id: m30-052
+  module: 30
+  lesson: "30.5"
+  subject: fjel-maintenance
+  difficulty: 2
+  question: >-
+    A foreign court made an interim maintenance order that is still open to appeal. Can it be enforced
+    in Israel?
+  options:
+    - >-
+      Yes, if the court sees justification (s. 8).
+    - >-
+      No: finality is required for every judgment.
+    - >-
+      Only through the rabbinical court, as a family matter.
+    - >-
+      Only after the foreign appeal period has ended.
+  correct: 0
+  explanation: >-
+    Section 8 allows enforcement of interim foreign judgments and interim orders in maintenance matters,
+    even when still appealable, if the other conditions are met.
+- id: m30-053
+  module: 30
+  lesson: "30.5"
+  subject: fjel-currency
+  difficulty: 1
+  question: >-
+    A foreign judgment for USD 10,000 is declared enforceable. How is it paid?
+  options:
+    - >-
+      Only in dollars, at the creditor's choice of rate.
+    - >-
+      In shekels at the rate on the day of the foreign judgment.
+    - >-
+      In shekels at the rate on the day of the Israeli declaration.
+    - >-
+      In shekels at the rate on the day of payment, or in dollars.
+  correct: 3
+  explanation: >-
+    Section 10(ב) provides payment in Israeli currency at the exchange rate on the day of payment; the
+    debtor may also pay in the foreign currency.
+- id: m30-054
+  module: 30
+  lesson: "30.5"
+  subject: recognition
+  difficulty: 3
+  question: >-
+    In an Israeli contract case, a party relies on a foreign judgment between the same parties as res
+    judicata, without seeking enforcement. On what basis may the court recognise it?
+  options:
+    - >-
+      Section 3, as if the party had filed an enforcement application.
+    - >-
+      Section 11(ב): incidental recognition where just, within its jurisdiction.
+    - >-
+      Only under a treaty with that State, listed in regulations under the Law.
+    - >-
+      It may not; foreign judgments only ever have weight as evidence of facts.
+  correct: 1
+  explanation: >-
+    Section 11(ב) allows incidental recognition of a foreign judgment, for the purpose of a matter
+    within the court's jurisdiction, where the court sees fit; s. 6(ב)–(ג) apply.
+- id: m30-055
+  module: 30
+  lesson: "30.6"
+  subject: payment-services
+  difficulty: 1
+  question: >-
+    Which statute now governs a consumer's rights against a card issuer in Israel?
+  options:
+    - >-
+      The Debit Cards Law 1986.
+    - >-
+      The Banking (Service to Customer) Law only.
+    - >-
+      The Payment Services Law 2019.
+    - >-
+      The Consumer Protection Law only.
+  correct: 2
+  explanation: >-
+    The Payment Services Law came into force on 14.10.2020 and repealed the Debit Cards Law (s. 55).
+- id: m30-056
+  module: 30
+  lesson: "30.6"
+  subject: payment-services
+  difficulty: 2
+  question: >-
+    Which remedy? A foreign site promised delivery by 1 June; on 15 June nothing has come. The buyer
+    paid by card in 10 instalments. What should she do, in order?
+  options:
+    - >-
+      Notify the seller of cancellation, then notify her issuer under s. 17.
+    - >-
+      Notify her issuer under s. 29, since online charges have no signature.
+    - >-
+      File a small claim first, then ask the issuer to stop charging.
+    - >-
+      Wait until all instalments are paid, then ask for a chargeback.
+  correct: 0
+  explanation: >-
+    Section 17 requires non-supply after the agreed date and cancellation notice to the seller where
+    possible; the issuer then stops charging from her notice.
+- id: m30-057
+  module: 30
+  lesson: "30.6"
+  subject: payment-services
+  difficulty: 2
+  question: >-
+    Within what period must a payer notify the issuer under s. 29 that he did not make a
+    card-not-present payment, and how fast must the issuer refund?
+  options:
+    - >-
+      Within 14 days of the charge; refund within 30 days of the notice.
+    - >-
+      Within 60 days of the charge; refund within 14 days of the notice.
+    - >-
+      Within a reasonable time; refund within a month of the investigation.
+    - >-
+      Within 30 days of the charge notice; refund in 8 business days.
+  correct: 3
+  explanation: >-
+    Section 29(ב) sets a 30-day window from the charge notice and an eight-business-day refund, subject
+    to the issuer's reasoned re-charge.
+- id: m30-058
+  module: 30
+  lesson: "30.6"
+  subject: payment-services
+  difficulty: 3
+  question: >-
+    Spot the mistake. A consumer asks her issuer under s. 17 to stop a charge because the jacket she
+    received is the wrong colour. Why is s. 17 the wrong tool?
+  options:
+    - >-
+      Because s. 17 applies only to services bought online, not to goods.
+    - >-
+      Because s. 17 is about goods not supplied, not goods that differ.
+    - >-
+      Because s. 17 requires a court judgment against the seller first.
+    - >-
+      Because s. 17 applies only to sellers registered in Israel.
+  correct: 1
+  explanation: >-
+    Section 17 deals with non-supply after the agreed date (or a permanent stop); a wrong or defective
+    item is a contract dispute with the seller and, in practice, a chargeback claim under network rules.
+- id: m30-059
+  module: 30
+  lesson: "30.6"
+  subject: payment-services
+  difficulty: 2
+  question: >-
+    After stopping charges under s. 17, may the issuer charge the customer again?
+  options:
+    - >-
+      Never, once the customer has notified it under s. 17.
+    - >-
+      Yes, immediately, as soon as the seller says it delivered.
+    - >-
+      Yes, if conditions were unmet, after reasoned notice 15 days ahead.
+    - >-
+      Only with a court order obtained against the customer.
+  correct: 2
+  explanation: >-
+    Section 17(ב) lets the issuer re-charge if the conditions were not met, giving a written, reasoned
+    notice at least 15 days before the charge and copies of documents on request.
+- id: m30-060
+  module: 30
+  lesson: "30.6"
+  subject: platform-rules
+  difficulty: 2
+  question: >-
+    Which statement about PayPal or marketplace buyer protection is accurate under Israeli law?
+  options:
+    - >-
+      It is a contractual scheme of the platform, under its own terms.
+    - >-
+      It is a statutory right under s. 17 of the Payment Services Law.
+    - >-
+      It is run and enforced by the Israeli Consumer Protection Authority.
+    - >-
+      It replaces the consumer's right to sue the seller in an Israeli court.
+  correct: 0
+  explanation: >-
+    Platform buyer protection is a term of the platform's contract; the statutory rights are those of
+    the Payment Services Law against the payment provider, and the consumer may still sue the seller.
+- id: m30-061
+  module: 30
+  lesson: "30.6"
+  subject: payment-services
+  difficulty: 3
+  question: >-
+    A payment app run from abroad offers Israelis a Hebrew interface and shekel accounts. Is it bound by
+    the Payment Services Law?
+  options:
+    - >-
+      No, the Law applies only to providers incorporated in Israel.
+    - >-
+      Only if it holds a payment licence from the Bank of Israel.
+    - >-
+      Only for payments made physically inside Israel by card.
+    - >-
+      Likely yes: s. 47 covers foreign providers targeting Israel.
+  correct: 3
+  explanation: >-
+    Section 47 applies the Law to a non-resident provider that serves Israeli residents and directs its
+    services at Israel, judged by factors such as an Israeli address, Hebrew or shekel pricing.
+- id: m30-062
+  module: 30
+  lesson: "30.6"
+  subject: consumer-foreign-seller
+  difficulty: 3
+  question: >-
+    A foreign seller's terms choose its own law. In an Israeli small claim, the consumer relies on the
+    Consumer Protection Law's distance-sale rules. What is her strongest position?
+  options:
+    - >-
+      The Consumer Protection Law expressly applies to every foreign seller selling to Israelis.
+    - >-
+      Foreign-law clauses are always void in consumer contracts, so Israeli law applies.
+    - >-
+      Argue mandatory protection or a depriving clause; unproved foreign law also helps.
+    - >-
+      She must first prove the foreign law gives her fewer rights, or her claim fails.
+  correct: 2
+  explanation: >-
+    The Law has no territorial clause; the question is choice of law. She can argue mandatory protection
+    or deprivation under s. 4(8) (Ben Hamo), and if no one proves the foreign law the court tends to
+    apply Israeli law.
+- id: m30-063
+  module: 30
+  lesson: "30.6"
+  subject: aggravated-breach
+  difficulty: 2
+  question: >-
+    Since 2024, what happens when the Consumer Protection Commissioner sends a payment provider notice
+    of intent to declare a dealer an aggravated-circumstances breacher?
+  options:
+    - >-
+      The provider stops paying that dealer and holds the money in trust.
+    - >-
+      The dealer's customers receive automatic refunds of all past purchases.
+    - >-
+      The dealer's website is blocked for users connecting from Israel.
+    - >-
+      The dealer is charged with a criminal offence by the Commissioner.
+  correct: 0
+  explanation: >-
+    Under Payment Services Law s. 18א(ב) the provider stops transferring payments to the dealer and
+    holds them in trust; after a final declaration, payments made during that period are returned to
+    payers.
+- id: m30-064
+  module: 30
+  lesson: "30.7"
+  subject: lab-order
+  difficulty: 2
+  question: >-
+    In the lab, what is the correct order of steps for a failed foreign purchase paid by card?
+  options:
+    - >-
+      Small claim, then issuer notice, then a letter to the seller.
+    - >-
+      Seller, then platform or issuer, then regulator, then small claim.
+    - >-
+      Regulator complaint, then seller letter, then issuer notice last.
+    - >-
+      Issuer chargeback, then seller cancellation two months later.
+  correct: 1
+  explanation: >-
+    Notifying the seller first satisfies s. 17(א)(2) and the consumer cancellation rules; the money
+    routes come next; the regulator and the court follow if needed.
+- id: m30-065
+  module: 30
+  lesson: "30.7"
+  subject: lab-foreign-judgment
+  difficulty: 3
+  question: >-
+    In the lab, Daniel's English judgment was served at the London address in his guarantee, which said
+    notices go there. What is his most realistic advice?
+  options:
+    - >-
+      Rely on s. 6(א)(2) in Israel; it will almost certainly succeed.
+    - >-
+      Ignore the Israeli lawyer's letter; nothing can happen without his consent.
+    - >-
+      Argue that English courts lack jurisdiction over Israelis.
+    - >-
+      Reply without admissions, check setting aside in England, and consider settling.
+  correct: 3
+  explanation: >-
+    Under VTB the no-opportunity defence is weak where service was at the address he gave; he consented
+    to English jurisdiction; a set-aside in England or a settlement is more realistic.
+- id: m30-066
+  module: 30
+  lesson: "30.7"
+  subject: lab-foreign-judgment
+  difficulty: 2
+  question: >-
+    For a creditor's enforcement application, which document is usually needed to prove that the foreign
+    judgment is final and enforceable where given?
+  options:
+    - >-
+      An affidavit of the creditor's Israeli lawyer on the facts.
+    - >-
+      A letter from the debtor's employer confirming his income.
+    - >-
+      An opinion or certificate on the foreign law and the status.
+    - >-
+      A certificate from the Israeli Population Registry on the debtor.
+  correct: 2
+  explanation: >-
+    Finality and enforceability abroad are facts of foreign law, proved by a foreign-law opinion or an
+    official certificate, together with an apostilled copy and a translation.

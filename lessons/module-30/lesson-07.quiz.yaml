@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    In the lab, Daniel's English judgment was given in March 2022 and became final in May 2022. By what
+    date must the creditor apply in Israel, absent a treaty or special reasons?
+  options:
+    - >-
+      May 2027, five years from finality.
+    - >-
+      March 2029, seven years from the judgment.
+    - >-
+      March 2027, five years from the date it was given.
+    - >-
+      There is no limit once the judgment is final.
+  correct: 2
+  explanation: >-
+    Section 5 counts five years from the day the judgment was given, unless a treaty sets another period
+    or the court finds special reasons.
+- id: q2
+  question: >-
+    Maya paid ₪900 in one card payment that already appears on her statement; the headphones never came.
+    She cancelled with the seller and notified her issuer under s. 17. What does s. 17 itself achieve?
+  options:
+    - >-
+      An automatic refund of the ₪900 within eight business days.
+    - >-
+      It stops charging from her notice; the debited sum needs a chargeback.
+    - >-
+      Nothing, because s. 17 covers only payments split into instalments.
+    - >-
+      A right to exemplary damages from the issuer.
+  correct: 1
+  explanation: >-
+    Section 17 obliges the issuer to stop executing the payment and charging from the notice. For a sum
+    already debited, she relies on the network chargeback process, which is practice, not statute.
+- id: q3
+  question: >-
+    A foreign creditor's Israeli lawyer writes to you demanding payment of a foreign judgment within
+    seven days, "or we will open an execution file". What is accurate?
+  options:
+    - >-
+      The lawyer can open an Execution Office file directly on the foreign judgment.
+    - >-
+      You must pay within seven days or lose all defences.
+    - >-
+      The foreign judgment is enforceable once it has an apostille.
+    - >-
+      An Israeli court must first declare it enforceable under the 1958 Law.
+  correct: 3
+  explanation: >-
+    Section 2 makes the 1958 Law the only route; only after a court declaration is the judgment executed
+    like an Israeli one (s. 10). Your defences are raised in that court proceeding.
+- id: q4
+  question: >-
+    You plan a small claim in Israel against a Polish seller after the issuer route failed. Which document
+    must go with the statement of claim for the case to proceed?
+  options:
+    - >-
+      A reg. 167 request for service abroad, with an affidavit.
+    - >-
+      A certificate from the Polish consumer authority that the seller exists.
+    - >-
+      An apostille on the statement of claim.
+    - >-
+      The seller's written consent to Israeli jurisdiction.
+  correct: 0
+  explanation: >-
+    Service abroad needs a reg. 166 ground and a written request with a supporting affidavit (reg. 167),
+    which small claims adopt through reg. 7(ג) of their Regulations.

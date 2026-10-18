@@ -1,0 +1,19 @@
+- **משפט בין־לאומי פרטי** (mishpat bein-le'umi prati) — Private international law (conflict of laws): the part of Israeli law that deals with cases with a foreign element.
+- **סמכות שיפוט בין־לאומית** (samchut shiput bein-le'umit) — International jurisdiction: whether an Israeli court may hear a case with a foreign element.
+- **ברירת הדין** (breirat ha-din) — Choice of law: deciding which State's law governs an issue.
+- **מיון** (miyun) — Characterization: classifying an issue (succession, form, procedure) by Israeli concepts (Succession Law s. 141).
+- **הפניה (רנוואה)** (hafnaya, renvoi) — Renvoi: a foreign conflict rule that refers to another law; in succession accepted only back to Israeli law (s. 142).
+- **מושב** (moshav) — Domicile: the place where the centre of a person's life is (Succession Law s. 135).
+- **המצאה מחוץ לתחום המדינה** (hamtza'a michutz litchum ha-medina) — Service out of the jurisdiction, allowed only on a ground in CPR reg. 166 and by a method the court approves (reg. 167).
+- **פורום לא נאות** (forum lo na'ot) — Forum non conveniens: a plea that another State's court is clearly the more appropriate forum (CPR reg. 168).
+- **תניית שיפוט זר** (tniyat shiput zar) — Foreign jurisdiction clause; in a consumer standard contract presumed depriving (Standard Contracts Law s. 4(9); Ben Hamo).
+- **תעודה לפי האמנה (אפוסטיל)** (te'uda lefi ha-amana, apostil) — Apostille: the Hague Convention certificate that replaces consular legalisation of foreign public documents.
+- **דין מקום ביצוע העוולה** (din mekom bitzu'a ha-avla) — Law of the place of the tort, the Israeli rule since Yinon (CA 1432/03), with a narrow exception.
+- **כלל התביעוּת הכפולה** (klal ha-tvi'ut ha-kfula) — Double actionability: the old English rule abandoned in Yinon.
+- **מכר טובין בין־לאומי** (mecher tovin bein-le'umi) — International sale of goods, governed in Israel by the CISG as adopted by the 1999 Law.
+- **פסק־חוץ** (psak chutz) — Foreign judgment: a judgment of a foreign court in a civil matter (Foreign Judgments Enforcement Law s. 1).
+- **הדדיות** (hadadiyut) — Reciprocity: the requirement that the foreign State would enforce Israeli judgments (s. 4).
+- **הכרה אגבית** (hakara agavit) — Incidental recognition of a foreign judgment in a case before an Israeli court (s. 11(ב)).
+- **פעולת תשלום מובטחת** (pe'ulat tashlum muvtachat) — Guaranteed payment transaction, such as a typical card payment (Payment Services Law s. 1).
+- **פעולת תשלום במסמך חסר** (pe'ulat tashlum be-mismach chaser) — Payment without a signed document or strongly authenticated record, typically an online card payment (Payment Services Law s. 29).
+- **עוסק מפר בנסיבות מחמירות** (osek mefer be-nesibot machmirot) — Dealer declared by the Consumer Protection Commissioner to be in aggravated breach; payments to it are frozen (Consumer Protection Law ss. 22כז–22לב).

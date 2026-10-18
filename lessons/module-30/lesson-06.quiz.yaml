@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Rotem paid a foreign site in six card instalments for a sofa due on 1 March. On 20 March it has not
+    arrived. She writes to her card issuer citing "section 8 of the Debit Cards Law". What is wrong?
+  options:
+    - >-
+      Nothing: the Debit Cards Law still governs instalment payments.
+    - >-
+      She must wait 60 days after the delivery date before writing.
+    - >-
+      It was repealed in 2020; the Payment Services Law applies.
+    - >-
+      Only the seller's own country's law can stop a card charge.
+  correct: 2
+  explanation: >-
+    The Debit Cards Law was repealed on 14.10.2020 by the Payment Services Law. Section 17 of the new Law
+    requires the issuer to stop charging once the conditions are met and notified.
+- id: q2
+  question: >-
+    Under s. 17 of the Payment Services Law, which pair of facts must Rotem tell her issuer for it to
+    stop charging her?
+  options:
+    - >-
+      Not supplied by the agreed date, and cancellation sent to the seller.
+    - >-
+      The goods were defective, and she returned them at her own cost.
+    - >-
+      The seller is abroad, and it did not answer within 14 days.
+    - >-
+      She did not authorise the charge, and she reported it to the police.
+  correct: 0
+  explanation: >-
+    Section 17(א) requires non-supply after the agreed date (or the seller's permanent stop) and a
+    cancellation notice to the seller, as far as possible. Defects and unauthorised charges have other
+    routes.
+- id: q3
+  question: >-
+    Erez sees on his statement an online charge from a foreign gaming site he never used. No one-time
+    code was sent to him. The statement arrived 20 days ago. What should he do?
+  options:
+    - >-
+      Sue the gaming site in small claims, since only the merchant can refund.
+    - >-
+      Open a dispute on the gaming site and wait for its decision.
+    - >-
+      Nothing, since unauthorised charges abroad are the merchant bank's problem.
+    - >-
+      Tell his issuer now that he did not make it; it must refund within 8 business days.
+  correct: 3
+  explanation: >-
+    A card-not-present charge without a strong-authentication record is a payment without a document;
+    under s. 29(ב), notice within 30 days of the charge notice triggers a refund within eight business
+    days, subject to a reasoned re-charge.
+- id: q4
+  question: >-
+    Shira's issuer stopped the instalments under s. 17. Two weeks later the seller says it delivered, and
+    the issuer wants to resume charging. What must the issuer do first?
+  options:
+    - >-
+      Nothing: once the seller objects, charging resumes automatically.
+    - >-
+      Give her reasoned written notice 15 days before charging.
+    - >-
+      Obtain a court order against Shira for the remaining instalments.
+    - >-
+      Ask the Consumer Protection Commissioner for approval.
+  correct: 1
+  explanation: >-
+    Under s. 17(ב) the issuer may re-charge if the conditions were not met, but only after a written,
+    reasoned notice at least 15 days before the charge, providing copies of its documents on request.

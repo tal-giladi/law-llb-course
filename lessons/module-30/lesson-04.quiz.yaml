@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Miriam, an Israeli resident, made a handwritten will on holiday in Italy. Her heirs say Italian law
+    requires something extra for such wills. Under the Succession Law, is the will valid in form?
+  options:
+    - >-
+      Only if it meets Italian law, the law of the place it was made.
+    - >-
+      Yes, if it meets Israeli law or any other law listed in s. 140.
+    - >-
+      Only if it meets both Israeli and Italian law.
+    - >-
+      Only if an Italian court first confirms it.
+  correct: 1
+  explanation: >-
+    Section 140(א) validates a will in form if it complies with any one of several laws, including Israeli
+    law, the place of making, the testator's domicile, residence or nationality.
+- id: q2
+  question: >-
+    Claire and Marc married in Lyon in 2008 while living in France, and moved to Netanya in 2016. They
+    never signed a property agreement. Which law governs their property relations?
+  options:
+    - >-
+      Israeli law, because they are domiciled in Israel now.
+    - >-
+      Israeli law for property bought after 2016, French law before.
+    - >-
+      French law, their domicile at the time of the marriage.
+    - >-
+      The law the Family Court finds fairer on the facts.
+  correct: 2
+  explanation: >-
+    Section 15 fixes the law of domicile at the time of the marriage; they may change it by an agreement
+    made in accordance with the law of their domicile when they sign it.
+- id: q3
+  question: >-
+    Two Jewish Israeli citizens married by Jewish law live in London. The wife wants a divorce suit heard
+    in Israel. Does the rabbinical court have jurisdiction?
+  options:
+    - >-
+      Yes, because both spouses are Israeli citizens (s. 4א(א)(2)).
+    - >-
+      No, because neither spouse is domiciled in Israel.
+    - >-
+      Only if the English court first grants a civil divorce.
+    - >-
+      Only the Family Court can hear a divorce of couples living abroad.
+  correct: 0
+  explanation: >-
+    Section 4א gives the rabbinical court international jurisdiction where one of the listed connections
+    exists, including that both spouses are Israeli citizens; it does not cover joined matters such as
+    property.
+- id: q4
+  question: >-
+    Yael obtained a civil divorce in New York from her husband, whom she married in an Orthodox ceremony.
+    He refuses to give a get. She is an Israeli citizen; he is not. What Israeli route is open to her?
+  options:
+    - >-
+      None, because the foreign divorce already ended the marriage for all purposes.
+    - >-
+      Enforcing the New York decree under the Foreign Judgments Enforcement Law.
+    - >-
+      A Family Court petition under the 1969 Law, which applies to Jews.
+    - >-
+      A suit in the rabbinical court for a get, even if only she is Israeli.
+  correct: 3
+  explanation: >-
+    Section 4א(ג) lets the rabbinical court hear a suit for a get or to remove the bar to remarriage for
+    a couple divorced abroad, even if only the plaintiff is an Israeli citizen.

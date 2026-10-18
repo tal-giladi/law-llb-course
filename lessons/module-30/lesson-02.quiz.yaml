@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Noa in Be'er Sheva ordered a stroller from an Irish website that ships worldwide. The stroller's
+    frame collapsed in Be'er Sheva and her baby was slightly hurt. Which ground in reg. 166 fits best
+    for serving the Irish company with her claim?
+  options:
+    - >-
+      Para. (2), because the claimant is domiciled in Israel.
+    - >-
+      Para. (3), because the product was in Israel when it failed.
+    - >-
+      Para. (5), damage here from a global seller's product.
+    - >-
+      Para. (9), because the company is a proper party to any Israeli claim.
+  correct: 2
+  explanation: >-
+    Para. (5) covers damage suffered in Israel from a product, where the damage was foreseeable and the
+    defendant trades internationally on a significant scale. Para. (2) is about the defendant's domicile.
+- id: q2
+  question: >-
+    A Greek company is served in Athens with an Israeli claim. Its defence is due in 60 days. It wants
+    to argue that Greece is the natural forum. What must it do?
+  options:
+    - >-
+      File its defence on the merits and include the forum argument in it.
+    - >-
+      Apply in writing by the defence deadline; time to defend runs from the ruling.
+    - >-
+      Ignore the claim, since a foreign defendant is not bound by Israeli service.
+    - >-
+      Apply within 14 days of service, after which the plea is lost.
+  correct: 1
+  explanation: >-
+    Reg. 168 lets a defendant served abroad contest jurisdiction or plead forum non conveniens by an
+    application filed no later than the defence deadline; the time for a defence then runs from the
+    decision.
+- id: q3
+  question: >-
+    A user sues a global social network in Israel. Its terms send disputes to a foreign court and apply
+    that foreign State's law. Following Ben Hamo, what is the most likely outcome?
+  options:
+    - >-
+      Both clauses are void, so the case is heard in Israel under Israeli law.
+    - >-
+      Both clauses stand, because the service is free and the user accepted the terms.
+    - >-
+      The forum clause stands, but the court will apply Israeli law under public policy.
+    - >-
+      The forum clause falls as depriving, but the foreign-law clause may still apply.
+  correct: 3
+  explanation: >-
+    The Supreme Court struck the foreign-court clause as a depriving term, but upheld the California-law
+    clause because the user had not shown it barred him from raising particular claims.
+- id: q4
+  question: >-
+    Ofer must use a US court judgment in a Haifa court. The US is a party to the Apostille Convention.
+    What does he need for the judgment copy to be accepted as a foreign public document?
+  options:
+    - >-
+      An apostille from the competent US authority, plus a certified translation if required.
+    - >-
+      Legalisation by the Israeli consulate in the US and by the US State Department.
+    - >-
+      An apostille issued by the Israeli Ministry of Foreign Affairs in Jerusalem.
+    - >-
+      Nothing, since court judgments are self-proving between friendly States.
+  correct: 0
+  explanation: >-
+    Under the 1961 Convention, in force for Israel since 1978, a public document from another Convention
+    State needs only that State's apostille instead of consular legalisation.

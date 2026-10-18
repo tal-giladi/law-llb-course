@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Gadi lost a case in a Spanish court in 2019. The Spanish creditor applies in Israel in 2026 to
+    enforce it. No treaty sets another period. What is Gadi's strongest first answer?
+  options:
+    - >-
+      The Spanish judge misread the contract, so the judgment is wrong.
+    - >-
+      The application is late: more than five years have passed since the judgment.
+    - >-
+      Spanish judgments need the Attorney General's consent to be enforced.
+    - >-
+      The judgment is in euros, so it cannot be executed in Israel.
+  correct: 1
+  explanation: >-
+    Section 5 bars applications filed more than five years after the judgment was given, unless a treaty
+    says otherwise or the court finds special reasons. Errors on the merits are not a defence.
+- id: q2
+  question: >-
+    A foreign court served Hila at the address she wrote in the loan guarantee. She had moved and never
+    saw the papers. Under VTB v. Margolis, how will an Israeli court likely treat her defence?
+  options:
+    - >-
+      Accept it, because she in fact never received the claim.
+    - >-
+      Reopen the case on the merits so she can now present her evidence.
+    - >-
+      Reject it, as service at the address she gave was reasonable.
+    - >-
+      Refer the question of service back to the foreign court.
+  correct: 2
+  explanation: >-
+    The Israeli court is not an appeal court over foreign procedure; it asks whether there was a
+    reasonable opportunity to defend. In VTB, service at the official address the debtor gave was enough.
+- id: q3
+  question: >-
+    A creditor wants to enforce a judgment from a State whose courts, as far as anyone knows, have never
+    enforced an Israeli judgment, though its law would allow it. Is reciprocity satisfied?
+  options:
+    - >-
+      Likely yes: a reasonable potential of enforcement there is enough.
+    - >-
+      No: reciprocity requires proof of at least one actual enforcement.
+    - >-
+      No: reciprocity requires a bilateral treaty with Israel.
+    - >-
+      Yes, but only if the debtor is not an Israeli citizen.
+  correct: 0
+  explanation: >-
+    The courts apply s. 4(א) liberally: a reasonable potential that an Israeli judgment would be enforced
+    there satisfies it (Gazprom, as applied in VTB). The Attorney General may also ask for enforcement
+    without reciprocity.
+- id: q4
+  question: >-
+    Before a US court, an Israeli company first objected to the court's jurisdiction and, before the
+    ruling on jurisdiction, also argued the merits. It lost on both. Did it consent to jurisdiction?
+  options:
+    - >-
+      Yes, because arguing the merits always amounts to consent.
+    - >-
+      Yes, because a company is treated as resident wherever it trades.
+    - >-
+      It depends only on the US court's own jurisdiction rules.
+    - >-
+      No: merits points made before the jurisdiction ruling do not count.
+  correct: 3
+  explanation: >-
+    Section 6(ב)–(ג) says appearing to contest jurisdiction is not consent, even if merits arguments were
+    also made, provided they came before the foreign court's final decision on jurisdiction.
