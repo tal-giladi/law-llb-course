@@ -55,11 +55,21 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 30 — Private International Law
 - [x] Module 31 — Clinic III: Property, Estates and Money
 - [x] Year 3 QA: links, neutrality, Academy dry run
-- [ ] Year 4 (32–39)
+- [x] Detailed lesson plan for year 4 (modules 32–39)
+- [ ] Module 32 — Intellectual Property
+- [ ] Module 33 — Class Actions and Public-Interest Litigation
+- [ ] Module 34 — Environmental Law
+- [ ] Module 35 — The Legal Profession and Ethics
+- [ ] Module 36 — Seminar Paper
+- [ ] Module 37 — Clinic IV: Public and Criminal Matters Without a Lawyer
+- [ ] Module 38 — Bar-Exam-Style Review
+- [ ] Module 39 — Capstone: Your Own Case File, End to End
+- [ ] Final QA: links, neutrality, Academy dry run
 
 ## Now working
 
-- (none)
+- Module 32: sub-agent A
+- Module 33: sub-agent B
 
 
 

@@ -14,7 +14,7 @@ Status: approved direction (Tal, 2026-10-16): a new course, separate from `activ
 | Repo | `tal-giladi/law-llb-course`, public |
 | Language | My choice for accuracy: English prose; Israeli statutes, rulings, forms and templates quoted in Hebrew (same as the activist course, which Tal approved on 2026-10-12). This is the one deviation from "English only". |
 | Relation to activist course | Standalone. No links to `activist-law-course`; some overlap is accepted. |
-| Scope now | Years 1–3 (modules 1–31) written by 2026-10-18. Year 4 later. |
+| Scope now | Years 1–3 (modules 1–31) written by 2026-10-18; year 4 (modules 32–39) being written. |
 | Practice | Besides the university curriculum, as many practice sections as possible, so a learner can act for themselves without a lawyer wherever Israeli law allows it. |
 
 ## 1. Purpose and honest positioning
@@ -458,7 +458,90 @@ Year 3 total: 9 modules, 83 lessons.
 | 38 | Bar-Exam-Style Review | Mock exam: writing task + 40 procedural + 40 substantive questions |
 | 39 | Capstone: Your Own Case File, End to End | A complete file in a real matter of the learner's own |
 
-Module and lesson titles for years 2–4 are provisional until each year is planned in detail.
+#### Year 4 lessons (planned 2026-10-18)
+
+Year 4 modules build on years 1–3: link to earlier lessons instead of repeating them. Module 37 reuses module 5, 14 and 24 templates; module 38 reviews the Bar subjects with links to the modules that teach them; module 39 draws on every clinic.
+
+**Module 32 — Intellectual Property**
+1. What intellectual property protects: an overview
+2. Copyright: works, authorship, ownership and duration
+3. Infringement, fair use and moral rights
+4. Copyright online: takedowns, disclosure of infringers and blocking
+5. Trademarks: registration, distinctiveness, infringement and passing off
+6. Patents and designs: the basics
+7. Trade secrets and employee inventions
+8. Practice lab: protect your own work and send or answer a takedown notice
+9. Practice lab: a trademark search and registration application
+
+**Module 33 — Class Actions and Public-Interest Litigation**
+1. The Class Actions Law: purpose and the Second Schedule
+2. Certification: the requirements, the representative plaintiff and the lawyer
+3. Settlements, opting out and objections
+4. Remedies, the class-actions fund, fees and awards
+5. Public-interest litigation: public petitioners, NGOs and amicus briefs
+6. Choosing the tool: class action, small claim or regulator complaint
+7. Practice lab: read a class-action settlement and decide whether to opt out or object
+8. Practice lab: an objection to a settlement
+
+**Module 34 — Environmental Law**
+1. The framework of Israeli environmental law
+2. Pollution and nuisance: air, noise and odour
+3. Water, waste, hazardous materials and recycling laws
+4. Environmental data: the pollutant release register and other public sources
+5. Environmental information and freedom of information
+6. Enforcement: fines, citizens' suits and private complaints
+7. Climate law: the current state of legislation and litigation
+8. Practice lab: an environmental complaint and a data request
+
+**Module 35 — The Legal Profession and Ethics**
+1. The Bar and the profession: admission, internship and the Bar exam
+2. What only lawyers may do, and unauthorised practice
+3. Professional conduct: loyalty, conflicts and confidentiality
+4. Fees: fee agreements, contingency fees and statutory caps
+5. Choosing and supervising a lawyer
+6. When things go wrong: ethics complaints, fee disputes and malpractice claims
+7. AI in legal work: duties and the courts' response
+8. Practice lab: review a fee agreement and draft an ethics complaint (dry run)
+
+**Module 36 — Seminar Paper**
+1. From proseminar to seminar: what changes
+2. Original research: doctrinal, comparative, empirical and historical
+3. Working with primary sources at scale: legislative history, protocols and case databases
+4. Writing the long paper: chapters, argument maps and revision
+5. Presenting and defending your paper
+6. Practice lab: write the 30-page seminar paper
+
+**Module 37 — Clinic IV: Public and Criminal Matters Without a Lawyer**
+1. Choosing the matter and building the file
+2. An administrative petition from start to finish
+3. A police complaint and following it up
+4. Defending a traffic ticket: the request to be tried
+5. Deleting a police record
+6. A complaint to an oversight body
+7. The hearing in the administrative or magistrates' court
+8. Closing the file and when to get a lawyer
+
+**Module 38 — Bar-Exam-Style Review**
+1. The Bar exam: structure, rules and strategy
+2. Procedural law review I: jurisdiction and civil procedure
+3. Procedural law review II: criminal procedure, evidence, execution, insolvency and discipline
+4. Substantive law review I: contracts, torts and limitation
+5. Substantive law review II: property, commercial and corporate law, real-estate taxation
+6. Substantive law review III: criminal law, Basic Laws and professional ethics
+7. The writing task: drafting a legal document under time pressure
+8. Practice lab: a full mock exam
+
+**Module 39 — Capstone: Your Own Case File, End to End**
+1. Choosing your capstone matter
+2. The case theory and the strategy map
+3. Building the evidence and research file
+4. The documents: letters, filings and submissions
+5. Running the matter and keeping the log
+6. Retrospective: what you learned and your next steps
+
+Year 4 total: 8 modules, 61 lessons. Course total: 39 modules, 327 lessons.
+
+Detailed lesson lists for years 2–4 are in the "Year N lessons" subsections.
 
 ## 6. Lesson format (exact, every lesson)
 
