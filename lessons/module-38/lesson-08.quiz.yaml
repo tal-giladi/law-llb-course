@@ -1,0 +1,87 @@
+- id: q1
+  question: >-
+    On the mock you scored 15/20 on the writing task, 22/40 correct on the procedural paper and 26/40
+    correct on the substantive paper. Using the weights 20/40/40, what is your total, and did you reach
+    the general pass mark?
+  options:
+    - >-
+      63, which reaches the general pass mark of 60.
+    - >-
+      58, which falls short of the general pass mark of 60.
+    - >-
+      48, because only the multiple-choice papers count towards the pass mark.
+    - >-
+      70, because the writing task counts double when it is above 70%.
+  correct: 0
+  explanation: >-
+    15 + 22 + 26 = 63 out of 100 with these weights, at or above the 60% pass mark in reg. 18ג. The
+    Regulations require at least 40% for each questionnaire and 15% for the writing task (reg. 18(ג)).
+- id: q2
+  question: >-
+    A defendant learns of a default judgment only when an execution warning reaches his real address;
+    the claim had been mailed to an old address. In a set-aside motion, which argument should come first?
+  options:
+    - >-
+      That the plaintiff's claim is weak on its merits.
+    - >-
+      That it must go as of right: the claim was never lawfully served.
+    - >-
+      That he is willing to pay the court fee twice.
+    - >-
+      That the execution registrar should decide the dispute instead.
+  correct: 1
+  explanation: >-
+    Where service was defective the judgment is set aside as of right, without weighing the defence; the
+    discretionary route (reason for the default and prospects of the defence) is the alternative (reg. 131;
+    lesson 15.3).
+- id: q3
+  question: >-
+    Your error log after the mock shows 7 errors in criminal procedure, 2 in civil procedure and 1 in
+    contracts. You have one week. What is the most effective next step?
+  options:
+    - >-
+      Re-read all of modules 3 and 15, which are the largest subjects.
+    - >-
+      Re-sit the whole mock at once to see whether the score improves.
+    - >-
+      Revise lesson 38.3's tables, redo its drill, and re-test the logged questions.
+    - >-
+      Skip criminal procedure, since it is only one of several subjects.
+  correct: 2
+  explanation: >-
+    Revision should follow the error count by subject and rule; the review lesson's tables and drill
+    target exactly the logged rules, and re-testing confirms the fix.
+- id: q4
+  question: >-
+    A criminal judgment with reasons was given in court on 3 May; a copy reached the defendant on 9 May.
+    He files an appeal on 20 June. Is it in time?
+  options:
+    - >-
+      Yes, because 45 days run from receipt of the copy.
+    - >-
+      Yes, because criminal appeals have 60 days, like civil ones.
+    - >-
+      No, because criminal appeals must be filed within 30 days.
+    - >-
+      No, because the 45 days ran from the day the judgment was given.
+  correct: 3
+  explanation: >-
+    CPL s. 199: 45 days from the day the judgment was given (from the reasons if given later); 3 May plus
+    45 days is 17 June. The court may extend for good reason (s. 201).
+- id: q5
+  question: >-
+    A will leaves a flat to the lawyer who drafted it, and everything else to the testator's nephew. Under
+    the Succession Law, what happens to the gift of the flat?
+  options:
+    - >-
+      It is valid if the lawyer charged no fee for drafting.
+    - >-
+      It is void, and so is the whole will.
+    - >-
+      It is void, while the rest of the will stands.
+    - >-
+      It is valid if the Registrar has no doubt about free will.
+  correct: 2
+  explanation: >-
+    A provision benefiting the person who drafted the will is void (Succession Law s. 35); a void part does
+    not void the rest unless inseparable (s. 38(ב)).

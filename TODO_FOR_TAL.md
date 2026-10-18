@@ -35,3 +35,4 @@
 - Module 35: AI-citation rulings (בג"ץ 38379-12-24, Zlatin 77773-12-20, Ramat Gan 63194-08-25) from press reports only; the Bar's AI opinion text not extracted.
 - Module 36: TAU seminar rules cited from the 2016–17 faculty regulations (no current edition online).
 - Module 37: Traffic Administrative Violations Law 2024 (phased from 8.2.2026) — traffic-tribunal fee and system address, and the full list of covered violations, need checking.
+- Module 38: next Bar sitting date, statute list and time/weight format from a prep-course site only (Bar site not opened).

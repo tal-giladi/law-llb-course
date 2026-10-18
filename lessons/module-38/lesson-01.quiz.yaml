@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    Omer, who completed an online law course with a certificate but holds no recognised law degree,
+    asks whether he can register for the next Bar sitting if he studies hard. What is the answer?
+  options:
+    - >-
+      Yes, provided he passes all three parts with at least 60%.
+    - >-
+      Yes, but only for the substantive paper, since procedure needs an internship.
+    - >-
+      No, because he needs recognised legal education and a completed internship first.
+    - >-
+      No, unless the examining committee grants him a special exemption.
+  correct: 2
+  explanation: >-
+    Section 24 requires recognised legal education, an internship and the Bar exams, and s. 38 places
+    the exam at the end of the internship. A course certificate is not a recognised degree.
+- id: q2
+  question: >-
+    A candidate is building her revision plan. Under reg. 18א, which subject belongs to the procedural
+    paper rather than the substantive one?
+  options:
+    - >-
+      Complaints and appeals in the Bar's disciplinary tribunals.
+    - >-
+      The Professional Conduct Rules on conflicts of interest and confidentiality.
+    - >-
+      Limitation of civil actions under the Prescription Law.
+    - >-
+      Real-estate taxation, including purchase tax and appreciation tax.
+  correct: 0
+  explanation: >-
+    Reg. 18א(א)(6) puts disciplinary procedure on the procedural paper; ethics rules, limitation and
+    real-estate taxation are substantive subjects under reg. 18א(ב).
+- id: q3
+  question: >-
+    Noa sat the exam on 23 June 2026 and scored 57. A friend tells her she failed because the pass
+    mark is 60. Who is right?
+  options:
+    - >-
+      The friend, because reg. 18ג sets 60 and only the committee may add bonus points.
+    - >-
+      The friend, unless Noa is a reservist entitled to a supplementary oral exam.
+    - >-
+      Neither, because the pass mark is set anew in each committee notice.
+    - >-
+      Noa, because a temporary order set the pass mark at 55 for that sitting.
+  correct: 3
+  explanation: >-
+    Reg. 18ג sets 60 in general, but a temporary order set 55 for the exam held on 23.6.2026, so 57
+    passed. The supplementary oral exam matters only below the applicable pass mark.
+- id: q4
+  question: >-
+    You are pacing the substantive paper on the format reported for recent sittings (40 questions in
+    160 minutes). At minute 55 you have answered 10 questions. What should you do?
+  options:
+    - >-
+      Keep going at the same pace, since the hardest questions usually come first.
+    - >-
+      Mark the open questions, answer the quick ones first, and return in a second pass.
+    - >-
+      Skip the statute booklet entirely for the rest of the paper to save time.
+    - >-
+      Leave the last ten questions blank to protect accuracy on the others.
+  correct: 1
+  explanation: >-
+    Four minutes a question means about 40 minutes for ten; you are 15 minutes behind. A triage pass
+    recovers time; a blank scores nothing, and the Regulations set no penalty for a wrong answer.
+- id: q5
+  question: >-
+    A candidate received his grade on 1 July and believes his writing task was marked too harshly.
+    What must he do, and by when?
+  options:
+    - >-
+      Petition the administrative affairs court within 45 days of the grade.
+    - >-
+      Ask the examiner informally to re-mark it before the next sitting.
+    - >-
+      File a written, reasoned appeal within 14 days of notice of the grade.
+    - >-
+      Complain to the Commissioner for Supervision of Internships within 30 days.
+  correct: 2
+  explanation: >-
+    Reg. 18ה requires a written, reasoned appeal within 14 days of notice of the grade; a writing-task
+    appeal is marked by an examiner who did not mark it originally.

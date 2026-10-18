@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A suspect has been held for 30 days on successive remand orders for the same event. The police ask
+    for another 10 days. What is required?
+  options:
+    - >-
+      Nothing more than a new judicial order on the usual grounds.
+    - >-
+      The approval of a Supreme Court justice.
+    - >-
+      The suspect's consent to the extension.
+    - >-
+      The Attorney General's approval for remand beyond 30 days.
+  correct: 3
+  explanation: >-
+    Each remand order is up to 15 days, and no more than 30 days in a row for the same event without the
+    Attorney General's approval (Arrests Law s. 17). A Supreme Court justice is needed only past the
+    75-day indictment deadline (ss. 59, 62).
+- id: q2
+  question: >-
+    A co-accused turned state witness in return for a promised benefit and is the only witness against
+    Yosef. What does the court need to convict Yosef?
+  options:
+    - >-
+      Corroboration: independent evidence implicating Yosef.
+    - >-
+      Only "something extra", however slight it may be.
+    - >-
+      Nothing more, if the court gives reasons for believing him.
+    - >-
+      Strengthening from any source, even one that does not implicate Yosef.
+  correct: 0
+  explanation: >-
+    An accomplice's sole testimony needs strengthening, but a state witness's testimony needs
+    corroboration (Evidence Ordinance s. 54א(א)).
+- id: q3
+  question: >-
+    A debtor received an execution warning on a judgment debt. She cannot pay in full and wants to
+    avoid being treated as an evader. What protects her most directly?
+  options:
+    - >-
+      Filing an opposition within 30 days of the warning.
+    - >-
+      A complete payment-order request filed within the warning period.
+    - >-
+      Writing to the creditor that she disputes the judgment.
+    - >-
+      Waiting for the registrar to summon her to an inquiry.
+  correct: 1
+  explanation: >-
+    A payment-order request under s. 7א filed in time and with the required documents counts as
+    appearing for a means inquiry (reg. 12ב); an opposition is available against a bill, not a judgment,
+    and not appearing leads to deemed-evader status (s. 67(ד)).
+- id: q4
+  question: >-
+    Three months before applying to open insolvency proceedings, while already insolvent, Moti repaid a
+    loan in full to his brother and nothing to other creditors. What may the court do?
+  options:
+    - >-
+      Nothing, because repaying a real debt is never a voidable transaction.
+    - >-
+      Set it aside only if Moti intended to hide assets.
+    - >-
+      Set it aside as a preference to a relative within one year.
+    - >-
+      Set it aside only if the brother knew Moti was insolvent.
+  correct: 2
+  explanation: >-
+    A preference while insolvent may be set aside if made within three months before the application,
+    or one year for a relative (Insolvency Law s. 219); intent to hide assets is a separate ground (s. 221).
+- id: q5
+  question: >-
+    A district ethics committee decided not to charge a lawyer about whom Ruth complained. Ruth wants
+    the lawyer prosecuted. What can she do?
+  options:
+    - >-
+      File the disciplinary charge herself in the district tribunal.
+    - >-
+      Appeal to the Jerusalem District Court within 30 days.
+    - >-
+      Ask another entitled prosecutor, such as the Attorney General.
+    - >-
+      Nothing, because the committee's decision is final and binding.
+  correct: 2
+  explanation: >-
+    Only the ethics committees, the Attorney General and the State Attorney may file a charge (Bar
+    Association Law s. 63); the committee's notice must tell her she may turn to another prosecutor (2015
+    rules, r. 8).

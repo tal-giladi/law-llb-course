@@ -1,0 +1,86 @@
+- id: q1
+  question: >-
+    In a 45-minute writing task you must draft a statement of claim. You have 10 minutes left and the
+    detail section is half written. What gives you the most marks for the time left?
+  options:
+    - >-
+      Adding a page of case law to strengthen the legal argument in the detail.
+    - >-
+      Rewriting the summary in more elegant Hebrew before going any further.
+    - >-
+      Finishing the remaining facts briefly, then stating each remedy with its sum.
+    - >-
+      Drafting a separate affidavit, since every claim must have one attached.
+  correct: 2
+  explanation: >-
+    A claim without its remedies and sums is incomplete on content; reg. 14(א) wants facts, not a
+    case-law essay, and the remedy with its value belongs in the heading and the summary (regs 10–11).
+- id: q2
+  question: >-
+    Which order of the three parts of a statement of claim does reg. 9(ג) require?
+  options:
+    - >-
+      Heading, summary of the arguments, detail of the arguments.
+    - >-
+      Summary of the arguments, heading, detail of the arguments.
+    - >-
+      Heading, detail of the arguments, summary of the arguments.
+    - >-
+      Detail of the arguments, legal argument, then a short heading.
+  correct: 0
+  explanation: >-
+    Reg. 9(ג): כותרת, תמצית הטענות, פירוט הטענות, in that order; the registry may refuse a pleading that
+    breaks this structure (reg. 33).
+- id: q3
+  question: >-
+    You draft a defence. The claim's paragraph 7 says the defendant received ₪30,000. Your client denies
+    receiving any money. Which wording protects the client best?
+  options:
+    - >-
+      "The defendant denies every allegation in the statement of claim."
+    - >-
+      "Paragraph 7 is not admitted and the plaintiff must prove it."
+    - >-
+      "The defendant reserves all his rights regarding paragraph 7."
+    - >-
+      "Para. 7 is denied: the defendant never received any money."
+  correct: 3
+  explanation: >-
+    A defendant is treated as admitting every fact not denied expressly and in detail (reg. 14(ב)); a
+    general denial or a reservation does not meet that test.
+- id: q4
+  question: >-
+    A supplier delivered a sofa three weeks late; the contract does not say delay is fundamental, and a
+    reasonable buyer might still have contracted. The buyer wants to end the contract. Which letter is
+    right?
+  options:
+    - >-
+      An immediate cancellation notice relying on s. 7(א) of the Remedies Law.
+    - >-
+      A notice giving a reasonable extension, then cancelling if it is not used.
+    - >-
+      A demand for agreed damages, which the contract does not provide for.
+    - >-
+      A statement of claim, since letters have no legal effect on contracts.
+  correct: 1
+  explanation: >-
+    For a non-fundamental breach the injured party must first give an extension and may cancel only if
+    the contract is not performed within a reasonable time after it (Remedies Law s. 7(ב)).
+- id: q5
+  question: >-
+    Your draft motion to set aside a default judgment states the reasons for missing the deadline but not
+    what the defence would be. What is the main weakness?
+  options:
+    - >-
+      None, because the reason for the default is the only question the court asks.
+    - >-
+      It lacks the prospects of the defence, which weigh most in the court's discretion.
+    - >-
+      It should have been filed as an appeal, since a set-aside motion is not available.
+    - >-
+      It needs no affidavit, so the facts it states will not be considered by the court.
+  correct: 1
+  explanation: >-
+    Where service was lawful, the court weighs the reason for the default and, more heavily, the
+    prospects of the defence; the motion must set out the defence with an affidavit (regs 50, 131;
+    lesson 15.3).

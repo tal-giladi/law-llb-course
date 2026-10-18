@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A contractor was 10 days late finishing a kitchen. The contract does not say delay is fundamental,
+    and a reasonable client would have signed even knowing of such a delay. The client sent a
+    cancellation notice on day 11. What is the legal position?
+  options:
+    - >-
+      The cancellation is valid because any delay entitles the client to cancel.
+    - >-
+      The cancellation is invalid; he first had to give an extension to cure the breach.
+    - >-
+      The cancellation is valid if sent within a reasonable time after the breach.
+    - >-
+      The cancellation is valid but he loses his right to damages.
+  correct: 1
+  explanation: >-
+    For a non-fundamental breach the injured party may cancel only after giving an extension that was
+    not used within a reasonable time (Remedies Law s. 7(ב)); a fundamental breach allows immediate
+    cancellation (s. 7(א)).
+- id: q2
+  question: >-
+    A software company's online terms say the customer "waives any right to sue in court". A customer
+    sues in the small claims court. How should the court treat the clause?
+  options:
+    - >-
+      As valid, because the customer clicked "I agree".
+    - >-
+      As presumed depriving, which the supplier may rebut.
+    - >-
+      As valid only if the price was reduced in exchange for it.
+    - >-
+      As void, since it bars the customer from the courts.
+  correct: 3
+  explanation: >-
+    A standard-contract term that denies or limits the customer's right to go to court is void (Standard
+    Contracts Law s. 5(א)), and any court may rule on it in the dispute before it (s. 19).
+- id: q3
+  question: >-
+    A shop owner's employee, while delivering goods in the company van, pushes a customer during an
+    argument about payment, injuring her. She sues the shop owner. What is the main question?
+  options:
+    - >-
+      Whether he acted in the course of employment, even improperly.
+    - >-
+      Whether the shop owner personally authorised the push.
+    - >-
+      Whether the employee himself has assets to pay damages.
+    - >-
+      Whether the road-accident law applies because a van was used.
+  correct: 0
+  explanation: >-
+    An employer is liable for an act authorised or ratified, or done in the course of employment, even in
+    an improper way, but not for the employee's own purposes (Civil Wrongs Ordinance s. 13). The van was
+    not used for transport in causing the harm, so the road-accident law is not the route.
+- id: q4
+  question: >-
+    Shira, 14, was injured in 2020 by a neighbour's negligence. She turns 18 in 2024. Ignoring other
+    suspensions, until when may she sue under the Prescription Law?
+  options:
+    - >-
+      Until 2027, seven years from the injury.
+    - >-
+      Until 2030, ten years from the injury.
+    - >-
+      Until 2031, seven years from her 18th birthday.
+    - >-
+      Until 2026, two years after she turned 18.
+  correct: 2
+  explanation: >-
+    Time while the plaintiff is under 18 is not counted (Prescription Law s. 10), so the seven-year
+    period (s. 5(1)) runs from her 18th birthday in 2024.
+- id: q5
+  question: >-
+    A developer negotiated a construction contract to full agreement with Barak's firm, then signed with
+    another contractor who never bid. No contract was formed. What can Barak's firm claim?
+  options:
+    - >-
+      Enforcement of the agreed terms, because negotiations were complete.
+    - >-
+      Nothing, because no binding contract was ever formed.
+    - >-
+      Damages under s. 12, possibly including expected profit.
+    - >-
+      Cancellation of the contract with the other contractor.
+  correct: 2
+  explanation: >-
+    Bad-faith negotiation gives damages only (Contracts Law s. 12(ב)); in Kal Binyan the Supreme Court
+    held that they may cover expectation (lost profit) where the contract would otherwise have been made.

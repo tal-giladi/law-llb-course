@@ -63,6 +63,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בוררות** (Borerut) — Arbitration under the Arbitration Law 1968.
 - **בחינות ההסמכה** (bhinot ha-hasmakha) — The Bar qualifying exams after the internship (s. 38).
 - **בחינות הלשכה** (bhinot ha-lishka) — the Israel Bar examinations.
+- **בחינת ההסמכה** (bhinat ha-hasmakha) — The Bar qualifying exam taken after the internship (Bar Association Law s. 38); written, in three parts (exam regulations reg. 18).
 - **בטלות יחסית** (Batlut yahasit) — Relative voidness: the doctrine letting a court decline to void a defective act given the circumstances.
 - **בידוי נתונים** (Bidui netunim) — Fabrication of data.
 - **ביטוח אחריות** (Bituach achrayut) — Liability insurance; the injured third party may claim directly (Insurance Contract Law s. 68).
@@ -197,6 +198,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הודעת חוב** (hoda'at chov) — Debt notice a dealer must send a consumer before collection (Consumer Protection Law s. 13ב2).
 - **הודעת חילול** (hoda'at chilul) — Notice of dishonour: notice to drawer and endorsers that a bill was dishonoured (ss. 47–49).
 - **הודעת תשלום קנס** (hoda'at tashlum knas) — Fine-payment notice for a fine offence (CPL s. 228(ב)).
+- **הוועדה הבוחנת** (ha-va'ada ha-bohenet) — The examining committee: nine members appointed by the Minister of Justice that sets the Bar exam and publishes each sitting's format and statute list (s. 40; reg. 18(ד)).
 - **הוועדה לבחירת שופטים** (Ha-va'ada li-vhirat shoftim) — The Judicial Selection Committee (Basic Law: The Judiciary s. 4).
 - **הוועדה לענייני פיצויים ותמלוגים** (ha-va'ada le-inyanei pitzuyim ve-tamlugim) — Compensation and Royalties Committee: decides an employee's compensation for a service invention absent agreement (Patents Law ss. 109, 134).
 - **הון מניות רשום / מונפק** (Hon menayot rashum / munpak) — Registered (authorised) / issued share capital.
@@ -491,6 +493,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ידיד בית המשפט** (yedid beit ha-mishpat) — Amicus curiae: a body without a personal stake heard to assist the court; adopted in Kozli (1999).
 - **ידיד קרוב** (Yedid karov) — Close friend, who may represent a claimant before the NII (NII Law s. 386).
 - **ידיעה שיפוטית** (yedi'a shiputit) — Judicial notice: facts and law the court takes without proof; every Israeli law is judicially noticed (s. 57ב), foreign law must be proved.
+- **יומן טעויות** (yoman ta'uyot) — Error log: a record of each wrong answer with its rule, section and lesson, used to plan revision.
 - **יומן מועדים** (yoman mo'adim) — Deadline diary: each deadline with the event it runs from and the proof of that event's date.
 - **יומן תיק** (Yoman tik) — Case log: a running record of every step, communication and deadline in a dispute.
 - **יורש אחר יורש** (yoresh ahar yoresh) — Successive heir who takes what remains after the first heir (s. 42).
@@ -556,6 +559,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מאסדר** (Ma'asder) — Regulator.
 - **מאסר על תנאי** (Maasar al tnai) — Suspended sentence.
 - **מבחן האמצעי שפגיעתו פחותה** (Mivhan ha-emtza'i she-pgi'ato pehuta) — Least harmful means test: no other means achieves the purpose equally with less harm.
+- **מבחן הדמיה** (mivhan hadmaya) — Mock exam taken under real time limits.
 - **מבחן ההשתלבות** (Mivhan ha-hishtalvut) — Integration test: whether the work is part of the business (positive side) and whether the worker runs a business of his own (negative side).
 - **מבחן המשולש** (mivchan ha-meshulash) — The triple test for confusing similarity: sight and sound, goods and customers, other circumstances.
 - **מבחן הקשר הרציונלי** (Mivhan ha-kesher ha-ratzionali) — Rational connection test: the means actually advance the purpose.
@@ -594,6 +598,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מחלקה לשירותים חברתיים** (Mahlaka le-sherutim hevratiyim) — Municipal social services department.
 - **מחקר אמפירי** (Mechkar empiri) — Empirical research: data about how law works in practice.
 - **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
+- **מטלת כתיבה** (matlat ktiva) — The writing (drafting) task, the third part of the Bar exam, at least 15% of the grade (reg. 18(ג)).
 - **מידע להיתר** (meida le-heter) — Official planning information for a plot given by the committee engineer before a permit application (s. 145(א1)).
 - **מידע על איכות הסביבה** (meida al eichut ha-sviva) — Environmental information (FOI Law s. 6א): data on substances released to the environment and noise, smell and radiation measurements outside the private domain, which authorities must publish proactively.
 - **מידע פלילי** (meida plili) — Criminal information: the contents of the criminal register and the police register (Criminal Information Law 2019 s. 1).
@@ -800,6 +805,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עסקה חריגה** (Iska harigah) — Extraordinary transaction: outside ordinary course, not on market terms, or materially affecting the company (Companies Law s. 1).
 - **עסקה לתקופה קצובה** (Iska li-tkufa ktsuva) — Fixed-term consumer transaction; a term continuing it automatically after its end date is void (Consumer Protection Law s. 13א).
 - **עסקה מסחרית** (Iska mischarit) — Commercial transaction: a private-law commercial act for which a foreign State has no immunity (s. 3 of the 2008 Law).
+- **עסקה נוגדת** (iska noguedet) — Competing (conflicting) transaction in the same land, decided by Land Law s. 9.
 - **עסקת מכר מרחוק** (iskat mekher me-rahok) — distance sale (Consumer Protection Law s. 14ג).
 - **עצימת עיניים** (Atzimat einayim) — Wilful blindness, treated as awareness (s. 20(ג)(1)).
 - **עקרון האשמה** (Ekron ha-ashma) — Culpability principle: no punishment without personal fault.
@@ -871,6 +877,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פסק דין בהסכמה** (psak din be-haskama) — Judgment by consent (in agreed terms).
 - **פסק דין בהעדר הגנה** (Psak din be'heder hagana) — Default judgment when no defence is filed.
 - **פסק דין על דרך הפשרה** (Psak din al derech hapshara) — Decision by way of compromise, with both parties' consent (Courts Law s. 79א(א)).
+- **פסק חוץ** (psak hutz) — Foreign judgment; enforced in Israel only under the Foreign Judgments Enforcement Law 1958.
 - **פסק־חוץ** (psak chutz) — Foreign judgment: a judgment of a foreign court in a civil matter (Foreign Judgments Enforcement Law s. 1).
 - **פסקת ההגבלה** (piskat ha-hagbala) — the limitation clause (Basic Law: Human Dignity and Liberty s. 8).
 - **פסקת התגברות** (Piskat hitgabrut) — Override clause: Freedom of Occupation s. 8, 61 members and an express statement, lapsing after four years.
@@ -927,6 +934,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **צורך** (Tzorekh) — Necessity (s. 34יא).
 - **צורך משפטי** (Tsorekh mishpati) — Legal need: a problem a person cannot solve without legal help or a legal process.
 - **צידוק** (Tziduk) — Justification: lawful authority, consent to medical treatment, sport (s. 34יג).
+- **ציון משוקלל** (tziyun meshuklal) — Weighted score combining the parts of an exam by their weights.
+- **ציון עובר** (tziyun over) — Pass mark: 60% of the total grade (reg. 18ג), lowered by temporary order for specific sittings.
 - **צירוף בעלי דין** (Tziruf ba'alei din) — Joinder of parties (reg. 26).
 - **קאדי / קאדי־מד׳הב** (Kadi / kadi-madhab) — Judge of a Sharia court / of a Druze religious court.
 - **קבילות** (kvilut) — Admissibility: whether the court may receive an item of evidence at all.
@@ -971,6 +980,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רשות מקרקעי ישראל (רמ״י)** (Reshut mekarke'ei yisra'el) — Israel Land Authority, which manages state, Development Authority and JNF land, mostly by long leases.
 - **רשות רישוי** (reshut rishui) — Licensing authority: the local committee chair and engineer together, who grant ordinary permits (s. 30).
 - **רשימת הבקשות** (Reshimat habakashot) — List of motions filed before the first pre-trial hearing (reg. 49(ג)).
+- **רשימת החיקוקים** (reshimat ha-hikukim) — The list of statutes examined at a sitting, published by the committee at least three months before the exam (reg. 18(ד)).
 - **רשלנות** (Rashlanut) — Negligence: careless conduct towards someone owed a duty, causing damage (ss. 35–36).
 - **רשלנות מקצועית** (rashlanut miktzo'it) — Professional negligence (malpractice), measured by the reasonable lawyer (Civil Wrongs Ordinance s. 35).
 - **רשם** (rasham) — registrar: a judicial officer who decides procedural and some substantive matters.
@@ -980,6 +990,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רת״ק (רשות ערעור תביעות קטנות)** (Ratak) — Application for leave to appeal a small-claims decision to the district court.
 - **שאלה מדריכה** (she'ela madricha) — Leading question, suggesting the answer; the tool of cross-examination, not of examination in chief.
 - **שאלון** (She'elon) — Interrogatory: written questions answered by affidavit (reg. 56).
+- **שאלון רב־ברירה** (she'elon rav-brera) — Multiple-choice questionnaire; the Bar exam has one on procedural law and one on substantive law, each at least 40% of the grade (reg. 18(ג)).
 - **שאלות הבהרה** (she'elot havhara) — Written clarification questions to a court expert, within set deadlines.
 - **שאלות ותשובות (שו״ת)** (She'elot u-teshuvot) — Responsa: authorities' written rulings on concrete questions.
 - **שאלת המחקר** (She'elat ha-mechkar) — The research question: one sentence a paper sets out to answer.
@@ -1075,6 +1086,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תלוש שכר** (Tlush sachar) — Payslip, which must contain the details in the Wage Protection Law Schedule.
 - **תלמוד** (Talmud) — The Babylonian and Jerusalem discussions of the Mishnah; records disputes and rulings.
 - **תמליל** (Tamlil) — Transcript of a recording.
+- **תמצית הטענות** (tamtzit ha-te'anot) — Summary of the arguments, the second part of a statement of claim or defence (CPR regs 9(ג), 11, 13).
 - **תמריצים** (Tamritsim) — Incentives: the rewards and costs a rule creates for those deciding whether to obey it.
 - **תנאי מקפח** (tnai mekape'ah) — depriving (unfair) term in a standard contract (s. 3).
 - **תנאי סף** (Tnai saf) — Threshold condition for participating in a tender.

@@ -13,6 +13,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Appeal to a National Insurance medical appeals committee, and outline of an appeal on law (ערר לוועדה רפואית לעררים / ערעור בשאלה משפטית)](nii-medical-committee-appeal.md)
 - [Argument from principle (טיעון מן העקרונות)](argument-from-principle.md)
 - [Arnona objection and appeal (השגה למנהל הארנונה וערר לוועדת הערר)](arnona-objection-and-appeal.md)
+- [Bar drafting task skeletons (שלדים למטלת הניסוח)](bar-drafting-task-skeletons.md)
 - [Bounced-cheque response kit (מענה לדרישה על שיק שחזר וערעור על הגבלת חשבון)](bounced-cheque-response-kit.md)
 - [Case brief (תקציר פסק דין)](case-brief.md)
 - [Caveat request checklist (בקשה לרישום הערת אזהרה – רשימת בדיקה)](caveat-request-checklist.md)

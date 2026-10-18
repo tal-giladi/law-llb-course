@@ -1,0 +1,12 @@
+- **בחינת ההסמכה** (bhinat ha-hasmakha) — The Bar qualifying exam taken after the internship (Bar Association Law s. 38); written, in three parts (exam regulations reg. 18).
+- **הוועדה הבוחנת** (ha-va'ada ha-bohenet) — The examining committee: nine members appointed by the Minister of Justice that sets the Bar exam and publishes each sitting's format and statute list (s. 40; reg. 18(ד)).
+- **שאלון רב־ברירה** (she'elon rav-brera) — Multiple-choice questionnaire; the Bar exam has one on procedural law and one on substantive law, each at least 40% of the grade (reg. 18(ג)).
+- **מטלת כתיבה** (matlat ktiva) — The writing (drafting) task, the third part of the Bar exam, at least 15% of the grade (reg. 18(ג)).
+- **רשימת החיקוקים** (reshimat ha-hikukim) — The list of statutes examined at a sitting, published by the committee at least three months before the exam (reg. 18(ד)).
+- **ציון עובר** (tziyun over) — Pass mark: 60% of the total grade (reg. 18ג), lowered by temporary order for specific sittings.
+- **פסק חוץ** (psak hutz) — Foreign judgment; enforced in Israel only under the Foreign Judgments Enforcement Law 1958.
+- **עסקה נוגדת** (iska noguedet) — Competing (conflicting) transaction in the same land, decided by Land Law s. 9.
+- **תמצית הטענות** (tamtzit ha-te'anot) — Summary of the arguments, the second part of a statement of claim or defence (CPR regs 9(ג), 11, 13).
+- **מבחן הדמיה** (mivhan hadmaya) — Mock exam taken under real time limits.
+- **ציון משוקלל** (tziyun meshuklal) — Weighted score combining the parts of an exam by their weights.
+- **יומן טעויות** (yoman ta'uyot) — Error log: a record of each wrong answer with its rule, section and lesson, used to plan revision.

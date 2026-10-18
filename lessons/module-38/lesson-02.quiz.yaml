@@ -1,0 +1,88 @@
+- id: q1
+  question: >-
+    A married Jewish couple, both Israeli citizens, signed an agreement that "all disputes between us,
+    including the divorce itself, will be decided by the Family Court". The wife files for divorce in
+    the Family Court. What should the court do?
+  options:
+    - >-
+      Hear it, because the parties agreed in writing on the forum.
+    - >-
+      Hear it, because the Family Court hears all family matters.
+    - >-
+      Decline it: the rabbinical court alone may decide the divorce.
+    - >-
+      Refer it to arbitration, because the agreement is an arbitration clause.
+  correct: 2
+  explanation: >-
+    Marriage and divorce of Jews who are citizens or residents are in the rabbinical courts' exclusive
+    jurisdiction (Rabbinical Courts Jurisdiction Law s. 1), and consent cannot create subject-matter
+    jurisdiction (Amir).
+- id: q2
+  question: >-
+    A supplier sues a customer. The customer's defence denies the contract in detail but does not
+    mention the invoice amount at all. At trial, how is the amount treated?
+  options:
+    - >-
+      As disputed, because damages are disputed unless expressly admitted.
+    - >-
+      As admitted, because every fact not denied in detail is admitted.
+    - >-
+      As admitted only if the plaintiff filed a reply within 14 days.
+    - >-
+      As a question for a court expert appointed at the pre-trial.
+  correct: 0
+  explanation: >-
+    Reg. 14(ב) treats undenied facts as admitted, but the amount of damages stays disputed unless the
+    defendant expressly admitted it.
+- id: q3
+  question: >-
+    A magistrates' court decided, during the case, to transfer it to another district on venue grounds.
+    The plaintiff wants to challenge the decision. What is the correct route?
+  options:
+    - >-
+      Wait and raise it in the appeal against the final judgment.
+    - >-
+      Appeal as of right to the district court within 60 days.
+    - >-
+      Ask the same judge for reconsideration, which is the only remedy.
+    - >-
+      Apply now for leave to appeal the venue decision.
+  correct: 3
+  explanation: >-
+    Reg. 150 requires a venue decision (and a stay for arbitration) to be challenged by an application
+    for leave to appeal at once; it cannot wait for the appeal on the judgment.
+- id: q4
+  question: >-
+    An Israeli importer sues a foreign supplier, which relies on a London arbitration clause under the
+    New York Convention. The importer also sued the supplier's local agent, who is not party to the
+    clause. What should the court do with the supplier's stay request?
+  options:
+    - >-
+      Refuse it, to avoid splitting the dispute between two forums.
+    - >-
+      Grant it, unless the agreement is void, inoperative or incapable of performance.
+    - >-
+      Grant it only if the agent also consents to arbitration.
+    - >-
+      Refuse it, because the court has discretion under s. 5 of the Arbitration Law.
+  correct: 1
+  explanation: >-
+    For an international arbitration agreement s. 6 of the Arbitration Law makes the stay mandatory
+    unless the agreement fails; joining a non-party does not make it inoperative (Hotels.com).
+- id: q5
+  question: >-
+    A magistrates' court judgment was given on 20 October and served on you on 2 November. No court
+    recess falls in the following months. On 15 January you decide to appeal. What is your position?
+  options:
+    - >-
+      In time, because 90 days run from service.
+    - >-
+      In time, because the period runs from the date the judgment becomes final.
+    - >-
+      Late, because the 60-day period ran from service; you need an extension.
+    - >-
+      Late, and no extension is ever possible for an appeal.
+  correct: 2
+  explanation: >-
+    The appeal period is 60 days from service of the decision (reg. 137(א)); recess days would not count
+    (reg. 179), but none intervened. Filing now needs an application to extend time with reasons.

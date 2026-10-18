@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    Dor fired a gun into a crowded hall to scare people. He did not want anyone hurt but did not care
+    whether someone was; a guest died. Which offence best fits?
+  options:
+    - >-
+      Killing by rashness, because he did not want the death to happen.
+    - >-
+      Murder, because indifference to the possibility of death suffices.
+    - >-
+      Causing death by negligence, because he was unaware of the risk of death.
+    - >-
+      No homicide offence, because he only meant to frighten the guests.
+  correct: 1
+  explanation: >-
+    Murder is causing death with intent or indifference (Penal Law s. 300); indifference is equanimity
+    towards the possible result (s. 20(א)(2)(א)). Rashness requires hoping to avoid it (s. 301ג).
+- id: q2
+  question: >-
+    Shai helped a friend avoid paying a parking fine by giving him a false address, an act that is at
+    most a contravention. Can Shai be punished as an accessory?
+  options:
+    - >-
+      Yes, at half the maximum penalty for the contravention.
+    - >-
+      Yes, as a joint principal, because he did an act towards the offence.
+    - >-
+      Only if the friend was convicted first and the fine was paid.
+    - >-
+      No, aiding is not punishable for a contravention.
+  correct: 3
+  explanation: >-
+    Attempt, inducement, attempted inducement and aiding are not punishable for contraventions (Penal Law
+    s. 34ג); for other offences the accessory's penalty is half the maximum (s. 32).
+- id: q3
+  question: >-
+    Regulations made under a general power to "regulate the profession" bar people over 70 from working as
+    driving instructors. The statute does not mention age. On challenge, where is the regulation weakest?
+  options:
+    - >-
+      At the requirement of a law or express authorisation in a law.
+    - >-
+      At the proper-purpose stage, since safety is never a proper purpose.
+    - >-
+      At the values stage, since age limits never befit Israel's values.
+    - >-
+      At the remedy stage, since courts cannot strike down regulations.
+  correct: 0
+  explanation: >-
+    Freedom of occupation may be infringed only by a law or under express authorisation in it (Basic Law:
+    Freedom of Occupation s. 4); a general power to regulate does not expressly authorise an infringement.
+- id: q4
+  question: >-
+    Two neighbours ask one lawyer to draft a boundary agreement between them. Their interests partly
+    conflict. What do the ethics rules require?
+  options:
+    - >-
+      Nothing special, because no court case is pending between them.
+    - >-
+      Refusal, because a lawyer may never act for two parties at once.
+    - >-
+      Both parties' written agreement that he drafts it for both.
+    - >-
+      The district ethics committee's prior approval of the engagement.
+  correct: 2
+  explanation: >-
+    Rule 14(ב) bars acting for parties with opposing interests in the same matter, but rule 14(ד) allows
+    drafting an agreement for both where the parties agreed in writing.
+- id: q5
+  question: >-
+    A lawyer's website says: "Road-accident claims — only 5% fee, the lowest in Israel!" Which rule does
+    the advertisement most directly breach?
+  options:
+    - >-
+      The road-accident fee caps, since 5% is below the statutory minimum.
+    - >-
+      The Advertising Rules, which bar any reference to the fee.
+    - >-
+      The ban on solicitation, since every advertisement is solicitation.
+    - >-
+      None, because truthful statements about fees are always allowed.
+  correct: 1
+  explanation: >-
+    The free text in a lawyer's advertisement may offer a legal service but must not include any reference
+    to the fee (Advertising Rules r. 3(ב)(14)); the s. 16 caps are maximums, not minimums.

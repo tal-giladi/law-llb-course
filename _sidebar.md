@@ -399,3 +399,13 @@
   - [312 · The hearing in the administrative or magistrates' court](lessons/module-37/lesson-07.md)
   - [313 · Closing the file and when to get a lawyer](lessons/module-37/lesson-08.md)
   - [Module 37 quiz](assessments/module-37-quiz.md)
+- **Module 38 — Bar-Exam-Style Review (about 31 hours)**
+  - [314 · The Bar exam: structure, rules and strategy](lessons/module-38/lesson-01.md)
+  - [315 · Procedural law review I: jurisdiction and civil procedure](lessons/module-38/lesson-02.md)
+  - [316 · Procedural law review II: criminal procedure, evidence, execution, insolvency and discipline](lessons/module-38/lesson-03.md)
+  - [317 · Substantive law review I: contracts, torts and limitation](lessons/module-38/lesson-04.md)
+  - [318 · Substantive law review II: property, commercial and corporate law, real-estate taxation](lessons/module-38/lesson-05.md)
+  - [319 · Substantive law review III: criminal law, Basic Laws and professional ethics](lessons/module-38/lesson-06.md)
+  - [320 · The writing task: drafting a legal document under time pressure](lessons/module-38/lesson-07.md)
+  - [321 · Practice lab: a full mock exam](lessons/module-38/lesson-08.md)
+  - [Module 38 quiz](assessments/module-38-quiz.md)

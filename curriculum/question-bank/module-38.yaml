@@ -1,0 +1,2690 @@
+- id: m38-001
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 1
+  question: >-
+    Who sets the written Bar exam under the Bar Association Law?
+  options:
+    - >-
+      The Bar's National Council, by a majority of its members.
+    - >-
+      A panel of three Supreme Court justices chosen by the President of the court.
+    - >-
+      A nine-member committee of judges, lawyers and academics.
+    - >-
+      The Council for Higher Education together with the law faculties.
+  correct: 2
+  explanation: >-
+    Section 40 provides a nine-member committee appointed by the Minister of Justice: three judges, four
+    lawyers (two from the public legal service) and two academics.
+- id: m38-002
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 1
+  question: >-
+    An intern wants to sit the next sitting. What is the latest time to file the application, unless late
+    filing is allowed in special circumstances?
+  options:
+    - >-
+      45 days before the exam.
+    - >-
+      90 days before the exam.
+    - >-
+      14 days before the exam.
+    - >-
+      On the day the statute list is published.
+  correct: 0
+  explanation: >-
+    Reg. 16 requires the application no later than 45 days before the exam; reg. 16(ג) allows late
+    acceptance in special circumstances.
+- id: m38-003
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 2
+  question: >-
+    A reservist who meets the conditions of the temporary order sits the December 2026 exam (pass mark 60)
+    and scores 57. What may he do?
+  options:
+    - >-
+      Nothing; 57 is a fail and he must wait for the next sitting.
+    - >-
+      Ask the committee to round his grade up to 60.
+    - >-
+      Appeal to the Jerusalem District Court within 30 days.
+    - >-
+      Sit a supplementary oral exam before an examining committee.
+  correct: 3
+  explanation: >-
+    A temporary order in force from 1.12.2024 to 31.12.2026 lets eligible reservists (and spouses) who
+    scored 55–59 sit a supplementary oral exam (reg. 18ג(ב)); check whether it has been extended.
+- id: m38-004
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 2
+  question: >-
+    After a sitting, the committee concludes that one substantive question had no correct answer. What
+    power do the Regulations give it?
+  options:
+    - >-
+      Only to cancel the whole sitting and set a new date.
+    - >-
+      To add points to all, or to those who answered a part, with reasons.
+    - >-
+      To ask the Minister to lower the pass mark for that sitting by regulation.
+    - >-
+      None; candidates must each file a grade appeal.
+  correct: 1
+  explanation: >-
+    Reg. 18ה1 allows the committee, if convinced that significant flaws occurred, to add points to all
+    candidates or to those who answered a specific part, and requires it to publish its reasons.
+- id: m38-005
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 1
+  question: >-
+    A candidate plans to learn only the text of the listed statutes, not the rulings. What does reg. 18א
+    say about that?
+  options:
+    - >-
+      Nothing; case law is not examined.
+    - >-
+      Case law is examined only in the writing task.
+    - >-
+      The courts' interpretation of the statutes must be known.
+    - >-
+      Only Supreme Court rulings from the last year before the exam are examined.
+  correct: 2
+  explanation: >-
+    Reg. 18א: "לשם מענה על השאלות בבחינה נדרשת היכרות עם הפרשנות שניתנה בפסיקה".
+- id: m38-006
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 2
+  question: >-
+    A candidate appeals the grade of her writing task in time. Who re-marks it?
+  options:
+    - >-
+      A new examiner who did not mark it originally.
+    - >-
+      The same examiner, who must now give written reasons for the grade.
+    - >-
+      The Bar's district ethics committee.
+    - >-
+      A judge of the Jerusalem District Court.
+  correct: 0
+  explanation: >-
+    A writing-task appeal goes to the examining committee, which appoints an examiner who did not grade
+    the exam originally (reg. 18ה(א)(4)–(5)).
+- id: m38-007
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 3
+  question: >-
+    A candidate with a documented visual impairment needs a larger-print paper and more time. What does
+    the Regulations' framework provide?
+  options:
+    - >-
+      No accommodations: the exam must be identical for everyone.
+    - >-
+      Accommodations only for reservists under the temporary order.
+    - >-
+      Accommodations only by a court order granted in an administrative petition.
+    - >-
+      The committee may set accommodations at the candidate's request.
+  correct: 3
+  explanation: >-
+    Reg. 18ד lets the examining committee, at the request of a candidate who is a person with a
+    disability, set accommodations for the written exam.
+- id: m38-008
+  module: 38
+  lesson: "38.1"
+  subject: exam-rules
+  difficulty: 1
+  question: >-
+    A candidate has failed the exam four times. May she register for the next sitting?
+  options:
+    - >-
+      No, the limit is three attempts.
+    - >-
+      Yes, no maximum number of attempts is set.
+    - >-
+      Only after a new internship.
+    - >-
+      Only with the examining committee's special written permission.
+  correct: 1
+  explanation: >-
+    "נבחן שנכשל בבחינה רשאי לשוב ולהיבחן במועדים שנקבעו" (reg. 21(א)); the text sets no limit.
+- id: m38-009
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 1
+  question: >-
+    Two Druze citizens of Israel want to divorce. Which forum has exclusive jurisdiction over the divorce?
+  options:
+    - >-
+      The Family Court of their district.
+    - >-
+      The Druze religious court.
+    - >-
+      The Sharia court.
+    - >-
+      The magistrates' court.
+  correct: 1
+  explanation: >-
+    The Druze Religious Courts Law gives the Druze court exclusive jurisdiction over Druze marriage and
+    divorce (s. 4). Lesson 10.4.
+- id: m38-010
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 2
+  question: >-
+    In a magistrates' court claim for ₪200,000, the defendant files a counterclaim worth well above that
+    court's ceiling, arising from the same transaction. May the magistrates' court hear it?
+  options:
+    - >-
+      No, the counterclaim must be filed separately in the district court.
+    - >-
+      Only if the plaintiff consents in writing.
+    - >-
+      Only up to the ceiling; the excess is lost.
+    - >-
+      Yes, such a counterclaim is heard whatever its value.
+  correct: 3
+  explanation: >-
+    Courts Law s. 51(א)(4): the magistrates' court hears a counterclaim arising from the same subject or
+    circumstances whatever its value. Lesson 15.1.
+- id: m38-011
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 2
+  question: >-
+    Three siblings co-own a valuable plot and one sues to dissolve the co-ownership by dividing it. Which
+    court hears the claim?
+  options:
+    - >-
+      The magistrates' court, whatever the value.
+    - >-
+      The district court, because the land is valuable.
+    - >-
+      The Family Court, because the parties are siblings.
+    - >-
+      The Land Registry superintendent.
+  correct: 0
+  explanation: >-
+    The magistrates' court hears claims about possession or use of land, or its division, whatever the
+    value (Courts Law s. 51(א)(3)). Lesson 15.1.
+- id: m38-012
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 2
+  question: >-
+    Dov bought a ₪9,000 debt from a friend and sues the debtor in the small claims court. What is the
+    problem?
+  options:
+    - >-
+      None, the amount is within the ceiling.
+    - >-
+      A small claim of this kind must be filed by a company, not a person.
+    - >-
+      Claims based on an assigned right are excluded.
+    - >-
+      He must first open an execution file.
+  correct: 2
+  explanation: >-
+    Courts Law s. 60(א) excludes claims based on an assigned right; Dov must sue in the magistrates' court.
+    Lesson 08.3.
+- id: m38-013
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 3
+  question: >-
+    Shlomo files his sixth small claim this year in the same court. What may the court do?
+  options:
+    - >-
+      Nothing; individuals may file unlimited small claims.
+    - >-
+      Decline it and transfer it to the competent court.
+    - >-
+      Fine him automatically for abuse of the court's process.
+    - >-
+      Hear it only if a lawyer represents him.
+  correct: 1
+  explanation: >-
+    The small claims court may decline a claim and transfer it if it is unsuitable or if the plaintiff
+    already filed more than five claims that year in the same court (Courts Law s. 60(ב)). Lesson 08.3.
+- id: m38-014
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 2
+  question: >-
+    The magistrates' court transferred a case to the district court for lack of jurisdiction. The district
+    court judge thinks the magistrates' court was competent after all. What may she do?
+  options:
+    - >-
+      Send it back to the magistrates' court.
+    - >-
+      Transfer it to the Supreme Court for directions on jurisdiction.
+    - >-
+      Strike out the claim.
+    - >-
+      Keep it, as it may not transfer it again.
+  correct: 3
+  explanation: >-
+    Under Courts Law s. 79 the court that receives a transferred case may not transfer it again. Lesson 15.1.
+- id: m38-015
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 1
+  question: >-
+    Why does the High Court of Justice often dismiss a petition with a note that the petitioner has "סעד
+    חלופי"?
+  options:
+    - >-
+      Because it hears only matters no other forum can hear.
+    - >-
+      Because the HCJ hears only constitutional petitions against statutes of the Knesset.
+    - >-
+      Because the petitioner must first appeal to the Ombudsman.
+    - >-
+      Because the petition was filed without a lawyer.
+  correct: 0
+  explanation: >-
+    Basic Law: The Judiciary s. 15(ג) makes the HCJ residual: it hears matters not within another court's
+    or tribunal's jurisdiction. Lesson 06.8.
+- id: m38-016
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 2
+  question: >-
+    An administrative petition in the district court about entry permits raises an issue of special public
+    sensitivity. What may the administrative affairs court do?
+  options:
+    - >-
+      Nothing; it must decide every First Schedule petition itself.
+    - >-
+      Refer it to the Knesset committee.
+    - >-
+      Transfer it to the High Court of Justice.
+    - >-
+      Convert it into a class action.
+  correct: 2
+  explanation: >-
+    Administrative Affairs Courts Law s. 6: a petition raising a matter of special importance, sensitivity
+    or urgency may be transferred to the HCJ. Lesson 14.9.
+- id: m38-017
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 3
+  question: >-
+    A flat owner in a registered condominium built a storeroom on the common roof without consent. Where
+    may a neighbour sue for its removal?
+  options:
+    - >-
+      Only the superintendent of condominiums.
+    - >-
+      A court or the superintendent, at his choice.
+    - >-
+      Only the district court, because the dispute concerns land.
+    - >-
+      Only the planning committee.
+  correct: 1
+  explanation: >-
+    A trespass dispute by an owner on the common property may be brought, at the claimant's choice, before
+    a competent court or the superintendent (Land Law s. 72(ב)). Lesson 13.6.
+- id: m38-018
+  module: 38
+  lesson: "38.2"
+  subject: court-powers
+  difficulty: 2
+  question: >-
+    A courier hired as a "freelancer" claims he was really an employee and sues for holiday pay. The firm
+    says no employment relationship existed. Which forum decides that question?
+  options:
+    - >-
+      The regional labour court, including the status question.
+    - >-
+      The magistrates' court, because the firm denies there was any employment at all.
+    - >-
+      The district court, as a preliminary question of status.
+    - >-
+      The small claims court, if the sum is low.
+  correct: 0
+  explanation: >-
+    The labour court's exclusive jurisdiction includes "השאלה בדבר עצם קיום יחסי עבודה" (Labour Court Law
+    s. 24(א)(1)). Lesson 17.1.
+- id: m38-019
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 1
+  question: >-
+    A defendant lives in Be'er Sheva; the contract, signed in Haifa, says disputes will be heard in Tel
+    Aviv. Where should the claim be filed?
+  options:
+    - >-
+      Be'er Sheva, where the defendant lives.
+    - >-
+      Haifa, where the contract was made.
+    - >-
+      Tel Aviv, the agreed venue.
+    - >-
+      Jerusalem, as the default.
+  correct: 2
+  explanation: >-
+    Reg. 7(א) ends: if the parties agreed on the place of jurisdiction, the claim is filed in the agreed
+    court. Lesson 15.1.
+- id: m38-020
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 2
+  question: >-
+    An online store based in Tel Aviv sues a consumer from Kiryat Shmona over an unpaid online order.
+    Where must it sue?
+  options:
+    - >-
+      Tel Aviv, where the store does business.
+    - >-
+      Either place, at the store's choice.
+    - >-
+      Jerusalem, because the transaction was online.
+    - >-
+      Where the consumer lives or does business.
+  correct: 3
+  explanation: >-
+    In internet transactions either party's place may serve as venue, but a trader suing over such a
+    transaction must sue where the defendant lives or does business (reg. 7(ב)). Lesson 15.1.
+- id: m38-021
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 2
+  question: >-
+    A defendant first argues that the court lacks territorial jurisdiction at the third hearing. What
+    consequence does reg. 29 itself state?
+  options:
+    - >-
+      The argument is void and may never be heard.
+    - >-
+      Costs to the other side or to the Treasury.
+    - >-
+      The defendant is treated as admitting all the facts of the claim.
+    - >-
+      The case moves automatically to Jerusalem.
+  correct: 1
+  explanation: >-
+    Jurisdiction, foreign-clause and forum non conveniens arguments are raised at the first opportunity;
+    if not, the court may award costs to the other party or the Treasury (reg. 29). Lesson 15.1.
+- id: m38-022
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 3
+  question: >-
+    A plaintiff does not know whether the leak came from the upstairs flat or the roof, and wants to plead
+    both versions in one claim. What do the Regulations require?
+  options:
+    - >-
+      An affidavit that he does not know which version is true.
+    - >-
+      Two separate claims, one for each version.
+    - >-
+      The court's leave before filing.
+    - >-
+      Nothing; alternative facts are always allowed in any civil claim.
+  correct: 0
+  explanation: >-
+    Contradictory or alternative facts may not be pleaded unless the party verifies by affidavit that he
+    does not know the true facts (reg. 27); reg. 26(ב) lets him sue several defendants. Lesson 15.1.
+- id: m38-023
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 3
+  question: >-
+    A claim was struck out because it disclosed no cause of action. The plaintiff files a corrected claim
+    on the same facts. The defendant pleads res judicata. What is correct?
+  options:
+    - >-
+      Res judicata applies, because the court already decided the claim.
+    - >-
+      The new claim needs the Supreme Court's leave.
+    - >-
+      The new claim is barred for six months.
+    - >-
+      It may proceed: a strike-out is not res judicata.
+  correct: 3
+  explanation: >-
+    Striking out (reg. 41) is not res judicata (reg. 41(ב)); dismissal (reg. 43) is final. Lesson 15.2.
+- id: m38-024
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 1
+  question: >-
+    Nothing has happened in a civil case for six months. What may the registry do?
+  options:
+    - >-
+      Dismiss the claim at once, with full res judicata effect for the parties.
+    - >-
+      Transfer it to mediation automatically.
+    - >-
+      Strike it out after a warning, reversibly for special reasons.
+    - >-
+      Nothing without a request from the defendant.
+  correct: 2
+  explanation: >-
+    Administrative strike-out after six months of inactivity, following a warning; it can be reversed on
+    a request within a short period for special reasons (reg. 45). Lesson 15.2.
+- id: m38-025
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 1
+  question: >-
+    In a claim for a fixed sum in the magistrates' court, when is the second half of the court fee due?
+  options:
+    - >-
+      On filing, together with the first half.
+    - >-
+      Up to 20 days before the first hearing.
+    - >-
+      After judgment, if the plaintiff wins.
+    - >-
+      Never, if the defendant files a defence.
+  correct: 1
+  explanation: >-
+    Fees Regulations reg. 6: the fee is paid in two halves, the second up to 20 days before the first
+    hearing; it is not due after a default judgment. Lesson 15.2.
+- id: m38-026
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 1
+  question: >-
+    How is a statement of claim served on a company that has no lawyer on record?
+  options:
+    - >-
+      At its office or registered address.
+    - >-
+      Only by publication in a newspaper.
+    - >-
+      Only on its largest shareholder, in person.
+    - >-
+      By email to any employee.
+  correct: 0
+  explanation: >-
+    A company is served at its office or registered address (reg. 163); the first document goes by mail or
+    personal delivery unless agreed otherwise (reg. 162). Lesson 15.3.
+- id: m38-027
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 2
+  question: >-
+    An Israeli plaintiff wants to sue a supplier living in Germany over a contract breached in Israel. What
+    does service abroad require?
+  options:
+    - >-
+      Nothing special; ordinary registered mail to Germany is enough.
+    - >-
+      Consent of the German consulate.
+    - >-
+      A treaty between the states.
+    - >-
+      A reg. 166 ground and the court's leave, on affidavit.
+  correct: 3
+  explanation: >-
+    Service out of Israel is allowed only on a reg. 166 ground (such as a contract breached in Israel), on
+    a written application with an affidavit (reg. 167). Lesson 15.3.
+- id: m38-028
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 3
+  question: >-
+    The court sends an unrepresented party an electronic notice at 18:30 on a Thursday; she opens it on
+    Friday morning. When is she treated as served?
+  options:
+    - >-
+      Thursday at 18:30, when it was sent.
+    - >-
+      Friday morning, when it was opened.
+    - >-
+      On the next working day.
+    - >-
+      Seven days after sending.
+  correct: 2
+  explanation: >-
+    For an unrepresented recipient, service takes effect on opening, but a document sent or opened after
+    17:00 Sunday–Thursday, or on Friday or a rest day, counts as served on the next working day (reg.
+    161(1)(ד)). Lesson 15.3.
+- id: m38-029
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 2
+  question: >-
+    A bank served with a temporary attachment answers that it does not admit holding the respondent's
+    assets. What must the applicant do?
+  options:
+    - >-
+      Nothing; the attachment stays in force.
+    - >-
+      Apply in time to confirm it, or it lapses as to those assets.
+    - >-
+      Sue the bank for damages at once.
+    - >-
+      Ask the Execution Office to search the bank's branches for the assets.
+  correct: 1
+  explanation: >-
+    A holder who does not admit must be met by an application to confirm the attachment within a short
+    period, or the attachment lapses as to those assets (regs 104–105). Lesson 15.5.
+- id: m38-030
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 2
+  question: >-
+    A plaintiff asks for an exit ban against a defendant who is a foreign resident, in an ordinary money
+    claim. What is the rule?
+  options:
+    - >-
+      Not against a foreign resident, save special reasons.
+    - >-
+      Always granted if the claim exceeds the statutory threshold.
+    - >-
+      Granted only in maintenance claims.
+    - >-
+      Granted automatically with the claim.
+  correct: 0
+  explanation: >-
+    An exit ban requires a real fear of leaving that would make enforcement substantially harder, and is
+    not given against a foreign resident or in claims up to a threshold (except maintenance), save for
+    special reasons (regs 124–128). Lesson 15.5.
+- id: m38-031
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 3
+  question: >-
+    A defendant company ignores the invitation to the free mediation-intake meeting in a large claim. What
+    follows?
+  options:
+    - >-
+      The defence is struck out at once.
+    - >-
+      Nothing, because mediation is voluntary.
+    - >-
+      Judgment for the plaintiff, given in the company's absence.
+    - >-
+      It may have to pay the mediator's and parties' costs.
+  correct: 3
+  explanation: >-
+    The invitation counts as a court summons, and a party who does not attend pays the mediator's and the
+    other parties' costs (reg. 37(ד), (י)); mediation itself remains voluntary (Courts Law s. 79ג). Lesson
+    15.6.
+- id: m38-032
+  module: 38
+  lesson: "38.2"
+  subject: civil-procedure
+  difficulty: 2
+  question: >-
+    By mistake, a party filed an application for leave to appeal against a decision that was appealable as
+    of right. What may the court do?
+  options:
+    - >-
+      Dismiss it; the wrong procedure is fatal.
+    - >-
+      Require a new filing with a new fee.
+    - >-
+      Hear it as an appeal.
+    - >-
+      Refer it to a panel of seven.
+  correct: 2
+  explanation: >-
+    A leave application filed where an appeal lay as of right may be heard as an appeal, and vice versa
+    (reg. 149(4)). Lesson 15.8.
+- id: m38-033
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 2
+  question: >-
+    A flat owner calls the police because a stranger refuses to leave her living room. Officers enter
+    without a warrant. Which ground most directly allows the entry?
+  options:
+    - >-
+      None; entry always needs a judge's warrant.
+    - >-
+      The occupier asked for police help.
+    - >-
+      Any officer may enter any home to prevent a contravention.
+    - >-
+      The stranger's consent at the door.
+  correct: 1
+  explanation: >-
+    Search Ordinance s. 25(א) allows warrantless entry in listed cases, including where the occupier asks
+    for police help. Lesson 24.2.
+- id: m38-034
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 2
+  question: >-
+    A suspect refuses an external body search for drugs, which is based on reasonable suspicion. What must
+    happen before force may be used?
+  options:
+    - >-
+      Nothing; force may be used at once.
+    - >-
+      A judge's warrant in every case.
+    - >-
+      The written consent of the suspect's lawyer, given at the station.
+    - >-
+      An officer hears his reasons, then may allow reasonable force.
+  correct: 3
+  explanation: >-
+    Body Search Law s. 3(ג)–(ד); refusal of some searches may also be used as evidence (s. 11). Lesson 24.2.
+- id: m38-035
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 1
+  question: >-
+    Who first reviews an arrest when the arrested person is brought to the police station?
+  options:
+    - >-
+      The officer in charge of the station.
+    - >-
+      A magistrates' court judge within one hour.
+    - >-
+      The district attorney.
+    - >-
+      The Public Defender's duty lawyer.
+  correct: 0
+  explanation: >-
+    The officer in charge reviews the arrest and may release (Arrests Law s. 27), after letting the person
+    speak with the caution in s. 28. Lesson 24.2.
+- id: m38-036
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 2
+  question: >-
+    Police delay a non-security suspect's meeting with his lawyer for 30 hours, fearing it would frustrate
+    the arrest of accomplices. Is the delay lawful on that ground?
+  options:
+    - >-
+      Yes, up to 48 hours on any ground.
+    - >-
+      Yes, without any limit while the accomplices are at large.
+    - >-
+      No, on that ground the limit is 24 hours.
+    - >-
+      No, no delay is ever allowed.
+  correct: 2
+  explanation: >-
+    Arrests Law s. 34(ה): up to 24 hours where the meeting may frustrate the arrest of other suspects or the
+    finding of evidence; 48 hours is for saving life or preventing a felony (s. 34(ו)). Lesson 24.3.
+- id: m38-037
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 3
+  question: >-
+    The officer in charge offers to release a suspect on bail with a condition of house arrest. The
+    suspect refuses the condition. What happens?
+  options:
+    - >-
+      He is released without conditions.
+    - >-
+      He is brought before a judge.
+    - >-
+      He is held until he agrees.
+    - >-
+      The condition applies anyway for 30 days.
+  correct: 1
+  explanation: >-
+    Police bail conditions such as house arrest need the suspect's consent; a suspect who does not agree
+    is brought before a judge (Arrests Law s. 42(ב), (ד)). Lesson 24.4.
+- id: m38-038
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 2
+  question: >-
+    A detained defendant wants the same court to reconsider its detention decision. On which grounds?
+  options:
+    - >-
+      New facts, changed circumstances or much time passing.
+    - >-
+      Only a legal error by the judge who ordered the detention.
+    - >-
+      Only the prosecution's consent.
+    - >-
+      Any ground, once a week.
+  correct: 0
+  explanation: >-
+    A request for review (עיון חוזר) may be filed on new facts, changed circumstances or the passage of
+    considerable time (Arrests Law s. 52); an appeal (ערר) goes to the court above (s. 53). Lesson 24.4.
+- id: m38-039
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 2
+  question: >-
+    An unrepresented defendant is charged in the district court with an offence carrying 12 years. What
+    must the court do?
+  options:
+    - >-
+      Proceed if he says he understands the charge.
+    - >-
+      Postpone until he hires a private lawyer.
+    - >-
+      Transfer the case to the magistrates' court.
+    - >-
+      Appoint a defender for him.
+  correct: 3
+  explanation: >-
+    CPL s. 15(א): the court appoints a defender, among others, for an offence punishable by ten years or
+    more in the district court. Lesson 24.6.
+- id: m38-040
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 3
+  question: >-
+    The defence asks to see intelligence material that may bear on a central witness's credibility; the
+    prosecution refuses. What is the route?
+  options:
+    - >-
+      A petition to the High Court of Justice against the office.
+    - >-
+      A complaint to the Ombudsman.
+    - >-
+      A request to a judge under s. 74(ב).
+    - >-
+      Nothing; intelligence material is never disclosed.
+  correct: 2
+  explanation: >-
+    Intelligence material is included where it relates to the facts, the evidence or a central witness's
+    credibility (CPL s. 74(א)(2)); disputes go to a single judge (s. 74(ב)), subject to privilege
+    certificates (s. 74(ו)). Lesson 24.6.
+- id: m38-041
+  module: 38
+  lesson: "38.3"
+  subject: criminal-procedure
+  difficulty: 2
+  question: >-
+    A student convicted of a minor offence asks the court to cancel the conviction because "a record is
+    unpleasant". What does the case law under s. 192א generally require?
+  options:
+    - >-
+      Nothing more than a first offence.
+    - >-
+      Concrete harm to rehabilitation, and a suitable offence.
+    - >-
+      The victim's written consent.
+    - >-
+      A plea bargain that expressly includes cancellation of the conviction.
+  correct: 1
+  explanation: >-
+    Cancellation under CPL s. 192א is exceptional: case law requires that a conviction would seriously
+    harm rehabilitation (a concrete harm) and that the offence allows giving up the conviction. Lesson 24.7.
+- id: m38-042
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 1
+  question: >-
+    In a civil claim, may the plaintiff testify on his own behalf?
+  options:
+    - >-
+      Yes, a party may testify for himself.
+    - >-
+      No, a party is an interested witness and is excluded.
+    - >-
+      Only with the defendant's consent.
+    - >-
+      Only if a second witness supports him.
+  correct: 0
+  explanation: >-
+    Evidence Ordinance s. 2 (everyone is competent; being a party is no bar) and s. 7 (a party may testify
+    for himself in civil cases). Lesson 23.2.
+- id: m38-043
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 2
+  question: >-
+    In a civil debt claim, the defendant is asked whether he sold the goods without invoices, which could
+    expose him to a tax offence. What may he do?
+  options:
+    - >-
+      Nothing; privilege against self-incrimination applies only in criminal trials.
+    - >-
+      Refuse only if his lawyer is present.
+    - >-
+      Ask the court to close the hearing instead.
+    - >-
+      Refuse to answer that question under the self-incrimination privilege.
+  correct: 3
+  explanation: >-
+    No one must give evidence admitting an element of an offence he may be charged with (Evidence Ordinance
+    s. 47); the privilege applies in civil cases too. Lesson 23.2.
+- id: m38-044
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 2
+  question: >-
+    In a custody case, one parent asks to summon the other's psychologist. The patient objects. What is
+    the nature of the privilege?
+  options:
+    - >-
+      Absolute; only the patient may waive it, in writing.
+    - >-
+      None; family cases have no privileges.
+    - >-
+      Relative; the court may lift it if justice requires.
+    - >-
+      It belongs to the psychologist, who decides.
+  correct: 2
+  explanation: >-
+    Psychologist privilege (Evidence Ordinance s. 50) follows the doctor's model (s. 49): relative, liftable
+    by the court. Lesson 23.2.
+- id: m38-045
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 3
+  question: >-
+    During a fight, a bystander shouted "He has a knife!" The bystander cannot be found. The prosecution
+    wants a police officer to testify to the shout under s. 9. What is the problem?
+  options:
+    - >-
+      None; any statement made at the time of the offence is admissible.
+    - >-
+      Section 9 requires the maker to testify at the trial.
+    - >-
+      Section 9 applies only in civil cases.
+    - >-
+      The officer is not competent to testify.
+  correct: 1
+  explanation: >-
+    Evidence Ordinance s. 9 admits a statement made at the time of the offence only if the person who made
+    it is himself a witness at the trial; s. 10 is limited to the victim of violence. Lesson 23.3.
+- id: m38-046
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 1
+  question: >-
+    How may a decision of a local authority be proved in court without calling the official who made it?
+  options:
+    - >-
+      By a copy certified by the official who keeps it.
+    - >-
+      Only by the original, delivered by the mayor.
+    - >-
+      Only by a notarised translation.
+    - >-
+      It cannot be proved at all without the official's own testimony.
+  correct: 0
+  explanation: >-
+    A public document may be proved by the original, an examined copy, an official printing, or a copy
+    certified by the official who keeps it (Evidence Ordinance s. 32). Lesson 23.4.
+- id: m38-047
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 2
+  question: >-
+    A driver was finally convicted of reckless driving. The victim now sues him in tort. What is the
+    effect of the conviction?
+  options:
+    - >-
+      None; criminal judgments are irrelevant in civil cases of this kind.
+    - >-
+      Conclusive proof that ends the civil case.
+    - >-
+      Admissible only with the driver's consent.
+    - >-
+      Prima facie evidence of its findings against him.
+  correct: 3
+  explanation: >-
+    A final criminal conviction is prima facie evidence of its findings in a civil case against the
+    convicted person (Evidence Ordinance s. 42א). Lesson 23.3.
+- id: m38-048
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 3
+  question: >-
+    A tenant recorded, without telling him, a phone call in which she and her landlord discussed the
+    deposit. Is this unlawful secret eavesdropping?
+  options:
+    - >-
+      Yes, any recording without the other side's consent is eavesdropping.
+    - >-
+      Yes, unless a judge approved it in advance.
+    - >-
+      No, a participant's recording is not secret eavesdropping.
+    - >-
+      No, but it is inadmissible in civil cases.
+  correct: 2
+  explanation: >-
+    Secret eavesdropping excludes a participant recording his own conversation (Eavesdropping Law
+    definitions; lesson 12.2), so s. 13's exclusion does not apply; other rules (such as privacy) are
+    considered separately. Lesson 23.5.
+- id: m38-049
+  module: 38
+  lesson: "38.3"
+  subject: evidence
+  difficulty: 3
+  question: >-
+    In an overtime claim, the employer did not produce the attendance records it was required to keep.
+    Who bears the burden on the disputed hours?
+  options:
+    - >-
+      The employee, as plaintiff, without any exception at all.
+    - >-
+      The employer, within statutory weekly and monthly limits.
+    - >-
+      Neither; the court splits the claim.
+    - >-
+      The labour inspector.
+  correct: 1
+  explanation: >-
+    Wage Protection Law s. 26ב shifts the burden to an employer who did not produce attendance records;
+    for overtime the shift is limited to 15 hours a week or 60 a month. Lesson 23.6.
+- id: m38-050
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 1
+  question: >-
+    Who decides a debtor's request for a payment order in an execution file?
+  options:
+    - >-
+      The execution registrar.
+    - >-
+      The director of the execution office.
+    - >-
+      The court that gave the judgment.
+    - >-
+      The creditor's lawyer.
+  correct: 0
+  explanation: >-
+    The registrar has the powers of a judicial officer in the file (Execution Law s. 3א); the director and
+    staff carry out acts. Lesson 28.1.
+- id: m38-051
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 1
+  question: >-
+    An execution office employee seized the debtor's only bed. The debtor wants it back. What is the first
+    route?
+  options:
+    - >-
+      An appeal to the district court.
+    - >-
+      A petition to the High Court of Justice.
+    - >-
+      An objection (ערר) to the execution registrar.
+    - >-
+      A police complaint for theft against the employee.
+  correct: 2
+  explanation: >-
+    Against an act of the office or its staff, the remedy is an objection to the registrar (Execution Law
+    s. 80(א)); beds are exempt movables (s. 22(א)). Lesson 28.1.
+- id: m38-052
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 2
+  question: >-
+    A creditor asks to seize a car registered as a disabled person's car belonging to the debtor. What is
+    the rule?
+  options:
+    - >-
+      It may be seized like any car.
+    - >-
+      It may be seized only after a means inquiry.
+    - >-
+      It may be seized if worth more than a set value.
+    - >-
+      It is protected from seizure.
+  correct: 3
+  explanation: >-
+    A car registered as a disabled person's car is not seized (Execution Law s. 21א), and a disabled
+    person's aids and car are exempt (s. 22(א)). Lesson 28.2.
+- id: m38-053
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 1
+  question: >-
+    A debtor receives a written notice that the registrar will restrict his passport. When does the
+    restriction take effect?
+  options:
+    - >-
+      Immediately on the notice.
+    - >-
+      30 days after the notice.
+    - >-
+      Only after a court approves it.
+    - >-
+      After 90 days.
+  correct: 1
+  explanation: >-
+    A restriction takes effect only 30 days after a written notice (Execution Law s. 66ג). Lesson 28.2.
+- id: m38-054
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 3
+  question: >-
+    An individual's total debts are below the statutory threshold, and he has several execution files.
+    Where does he apply to open insolvency proceedings himself?
+  options:
+    - >-
+      To the execution registrar (low-debt track).
+    - >-
+      To the Insolvency Commissioner only, in every case.
+    - >-
+      To the district court.
+    - >-
+      To the Supreme Court.
+  correct: 0
+  explanation: >-
+    An individual whose debts do not exceed the threshold applies to the execution registrar (Insolvency
+    Law s. 103(ב)); the case is run by a dedicated registrar (ss. 186–189). Lesson 28.5.
+- id: m38-055
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 2
+  question: >-
+    A creditor wants to open insolvency proceedings against an individual debtor. Where does the creditor
+    apply?
+  options:
+    - >-
+      To the Insolvency Commissioner.
+    - >-
+      To the execution registrar.
+    - >-
+      To the Companies Registrar, who keeps the register of debtors and creditors.
+    - >-
+      To the court, which for individuals is the magistrates' court.
+  correct: 3
+  explanation: >-
+    A creditor's (or the Attorney General's) application goes to the court, the magistrates' court for
+    individuals (Insolvency Law ss. 4, 103, 109). Lesson 28.5.
+- id: m38-056
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 3
+  question: >-
+    Three years before applying for insolvency, while already insolvent, Yoav gave his car to his son for
+    nothing. Can the transfer be set aside?
+  options:
+    - >-
+      No, the look-back period is two years.
+    - >-
+      No, gifts to family are always protected.
+    - >-
+      Yes, for a relative the look-back period is four years.
+    - >-
+      Yes, but only if the son knew his father was insolvent at the time.
+  correct: 2
+  explanation: >-
+    A transfer for no or inadequate value while insolvent may be set aside within two years, or four for a
+    relative (Insolvency Law s. 220). Lesson 28.6.
+- id: m38-057
+  module: 38
+  lesson: "38.3"
+  subject: execution-insolvency
+  difficulty: 2
+  question: >-
+    The trustee shows that a debtor hid assets and did not cooperate in the proceedings. How may this
+    affect the payment period?
+  options:
+    - >-
+      It cannot; the period is always three years.
+    - >-
+      The court may set a period longer than three years.
+    - >-
+      The debtor loses the right to any living allowance for the whole period.
+    - >-
+      The proceedings are converted to a criminal case.
+  correct: 1
+  explanation: >-
+    The default is three years; it may be longer for bad faith, non-cooperation and other listed grounds
+    (Insolvency Law s. 163). Lesson 28.6.
+- id: m38-058
+  module: 38
+  lesson: "38.3"
+  subject: disciplinary-procedure
+  difficulty: 1
+  question: >-
+    Which of these may file a disciplinary charge (קובלנה) against a lawyer?
+  options:
+    - >-
+      The client who complained.
+    - >-
+      The judge in whose court the conduct occurred.
+    - >-
+      The State Attorney.
+    - >-
+      Any Bar member.
+  correct: 2
+  explanation: >-
+    Only the National and district ethics committees, the Attorney General and the State Attorney may
+    file a charge; anyone may complain (Bar Association Law s. 63). Lesson 35.6.
+- id: m38-059
+  module: 38
+  lesson: "38.3"
+  subject: disciplinary-procedure
+  difficulty: 1
+  question: >-
+    A disciplinary tribunal decides to hear a case behind closed doors on a listed ground. The complainant
+    wants to attend. What is the rule?
+  options:
+    - >-
+      He may attend, with a companion.
+    - >-
+      He may attend only if he is a lawyer.
+    - >-
+      He may not attend a closed hearing.
+    - >-
+      He may attend only to testify.
+  correct: 0
+  explanation: >-
+    Hearings are public unless a listed ground applies; even then the complainant may attend with a
+    companion (Bar Association Law s. 65א(ד)). Lesson 35.6.
+- id: m38-060
+  module: 38
+  lesson: "38.3"
+  subject: disciplinary-procedure
+  difficulty: 3
+  question: >-
+    A lawyer is convicted in a criminal court of an offence involving moral turpitude. What are the
+    disciplinary consequences under the Bar Association Law?
+  options:
+    - >-
+      None until a client complains.
+    - >-
+      Automatic expulsion on conviction.
+    - >-
+      Only a fine, since a criminal court has already punished him for it.
+    - >-
+      It can itself lead to a penalty and temporary suspension.
+  correct: 3
+  explanation: >-
+    A conviction involving moral turpitude can itself lead to a disciplinary penalty (s. 75) and to
+    temporary suspension (s. 78); discipline continues alongside criminal proceedings (s. 80). Lesson 35.6.
+- id: m38-061
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 1
+  question: >-
+    A shop posts on social media: "Firm offer: the first ten customers to call today get this sofa model
+    for ₪1,500." Can this be an offer?
+  options:
+    - >-
+      No, an advertisement is never an offer.
+    - >-
+      No, an offer must be addressed to a named person.
+    - >-
+      Yes, if it shows intent and is certain enough.
+    - >-
+      Yes, but only if it was also sent to each customer by registered mail.
+  correct: 2
+  explanation: >-
+    A communication is an offer if it shows intent to be bound and is certain enough; it may be made to
+    the public (Contracts Law s. 2). Lesson 03.2.
+- id: m38-062
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 2
+  question: >-
+    A buyer emails a supplier: "Ship 200 units at your catalogue price and I will pay on delivery." The
+    supplier ships without replying. Is there a contract?
+  options:
+    - >-
+      Yes, acceptance by conduct, as the offer implied.
+    - >-
+      No, acceptance must always be in writing in a commercial sale.
+    - >-
+      No, silence is never acceptance.
+    - >-
+      Only once the buyer pays.
+  correct: 0
+  explanation: >-
+    Acceptance may be by conduct if the offer implies it (Contracts Law s. 6(א)); shipping is conduct, not
+    silence. Lesson 03.2.
+- id: m38-063
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 2
+  question: >-
+    Two businesses agreed on delivery of a machine but never fixed the price, and there is no practice
+    between them. Is the contract void for uncertainty?
+  options:
+    - >-
+      Yes, price is always an essential term.
+    - >-
+      Yes, unless the court agrees to set a price by way of compromise.
+    - >-
+      No, the buyer may pay any price he chooses.
+    - >-
+      Not necessarily; default rules supply a reasonable price.
+  correct: 3
+  explanation: >-
+    Missing details are filled from the parties' practice or the usual practice (s. 26), and the general
+    part supplies defaults, including a reasonable price (s. 46). Lesson 03.2.
+- id: m38-064
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 1
+  question: >-
+    An aunt promised in writing to give her niece ₪50,000 next year. Before the niece did anything in
+    reliance, the aunt changed her mind. May she withdraw?
+  options:
+    - >-
+      No, a written promise of a gift is binding.
+    - >-
+      Yes, until the niece relied on it, absent a written waiver.
+    - >-
+      Yes, at any time before payment, without any exception at all.
+    - >-
+      No, unless the niece agrees.
+  correct: 1
+  explanation: >-
+    A future gift needs writing (Gift Law s. 5(א)) and may be withdrawn until the recipient changed
+    position in reliance, unless the giver waived that right in writing (s. 5(ב)). Lesson 03.3.
+- id: m38-065
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 3
+  question: >-
+    Rina, a private person, signed a guarantee of her friend's bank loan. The guarantee states no amount.
+    The bank sues her. What is her best answer?
+  options:
+    - >-
+      The guarantee is void because it was not signed before a notary.
+    - >-
+      She is liable only for half the loan.
+    - >-
+      With no fixed sum stated, she is released.
+    - >-
+      The bank must first sue the borrower's employer.
+  correct: 2
+  explanation: >-
+    An individual guarantor is liable only up to the sum stated; if none is stated, he is released
+    (Guarantee Law s. 21). Lessons 03.3, 20.5.
+- id: m38-066
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 2
+  question: >-
+    A signed quote for a ₪100,000 renovation shows the total as "₪10,000" in one place, plainly a typing
+    slip given the itemised list. The client wants to cancel the contract. What is the rule?
+  options:
+    - >-
+      The slip is corrected; it is no ground to cancel.
+    - >-
+      The client may cancel the whole contract for mistake.
+    - >-
+      The client pays ₪10,000.
+    - >-
+      The contract is void for uncertainty.
+  correct: 0
+  explanation: >-
+    A clerical error is corrected according to the parties' intent and is not a ground to cancel (Contracts
+    Law s. 16). Lesson 03.5.
+- id: m38-067
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 2
+  question: >-
+    A sole supplier tells a hospital, with no legal basis, that it will stop delivering a vital drug
+    tomorrow unless the hospital signs a 40% price rise. The hospital signs. What may it do later?
+  options:
+    - >-
+      Nothing; economic pressure is part of business.
+    - >-
+      Only complain to the Competition Authority about the supplier.
+    - >-
+      Claim damages but not cancel.
+    - >-
+      Cancel for duress, including economic duress.
+  correct: 3
+  explanation: >-
+    Duress by force or threat allows cancellation (Contracts Law s. 17(א)); courts recognise economic duress
+    where an improper threat leaves no real choice. A good-faith warning of using a right is not a threat
+    (s. 17(ב)). Lesson 03.5.
+- id: m38-068
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 2
+  question: >-
+    A buyer was misled only about the condition of the garden furniture included in a house sale. He
+    would have bought the house anyway. What may he cancel?
+  options:
+    - >-
+      The whole contract.
+    - >-
+      Only the separable part affected.
+    - >-
+      Nothing; partial deceit does not allow any cancellation.
+    - >-
+      The whole contract, but only with court approval.
+  correct: 1
+  explanation: >-
+    If only a separable part is affected, only that part may be cancelled, unless the party would not have
+    made the contract at all without the defect (Contracts Law s. 19). Lesson 03.5.
+- id: m38-069
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 3
+  question: >-
+    A singer breached a contract to perform at a festival. The organiser asks the court to order her to
+    perform. What is the likely answer?
+  options:
+    - >-
+      Enforcement is granted, because enforcement is a right.
+    - >-
+      Enforcement is granted if the organiser posts security for her fee.
+    - >-
+      Refused, as it would force personal service; damages remain.
+    - >-
+      Enforcement is refused, and no damages are available either.
+  correct: 2
+  explanation: >-
+    Enforcement is a right except where it would force personal work or service, among other exceptions
+    (Remedies Law s. 3(2)); damages are still available (s. 2). Lesson 03.8.
+- id: m38-070
+  module: 38
+  lesson: "38.4"
+  subject: obligations-contracts
+  difficulty: 2
+  question: >-
+    Two months before the delivery date, a contractor writes: "We will not build your extension at all."
+    Must the client wait for the delivery date before using remedies?
+  options:
+    - >-
+      No, remedies are available before the due date.
+    - >-
+      Yes, until the due date arrives there is no breach.
+    - >-
+      Yes, unless the contract says otherwise.
+    - >-
+      No, but only damages, not cancellation.
+  correct: 0
+  explanation: >-
+    Anticipatory breach: if a party says it will not perform, remedies are available before the due date
+    (Remedies Law s. 17). Lesson 03.8.
+- id: m38-071
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 1
+  question: >-
+    Which list states the elements of the tort of negligence under ss. 35–36 of the Civil Wrongs Ordinance?
+  options:
+    - >-
+      Intent, harm, publication and falsity.
+    - >-
+      Duty of care, breach, damage and causation.
+    - >-
+      Contract, breach, notice and damage.
+    - >-
+      Unlawful entry, damage and absence of consent.
+  correct: 1
+  explanation: >-
+    Sections 35–36 give four elements: a duty of care, breach of the standard of care, damage, and a causal
+    link between breach and damage. Lesson 04.2.
+- id: m38-072
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 2
+  question: >-
+    A fire spread from a neighbour's yard and burned Lior's fence. Lior proves the fire started on the
+    neighbour's land. What helps him most?
+  options:
+    - >-
+      Nothing; he must prove exactly how the neighbour was careless.
+    - >-
+      Strict liability of the neighbour, without any defence.
+    - >-
+      The road-accident law.
+    - >-
+      The neighbour must prove there was no negligence.
+  correct: 3
+  explanation: >-
+    For damage caused by fire, once the basic facts are proved, the person in charge must prove there was
+    no negligence (Civil Wrongs Ordinance s. 39). Lesson 04.2.
+- id: m38-073
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 2
+  question: >-
+    A contractor left a trench unfenced; hours later a driver deliberately steered a car into a pedestrian
+    standing beside it. The pedestrian sues the contractor. What causation rule matters most?
+  options:
+    - >-
+      The contractor is liable for everything that followed his fault.
+    - >-
+      Causation is presumed whenever a safety statute was breached.
+    - >-
+      Another's decisive fault breaks the causal link.
+    - >-
+      Only natural events break causation.
+  correct: 2
+  explanation: >-
+    Fault is a cause if it is one of the causes, unless an unusual natural event or another person's fault
+    was the decisive cause (Civil Wrongs Ordinance s. 64). Lesson 04.3.
+- id: m38-074
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 2
+  question: >-
+    A plaintiff proves at trial that he lost ₪12,000 in wages, but his statement of claim gave no details of
+    any pecuniary loss. What is the likely result for that head?
+  options:
+    - >-
+      Not compensated: it was not particularised in the claim.
+    - >-
+      Compensated in full, since it was proved.
+    - >-
+      Compensated at half.
+    - >-
+      Compensated as non-pecuniary damage instead of pecuniary damage.
+  correct: 0
+  explanation: >-
+    Pecuniary damage is compensated only if its particulars were given in or with the statement of claim
+    (Civil Wrongs Ordinance s. 76(2)); the remedy is to amend in time. Lesson 04.3.
+- id: m38-075
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 3
+  question: >-
+    Noa's own home-contents insurer paid her ₪30,000 after a neighbour negligently flooded her flat. The
+    neighbour asks the court to deduct that sum from her damages. What is the rule?
+  options:
+    - >-
+      Deducted in full, to prevent any double recovery.
+    - >-
+      Deducted by half.
+    - >-
+      Deducted only if the insurer agrees.
+    - >-
+      Not deducted: it is her own insurance.
+  correct: 3
+  explanation: >-
+    Money from the plaintiff's own insurance is not deducted from tort damages (Civil Wrongs Ordinance
+    s. 86); the insurer may have its own subrogation rights. Lesson 04.3.
+- id: m38-076
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 2
+  question: >-
+    A store guard, wrongly suspecting a customer of theft, locked her in a back room for 20 minutes. She
+    suffered no financial loss. Does she have a claim?
+  options:
+    - >-
+      No, the period was too short to matter.
+    - >-
+      Yes, any length of total unlawful restraint suffices.
+    - >-
+      Only if she proves pecuniary damage, such as lost wages.
+    - >-
+      Only if the guard acted with malice.
+  correct: 1
+  explanation: >-
+    Civil Wrongs Ordinance s. 26 defines false imprisonment as total unlawful deprivation of liberty "למשך
+    זמן כלשהו"; it is actionable without proof of damage. Lesson 04.4.
+- id: m38-077
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 2
+  question: >-
+    A homeowner hired a licensed, competent roofing company as an independent contractor. A worker of the
+    company negligently dropped tiles on a passer-by. Is the homeowner liable?
+  options:
+    - >-
+      Yes, as the person who ordered the work.
+    - >-
+      Yes, jointly with the company, in every case.
+    - >-
+      Generally not, save listed exceptions.
+    - >-
+      Only if the work was on public land.
+  correct: 2
+  explanation: >-
+    A person who hires an independent contractor is generally not liable for its torts, save listed
+    exceptions (Civil Wrongs Ordinance s. 15). Lesson 04.7.
+- id: m38-078
+  module: 38
+  lesson: "38.4"
+  subject: obligations-torts
+  difficulty: 3
+  question: >-
+    A passenger was injured when the bus she was riding braked suddenly. She sues the driver in negligence
+    under the Civil Wrongs Ordinance. What is the problem?
+  options:
+    - >-
+      Her exclusive claim is under the road-accident law.
+    - >-
+      Passengers cannot recover for bodily injury.
+    - >-
+      She must first sue the bus company's insurer, which is registered abroad.
+    - >-
+      Negligence claims are barred after one year.
+  correct: 0
+  explanation: >-
+    A person with a claim under the Road Accident Law has no claim under the Ordinance for bodily injury,
+    unless another person caused the accident intentionally (s. 8(א)); liability is absolute (s. 2). Lesson
+    04.6.
+- id: m38-079
+  module: 38
+  lesson: "38.4"
+  subject: limitation
+  difficulty: 1
+  question: >-
+    A loan secured by a registered mortgage became time-barred as a claim. Can the bank still realise the
+    mortgage?
+  options:
+    - >-
+      No, limitation cancels both the debt and the security.
+    - >-
+      Only with the debtor's consent.
+    - >-
+      Yes, limitation bars the claim, not the right.
+    - >-
+      Only within one more year.
+  correct: 2
+  explanation: >-
+    Limitation does not cancel the right itself (Prescription Law s. 2), and a creditor holding a pledge or
+    mortgage may realise it (s. 20). Lesson 15.9.
+- id: m38-080
+  module: 38
+  lesson: "38.4"
+  subject: limitation
+  difficulty: 3
+  question: >-
+    In 2026 a contractor sues a client for the balance of a 2021 contract. The client counterclaims for
+    defects in the same work, a claim that alone would be time-barred. Can the contractor plead limitation
+    against the counterclaim?
+  options:
+    - >-
+      Yes, every claim is examined separately.
+    - >-
+      Yes, unless the court finds special reasons to hear it.
+    - >-
+      Only if the defects were known in 2021.
+    - >-
+      No, not against a counterclaim from the same subject.
+  correct: 3
+  explanation: >-
+    Prescription Law s. 4. Lesson 15.9.
+- id: m38-081
+  module: 38
+  lesson: "38.4"
+  subject: limitation
+  difficulty: 2
+  question: >-
+    Haim knew all the facts in 2016 but learned only in 2025 that the law gave him a claim. Does s. 8
+    delay the start of limitation?
+  options:
+    - >-
+      Yes, the period starts when he learned of his rights.
+    - >-
+      No, s. 8 concerns hidden facts, not ignorance of the law.
+    - >-
+      Yes, but only for claims against the State.
+    - >-
+      No, because limitation never has exceptions.
+  correct: 1
+  explanation: >-
+    Section 8 applies where the facts constituting the cause were unknown for reasons beyond the
+    plaintiff's control; not knowing the law does not delay the start. Lesson 15.9.
+- id: m38-082
+  module: 38
+  lesson: "38.4"
+  subject: limitation
+  difficulty: 3
+  question: >-
+    For three years a defendant repeatedly threatened the plaintiff with violence if she sued. How does
+    this affect limitation?
+  options:
+    - >-
+      The time she refrained from suing is not counted.
+    - >-
+      It has no effect, since she could have gone to the police.
+    - >-
+      It doubles the period.
+    - >-
+      It ends the period early as a sanction.
+  correct: 0
+  explanation: >-
+    The period while the plaintiff refrained from suing because the defendant knowingly misled, used force,
+    threatened or exploited her distress is not counted (Prescription Law s. 7). Lesson 15.9.
+- id: m38-083
+  module: 38
+  lesson: "38.4"
+  subject: limitation
+  difficulty: 2
+  question: >-
+    After the period expired, a debtor wrote: "I do owe you the money, but your claim is time-barred
+    anyway." Does this restart the period?
+  options:
+    - >-
+      Yes, any written acknowledgment restarts the period.
+    - >-
+      Yes, but only for half the debt.
+    - >-
+      No, not when coupled with a limitation plea.
+    - >-
+      No, acknowledgments after expiry are void.
+  correct: 2
+  explanation: >-
+    A written acknowledgment, even after expiry, restarts the period (Prescription Law s. 9), but not one
+    coupled with a limitation plea. Lesson 15.9.
+- id: m38-084
+  module: 38
+  lesson: "38.5"
+  subject: property
+  difficulty: 1
+  question: >-
+    A lease of land for 30 years is called, under the Land Law:
+  options:
+    - >-
+      Ordinary rental (שכירות) for any term.
+    - >-
+      A lease for generations.
+    - >-
+      Co-ownership.
+    - >-
+      An easement.
+  correct: 1
+  explanation: >-
+    A lease longer than five years is a חכירה; longer than 25 years, a lease for generations (Land Law s. 3).
+    Lesson 13.1.
+- id: m38-085
+  module: 38
+  lesson: "38.5"
+  subject: property
+  difficulty: 2
+  question: >-
+    A tenant built a concrete storeroom permanently attached to the landlord's land without any agreement
+    about it. Who owns the storeroom?
+  options:
+    - >-
+      The landowner, who owns permanent fixtures.
+    - >-
+      The tenant, because he paid for it.
+    - >-
+      Both, in shares by investment.
+    - >-
+      The State, until a court decides between them.
+  correct: 0
+  explanation: >-
+    Ownership of the ground covers what is permanently attached to it, whoever attached it, except
+    separable fixtures (Land Law s. 12); ss. 21–25 deal with building on another's land. Lesson 13.1.
+- id: m38-086
+  module: 38
+  lesson: "38.5"
+  subject: property
+  difficulty: 2
+  question: >-
+    A purchase contract noted by a caveat was cancelled years ago, but the caveat remains. How can the owner
+    remove it without a court order?
+  options:
+    - >-
+      He cannot; only a court can ever delete a caveat.
+    - >-
+      By paying the registration fee again at the Land Registry office.
+    - >-
+      By publishing a notice in two daily newspapers.
+    - >-
+      By showing its basis lapsed, after notice to the parties.
+  correct: 3
+  explanation: >-
+    A caveat is deleted by court order, by consent, or when its basis lapsed, after the registrar notifies
+    the interested parties and gives them time to go to court (Land Law s. 132(א)). Lesson 13.4.
+- id: m38-087
+  module: 38
+  lesson: "38.5"
+  subject: property
+  difficulty: 3
+  question: >-
+    Co-owners agreed not to seek dissolution for four years. One of them built a house on the common plot
+    without right. May another co-owner demand dissolution now?
+  options:
+    - >-
+      No, the four-year restriction binds every co-owner.
+    - >-
+      Only after three years.
+    - >-
+      Yes, despite any restriction.
+    - >-
+      Only if the builder consents.
+  correct: 2
+  explanation: >-
+    A co-owner who builds on the common land without right lets any other co-owner demand dissolution
+    despite any restriction (Land Law s. 46); the building is then accounted for (ss. 47–48). Lesson 13.5.
+- id: m38-088
+  module: 38
+  lesson: "38.5"
+  subject: property
+  difficulty: 2
+  question: >-
+    A neighbour's tree roots are cracking Eli's driveway. Eli asked in writing for them to be removed;
+    months passed and nothing happened. What may Eli do?
+  options:
+    - >-
+      Nothing; trees on the boundary are co-owned.
+    - >-
+      Remove the roots himself at the neighbour's cost.
+    - >-
+      Cut down the whole tree without notice.
+    - >-
+      Only sue for damages, never remove.
+  correct: 1
+  explanation: >-
+    If roots damage the land and are not removed within a reasonable time after a demand, the neighbour may
+    remove them at the owner's cost (Land Law s. 51); tree-felling rules still apply. Lesson 13.7.
+- id: m38-089
+  module: 38
+  lesson: "38.5"
+  subject: property
+  difficulty: 1
+  question: >-
+    Maya found a wallet on the floor of a supermarket. To whom must she report or hand it?
+  options:
+    - >-
+      To the owner of the premises.
+    - >-
+      To the municipality's lost-property office only.
+    - >-
+      To no one, if it contains less than ₪100.
+    - >-
+      To the Israel Tax Authority.
+  correct: 0
+  explanation: >-
+    Property found on someone else's premises (a shop, a bus) is reported to the premises' owner (Return of
+    Lost Property Law s. 3). Lesson 13.8.
+- id: m38-090
+  module: 38
+  lesson: "38.5"
+  subject: succession
+  difficulty: 1
+  question: >-
+    A child is born four months after his father's death. Does he inherit from his father?
+  options:
+    - >-
+      No, an heir must be alive at the moment of death.
+    - >-
+      Only if named in a will.
+    - >-
+      Yes, if born within 300 days of the death.
+    - >-
+      Only half the share of his siblings.
+  correct: 2
+  explanation: >-
+    Anyone alive at the death may inherit, including a child born within 300 days of it (Succession Law
+    s. 3). Lesson 26.1.
+- id: m38-091
+  module: 38
+  lesson: "38.5"
+  subject: succession
+  difficulty: 2
+  question: >-
+    A testator reads her will aloud before a notary and declares it is her will; the notary confirms this
+    on the will. What kind of will is it?
+  options:
+    - >-
+      A handwritten will.
+    - >-
+      An oral will.
+    - >-
+      Not a will, because a notary is not listed.
+    - >-
+      A will before an authority.
+  correct: 3
+  explanation: >-
+    A will before an authority is made before a judge, registrar, Registrar of Inheritance or religious
+    court member; a notary counts as a judge for this purpose (Succession Law s. 22(ז)). Lesson 26.2.
+- id: m38-092
+  module: 38
+  lesson: "38.5"
+  subject: succession
+  difficulty: 2
+  question: >-
+    In return for a car, a son signed an agreement during his father's lifetime waiving his future
+    inheritance. After the father's death he claims his share. Is the waiver valid?
+  options:
+    - >-
+      No, such a waiver is void.
+    - >-
+      Yes, it was given for value.
+    - >-
+      Yes, if signed before a lawyer.
+    - >-
+      Only for half the estate.
+  correct: 0
+  explanation: >-
+    An agreement about a person's inheritance, and a waiver of it, made in that person's lifetime, are void
+    (Succession Law s. 8(א)). Renunciation after death is a separate route (s. 6). Lesson 26.4.
+- id: m38-093
+  module: 38
+  lesson: "38.5"
+  subject: succession
+  difficulty: 3
+  question: >-
+    Spouses made mutual wills. While both are alive, the husband wants to revoke his. What must he do, and
+    with what effect?
+  options:
+    - >-
+      Nothing special; he may revoke secretly by making a new will.
+    - >-
+      Written notice to his wife, voiding both wills.
+    - >-
+      Obtain the Family Court's approval.
+    - >-
+      Revoke only after his wife dies.
+  correct: 1
+  explanation: >-
+    While both are alive, a spouse revokes a mutual will by written notice to the other, which voids both
+    wills (Succession Law s. 8א(ב)), unless the wills provide otherwise. Lesson 26.4.
+- id: m38-094
+  module: 38
+  lesson: "38.5"
+  subject: succession
+  difficulty: 2
+  question: >-
+    Dan and Hila lived together as a couple for years, neither married to anyone else. Dan died without a
+    will. What does Hila receive?
+  options:
+    - >-
+      Nothing; only a married spouse inherits by law.
+    - >-
+      Only the household movables.
+    - >-
+      What a spouse would inherit, as if by will.
+    - >-
+      Whatever his children agree to give her.
+  correct: 2
+  explanation: >-
+    A cohabitant in a shared household, neither partner married to another, is treated as if the deceased
+    left her by will what a spouse would inherit, unless a will provides otherwise (Succession Law s. 55).
+    Lesson 26.1.
+- id: m38-095
+  module: 38
+  lesson: "38.5"
+  subject: commercial-law
+  difficulty: 1
+  question: >-
+    A document reads: "Pay Avi ₪8,000 if the shipment arrives by 1 June," signed by the drawer and
+    addressed to his bank. Is it a bill of exchange?
+  options:
+    - >-
+      Yes, it is in writing and signed.
+    - >-
+      Yes, it is a post-dated cheque.
+    - >-
+      Yes, if the shipment arrives.
+    - >-
+      No, it is conditional.
+  correct: 3
+  explanation: >-
+    A bill of exchange is an unconditional written order (Bills Ordinance s. 3(א)); an order to pay "if the
+    goods arrive" is conditional (s. 3(ב)). Lesson 29.1.
+- id: m38-096
+  module: 38
+  lesson: "38.5"
+  subject: commercial-law
+  difficulty: 2
+  question: >-
+    Shira wrote "ערבה" and signed on the back of her brother's promissory note. The brother does not pay.
+    What is Shira's liability?
+  options:
+    - >-
+      Jointly and severally with her brother, as a bills guarantor.
+    - >-
+      None, because she received nothing.
+    - >-
+      Only after the holder exhausts execution against the brother.
+    - >-
+      Only up to half the sum.
+  correct: 0
+  explanation: >-
+    A bill guarantee (aval) makes the guarantor liable jointly and severally with the person guaranteed
+    (Bills Ordinance s. 57). Lesson 29.1.
+- id: m38-097
+  module: 38
+  lesson: "38.5"
+  subject: commercial-law
+  difficulty: 2
+  question: >-
+    The payee skilfully altered a cheque from ₪1,000 to ₪7,000, invisibly, and passed it to a holder in due
+    course. What may the holder recover from the drawer?
+  options:
+    - >-
+      Nothing, because the cheque is void.
+    - >-
+      ₪1,000, by its original terms.
+    - >-
+      ₪7,000, as written.
+    - >-
+      ₪4,000, splitting the loss.
+  correct: 1
+  explanation: >-
+    A material alteration voids the bill against non-consenting parties, but a holder in due course of an
+    invisibly altered bill may enforce it according to its original terms (Bills Ordinance s. 64). Lesson
+    29.2.
+- id: m38-098
+  module: 38
+  lesson: "38.5"
+  subject: commercial-law
+  difficulty: 3
+  question: >-
+    A borrower gave a promissory note to a lender, who sold it to a collection company. The company enforces
+    it in the Execution Office. Under the Fair Credit Law, what must the company prove to escape the
+    borrower's protections?
+  options:
+    - >-
+      Only that it paid for the note.
+    - >-
+      Nothing; a holder is always presumed to be in due course.
+    - >-
+      Good faith, value and no knowledge of the loan.
+    - >-
+      That the borrower defaulted twice.
+  correct: 2
+  explanation: >-
+    Fair Credit Law s. 11 subjects the holder to the Law as if he were the lender unless he proves good
+    faith, value and lack of knowledge of the loan origin; s. 12 extends the defences to guarantors. Lesson
+    29.2.
+- id: m38-099
+  module: 38
+  lesson: "38.5"
+  subject: corporations
+  difficulty: 1
+  question: >-
+    Which details must a company's articles contain under s. 18 of the Companies Law?
+  options:
+    - >-
+      Name, objects, share capital and limited liability.
+    - >-
+      The directors' salaries and the auditor's name.
+    - >-
+      The founders' home addresses and their bank account numbers.
+    - >-
+      A business plan and a dividend policy.
+  correct: 0
+  explanation: >-
+    Companies Law s. 18; everything else is optional (s. 19). Lesson 16.2.
+- id: m38-100
+  module: 38
+  lesson: "38.5"
+  subject: corporations
+  difficulty: 1
+  question: >-
+    A general meeting amends the articles in a way that harms the rights of the preference shares. What
+    additional approval is needed?
+  options:
+    - >-
+      None; an ordinary majority suffices.
+    - >-
+      The Companies Registrar's consent.
+    - >-
+      A court order approving the amendment.
+    - >-
+      The affected class meeting's approval.
+  correct: 3
+  explanation: >-
+    A change that harms a class of shares needs the class meeting's approval (Companies Law s. 20(ג)).
+    Lesson 16.2.
+- id: m38-101
+  module: 38
+  lesson: "38.5"
+  subject: corporations
+  difficulty: 3
+  question: >-
+    A creditor asks to lift the veil against a passive minority shareholder who did not suspect anything,
+    though a careful investor might have noticed warning signs. Is the "awareness" condition of s. 6 met?
+  options:
+    - >-
+      Yes, negligence is enough.
+    - >-
+      No, mere negligence is not awareness.
+    - >-
+      Yes, every shareholder is presumed aware.
+    - >-
+      Only if he is also a director.
+  correct: 1
+  explanation: >-
+    A shareholder who suspected and chose not to check is treated as aware, but not one who was merely
+    negligent (Companies Law s. 6(א)(2)). Lesson 16.5.
+- id: m38-102
+  module: 38
+  lesson: "38.5"
+  subject: corporations
+  difficulty: 3
+  question: >-
+    A shareholder demands, stating his purpose, to inspect documents about a transaction with the CEO that
+    needs general-meeting approval. When may the company refuse?
+  options:
+    - >-
+      Always, because internal company documents are confidential.
+    - >-
+      Only if the shareholder holds less than 10%.
+    - >-
+      For bad faith, a trade secret, or harm to the company.
+    - >-
+      Never; inspection is absolute.
+  correct: 2
+  explanation: >-
+    Companies Law s. 185(א) gives the right; s. 185(ב) allows refusal for bad faith, a trade secret or patent,
+    or other harm to the company. Lesson 16.6.
+- id: m38-103
+  module: 38
+  lesson: "38.5"
+  subject: real-estate-tax
+  difficulty: 1
+  question: >-
+    On the sale of a flat at a gain, who pays land appreciation tax (מס שבח)?
+  options:
+    - >-
+      The buyer.
+    - >-
+      Buyer and seller equally.
+    - >-
+      The municipality.
+    - >-
+      The seller.
+  correct: 3
+  explanation: >-
+    Appreciation tax is charged on the gain in the sale of a right in land and paid by the seller (RETL
+    s. 6); the buyer pays purchase tax (s. 9). Lesson 25.7.
+- id: m38-104
+  module: 38
+  lesson: "38.5"
+  subject: real-estate-tax
+  difficulty: 1
+  question: >-
+    A business buys a shop (not a residential apartment). What purchase-tax rate applies under the
+    regulations?
+  options:
+    - >-
+      6% of the value.
+    - >-
+      0% up to the single-apartment bracket.
+    - >-
+      3.5% flat.
+    - >-
+      The same scale as for a single apartment.
+  correct: 0
+  explanation: >-
+    For land that is not a residential apartment the rate is 6% (Purchase Tax Regulations reg. 2(1)). Lesson
+    25.6.
+- id: m38-105
+  module: 38
+  lesson: "38.5"
+  subject: real-estate-tax
+  difficulty: 2
+  question: >-
+    Yoni buys a flat in his own name. His wife, with whom he lives, already owns a flat. Is Yoni buying a
+    "single apartment" for purchase tax?
+  options:
+    - >-
+      Yes, because the new flat is registered only in his name.
+    - >-
+      No, he and his wife count as one buyer.
+    - >-
+      Yes, if he signs that he will not live in his wife's flat.
+    - >-
+      Only if the wife transfers her flat to him.
+  correct: 1
+  explanation: >-
+    The buyer, his spouse (unless permanently apart) and their minor children count as one buyer (RETL
+    s. 9(ג1ג)(4)(ג)). Lesson 25.6.
+- id: m38-106
+  module: 38
+  lesson: "38.5"
+  subject: real-estate-tax
+  difficulty: 3
+  question: >-
+    The appeals committee dismissed Tamar's appeal against an appreciation-tax decision. She thinks it
+    misread the law. What is her next step?
+  options:
+    - >-
+      A new objection to the director within 30 days.
+    - >-
+      An appeal to the district court on facts and law.
+    - >-
+      An appeal to the Supreme Court on a point of law.
+    - >-
+      A petition to the High Court of Justice.
+  correct: 2
+  explanation: >-
+    From the appeals committee an appeal on a point of law lies to the Supreme Court within 45 days (RETL
+    ss. 88–90). Lesson 25.6.
+- id: m38-107
+  module: 38
+  lesson: "38.6"
+  subject: criminal-law
+  difficulty: 1
+  question: >-
+    An offence carries a maximum of two months' imprisonment. How is it classified?
+  options:
+    - >-
+      A misdemeanour.
+    - >-
+      A contravention.
+    - >-
+      A felony.
+    - >-
+      It depends on the sentence actually imposed.
+  correct: 1
+  explanation: >-
+    A contravention carries imprisonment of up to three months (Penal Law s. 24(3)); classification follows
+    the maximum, not the sentence given. Lesson 05.1.
+- id: m38-108
+  module: 38
+  lesson: "38.6"
+  subject: criminal-law
+  difficulty: 2
+  question: >-
+    A paid babysitter left a toddler unfed all day, and the child was harmed. Can her failure to act be the
+    conduct element of an offence?
+  options:
+    - >-
+      No, criminal law punishes only positive acts, not omissions.
+    - >-
+      Only if she intended the harm.
+    - >-
+      Only if a parent was absent abroad.
+    - >-
+      Yes, if law or contract required the act.
+  correct: 3
+  explanation: >-
+    Conduct includes an omission, defined as failing to do what is a duty under any law or contract (Penal
+    Law s. 18(ב)–(ג)). Lesson 05.2.
+- id: m38-109
+  module: 38
+  lesson: "38.6"
+  subject: criminal-law
+  difficulty: 2
+  question: >-
+    To kill one passenger, an offender plants a bomb on a small plane, foreseeing that the other passengers
+    will almost certainly die too. What is his mental element as to them?
+  options:
+    - >-
+      Intent, under the foresight rule.
+    - >-
+      Rashness, because he hoped they might survive.
+    - >-
+      Negligence, because they were not his target.
+    - >-
+      None, because he had no motive against them.
+  correct: 0
+  explanation: >-
+    For intent, foreseeing the result as a near-certain possibility is like aiming to cause it (Penal Law
+    s. 20(ב), the foresight rule). Lesson 05.2.
+- id: m38-110
+  module: 38
+  lesson: "38.6"
+  subject: criminal-law
+  difficulty: 3
+  question: >-
+    Ori threw a stone intending to hit Avi, missed, and injured Ben. Is Ori's intent as to Ben's injury
+    established?
+  options:
+    - >-
+      No, he never aimed at Ben.
+    - >-
+      Only if Ben was a family member.
+    - >-
+      Yes, a different victim does not matter.
+    - >-
+      Only for offences of negligence, not intent.
+  correct: 2
+  explanation: >-
+    Transferred intent: it makes no difference that the result fell on a different person or property than
+    intended (Penal Law s. 20(ג)(2)). Lesson 05.2.
+- id: m38-111
+  module: 38
+  lesson: "38.6"
+  subject: criminal-law
+  difficulty: 2
+  question: >-
+    Two neighbours agree to commit together an act that is only a contravention. Have they committed the
+    offence of conspiracy?
+  options:
+    - >-
+      Yes, any agreement to break the law is a conspiracy.
+    - >-
+      No, it must concern a felony or misdemeanour.
+    - >-
+      Yes, but only if they took a step to carry it out.
+    - >-
+      No, conspiracy applies only to three or more people.
+  correct: 1
+  explanation: >-
+    Penal Law s. 499 makes an agreement to commit a felony or misdemeanour an offence; contraventions are
+    outside it (see also s. 34ג). Lesson 05.3.
+- id: m38-112
+  module: 38
+  lesson: "38.6"
+  subject: criminal-law
+  difficulty: 2
+  question: >-
+    In a dark street a man honestly but wrongly believed a stranger reaching into his coat was drawing a
+    knife, and pushed him away. How is his liability assessed?
+  options:
+    - >-
+      As if the stranger really had a knife only if the mistake was certain.
+    - >-
+      Strictly, on the facts as they really were.
+    - >-
+      By a jury of laypersons.
+    - >-
+      On the facts as he honestly imagined them.
+  correct: 3
+  explanation: >-
+    A person acting under an imagined state of affairs bears liability only as if it were true (Penal Law
+    s. 34יח), so putative self-defence may apply; for negligence offences the mistake must also be
+    reasonable. Lesson 05.4.
+- id: m38-113
+  module: 38
+  lesson: "38.6"
+  subject: criminal-law
+  difficulty: 3
+  question: >-
+    In an especially grave offence, the defendant has made real progress in rehabilitation. May the court
+    sentence below the proportionate range?
+  options:
+    - >-
+      Only in special and exceptional circumstances.
+    - >-
+      Yes, whenever a probation report recommends it.
+    - >-
+      No, the range is never left downward.
+    - >-
+      Yes, if the victim agrees.
+  correct: 0
+  explanation: >-
+    Rehabilitation allows going below the range, but for especially grave offences only in special and
+    exceptional circumstances (Penal Law s. 40ד). Lesson 05.6.
+- id: m38-114
+  module: 38
+  lesson: "38.6"
+  subject: basic-laws
+  difficulty: 1
+  question: >-
+    Who must respect the rights in Basic Law: Human Dignity and Liberty under s. 11?
+  options:
+    - >-
+      Only the Knesset when legislating.
+    - >-
+      Every private person and company equally.
+    - >-
+      Every governmental authority.
+    - >-
+      Only the courts.
+  correct: 2
+  explanation: >-
+    "כל רשות מרשויות השלטון חייבת לכבד את הזכויות" (s. 11); private parties are affected indirectly through
+    open terms such as good faith. Lesson 06.4.
+- id: m38-115
+  module: 38
+  lesson: "38.6"
+  subject: basic-laws
+  difficulty: 1
+  question: >-
+    A foreign resident living in Israel is barred from leaving the country by an administrative decision.
+    Does Basic Law: Human Dignity and Liberty protect her right to leave?
+  options:
+    - >-
+      Yes, every person may leave Israel.
+    - >-
+      No, only citizens may leave freely.
+    - >-
+      No, the right concerns only entry.
+    - >-
+      Only if she has an Israeli spouse.
+  correct: 0
+  explanation: >-
+    Section 6 gives every person the right to leave Israel and every citizen abroad the right to enter; any
+    infringement must meet the limitation clause (s. 8). Lesson 06.4.
+- id: m38-116
+  module: 38
+  lesson: "38.6"
+  subject: basic-laws
+  difficulty: 1
+  question: >-
+    How may the Knesset end its own term early under Basic Law: The Knesset?
+  options:
+    - >-
+      By a decision of the Knesset Speaker.
+    - >-
+      By a simple majority of those present.
+    - >-
+      By a request to the President alone.
+    - >-
+      By a law passed by a majority of its members.
+  correct: 3
+  explanation: >-
+    The term is four years (s. 8); the Knesset may dissolve itself early only by a law passed by a majority
+    of its members (s. 34). Lesson 06.5.
+- id: m38-117
+  module: 38
+  lesson: "38.6"
+  subject: basic-laws-procedure
+  difficulty: 2
+  question: >-
+    A resident learned on 1 May of a municipal decision in a First Schedule matter, published on 20 April.
+    When does the default period to petition the administrative affairs court start?
+  options:
+    - >-
+      From 1 May, when she learned of it.
+    - >-
+      From 20 April, the earliest date.
+    - >-
+      From the date the decision takes effect.
+    - >-
+      There is no period for administrative petitions.
+  correct: 1
+  explanation: >-
+    The petition is filed without delay and within the default period from publication, notice or
+    knowledge, whichever is earliest (administrative procedure regs, reg. 3; current numbers). Lesson 14.9.
+- id: m38-118
+  module: 38
+  lesson: "38.6"
+  subject: basic-laws-procedure
+  difficulty: 3
+  question: >-
+    The High Court of Justice dismisses a self-represented petition on its face without asking the
+    respondents to answer. What risk does the petitioner face?
+  options:
+    - >-
+      A criminal fine for frivolous petitions.
+    - >-
+      A ban on petitioning for one year.
+    - >-
+      An order to pay costs to the State.
+    - >-
+      None; costs are never awarded against individuals.
+  correct: 2
+  explanation: >-
+    If the Court dismisses a petition without calling the respondent, it may order the petitioner to pay
+    costs to the State (HCJ Procedure Regulations reg. 6). Lesson 06.8.
+- id: m38-119
+  module: 38
+  lesson: "38.6"
+  subject: ethics
+  difficulty: 1
+  question: >-
+    A non-lawyer volunteer at a charity drafts statements of claim for members every week, free of charge.
+    Is this a reserved act?
+  options:
+    - >-
+      No, because no payment is taken.
+    - >-
+      Yes, regular drafting is an occupation.
+    - >-
+      No, charities are exempt from s. 20.
+    - >-
+      Only if the claims exceed the small-claims ceiling.
+  correct: 1
+  explanation: >-
+    Section 20 reserves the listed acts when done as an occupation or for consideration; a free but regular
+    service is "דרך עיסוק". Lesson 35.2.
+- id: m38-120
+  module: 38
+  lesson: "38.6"
+  subject: ethics
+  difficulty: 2
+  question: >-
+    A lawyer pays a tow-truck operator 10% of every fee from accident clients he refers. Which rule is
+    breached most directly?
+  options:
+    - >-
+      The rule on fee agreements in writing.
+    - >-
+      The rule on advertising media.
+    - >-
+      The rule on keeping client money in trust.
+    - >-
+      The ban on fee sharing with non-lawyers.
+  correct: 3
+  explanation: >-
+    A lawyer may not share income with a non-lawyer in return for services, assistance or benefit to the
+    practice (Bar Association Law s. 58); soliciting through others is also barred (s. 56). Lesson 35.2.
+- id: m38-121
+  module: 38
+  lesson: "38.6"
+  subject: ethics
+  difficulty: 1
+  question: >-
+    A lawyer secretly records a meeting with his own client to protect himself in a future fee dispute. Is
+    this allowed?
+  options:
+    - >-
+      No, not without the client's knowledge.
+    - >-
+      Yes, a participant may always record.
+    - >-
+      Yes, if the recording stays in the office.
+    - >-
+      Only with the Bar's approval.
+  correct: 0
+  explanation: >-
+    Professional Conduct Rules r. 22 bars recording a conversation with a client or another lawyer without
+    their knowledge, though the general law allows participant recording. Lesson 35.3.
+- id: m38-122
+  module: 38
+  lesson: "38.6"
+  subject: ethics
+  difficulty: 3
+  question: >-
+    A lawyer wants to stop representing a client in a pending lawsuit because they disagree about strategy.
+    What must he do?
+  options:
+    - >-
+      Simply stop appearing; the client will understand.
+    - >-
+      Return the file within 24 hours and no more.
+    - >-
+      Notify, avoid harm, and get the court's permission.
+    - >-
+      Nothing, because a disagreement is not a valid reason to stop.
+  correct: 2
+  explanation: >-
+    A lawyer may stop only for listed reasons (including disagreement on handling the case), must notify the
+    client without delay, try not to harm him, and in a pending case needs the court's permission (r. 13).
+    Lesson 35.3.
+- id: m38-123
+  module: 38
+  lesson: "38.6"
+  subject: ethics
+  difficulty: 2
+  question: >-
+    A claims-assistance company (no lawyer, no representation) charged 30% of a National Insurance benefit
+    it helped a client obtain. What may the client do?
+  options:
+    - >-
+      Nothing; the agreement binds her.
+    - >-
+      Recover the excess over the statutory cap.
+    - >-
+      Cancel the benefit and refile alone.
+    - >-
+      Complain only to the Bar's district ethics committee.
+  correct: 1
+  explanation: >-
+    Whatever the agreement says, payment for handling an NII claim may not exceed the cap for the kind of
+    handling, and the excess is recoverable (National Insurance Law s. 315ב). Lesson 35.4.
+- id: m38-124
+  module: 38
+  lesson: "38.6"
+  subject: ethics
+  difficulty: 1
+  question: >-
+    A lawyer visits road-accident victims in hospital wards and offers his services. Which rule does this
+    breach?
+  options:
+    - >-
+      The duty to keep client money in trust.
+    - >-
+      The duty to state the fee in writing.
+    - >-
+      The ban on representing two parties.
+    - >-
+      The ban on soliciting work.
+  correct: 3
+  explanation: >-
+    Bar Association Law s. 56: a lawyer may not solicit anyone to give him professional work, personally or
+    through another. Lesson 35.5.
+- id: m38-125
+  module: 38
+  lesson: "38.7"
+  subject: drafting
+  difficulty: 1
+  question: >-
+    Which of these does NOT belong in the heading of a statement of claim under reg. 10?
+  options:
+    - >-
+      The legal arguments supporting the claim.
+    - >-
+      The parties' names, ID numbers and addresses.
+    - >-
+      Every remedy sought and its value.
+    - >-
+      The type and subject of the claim.
+  correct: 0
+  explanation: >-
+    The heading contains "these details only, in this order" (reg. 10); arguments belong in the summary and
+    detail (regs 11, 14). Lesson 38.7.
+- id: m38-126
+  module: 38
+  lesson: "38.7"
+  subject: drafting
+  difficulty: 2
+  question: >-
+    What must the summary part of a statement of claim state, besides the parties, the remedy and the
+    facts founding the cause and when it arose?
+  options:
+    - >-
+      A list of every case the plaintiff relies on.
+    - >-
+      The names of all witnesses.
+    - >-
+      The facts that give the court jurisdiction.
+    - >-
+      The plaintiff's lawyer's fee agreement.
+  correct: 2
+  explanation: >-
+    Reg. 11: the summary states, briefly, the parties, the remedy, the facts founding the cause and when it
+    arose, and the facts that give the court jurisdiction. Lesson 38.7.
+- id: m38-127
+  module: 38
+  lesson: "38.7"
+  subject: drafting
+  difficulty: 2
+  question: >-
+    Your affidavit in lieu of testimony includes "My sister told me the contractor admitted the defect."
+    What is wrong with that paragraph?
+  options:
+    - >-
+      Affidavits must be written in the third person.
+    - >-
+      Affidavits may not mention family members.
+    - >-
+      Nothing; affidavits may contain any relevant statement at all.
+    - >-
+      It may state only facts within your own knowledge.
+  correct: 3
+  explanation: >-
+    An affidavit is in the first person, in numbered paragraphs, and contains only facts the deponent can
+    testify to from his own knowledge (reg. 178(א)); the sister should give her own affidavit. Lesson 38.7.
+- id: m38-128
+  module: 38
+  lesson: "38.7"
+  subject: drafting
+  difficulty: 3
+  question: >-
+    The registry refused your motion for a form defect you think does not exist. What may you do?
+  options:
+    - >-
+      Nothing; registry decisions are final.
+    - >-
+      Ask a judge to decide, within seven days.
+    - >-
+      Appeal to the Supreme Court.
+    - >-
+      File it again in another district's registry.
+  correct: 1
+  explanation: >-
+    A party who thinks a refusal is wrong may ask within seven days for a judge to decide (reg. 33(ה)); you
+    may also cure the defect within the period in reg. 33(ג). Lesson 15.2.
+- id: m38-129
+  module: 38
+  lesson: "38.7"
+  subject: drafting
+  difficulty: 1
+  question: >-
+    A draft defence calls the plaintiff "a known swindler who lies to the court". Which rule does this
+    breach?
+  options:
+    - >-
+      The duty not to draft insulting or abusive pleadings.
+    - >-
+      The page limit for defences in the magistrates' court.
+    - >-
+      The rule on alternative facts.
+    - >-
+      The rule on attachments.
+  correct: 0
+  explanation: >-
+    Reg. 32 requires pleadings drafted "in a way that is not insulting, shaming or abusive"; it also costs
+    marks for language in the writing task. Lesson 38.7.

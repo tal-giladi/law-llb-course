@@ -1,0 +1,174 @@
+- id: q1
+  question: >-
+    A candidate notices that the examining committee published the statute list for a sitting only two
+    months before the exam day. Which rule does that conflict with?
+  options:
+    - >-
+      Reg. 15, which requires each sitting to be announced a year in advance.
+    - >-
+      Reg. 18(ד), which requires publication no later than three months before the exam.
+    - >-
+      Reg. 18ג, which lowers the pass mark whenever a list is published late.
+    - >-
+      Reg. 21, which entitles every candidate to a free retake after a late list.
+  correct: 1
+  explanation: >-
+    The committee must publish the order of the parts, the times, the weights and the list of statutes no
+    later than three months before the exam day (reg. 18(ד)).
+- id: q2
+  question: >-
+    Tamar lost a small claim against a garage and believes the judge misread the invoice. She wants the
+    district court to review the judgment. What is her route?
+  options:
+    - >-
+      An appeal as of right within 60 days of service.
+    - >-
+      A request to the same judge for a fresh hearing on the evidence.
+    - >-
+      A petition to the High Court of Justice against the judge's decision.
+    - >-
+      An application for leave to appeal, decided by a district court judge.
+  correct: 3
+  explanation: >-
+    A small-claims judgment may be appealed only with leave of a district court judge (Courts Law s. 64);
+    the application period is in the Small Claims Regulations (current numbers).
+- id: q3
+  question: >-
+    Police questioned a suspect without telling him of his right to consult a lawyer, and he confessed.
+    At trial the defence asks to exclude the confession. Which approach will the court take?
+  options:
+    - >-
+      Weigh whether admitting it would substantially harm a fair trial.
+    - >-
+      Exclude it automatically, because every unlawfully obtained statement is inadmissible.
+    - >-
+      Admit it automatically, because the confession was given voluntarily.
+    - >-
+      Admit it only if the suspect signed every page of the statement.
+  correct: 0
+  explanation: >-
+    Besides the free-and-voluntary test of Evidence Ordinance s. 12, a criminal court may exclude unlawfully
+    obtained evidence if admitting it would substantially harm the right to a fair trial (s. 56א; Yissacharov).
+- id: q4
+  question: >-
+    Execution is opened against Yigal for child-maintenance arrears. He says part of his monthly wage is
+    protected from attachment. Is he right?
+  options:
+    - >-
+      Yes, the protected amount applies to every creditor without exception.
+    - >-
+      Yes, but only if he appears for a means inquiry within 21 days.
+    - >-
+      No, the wage-protection rule does not apply to maintenance debts.
+    - >-
+      No, wages can never be attached for any debt at all.
+  correct: 2
+  explanation: >-
+    Wage Protection Law s. 8 protects part of the wage from attachment, but not against maintenance debts;
+    most s. 50 protections also yield to a maintenance creditor (Execution Law s. 50(ב)).
+- id: q5
+  question: >-
+    A supply contract says: "Any breach of any term of this agreement, however minor, is a fundamental
+    breach." The buyer was one day late in paying a small invoice, and the supplier cancelled at once.
+    What should the court ask?
+  options:
+    - >-
+      Nothing, because the parties agreed that every breach is fundamental.
+    - >-
+      Whether the supplier gave notice by registered mail.
+    - >-
+      Whether the buyer acted in bad faith in negotiations.
+    - >-
+      Whether the blanket clause was reasonable at contracting.
+  correct: 3
+  explanation: >-
+    A blanket clause making all breaches fundamental without distinction has effect only if it was
+    reasonable when the contract was made (Remedies Law s. 6); otherwise the breach is assessed as
+    non-fundamental and an extension was needed (s. 7(ב)).
+- id: q6
+  question: >-
+    A farmer's greenhouse was damaged during an IDF operation that the court finds was a combat action.
+    He sues the State in tort. What is the likely result?
+  options:
+    - >-
+      Full damages, because the State is liable like any corporation.
+    - >-
+      No tort liability, because it was a combat action.
+    - >-
+      Damages reduced by half for the security need.
+    - >-
+      Damages only if he files his claim within seven years.
+  correct: 1
+  explanation: >-
+    The State is liable like a corporation (State Liability Law s. 2) except as the Law provides; it is not
+    liable for a combat action of the IDF (s. 5). Compensation, if any, comes through other laws.
+- id: q7
+  question: >-
+    Rami agreed to sell his tractor to Ben, who paid but did not take it. A week later Rami sold the same
+    tractor to Gil, who paid in good faith and drove it away. Who owns the tractor?
+  options:
+    - >-
+      Gil, who bought and received it in good faith for value.
+    - >-
+      Ben, because his contract with Rami came first in time.
+    - >-
+      Ben, because Gil should have checked a register first.
+    - >-
+      Neither, until a court divides the value between them.
+  correct: 0
+  explanation: >-
+    In a double sale of movables the first wins, unless the second contracted and received the goods in
+    good faith and for value (Movable Property Law s. 12); Ben's remedy is against Rami.
+- id: q8
+  question: >-
+    A private company's articles allow it to exempt officers in advance for breach of the duty of care.
+    The board exempted its general manager for a negligent but honest purchase decision. Is the exemption
+    valid?
+  options:
+    - >-
+      No, a company may never exempt officers from any liability.
+    - >-
+      No, an exemption needs the approval of every shareholder.
+    - >-
+      Yes, exemption for breach of care is allowed if the articles permit it.
+    - >-
+      Yes, and it would also cover a breach of the duty of loyalty.
+  correct: 2
+  explanation: >-
+    A company may exempt an officer in advance for breach of care if its articles allow (Companies Law
+    s. 259), except a director for a distribution; it may never exempt for breach of loyalty (s. 258).
+- id: q9
+  question: >-
+    A firefighter refuses to enter a burning building and, to save himself, breaks into a neighbour's car
+    to shelter from the smoke. Charged with damaging the car, he pleads necessity. What limits the defence?
+  options:
+    - >-
+      Nothing, since necessity always covers saving one's own life.
+    - >-
+      It does not apply to one whose duty is to face that danger.
+    - >-
+      Necessity applies only to damage caused to state property.
+    - >-
+      Necessity requires the owner's later consent.
+  correct: 1
+  explanation: >-
+    Necessity, self-defence and duress do not apply to a person who is under a duty to face the danger
+    (Penal Law s. 34טו), and all fail if the act was unreasonable (s. 34טז).
+- id: q10
+  question: >-
+    An accountant, not a lawyer, represents a client for a fee before the income-tax assessor. The client
+    later refuses to pay, arguing this was a reserved act. What is correct?
+  options:
+    - >-
+      The client is right: any paid representation is reserved to lawyers.
+    - >-
+      The client is right, unless the accountant is also a notary.
+    - >-
+      The accountant may be paid only if a lawyer supervised him.
+    - >-
+      The client is wrong: another enactment regulates this representation.
+  correct: 3
+  explanation: >-
+    Section 20 reserves representation for others, but s. 21(3) preserves representation regulated by
+    another enactment; tax advisers and accountants may represent before the tax authorities under the
+    Income Tax Ordinance and the Tax Advisers Representation Law (lesson 35.2).

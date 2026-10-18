@@ -1,0 +1,89 @@
+- id: q1
+  question: >-
+    Sami bought a flat in 2019, paid in full and moved in, but never registered a caveat. In 2026 a
+    creditor of the seller attached the flat in an execution file. Which approach governs the contest?
+  options:
+    - >-
+      Land Law s. 9, because the attachment is a competing transaction.
+    - >-
+      Case law (Aharonov): the earlier paying buyer generally prevails.
+    - >-
+      The creditor wins automatically, because Sami never registered any right.
+    - >-
+      The Execution Law, which always protects the attaching creditor.
+  correct: 1
+  explanation: >-
+    An attachment is not an undertaking to make a transaction, so s. 9 does not apply directly; under
+    Aharonov the creditor takes the debtor's property subject to earlier obligations, with the buyer's
+    good faith still relevant. A caveat would have settled it (Land Law s. 127(ב)).
+- id: q2
+  question: >-
+    Hagit died intestate. She leaves a husband and a brother; no children, and her parents are dead. The
+    estate includes the couple's home of 10 years, registered in her name. What does the husband take?
+  options:
+    - >-
+      Half of the estate, with the brother taking the other half.
+    - >-
+      Everything, because there are no children or parents.
+    - >-
+      Movables, her share of the home and two-thirds of the rest.
+    - >-
+      Two-thirds of the whole estate, including the family home.
+  correct: 2
+  explanation: >-
+    With siblings as the closest relatives, the spouse takes the household movables and two-thirds of
+    the rest; if married three years or more and living in an estate apartment, also the deceased's whole
+    share in it (Succession Law s. 11(א)(2)).
+- id: q3
+  question: >-
+    A director of a private company learns of a business opportunity offered to the company and takes it
+    for his own firm. The board did not approve. Which duty did he breach?
+  options:
+    - >-
+      The duty of loyalty, which forbids taking the company's business opportunities.
+    - >-
+      Only the duty of care, since he acted with reasonable skill.
+    - >-
+      No duty, because a director may compete unless the articles forbid it.
+    - >-
+      The duty of fairness, which binds only controlling shareholders.
+  correct: 0
+  explanation: >-
+    The duty of loyalty includes refraining from using a business opportunity of the company (Companies
+    Law s. 254(א)(3)); approval requires good faith, no harm and full prior disclosure (s. 255).
+- id: q4
+  question: >-
+    A discount company bought a cheque from the payee knowing the drawer had stopped it because the goods
+    were defective. It sues the drawer. What is the strongest defence?
+  options:
+    - >-
+      The cheque was post-dated, and a post-dated cheque is void.
+    - >-
+      A cheque can never be enforced once the drawer has stopped it.
+    - >-
+      The company must first sue the payee who endorsed it.
+    - >-
+      The company is not a holder in due course, given its notice.
+  correct: 3
+  explanation: >-
+    A holder who took with notice of a defect is not a holder in due course (Bills Ordinance s. 28(א)), and
+    a holder for value who is not in due course is subject to the drawer's defences (Tal Trading). A
+    post-dated cheque is valid (s. 73).
+- id: q5
+  question: >-
+    Eti, who owns no other flat, bought an apartment 14 months ago and now sells it. Is the sale exempt
+    from appreciation tax under the single-apartment exemption in s. 49ב(2)?
+  options:
+    - >-
+      Yes, because it is her only apartment in Israel.
+    - >-
+      No, because she has held it for less than 18 months.
+    - >-
+      Yes, provided the sale price is below the exemption ceiling.
+    - >-
+      No, because the exemption applies only to inherited flats.
+  correct: 1
+  explanation: >-
+    Section 49ב(2) requires the seller to have held the right for at least 18 months since the apartment
+    became a residence; other conditions (only apartment, no exempt sale in the previous 18 months) are
+    not enough alone.
