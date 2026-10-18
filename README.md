@@ -20,3 +20,13 @@ You may always act for yourself. Representing other people, drafting legal docum
 
 > [!IMPORTANT]
 > Acting on your own can carry risk: losing a case, paying the other side's costs, missing a deadline. Check current rules, act only in your own name, and get help when the stakes are high. See [where to get help](references/where-to-get-help.md).
+
+## Read it offline
+
+The course also runs as a small website with no internet connection. Download the repository (on GitHub: Code → Download ZIP) and unzip it, then from that folder run:
+
+```bash
+python -m http.server 8080
+```
+
+and open `http://localhost:8080` in your browser. Everything it needs is in the folder.
