@@ -103,7 +103,7 @@ An officer may seize an object if he reasonably believes an offence was or is ab
 
 ### רע״פ 10141/09 בן חיים נ׳ מדינת ישראל (6.3.2012)
 
-Officers asked passers-by to "agree" to a search of their pockets or bags without any suspicion. The Supreme Court (President Beinisch) held that where there is no statutory power, consent can justify a search only if it is informed consent: the officer must tell the person that he may refuse and that refusing will not be held against him. Evidence from a search without real consent may be excluded under Yissacharov. Why it matters: "Can I look in your bag?" is a request, not an order; you may say no. Free source: the [Hebrew Wikipedia article](https://he.wikipedia.org/wiki/הלכת_בן_חיים) (secondary).
+Officers asked passers-by to "agree" to a search of their pockets or bags without any suspicion. The Supreme Court (President Beinisch) held that where there is no statutory power, consent can justify a search only if it is informed consent: the officer must tell the person that he may refuse and that refusing will not be held against him. Evidence from a search without real consent may be excluded under Evidence Ordinance s. 56א, which codified Yissacharov in 2022. Why it matters: "Can I look in your bag?" is a request, not an order; you may say no. Free source: the [Hebrew Wikipedia article](https://he.wikipedia.org/wiki/הלכת_בן_חיים) (secondary).
 
 ### בג״ץ 3809/08 האגודה לזכויות האזרח בישראל נ׳ משטרת ישראל (28.5.2012)
 
@@ -137,7 +137,7 @@ If the officer proceeds anyway, do not resist. Remember names, badge numbers, ti
 ### Challenging afterwards
 
 - **In the remand hearing:** argue that the arrest was unlawful (s. 24(ג)) or unnecessary (s. 23(ג)); the judge may release.
-- **In the trial:** ask to exclude evidence from an unlawful search (Yissacharov; Ben Haim), usually through your lawyer.
+- **In the trial:** ask to exclude evidence from an unlawful search (Evidence Ordinance s. 56א; Ben Haim), usually through your lawyer.
 - **Seized property:** ask the magistrates' court to return it (Ordinance s. 34).
 - **Compensation:** Arrests Law s. 38 after release without indictment; a tort claim for false imprisonment (lesson [04.4](../module-04/lesson-04.md)).
 - **Complaint about an officer:** the Police Investigations Department (מח"ש) at the Ministry of Justice (⚠️ check the current form on gov.il).

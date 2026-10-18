@@ -111,7 +111,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דואר רשום עם אישור מסירה** (do'ar rashum im ishur mesira) — Registered mail with proof of delivery.
 - **דוח עיון** (doch iyun) — Online pledges search report; not an official registration report (Pledges Regulations reg. 13א).
 - **דוח ריכוז נתונים** (doch rikuz netunim) — Credit-data summary report: free once a year from the Bank of Israel (Credit Data Law s. 38).
-- **דוקטרינת הפסילה הפסיקתית** (doktrinat hapsila hapsikatit) — The relative case-law exclusionary doctrine adopted in Yissacharov (CrimA 5121/98).
+- **דוקטרינת הפסילה הפסיקתית** (doktrinat hapsila hapsikatit) — The relative case-law exclusionary doctrine adopted in Yissacharov (CrimA 5121/98), codified in 2022 as Evidence Ordinance s. 56א.
 - **דחייה על הסף** (Dhiya al ha-saf) — Dismissal in limine, without a hearing on the merits.
 - **דיון מהיר** (Diyun mahir) — Fast track for smaller money claims and eviction claims (regs 78–82).
 - **דיון מוקדם / קריאה טרומית** (Diyun mukdam / kri'a tromit) — Preliminary reading of a private bill, at least 45 days after tabling unless shortened.

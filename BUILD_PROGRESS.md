@@ -60,7 +60,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1â
 ## Now working
 
 - Module 31: sub-agent A
-- Year 3 QA (23â€“30): sub-agent B
+
 
 
 ## Decisions and open questions

@@ -69,3 +69,49 @@ check-module: 14, 18 and 19 each report 0 problems.
 6. **14.2, "Each side's legal argument"**: the two positions are not attributed to anyone. Consider naming them (the respondents and the minority; the petitioners and the majority) as 19.5 does.
 7. **14.5, gas outline (HCJ 4374/15)**: a politically charged ruling with Sohlberg J.'s dissent named but not explained. One sentence on the dissent's reasoning would balance it.
 8. **15.2, the Asi stream SLAPP case**: only the majority's reasoning is given; one sentence on the kibbutz's position or Acting President Amit's dissent would help. The name is spelled "Solberg" there and "Sohlberg" elsewhere.
+
+## Year 3 (modules 23–30)
+
+Date: 2026-10-18. Same standard (plan §9). Module 31 excluded (in progress).
+
+### Scope and method
+
+- Read in full the contested passages: 24.1–24.5 (structure, police powers, interrogation, remand, prosecution decisions, each neutrality note and leading case), 27.3, 27.5 and 27.7 (participation, enforcement and demolition, Arabic signage), 26.1, 26.4–26.6 (s. 155 religious-court route), 25.8–25.9 (tax debts, work grant), 28.5–28.6 (insolvency framing), 30.1 and 30.3 (Yinon, the settlements).
+- Worked-example openings of every lesson and every project's supplied case in 23–30 were checked for rotation and stereotypes; quizzes and banks of 23–30 were keyword-swept for community terms and for moralising or opinion-type answers.
+
+Overall: the debates are presented with both sides (exclusion of evidence, confessions, warrantless powers, conditional arrangements, Amendment 116, local autonomy, freedom of testation, the s. 155 consent route, fresh start and moral hazard). No quiz or bank answer is a political opinion. Examples rotate across Jewish (secular, Haredi, Mizrahi, Ethiopian, FSU), Arab (Muslim, Christian), Druze and Bedouin characters, and Arab suspects in module 24 are not cast as more dangerous than others. The modules do not cover unrecognised Bedouin villages, East Jerusalem planning, planning in Judea and Samaria or Haredi-neighbourhood planning disputes, and module 24 does not discuss protest arrests, so there was nothing to balance on those points.
+
+### Fixes (5, in 4 files)
+
+| File | What | Why |
+|---|---|---|
+| lessons/module-27/lesson-05.md (Why it matters) | "where plans lag behind need" now "where, residents and their representatives argue, plans lag behind need". | One side's framing of unpermitted Arab and Negev building was stated as fact. |
+| lessons/module-27/lesson-05.md (Why it matters) | "Supporters" now "Supporters, including the Kaminitz committee and the government that sponsored the amendment". | The critics were attributed (Arab communities), the supporters were not. |
+| lessons/module-24/lesson-03.md (PCATI, HCJ 5100/94) | Added the State's argument (methods needed to prevent imminent terror attacks; claimed basis in the general power to investigate and necessity). | Only the holding against the GSS was given; the State's legal position was missing. |
+| lessons/module-25/lesson-05.md (worked example) | The self-employed electrician whose bank deposits are treated as unreported fees is now from Holon, not Bnei Brak. | Location irrelevant to the law; it played to a cash-economy stereotype about Haredi taxpayers. |
+| lessons/module-25/lesson-08.md (Why it matters) | "Most people who owe the Tax Authority money did not set out to cheat" now "Many ... did not set out to evade tax". | Unsupported statistic and moral language. |
+
+### Consistency fixes (earlier modules and references)
+
+| File | What |
+|---|---|
+| lessons/module-01/lesson-06.md (Yissacharov) | Added that the rule is codified since 2022 in Evidence Ordinance s. 56א (link to 23.5). |
+| lessons/module-08/lesson-04.md (Yissacharov) | Same. |
+| lessons/module-24/lesson-01.md, lesson-02.md (Yissacharov; Ben Haim; "Challenging afterwards") | Exclusion now cited to s. 56א (codifying Yissacharov) rather than to the case alone. |
+| glossary.md (דוקטרינת הפסילה הפסיקתית) | Added "codified in 2022 as Evidence Ordinance s. 56א". |
+| references/current-numbers.md (Execution Law s. 7א2 row, 08.7) | "₪150,000 or more → insolvency official" replaced by the linked threshold (₪150,000 base; ₪176,923 in 2026): at or below, before an execution registrar; above, the Insolvency Commissioner. |
+| templates/arnona-objection-and-appeal.md (deadlines) | Administrative appeal "within the period in the court rules" now "within 60 days (reg. 23(ב), as amended 2022)". |
+
+Checked and already consistent: no lesson in 1–22 cites the Criminal Register Law 1981 or the Debit Cards Law 1986; 08.5 and 14.9 refer arnona and other appeals to the reg. 23 default period in current numbers (60 days); 08.7 states the s. 7א2 routing without a figure.
+
+check-module: 01, 08, 24, 25 and 27 each report 0 problems.
+
+### For Tal to review personally
+
+1. **Character pattern, Bedouin from Rahat (year-2 item 2 recurs)**: "Fatma Abu-Rabia" appears a third time, now as an Execution Office debtor (28.1); Ahmad Abu-Rabia (Rahat, 29.5) and Ibrahim Abu Rabia (Tel Sheva, unpermitted extension, 27.5) share the surname. Vary names and roles.
+2. **Character pattern, FSU (year-1 item 8 recurs)**: Igor Petrenko is the deemed evader facing an exit ban (28.2); Natalia Ivanova (insolvency, 28.5–28.6), Olga Kuznetsov (29.4), Dmitri Volkov (29.8), Olga Petrova (26.6), two Petrov couples (25.9, 30.4). Consider renaming one or two, especially 28.2.
+3. **Character pattern, Mizrahi surnames as violent suspects in module 24**: Yosef Mizrahi (stabbing, 24.4), Daniel Ohana (wedding-hall fight, 24.9), Tomer Avraham (threats, 24.5), Noam Peretz (street stop, 24.2); Ashkenazi-coded names get fraud, drugs or parking. Not a stereotype in any one lesson, but consider swapping one.
+4. **Haredi characters in money trouble**: 29.3 Moshe Friedman (Beitar Illit, refused cheques) is the only other Haredi-coded lead besides 26.4 and 27.4. He is vindicated, but consider a different setting.
+5. **24.3, the State's argument in PCATI**: written from the judgment's summary of the State's case as I recall it; confirm against the English translation.
+6. **27.5, Supporters' attribution**: the Kaminitz committee recommended the amendment and it passed as a government bill; confirm you are content naming them.
+7. **Territory terminology (year-1 item 5, year-2 item 4)**: 30.1 and 30.3 use "West Bank" and "Israeli settlement", never "Judea and Samaria". Apply the house style you choose.

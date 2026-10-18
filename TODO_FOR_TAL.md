@@ -27,3 +27,4 @@
 - Module 25: all 6 tax rulings from Hebrew Wikipedia; Work Grant amounts and deadlines, 2026 late-filing fine and voluntary-disclosure status after 31.8.2026 need checking.
 - Module 27: planning rulings mostly from Hebrew Wikipedia (Adalah 4112/99 via Cardozo); confirm whether objections can be filed online for free and whether non-lawyers may represent before planning appeals committees.
 - Module 28: Insolvency Law Amendment 9 (Jan 2026) start date and transition rules; protected-wage amounts; Enforcement Authority personal area for unrepresented parties (gov.il 403).
+- Year 3 QA (curriculum/qa/neutrality-report.md, Year 3 section): 7 review items (repeated character patterns, two attributions to confirm).

@@ -113,7 +113,7 @@ If you think the judgment is wrong, appeal. If the judge was rude, delayed a dec
 
 ### ע״פ 5121/98 יששכרוב נ׳ התובע הצבאי הראשי, פ״ד סא(1) 461 (2006)
 
-A soldier confessed to drug offences after military police deliberately failed to tell him of his right to consult a lawyer. A nine-justice panel adopted a case-law rule allowing courts to exclude illegally obtained evidence where admitting it would substantially harm the right to a fair trial, and excluded his confessions. The rule is discretionary, not automatic; Justice Grunis dissented on its application.
+A soldier confessed to drug offences after military police deliberately failed to tell him of his right to consult a lawyer. A nine-justice panel adopted a case-law rule allowing courts to exclude illegally obtained evidence where admitting it would substantially harm the right to a fair trial, and excluded his confessions. The rule is discretionary, not automatic; Justice Grunis dissented on its application. Since 2022 the rule is codified in Evidence Ordinance s. 56א (lesson [23.5](../module-23/lesson-05.md)).
 
 Why it matters: it shows the lawyer's role is not a formality. The right to consult a lawyer before questioning is protected strongly enough that ignoring it can cost the prosecution its evidence. If you are ever summoned for questioning (module 5), ask to speak with a lawyer first; the Public Defender runs a service for detainees. [English translation](https://larc.cardozo.yu.edu/iscp-opinions/411)
 

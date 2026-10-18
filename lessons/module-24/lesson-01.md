@@ -95,7 +95,7 @@ A young man was charged with stealing two cars and held in detention until the e
 
 ### ע״פ 5121/98 יששכרוב נ׳ התובע הצבאי הראשי (4.5.2006)
 
-You met the holding in lesson 08.4: evidence obtained unlawfully may be excluded where admitting it would substantially infringe the right to a fair trial. Here read it for its structure. The Court rejected both extremes (automatic exclusion as in the US "fruit of the poisonous tree" rule, and the old Israeli rule that admissibility depends only on reliability) and chose a relative, case-by-case doctrine rooted in the Basic Law. Why it matters: it is the clearest statement that Israeli criminal procedure balances truth-finding against the protection of rights, and that the balance is constitutional. [English translation](https://versa.cardozo.yu.edu/opinions/yissacharov-v-chief-military-prosecutor)
+You met the holding in lesson 08.4: evidence obtained unlawfully may be excluded where admitting it would substantially infringe the right to a fair trial. Here read it for its structure. The Court rejected both extremes (automatic exclusion as in the US "fruit of the poisonous tree" rule, and the old Israeli rule that admissibility depends only on reliability) and chose a relative, case-by-case doctrine rooted in the Basic Law, codified in 2022 as Evidence Ordinance s. 56א (lesson [23.5](../module-23/lesson-05.md)). Why it matters: it is the clearest statement that Israeli criminal procedure balances truth-finding against the protection of rights, and that the balance is constitutional. [English translation](https://versa.cardozo.yu.edu/opinions/yissacharov-v-chief-military-prosecutor)
 
 ## How it works in practice
 

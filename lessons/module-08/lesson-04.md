@@ -101,7 +101,7 @@ The court appoints a defender for a defendant without one in listed cases: murde
 
 ### ע״פ 5121/98 יששכרוב נ׳ התובע הצבאי הראשי (4.5.2006)
 
-Recap from lesson 01.6. A soldier's confession was obtained without telling him of his right to consult a lawyer. The Supreme Court adopted a doctrine of judicial exclusion: evidence obtained unlawfully may be excluded where admitting it would substantially infringe the right to a fair trial, weighing the nature of the illegality, its effect on the evidence and the social cost of exclusion. Why it matters: the rights in Arrests Law ss. 32–34 have teeth; a violation can cost the prosecution its key evidence. [English translation](https://larc.cardozo.yu.edu/iscp-opinions/411)
+Recap from lesson 01.6. A soldier's confession was obtained without telling him of his right to consult a lawyer. The Supreme Court adopted a doctrine of judicial exclusion: evidence obtained unlawfully may be excluded where admitting it would substantially infringe the right to a fair trial, weighing the nature of the illegality, its effect on the evidence and the social cost of exclusion. Since 2022 the doctrine is codified in Evidence Ordinance s. 56א (lesson [23.5](../module-23/lesson-05.md)). Why it matters: the rights in Arrests Law ss. 32–34 have teeth; a violation can cost the prosecution its key evidence. [English translation](https://larc.cardozo.yu.edu/iscp-opinions/411)
 
 ### בג״ץ 9264/04 מדינת ישראל נ׳ בית משפט השלום בירושלים (6.6.2005)
 

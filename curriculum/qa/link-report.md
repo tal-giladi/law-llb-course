@@ -128,3 +128,66 @@ None needed.
 - https://www.kolzchut.org.il/he/ייצוג_על_ידי_סניגור_ציבורי_בהליך_פלילי (403) — references/where-to-get-help.md
 - https://www.kolzchut.org.il/he/עתירות_אסירים_ועצורים (403) — references/can-i-act-without-a-lawyer.md
 
+
+## Year 3 (modules 23–30)
+
+Run: 2026-10-18, `node curriculum/tools/check-links.mjs <out.json> lessons/module-23 … lessons/module-30 projects/m23-* … projects/m30-* templates references`. Module 31 excluded (in progress).
+
+Scope: 241 files, 666 unique URLs.
+
+### Counts
+
+| Status | Count |
+|---|---|
+| OK (2xx/3xx) | 624 |
+| Rate-limited (429, he.wikisource.org), each page confirmed to exist through the MediaWiki API | 8 |
+| Temporary error (503, globes.co.il article 860638), 200 on re-check | 1 |
+| Blocked host, manual check (gov.il, kolzchut) | 33 |
+| Broken | 0 |
+
+Soft-404 scan: the 82 OK non-wiki HTML pages were re-fetched and their titles checked for not-found and error markers; none found. The Kol-Zchut MediaWiki API was not reachable (404/403), so its pages could not be confirmed.
+
+### Fixes
+
+None needed.
+
+### Manual check needed
+
+#### www.gov.il
+
+- https://www.gov.il/he/departments/units/molsa-court-assiatance-units (403) — references/where-to-get-help.md
+- https://www.gov.il/he/service/caveat_filling (403) — references/can-i-act-without-a-lawyer.md, templates/caveat-request-checklist.md
+- https://www.gov.il/he/service/claim_employee_dismissal_compensation_or_social_rights (403) — references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/company_registration (403) — references/can-i-act-without-a-lawyer.md, templates/company-registration-checklist.md
+- https://www.gov.il/he/service/condominiums-supervisor-claims (403) — references/can-i-act-without-a-lawyer.md, templates/superintendent-claim.md
+- https://www.gov.il/he/service/file_defense_action_in_employment_dispute (403) — references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/filing_a_small_claim (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.gov.il/he/service/filing-lawsuit-family-dispute (403) — references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/general-request-execution (403) — lessons/module-28/lesson-01.md, lessons/module-28/lesson-08.md
+- https://www.gov.il/he/service/land_registration_extract (403) — references/current-numbers.md, templates/apartment-purchase-check.md
+- https://www.gov.il/he/service/legal_aid_application (403) — references/where-to-get-help.md
+- https://www.gov.il/he/service/submitting-an-online-claim-for-job-grant (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+
+#### www.kolzchut.org.il (all 403)
+
+- https://www.kolzchut.org.il — references/where-to-get-help.md
+- https://www.kolzchut.org.il/he/בקשה_לאיחוד_תיקים_של_חייב_בהוצאה_לפועל — lessons/module-28/lesson-04.md
+- https://www.kolzchut.org.il/he/בקשה_לביצוע_פסק_דין_כספי_בהוצאה_לפועל — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/בקשה_לקבלת_החזר_כספי_בגין_סכומים_ששולמו_לממונה_על_הליכי_חדלות_פירעון — lessons/module-28/lesson-09.md
+- https://www.kolzchut.org.il/he/הגשת_בקשה_ידנית_לקבלת_צו_ירושה_למי_שאינו_מיוצג — lessons/module-26/lesson-09.md
+- https://www.kolzchut.org.il/he/הגשת_בקשה_מקוונת_לקבלת_צו_ירושה — lessons/module-26/lesson-06.md, lessons/module-26/lesson-09.md, references/can-i-act-without-a-lawyer.md
+- https://www.kolzchut.org.il/he/הגשת_התנגדות_לתוכנית_בניה — lessons/module-27/lesson-03.md
+- https://www.kolzchut.org.il/he/הגשת_תביעה_קטנה — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/הוצאה_לפועל_וגבייה — lessons/module-28/lesson-01.md
+- https://www.kolzchut.org.il/he/החזר_מס_הכנסה — lessons/module-25/lesson-04.md
+- https://www.kolzchut.org.il/he/הפקדת_צוואה_אצל_רשם_הירושה_במשרד_המשפטים — lessons/module-26/lesson-08.md
+- https://www.kolzchut.org.il/he/התנגדות_למתן_צו_ירושה — lessons/module-26/lesson-06.md
+- https://www.kolzchut.org.il/he/ועדת_חריגים_לסיוע_בשכר_דירה — references/can-i-act-without-a-lawyer.md
+- https://www.kolzchut.org.il/he/ייצוג_על_ידי_סניגור_ציבורי_בהליך_פלילי — references/where-to-get-help.md
+- https://www.kolzchut.org.il/he/מענק_עבודה_(מענק_הכנסה,_מס_הכנסה_שלילי) — lessons/module-25/lesson-09.md
+- https://www.kolzchut.org.il/he/סידור_מגורים_חלופי_לחייב_שדירת_מגוריו_עוקלה_ונמכרה_בהוצאה_לפועל — lessons/module-28/lesson-02.md
+- https://www.kolzchut.org.il/he/סיוע_מוגדל_בשכר_דירה_לממתינים_לדיור_ציבורי — references/current-numbers.md
+- https://www.kolzchut.org.il/he/ערעור_על_החלטה_של_משרד_הבינוי_והשיכון_בנושא_סיוע_בשכר_דירה — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/עתירות_אסירים_ועצורים — references/can-i-act-without-a-lawyer.md
+- https://www.kolzchut.org.il/he/צוואה_בכתב_יד — lessons/module-26/lesson-08.md
+- https://www.kolzchut.org.il/he/רישום_זכויות_יורשים_במקרקעין — lessons/module-26/lesson-07.md, references/can-i-act-without-a-lawyer.md

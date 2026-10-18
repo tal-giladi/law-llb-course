@@ -30,7 +30,7 @@ By the end of this lesson you will know what happens when tax is paid late or un
 
 ## Why it matters
 
-Most people who owe the Tax Authority money did not set out to cheat: they forgot to report rent, did not know a side job required a return, or paid advances on an old base year. The law treats them very differently from a person who hid income deliberately, but only if the facts show it. The additions for late payment are automatic and grow every month; fines for negligent under-reporting can be reduced or waived on request; deliberate evasion is a crime, with a ten-year limitation period. Knowing the line lets an honest taxpayer fix the past quickly and cheaply, and tells someone in real trouble that he needs a lawyer now.
+Many people who owe the Tax Authority money did not set out to evade tax: they forgot to report rent, did not know a side job required a return, or paid advances on an old base year. The law treats them very differently from a person who hid income deliberately, but only if the facts show it. The additions for late payment are automatic and grow every month; fines for negligent under-reporting can be reduced or waived on request; deliberate evasion is a crime, with a ten-year limitation period. Knowing the line lets an honest taxpayer fix the past quickly and cheaply, and tells someone in real trouble that he needs a lawyer now.
 
 ## Key terms
 

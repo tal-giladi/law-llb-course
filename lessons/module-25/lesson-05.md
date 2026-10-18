@@ -123,7 +123,7 @@ An appeal is a full court case, with pleadings, affidavits and cross-examination
 
 ## Worked example
 
-Shmuel Cohen, a self-employed electrician from Bnei Brak, filed his 2023 return on time. On 10 June 2026 he received a best-judgment assessment: the assessing officer added ₪60,000 to his income, saying deposits in his bank account were unreported fees. Before the assessment Shmuel was invited to a meeting where he explained some of the deposits.
+Shmuel Cohen, a self-employed electrician from Holon, filed his 2023 return on time. On 10 June 2026 he received a best-judgment assessment: the assessing officer added ₪60,000 to his income, saying deposits in his bank account were unreported fees. Before the assessment Shmuel was invited to a meeting where he explained some of the deposits.
 
 1. **Timing.** The return for 2023 was filed in 2024; the officer may assess until the end of 2028 (four years from the end of 2024). The assessment is in time.
 2. **Hearing and reasons.** He was heard and the notice explains the method (deposits analysis): s. 158א was complied with.
