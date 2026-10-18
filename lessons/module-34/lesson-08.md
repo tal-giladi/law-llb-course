@@ -17,7 +17,7 @@ sources:
   - title: "תקנות חופש המידע (העמדת מידע על איכות הסביבה לעיון הציבור), תשס״ט–2009 (ויקיטקסט)"
     url: https://he.wikisource.org/wiki/תקנות_חופש_המידע_(העמדת_מידע_על_איכות_הסביבה_לעיון_הציבור)
   - title: "data.gov.il: מפל״ס – נתונים רב שנתיים"
-    url: https://data.gov.il/dataset/maflasmultiannual
+    url: https://data.gov.il/he/datasets/ministry_of_the_environment/maflasmultiannual
   - title: "חוק לתיקון סדרי המינהל (החלטות והנמקות), התשי״ט–1958 (ויקיטקסט)"
     url: https://he.wikisource.org/wiki/חוק_לתיקון_סדרי_המינהל_(החלטות_והנמקות)
 last_verified: "2026-10-18"

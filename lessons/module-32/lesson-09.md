@@ -75,7 +75,7 @@ The substantive tests you apply in the search (distinctiveness, the triple test,
 |---|---|---|
 | Israel Patent Office trade-mark search | Registered and pending Israeli marks, including Madrid marks designating Israel, and file documents | trademarks.justice.gov.il, TradeMarkSearch (per the Patent Office's 2024 report to WIPO; ⚠️ manual check, the site blocks automated access) |
 | Trade Marks Journal | Monthly list of accepted applications open to opposition | same site, TradeMarksJournal (⚠️ manual check) |
-| Government open data | Downloadable trade-mark data | [data.gov.il](https://data.gov.il/dataset/?q=%D7%A1%D7%99%D7%9E%D7%A0%D7%99+%D7%9E%D7%A1%D7%97%D7%A8) |
+| Government open data | Downloadable trade-mark data | [data.gov.il, סימני מסחר](https://data.gov.il/he/datasets/ministry_of_justice/simaneymisahr) |
 | WIPO Global Brand Database | International registrations and many national registers | [branddb.wipo.int](https://branddb.wipo.int/) |
 | Companies Registrar | Company names (Companies Law s. 27) | lesson [16.2](../module-16/lesson-02.md) |
 | The market | Unregistered use that may support passing off | search engines, social networks, marketplaces |

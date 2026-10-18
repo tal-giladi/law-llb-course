@@ -120,7 +120,7 @@ Why it matters: it established, early and for a Sharia court, the rule now in s.
 
 ### בג״ץ 3856/11 פלונית נ׳ בית הדין השרעי לערעורים (27.6.2013)
 
-In a Sharia "arbitration" divorce claim under s. 130 of the Ottoman Family Rights Law, the wife wanted to appoint a woman as her arbitrator. The Sharia Court of Appeals held that the Maliki interpretation behind s. 130 requires male arbitrators. The HCJ (Arbel, Hayut, Solberg) allowed the petition: the court had departed from s. 1א(א) of the Women's Equal Rights Law ("one law for women and men for every legal act"), and neither exception the court relied on (rules of prohibition and permission; appointment to a religious office) applied to a party's choice of arbitrator.
+In a Sharia "arbitration" divorce claim under s. 130 of the Ottoman Family Rights Law, the wife wanted to appoint a woman as her arbitrator. The Sharia Court of Appeals held that the Maliki interpretation behind s. 130 requires male arbitrators. The HCJ (Arbel, Hayut, Sohlberg) allowed the petition: the court had departed from s. 1א(א) of the Women's Equal Rights Law ("one law for women and men for every legal act"), and neither exception the court relied on (rules of prohibition and permission; appointment to a religious office) applied to a party's choice of arbitrator.
 
 Why it matters: it shows the modern form of review. The HCJ does not sit as an appeal court over religious courts, but departure from a statute that binds them is a ground for intervention. [Cardozo translation](https://larc.cardozo.yu.edu/iscp-opinions/139)
 

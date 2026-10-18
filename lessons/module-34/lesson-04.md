@@ -13,7 +13,7 @@ sources:
   - title: "חוק הגנת הסביבה (פליטות והעברות לסביבה – חובות דיווח ומרשם), התשע״ב–2012 (ויקיטקסט), ss. 1, 3, 10–13, 27"
     url: https://he.wikisource.org/wiki/חוק_הגנת_הסביבה_(פליטות_והעברות_לסביבה_–_חובות_דיווח_ומרשם)
   - title: "data.gov.il: מפל״ס – נתונים רב שנתיים (Ministry of Environmental Protection dataset; updated 16.9.2026)"
-    url: https://data.gov.il/dataset/maflasmultiannual
+    url: https://data.gov.il/he/datasets/ministry_of_the_environment/maflasmultiannual
   - title: "Ministry of Environmental Protection, PRTR report to the Knesset for 2025 (PDF)"
     url: https://www.gov.il/BlobFolder/reports/prtr_report/he/prtr_prtr-2025.pdf
   - title: "חוק אוויר נקי, התשס״ח–2008 (ויקיטקסט), ss. 8, 21, 46א, 60"
@@ -81,7 +81,7 @@ No free ruling on the register was found. The key texts are the two limits. The 
 
 | Source | What it gives | Where |
 |---|---|---|
-| PRTR (MAFLAS) multi-year dataset | All annual reports since the first year, one row per pollutant per plant per year | [data.gov.il, maflasmultiannual](https://data.gov.il/dataset/maflasmultiannual); a plants-only list at data.gov.il, maflasmultiannualforzover |
+| PRTR (MAFLAS) multi-year dataset | All annual reports since the first year, one row per pollutant per plant per year | [data.gov.il, maflasmultiannual](https://data.gov.il/he/datasets/ministry_of_the_environment/maflasmultiannual); a plants-only list at data.gov.il, maflasmultiannualforzover |
 | PRTR map and plant pages | Map of plants; plant detail page (the dataset's HyperLink column) | gov.il apps (⚠️ manual check: gov.il blocks bots) |
 | Annual PRTR report to the Knesset | Trends, largest emitters, compliance | [2025 report PDF](https://www.gov.il/BlobFolder/reports/prtr_report/he/prtr_prtr-2025.pdf) |
 | Air monitoring | Station readings, alerts | [air.sviva.gov.il](https://air.sviva.gov.il) |
@@ -110,7 +110,7 @@ https://data.gov.il/api/3/action/datastore_search?resource_id=87c88ab8-3076-4422
 
 ## Worked example
 
-Salma Abu-Rabia lives in Segev Shalom, a Bedouin town near the Ramat Hovav industrial council. Residents report a smell at night.
+Salma Alatawna lives in Segev Shalom, a Bedouin town near the Ramat Hovav industrial council. Residents report a smell at night.
 
 1. **Plants.** She queries the dataset for רמת חובב and filters the 2025 rows; she lists every plant reporting releases to air.
 2. **Pollutants.** For each, she notes the pollutants above the threshold and those marked "below threshold", the method, and any malfunction releases.

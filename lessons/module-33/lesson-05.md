@@ -100,7 +100,7 @@ In a retrial application arising from a well-known murder case, the Supreme Cour
 
 The 2026 AG Law is one of the most contested statutes of the 2023–2026 period ([lesson 06.6](../module-06/lesson-06.md)). It passed by 65 to 51.
 
-- **Critics** (for example the Israel Democracy Institute) argue that it removes the two tools the AG has used to keep the Government within the law, binding legal opinions and control of the State's position in court, and that petitions to annul it, including by the Movement for Quality Government, were filed.
+- **Critics** (for example the Israel Democracy Institute) argue that it removes the two tools the AG has used to keep the Government within the law, binding legal opinions and control of the State's position in court. Petitions to annul it were filed, including by the Movement for Quality Government.
 - **Supporters** (the bill's sponsors and commentators who backed it) argue that the elected Government should decide what the State argues in its own name, that the Law keeps the AG independent in criminal matters (s. 14(ב)) and keeps his opinions authoritative unless the Government decides otherwise and reports to a Knesset committee (s. 5).
 - **Current law.** Until 1 January 2027 the previous case law governs, under which the AG represents the Government and only in rare cases may the Government be represented separately. The status of the petitions at the date of checking was not verified (⚠️). For class actions, note that the AG's power to object to settlements is a statutory power, which the representation chapter on its face excludes (s. 12(א)(2)).
 
@@ -117,7 +117,7 @@ Noa Levi-Mekonen of Rehovot is deaf. Her municipality's website has no captions 
 
 ### You need
 
-- A public problem you know first-hand (or the supplied one: Yusuf Abu-Ghanem of Rahat, whose neighbourhood's bus stops have no shelter or accessible boarding, in breach of accessibility rules).
+- A public problem you know first-hand (or the supplied one: Yusuf Masarwa of Taibe, whose neighbourhood's bus stops have no shelter or accessible boarding, in breach of accessibility rules).
 - Tables above; lessons 06.6 and 14.9 at hand.
 - 45 minutes.
 

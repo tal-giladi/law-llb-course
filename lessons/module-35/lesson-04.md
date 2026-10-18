@@ -134,7 +134,7 @@ A lawyer keeps client money in a separate trust account (r. 39), tells the clien
 
 ### ע״א 9648/16 אורהייטק GIS בע״מ נ׳ חן אביטן – משרד עורכי דין (28.2.2018)
 
-A law firm and its client disputed whether a series of emails formed a fee agreement and whether the firm's percentage "of any sum received, awarded or paid" included costs awarded to the client by an arbitrator. The Supreme Court (Elron J., with Shoham and Solberg JJ.) applied the rule that the lawyer bears the burden of proving the agreed terms and of drafting the fee agreement clearly, and that an unclear agreement is read against him. Unless the agreement expressly says so, a percentage fee is not taken from costs awarded to the client.
+A law firm and its client disputed whether a series of emails formed a fee agreement and whether the firm's percentage "of any sum received, awarded or paid" included costs awarded to the client by an arbitrator. The Supreme Court (Elron J., with Shoham and Sohlberg JJ.) applied the rule that the lawyer bears the burden of proving the agreed terms and of drafting the fee agreement clearly, and that an unclear agreement is read against him. Unless the agreement expressly says so, a percentage fee is not taken from costs awarded to the client.
 
 Why it matters: it is your best argument when a lawyer claims more than the agreement clearly says. Read every clause of a proposal as the court would: what is not written clearly will probably not bind you, but it will also cause a dispute. [Text hosted by Reichman University](https://www.colman.ac.il/media/4qbiik4c/9648-16_orhightech_v_avitan.doc)
 

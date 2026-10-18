@@ -26,9 +26,12 @@ In this lab you produce two documents a suspect or defendant writes in his own n
 ## Why it matters
 
 > [!WARNING]
-> Part A is a dry run on a supplied case. In a real felony file, have a lawyer or the Public Defender write or check the request: what you write can be used against you. Part B is about fine offences only (parking, most traffic tickets, municipal bylaw fines, littering, noise). If a traffic matter involves injury, alcohol, drugs, driving while disqualified or a summons to trial instead of a fine notice, get a lawyer.
+> Part A is a dry run on a supplied case. In a real felony file, have a lawyer or the Public Defender write or check the request: what you write can be used against you. Part B is about fine offences only (parking, traffic tickets on the criminal track, municipal bylaw fines, littering, noise). If a traffic matter involves injury, alcohol, drugs, driving while disqualified or a summons to trial instead of a fine notice, get a lawyer.
 
 The two parts are the two ends of the scale. A s. 60א request is the suspect's one chance to be heard before a felony indictment (lesson [24.5](lesson-05.md)). The fine notice is the most common criminal document in Israel: paying it is a conviction (s. 229(ח)), ignoring it is a conviction (s. 229(ח2)), and asking to be tried is the only route to a hearing on the facts. Both turn on short deadlines that run from receipt.
+
+> [!NOTE]
+> Since 8 February 2026 (phased; the higher fines six months later) many traffic tickets are no longer fine notices but administrative fines under the Traffic Administrative Violations Law 2024: you object (השגה) to the issuing authority within 30 days (90 if someone else drove) or appeal to the traffic tribunal, and there is no request to be tried. Part B applies to notices still on the criminal track. Check which track your notice is on in lesson [37.4](../module-37/lesson-04.md).
 
 ## Key terms
 

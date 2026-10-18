@@ -132,7 +132,7 @@ flowchart TD
 
 ### Fine offences and administrative offences: the fast lane
 
-Most people's only encounter with criminal procedure is a fine notice: a traffic ticket, a parking fine, a littering or noise fine. These are "fine offences" (עבירות קנס, CPL s. 221) handled by "choice of trial" (ברירת משפט, s. 228): you either pay, which counts as a conviction and a served sentence (s. 229(ח)), or ask to be tried, or ask the prosecutor to cancel the notice. Administrative offences (עבירות מינהליות) under the Administrative Offences Law 1985 are a separate, non-criminal route. Lesson [24.9](lesson-09.md) is a lab on this lane.
+Most people's only encounter with criminal procedure is a fine notice: a traffic ticket, a parking fine, a littering or noise fine. These are "fine offences" (עבירות קנס, CPL s. 221) handled by "choice of trial" (ברירת משפט, s. 228): you either pay, which counts as a conviction and a served sentence (s. 229(ח)), or ask to be tried, or ask the prosecutor to cancel the notice. Administrative offences (עבירות מינהליות) under the Administrative Offences Law 1985 are a separate, non-criminal route. Since 8 February 2026 (phased) many traffic tickets are administrative fines under the Traffic Administrative Violations Law 2024, answered by an objection or an appeal to the traffic tribunal rather than a request to be tried ([lesson 37.4](../module-37/lesson-04.md)). Lesson [24.9](lesson-09.md) is a lab on this lane.
 
 ### Neutrality note
 
@@ -144,7 +144,7 @@ Rania Haddad, 38, a pharmacist from Nazareth, gets three envelopes in one month:
 
 1. **Parking fine.** A fine offence under a municipal bylaw; choice of trial (s. 228). She may pay, ask the municipal prosecutor to cancel it, or ask to be tried at the local-affairs court within the period in s. 229 ([current numbers](../../references/current-numbers.md)). Lesson 24.9.
 2. **Summons for questioning under caution.** "Under caution" (באזהרה) means she is a suspect. The road-rage incident may be threats or assault, misdemeanours or felonies depending on the facts. This is the stage where she must not act alone: she calls a lawyer before attending (lesson 24.3), and if she cannot afford one she asks about the Public Defender (lesson 24.3, Public Defender Law s. 19).
-3. **Speed-camera ticket.** A traffic fine offence; the owner may prove that someone else drove (CPL s. 229(א)(1); Traffic Ordinance s. 27ב). Here she was not the owner; the notice will come to her as the hirer.
+3. **Speed-camera ticket.** A traffic fine offence; the owner may prove that someone else drove (CPL s. 229(א)(1); Traffic Ordinance s. 27ב). Here she was not the owner; the notice will come to her as the hirer. If the notice is an administrative fine under the 2024 Law, the route is an objection or appeal instead (lesson 37.4).
 4. **The map.** Two items are in the fast lane, where she can act herself. One is a real criminal investigation, where her task is to recognise the stage and get help.
 
 ## Do it yourself

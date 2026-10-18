@@ -135,9 +135,9 @@ The AG receives every settlement application and may object (s. 18(ד)); the Sta
 
 ## Worked example
 
-Dmitri Volkov of Ashdod receives an SMS from his insurer on 3 March: "Notice of a settlement application in ת״צ ___ about interest on late payouts; full text on our site." He opens the notice.
+Eli Dahan of Ashdod receives an SMS from his insurer on 3 March: "Notice of a settlement application in ת״צ ___ about interest on late payouts; full text on our site." He opens the notice.
 
-1. **Is he in the class?** Class: "policyholders who received a payout more than thirty days after the claim, in the seven years before filing". Dmitri had a car-theft payout that came after ninety days: yes.
+1. **Is he in the class?** Class: "policyholders who received a payout more than thirty days after the claim, in the seven years before filing". Eli had a car-theft payout that came after ninety days: yes.
 2. **What does he get?** Automatic credit of the missing interest to those identified from the insurer's records; ₪1.2 million to the fund for those not identified.
 3. **The deadline.** Forty-five days from publication; the notice is dated 1 March, so the window closes about mid-April. He diaries the date.
 4. **His choices.** Stay in and receive the credit; object if the interest rate used is lower than the Insurance Contract Law requires; or ask to leave and sue alone, which is worth it only if his own interest claim is large (it is ₪640, so no).

@@ -115,3 +115,52 @@ check-module: 01, 08, 24, 25 and 27 each report 0 problems.
 5. **24.3, the State's argument in PCATI**: written from the judgment's summary of the State's case as I recall it; confirm against the English translation.
 6. **27.5, Supporters' attribution**: the Kaminitz committee recommended the amendment and it passed as a government bill; confirm you are content naming them.
 7. **Territory terminology (year-1 item 5, year-2 item 4)**: 30.1 and 30.3 use "West Bank" and "Israeli settlement", never "Judea and Samaria". Apply the house style you choose.
+
+## Year 4 and module 31
+
+Date: 2026-10-18. Same standard (plan §9).
+
+### Scope and method
+
+- Read in full the contested passages: 33.1 (the class-action debate and Amendment 16), 33.5 (the AG's appearance, the 2026 Attorney General Law and "The AG dispute, stated neutrally"), 34.1 (no express environmental right), 34.7 (Climate Bill, HCJ 7063/23, the ICJ opinion, the two-submission worked example), 35.2 (the debate about the monopoly, AI legal apps), 35.7 (the Bar's AI guidance and the three AI-citation rulings), 37.3, 37.5 and 37.6 (police complaints, police records, the Police Investigations Department).
+- Every quiz and question-bank item on modules 33, 34 and 37 touching the AG Law, Amendment 16, climate or police conduct was read; all quizzes and banks of 31–39 were keyword-swept for opinion-type answers.
+- Worked-example openings and supplied cases of every lesson and project in 31–39 were checked for rotation, and the character patterns flagged in years 1–3 were searched across modules 31–39.
+
+Overall: 33.1 and 33.5 give each side's strongest argument with attribution and the current law (Amendment 16 approved in committee only; the AG Law in force from 1.1.2027). 34.7 gives the petitioners' and the State's best arguments, with no verdict, and the worked example pairs submissions from opposite positions. 35.2 and 35.7 are balanced and factual. Module 37 has no protest-specific content: the only item (bank m37-052) is about procedure (see a lawyer before filing a complaint while charged). No quiz or bank answer is a political opinion: the debate items reward the accurately stated argument. Examples rotate across Jewish (secular, Haredi, Mizrahi, Ethiopian, FSU), Arab (Muslim, Christian), Druze and Bedouin characters.
+
+### Fixes (6, in 5 files)
+
+| File | What | Why |
+|---|---|---|
+| lessons/module-33/lesson-05.md (The AG dispute) | The fact that petitions were filed is now its own sentence, not part of what critics "argue". | A procedural fact was presented as part of one side's argument. |
+| lessons/module-33/lesson-05.md (You need) | Supplied case "Yusuf Abu-Ghanem of Rahat" now "Yusuf Masarwa of Taibe". | Year-2 item 2: Abu Ghanem / Rahat claimant repeated. |
+| lessons/module-34/lesson-04.md (worked example) | "Salma Abu-Rabia" now "Salma Alatawna" (still Segev Shalom). | Year-2 and year-3 item: the Abu-Rabia surname recurs (17.5, 19.4, 27.5, 28.1, 29.5). |
+| lessons/module-36/lesson-03.md (worked example) | "Samir Abu-Rabia, a student from Rahat" now "Wasim Khatib, a student from Sakhnin". | Same surname pattern; Samir is also used in 32.7. |
+| lessons/module-36/lesson-04.md (worked example) | "Olga Petrenko" now "Anastasia Belova". | Same name as the vulnerable party in 14.8 (year-2 item 1). |
+| lessons/module-33/lesson-03.md (worked example) | "Dmitri Volkov of Ashdod" now "Eli Dahan of Ashdod". | Dmitri Volkov is also 29.8 and the module 37 supplied case B. |
+
+### Consistency fixes (final)
+
+| File | What |
+|---|---|
+| lessons/module-24/lesson-09.md | Note after "Why it matters": since 8.2.2026 (phased) many traffic tickets are administrative fines under the Traffic Administrative Violations Law 2024 (objection 30 days, 90 if someone else drove; appeal to the traffic tribunal; no request to be tried), Part B is for the criminal track, link to 37.4. Warning: "most traffic tickets" now "traffic tickets on the criminal track". |
+| templates/request-to-be-tried.md | Header note with the same points and links to the administrative-fine template and lesson 37.4. |
+| lessons/module-24/lesson-01.md | Fast-lane paragraph and the speed-camera step of the worked example now mention the administrative track (link to 37.4). |
+| lessons/module-24/lesson-08.md | Register table: "most traffic tickets" now "traffic tickets on the criminal track; administrative traffic fines since 2026 are not criminal". |
+| references/current-numbers.md | Merged duplicate rows, keeping the most recent verified source: small-claims ceiling (₪39,900, Kol-Zchut 2026-10-17), small-claims fee minimum (₪50 confirmed), small-claims leave to appeal (30/15 days), VAT exempt-dealer ceiling (₪122,833), fast-track ceiling (₪75,000), general limitation period, income-support car rule, will deposit fee (₪126, 2026 schedule), request to be tried. Removed the stale "replace the conflict row" instruction from the expedited-hearing row (₪40,700 in 2026; no conflicting row remains). Insolvency threshold rows (₪176,923 in 2026) and FOI fee rows (₪24 application fee) were already consistent. |
+| references/can-i-act-without-a-lawyer.md (top table) | Added Administrative Affairs Court (yes; reg. 44א applying CPR reg. 170; modules 14, 37) and Companies Registrar (online by a shareholder; several founders each identify and approve under reg. 16ב; module 16). "Year 2/Year 3" in "Covered in" replaced by real modules (18; 17, 22; 26, 31), and modules added where later years cover the forum (small claims 39; execution 28, 31; HCJ 14; criminal 24; rabbinical 18). |
+| lessons/module-10/lesson-04.md, 15/lesson-02.md, 35/lesson-03.md, 35/lesson-04.md, 35/lesson-07.md and its quiz | "Solberg" now "Sohlberg", as in the rest of the course (year-2 item 8). |
+| lessons/module-32/lesson-09.md, 34/lesson-04.md, 34/lesson-05.md, 34/lesson-08.md | data.gov.il links moved to the site's new /he/datasets/ paths (see the link report). |
+
+Checked and already consistent: 37.4, the administrative-fine template, the glossary (בית דין לתעבורה) and the can-i-act details rows already describe the 2024 Law; no other lesson in 1–36 states that every traffic ticket goes through s. 229. Parking and municipal bylaw fines stay on the criminal fine-offence track, so 09.2, 24.1 (parking) and 27.5 were left as they are.
+
+check-module: 10, 15, 24, 32, 33, 34, 35 and 36 each report 0 problems.
+
+### For Tal to review personally
+
+1. **Haredi debtor with a large family (year-3 item 4 recurs)**: 31.1 and 31.6 supplied case D, Yehuda Klein, a Talmud Torah teacher in Bnei Brak with six children, is the execution debtor. The family size feeds the budget, so I left it, but the Haredi-in-money-trouble pattern repeats. Consider a different community or setting.
+2. **37.6, Yonatan Tesfaye**: an Ethiopian-Israeli young man is the complainant about police violence. It is realistic and not negative, but it echoes a live public controversy. Keep or vary.
+3. **33.5, Supporters' attribution**: "the bill's sponsors and commentators who backed it" is vaguer than the critics' attribution (IDI). Consider naming one source. The status of the petitions against the Law is still unverified.
+4. **33.1, Davar date**: the lesson cites Davar of 15.10.2026; the article (davar1.co.il/702151) is dated 16.10.2026. Check and correct if needed.
+5. **Camera tickets and the 2024 Law**: whether speed- and red-light-camera violations are on the administrative track, and from which phase, was not verified. 24.1 now hedges ("if the notice is an administrative fine"); the 24.9 quiz on s. 225א (red-light camera) still assumes a fine notice.
+6. **Territory terminology (years 1–3)**: no new uses in 31–39; the house-style decision is still open.

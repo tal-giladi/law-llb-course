@@ -114,7 +114,7 @@ Two provisions reward the debtor who files and pays. A restriction must be cance
 
 ## Worked example
 
-**Supplied case D.** Yehuda Klein, 44, teaches in a Talmud Torah in Bnei Brak; his wife Rivka is a kindergarten teacher; six children aged 3 to 19 live at home. A credit-card company obtained a default judgment in 2025 for ₪14,800 after he fell behind during a long illness. The warning was served on 9 September 2026; he put it in a drawer. On 12 October his bank account was attached; his October salary and the child allowance were frozen. Today is 18 October 2026. In July 2026 he had paid ₪1,000 to the company's collection agent by bank transfer; the file shows ₪16,350 with no payment credited.
+**Supplied case D.** Yehuda Klein, 44, teaches in a Talmud Torah in Bnei Brak; his wife Rivka is a kindergarten teacher; three children aged 8 to 17 live at home. A credit-card company obtained a default judgment in 2025 for ₪14,800 after he fell behind during a long illness. The warning was served on 9 September 2026; he put it in a drawer. On 12 October his bank account was attached; his October salary and the child allowance were frozen. Today is 18 October 2026. In July 2026 he had paid ₪1,000 to the company's collection agent by bank transfer; the file shows ₪16,350 with no payment credited.
 
 1. **Decision 1, diary.** Warning served 9.9.2026; the warning period for a timely payment-order request has passed (lesson [28.1](../module-28/lesson-01.md); periods in [current numbers](../../references/current-numbers.md)). No restriction notice yet. Act today.
 2. **Decision 2.** He admits the debt and was served; no court route.

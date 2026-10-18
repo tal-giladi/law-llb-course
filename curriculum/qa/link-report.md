@@ -191,3 +191,91 @@ None needed.
 - https://www.kolzchut.org.il/he/עתירות_אסירים_ועצורים — references/can-i-act-without-a-lawyer.md
 - https://www.kolzchut.org.il/he/צוואה_בכתב_יד — lessons/module-26/lesson-08.md
 - https://www.kolzchut.org.il/he/רישום_זכויות_יורשים_במקרקעין — lessons/module-26/lesson-07.md, references/can-i-act-without-a-lawyer.md
+
+## Year 4 and module 31
+
+Run: 2026-10-18, `node curriculum/tools/check-links.mjs <out.json> lessons/module-31 … lessons/module-39 projects/m31-* … projects/m39-* templates references glossary.md`.
+
+Scope: 247 files, 640 unique URLs.
+
+### Counts
+
+| Status | Count |
+|---|---|
+| OK (2xx/3xx) | 552 |
+| Rate-limited (429, he.wikisource.org), each page (46 titles behind 48 URLs) confirmed to exist through the MediaWiki API | 48 |
+| Blocked host, manual check (gov.il, supremedecisions.court.gov.il, elyon1.court.gov.il, kolzchut) | 35 |
+| Other bot-block (403): davar1.co.il/702151, verified live by a separate fetch (article of 16.10.2026); li.me class-action notice, not verifiable, manual check | 2 |
+| Broken (data.gov.il, old /dataset/ paths now 404), fixed | 3 |
+
+Modules 12 and 22 (clinic modules, skipped by earlier runs) were checked in a separate run: 34 files, 71 unique URLs, 64 OK, 7 on blocked hosts (gov.il, kolzchut), 0 broken.
+
+Soft-404 scan: the 108 OK non-wiki HTML pages were re-fetched and their titles checked for not-found and error markers; none found. israelbar.org.il, iplan.gov.il, mavat, knesset.gov.il, sefaria and icc-cpi.int have no links in this scope.
+
+### Fixes
+
+| File | Old | New | Reason |
+|---|---|---|---|
+| lessons/module-34/lesson-04.md (×2), lessons/module-34/lesson-08.md | https://data.gov.il/dataset/maflasmultiannual | https://data.gov.il/he/datasets/ministry_of_the_environment/maflasmultiannual | data.gov.il moved dataset pages to /he/datasets/{organisation}/{name}; old path 404. Dataset confirmed through the CKAN API |
+| lessons/module-34/lesson-05.md (×2) | https://data.gov.il/dataset/freedom-of-info | https://data.gov.il/he/datasets/ministry_of_the_environment/freedom-of-info | Same; page opened in a browser (files dated 2017, as the lesson says) |
+| lessons/module-32/lesson-09.md | https://data.gov.il/dataset/?q=סימני+מסחר (search) | https://data.gov.il/he/datasets/ministry_of_justice/simaneymisahr | Old search path 404 and the new search does not take that query; linked the Ministry of Justice trade-mark dataset directly (opened in a browser, updated 17.10.2026) |
+
+### Manual check needed
+
+#### elyon1.court.gov.il
+
+- https://elyon1.court.gov.il/heb/tovanot_yezugiyot/main.htm (ECONNRESET) — lessons/module-33/lesson-01.md
+
+#### supremedecisions.court.gov.il
+
+- https://supremedecisions.court.gov.il (ECONNRESET) — lessons/module-38/lesson-05.md
+- https://supremedecisions.court.gov.il/Home/Download?path=HebrewVerdicts%2F08%2F200%2F081%2Fv04&fileName=08081200_v04.txt&type=2 (ECONNRESET) — lessons/module-31/lesson-01.md, lessons/module-31/lesson-08.md, lessons/module-37/lesson-01.md, lessons/module-37/lesson-08.md, lessons/module-39/lesson-01.md
+
+#### www.gov.il
+
+- https://www.gov.il/he/departments/units/molsa-court-assiatance-units (403) — references/where-to-get-help.md
+- https://www.gov.il/he/service/application-for-recognition-of-payable-debts-execution (403) — lessons/module-31/lesson-06.md, references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.gov.il/he/service/caveat_filling (403) — references/can-i-act-without-a-lawyer.md, templates/caveat-request-checklist.md
+- https://www.gov.il/he/service/claim_employee_dismissal_compensation_or_social_rights (403) — references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/company_registration (403) — references/can-i-act-without-a-lawyer.md, templates/company-registration-checklist.md
+- https://www.gov.il/he/service/complaint_against_judge (403) — lessons/module-37/lesson-06.md, references/can-i-act-without-a-lawyer.md, templates/oversight-body-complaint.md
+- https://www.gov.il/he/service/complaint-criminal-record (403) — lessons/module-37/lesson-05.md, lessons/module-37/lesson-06.md, references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/condominiums-supervisor-claims (403) — references/can-i-act-without-a-lawyer.md, templates/superintendent-claim.md
+- https://www.gov.il/he/service/drivers_inquiries_forms (403) — lessons/module-37/lesson-04.md, references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/file_defense_action_in_employment_dispute (403) — references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/filing_a_complaint_against_police (403) — lessons/module-37/lesson-06.md, references/can-i-act-without-a-lawyer.md, templates/oversight-body-complaint.md
+- https://www.gov.il/he/service/filing_a_small_claim (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.gov.il/he/service/filing-lawsuit-family-dispute (403) — references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/itc135 (403) — lessons/module-31/lesson-05.md, references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.gov.il/he/service/land_registration_extract (403) — references/current-numbers.md, templates/apartment-purchase-check.md
+- https://www.gov.il/he/service/legal_aid_application (403) — references/where-to-get-help.md
+- https://www.gov.il/he/service/probate_order (403) — lessons/module-31/lesson-03.md
+- https://www.gov.il/he/service/public-inquiries-police (403) — lessons/module-37/lesson-06.md, references/can-i-act-without-a-lawyer.md
+- https://www.gov.il/he/service/submitting-an-online-claim-for-job-grant (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+
+#### www.justice.gov.il
+
+- https://www.justice.gov.il/Units/StateAttorney/Civil/Pages/ClassActions.aspx (403) — lessons/module-33/lesson-03.md
+
+#### www.kolzchut.org.il
+
+- https://www.kolzchut.org.il (403) — references/where-to-get-help.md
+- https://www.kolzchut.org.il/he/בקשה_לביצוע_פסק_דין_כספי_בהוצאה_לפועל (403) — lessons/module-39/lesson-06.md, references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/בקשה_לצו_תשלומים_של_חייב_בהוצאה_לפועל (403) — lessons/module-31/lesson-06.md
+- https://www.kolzchut.org.il/he/הגשת_בקשה_מקוונת_לקבלת_צו_ירושה (403) — lessons/module-31/lesson-03.md, references/can-i-act-without-a-lawyer.md
+- https://www.kolzchut.org.il/he/הגשת_תביעה_קטנה (403) — lessons/module-39/lesson-01.md, references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/ועדת_חריגים_לסיוע_בשכר_דירה (403) — references/can-i-act-without-a-lawyer.md
+- https://www.kolzchut.org.il/he/ייצוג_על_ידי_סניגור_ציבורי_בהליך_פלילי (403) — references/where-to-get-help.md
+- https://www.kolzchut.org.il/he/סיוע_או_ייצוג_בתביעה_לקבלת_גמלה_מהמוסד_לביטוח_לאומי (403) — lessons/module-35/lesson-04.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/סיוע_מוגדל_בשכר_דירה_לממתינים_לדיור_ציבורי (403) — references/current-numbers.md
+- https://www.kolzchut.org.il/he/ערעור_על_החלטה_של_משרד_הבינוי_והשיכון_בנושא_סיוע_בשכר_דירה (403) — references/can-i-act-without-a-lawyer.md, references/current-numbers.md
+- https://www.kolzchut.org.il/he/עתירות_אסירים_ועצורים (403) — references/can-i-act-without-a-lawyer.md
+- https://www.kolzchut.org.il/he/רישום_זכויות_יורשים_במקרקעין (403) — lessons/module-31/lesson-04.md, references/can-i-act-without-a-lawyer.md
+
+#### www.li.me
+
+- https://www.li.me/he-il/class-action-notice (403) — lessons/module-33/lesson-04.md, lessons/module-33/lesson-07.md, lessons/module-33/lesson-08.md, references/current-numbers.md
+
+## Whole course
+
+All runs (modules 1–39, templates, references, glossary; shared files re-checked each run): 2,518 URL checks; 4 broken links found and fixed (1 in year 1, 3 in year 4), 0 broken left; 108 on blocked hosts and 1 other (li.me) still need a manual check in a browser.

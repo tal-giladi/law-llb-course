@@ -164,7 +164,7 @@ The same discipline applies to rulings: define the search, record it, and keep e
 
 ## Worked example
 
-Samir Abu-Rabia, a student from Rahat, writes his seminar paper on whether the access-to-court purpose (s. 1(1) of the Class Actions Law) shaped the Law's design.
+Wasim Khatib, a student from Sakhnin, writes his seminar paper on whether the access-to-court purpose (s. 1(1) of the Class Actions Law) shaped the Law's design.
 
 1. **Map.** Wikisource source box: the original law (ס"ח תשס"ו 264) and a long list of amendments; the Knesset link gives ID 2000026.
 2. **OData.** `KNS_LawBinding` returns 17 rows (1 original, 16 amending). `KNS_DocumentBill` for bill 74972 returns four documents. `KNS_CmtSessionItem` returns 21 sessions, 18 in the subcommittee and 3 in the full committee.

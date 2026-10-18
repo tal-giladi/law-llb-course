@@ -118,7 +118,7 @@ Decisions and forms before 12 July 2022 cite the 1981 law: s. 14 (limitation), s
 | Acquittal | Police register; not disclosed (s. 32) | Stays, but is almost never given out |
 | Non-conviction order (probation, community service) | Criminal register | Limitation after 4–5 years; deletion 5 years later (ss. 19, 22(5)) |
 | Conviction with fine only, first entry | Criminal register | Limitation 4 years (5 for sexual, violent, drug), then deletion 4 years later |
-| Paid fine-offence notice (parking, most traffic tickets) | Not in the criminal register (s. 8(ג)); traffic register for traffic offences | Traffic-register rules |
+| Paid fine-offence notice (parking, traffic tickets on the criminal track; administrative traffic fines since 2026 are not criminal, lesson 37.4) | Not in the criminal register (s. 8(ג)); traffic register for traffic offences | Traffic-register rules |
 
 ### Inspecting your own record
 

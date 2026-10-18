@@ -141,7 +141,7 @@ Leave at least two days between cycles. Fresh eyes find structural problems that
 
 ## Worked example
 
-Olga Petrenko, a student from Haifa, has 34 pages of draft on comparative rules for representative actions in Israel and England, a week before her peer review.
+Anastasia Belova, a student from Haifa, has 34 pages of draft on comparative rules for representative actions in Israel and England, a week before her peer review.
 
 1. **Reverse outline.** Her 71 paragraphs produce 71 lines. Eleven lines in chapter ד describe English procedure without saying anything about Israel.
 2. **Argument map.** Chapter ד's claim ("the English opt-in rule explains its low use") has two English sources under it but no link to her thesis about Israeli settlements. She adds a final section to ד comparing the two systems' settlement approval rules, and cuts six paragraphs of English history to her cuts file.

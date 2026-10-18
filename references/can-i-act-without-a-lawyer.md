@@ -5,15 +5,17 @@ Forum by forum: whether a private person may act for themselves, who else may re
 | Forum | Act for yourself? | Who else may represent you | Covered in |
 |---|---|---|---|
 | Magistrates' and District courts (civil) | Yes | Only a lawyer; no "lay friend" (רע"א 8120/08) | Module 8 |
-| Small claims court | Yes, it is the norm | A lawyer only with the court's leave | Modules 8, 12 |
-| Family Affairs Court | Yes | A lawyer | Year 2 |
-| Rabbinical courts | Yes | A lawyer or a licensed rabbinical pleader (טוען רבני) | Module 10 |
-| Labour courts | Yes | A lawyer; an authorised representative of your union or employers' organisation | Year 2 |
-| Execution Office | Yes | A lawyer | Modules 8, 12 |
-| High Court of Justice | Yes | A lawyer | Module 6 |
-| Criminal defence | Yes | A lawyer; the Public Defender if eligible | Module 5 |
-| Registrar of Inheritance | Yes | A lawyer | Year 3 |
-| Your own will | Yes | Drafting a will for someone else is reserved to lawyers | Year 3 |
+| Small claims court | Yes, it is the norm | A lawyer only with the court's leave | Modules 8, 12, 39 |
+| Family Affairs Court | Yes | A lawyer | Module 18 |
+| Rabbinical courts | Yes | A lawyer or a licensed rabbinical pleader (טוען רבני) | Modules 10, 18 |
+| Labour courts | Yes | A lawyer; an authorised representative of your union or employers' organisation | Modules 17, 22 |
+| Execution Office | Yes | A lawyer | Modules 8, 12, 28, 31 |
+| High Court of Justice | Yes | A lawyer | Modules 6, 14 |
+| Administrative Affairs Court | Yes, for an individual (reg. 44א of the Administrative Affairs Courts (Procedure) Regulations, applying CPR reg. 170) | A lawyer | Modules 14, 37 |
+| Criminal defence | Yes | A lawyer; the Public Defender if eligible | Modules 5, 24 |
+| Companies Registrar (registering your own company) | Yes, online by a shareholder; with several founders each first shareholder and director identifies and approves online (reg. 16ב) | A lawyer | Module 16 |
+| Registrar of Inheritance | Yes | A lawyer | Modules 26, 31 |
+| Your own will | Yes | Drafting a will for someone else is reserved to lawyers | Modules 26, 31 |
 
 ## Details and sources
 

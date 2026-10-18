@@ -17,7 +17,7 @@ sources:
   - title: "חוק אוויר נקי, התשס״ח–2008 (ויקיטקסט), s. 21(ד)"
     url: https://he.wikisource.org/wiki/חוק_אוויר_נקי
   - title: "data.gov.il: מאגר חופש המידע (Ministry of Environmental Protection, s. 6א repository)"
-    url: https://data.gov.il/dataset/freedom-of-info
+    url: https://data.gov.il/he/datasets/ministry_of_the_environment/freedom-of-info
   - title: "Council for Higher Education v. HaAretz, AAA 9135/03 (English, Cardozo)"
     url: https://larc.cardozo.yu.edu/iscp-opinions/116
 last_verified: "2026-10-18"
@@ -87,7 +87,7 @@ Authorities sometimes refuse monitoring results "because there was no exceedance
 
 ### First look, then ask
 
-1. Check the authority's website for the s. 6א section. The Ministry's s. 6א repository is also on [data.gov.il](https://data.gov.il/dataset/freedom-of-info); on 18.10.2026 its files showed a last update in 2017, so ask for current publication.
+1. Check the authority's website for the s. 6א section. The Ministry's s. 6א repository is also on [data.gov.il](https://data.gov.il/he/datasets/ministry_of_the_environment/freedom-of-info); on 18.10.2026 its files showed a last update in 2017, so ask for current publication.
 2. Check the PRTR and the air-monitoring site (lesson 34.4).
 3. Then ask for what is missing, by FOI request to the authority's FOI officer ([FOI request template](../../templates/foi-request.md); procedure, fees and periods in lesson 14.7 and [current numbers](../../references/current-numbers.md)).
 
