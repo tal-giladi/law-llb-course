@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your father died without a will. Your brother lives abroad and asks you to "handle everything" for
+    both of you, including signing his documents at the Registrar and the Land Registry. What can you do?
+  options:
+    - >-
+      Sign for him as well, since close relatives may act for each other in estate matters.
+    - >-
+      Apply in your own name as an heir, while he signs and verifies his own documents.
+    - >-
+      Nothing until he returns, because only all heirs together may file the application.
+    - >-
+      Ask the Registrar to appoint you as his representative instead of a lawyer.
+  correct: 1
+  explanation: >-
+    Any heir may apply in his own name, but there is no family exception to the Bar Association Law s.
+    20: you cannot sign, appear or act for your brother. He signs and verifies his own documents.
+- id: q2
+  question: >-
+    It is October 2026. You were an employee every year since 2019 and never claimed a refund. Which
+    year should you deal with first?
+  options:
+    - >-
+      2025, because it is the most recent year and the employer certificates are easiest to obtain.
+    - >-
+      2019, because refunds are paid for any year as long as the request is reasoned.
+    - >-
+      2020, because the six-year window for that year closes at the end of 2026.
+    - >-
+      2024, because the assessing officer handles requests in order of the most recent year.
+  correct: 2
+  explanation: >-
+    A refund is due only if the report is filed within six years after the end of the tax year (s.
+    160(א)). For 2020 that is 31 December 2026; 2019 has already closed.
+- id: q3
+  question: >-
+    Which candidate matter fails the "in time" filter and needs action today rather than a calm Clinic
+    III file?
+  options:
+    - >-
+      An arnona notice received three weeks ago that charges you for a larger area than you measure.
+    - >-
+      Your own will, which you have been meaning to write since your youngest child was born.
+    - >-
+      A flat registered to your grandmother, who died twelve years ago with no order taken.
+    - >-
+      An execution warning served 18 days ago, while you are still collecting payslips.
+  correct: 3
+  explanation: >-
+    The warning gives 20 days to pay or apply for a payment order. File the request now with what you
+    have and complete the documents later; the arnona objection still has most of its 90 days.
+- id: q4
+  question: >-
+    Before writing to the Registrar about your late mother's flat, what belongs in your asset and title
+    register?
+  options:
+    - >-
+      A current land extract showing the block, parcel and the registered owners today.
+    - >-
+      A valuation of the flat by an appraiser, so the Registrar can compute the fee.
+    - >-
+      A letter from each heir confirming that he agrees to the order you will request.
+    - >-
+      The arnona account history, because the Registrar relies on it for ownership.
+  correct: 0
+  explanation: >-
+    The extract shows what is registered and to whom, which decides what must later be registered. The
+    Registrar's fee does not depend on value, and heirs' consent is not a precondition to applying.

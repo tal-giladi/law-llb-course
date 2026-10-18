@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are a salaried employee, exempt from filing, and in November 2026 you discover that you overpaid
+    tax in 2020, 2022 and 2024. In what order do you file?
+  options:
+    - >-
+      2024 first, because the Tax Authority processes recent years faster and pays interest on them.
+    - >-
+      2022 first, because the middle year is the one most likely to be audited if filed late.
+    - >-
+      All three in one combined request, since a single request covers every open year.
+    - >-
+      2020 first, because its six-year window closes at the end of December 2026.
+  correct: 3
+  explanation: >-
+    The report must be filed within six years after the end of the tax year (s. 160(א)). The 2020 year
+    closes on 31 December 2026, so it goes first; each year gets its own request.
+- id: q2
+  question: >-
+    An assessment notice dated 20 November reached your personal area and your mailbox on 25 November.
+    It refuses your donation credit. By when must the objection be filed?
+  options:
+    - >-
+      Within 30 days of 25 November, the day the notice was delivered to you.
+    - >-
+      Within 30 days of 20 November, the date printed on the assessment notice.
+    - >-
+      Within 60 days of delivery, because refund assessments carry a longer period.
+    - >-
+      At any time within the six-year refund window for that tax year.
+  correct: 0
+  explanation: >-
+    The objection period is 30 days from service of the assessment notice (s. 150(א)). Keep proof of the
+    delivery date.
+- id: q3
+  question: >-
+    The officer refused your degree credit point because your certificate was issued in 2024, although
+    your studies ended in December 2023. What is the strongest objection?
+  options:
+    - >-
+      A request for mercy citing your financial situation and the cost of your studies.
+    - >-
+      A complaint to the Tax Authority's ombudsman about the delay in processing.
+    - >-
+      Exact grounds with the university's confirmation that studies ended in 2023.
+    - >-
+      A new refund request for 2024 instead, claiming the point in that year.
+  correct: 2
+  explanation: >-
+    The refusal is factual and fixable with a document. An objection must set out exact grounds (s.
+    150(א)); the confirmation of completion meets the officer's reason head-on.
+- id: q4
+  question: >-
+    While preparing your refund file you find that in 2021 you rented out a flat and had to file an
+    annual return, which you never did. What is the right next step?
+  options:
+    - >-
+      File Form 135 for 2021 like the other years and do not mention the rental income.
+    - >-
+      Stop the self-help track for that year and get professional advice before filing anything.
+    - >-
+      Leave 2021 out entirely, since the officer cannot assess a year with no report filed.
+    - >-
+      File an objection for 2021 first, so the officer must reconsider the year.
+  correct: 1
+  explanation: >-
+    A refund for a year in which you had to file and did not depends on s. 160(ב), and an unreported year
+    is a lesson 25.8 problem. That is a red flag for advice, not a Form 135.

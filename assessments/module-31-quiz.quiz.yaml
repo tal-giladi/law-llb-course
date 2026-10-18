@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    In November 2026 a learner lists her clinic candidates: a will she has postponed, an arnona notice
+    received last week, and an overpayment of tax in 2020 she has just noticed. Which needs action first?
+  options:
+    - >-
+      The arnona notice, because its objection period is the shortest of the three.
+    - >-
+      The will, because the clinic always starts with the learner's own estate plan.
+    - >-
+      The 2020 refund, because that tax year's six-year window closes on 31 December.
+    - >-
+      None urgently, because all three can be dealt with at any time next year.
+  correct: 2
+  explanation: >-
+    The 2020 refund year closes at the end of 2026 (s. 160(א)); the arnona objection has most of its 90
+    days left. Diarise all three, but file the closing year first.
+- id: q2
+  question: >-
+    Moran, 59, writes her will by hand but types the list of jewellery and who gets each piece, and staples
+    it to the handwritten pages. What is the risk?
+  options:
+    - >-
+      None, because only the signature page of a handwritten will must be in her hand.
+    - >-
+      The typed list is not part of a handwritten will and invites a dispute over those gifts.
+    - >-
+      The whole will is void, because any typed text cancels a handwritten will automatically.
+    - >-
+      The list is valid only if she deposits the will before the end of the calendar year.
+  correct: 1
+  explanation: >-
+    A handwritten will is written, dated and signed entirely in the testator's hand (s. 19). The typed
+    list is outside that form; s. 25 may save some defects, but the safe course is to write it all by hand.
+- id: q3
+  question: >-
+    Avi's father appointed Avi's sister as attorney in an enduring power of attorney and named a
+    neighbour as the informed person. Now the father has dementia. Who decides that the power has taken
+    effect?
+  options:
+    - >-
+      The sister alone, because the attorney is the person best placed to judge incapacity.
+    - >-
+      The Family Court, which must declare the father incapable before any attorney can act.
+    - >-
+      The neighbour, because the informed person must consent before the power takes effect.
+    - >-
+      It takes effect on the test the father set, with the sister's declaration to the Administrator General.
+  correct: 3
+  explanation: >-
+    The power takes effect when the grantor can no longer understand the matter, on the attorney's
+    declaration that the set conditions are met and the informed persons were notified (s. 32יט); the test
+    cannot be the attorney's own decision alone.
+- id: q4
+  question: >-
+    Ruth's mother died in 2015 and her father in 2026; neither left a will and nothing was done in 2015.
+    The flat is registered half to each parent. Ruth files online only for her father. What happens?
+  options:
+    - >-
+      The Registrar declares the father's estate, but her mother's half cannot be registered without her order.
+    - >-
+      The Registrar declares both estates in one order, since the second death absorbs the first.
+    - >-
+      The application is refused, because the earlier estate must be dealt with in court.
+    - >-
+      The Land Registry registers the whole flat to the children on the father's order alone.
+  correct: 0
+  explanation: >-
+    Each deceased needs an order. The mother's estate, in which the father was an heir, must be declared
+    too, and its order registered, before the flat stands in the children's names.
+- id: q5
+  question: >-
+    Three heirs hold a succession order. Two of them agree that one will keep the inherited flat in
+    exchange for the savings; the third is abroad and has not answered. Can the two register the division?
+  options:
+    - >-
+      Yes, a majority of the heirs may register a distribution agreement for land.
+    - >-
+      Yes, if the heir who keeps the flat files the request and pays the registration fee.
+    - >-
+      No, an unapproved distribution agreement is registered only on the application of all heirs.
+    - >-
+      No, a division of an inherited flat may be registered only after a court-ordered sale.
+  correct: 2
+  explanation: >-
+    Any heir may register the order, but a distribution agreement not approved by a court needs all the
+    heirs' application (reg. 17(ב)); otherwise court approval is needed.
+- id: q6
+  question: >-
+    Nadav's assessment notice for 2024 arrived on 3 March. It refuses a reservist credit he claimed. On 10
+    April he sends the reserve-days certificate with a short letter. What is the problem?
+  options:
+    - >-
+      None, because new evidence may be sent at any time within the six-year refund window.
+    - >-
+      The letter should have gone to the District Court, since the assessment is final.
+    - >-
+      The certificate must be stamped by the army before the officer may consider it.
+    - >-
+      The objection is late: it had to be filed within 30 days of receiving the notice.
+  correct: 3
+  explanation: >-
+    An objection is due within 30 days of service of the assessment (s. 150(א)). An extension needs a
+    reasonable cause; otherwise the assessment stands.
+- id: q7
+  question: >-
+    Sigal's execution warning was served two months ago; she did nothing and her account is now attached.
+    She can pay ₪600 a month on a ₪15,000 debt. What should she file?
+  options:
+    - >-
+      A payment-order request with her documented budget, and a request to release protected money.
+    - >-
+      An opposition to the judgment, which suspends the file until a court hearing.
+    - >-
+      Nothing, because once the warning period passes only the creditor may propose instalments.
+    - >-
+      An application to the Insolvency Commissioner, which is the only route after the warning period.
+  correct: 0
+  explanation: >-
+    A late payment-order request with full documents still opens a means inquiry, and protected wages and
+    benefits can be released. ₪600 × 36 covers ₪15,000 within the s. 7א1 period, so insolvency is not
+    needed.
+- id: q8
+  question: >-
+    Under a payment order, Eli has paid three months in a row, yet his salary is still attached in the
+    file. What does the law allow him to do?
+  options:
+    - >-
+      Stop paying until the attachment is removed, since the creditor is in breach of the order.
+    - >-
+      Ask to be recognised as a paying debtor, so salary and bank attachments are stayed or cancelled.
+    - >-
+      Ask the registrar to cancel the judgment, because three payments prove he was never in default.
+    - >-
+      Nothing until the debt is repaid in full, when attachments lapse automatically.
+  correct: 1
+  explanation: >-
+    Three consecutive payments under a payment order meet the paying-debtor threshold (s. 69ב3); the
+    registrar then orders that bank and salary attachments be stayed or cancelled (s. 69ב7), effective 30
+    days after notice to the creditor.
+- id: q9
+  question: >-
+    Mahmoud sold his flat in January but never told the municipality. In September he is billed arnona for
+    February to August. What can his objection achieve?
+  options:
+    - >-
+      Cancel the whole charge from January, because the sale contract proves he left.
+    - >-
+      Nothing, because a seller remains liable for arnona until the end of the tax year.
+    - >-
+      Relief only from the date he gives written notice; the earlier months remain his liability.
+    - >-
+      Transfer the debt to the buyer automatically once the director sees the contract.
+  correct: 2
+  explanation: >-
+    Liability ends only after written notice to the municipality (s. 325), and a seller must notify the
+    new holder (s. 326). Give notice now; months before it stay his, with any claim against the buyer
+    being a private matter.
+- id: q10
+  question: >-
+    Closing her Clinic III file, Dana finds two amber signs in the land matter: her brother has a lawyer,
+    and the buy-out price exceeds a year's income. Under the course's rule, what does she do?
+  options:
+    - >-
+      Continue alone, because amber signs are warnings only and never require any outside help.
+    - >-
+      Ask her brother's lawyer to advise both of them, since he already knows the file.
+    - >-
+      Abandon the buy-out, because the course forbids learners from any transaction with relatives.
+    - >-
+      Book at least one consultation and bring the one-page summary.
+  correct: 3
+  explanation: >-
+    One red flag means a lawyer or Legal Aid; two amber signs mean at least one consultation with the
+    one-page summary. A buy-out between heirs is also a red flag in its own right, because of tax.

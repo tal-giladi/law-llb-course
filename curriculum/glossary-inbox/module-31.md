@@ -1,0 +1,17 @@
+- **מרשם נכסים ומסמכי בעלות** (mirsham nekhasim u-mismakhei ba'alut) — Asset and title register: the clinic file's list of each asset, where it is recorded, its identifiers and the document proving the registered owner.
+- **יומן מועדים** (yoman mo'adim) — Deadline diary: each deadline with the event it runs from and the proof of that event's date.
+- **אישור הפקדה** (ishur hafkada) — Deposit certificate issued when a will is deposited with the Registrar of Inheritance.
+- **מוטב** (mutav) — Beneficiary named in a pension fund, provident fund or insurance policy; benefits paid to a named beneficiary are generally outside the estate (Succession Law s. 147).
+- **הודעה ליורשים** (hoda'a la-yorshim) — Notice of a succession or probate application to the other heirs, on the prescribed form, with proof of delivery.
+- **עיזבון שלא חולק** (izavon she-lo hulak) — Undistributed estate; before distribution an heir holds a share in the estate, not in a specific asset (Succession Law s. 7).
+- **בקשה לרישום ירושה** (bakasha le-rishum yerusha) — Application to the Land Registry to register an inheritance (a succession or probate order, distribution agreement or order) in place of the deceased (Land Management and Registration Regulations regs 17–18).
+- **אימות חתימה** (imut hatima) — Verification of a signature, by a lawyer or a registry official, on a land-registry request.
+- **ערר לממונה על המרשם** (arar la-memune al ha-mirsham) — Appeal to the registration commissioner against a Land Registrar's decision (reg. 74).
+- **תיאום מס** (te'um mas) — Tax coordination between several employers, without which a second employer withholds at a high rate.
+- **טופס 106** (tofes 106) — Employer's annual certificate of wages and tax withheld, the basic document of an employee's refund request.
+- **מוסד ציבורי מאושר** (mosad tziburi me'ushar) — Public institution approved under Income Tax Ordinance s. 46, donations to which earn a tax credit.
+- **חייב משלם** (hayav meshalem) — Paying debtor: a debtor recognised after three consecutive payments under a payment order (or one under a rules-based direction), whose bank and salary attachments in the file are then stayed or cancelled (Execution Law ss. 69ב3–69ב7).
+- **הודעה על חדילה להחזיק** (hoda'a al hadila lehachzik) — Written notice to the municipality that one has ceased to hold a property; arnona liability ends only after it (Municipalities Ordinance s. 325).
+- **דף מדידה** (daf medida) — The municipality's arnona measurement sheet for a property.
+- **סיכום סגירת תיק** (sikum sgirat tik) — Closing memo: outcome, money, documents, surviving dates, lessons and archive for a finished matter.
+- **מועד שורד** (mo'ed shored) — Surviving deadline: a date that outlives the matter (review trigger, renewal, last instalment).

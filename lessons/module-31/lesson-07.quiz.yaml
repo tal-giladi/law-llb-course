@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your adult daughter moved into the flat you own in March under a written lease. In October you notice
+    that arnona is still charged to you, and you never told the municipality. What do you file?
+  options:
+    - >-
+      An objection claiming you were not the holder from March, attaching the lease as proof.
+    - >-
+      A written notice of change of holder now, and an objection for the period after the notice.
+    - >-
+      An appeal to the appeals committee, since the director cannot decide holder questions.
+    - >-
+      A discount application in your daughter's name, which transfers the liability to her.
+  correct: 1
+  explanation: >-
+    Liability ends only after written notice to the municipality (Municipalities Ordinance s. 325). The
+    months before the notice stay yours; the objection covers the period after it.
+- id: q2
+  question: >-
+    You received the payment notice on 1 February. On 25 May you object that your flat is 10 m² smaller
+    than billed. What is the likely result?
+  options:
+    - >-
+      The objection is late, because it had to be filed within 90 days of receiving the notice.
+    - >-
+      The director must decide it, because area errors may be raised at any time in the year.
+    - >-
+      It is treated as a request for a discount and passed to the discounts committee.
+    - >-
+      It goes directly to the appeals committee, since the director's period has passed.
+  correct: 0
+  explanation: >-
+    The objection period is 90 days from receiving the payment notice (s. 3(א)); 25 May is past it.
+    Object on time next year, or ask the director to correct the error by consent.
+- id: q3
+  question: >-
+    Which claim belongs in your objection to the arnona director?
+  options:
+    - >-
+      The rate for your zone is higher than for a similar neighbouring zone and is discriminatory.
+    - >-
+      You are a senior citizen and are entitled to a discount you never received.
+    - >-
+      A storeroom in the yard is charged as a residential room although it is used only for storage.
+    - >-
+      The council approved the arnona order late, so the year's increase is void.
+  correct: 2
+  explanation: >-
+    Use and classification are s. 3(א) grounds. Legality of rates or the order is outside the objection
+    (s. 3(ב)) and goes to a petition; a discount is a separate application.
+- id: q4
+  question: >-
+    You filed an objection on 1 March. By 5 May the director has not answered and the appeals committee
+    has not extended the period. What is your position?
+  options:
+    - >-
+      You must file an appeal now, because silence counts as a refusal after 60 days.
+    - >-
+      You must wait for an answer, because the director's period runs only from a hearing.
+    - >-
+      You may petition the court to order the director to decide the objection.
+    - >-
+      The objection is treated as accepted, so you ask for the bill to be corrected accordingly.
+  correct: 3
+  explanation: >-
+    If the director does not answer within 60 days and no extension was given, the objection is treated
+    as accepted (s. 4). Write to the authority and ask for the corrected bill.

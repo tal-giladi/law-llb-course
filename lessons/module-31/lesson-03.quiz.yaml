@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your mother died in 2018 and no order was taken; your father died in 2026. The flat is registered half
+    to each. Both left no will. What do you apply for?
+  options:
+    - >-
+      One succession order for your father, which automatically covers your mother's half as well.
+    - >-
+      One order for your mother naming you and your sibling, since your father has also died.
+    - >-
+      A distribution agreement among the children, which replaces both orders for registered land.
+    - >-
+      Two orders: your mother's estate first, listing your father among her heirs, then your father's.
+  correct: 3
+  explanation: >-
+    Each deceased has an estate. Your father inherited part of your mother's share under s. 11, and that
+    part now passes through his own estate, so her estate is declared first with him as an heir.
+- id: q2
+  question: >-
+    In your mother's estate, the heirs are her husband and two children; there is no will. What share of
+    her half of the flat does her husband take?
+  options:
+    - >-
+      Half of her share, after taking the household movables including the car.
+    - >-
+      All of her share, because a surviving spouse always keeps the family home.
+    - >-
+      One third of her share, the same as each of the two children.
+    - >-
+      Two thirds of her share, because the couple had been married more than three years.
+  correct: 0
+  explanation: >-
+    With children, the spouse takes the household movables and the car, and half of the rest (s.
+    11(א)(1)). The two-thirds and apartment rules apply when the closest relatives are siblings or
+    grandparents.
+- id: q3
+  question: >-
+    Ten days after your application is published, your aunt files an objection claiming your father
+    promised her the flat. What happens to the file?
+  options:
+    - >-
+      The Registrar decides the objection himself after a short hearing with both sides.
+    - >-
+      It moves to the Family Court, and you should consider getting legal advice.
+    - >-
+      Nothing, because only heirs may object and your aunt is not an heir on intestacy.
+    - >-
+      The application lapses and you must refile after the aunt's claim is settled.
+  correct: 1
+  explanation: >-
+    Any interested person may object within the period (s. 67), and an objection moves the file to the
+    Family Court (s. 67א). That is litigation; the clinic's red flag applies.
+- id: q4
+  question: >-
+    Your brother wants you to keep the inherited flat and offers to renounce his share in favour of your
+    son, who lives in it. What is the problem?
+  options:
+    - >-
+      None, as long as the renunciation is filed with the Registrar before the order is given.
+    - >-
+      A renunciation is valid only if every other heir consents to it in writing first.
+    - >-
+      A renunciation may favour only the deceased's spouse, child or sibling, not a grandchild.
+    - >-
+      Renunciation is possible only in a probate file, never in a succession file.
+  correct: 2
+  explanation: >-
+    Section 6(ב) limits the favoured persons to the deceased's spouse, child or sibling. He can renounce
+    in your favour, or gift his share after distribution, with different tax consequences.

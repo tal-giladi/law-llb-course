@@ -41,6 +41,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [International purchase dispute kit (ערכת מסמכים: סכסוך ברכישה מקוונת מחו"ל)](international-purchase-dispute-kit.md)
 - [Jewish-law reasoning in a ruling: worksheet (דף עבודה: המשפט העברי בפסק דין)](jewish-law-reasoning-worksheet.md)
 - [Labour-court statement of claim, expedited track (כתב תביעה לבית הדין האזורי לעבודה – דיון מהיר)](labour-court-statement-of-claim.md)
+- [Land Registry heirs-registration checklist (רישום זכויות יורשים במקרקעין – רשימת בדיקה)](land-registry-heirs-registration-checklist.md)
 - [Letter to a Knesset committee (פנייה לוועדה של הכנסת ונייר עמדה)](letter-to-knesset-committee.md)
 - [Letter to a public authority (פנייה לרשות ציבורית)](letter-to-authority.md)
 - [Letter to employer: wage and final-settlement demand (מכתב דרישה למעסיק)](letter-to-employer-wage-claim.md)

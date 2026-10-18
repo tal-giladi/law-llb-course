@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your handwritten will leaves everything to your two children equally. Your provident fund still names
+    your former husband as beneficiary. What happens to the fund on your death if nothing changes?
+  options:
+    - >-
+      It goes to the children under the will, because a later will overrides any earlier designation.
+    - >-
+      It is split three ways between the children and the former husband as joint heirs.
+    - >-
+      It is frozen until the Family Court decides which instrument reflects your true intention.
+    - >-
+      It is generally paid to the named beneficiary, because such benefits are outside the estate.
+  correct: 3
+  explanation: >-
+    Benefits paid to a named beneficiary are generally outside the estate (Succession Law s. 147), so the
+    designation at the fund governs. Change it at the fund to match the will.
+- id: q2
+  question: >-
+    You are 81, recently hospitalised, and want to leave more to the daughter who cares for you than to
+    your son. Which route best protects the will from a later challenge?
+  options:
+    - >-
+      A will before an authority or a lawyer-drafted will, with a doctor's note on capacity that week.
+    - >-
+      A handwritten will written at home with your daughter present to help with the wording.
+    - >-
+      A typed will that your daughter prints and you sign, kept in her safe for security.
+    - >-
+      An oral will before two neighbours, since it is the quickest form available to you.
+  correct: 0
+  explanation: >-
+    Where capacity or influence may be questioned, an independent record of capacity and of your wishes
+    is the protection. A beneficiary's involvement in making the will invites an undue-influence claim.
+- id: q3
+  question: >-
+    You want to name as attorney in your enduring power of attorney the live-in carer you pay, because
+    she knows your needs best. What is the problem?
+  options:
+    - >-
+      None, as long as the trained lawyer explains the document to her before she signs her consent.
+    - >-
+      A paid carer may not be the attorney unless she is your relative; choose someone else.
+    - >-
+      She may be the attorney for personal matters only, never for any property matters.
+    - >-
+      She must first be approved by the Administrator General as a professional attorney.
+  correct: 1
+  explanation: >-
+    Section 32ג disqualifies paid carers and other paid providers (unless relatives), and the signing
+    lawyer. Her knowledge can go into your advance directives instead.
+- id: q4
+  question: >-
+    You deposited a handwritten will in 2023 and now want to deposit a new one in 2026. What should you
+    expect at the Registrar?
+  options:
+    - >-
+      The new deposit is free, since every deposit of a will is exempt from the fee in 2026.
+    - >-
+      Both wills are kept, and the Registrar decides after your death which one applies.
+    - >-
+      You take back the old will, and a fee applies because you deposited within the last five years.
+    - >-
+      You must first ask the Family Court to cancel the old will before depositing a new one.
+  correct: 2
+  explanation: >-
+    The exemption covers a deposit when no earlier will was deposited in the previous five years (Fees
+    Schedule item 5א). One deposited will is held at a time, and the new will should revoke earlier ones.

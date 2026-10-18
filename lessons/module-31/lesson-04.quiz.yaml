@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You received a succession order for your father in 2026. Your sister, who lives in Eilat, cannot come
+    to the registry office. Can you register the inheritance without her?
+  options:
+    - >-
+      No, because every heir must sign any application that changes the land register.
+    - >-
+      Yes, but only if she signs a power of attorney in your favour before a lawyer.
+    - >-
+      Yes, any interested person may apply to register the order, so you may file alone.
+    - >-
+      No, the Registrar of Inheritance must file it on behalf of all the heirs together.
+  correct: 2
+  explanation: >-
+    Registration of an inheritance is made on the application of any interested person (reg. 17(ב)).
+    Only an estate-distribution agreement not approved by a court needs all the heirs.
+- id: q2
+  question: >-
+    The extract for your late mother's flat shows the Israel Land Authority as owner and no lease
+    registered for her. Where do the heirs deal with the flat?
+  options:
+    - >-
+      With the ILA under its own inheritance procedure, since the Land Registry has nothing to update.
+    - >-
+      At the Land Registry office, which registers the lease and the inheritance together.
+    - >-
+      At the Registrar of Inheritance, which updates the ILA and the registry automatically.
+    - >-
+      At the municipality, which keeps the holder records for unregistered properties.
+  correct: 0
+  explanation: >-
+    If the rights are not registered in the Land Registry, there is nothing there to register; ILA
+    leasehold rights are handled by the ILA's procedure (lesson 13.2).
+- id: q3
+  question: >-
+    After registration you and your brother each own half. He agrees that you keep the flat and he keeps
+    the savings. What must happen for the registry to record this?
+  options:
+    - >-
+      You file the agreement alone, since you are the heir who will be registered as owner.
+    - >-
+      Both of you apply to register the distribution agreement, or a court approves it.
+    - >-
+      Nothing: the original order already allows any heir to take any asset of the estate.
+    - >-
+      Your brother files a renunciation with the Registrar after the order was given.
+  correct: 1
+  explanation: >-
+    An estate-distribution agreement not approved by a court is registered only on the application of all
+    the heirs (reg. 17(ב)). A renunciation must come before distribution and is not a tool for this.
+- id: q4
+  question: >-
+    Your brother instead offers to sell you his registered half for ₪900,000. What should your file record
+    before you sign?
+  options:
+    - >-
+      Nothing special, because transfers between heirs are part of the inheritance and are exempt.
+    - >-
+      Only a new inheritance-registration request, since the flat came from the same estate.
+    - >-
+      A renunciation by your brother, which is the required form for any transfer between heirs.
+    - >-
+      That a sale between co-owners is a taxable land transaction needing declarations and advice.
+  correct: 3
+  explanation: >-
+    A buy-out for money is a transaction in land with purchase and appreciation tax declarations (lessons
+    25.6, 25.7). The clinic's red flag: get advice before signing.

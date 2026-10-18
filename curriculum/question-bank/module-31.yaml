@@ -1,0 +1,1308 @@
+- id: m31-001
+  module: 31
+  lesson: "31.1"
+  subject: own-matter
+  difficulty: 1
+  question: >-
+    Your mother asks you to file the arnona objection for her flat because she does not use email. What
+    may you do within the clinic's rules?
+  options:
+    - >-
+      File and sign the objection in your own name, since you pay part of her bills.
+    - >-
+      Help her prepare it and send it from your email, while she signs it as the holder.
+    - >-
+      Represent her before the appeals committee as a close relative of the holder.
+    - >-
+      Nothing at all, because any help with another person's document is forbidden.
+  correct: 1
+  explanation: >-
+    The objection is hers and she signs it. Helping her understand or sending it for her is not acting
+    for her; signing, arguing or appearing for her is reserved to lawyers (s. 20).
+- id: m31-002
+  module: 31
+  lesson: "31.1"
+  subject: money-losing-deadlines
+  difficulty: 1
+  question: >-
+    Which of these is a deadline after which money is lost for good, not merely delayed?
+  options:
+    - >-
+      The six-year window for filing a refund report for a tax year.
+    - >-
+      The publication period after filing a succession application.
+    - >-
+      The date by which heirs must register an order in the Land Registry.
+    - >-
+      The date by which a will must be deposited after it is written.
+  correct: 0
+  explanation: >-
+    A refund is due only if the report is filed within six years after the end of the year (s. 160(א)).
+    There is no deadline to register an order or deposit a will; publication is a waiting period.
+- id: m31-003
+  module: 31
+  lesson: "31.1"
+  subject: five-filters
+  difficulty: 2
+  question: >-
+    Which candidate fails the "provable" filter and should not be your Clinic III matter yet?
+  options:
+    - >-
+      A refund for 2023, with Form 106 from both employers and the donation receipts.
+    - >-
+      An arnona bill you think overstates the area, with the measurement sheet in hand.
+    - >-
+      Your late grandmother's estate, where only a photocopy of her will has been found.
+    - >-
+      Your own execution file, which you can print from the personal area today.
+  correct: 2
+  explanation: >-
+    A copy of a will raises proof problems and is a red flag for advice (lesson 31.3). The others have
+    the documents the office will need.
+- id: m31-004
+  module: 31
+  lesson: "31.1"
+  subject: asset-register
+  difficulty: 2
+  question: >-
+    For a flat in your late father's estate, which row of the asset and title register is filled
+    correctly?
+  options:
+    - >-
+      Flat, value about ₪2 million, to be divided among the three children.
+    - >-
+      Flat, father's name, "probably in the tabu", keys held by the eldest son.
+    - >-
+      Flat, address only, since the Registrar will find the land details.
+    - >-
+      Flat, Land Registry office, block and parcel, owners per extract of a stated date.
+  correct: 3
+  explanation: >-
+    The register records where the right is recorded, its identifiers, who is registered today and the
+    document that proves it. Value and plans belong elsewhere in the file.
+- id: m31-005
+  module: 31
+  lesson: "31.1"
+  subject: records-first
+  difficulty: 1
+  question: >-
+    Why does the clinic order the official records before any letter or application?
+  options:
+    - >-
+      Because authorities refuse to answer letters that do not cite a record number.
+    - >-
+      Because your figures and facts must match what the authority holds, or you lose credibility.
+    - >-
+      Because the deadlines start to run only once you have ordered the records.
+    - >-
+      Because the records are free only if ordered before an application is filed.
+  correct: 1
+  explanation: >-
+    The extract, Form 106, the execution printout and the measurement sheet are what the authority will
+    use. Starting from them avoids wrong shares, wrong figures and wasted rounds.
+- id: m31-006
+  module: 31
+  lesson: "31.1"
+  subject: tracks
+  difficulty: 2
+  question: >-
+    Which pairing of matter and first office is wrong?
+  options:
+    - >-
+      Registering inherited land: the Land Registry office where the land is registered.
+    - >-
+      Arnona area error: the arnona director, by objection within 90 days.
+    - >-
+      Execution payment arrangement: a request in the file to the execution registrar.
+    - >-
+      Tax refund for an exempt employee: an appeal to the District Court.
+  correct: 3
+  explanation: >-
+    A refund is requested from the assessing officer (Form 135 or online). The District Court hears
+    appeals from orders on objections, not refund requests.
+- id: m31-007
+  module: 31
+  lesson: "31.1"
+  subject: urgency
+  difficulty: 3
+  question: >-
+    On 20 December 2026 a learner discovers: an execution warning served on 10 December, a 2020 refund she
+    is owed, and an arnona notice received on 1 December. What is the right order of action this week?
+  options:
+    - >-
+      Arnona first, then the refund, then the execution file, in order of the amounts.
+    - >-
+      The refund first, then the execution file, leaving the arnona until January.
+    - >-
+      The execution request and the 2020 refund this week; the arnona objection by early February.
+    - >-
+      All three can wait until January, because December deadlines are extended for holidays.
+  correct: 2
+  explanation: >-
+    The warning period runs out about 30 December and the 2020 refund year closes on 31 December. The
+    arnona objection has until about 1 March (90 days), so it can follow.
+- id: m31-008
+  module: 31
+  lesson: "31.1"
+  subject: own-matter
+  difficulty: 3
+  question: >-
+    Your partner's execution file attaches the joint account you both use. Whose matter is it, and what
+    can you do?
+  options:
+    - >-
+      It is your partner's file; you may help with documents, and ask in your own name about your money.
+    - >-
+      It is a joint matter, so either of you may file any request in the file for both.
+    - >-
+      It is yours, because the attached account is in both names and you are the main earner.
+    - >-
+      It is neither's, because joint accounts cannot be attached for one holder's debt.
+  correct: 0
+  explanation: >-
+    The debtor in the file is your partner, who files the requests. As a joint holder you may raise your
+    own rights in your share of the money in your own name; you may not run the file for him.
+- id: m31-009
+  module: 31
+  lesson: "31.2"
+  subject: handwritten-will
+  difficulty: 1
+  question: >-
+    Which handwritten will meets the s. 19 requirements?
+  options:
+    - >-
+      Typed text signed by hand and dated with a rubber stamp.
+    - >-
+      Handwritten text, dated by hand, signed by a witness who watched.
+    - >-
+      Written, dated and signed entirely in the testator's own hand.
+    - >-
+      Handwritten text with no date, signed in the testator's hand.
+  correct: 2
+  explanation: >-
+    Section 19 requires the whole will in the testator's hand, a date written by hand and a signature by
+    hand. Any gap invites a dispute, even where s. 25 may cure a defect.
+- id: m31-010
+  module: 31
+  lesson: "31.2"
+  subject: deposit-fee
+  difficulty: 1
+  question: >-
+    Shira, 45, deposits her first will in 2026. What does she pay?
+  options:
+    - >-
+      The full deposit fee, since the exemption covers only people over retirement age.
+    - >-
+      Nothing, because no earlier will of hers was deposited in the previous five years.
+    - >-
+      Half the deposit fee, because the first deposit is subsidised by the Registrar.
+    - >-
+      The application fee for a probate order, which is paid in advance at deposit.
+  correct: 1
+  explanation: >-
+    The 2026 fee schedule exempts a deposit when no earlier will of the testator was deposited in the
+    five years before it (item 5א). Amounts are in current numbers.
+- id: m31-011
+  module: 31
+  lesson: "31.2"
+  subject: beneficiaries
+  difficulty: 2
+  question: >-
+    Spot the mistake: "My will leaves my pension fund's death benefit to my two children equally." The
+    fund's beneficiary form still names her late husband. What should the file record?
+  options:
+    - >-
+      Nothing, since a will always overrides an earlier beneficiary form at a fund.
+    - >-
+      A note to tell the children to claim the benefit from the husband's estate.
+    - >-
+      A request to the Registrar to register the will with the pension fund.
+    - >-
+      A new beneficiary form at the fund naming the children, since such benefits follow the form.
+  correct: 3
+  explanation: >-
+    Benefits paid to a named beneficiary are generally outside the estate (s. 147), so the fund's form
+    governs. The fix is at the fund, not in the will.
+- id: m31-012
+  module: 31
+  lesson: "31.2"
+  subject: will-form-choice
+  difficulty: 2
+  question: >-
+    Doron owns a business through a company, a flat abroad and has children from two marriages. Which
+    choice suits the clinic's decision table?
+  options:
+    - >-
+      A lawyer-drafted will, because the estate has drafting and tax choices beyond self-help.
+    - >-
+      A handwritten will, because it is the cheapest and hardest to forge if deposited.
+    - >-
+      A witnessed will with two of his children as witnesses, to show family agreement.
+    - >-
+      An oral will before two witnesses, which is easiest to change later.
+  correct: 0
+  explanation: >-
+    A business, foreign assets and children from different relationships are "lawyer" rows. Children as
+    witnesses would also void their gifts (s. 35).
+- id: m31-013
+  module: 31
+  lesson: "31.2"
+  subject: epa-signing
+  difficulty: 1
+  question: >-
+    Before whom is a property-and-personal enduring power of attorney signed?
+  options:
+    - >-
+      Any notary, who also deposits it with the Land Registry.
+    - >-
+      Two adult witnesses who are not the attorney's relatives.
+    - >-
+      A trained lawyer with no personal interest in it.
+    - >-
+      The Registrar of Inheritance, at the same appointment as a will deposit.
+  correct: 2
+  explanation: >-
+    Section 32יד(א) requires signature before a trained lawyer with no personal interest; only a
+    medical-only power may be signed before a doctor, social worker, psychologist or nurse.
+- id: m31-014
+  module: 31
+  lesson: "31.2"
+  subject: epa-attorney
+  difficulty: 2
+  question: >-
+    Which person may Ruth, 74, appoint as attorney for property in her enduring power?
+  options:
+    - >-
+      Her paid live-in carer, who is not related to her.
+    - >-
+      The lawyer who will witness her signature on the document.
+    - >-
+      A friend who is already a non-relative attorney for three other people.
+    - >-
+      Her adult niece, who is not bankrupt and not under guardianship.
+  correct: 3
+  explanation: >-
+    Section 32ג disqualifies paid carers (unless relatives), the signing lawyer, and a non-relative who is
+    already attorney for three people. An adult niece who meets the conditions qualifies.
+- id: m31-015
+  module: 31
+  lesson: "31.2"
+  subject: epa-entry-into-force
+  difficulty: 2
+  question: >-
+    Which entry-into-force clause is valid?
+  options:
+    - >-
+      "When my attorney decides that I can no longer manage my affairs."
+    - >-
+      "When a geriatrician certifies in writing that I lack capacity."
+    - >-
+      "When my bank refuses to accept my signature on a transaction."
+    - >-
+      "One year after the date on which I sign this power of attorney."
+  correct: 1
+  explanation: >-
+    The power takes effect when the grantor can no longer understand the matter, on a test that is not
+    the attorney's own decision alone (s. 32יט(ג)). A specialist's opinion is the usual objective test.
+- id: m31-016
+  module: 31
+  lesson: "31.2"
+  subject: epa-limits
+  difficulty: 3
+  question: >-
+    Svetlana's directive allows her attorney to sell the flat "if savings fall below ₪50,000". Years later
+    the savings run out. What must the attorney do to sell?
+  options:
+    - >-
+      Seek prior approval via the Administrator General.
+    - >-
+      Sell at once, because the directive itself gives express authority for the sale.
+    - >-
+      Ask the informed person to sign the deed as a second attorney.
+    - >-
+      Apply to the Registrar of Inheritance for a partial probate order.
+  correct: 0
+  explanation: >-
+    Selling an apartment needs prior approval (s. 32ו(ד)), now through the Administrator General first (s.
+    74א). The directive shapes the decision but does not replace the approval.
+- id: m31-017
+  module: 31
+  lesson: "31.2"
+  subject: revocation
+  difficulty: 3
+  question: >-
+    You wrote a new handwritten will in 2026; the 2019 will is deposited with the Registrar. What is the
+    safest sequence?
+  options:
+    - >-
+      Keep both deposited, and write in the new will that it adds to the old one.
+    - >-
+      Destroy your home copy of the old will; the deposited one lapses on its own.
+    - >-
+      Revoke earlier wills expressly, take back the old one, deposit the new.
+    - >-
+      Ask the Registrar to add the new will to the old file as a codicil.
+  correct: 2
+  explanation: >-
+    One deposited will is held at a time. An express revocation clause and taking back the old will
+    prevent a dispute about which document speaks (compare אהרון נ' אהרוני).
+- id: m31-018
+  module: 31
+  lesson: "31.3"
+  subject: two-estates
+  difficulty: 1
+  question: >-
+    A father died in 2010 and the mother in 2026, neither with an order. How many succession applications
+    do the children need?
+  options:
+    - >-
+      One, for the mother, because her death absorbs the father's earlier estate.
+    - >-
+      Two, one for each parent, the father's estate first.
+    - >-
+      One combined application, which the Registrar splits into two orders.
+    - >-
+      None, if the flat is registered in both parents' names.
+  correct: 1
+  explanation: >-
+    Each deceased has an estate. The mother was an heir of the father, so his estate is declared first,
+    and her own order then carries what she inherited.
+- id: m31-019
+  module: 31
+  lesson: "31.3"
+  subject: shares
+  difficulty: 2
+  question: >-
+    A mother dies intestate, survived by her husband and three children. What share of her estate (other
+    than household movables) does each child take?
+  options:
+    - >-
+      One quarter each, equal with the husband.
+    - >-
+      One third each, because the husband takes only the movables.
+    - >-
+      One ninth each, because the husband takes two thirds.
+    - >-
+      One sixth each, because the husband takes half.
+  correct: 3
+  explanation: >-
+    With children, the spouse takes the household movables and half of the rest (s. 11(א)(1)); the
+    children share the other half, one sixth each.
+- id: m31-020
+  module: 31
+  lesson: "31.3"
+  subject: route
+  difficulty: 1
+  question: >-
+    You are the deceased's daughter and the only heirs are you and your brothers. Which route is
+    normally available to you?
+  options:
+    - >-
+      Online filing to the Registrar, at a reduced fee, with notice to your brothers.
+    - >-
+      Paper filing only, because siblings of the applicant are among the heirs.
+    - >-
+      Filing through a lawyer only, because there is more than one heir.
+    - >-
+      A claim in the Family Court, which is required when there are several heirs.
+  correct: 0
+  explanation: >-
+    Children of the deceased can file online at 85% of the paper fee. The paper-only rule reported by
+    Kol-Zchut concerns heirs who are the deceased's siblings or more distant relatives.
+- id: m31-021
+  module: 31
+  lesson: "31.3"
+  subject: objection
+  difficulty: 2
+  question: >-
+    During the objection period, a man claiming to be the deceased's son from a relationship abroad files
+    an objection. What follows?
+  options:
+    - >-
+      The Registrar rejects it, because only heirs named in the application may object.
+    - >-
+      The Registrar holds a hearing and decides paternity within the objection period.
+    - >-
+      The file moves to the Family Court, and the applicant should consider advice.
+    - >-
+      The order is given, and the man may later sue the heirs for his share.
+  correct: 2
+  explanation: >-
+    Any interested person may object (s. 67), and an objection moves the file to the Family Court (s.
+    67א). A claimed unknown heir abroad is a red flag.
+- id: m31-022
+  module: 31
+  lesson: "31.3"
+  subject: renunciation
+  difficulty: 2
+  question: >-
+    In whose favour may an heir renounce his share before distribution?
+  options:
+    - >-
+      Anyone he names, including a friend or a charity.
+    - >-
+      Only the deceased's spouse, child or sibling.
+    - >-
+      Only his own children, as the next generation.
+    - >-
+      Only the heir with the largest share under the order.
+  correct: 1
+  explanation: >-
+    Section 6(ב) limits the favoured persons to the deceased's spouse, child or sibling; a conditional
+    renunciation is void (s. 6(ד)).
+- id: m31-023
+  module: 31
+  lesson: "31.3"
+  subject: will-found
+  difficulty: 2
+  question: >-
+    While preparing a succession application, you find your father's handwritten will in a drawer. It
+    gives more to your sister. What must you do?
+  options:
+    - >-
+      File the succession application anyway, since the will was not deposited.
+    - >-
+      Ask your sister whether she wants to rely on the will before deciding.
+    - >-
+      Keep the will until the succession order is given, then show it to the heirs.
+    - >-
+      Deliver the will to the Registrar at once; the file becomes a probate file.
+  correct: 3
+  explanation: >-
+    Anyone holding a will must deliver it to the Registrar immediately on learning of the death (s. 75);
+    failing to do so is an offence.
+- id: m31-024
+  module: 31
+  lesson: "31.3"
+  subject: deceased-heir
+  difficulty: 3
+  question: >-
+    In the first parent's estate, the surviving parent was an heir but has since died. Spot the mistake:
+    the application lists only the children as heirs "because father is dead now". What is wrong?
+  options:
+    - >-
+      The father was an heir at the first death and must be listed.
+    - >-
+      Nothing: heirs who died before the application are always left out of it.
+    - >-
+      The children should be listed as heirs of both parents in one combined line.
+    - >-
+      The application must be filed by the surviving parent's executor only.
+  correct: 0
+  explanation: >-
+    Shares are fixed at the time of death. The surviving parent took his share under s. 11, which now
+    passes through his own estate; leaving him out gives a wrong order.
+- id: m31-025
+  module: 31
+  lesson: "31.3"
+  subject: after-order
+  difficulty: 3
+  question: >-
+    The order is given. Your brother wants to sell the deceased's car before the bank account is released,
+    "so we have cash". The estate has a known debt to a credit company. What do you advise?
+  options:
+    - >-
+      Sell the car at once, because the order makes each heir free to deal with any asset.
+    - >-
+      Sell the car and divide the money, leaving the creditor to claim from the bank.
+    - >-
+      Deal with debts before distribution, and transfer or sell the car with both heirs' consent.
+    - >-
+      Ask the Registrar to sell the car and pay the creditor directly.
+  correct: 2
+  explanation: >-
+    Debts come before distribution (lesson 26.5), and an heir's right before distribution is in the
+    estate, not in a specific asset (s. 7). Both heirs act together on the car.
+- id: m31-026
+  module: 31
+  lesson: "31.3"
+  subject: appeal-period
+  difficulty: 1
+  question: >-
+    The Registrar rejects part of your application. How long do you have to appeal the decision?
+  options:
+    - >-
+      30 days from the decision, to the District Court.
+    - >-
+      15 days from service of the decision.
+    - >-
+      90 days from publication of the application.
+    - >-
+      There is no appeal; you must refile the application.
+  correct: 1
+  explanation: >-
+    An appeal from the Registrar's decision is filed within 15 days of service (reg. 46); see current
+    numbers.
+- id: m31-027
+  module: 31
+  lesson: "31.4"
+  subject: registration-applicant
+  difficulty: 1
+  question: >-
+    Who may apply to register a succession order in the Land Registry?
+  options:
+    - >-
+      Only all the heirs together, each signing before the registrar.
+    - >-
+      Only the heir with the largest share in the property.
+    - >-
+      Only a lawyer, through the Land Registry's online system.
+    - >-
+      Any interested person, such as one of the heirs.
+  correct: 3
+  explanation: >-
+    Registration of an inheritance is on the application of any interested person (reg. 17(ב)); an
+    unapproved distribution agreement is different and needs all heirs.
+- id: m31-028
+  module: 31
+  lesson: "31.4"
+  subject: where-to-file
+  difficulty: 1
+  question: >-
+    Where is the paper inheritance-registration request filed?
+  options:
+    - >-
+      At the Land Registry office where the land is registered.
+    - >-
+      At the Registrar of Inheritance office that gave the order.
+    - >-
+      At the municipality where the property is located.
+    - >-
+      At any Land Registry office in the country.
+  correct: 0
+  explanation: >-
+    Reg. 18(א) sends the request to the office where the land is registered.
+- id: m31-029
+  module: 31
+  lesson: "31.4"
+  subject: ila
+  difficulty: 2
+  question: >-
+    The extract shows the ILA as owner and no registered lease in your late father's name, though he paid
+    a long-term lease for decades. What is the right route?
+  options:
+    - >-
+      Register the succession order at the Land Registry, which will add the lease.
+    - >-
+      Apply to the municipality to record the heirs as holders for arnona.
+    - >-
+      Use the ILA's procedure for transferring rights by inheritance.
+    - >-
+      File a caveat in the heirs' favour on the ILA's ownership.
+  correct: 2
+  explanation: >-
+    If the lease is not registered, there is nothing at the Land Registry to update; the ILA keeps the
+    rights (lesson 13.2).
+- id: m31-030
+  module: 31
+  lesson: "31.4"
+  subject: distribution-agreement
+  difficulty: 2
+  question: >-
+    Spot the mistake: two of three registered heirs sign a distribution agreement giving one of them the
+    flat and file it at the registry. The third heir "agreed by phone". What will happen?
+  options:
+    - >-
+      It is registered, because two of three heirs form a majority.
+    - >-
+      It is refused, because an unapproved agreement needs all the heirs' application.
+    - >-
+      It is registered provisionally until the third heir objects in writing.
+    - >-
+      It is sent to the Registrar of Inheritance to issue an amended order.
+  correct: 1
+  explanation: >-
+    Reg. 17(ב): a distribution agreement not approved by a court is registered only on the application of
+    all heirs.
+- id: m31-031
+  module: 31
+  lesson: "31.4"
+  subject: online-route
+  difficulty: 2
+  question: >-
+    Which is the simplest registration route for an unrepresented heir whose order will be given by the
+    Registrar?
+  options:
+    - >-
+      Filing directly in the Land Registry's online system with a national ID login.
+    - >-
+      Asking the bank that holds the mortgage to register the heirs.
+    - >-
+      Waiting for the registry to register the heirs automatically from the order.
+    - >-
+      Ticking the land-registration request in the online order application.
+  correct: 3
+  explanation: >-
+    The online application to the Registrar can carry the land-registration request. Direct online filing
+    at the Land Registry is for lawyers, and registration is not automatic.
+- id: m31-032
+  module: 31
+  lesson: "31.4"
+  subject: buy-out-tax
+  difficulty: 3
+  question: >-
+    After registration, one sibling pays the other ₪800,000 for her half. Which statement is correct?
+  options:
+    - >-
+      It is a land transaction with tax declarations, and advice is needed before signing.
+    - >-
+      It is exempt, because transfers between heirs of the same estate are part of the inheritance.
+    - >-
+      It is registered as an inheritance, on the same fee as the original order.
+    - >-
+      It is valid only if the Registrar amends the order to give one sibling the whole flat.
+  correct: 0
+  explanation: >-
+    A buy-out for money between co-owners is a sale, with purchase and appreciation tax declarations
+    (lessons 25.6, 25.7). It is a clinic red flag.
+- id: m31-033
+  module: 31
+  lesson: "31.4"
+  subject: registrar-refusal
+  difficulty: 2
+  question: >-
+    The Land Registrar refuses your request on a legal point you think is wrong. What is your remedy?
+  options:
+    - >-
+      A complaint to the Administrator General, who supervises the registry.
+    - >-
+      An appeal to the Supreme Court, since registry decisions are administrative.
+    - >-
+      A ערר to the registration commissioner within the reg. 74 period.
+    - >-
+      A new request at a different registry office in another district.
+  correct: 2
+  explanation: >-
+    A registrar's decision is appealed by ערר to the registration commissioner within the period in reg.
+    74 (current numbers), then to the District Court.
+- id: m31-034
+  module: 31
+  lesson: "31.4"
+  subject: chain-of-orders
+  difficulty: 3
+  question: >-
+    The extract shows "grandfather ½, father ½". Both died; there is an order only for the father. What
+    blocks the heirs' full registration?
+  options:
+    - >-
+      Nothing, because the father's order covers everything the father would have inherited.
+    - >-
+      The grandfather's half needs its own order, possibly by paper if his heirs include siblings.
+    - >-
+      Only the registration fee, which is charged twice for two generations.
+    - >-
+      The father's order must be cancelled and replaced by one combined order.
+  correct: 1
+  explanation: >-
+    Every registered owner who died needs an order. The grandfather's estate must be declared, and if his
+    heirs include siblings or more distant relatives, Kol-Zchut reports paper filing only.
+- id: m31-035
+  module: 31
+  lesson: "31.4"
+  subject: after-registration
+  difficulty: 1
+  question: >-
+    After the heirs are registered, which step belongs in the file next?
+  options:
+    - >-
+      Deposit the new extract with the Registrar of Inheritance.
+    - >-
+      File a renunciation by the heirs who do not live in the flat.
+    - >-
+      Ask the Family Court to approve the registration.
+    - >-
+      Order a new extract and update the arnona holder.
+  correct: 3
+  explanation: >-
+    Check the register against the order, and update the arnona holder. Renunciation must come before
+    distribution, and no court approval is needed.
+- id: m31-036
+  module: 31
+  lesson: "31.5"
+  subject: refund-window
+  difficulty: 1
+  question: >-
+    In 2026, which tax years can an employee who was exempt from filing still claim?
+  options:
+    - >-
+      2020 to 2025.
+    - >-
+      2019 to 2025.
+    - >-
+      2021 to 2025.
+    - >-
+      Only 2025.
+  correct: 0
+  explanation: >-
+    The report for a year must be filed within six years after its end (s. 160(א)); in 2026 the open years
+    are 2020–2025, and 2020 closes on 31 December 2026.
+- id: m31-037
+  module: 31
+  lesson: "31.5"
+  subject: two-employers
+  difficulty: 1
+  question: >-
+    Why does a second job without tax coordination often produce a refund?
+  options:
+    - >-
+      Because the second employer pays National Insurance twice on the same wage.
+    - >-
+      Because credit points are given in full by each employer separately.
+    - >-
+      Because the second employer withholds at a high rate regardless of total income.
+    - >-
+      Because income from a second job is exempt up to the filing ceiling.
+  correct: 2
+  explanation: >-
+    Without coordination the second employer withholds at a high marginal rate; the annual computation
+    often shows overpayment.
+- id: m31-038
+  module: 31
+  lesson: "31.5"
+  subject: filing-exemption
+  difficulty: 2
+  question: >-
+    Before filing Form 135 for a year, what must you confirm first?
+  options:
+    - >-
+      That your employer agrees to the refund request.
+    - >-
+      That you were exempt from filing an annual return for that year.
+    - >-
+      That the refund exceeds the minimum the Tax Authority pays.
+    - >-
+      That your bank account is in Israel and in your sole name.
+  correct: 1
+  explanation: >-
+    Form 135 is for individuals exempt from filing. If you had to file a return and did not, the refund
+    depends on s. 160(ב) and lesson 25.8 applies.
+- id: m31-039
+  module: 31
+  lesson: "31.5"
+  subject: objection-period
+  difficulty: 1
+  question: >-
+    From when do you count the 30 days for an objection to an income-tax assessment?
+  options:
+    - >-
+      From the date printed on the assessment notice.
+    - >-
+      From the date you filed the refund request.
+    - >-
+      From the end of the tax year concerned.
+    - >-
+      From service of the assessment notice on you.
+  correct: 3
+  explanation: >-
+    Section 150(א): within 30 days of service of the notice. Keep proof of when it reached you.
+- id: m31-040
+  module: 31
+  lesson: "31.5"
+  subject: objection-content
+  difficulty: 2
+  question: >-
+    Spot the mistake in an objection: "I disagree with the assessment and ask you to reconsider it." What
+    is missing?
+  options:
+    - >-
+      Exact grounds for each disputed item, the evidence and the amount you say is right.
+    - >-
+      A copy of the assessing officer's personal details and a request for his supervisor.
+    - >-
+      A statement that you will appeal to the District Court if refused.
+    - >-
+      The signature of an accountant confirming the figures.
+  correct: 0
+  explanation: >-
+    An objection must set out the grounds exactly (s. 150(א)). State each item, its facts, evidence and
+    law, the undisputed amount, and ask to be heard.
+- id: m31-041
+  module: 31
+  lesson: "31.5"
+  subject: deemed-acceptance
+  difficulty: 2
+  question: >-
+    You objected on time. Years pass with no agreement and no order, beyond the s. 152(ג) period. What is
+    your position?
+  options:
+    - >-
+      You must file a new objection, because the first one lapsed.
+    - >-
+      You must appeal to the District Court before the officer issues an order.
+    - >-
+      The objection is treated as accepted; write to the office and say so.
+    - >-
+      The assessment becomes final, because silence means confirmation.
+  correct: 2
+  explanation: >-
+    If neither agreement nor order is made within the s. 152(ג) period, the objection is treated as
+    accepted.
+- id: m31-042
+  module: 31
+  lesson: "31.5"
+  subject: refund-companies
+  difficulty: 2
+  question: >-
+    A company offers to file your refund for 15% of the amount. Which is accurate?
+  options:
+    - >-
+      You must use a licensed company, because private persons cannot file Form 135.
+    - >-
+      You can file free yourself; paid representatives must be licensed.
+    - >-
+      The company's fee is deducted by the Tax Authority from the refund automatically.
+    - >-
+      A refund company is needed for years older than three years.
+  correct: 1
+  explanation: >-
+    The service is free and designed for individuals. Representation before the Tax Authority is limited
+    to lawyers, accountants and representing tax advisers (s. 236).
+- id: m31-043
+  module: 31
+  lesson: "31.5"
+  subject: factual-vs-legal
+  difficulty: 3
+  question: >-
+    The officer refused a donation credit "because the receipt does not show s. 46 approval", although the
+    charity appears on the Tax Authority's approved list. Which objection is strongest?
+  options:
+    - >-
+      An argument that donation credits should be given to all charities as a matter of policy.
+    - >-
+      A request to the charity to issue a new receipt dated this year.
+    - >-
+      A complaint that the officer did not phone you before deciding.
+    - >-
+      The printout showing the institution's approval, with the original receipts.
+  correct: 3
+  explanation: >-
+    The refusal is factual and fixable with a document that meets the officer's reason. A new receipt
+    dated this year would be for the wrong year.
+- id: m31-044
+  module: 31
+  lesson: "31.5"
+  subject: undisputed-amount
+  difficulty: 3
+  question: >-
+    Your 2023 assessment refunds part of your claim and refuses two items. Why state in the objection the
+    amount that is not in dispute?
+  options:
+    - >-
+      So the undisputed refund is not held up while the disputed items are decided.
+    - >-
+      Because the officer may otherwise reduce the undisputed part as well.
+    - >-
+      Because the objection fee is computed on the disputed amount only.
+    - >-
+      Because the District Court requires it before any appeal is heard.
+  correct: 0
+  explanation: >-
+    Separating the undisputed amount keeps the dispute narrow and the rest of the refund flowing. There is
+    no objection fee (⚠️ manual check).
+- id: m31-045
+  module: 31
+  lesson: "31.6"
+  subject: payment-order
+  difficulty: 1
+  question: >-
+    What turns "I cannot pay it all" into instalments that bind the creditor in an execution file?
+  options:
+    - >-
+      A letter to the creditor's lawyer explaining your situation.
+    - >-
+      A phone call to the call centre registering your hardship.
+    - >-
+      A payment-order request with a statement of means and documents.
+    - >-
+      A complaint to the Ombudsman about the creditor's conduct.
+  correct: 2
+  explanation: >-
+    The payment-order request under s. 7א, with the means questionnaire (form 21 content) and documents,
+    is what the registrar decides.
+- id: m31-046
+  module: 31
+  lesson: "31.6"
+  subject: period-limit
+  difficulty: 2
+  question: >-
+    A debtor owes ₪60,000 in one file. What is the longest a payment order can normally run?
+  options:
+    - >-
+      One year.
+    - >-
+      Three years.
+    - >-
+      Four years.
+    - >-
+      Seven years.
+  correct: 1
+  explanation: >-
+    Section 7א1(א): three years for a debt up to the threshold, four above it; see current numbers for
+    the figures.
+- id: m31-047
+  module: 31
+  lesson: "31.6"
+  subject: i-have-paid
+  difficulty: 1
+  question: >-
+    You paid ₪1,000 to the creditor's collection agent before the file was opened; the file does not show
+    it. What do you file?
+  options:
+    - >-
+      An opposition to the judgment, attaching the receipt.
+    - >-
+      Nothing; the payment will be credited when the file closes.
+    - >-
+      A new claim in small claims for the ₪1,000.
+    - >-
+      An "I have paid" request with the transfer confirmation.
+  correct: 3
+  explanation: >-
+    A debtor who claims to have paid all or part proves it in an "I have paid" request (s. 19); the
+    registrar decides the balance.
+- id: m31-048
+  module: 31
+  lesson: "31.6"
+  subject: paying-debtor
+  difficulty: 2
+  question: >-
+    How many consecutive payments under a registrar's payment order are needed to ask for paying-debtor
+    recognition?
+  options:
+    - >-
+      Three.
+    - >-
+      One.
+    - >-
+      Six.
+    - >-
+      Twelve.
+  correct: 0
+  explanation: >-
+    Section 69ב3: three consecutive payments under a payment order; one payment suffices under a
+    rules-based instalment direction.
+- id: m31-049
+  module: 31
+  lesson: "31.6"
+  subject: paying-debtor-effect
+  difficulty: 2
+  question: >-
+    What does recognition as a paying debtor do in the file?
+  options:
+    - >-
+      It cancels the interest that accrued since the judgment.
+    - >-
+      It closes the file and the creditor must sue again for the balance.
+    - >-
+      It stays or cancels bank and salary attachments in the file.
+    - >-
+      It moves the file to the insolvency track with a frozen balance.
+  correct: 2
+  explanation: >-
+    The registrar orders that bank, salary and most movable attachments not be imposed, or be stayed or
+    cancelled (s. 69ב7(2)), 30 days after notice to the creditor (s. 69ב9(ב)).
+- id: m31-050
+  module: 31
+  lesson: "31.6"
+  subject: protected-money
+  difficulty: 2
+  question: >-
+    Your child allowance was frozen in the attached account. The bank says it applies protections only
+    to wages. What is your next step?
+  options:
+    - >-
+      Wait a month, after which the protection of benefits ends anyway.
+    - >-
+      Ask the registrar to release it, with bank statements.
+    - >-
+      Ask the NII to pay future allowances in cash at the post office.
+    - >-
+      Open an opposition, since benefits cannot be attached in any file.
+  correct: 1
+  explanation: >-
+    NII benefits have their own protection, but not every protection is applied automatically. The
+    release request with documents is the route (lesson 28.2).
+- id: m31-051
+  module: 31
+  lesson: "31.6"
+  subject: insolvency-threshold
+  difficulty: 3
+  question: >-
+    A debtor has five files totalling ₪210,000 and can pay ₪1,500 a month. What does the clinic advise?
+  options:
+    - >-
+      A payment-order request in each file, at ₪300 each, for as long as it takes.
+    - >-
+      An "I have paid" request in each file to reduce the balance first.
+    - >-
+      A settlement letter to each creditor offering 10% in full settlement.
+    - >-
+      Assess the insolvency route with advice.
+  correct: 3
+  explanation: >-
+    ₪1,500 × 48 is ₪72,000, far short. When the debts cannot be repaid within the s. 7א1 periods, the
+    insolvency route applies (s. 7א2; lesson 28.5), and it is a red flag for advice.
+- id: m31-052
+  module: 31
+  lesson: "31.6"
+  subject: oral-settlement
+  difficulty: 3
+  question: >-
+    Spot the mistake: "The creditor's lawyer agreed by phone to ₪400 a month, so I stopped worrying about
+    the file." What should the debtor have done?
+  options:
+    - >-
+      Got the arrangement in writing and made sure the creditor notified the office under s. 19ב.
+    - >-
+      Recorded the call, because a recording binds the creditor in the execution file.
+    - >-
+      Paid the first instalment to the office, which converts the call into an order.
+    - >-
+      Nothing more, because an agreed arrangement takes effect when payment starts.
+  correct: 0
+  explanation: >-
+    A direct arrangement stops proceedings while kept, once the creditor notifies the office (s. 19ב).
+    Without that, measures continue.
+- id: m31-053
+  module: 31
+  lesson: "31.7"
+  subject: arnona-period
+  difficulty: 1
+  question: >-
+    How long do you have to object to the arnona director?
+  options:
+    - >-
+      30 days from receiving the payment notice.
+    - >-
+      60 days from the start of the billing year.
+    - >-
+      90 days from receiving the payment notice.
+    - >-
+      Until the end of the billing year.
+  correct: 2
+  explanation: >-
+    Arnona Appeals Law s. 3(א): 90 days from receiving the payment notice.
+- id: m31-054
+  module: 31
+  lesson: "31.7"
+  subject: arnona-grounds
+  difficulty: 1
+  question: >-
+    Which claim is outside the objection to the arnona director?
+  options:
+    - >-
+      The flat is in the wrong zone.
+    - >-
+      The arnona order's rates are discriminatory.
+    - >-
+      The storeroom is classified as residential.
+    - >-
+      You are not the holder of the property.
+  correct: 1
+  explanation: >-
+    Claims that the order or rates are illegal are outside the objection (s. 3(ב)) and go to a petition.
+- id: m31-055
+  module: 31
+  lesson: "31.7"
+  subject: holder-notice
+  difficulty: 2
+  question: >-
+    You moved out of a flat you rent in June and told the landlord but not the municipality. In October
+    you are billed. What applies?
+  options:
+    - >-
+      Liability ended in June, because the lease ended then.
+    - >-
+      Liability passes to the landlord automatically when a tenancy ends.
+    - >-
+      Liability continues until the end of the arnona year.
+    - >-
+      Liability ends only from your written notice to the municipality.
+  correct: 3
+  explanation: >-
+    A person who stops being holder must notify the municipality in writing and is not liable after the
+    notice (Municipalities Ordinance s. 325).
+- id: m31-056
+  module: 31
+  lesson: "31.7"
+  subject: measurement
+  difficulty: 2
+  question: >-
+    You measure your flat at 98 m² inside the walls; the bill says 106 m². What do you check before
+    objecting?
+  options:
+    - >-
+      Your authority's arnona order, which sets how area is counted.
+    - >-
+      The purchase contract, which binds the municipality on area.
+    - >-
+      The neighbours' bills, to compare their measured areas.
+    - >-
+      The Land Registry extract, which states the arnona area.
+  correct: 0
+  explanation: >-
+    The arnona order sets the measurement method (balconies, storerooms, external walls). Measure by it;
+    otherwise the objection fails.
+- id: m31-057
+  module: 31
+  lesson: "31.7"
+  subject: director-silence
+  difficulty: 2
+  question: >-
+    You objected on 1 June; the director has not answered by 15 August and no extension was given. What
+    follows?
+  options:
+    - >-
+      You must appeal within 30 days of 1 August.
+    - >-
+      The objection is treated as accepted.
+    - >-
+      The objection lapses and you must refile next year.
+    - >-
+      You must petition the court to compel an answer.
+  correct: 1
+  explanation: >-
+    Section 4: no answer within 60 days means the objection is accepted, unless the appeals committee
+    extended the period by up to 30 days.
+- id: m31-058
+  module: 31
+  lesson: "31.7"
+  subject: appeal-notice
+  difficulty: 3
+  question: >-
+    Spot the mistake in an arnona appeal: one signed copy, sent by email, stating the grounds and the
+    property. What is missing under the procedure regulations?
+  options:
+    - >-
+      The surveyor's report, which is mandatory with every appeal.
+    - >-
+      The municipality's consent to the appeal being heard.
+    - >-
+      Four copies, the answer's receipt date, and a request to appear.
+    - >-
+      A court fee and a lawyer's signature on the notice.
+  correct: 2
+  explanation: >-
+    The notice states five items, including the date of the director's answer and whether the appellant
+    asks to appear, and is filed in four copies (regs 2–3).
+- id: m31-059
+  module: 31
+  lesson: "31.7"
+  subject: discounts-lapse
+  difficulty: 3
+  question: >-
+    While your arnona objection is pending, why pay at least the undisputed part before 31 December?
+  options:
+    - >-
+      Because unpaid amounts prevent the director from answering the objection.
+    - >-
+      Because the objection is void if any arnona remains unpaid.
+    - >-
+      Because the appeals committee charges a fee on unpaid sums.
+    - >-
+      Because discounts can lapse if the year is not fully paid by 31 December.
+  correct: 3
+  explanation: >-
+    Under the discount regulations a discount may lapse if the year is not fully paid by 31 December
+    (lesson 27.8). Paying the undisputed part protects it.
+- id: m31-060
+  module: 31
+  lesson: "31.8"
+  subject: closing-check
+  difficulty: 1
+  question: >-
+    The refund arrived. What does closing the tax matter require?
+  options:
+    - >-
+      Comparing each year's amount with the request.
+    - >-
+      Nothing: once money arrives the assessment cannot be wrong.
+    - >-
+      Sending a thank-you letter to the assessing officer for the file.
+    - >-
+      Filing an objection to confirm the refund amount.
+  correct: 0
+  explanation: >-
+    Check per year against the request; if a claim was cut, object within 30 days of the assessment.
+- id: m31-061
+  module: 31
+  lesson: "31.8"
+  subject: surviving-dates
+  difficulty: 2
+  question: >-
+    Which date belongs in the closing memo of a will-and-power matter?
+  options:
+    - >-
+      The date the will expires and must be redeposited.
+    - >-
+      Review triggers such as a new grandchild or a sale of the flat.
+    - >-
+      The date by which the executor must confirm the will with the Registrar.
+    - >-
+      The date the power of attorney lapses unless renewed in court.
+  correct: 1
+  explanation: >-
+    A will does not expire; it should be reviewed on life events. Until the power takes effect, the
+    Administrator General reminds the grantor periodically (s. 32כא(ב)).
+- id: m31-062
+  module: 31
+  lesson: "31.8"
+  subject: red-flags
+  difficulty: 2
+  question: >-
+    Which is a year-3 red flag rather than an amber sign?
+  options:
+    - >-
+      The arnona appeals committee hearing is in another part of the city.
+    - >-
+      The assessing officer asks for a meeting to discuss your objection.
+    - >-
+      A year in which you had to file a tax return and did not.
+    - >-
+      The Registrar asks for a missing document after you filed.
+  correct: 2
+  explanation: >-
+    A missed required return is a lesson 25.8 matter and a red flag. The others are ordinary steps in a
+    self-run file.
+- id: m31-063
+  module: 31
+  lesson: "31.8"
+  subject: decision-rule
+  difficulty: 3
+  question: >-
+    In a land matter the other heir has a lawyer, and you cannot get a document he holds. No red flag
+    applies. Under the course's rule, what do you do?
+  options:
+    - >-
+      Continue alone, since amber signs never require outside help.
+    - >-
+      Ask the other heir's lawyer to advise you on the document.
+    - >-
+      Stop the matter entirely until the other heir agrees.
+    - >-
+      Get at least one consultation, bringing the one-page summary.
+  correct: 3
+  explanation: >-
+    Two amber signs (a represented other side and facts you cannot prove without the other side's
+    documents) mean at least one consultation. His lawyer acts for him, not you.
+- id: m31-064
+  module: 31
+  lesson: "31.8"
+  subject: relatives
+  difficulty: 3
+  question: >-
+    After your clinic, three cousins ask you to file their parents' succession applications for a small
+    fee. What is the right answer?
+  options:
+    - >-
+      Decline; explain the steps and point them to the free services.
+    - >-
+      Accept, because the Registrar's online system is designed for unrepresented people.
+    - >-
+      Accept without a fee, since only paid representation is reserved to lawyers.
+    - >-
+      Accept, if each cousin signs a power of attorney in your favour.
+  correct: 0
+  explanation: >-
+    Representing others before the Registrar and drafting legal documents for them is reserved to lawyers
+    (s. 20); a fee or a power of attorney does not change that. Explain and point instead.

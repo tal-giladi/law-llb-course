@@ -29,9 +29,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **איחוד עילות** (Ichud ilot) — Joinder of all causes of action from the same facts in one claim (reg. 24).
 - **איחוד תיקים** (ichud tikim) — Consolidation of a debtor's execution files under one payment order (ss. 74א–74טו1).
 - **אימוץ הורה שני** (Imutz hore sheni) — Second-parent adoption of a partner's child (Yaros-Hakak).
+- **אימות חתימה** (imut hatima) — Verification of a signature, by a lawyer or a registry official, on a land-registry request.
 - **אין להשיב לאשמה** (ein lehashiv la'ashma) — "No case to answer": acquittal at the end of the prosecution case when guilt is not proved even prima facie (CPL s. 158).
 - **אין עונשין למפרע** (Ein onshin le-mafre'a) — No retroactive punishment (s. 3).
 - **איסור פרסום** (issur pirsum) — Publication ban.
+- **אישור הפקדה** (ishur hafkada) — Deposit certificate issued when a will is deposited with the Registrar of Inheritance.
 - **אישיות משפטית נפרדת** (Ishiyut mishpatit nifredet) — Separate legal personality of a company (Companies Law s. 4).
 - **אכיפה** (akhifa) — enforcement (specific performance), including orders to pay (Remedies Law s. 3).
 - **אם נושאת** (Em nos'et) — Gestational surrogate.
@@ -84,6 +86,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בקשה להישפט** (bakasha lehishafet) — Request to be tried for a fine offence, within 90 days of service (CPL s. 229(א)(2)).
 - **בקשה ליישוב סכסוך** (Bakasha le-yishuv sikhsukh) — The bare request that must precede any contested family claim (2014 Law).
 - **בקשה לעיון מחדש** (Bakasha le-iyun mehadash) — Request for reconsideration of an administrative decision.
+- **בקשה לרישום ירושה** (bakasha le-rishum yerusha) — Application to the Land Registry to register an inheritance (a succession or probate order, distribution agreement or order) in place of the deceased (Land Management and Registration Regulations regs 17–18).
 - **ברירת הדין** (breirat ha-din) — Choice of law: deciding which State's law governs an issue.
 - **ברירת משפט** (breirat mishpat) — Choice of trial: the procedure for fine offences, letting the recipient pay, ask to cancel or ask to be tried (CPL ss. 228–230).
 - **ברית הזוגיות** (Brit ha-zugiyut) — Couples Covenant for a man and a woman both registered as having no religion (2010 Law).
@@ -147,6 +150,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דעת מיעוט** (da'at mi'ut) — Dissenting opinion.
 - **דעת רוב** (da'at rov) — Majority opinion.
 - **דעת רוב / דעת מיעוט** (da'at rov / da'at mi'ut) — majority opinion / minority (dissenting) opinion.
+- **דף מדידה** (daf medida) — The municipality's arnona measurement sheet for a property.
 - **דרישת הכתב** (drishat ha-ktav) — writing requirement (for example Land Law s. 8).
 - **דרך מקובלת** (derekh mekubelet) — customary manner, paired with good faith in ss. 12 and 39.
 - **האזנת סתר** (Ha'azanat seter) — Secret eavesdropping: listening to a conversation without the consent of any of its parties; a crime (Eavesdropping Law ss. 1–2).
@@ -161,9 +165,11 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הודאת סילוק** (Hoda'at silluk) — Final-settlement waiver; for severance valid only in writing and expressly (s. 29).
 - **הודיה חופשית ומרצון** (hodaya chofshit umeratzon) — Free and voluntary confession, the condition of admissibility in s. 12.
 - **הודיית בעל דין** (hodayat ba'al din) — Admission of a party: the opposing party's own statement, admissible against him.
+- **הודעה ליורשים** (hoda'a la-yorshim) — Notice of a succession or probate application to the other heirs, on the prescribed form, with proof of delivery.
 - **הודעה לצד שלישי** (Hoda'a letzad shlishi) — Third-party notice by a defendant seeking contribution or indemnity (regs 22–23).
 - **הודעה מוקדמת** (Hoda'a mukdemet) — Prior notice of dismissal or resignation; pay in lieu (חלף הודעה מוקדמת) if not given.
 - **הודעה נלווית** (Hoda'a nilvet) — Accompanying notice (Form 4) filed with a family claim after the stay.
+- **הודעה על חדילה להחזיק** (hoda'a al hadila lehachzik) — Written notice to the municipality that one has ceased to hold a property; arnona liability ends only after it (Municipalities Ordinance s. 325).
 - **הודעה על תנאי עבודה** (Hoda'a al tna'ei avoda) — Written notice of terms of employment, due within 30 days of starting.
 - **הודעת חוב** (hoda'at chov) — Debt notice a dealer must send a consumer before collection (Consumer Protection Law s. 13ב2).
 - **הודעת חילול** (hoda'at chilul) — Notice of dishonour: notice to drawer and endorsers that a bill was dishonoured (ss. 47–49).
@@ -396,6 +402,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חייב** (Chayav) — Judgment debtor in an execution file.
 - **חייב בעל יכולת המשתמט** (chayav ba'al yecholet hamishtamet) — Debtor with means who evades payment; a debtor who does not appear for a means inquiry is deemed one (s. 67(ד)).
 - **חייב מוגבל באמצעים** (chayav mugbal be'emtza'im) — "Limited means debtor"; no new declarations since 15.9.2019 (s. 69י1).
+- **חייב משלם** (hayav meshalem) — Paying debtor: a debtor recognised after three consecutive payments under a payment order (or one under a rules-based direction), whose bank and salary attachments in the file are then stayed or cancelled (Execution Law ss. 69ב3–69ב7).
 - **חיסיון** (Chisayon) — Privilege, e.g. lawyer–client (Evidence Ordinance s. 48).
 - **חיסיון יחסי / מוחלט** (chisayon yachasi / muchlat) — Relative privilege (the court may lift it, e.g. doctor, psychologist) / absolute privilege (only the holder waives, e.g. lawyer–client).
 - **חיסיון עיתונאי** (chisayon itona'i) — Journalist's source privilege, a relative case-law privilege (Citrin, MP 298/86).
@@ -431,6 +438,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ידועים בציבור** (Yedu'im ba-tzibur) — Cohabitants known in public as a couple: family life and a joint household.
 - **ידיד קרוב** (Yedid karov) — Close friend, who may represent a claimant before the NII (NII Law s. 386).
 - **ידיעה שיפוטית** (yedi'a shiputit) — Judicial notice: facts and law the court takes without proof; every Israeli law is judicially noticed (s. 57ב), foreign law must be proved.
+- **יומן מועדים** (yoman mo'adim) — Deadline diary: each deadline with the event it runs from and the proof of that event's date.
 - **יומן תיק** (Yoman tik) — Case log: a running record of every step, communication and deadline in a dispute.
 - **יורש אחר יורש** (yoresh ahar yoresh) — Successive heir who takes what remains after the first heir (s. 42).
 - **יורש על פי דין** (yoresh al pi din) — Heir on intestacy: the spouse and the relatives listed in Succession Law s. 10.
@@ -495,9 +503,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מגשר** (megasher) — mediator.
 - **מדרג הנורמות** (Midrag ha-normot) — The hierarchy of norms: by-law, regulation, statute, Basic Law.
 - **מובא אצל** (Muva etzel) — "Quoted in": the way to cite a source known only through another author's citation.
+- **מוטב** (mutav) — Beneficiary named in a pension fund, provident fund or insurance policy; benefits paid to a named beneficiary are generally outside the estate (Succession Law s. 147).
 - **מומחה מטעם בית המשפט** (mumche mita'am beit hamishpat) — Court-appointed expert (CPR reg. 88); appointment with the parties' consent usually excludes party opinions.
+- **מוסד ציבורי מאושר** (mosad tziburi me'ushar) — Public institution approved under Income Tax Ordinance s. 46, donations to which earn a tax credit.
 - **מוסד תכנון** (mosad tikhnun) — Planning institution under the Planning and Building Law 1965: the National Council, district, local, special and joint committees.
 - **מועד קובע** (mo'ed kove'a) — Fatal deadline: a period whose expiry ends a right or a route (e.g. the 30-day NII medical appeal).
+- **מועד שורד** (mo'ed shored) — Surviving deadline: a date that outlives the matter (review trigger, renewal, last instalment).
 - **מועדים שורדים** (mo'adim sordim) — Surviving deadlines: dates that outlive the case and need action later.
 - **מוריש** (morish) — The deceased whose estate passes on death (Succession Law s. 1).
 - **מורשת ישראל** (moreshet yisrael) — the Jewish heritage, a source named in the Foundations of Law Act.
@@ -580,6 +591,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מרכיבי היסוד** (markivei ha-yesod) — The "basic elements" of each will form, required before a defect can be cured (s. 25(ב)).
 - **מרקם פתוח** (Mirkam patu'ah) — Open texture: the zone of doubtful cases (penumbra) around a rule's clear core.
 - **מרשם החייבים המשתמטים** (mirsham hachayavim hamishtamtim) — Register of debtors with means who evade payment (Execution Law s. 66ה).
+- **מרשם נכסים ומסמכי בעלות** (mirsham nekhasim u-mismakhei ba'alut) — Asset and title register: the clinic file's list of each asset, where it is recorded, its identifiers and the document proving the registered owner.
 - **משדל** (Meshadel) — Inducer (instigator) (s. 30).
 - **משכון** (Mashkon) — Pledge: a charge on an asset as security for a debt (Pledges Law s. 1).
 - **משנה** (Mishnah) — The first code of the Oral Law, edited about 200 CE.
@@ -641,6 +653,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **סיוע בשכר דירה** (Siyua bi-schar dira) — Rent assistance from the Ministry of Construction and Housing.
 - **סייג לאחריות פלילית** (Seyag le-ahrayut plilit) — Exemption (defence) from criminal liability (Penal Law chapter ה1).
 - **סיכול** (sikul) — frustration (s. 18).
+- **סיכום סגירת תיק** (sikum sgirat tik) — Closing memo: outcome, money, documents, surviving dates, lessons and archive for a finished matter.
 - **סיכומים** (Sikumim) — Summations (reg. 74).
 - **סימן 46** (siman 46) — art. 46 of the Order in Council, which imported English common law and equity until 1980.
 - **סמכויות עזר** (Samchuyot ezer) — Ancillary powers reasonably needed to exercise a power (Interpretation Law s. 17).
@@ -675,6 +688,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עיון במסמכים** (Iyun bamismachim) — Inspection of disclosed documents (reg. 58).
 - **עיון חוזר** (iyun chozer) — Request for review of a detention or bail decision on new facts, changed circumstances or the passage of time (Arrests Law s. 52).
 - **עיזבון** (izavon) — The estate: the deceased's assets and debts.
+- **עיזבון שלא חולק** (izavon she-lo hulak) — Undistributed estate; before distribution an heir holds a share in the estate, not in a specific asset (Succession Law s. 7).
 - **עיכבון** (Ikavon) — Lien: a right under law to keep movables until a debt is paid (Movable Property Law s. 11).
 - **עיכוב** (ikuv) — Detention on the spot: a short police stop on reasonable suspicion to identify, question or hand documents, at most three hours (Arrests Law ss. 67, 73).
 - **עיכוב ביצוע** (Ikuv bitzu'a) — Stay of execution; not automatic on appeal (CPR reg. 145).
@@ -722,6 +736,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ערעור מס** (ir'ur mas) — Tax appeal to the District Court (ITO s. 153; VAT Law s. 83).
 - **ערעור שכנגד** (Ir'ur shekeneged) — Cross-appeal (reg. 137(ב)).
 - **ערר** (erer) — appeal to an appeals committee or tribunal.
+- **ערר לממונה על המרשם** (arar la-memune al ha-mirsham) — Appeal to the registration commissioner against a Land Registrar's decision (reg. 74).
 - **עשיית עושר ולא במשפט** (Asiyat osher ve-lo be-mishpat) — Unjust enrichment: a benefit received from another without a legal basis must be returned.
 - **עתירה** (Atira) — Petition, to the High Court of Justice or the Administrative Affairs Court.
 - **עתירה מינהלית** (Atira minhalit) — Administrative petition in the Administrative Affairs Court.

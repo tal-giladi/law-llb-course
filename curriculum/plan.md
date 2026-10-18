@@ -14,7 +14,7 @@ Status: approved direction (Tal, 2026-10-16): a new course, separate from `activ
 | Repo | `tal-giladi/law-llb-course`, public |
 | Language | My choice for accuracy: English prose; Israeli statutes, rulings, forms and templates quoted in Hebrew (same as the activist course, which Tal approved on 2026-10-12). This is the one deviation from "English only". |
 | Relation to activist course | Standalone. No links to `activist-law-course`; some overlap is accepted. |
-| Scope now | Years 1–2 (modules 1–22) written 2026-10-17; year 3 (modules 23–31) being written. Year 4 later. |
+| Scope now | Years 1–3 (modules 1–31) written by 2026-10-18. Year 4 later. |
 | Practice | Besides the university curriculum, as many practice sections as possible, so a learner can act for themselves without a lawyer wherever Israeli law allows it. |
 
 ## 1. Purpose and honest positioning

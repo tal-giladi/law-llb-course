@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your succession order has arrived. It lists you and your brother as heirs in equal shares, but your
+    share table gave your late father's sister nothing and the order agrees. What else must you check
+    before closing?
+  options:
+    - >-
+      Nothing: once the Registrar gives an order, the land register is updated automatically.
+    - >-
+      That the bank has recalculated the estate's value for the inheritance tax due on the order.
+    - >-
+      That an updated extract shows each heir registered in the order's shares, with no deceased owner.
+    - >-
+      That the Family Court has approved the order, since Registrar orders need court confirmation.
+  correct: 2
+  explanation: >-
+    An order does not change the land register by itself; the heirs' registration must be checked on a
+    new extract. Israel has no inheritance tax, and Registrar orders need no court confirmation.
+- id: q2
+  question: >-
+    The payment order in your execution file runs for 30 months and you were recognised as a paying
+    debtor. Which item belongs in your closing memo's surviving dates?
+  options:
+    - >-
+      The monthly payment date and the last instalment, since missed payments undo the protection.
+    - >-
+      Nothing, because recognition as a paying debtor closes the file and ends the debt.
+    - >-
+      The date by which you may stop paying if the creditor does not report your payments.
+    - >-
+      A reminder to file a new payment-order request every year to keep the order alive.
+  correct: 0
+  explanation: >-
+    Recognition depends on payment under the order (ss. 69ב3–69ב9). Keep a standing order to the last
+    instalment and then ask for the file to be closed.
+- id: q3
+  question: >-
+    Closing your tax file, you see that the assessment refunded 2023 but cut ₪1,900 you claimed for
+    donations, without reasons. The notice reached you 12 days ago. What do you do?
+  options:
+    - >-
+      Close the file, because a refund that has been paid cannot be reopened.
+    - >-
+      File an objection with the receipts and the institution's approval within the 30 days.
+    - >-
+      Claim the ₪1,900 again in next year's refund request as a carried-forward credit.
+    - >-
+      Appeal to the District Court, since the assessment gave no reasons for the cut.
+  correct: 1
+  explanation: >-
+    An assessment that cuts a claim is challenged by an objection within 30 days of service (s. 150(א)),
+    and must give reasons (s. 158א). The appeal comes only after an order on the objection.
+- id: q4
+  question: >-
+    You and your sister are now registered owners of your late parents' flat. She wants to buy your half,
+    and your aunt asks you to "do her husband's succession file the same way". Which is right?
+  options:
+    - >-
+      Sign the buy-out yourselves, and file your uncle's succession application in your own name.
+    - >-
+      Treat both as routine: the buy-out is part of the inheritance and the aunt can sign a power of attorney.
+    - >-
+      Refuse both, because registered heirs may not sell to each other for three years.
+    - >-
+      Get advice before the taxable buy-out, and help your aunt understand the steps while she files herself.
+  correct: 3
+  explanation: >-
+    A buy-out between heirs is a taxable land transaction (red flag). Your aunt's matter is hers: you may
+    explain and point to the templates, but running it for her is reserved to lawyers (s. 20).

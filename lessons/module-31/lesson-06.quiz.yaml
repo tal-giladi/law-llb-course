@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Your account was attached in your execution file and this month's salary and child allowance are
+    frozen. What is your first move about the frozen money?
+  options:
+    - >-
+      Ask the bank, then the registrar, to release the protected wages and benefits, with statements.
+    - >-
+      Open a new account at another bank and ask your employer to pay your salary there.
+    - >-
+      Wait for the payment order, since an approved order releases all frozen money automatically.
+    - >-
+      File an opposition to the judgment, which suspends every attachment in the file.
+  correct: 0
+  explanation: >-
+    Protected wages (Wage Protection Law s. 8) and NII benefits stay protected after reaching the bank,
+    but not every protection is applied automatically. Ask the bank, then file a release request with
+    the statements.
+- id: q2
+  question: >-
+    Your documented budget leaves ₪700 a month and the file stands at ₪20,000 with no other files. You
+    are tempted to offer ₪1,500 to "look serious". What should you offer?
+  options:
+    - >-
+      ₪1,500, because the registrar rejects offers that take more than one year to repay.
+    - >-
+      ₪700 or a little less, because it fits the three-year limit and you can keep it.
+    - >-
+      Nothing, and ask the registrar to set an amount after a hearing on your means.
+    - >-
+      ₪100 as a first offer, expecting the creditor to negotiate it upwards.
+  correct: 1
+  explanation: >-
+    ₪700 × 36 is ₪25,200, enough to repay ₪20,000 within the three-year period for a debt of this size
+    (s. 7א1). An offer above the budget leads to default and the measures return.
+- id: q3
+  question: >-
+    You have made three consecutive monthly payments under your payment order, but your salary is still
+    attached in the file. What can you ask for?
+  options:
+    - >-
+      Nothing more until the debt is fully repaid, when the attachment lapses by itself.
+    - >-
+      Cancellation of the judgment, because three payments prove you were never in default.
+    - >-
+      Recognition as a paying debtor, so bank and salary attachments are stayed or cancelled.
+    - >-
+      A transfer of the file to the Insolvency Commissioner to freeze all proceedings.
+  correct: 2
+  explanation: >-
+    Three consecutive payments under a payment order meet the paying-debtor threshold (s. 69ב3); the
+    registrar then orders that bank and salary attachments be stayed or cancelled (s. 69ב7), effective 30
+    days after notice to the creditor.
+- id: q4
+  question: >-
+    The creditor's lawyer tells you by phone that ₪6,000 within a month will settle the file. You pay.
+    Two weeks later your account is attached again. What went wrong?
+  options:
+    - >-
+      The settlement was void, because only the registrar may agree to a discount on a judgment.
+    - >-
+      You should have paid into the file's bank account rather than to the creditor's lawyer.
+    - >-
+      Nothing: once paid, attachments cannot be imposed until the registrar holds a hearing.
+    - >-
+      The arrangement was never put in writing and reported to the office under s. 19ב.
+  correct: 3
+  explanation: >-
+    A direct arrangement stops proceedings when the creditor notifies the office (s. 19ב). Get it in
+    writing, and if needed file an "I have paid" request with the transfer confirmation (s. 19).

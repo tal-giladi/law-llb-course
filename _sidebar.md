@@ -328,3 +328,13 @@
   - [257 · International online purchases and cross-border disputes](lessons/module-30/lesson-06.md)
   - [258 · Practice lab: a foreign judgment and an international purchase dispute](lessons/module-30/lesson-07.md)
   - [Module 30 quiz](assessments/module-30-quiz.md)
+- **Module 31 — Clinic III: Property, Estates and Money (about 30 hours)**
+  - [259 · Choosing the matter and building the file](lessons/module-31/lesson-01.md)
+  - [260 · Your own will and enduring power of attorney](lessons/module-31/lesson-02.md)
+  - [261 · A succession order from start to finish](lessons/module-31/lesson-03.md)
+  - [262 · Registering rights in land](lessons/module-31/lesson-04.md)
+  - [263 · A tax refund and an objection](lessons/module-31/lesson-05.md)
+  - [264 · Defending an execution file and reaching an arrangement](lessons/module-31/lesson-06.md)
+  - [265 · An arnona objection from start to finish](lessons/module-31/lesson-07.md)
+  - [266 · Closing the file and when to get a lawyer](lessons/module-31/lesson-08.md)
+  - [Module 31 quiz](assessments/module-31-quiz.md)
