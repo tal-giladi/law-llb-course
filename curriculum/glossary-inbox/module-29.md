@@ -1,0 +1,38 @@
+- **שטר חליפין** (shtar chalifin) — Bill of exchange: an unconditional written order to pay a fixed sum (Bills of Exchange Ordinance s. 3).
+- **שיק** (shek) — Cheque: a bill of exchange drawn on a banker and payable on demand (s. 73).
+- **שיק דחוי** (shek dachuy) — Post-dated cheque: payable only from the date written on it (s. 73(ב)).
+- **שטר חוב** (shtar chov) — Promissory note: the maker's unconditional written promise to pay (s. 84).
+- **מושך / נמשך / נפרע** (moshech / nimshach / nifra) — Drawer / drawee (the bank) / payee of a bill or cheque.
+- **היסב** (hesev) — Endorsement: signature on a bill transferring it; the endorser becomes liable (ss. 31, 55).
+- **אוחז** (ochez) — Holder: payee or endorsee in possession of a bill, or its bearer (s. 1).
+- **אוחז כשורה** (ochez ka-shura) — Holder in due course: takes a regular bill before overdue, in good faith, for value and without notice; free of personal defences (ss. 28, 37).
+- **אוחז בעד ערך** (ochez be'ad erech) — Holder for value: since Tal Trading (2015, 2017) not protected against the drawer's personal defences unless also in due course.
+- **צדדים סמוכים** (tzdadim smuchim) — Immediate parties to a bill, such as drawer and payee; all defences from the deal are open between them.
+- **כישלון תמורה** (kishlon tmura) — Failure of consideration (total or partial): a personal defence on a bill.
+- **ערבות לשטר (אוואל)** (arvut la-shtar) — Bill guarantee (aval): created by "ערב" and a signature; joint and several liability (s. 57).
+- **שרטוט** (sirtut) — Crossing: two parallel lines on a cheque; paid only through a bank (ss. 76, 79).
+- **לא סחיר** (lo sachir) — "Not negotiable" on a crossed cheque: the taker gets no better title than his transferor (s. 81).
+- **למוטב בלבד** (la-mutav bilvad) — "To the payee only": words prohibiting transfer of a cheque (s. 7(א)).
+- **הודעת חילול** (hoda'at chilul) — Notice of dishonour: notice to drawer and endorsers that a bill was dishonoured (ss. 47–49).
+- **שיק שסורב** (shek she-sorav) — Refused (bounced) cheque: refused for insufficient balance, even with a stop order (Cheques Without Cover Law s. 1).
+- **חשבון מוגבל / לקוח מוגבל** (cheshbon mugbal / lako'ach mugbal) — Restricted account / customer: after a set count of refused cheques in twelve months; one year (ss. 2, 3ב).
+- **לקוח מוגבל חמור** (lako'ach mugbal chamur) — Aggravated-restricted customer: all accounts restricted for two years (ss. 3, 3ב).
+- **לקוח מוגבל מיוחד** (lako'ach mugbal meyuchad) — Special-restricted customer: restricted by the execution registrar, fines centre, bankruptcy or rabbinical court (s. 3ג).
+- **הוראת ביטול** (hora'at bitul) — Stop order on a cheque; ends the bank's authority to pay (Bills Ordinance s. 75).
+- **חברת ניכיון** (chevrat nikayon) — Cheque-discounting company: buys post-dated cheques at a discount.
+- **רשם המשכונות** (rasham ha-mashkonot) — Registrar of Pledges, at the Israel Corporations Authority (Ministry of Justice).
+- **דוח עיון** (doch iyun) — Online pledges search report; not an official registration report (Pledges Regulations reg. 13א).
+- **מכתב סילוק** (michtav siluk) — Payoff letter from a lender stating the balance needed to release a pledge or mortgage.
+- **מימוש משכון** (mimush mashkon) — Realisation of a pledge: by court or execution order, or by an institutional body in listed cases (Pledges Law s. 17).
+- **פדיון משכון** (pidyon mashkon) — Redemption of a pledge by paying the secured debt (s. 13).
+- **תעריפון** (ta'arifon) — A bank's published fee schedule (Banking (Service to Customer) Law s. 9ט).
+- **התניית שירות בשירות** (hatnayat sherut be-sherut) — Tying one banking service to another; prohibited without a reasonable business connection (s. 7).
+- **הפעלת השפעה בלתי הוגנת** (haf'alat hashpa'a bilti hogenet) — Unfair influence on a consumer (Consumer Protection Law s. 3).
+- **הרשות להגנת הצרכן ולסחר הוגן** (ha-rashut le-haganat ha-tzarchan ve-la-sachar hogen) — Consumer Protection and Fair Trade Authority, headed by the Commissioner (s. 19א).
+- **עיצום כספי** (itzum kaspi) — Financial sanction imposed by a regulator.
+- **שיעור העלות הממשית של האשראי** (shi'ur ha-alut ha-mamashit shel ha-ashrai) — Real cost of credit: all additions as an annual rate on the amount received (Fair Credit Law s. 1).
+- **שיעור העלות המרבית של האשראי** (shi'ur ha-alut ha-mirbit shel ha-ashrai) — Maximum cost of credit: the Bank of Israel rate plus a fixed margin (Fair Credit Law, First Schedule).
+- **העמדה לפירעון מיידי** (ha'amada le-pira'on miyadi) — Acceleration of a loan; needs grounds and a prior warning (Fair Credit Law s. 7).
+- **דוח ריכוז נתונים** (doch rikuz netunim) — Credit-data summary report: free once a year from the Bank of Israel (Credit Data Law s. 38).
+- **לשכת אשראי** (lishkat ashrai) — Credit bureau licensed under the Credit Data Law.
+- **הודעת חוב** (hoda'at chov) — Debt notice a dealer must send a consumer before collection (Consumer Protection Law s. 13ב2).

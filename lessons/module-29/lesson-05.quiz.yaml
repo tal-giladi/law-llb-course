@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A bank refuses to open a current account for a new immigrant who will keep it in credit and wants no
+    overdraft. It gives no reason. Which rule applies?
+  options:
+    - >-
+      None: a bank may choose its customers freely under general contract law.
+    - >-
+      The Cheques Without Cover Law, which decides who may open any account.
+    - >-
+      Banking Law s. 2: no unreasonable refusal of an account in credit.
+    - >-
+      Section 7, because refusing an account is a form of tying.
+  correct: 2
+  explanation: >-
+    Section 2(א)(2) forbids an unreasonable refusal to open and run a current account in credit; there is no
+    duty to give credit, but an account in credit is a protected service.
+- id: q2
+  question: >-
+    Your bank charged you a "branch withdrawal" fee for a withdrawal you made at an ATM, which your track
+    covers free. What is the most precise legal basis for a refund?
+  options:
+    - >-
+      Fees only for a service actually given, per the tariff and your track.
+    - >-
+      The Consumer Protection Law's exemplary damages for each overcharge.
+    - >-
+      The Standard Contracts Law, because every bank fee clause is depriving.
+    - >-
+      The Supervisor of Banks' power to set the bank's whole tariff.
+  correct: 0
+  explanation: >-
+    Sections 9י–9י3 limit fees to services in the tariff, actually given, at no more than the tariff or the
+    agreed rate. Matching the fee to the tariff item is the strongest argument.
+- id: q3
+  question: >-
+    You complained to the Bank of Israel about a wrong fee. Seven years after it was charged, still waiting for
+    the outcome, you want to sue. What is the risk?
+  options:
+    - >-
+      None, because limitation stops while the Supervisor investigates.
+    - >-
+      None, because the Supervisor's finding gives you a new cause of action with a new period.
+    - >-
+      Only that the bank may ask the court to wait for the Supervisor's decision.
+    - >-
+      The claim may be time-barred, because a complaint does not extend any statutory period.
+  correct: 3
+  explanation: >-
+    Section 16(ד) says the Supervisor's findings create no new right and that filing or investigating a
+    complaint does not extend a period set by law. File in court in time if you need to.
+- id: q4
+  question: >-
+    A bank tells a customer that it will approve a ₪30,000 personal loan only if she also opens a three-year
+    savings plan with the bank. What is the best description?
+  options:
+    - >-
+      Lawful, because a bank may refuse credit for any reason.
+    - >-
+      Prohibited tying, unless loan and plan have a reasonable business link.
+    - >-
+      Lawful if the savings plan pays at least the market interest rate.
+    - >-
+      Prohibited only if the customer is over 65 or speaks no Hebrew.
+  correct: 1
+  explanation: >-
+    Section 7(א) forbids conditioning a service on buying another service unless there is a reasonable business
+    connection. Section 4 (exploitation) is a separate ground, not a condition of s. 7.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You bought a used car from a private seller and paid in full. Two months later a finance company
+    shows you a pledge on the car, registered a year before your purchase. What is the legal position?
+  options:
+    - >-
+      It binds you: a registered pledge is effective against later buyers and creditors.
+    - >-
+      The pledge is void against you, because you bought in good faith and paid market price.
+    - >-
+      The pledge binds you only if the seller disclosed it to you before the sale.
+    - >-
+      The finance company may only sue the seller, never realise the car itself.
+  correct: 0
+  explanation: >-
+    A registered pledge is effective against other creditors and later takers (s. 4(3)). Your remedy is
+    against the seller; next time search by licence number before paying.
+- id: q2
+  question: >-
+    A loan agreement from a small lender says: "On default the lender may take the car and sell it as it sees
+    fit, without any court or execution order." The lender is not a bank or insurer. Is the clause effective?
+  options:
+    - >-
+      Yes, because the borrower agreed to it in writing when he took the loan.
+    - >-
+      Yes, but only if the pledge was registered at the Registrar of Pledges.
+    - >-
+      No, because the method of realisation may not be agreed before the debt is due.
+    - >-
+      No, because pledges of cars may only be realised by the Transport Ministry.
+  correct: 2
+  explanation: >-
+    Section 16(ב) forbids agreeing on the method of realisation before the due date. Realisation is by court or
+    execution order (ss. 17–18); self-realisation is only for institutional bodies in s. 17(3).
+- id: q3
+  question: >-
+    You paid off your car loan to a bank in full yourself. Three months later the pledge still appears in the
+    database. What should you know?
+  options:
+    - >-
+      You must file the deletion yourself and pay the registrar's fee.
+    - >-
+      The pledge lapses by itself with the last payment, so no step is needed at all.
+    - >-
+      Only a court can delete a registered pledge, so you must sue the bank.
+    - >-
+      The bank must file the deletion in a set period at its cost; demand it, then complain.
+  correct: 3
+  explanation: >-
+    Banking (Service to Customer) Law s. 9א requires a bank fully paid by the customer to file the deletion of
+    a registered pledge within a set period, at its own cost.
+- id: q4
+  question: >-
+    Before buying a car you print an online pledges search report showing no pledge. Which statement is
+    accurate?
+  options:
+    - >-
+      It is an official registration report that conclusively protects you as buyer.
+    - >-
+      It is a search report, not an official one, covering only the criterion searched.
+    - >-
+      It also lists execution attachments and liens held by garages on the car.
+    - >-
+      It is valid for 30 days, during which no new pledge on the car may be registered.
+  correct: 1
+  explanation: >-
+    Under reg. 13א an online search report is not an official registration report, and each search criterion
+    is a separate search. Liens and execution attachments are not pledges and do not appear.

@@ -1,0 +1,1332 @@
+- id: m29-001
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 1
+  question: >-
+    Which of these is the defining difference between a cheque and a promissory note?
+  options:
+    - >-
+      A cheque must always be crossed; a note may never be crossed at all.
+    - >-
+      A note can be enforced in execution; a cheque cannot.
+    - >-
+      A cheque is an order to a bank; a note is the maker's own promise.
+    - >-
+      A note must be dated; a cheque may be left undated.
+  correct: 2
+  explanation: >-
+    A cheque is a bill of exchange drawn on a banker and payable on demand (s. 73); a promissory note is the
+    maker's unconditional promise to pay (s. 84). Both can be executed under Execution Law s. 81א.
+- id: m29-002
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 1
+  question: >-
+    A cheque says "שבעת אלפים ש״ח" in words and "₪700" in figures. What sum is payable?
+  options:
+    - >-
+      ₪7,000, because the words prevail over the figures.
+    - >-
+      ₪700, because the lower sum always prevails.
+    - >-
+      Neither, because the cheque is void for uncertainty.
+    - >-
+      Whichever sum the drawer confirms to the bank.
+  correct: 0
+  explanation: >-
+    Where words and figures differ, the sum in words is payable (s. 8(ב)). The lower-sum rule applies only
+    when the sum is stated several times in words, or only in figures (s. 8(ג)).
+- id: m29-003
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 2
+  question: >-
+    You received a ₪15,000 cheque endorsed to you by the payee, but the endorsement shows only a signature, no
+    name or ID number. What is the practical risk?
+  options:
+    - >-
+      None: an endorsement needs only a signature under the Bills Ordinance.
+    - >-
+      The cheque becomes a bearer cheque that anyone may collect.
+    - >-
+      The drawer is discharged from liability on the cheque.
+    - >-
+      The bank must refuse it, and you may face a financial sanction.
+  correct: 3
+  explanation: >-
+    The Cash Reduction Law requires the endorser's name and ID number (s. 4(ה)); a bank may not pay a cheque
+    breaching the Second Schedule (s. 5), and breaches carry financial sanctions (ss. 6, 20).
+- id: m29-004
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 2
+  question: >-
+    Your cheque is dated 1 June. On 20 May the payee deposits it and the bank pays it. What is the position?
+  options:
+    - >-
+      The bank acted correctly, because cheques are payable on demand.
+    - >-
+      A post-dated cheque is payable only from its date; the bank paid too early.
+    - >-
+      The payment is valid because the payee is the lawful holder.
+    - >-
+      The cheque was void from the start because it was post-dated.
+  correct: 1
+  explanation: >-
+    Section 73(ב) makes a post-dated cheque payable, and acceptable, only from the date written on it.
+- id: m29-005
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 1
+  question: >-
+    What does writing "ערב" with your signature on the back of someone else's promissory note make you?
+  options:
+    - >-
+      A witness to the maker's signature, without any liability of your own.
+    - >-
+      A holder in due course of the note.
+    - >-
+      A bill guarantor, jointly and severally liable with the maker.
+    - >-
+      An endorsee who may sue the maker in his own name.
+  correct: 2
+  explanation: >-
+    "ערב" or an equivalent word plus a signature creates an aval (s. 57(ב)); the guarantor is liable jointly
+    and severally with the person guaranteed (s. 57(ג)).
+- id: m29-006
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 3
+  question: >-
+    Bar exam style. A holder received notice of dishonour of a cheque on 1 March 2024. Which claim is most
+    likely barred on 1 June 2026?
+  options:
+    - >-
+      The claim against the drawer.
+    - >-
+      The claim against the acceptor.
+    - >-
+      The claim against a prior endorser.
+    - >-
+      None, since all bills claims have one period.
+  correct: 2
+  explanation: >-
+    Section 96 sets a long period against parties who are not endorsers and a short one against endorsers,
+    counted for drawers and endorsers from receipt of notice of dishonour. Two years have passed.
+- id: m29-007
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 2
+  question: >-
+    Spot the mistake. A tenant writes to her landlord: "I stopped cheque no. 14 at my bank, so the matter is
+    closed and you have no claim." What is wrong?
+  options:
+    - >-
+      Nothing: a stop order cancels the bills obligation and ends the claim.
+    - >-
+      A stop order ends the bank's authority, not her liability.
+    - >-
+      Stop orders are valid only if given within seven days.
+    - >-
+      Only the landlord's bank may stop a cheque.
+  correct: 1
+  explanation: >-
+    A stop order revokes the bank's authority to pay (s. 75(1)); the drawer remains liable to the holder
+    unless she has a defence (s. 55(א)). She should state her reason in writing.
+- id: m29-008
+  module: 29
+  lesson: "29.1"
+  subject: bills-basics
+  difficulty: 1
+  question: >-
+    What do two parallel lines across the face of a cheque mean?
+  options:
+    - >-
+      The cheque may be paid only through a bank account.
+    - >-
+      The cheque may not be endorsed to anyone.
+    - >-
+      The cheque is cancelled and cannot be presented.
+    - >-
+      The cheque is guaranteed by the drawer's bank.
+  correct: 0
+  explanation: >-
+    Two parallel lines are a general crossing (s. 76(א)); the drawee bank pays only to another bank (s. 79).
+    Transfer is barred by words such as "למוטב בלבד" (s. 7(א)).
+- id: m29-009
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 1
+  question: >-
+    Which is NOT a condition for being a holder in due course under s. 28?
+  options:
+    - >-
+      Taking the bill before it was overdue.
+    - >-
+      Taking it in good faith and for value.
+    - >-
+      Taking it complete and regular on its face.
+    - >-
+      Knowing the deal for which it was first given.
+  correct: 3
+  explanation: >-
+    Section 28(א) requires a complete and regular bill, taken before overdue, in good faith, for value, without
+    notice of dishonour or of a defect in title. Knowledge of the deal is not required.
+- id: m29-010
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 2
+  question: >-
+    A cheque passes from the drawer to the payee and then to a holder in due course, and from him as a gift
+    to his son, who knew of the drawer's defence. Can the son enforce it free of that defence?
+  options:
+    - >-
+      No, because he received it as a gift and gave no value of his own.
+    - >-
+      Yes, under the shelter rule, if he took no part in any fraud.
+    - >-
+      No, because he knew of the defence.
+    - >-
+      Yes, but only for half of the sum.
+  correct: 1
+  explanation: >-
+    Section 28(ג) gives a holder deriving title from a holder in due course, whether or not for value, the
+    same rights, provided he is not party to a fraud or illegality affecting the bill.
+- id: m29-011
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 2
+  question: >-
+    Your signature on a cheque was forged by a thief. A shop took the cheque in good faith for goods. Must you
+    pay the shop?
+  options:
+    - >-
+      No: a forged signature is inoperative, even then.
+    - >-
+      Yes, because the shop is a holder in due course and took it for value.
+    - >-
+      Yes, but you may then claim from your bank.
+    - >-
+      Only if you reported the theft within 24 hours.
+  correct: 0
+  explanation: >-
+    Under s. 23(א) a forged or unauthorised signature is wholly inoperative unless the person is estopped. It
+    is a real defence that survives against a holder in due course.
+- id: m29-012
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 3
+  question: >-
+    Bar exam style. Before Tal Trading, a holder for value who was not a holder in due course was protected
+    against which defence under the Guisky rule?
+  options:
+    - >-
+      Forgery of the drawer's signature.
+    - >-
+      Material alteration of the sum.
+    - >-
+      Total failure of consideration.
+    - >-
+      Incapacity of the drawer as a minor.
+  correct: 2
+  explanation: >-
+    Guisky (1962) let a holder for value defeat a total failure of consideration; Tal Trading (2015, further
+    hearing 2017) overruled it.
+- id: m29-013
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 2
+  question: >-
+    In an opposition to execution of a cheque held by a discount company, which affidavit sentence helps most?
+  options:
+    - >-
+      "The company acted in clear bad faith and must not be allowed to collect."
+    - >-
+      "I owe nothing because the seller cheated me."
+    - >-
+      "Everyone knows discount companies buy cheques cheaply."
+    - >-
+      "It bought 28 of the store's cheques in its last week at a 15% discount."
+  correct: 3
+  explanation: >-
+    Holder-in-due-course status is presumed (s. 29(ב)); only concrete facts can rebut good faith or show
+    notice. Adjectives and general claims do not.
+- id: m29-014
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 2
+  question: >-
+    A cheque given as the borrower's security for a loan reaches a third party, who opens an execution file.
+    What must that holder prove to escape the Fair Credit Law's protections?
+  options:
+    - >-
+      Nothing at all: the Law binds only the original lender, never holders.
+    - >-
+      That the loan contract was in writing.
+    - >-
+      Good faith, value and ignorance that the cheque came from a loan.
+    - >-
+      That he is a bank or a licensed lender.
+  correct: 2
+  explanation: >-
+    Fair Credit Law s. 11 subjects the holder to the Law as if he were the lender unless he proves good faith,
+    value and that he did not know the bill originated in a loan.
+- id: m29-015
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 3
+  question: >-
+    A drawer gave a cheque to a payee "to be used only if the deposit is not returned"; the deposit was
+    returned. The payee sues on it. Which section helps the drawer?
+  options:
+    - >-
+      Section 20(ב): a special-purpose delivery may be proved.
+    - >-
+      Section 64: adding the condition was a material alteration of the cheque.
+    - >-
+      Section 23: the payee's use is like a forged signature.
+    - >-
+      Section 96: the claim is out of time.
+  correct: 0
+  explanation: >-
+    Between immediate parties the drawer may prove that delivery was conditional or for a special purpose
+    only (s. 20(ב)(2)). A holder in due course would enjoy a conclusive presumption of valid delivery.
+- id: m29-016
+  module: 29
+  lesson: "29.2"
+  subject: holder-in-due-course
+  difficulty: 1
+  question: >-
+    Who are "immediate parties" to a cheque?
+  options:
+    - >-
+      The drawer and the drawee bank, which holds the drawer's account.
+    - >-
+      Parties in a direct relationship, such as drawer and payee.
+    - >-
+      All parties whose names appear on the cheque.
+    - >-
+      The last endorser and the current holder only.
+  correct: 1
+  explanation: >-
+    Immediate parties are those in direct contractual relation, typically drawer and payee, or endorser and
+    his endorsee. Between them all defences from the deal are open.
+- id: m29-017
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 1
+  question: >-
+    For how long is an ordinary restricted account restricted?
+  options:
+    - >-
+      Six months.
+    - >-
+      Two years.
+    - >-
+      Five years.
+    - >-
+      One year.
+  correct: 3
+  explanation: >-
+    Section 3ב(א): one year for a restricted account or customer; two years for an aggravated-restricted
+    customer (s. 3ב(ב)).
+- id: m29-018
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 2
+  question: >-
+    Ten of a customer's cheques were refused on a single day, and none before or after. Is the account
+    restricted?
+  options:
+    - >-
+      No, because the first and last refusals must be a minimum number of days apart.
+    - >-
+      Yes, because ten refused cheques always restrict the account, whatever the dates.
+    - >-
+      Only if the bank sent a warning after the fifth cheque.
+    - >-
+      Only if the customer is also a debtor in execution.
+  correct: 0
+  explanation: >-
+    Section 2(א) requires the count within twelve months and a minimum gap between the first and the last
+    refusal, so a single bad day does not restrict on its own.
+- id: m29-019
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 2
+  question: >-
+    Whose restriction is "special" (לקוח מוגבל מיוחד) under the Cheques Without Cover Law?
+  options:
+    - >-
+      Anyone whose account was restricted twice within a period of three years.
+    - >-
+      A customer with three restricted accounts.
+    - >-
+      A customer whose cheques bounced during an emergency.
+    - >-
+      A debtor restricted by the execution registrar under the Execution Law.
+  correct: 3
+  explanation: >-
+    Section 3ג: restriction imposed by the execution registrar, the Fines Collection Center, a bankruptcy court
+    or a rabbinical court creates a special-restricted customer, for up to five years.
+- id: m29-020
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 1
+  question: >-
+    Where is a s. 10 appeal against a restriction filed?
+  options:
+    - >-
+      In the district court for the customer's home.
+    - >-
+      With the Supervisor of Banks at the Bank of Israel.
+    - >-
+      In the magistrates' court nearest the drawee branch.
+    - >-
+      In the small claims court of the customer's choice.
+  correct: 2
+  explanation: >-
+    Regulation 1 of the Procedure Regulations: the magistrates' court in whose area the branch lies and which
+    is nearest to it. The respondent is the bank (reg. 3).
+- id: m29-021
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 2
+  question: >-
+    A cheque was refused because of an attachment on the account, and presented ten days after the bank got
+    the attachment notice. Does it count toward restriction?
+  options:
+    - >-
+      Yes, because any cheque refused for any reason counts toward restriction.
+    - >-
+      No, if presented within the period set after the attachment notice.
+    - >-
+      Only if the attachment was imposed by a court.
+    - >-
+      Only if the drawer had also given a stop order.
+  correct: 1
+  explanation: >-
+    Section 2א: a cheque refused because of an attachment is not counted if presented within a set period
+    from the bank's receipt of the attachment notice.
+- id: m29-022
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 3
+  question: >-
+    A restricted customer appeals on the s. 7א ground: the bank's same-day SMS went to an old number he had
+    replaced in writing. What else must the court be persuaded of?
+  options:
+    - >-
+      That he could have deposited the money needed to pay the cheque.
+    - >-
+      That the payee had agreed in writing to wait for payment of the cheque.
+    - >-
+      That he had never had a refused cheque before.
+    - >-
+      That the bank acted in bad faith.
+  correct: 0
+  explanation: >-
+    Section 10(א1) bars the s. 10(א)(6) ground unless the court is satisfied the customer could have
+    deposited funds enabling payment of the cheque.
+- id: m29-023
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 2
+  question: >-
+    What happens if a restricted customer draws a cheque on his restricted account?
+  options:
+    - >-
+      Nothing, because the bank simply refuses it.
+    - >-
+      The restriction period is reset to start again.
+    - >-
+      The payee may report it, but it is only a civil matter.
+    - >-
+      He commits an offence carrying imprisonment or a fine.
+  correct: 3
+  explanation: >-
+    Section 16(א) makes drawing a cheque on a restricted account during restriction an offence, punishable by
+    imprisonment or a fine, including a multiple of the cheque's sum.
+- id: m29-024
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 2
+  question: >-
+    A landlord holds a tenant's bounced cheque but only has the tenant's first name. How can he get the
+    drawer's details?
+  options:
+    - >-
+      From the drawee bank, which must give the holder the account owner's details.
+    - >-
+      Only through a court order for disclosure in a claim filed against the drawer.
+    - >-
+      From the Bank of Israel's public list of restricted customers.
+    - >-
+      He cannot; bank secrecy forbids it.
+  correct: 0
+  explanation: >-
+    Section 12 and reg. 5: the drawee branch must give a holder of an unpaid cheque, on request, the owner's
+    name, ID number and registered address, and those of the signatory if identifiable.
+- id: m29-025
+  module: 29
+  lesson: "29.3"
+  subject: restricted-accounts
+  difficulty: 3
+  question: >-
+    Spot the mistake. An appeal to the magistrates' court attaches the bank's notice, the affidavit and the
+    evidence, but not any earlier correspondence with the bank. What is missing?
+  options:
+    - >-
+      A letter from the payee confirming the cheque and the transaction behind it.
+    - >-
+      The customer's credit-data report.
+    - >-
+      The prior request to the bank to remove the cheque, and its answer.
+    - >-
+      A certificate from the Supervisor of Banks.
+  correct: 2
+  explanation: >-
+    Regulation 4(3) requires a copy of the applicant's request to the bank to remove the cheque from the count
+    and the bank's answer.
+- id: m29-026
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 1
+  question: >-
+    By which search criteria can the pledges database be searched?
+  options:
+    - >-
+      Only by the creditor's name, as registered by the creditor itself.
+    - >-
+      By licence number, debtor's ID number or pledge number.
+    - >-
+      Only by the vehicle's chassis number.
+    - >-
+      By the asset's address and value.
+  correct: 1
+  explanation: >-
+    Regulation 13(א) defines the search criteria: licence number, the debtor's ID number with or without name,
+    or the pledge registration number; each is a separate search.
+- id: m29-027
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 2
+  question: >-
+    A lender "bought" a borrower's car for ₪30,000 with a right for the borrower to buy it back for ₪34,000
+    in a year. The borrower kept driving it. How might a court treat the deal?
+  options:
+    - >-
+      As a valid sale that passed full ownership to the lender at once.
+    - >-
+      As a lease governed by the Rental Law.
+    - >-
+      As void for being a sham with no effect at all.
+    - >-
+      As a pledge, because its purpose was to secure a debt.
+  correct: 3
+  explanation: >-
+    Section 2(ב) applies the Pledges Law to every transaction meant to charge an asset as security, whatever it
+    is called. As a pledge it needs registration to bind other creditors.
+- id: m29-028
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 2
+  question: >-
+    A car has two registered pledges: to Bank A (2022) and Bank B (2024). The agreement with Bank A says
+    nothing about later pledges. The car is sold for less than both debts. Who is paid first?
+  options:
+    - >-
+      Bank A, because the later pledge ranks after the earlier one.
+    - >-
+      Bank B, because the most recent registration prevails.
+    - >-
+      Both equally, in proportion to their debts.
+    - >-
+      Whichever bank applied first to the Execution Office.
+  correct: 0
+  explanation: >-
+    Section 6(א): a further pledge ranks after the earlier one unless the earlier pledge agreement provides
+    otherwise; equal or prior ranking needs the first pledgee's consent (s. 6(ב)).
+- id: m29-029
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 2
+  question: >-
+    Who may realise a deposited pledge of jewellery held by a bank, without any order?
+  options:
+    - >-
+      Nobody: all realisation of any pledge needs a court order, without exception.
+    - >-
+      Any pledgee, after 30 days' notice.
+    - >-
+      The bank itself, by a reasonable sale after notice.
+    - >-
+      Only the execution registrar, through an auction.
+  correct: 2
+  explanation: >-
+    Section 17(3) allows an institutional body to realise a deposited pledge securing a debt to it without an
+    order; s. 19 requires a commercially reasonable sale and reasonable advance notice.
+- id: m29-030
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 1
+  question: >-
+    What happens to a pledge when the secured debt ends?
+  options:
+    - >-
+      It remains registered until the creditor chooses to release it voluntarily.
+    - >-
+      It ends, and the debtor may demand deletion of the registration.
+    - >-
+      It converts automatically into a floating charge.
+    - >-
+      It passes to the debtor's next creditor.
+  correct: 1
+  explanation: >-
+    Section 15: when the obligation ends the pledge ends; the debtor may demand the return of deposited goods
+    or the deletion of the registration (except for a pledge securing a renewing obligation).
+- id: m29-031
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 3
+  question: >-
+    Bar exam style. A borrower wants to repay a fixed-interest pledged loan two years early. The agreement is
+    silent on early repayment. What may the creditor demand besides the principal?
+  options:
+    - >-
+      Nothing beyond the principal, because early repayment is always free of charge.
+    - >-
+      All interest until the original due date, without limit.
+    - >-
+      A fee set freely by the creditor at the time of repayment.
+    - >-
+      Interest until the due date or for a limited period, whichever is shorter.
+  correct: 3
+  explanation: >-
+    Section 13(ב): redemption before the due date of an interest-bearing debt requires paying the interest
+    until the due date or for a limited period after payment, whichever is shorter, unless agreed otherwise.
+- id: m29-032
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 2
+  question: >-
+    Before buying a used tractor from a private farmer, which check is NOT shown by a pledges search?
+  options:
+    - >-
+      A registered pledge to a bank.
+    - >-
+      A pledge to a finance company for a loan on the tractor.
+    - >-
+      A garage's lien for an unpaid repair bill.
+    - >-
+      A registered pledge to a private lender.
+  correct: 2
+  explanation: >-
+    A lien arises by law and is not registered; it ends when the holder gives up possession. Pledges by
+    registration appear in the database (s. 4(3); regs 13–13א).
+- id: m29-033
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 3
+  question: >-
+    A creditor registered a company charge late, after a liquidation application had been filed, with the
+    Registrar's extension. What did the Supreme Court hold in Regis v. Trabelsi?
+  options:
+    - >-
+      The late registration cannot bind the liquidator.
+    - >-
+      The Registrar's extension cured the delay, so the charge binds the liquidator.
+    - >-
+      The charge is valid against creditors who knew of it.
+    - >-
+      The charge was void as a fraudulent preference.
+  correct: 0
+  explanation: >-
+    Regis (CA 2833/04): after the liquidation process begins, creditors' rights crystallise and a late charge
+    cannot be validated against them; the court did not uphold the fraudulent-preference ground.
+- id: m29-034
+  module: 29
+  lesson: "29.4"
+  subject: pledges
+  difficulty: 1
+  question: >-
+    Has the 2015 government bill for a new Pledges Law been enacted, as of October 2026?
+  options:
+    - >-
+      Yes, a new Pledges Law replaced the 1967 Law in 2024.
+    - >-
+      Yes, but only for companies.
+    - >-
+      No, the 1967 Law and its 1994 regulations still apply.
+    - >-
+      No, the Pledges Law was repealed without replacement.
+  correct: 2
+  explanation: >-
+    The bill passed a first reading in 2012 and again in 2015 but was not enacted; the consolidated text of the
+    1967 Law shows no replacement (check the Knesset database).
+- id: m29-035
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 1
+  question: >-
+    Which service is a bank NOT obliged to give under s. 2 of the Banking (Service to Customer) Law?
+  options:
+    - >-
+      Accepting a money deposit.
+    - >-
+      Opening a current account kept in credit.
+    - >-
+      Selling a bank cheque.
+    - >-
+      Granting an overdraft.
+  correct: 3
+  explanation: >-
+    Section 2(א) covers deposits, current accounts in credit and bank cheques, but "there is no duty to give a
+    service that involves granting credit".
+- id: m29-036
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 2
+  question: >-
+    Your agreed fee for a service is ₪5, but the bank's published tariff says ₪9 and it charged ₪9. Which rule
+    decides?
+  options:
+    - >-
+      The tariff, because it is published and binding on all.
+    - >-
+      The agreed lower fee, which the bank may not exceed.
+    - >-
+      Whichever is approved by the Supervisor.
+    - >-
+      The average of the two amounts.
+  correct: 1
+  explanation: >-
+    Section 9י2: where a lower fee was agreed with the customer, the bank may not charge more than the agreed
+    amount.
+- id: m29-037
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 2
+  question: >-
+    A bank's damages for breaching the Banking (Service to Customer) Law are claimed how?
+  options:
+    - >-
+      As a tort, including indirect loss and lost profit.
+    - >-
+      Only through the Supervisor's decision.
+    - >-
+      Only as contractual damages under the account agreement.
+    - >-
+      Only after a criminal conviction of the bank.
+  correct: 0
+  explanation: >-
+    Section 15 treats damage from a breach as a tort under the Civil Wrongs Ordinance, whether direct or
+    indirect, actual loss or lost profit, and whether or not the bank was prosecuted.
+- id: m29-038
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 2
+  question: >-
+    A bank clerk exploits an elderly customer's confusion to sell her an investment product on unreasonable
+    terms. Which section of the Banking (Service to Customer) Law applies most directly?
+  options:
+    - >-
+      Section 2, unreasonable refusal of service.
+    - >-
+      Section 7, tying.
+    - >-
+      Section 9י3, fees for services not given.
+    - >-
+      Section 4, exploiting weakness.
+  correct: 3
+  explanation: >-
+    Section 4 forbids exploiting a customer's distress, weakness, ignorance or inexperience, or exerting unfair
+    influence, to bind him to a service on unreasonable terms.
+- id: m29-039
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 3
+  question: >-
+    From 22 March 2027, a bank that sold a customer a product in an outgoing marketing call refuses to give
+    her the recording she asked for. What is the effect in a civil case?
+  options:
+    - >-
+      None, because call recordings are internal bank documents only.
+    - >-
+      The bank may later rely on the recording at will.
+    - >-
+      The bank is treated as admitting her version.
+    - >-
+      The call is void and the product contract cancelled.
+  correct: 2
+  explanation: >-
+    Section 5א5(ד): if the bank fails to deliver the recording, it is treated as admitting the customer's
+    version, and may not use the recording as evidence without the court's leave.
+- id: m29-040
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 1
+  question: >-
+    Who investigates individual public complaints against banks?
+  options:
+    - >-
+      The Supervisor of Banks at the Bank of Israel.
+    - >-
+      The Consumer Protection and Fair Trade Authority.
+    - >-
+      The Capital Market Authority.
+    - >-
+      The State Comptroller.
+  correct: 0
+  explanation: >-
+    Section 16 of the Banking (Service to Customer) Law: the Supervisor investigates public complaints about
+    dealings with banks that have substance.
+- id: m29-041
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 2
+  question: >-
+    You guaranteed your son's bank loan. Does the Banking (Service to Customer) Law protect you too?
+  options:
+    - >-
+      No, it protects only the account holders themselves.
+    - >-
+      Yes, it applies also to a guarantor of the customer.
+    - >-
+      Only if you also have an account at the same bank.
+    - >-
+      Only if the loan is a mortgage.
+  correct: 1
+  explanation: >-
+    Section 17א applies the Law to a guarantor of a customer toward a bank (with adjustments for s. 5א1).
+- id: m29-042
+  module: 29
+  lesson: "29.5"
+  subject: banking
+  difficulty: 3
+  question: >-
+    Which forum? A bank wrongly charged a private customer ₪1,400 in fees over a year and refused a refund; the
+    Supervisor's unit has not answered in five months. The customer wants her money now.
+  options:
+    - >-
+      The Standard Contracts Tribunal.
+    - >-
+      The district court as an administrative petition.
+    - >-
+      The labour court.
+    - >-
+      The small claims court, in her own name.
+  correct: 3
+  explanation: >-
+    A refund claim by an individual within the ceiling belongs in small claims; the complaint does not stop
+    limitation or bar a claim (s. 16(ד)).
+- id: m29-043
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 1
+  question: >-
+    Is a misleading ad prohibited even if no consumer was actually misled by it?
+  options:
+    - >-
+      Yes, because s. 2 bans conduct liable to mislead.
+    - >-
+      No, a misled victim is required for any breach of s. 2.
+    - >-
+      Only if the Authority receives a complaint.
+    - >-
+      Only for ads about food products.
+  correct: 0
+  explanation: >-
+    Section 2(א) prohibits conduct "liable to mislead"; Barazani confirmed that the prohibition does not need
+    a victim, though a personal damages claim does.
+- id: m29-044
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 2
+  question: >-
+    A salesman visits a home three times after the family asked him to stop, until they sign. Which section
+    is breached?
+  options:
+    - >-
+      Section 4, the duty to disclose known defects.
+    - >-
+      Section 31א, exemplary damages.
+    - >-
+      Section 3, unfair influence.
+    - >-
+      Section 17ב, shelf prices.
+  correct: 2
+  explanation: >-
+    Section 3(ב)(3) deems repeated home visits after the consumer asked to stop to be unfair influence.
+    Cancellation is available under s. 32.
+- id: m29-045
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 2
+  question: >-
+    A shop has a sign: "The shop is not responsible for any bodily injury on its premises." What may the
+    Commissioner do?
+  options:
+    - >-
+      Nothing, because signs are not contracts.
+    - >-
+      Impose a financial sanction for a listed breach.
+    - >-
+      Award the consumer exemplary damages directly.
+    - >-
+      Close the shop by administrative order.
+  correct: 1
+  explanation: >-
+    Such a sign breaches s. 2(ב1) and is one of the breaches for which the Commissioner may impose a financial
+    sanction (s. 22ג(א)(1)).
+- id: m29-046
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 3
+  question: >-
+    Bar exam style. Which of these is a ground for exemplary damages under s. 31א(א)?
+  options:
+    - >-
+      Misleading consumers about a product's country of origin.
+    - >-
+      Failing to disclose a known defect.
+    - >-
+      Unfair influence through repeated calls.
+    - >-
+      Refusing to sell at the price displayed on the goods.
+  correct: 3
+  explanation: >-
+    Refusing the displayed price (s. 17ב(ד)) is listed (s. 31א(א)(5)). General misleading, disclosure and
+    unfair influence are not on the closed list.
+- id: m29-047
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 2
+  question: >-
+    A consumer cancelled a deal for material misleading under s. 32. Within how long must the dealer refund?
+  options:
+    - >-
+      Within a set short period after the notice.
+    - >-
+      Within 60 days of the consumer returning the goods.
+    - >-
+      Only after a court judgment.
+    - >-
+      Within a reasonable time set by the dealer.
+  correct: 0
+  explanation: >-
+    Section 32(ב): the dealer refunds within seven days of the notice, in the way the consumer paid; the
+    consumer returns the goods where he received them.
+- id: m29-048
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 2
+  question: >-
+    In Tnuva v. Raabi Estate, what kind of harm did the Supreme Court recognise for consumers who drank milk
+    with undisclosed silicone?
+  options:
+    - >-
+      Bodily injury proven by medical opinions.
+    - >-
+      Harm to autonomy, even without bodily harm.
+    - >-
+      Only the price difference of the milk.
+    - >-
+      Punitive damages under the Consumer Protection Law.
+  correct: 1
+  explanation: >-
+    Tnuva recognised harm to the consumer's autonomy to choose what he consumes as compensable, and allowed
+    group-level causation in the class action.
+- id: m29-049
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 3
+  question: >-
+    Spot the mistake. A claim says: "I demand ₪10,000 exemplary damages for the misleading ad, and ₪10,000
+    more because the dealer did not answer my phone call." What is wrong?
+  options:
+    - >-
+      Nothing, because both heads are standard in consumer small claims.
+    - >-
+      Exemplary damages cannot exceed the price paid.
+    - >-
+      Misleading is not listed; a call is not a written request.
+    - >-
+      Exemplary damages may be claimed only by a consumer organisation.
+  correct: 2
+  explanation: >-
+    Section 31א covers only listed breaches, and requires a prior written request, including by email
+    (s. 31א(ב)); a phone call does not satisfy it.
+- id: m29-050
+  module: 29
+  lesson: "29.6"
+  subject: consumer-protection
+  difficulty: 1
+  question: >-
+    Can a business that was itself misled by a supplier's ad sue under the Consumer Protection Law?
+  options:
+    - >-
+      No, the Consumer Protection Law protects only consumers, never dealers.
+    - >-
+      Yes, but only for exemplary damages.
+    - >-
+      Only through a class action.
+    - >-
+      Yes, a dealer injured in its business by misleading may sue in tort.
+  correct: 3
+  explanation: >-
+    Section 31(א1) gives the tort remedy to a consumer, and to a dealer harmed in the course of its business by
+    misleading under s. 2; class-action provisions do not apply to it (s. 31(א2)).
+- id: m29-051
+  module: 29
+  lesson: "29.7"
+  subject: fair-credit
+  difficulty: 1
+  question: >-
+    Under the Fair Credit Law, how is the maximum cost of credit for a shekel loan set?
+  options:
+    - >-
+      As the Bank of Israel interest rate plus a fixed margin.
+    - >-
+      As a fixed 20% a year, unchanged since 1993.
+    - >-
+      By each lender in its own published tariff.
+    - >-
+      By the court in every case after the loan is made.
+  correct: 0
+  explanation: >-
+    The First Schedule sets the maximum as the Bank of Israel rate plus a fixed number of percentage points;
+    see current numbers for the margin and the current rate.
+- id: m29-052
+  module: 29
+  lesson: "29.7"
+  subject: fair-credit
+  difficulty: 2
+  question: >-
+    A friend (not a relative) lent you ₪8,000 by bank transfer with no written contract, charging high
+    interest. Is he subject to the Fair Credit Law's form and disclosure duties?
+  options:
+    - >-
+      No, because private loans between individuals are always outside the Law.
+    - >-
+      Presumably yes, unless he proves it was not in business.
+    - >-
+      Only if the sum exceeds ₪100,000.
+    - >-
+      Only if he is licensed as a lender.
+  correct: 1
+  explanation: >-
+    Section 15(א) exempts an individual lending not in the course of business, but a loan to a non-relative is
+    presumed to be in the course of business unless the lender proves otherwise.
+- id: m29-053
+  module: 29
+  lesson: "29.7"
+  subject: fair-credit
+  difficulty: 2
+  question: >-
+    A lender's contract omits the real cost of credit and the payment schedule. How is the real cost computed
+    for the cap?
+  options:
+    - >-
+      At the nominal interest rate written in the loan contract.
+    - >-
+      At the Bank of Israel rate only.
+    - >-
+      As if the highest rate charged were fixed.
+    - >-
+      It is not computed; the loan is simply void.
+  correct: 2
+  explanation: >-
+    Section 5(ג) treats the loan as if the highest interest the lender charged were fixed, where the contract
+    is not written, lacks key disclosures or uses an uncontrolled base.
+- id: m29-054
+  module: 29
+  lesson: "29.7"
+  subject: fair-credit
+  difficulty: 3
+  question: >-
+    A lender demands ₪3,000 "legal collection fees" on a ₪6,000 arrears. The contract allows "reasonable
+    collection costs". What should the borrower ask for?
+  options:
+    - >-
+      Nothing, because fees named in the loan contract are always payable.
+    - >-
+      A discount of half, as is customary.
+    - >-
+      A ruling from the Bank of Israel first.
+    - >-
+      Proof that the costs were actually incurred and are reasonable.
+  correct: 3
+  explanation: >-
+    Section 7א allows only reasonable costs the lender actually incurred, and only if the contract permits
+    them; s. 8(ב)(5א) requires them to be stated in any claim or execution request.
+- id: m29-055
+  module: 29
+  lesson: "29.7"
+  subject: fair-credit
+  difficulty: 2
+  question: >-
+    The execution registrar refused to open a file on a loan because it appeared to breach the Fair Credit
+    Law. Can the lender challenge this?
+  options:
+    - >-
+      Yes, by appeal as of right to the magistrates' court.
+    - >-
+      No, the registrar's decision on this matter is final.
+    - >-
+      Only by petition to the High Court of Justice.
+    - >-
+      Only with leave of the district court.
+  correct: 0
+  explanation: >-
+    Section 14 makes the registrar's decisions under the Law appealable as of right to the magistrates'
+    court, which treats the matter as a s. 9 application (s. 10(ד)).
+- id: m29-056
+  module: 29
+  lesson: "29.7"
+  subject: credit-data
+  difficulty: 1
+  question: >-
+    How often can you get your credit-data summary report from the Bank of Israel free of charge?
+  options:
+    - >-
+      Once every five years.
+    - >-
+      Once a year.
+    - >-
+      Only when a lender refuses you credit.
+    - >-
+      Monthly, by automatic email.
+  correct: 1
+  explanation: >-
+    Credit Data Law s. 38(ד): a summary report is given free on request once a year; further reports that year
+    are for a fee.
+- id: m29-057
+  module: 29
+  lesson: "29.7"
+  subject: credit-data
+  difficulty: 2
+  question: >-
+    For how long does the Bank of Israel keep credit data, and how is it used after the first years?
+  options:
+    - >-
+      One year, after which all the data is deleted.
+    - >-
+      Forever, for all purposes.
+    - >-
+      Ten years; after three, for documentation only.
+    - >-
+      Five years; after two, only for police use.
+  correct: 2
+  explanation: >-
+    Section 23(א): data is kept ten years from transfer; after three years it is kept for documentation only.
+- id: m29-058
+  module: 29
+  lesson: "29.7"
+  subject: debt-collection
+  difficulty: 2
+  question: >-
+    A dealer says you missed a payment five months ago and now sends a lawyer's letter adding collection
+    costs. It never sent a debt notice. What may the court do?
+  options:
+    - >-
+      Nothing, since the dealer may collect any way it likes.
+    - >-
+      Cancel the whole debt as a penalty.
+    - >-
+      Order the dealer to pay you exemplary damages automatically.
+    - >-
+      Reduce the collection costs, in whole or part.
+  correct: 3
+  explanation: >-
+    Consumer Protection Law s. 13ב2 requires a debt notice within four months and a waiting period before any
+    collection step; without it, the court or registrar may cut collection costs (s. 13ב2(ו)).
+- id: m29-059
+  module: 29
+  lesson: "29.7"
+  subject: debt-collection
+  difficulty: 3
+  question: >-
+    Which forum? Interest and default charges in your execution file on a cheque have doubled the debt over
+    years. You want them reduced.
+  options:
+    - >-
+      A request to the execution registrar to reduce accumulated interest and charges.
+    - >-
+      A complaint to the Supervisor of Banks about the creditor's interest charges.
+    - >-
+      A claim in the small claims court against the creditor.
+    - >-
+      An appeal to the district court against the original cheque.
+  correct: 0
+  explanation: >-
+    Execution Law s. 81א4 lets the registrar, on his own initiative or the debtor's request, reduce accumulated
+    interest and default charges, except base and statutory judgment interest save for special reasons.
+- id: m29-060
+  module: 29
+  lesson: "29.7"
+  subject: fair-credit
+  difficulty: 1
+  question: >-
+    What must every loan advertisement by a lender include under the Fair Credit Law?
+  options:
+    - >-
+      The lender's licence number only, printed at the bottom of the advertisement.
+    - >-
+      Its name and the statutory default-and-execution warning.
+    - >-
+      A comparison with the Bank of Israel rate.
+    - >-
+      A signature of a lawyer approving the ad.
+  correct: 1
+  explanation: >-
+    Section 3(ה) requires loan advertising to name the lender and carry the warning that failure to repay may
+    lead to default interest and execution proceedings.
+- id: m29-061
+  module: 29
+  lesson: "29.8"
+  subject: lab-pledges
+  difficulty: 2
+  question: >-
+    During a car purchase you search the pledges database on 1 May and find nothing; you pay and transfer
+    ownership on 20 May. What did you skip?
+  options:
+    - >-
+      Nothing, because a search is valid for a month.
+    - >-
+      A second search on the day of payment.
+    - >-
+      Registering your own pledge on the car.
+    - >-
+      Notifying the Bank of Israel of the purchase.
+  correct: 1
+  explanation: >-
+    A pledge registered between the search and the payment binds you; search again on the day you pay. The
+    online report proves nothing about later registrations.
+- id: m29-062
+  module: 29
+  lesson: "29.8"
+  subject: lab-cheques
+  difficulty: 3
+  question: >-
+    You have seven refused cheques in eight months and a supplier you dispute is about to present a ₪2,000
+    cheque. Your account is ₪500 overdrawn. What protects you best?
+  options:
+    - >-
+      A stop order alone, since a stopped cheque is always removed from the count.
+    - >-
+      Closing the account today.
+    - >-
+      Asking the bank to send the next warning earlier.
+    - >-
+      Covering the account and giving a stop order with a written reason.
+  correct: 3
+  explanation: >-
+    A stopped cheque refused for lack of balance counts (s. 1); covering the account means it is refused for the
+    stop order only. The written reason preserves your defence on the cheque.
+- id: m29-063
+  module: 29
+  lesson: "29.9"
+  subject: lab-consumer
+  difficulty: 2
+  question: >-
+    Which forum? An individual seeks a ₪350 refund and exemplary damages from a national retail chain for
+    refusing the shelf price.
+  options:
+    - >-
+      The small claims court, suing the chain in her own name.
+    - >-
+      The Standard Contracts Tribunal.
+    - >-
+      The Consumer Protection Authority, which awards damages.
+    - >-
+      The district court, because the chain is large.
+  correct: 0
+  explanation: >-
+    Small claims is the forum for an individual's money claim within the ceiling; a company may be sued
+    there. The Authority does not award damages, and the Tribunal is not open to individuals.
+- id: m29-064
+  module: 29
+  lesson: "29.9"
+  subject: lab-consumer
+  difficulty: 1
+  question: >-
+    In a small claim, how should exemplary damages for two separate listed breaches be pleaded?
+  options:
+    - >-
+      As one combined sum for all the aggravation caused by both breaches.
+    - >-
+      Only as a request that the judge set any sum.
+    - >-
+      As two heads, one per breach, each with its own basis.
+    - >-
+      Only in a separate claim filed later.
+  correct: 2
+  explanation: >-
+    Section 31א(א) allows exemplary damages "for that breach"; each listed breach is a separate head with its
+    own request and argument.
+- id: m29-065
+  module: 29
+  lesson: "29.9"
+  subject: lab-consumer
+  difficulty: 3
+  question: >-
+    Spot the mistake. A self-employed electrician sues an online shop for exemplary damages after it refused a
+    refund on a cancelled order of 40 cable reels for his business. What is the weak point?
+  options:
+    - >-
+      The claim was filed online instead of at the court registry in person.
+    - >-
+      He must sue the shop's bank, not the shop.
+    - >-
+      Refusing a refund is not a listed breach.
+    - >-
+      He bought for his business, so he may not be a consumer at all.
+  correct: 3
+  explanation: >-
+    The Consumer Protection Law protects consumers, who buy mainly for personal, home or family use. A
+    business purchase may fall outside the Law, including s. 31א.

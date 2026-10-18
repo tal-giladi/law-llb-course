@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    A buyer gives a seller a signed paper: "Bank Leumi, pay Dana Cohen ₪12,000 once the kitchen is
+    installed to my satisfaction." Dana wants to open an execution file on it as a bill. What is the
+    position?
+  options:
+    - >-
+      It is a valid cheque, because it is drawn on a bank and signed by the buyer.
+    - >-
+      It becomes a bill only once Dana endorses it to a third party for value.
+    - >-
+      It is not a bill: the order is conditional, so Dana relies on the contract.
+    - >-
+      It is a post-dated cheque, payable once the kitchen is installed.
+  correct: 2
+  explanation: >-
+    A bill must be an unconditional order (s. 3(א)); an order to pay "once installed to my satisfaction"
+    is conditional, so it is not a bill (s. 3(ב)). Dana may still sue on the contract, but not execute the
+    paper under Execution Law s. 81א.
+- id: q2
+  question: >-
+    You want to pay a contractor by cheque so that it can only be paid into an account and cannot be passed
+    on to anyone else. What do you write on it?
+  options:
+    - >-
+      Two parallel lines and the words "למוטב בלבד".
+    - >-
+      The words "לא סחיר" without any crossing lines.
+    - >-
+      Your ID number on the back, under your signature.
+    - >-
+      A date at least one month after the day you hand it over.
+  correct: 0
+  explanation: >-
+    A crossing means the bank pays only through another bank (ss. 76, 79); words prohibiting transfer such as
+    "למוטב בלבד" make the cheque non-negotiable (s. 7(א)). "לא סחיר" on a crossed cheque only limits the
+    taker's title (s. 81).
+- id: q3
+  question: >-
+    A cheque you received from Ruth was endorsed to you by her brother, its payee. It bounced. Twenty-six
+    months after you received notice of dishonour you want to sue the brother as endorser. What is the
+    main risk?
+  options:
+    - >-
+      None, because claims on cheques have the general seven-year civil period against everyone.
+    - >-
+      The claim against an endorser has a much shorter period, from notice of dishonour.
+    - >-
+      Endorsers are never liable on a cheque to a later holder; only the drawer is.
+    - >-
+      You must first obtain a judgment against Ruth as drawer before suing the brother.
+  correct: 1
+  explanation: >-
+    Section 96 sets a long period against parties who are not endorsers and a short period against
+    endorsers, running for a drawer or endorser from receipt of notice of dishonour. The claim against Ruth
+    as drawer may still be open.
+- id: q4
+  question: >-
+    A landlord asks you to sign an undated promissory note with the amount left blank "as security". What
+    is the best way to protect yourself if you agree?
+  options:
+    - >-
+      Sign it as asked, since the law forbids anyone to fill in missing details later.
+    - >-
+      Sign it, and later stop payment through your bank if the landlord misuses it.
+    - >-
+      Refuse to sign anything, since notes given to secure a lease are always void.
+    - >-
+      Fill in the sum yourself and sign a side letter on what it secures and its return.
+  correct: 3
+  explanation: >-
+    Section 19 lets a holder complete missing particulars within the authority given; limiting that authority
+    in writing (and completing the sum yourself) is your protection. A note is not paid through your bank, so a
+    stop order does nothing.

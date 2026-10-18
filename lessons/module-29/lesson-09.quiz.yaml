@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your small claim against an online shop asks for "₪9,000 compensation for the aggravation and the breach
+    of the law". The shop refused a refund after a lawful distance-sale cancellation. How should you restate it?
+  options:
+    - >-
+      Keep one sum, since the judge will divide it between the heads anyway.
+    - >-
+      Split it: the refund, and exemplary damages for the listed breach.
+    - >-
+      Claim only exemplary damages, because a refund cannot be added to them at all.
+    - >-
+      Claim only the refund, because aggravation is never compensated in small claims.
+  correct: 1
+  explanation: >-
+    Separate heads with separate bases: the refund (s. 14ה) and exemplary damages for the listed breach
+    (s. 31א(א)(4)), which may be awarded in addition to other remedies (s. 31א(ו)).
+- id: q2
+  question: >-
+    At the hearing the court asks why you deserve exemplary damages near the ceiling for a ₪60 overcharge.
+    Which argument fits the statute best?
+  options:
+    - >-
+      The breach caused you great stress and you lost sleep over it.
+    - >-
+      The ceiling is a fixed award that the court must grant once a breach is shown.
+    - >-
+      Deterrence, the dealer's size and the common nature of the practice, not your loss.
+    - >-
+      The dealer has a bad reputation online, as many reviews show.
+  correct: 2
+  explanation: >-
+    Section 31א(ה) tells the court to consider enforcement and deterrence, encouraging consumers, the gravity
+    and scope of the breach, the deal's value and the dealer's size, and not the consumer's damage.
+- id: q3
+  question: >-
+    You forgot to send any written request to a supermarket before suing for exemplary damages over a refused
+    shelf price. The hearing is in two months. What is the best move now?
+  options:
+    - >-
+      Send the request now and ask to amend, accepting the risk.
+    - >-
+      Nothing: the request is a formality that courts usually ignore.
+    - >-
+      Withdraw the claim permanently, since the defect cannot be cured.
+    - >-
+      Ask the Authority to send the written request on your behalf.
+  correct: 0
+  explanation: >-
+    Section 31א(ב) bars an exemplary-damages claim without a prior written request. Sending it and seeking to
+    amend may save the head; the court decides. Next time, the request comes first.
+- id: q4
+  question: >-
+    A business's lawyer appears at your small-claims hearing without having asked for leave. What does the
+    law say?
+  options:
+    - >-
+      Any company may always be represented by a lawyer in small claims.
+    - >-
+      The lawyer may appear only if you consent at the start of the hearing.
+    - >-
+      The hearing must be moved to the magistrates' court at once.
+    - >-
+      A lawyer may appear in small claims only with the court's leave.
+  correct: 3
+  explanation: >-
+    Courts Law s. 63: parties appear in person in small claims; representation by a lawyer needs the court's
+    leave, given only for special reasons.

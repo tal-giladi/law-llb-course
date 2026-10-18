@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You paid a builder with a cheque for work he never did and stopped it. The builder himself opened an
+    execution file on the cheque. Which defence is open to you in your opposition?
+  options:
+    - >-
+      None, because a cheque is abstract and the deal behind it is irrelevant.
+    - >-
+      Total failure of consideration, because the builder is your immediate party.
+    - >-
+      Only forgery or alteration, since those are the only defences on a cheque.
+    - >-
+      Only a claim that the cheque was overdue when he presented it to the bank.
+  correct: 1
+  explanation: >-
+    Between immediate parties the drawer may raise all defences from the underlying deal, including failure
+    of consideration. The abstraction protects only a remote holder in due course (s. 37(2)).
+- id: q2
+  question: >-
+    A discount company presents your cheque. It says it is a holder in due course. You have no information
+    about how it got the cheque. Who must prove what?
+  options:
+    - >-
+      The company must first prove good faith and value before you need to answer.
+    - >-
+      Nobody: the registrar decides on the papers without any burden of proof.
+    - >-
+      The company is presumed a holder in due course; you must bring facts that undermine it.
+    - >-
+      You must prove that the company paid nothing at all, or you lose automatically.
+  correct: 2
+  explanation: >-
+    Section 29(ב) presumes every holder to be a holder in due course. The burden shifts to the holder only
+    once fraud, duress or illegality in the issue or negotiation is admitted or proved.
+- id: q3
+  question: >-
+    A bank took a customer's cheque as security, but the endorsement name did not match the payee's name. The
+    drawer's goods were never delivered. Under Tal Trading, what is the result?
+  options:
+    - >-
+      The drawer may raise total failure of consideration against the bank.
+    - >-
+      The bank wins because, as a holder for value, it defeats failure of consideration.
+    - >-
+      The bank wins because banks are always holders in due course of deposited cheques.
+    - >-
+      The cheque is void for everyone because the endorsement was irregular.
+  correct: 0
+  explanation: >-
+    Tal Trading overruled Guisky: a holder for value who is not a holder in due course is subject to personal
+    defences, including total failure of consideration. The irregular endorsement prevented due-course status.
+- id: q4
+  question: >-
+    Your cheque for ₪1,500 was changed to ₪7,500 by the payee, skilfully, and then endorsed to a shop that took
+    it in good faith. What can the shop recover from you?
+  options:
+    - >-
+      ₪7,500, because the shop is a holder in due course and takes free of all defences.
+    - >-
+      Nothing, because any alteration makes the cheque void against everyone.
+    - >-
+      ₪7,500, minus whatever you can recover from the payee in a separate claim.
+    - >-
+      ₪1,500: a holder in due course enforces an invisible alteration as originally written.
+  correct: 3
+  explanation: >-
+    A material alteration voids the bill against parties who did not consent, but a holder in due course of a
+    bill whose alteration is not apparent may enforce it according to its original tenor (s. 64(א)).

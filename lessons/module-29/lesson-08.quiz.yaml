@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    You are buying a van from a limited company. Your search of the pledges database by licence number shows
+    nothing. What else should you check before paying?
+  options:
+    - >-
+      Nothing, because the pledges database covers every kind of security.
+    - >-
+      Only the seller's personal ID, in the same pledges database.
+    - >-
+      Only whether the seller paid the van's annual licence fee.
+    - >-
+      The Companies Registrar, where company charges are registered.
+  correct: 3
+  explanation: >-
+    Charges created by a company are registered with the Companies Registrar (Pledges Law s. 4(1)); a floating
+    charge there may cover the van. Search every register that applies.
+- id: q2
+  question: >-
+    The pledges search shows a pledge to a finance company. The seller says: "Pay me, and I will clear it
+    tomorrow." What is the safe sequence?
+  options:
+    - >-
+      Pay the seller in cash, since cash leaves no trace of the pledge.
+    - >-
+      Pay the lender directly per a payoff letter, see the release, then pay the balance.
+    - >-
+      Pay the seller, then register your own pledge on the van as protection.
+    - >-
+      Transfer ownership first, since a new owner is not bound by old pledges.
+  correct: 1
+  explanation: >-
+    A registered pledge binds a later buyer (s. 4(3)). Paying the lender directly and checking the cancellation
+    before paying the seller is the only sequence that guarantees a clean title.
+- id: q3
+  question: >-
+    You stopped a cheque to a builder who walked off the job. Your account was ₪2,000 overdrawn that day. The
+    builder's cousin now demands payment as holder. Which statement is right?
+  options:
+    - >-
+      It counts toward restriction; your defences survive unless he is in due course.
+    - >-
+      The cheque does not count toward restriction, because you gave a stop order.
+    - >-
+      The cousin always wins, because the stop order was a breach of the cheque.
+    - >-
+      You must pay the cousin first and claim your defences from the builder later.
+  correct: 0
+  explanation: >-
+    Section 1 counts a cheque refused for lack of balance even with a stop order. Restriction and liability are
+    separate: against a holder who is not in due course, your personal defences remain (Tal Trading).
+- id: q4
+  question: >-
+    Your bank's restriction notice arrived today. You think one cheque was refused while your approved credit
+    line covered it. What do you do first?
+  options:
+    - >-
+      Wait for the restriction year to end and then ask for compensation.
+    - >-
+      Complain only to the Bank of Israel, which will cancel the restriction.
+    - >-
+      Ask the bank in writing to remove the cheque, then appeal in the period.
+    - >-
+      Open a new account at another bank before the restriction starts.
+  correct: 2
+  explanation: >-
+    The appeal under s. 10(א)(3) must attach the prior request to the bank and its answer (reg. 4(3)) and be
+    filed within the period from service of the notice (reg. 5). A restricted customer may not open an account.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A lender's contract says "interest 9% a year" on a ₪20,000 loan, but ₪2,000 was deducted up front as a
+    fee. To check the Fair Credit Law cap, what do you compare with the maximum cost of credit?
+  options:
+    - >-
+      The 9% nominal rate, because fees are governed by a separate rule.
+    - >-
+      The real cost: all additions as an annual rate on the ₪18,000 received.
+    - >-
+      The default-interest rate, because the cap applies only after default.
+    - >-
+      Nothing, because loans from licensed lenders are exempt from the cap.
+  correct: 1
+  explanation: >-
+    The cap in s. 5 applies to the real cost of credit, the annual ratio of all additions (interest and fees)
+    to the amount the borrower actually received (s. 1).
+- id: q2
+  question: >-
+    You missed two loan payments. The next day the lender demanded the whole balance with default interest,
+    without any earlier letter. What is your best argument?
+  options:
+    - >-
+      Acceleration is never allowed for consumer loans under any circumstances.
+    - >-
+      The demand is void because it was not sent by the lender's lawyer.
+    - >-
+      A prior warning with a minimum period to cure was required.
+    - >-
+      Default interest may be charged only after a court judgment.
+  correct: 2
+  explanation: >-
+    Section 7(ג) requires a warning listing what the borrower can do to prevent acceleration, with a minimum
+    period in business days, before the balance is accelerated (subject to narrow exceptions in s. 7(ג)(2)).
+- id: q3
+  question: >-
+    Your mortgage application was refused because a credit bureau report shows an unpaid card debt you paid
+    two years ago. What is the right first step?
+  options:
+    - >-
+      Get your free Bank of Israel report and ask for a s. 56 correction.
+    - >-
+      Sue the bank that refused the mortgage for unlawful discrimination.
+    - >-
+      Ask the credit bureau to delete your whole file under s. 22 at once.
+    - >-
+      Wait ten years, until the data is deleted from the database automatically.
+  correct: 0
+  explanation: >-
+    The Credit Data Law gives a free annual summary report (s. 38(ד)) and a correction procedure through the
+    Bank of Israel, which asks the source to check and update (ss. 56–57).
+- id: q4
+  question: >-
+    A gym's collection agency sent you a "final warning before legal action" for a missed payment. You never
+    received anything from the gym itself. What rule helps you?
+  options:
+    - >-
+      None: any creditor may send warnings through an agency at any stage.
+    - >-
+      The Fair Credit Law, because a gym membership is a loan.
+    - >-
+      The Execution Law, which forbids warnings before a file is opened.
+    - >-
+      The dealer must send its own debt notice and wait before collecting.
+  correct: 3
+  explanation: >-
+    Consumer Protection Law s. 13ב2 requires the dealer itself to send a detailed debt notice and forbids any
+    collection step, including a pre-action warning, or collection costs, before the waiting period passes.

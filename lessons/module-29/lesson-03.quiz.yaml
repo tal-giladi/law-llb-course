@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Your account was overdrawn beyond its limit when you stopped a cheque to a seller who had not delivered.
+    The bank refused the cheque, citing both the stop order and insufficient funds. Does it count toward
+    restriction?
+  options:
+    - >-
+      No, because a stop order always removes a cheque from the count.
+    - >-
+      Yes, because it was refused for lack of balance, whatever the other reason.
+    - >-
+      No, because the seller's breach gives you a defence on the cheque.
+    - >-
+      Only if the seller presents it a second time and it is refused again.
+  correct: 1
+  explanation: >-
+    Section 1 counts a cheque refused for insufficient balance "whether or not there was another reason or a
+    stop order". Your defence against the seller is a separate matter (s. 6(ב)).
+- id: q2
+  question: >-
+    You received a bank restriction notice. You want to appeal because the warning after the fifth cheque
+    never reached you, although the bank posted it to your registered address. What is your position?
+  options:
+    - >-
+      You have a good ground, because the warning is a condition of restriction.
+    - >-
+      You must first complain to the Bank of Israel, which can cancel the restriction.
+    - >-
+      You may appeal within any reasonable time, since the bank was at fault.
+    - >-
+      Non-receipt of a warning that was sent is not a ground of appeal; look for another ground.
+  correct: 3
+  explanation: >-
+    Section 10(ב) excludes a defect in the warning, and non-receipt of a warning the bank sent, as grounds.
+    The appeal must rest on one of the grounds in s. 10(א) and be filed within the period in reg. 5.
+- id: q3
+  question: >-
+    At 11:00 your bank texted that a cheque could not be covered. You had money in your other account but did
+    nothing. The cheque was the tenth refused cheque. Can you appeal under the same-day-notice ground?
+  options:
+    - >-
+      No: the bank sent the notice in time, so the s. 10(א)(6) ground is not met.
+    - >-
+      Yes, because the bank should have moved the money between your accounts.
+    - >-
+      Yes, because any cheque you could have covered must be removed from the count.
+    - >-
+      No, because same-day notices apply only to business accounts.
+  correct: 0
+  explanation: >-
+    Section 7א requires the bank to notify you so you can deposit before the last time. The ground in
+    s. 10(א)(6) applies only if the bank did not send the notice, sent it to wrong details, or the last time had
+    not passed.
+- id: q4
+  question: >-
+    A tenant's rent cheque bounced. You are the landlord and want to collect. What should you do first?
+  options:
+    - >-
+      Report the tenant to the police for issuing a cheque without cover.
+    - >-
+      Ask the Bank of Israel to restrict the tenant's account at once.
+    - >-
+      Ask the drawee bank for the drawer's details and send the tenant a written demand.
+    - >-
+      Wait for the restriction, since restriction obliges the bank to pay you.
+  correct: 2
+  explanation: >-
+    The holder may get the drawer's identity details from the drawee bank (s. 12) and then demand payment,
+    execute the cheque (Execution Law s. 81א) or sue. Bouncing a cheque is not itself an offence, and
+    restriction does not pay the holder (s. 6(ב)).

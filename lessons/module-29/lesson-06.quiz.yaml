@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You bought a heater because an online ad said it used "half the electricity of any rival". It does not.
+    You want exemplary damages in small claims. What is the main problem?
+  options:
+    - >-
+      Exemplary damages need proof of actual loss above a minimum sum.
+    - >-
+      General misleading is not on the closed s. 31א list of breaches.
+    - >-
+      Ads are never misleading under s. 2 unless the dealer signed a contract.
+    - >-
+      Only the Authority may claim exemplary damages, never the consumer.
+  correct: 1
+  explanation: >-
+    Section 31א lists specific breaches; general misleading under s. 2 is not among them. Your remedies are
+    cancellation under s. 32 and tort damages under s. 31, which require that you relied on the ad (Barazani).
+- id: q2
+  question: >-
+    A gym kept charging your card for three months after you cancelled by email. You want to claim exemplary
+    damages. What must you do before filing?
+  options:
+    - >-
+      Complain to the Consumer Protection Authority and wait for its decision.
+    - >-
+      Obtain a police report showing that the charging was a criminal offence.
+    - >-
+      Send the gym a written request to stop charging and refund, and keep proof of it.
+    - >-
+      Nothing, because charging after cancellation entitles you to damages automatically.
+  correct: 2
+  explanation: >-
+    Section 31א(ב) bars an exemplary-damages claim unless the consumer first sent or delivered a written
+    request (email counts). For continuing charges after cancellation of a continuing deal, the cancellation
+    notice under s. 14ט may itself suffice, but a separate request is the safe course.
+- id: q3
+  question: >-
+    A food company sold a product with an undisclosed additive to hundreds of thousands of consumers. Each
+    buyer lost a few shekels. Which route best fits?
+  options:
+    - >-
+      A class action, with group causation and damages for autonomy harm.
+    - >-
+      Each buyer's own small claim for exemplary damages under s. 31א(א).
+    - >-
+      An application by a consumer to the Standard Contracts Tribunal.
+    - >-
+      A complaint to the Bank of Israel, which supervises all food labelling.
+  correct: 0
+  explanation: >-
+    Tnuva held that in a class action causation may be established at group level and harm to consumers'
+    autonomy is compensable. Undisclosed additives are not a listed s. 31א breach.
+- id: q4
+  question: >-
+    A dealer was warned in writing by the Authority about refusing shelf prices and kept doing it. You were
+    refused the shelf price after the warning. What does that change?
+  options:
+    - >-
+      Nothing, since exemplary damages are always capped at one amount.
+    - >-
+      You may claim from the Authority instead of the dealer.
+    - >-
+      You no longer need to send the dealer a written request first.
+    - >-
+      It becomes a continuing breach, so the higher ceiling is open.
+  correct: 3
+  explanation: >-
+    Under s. 31א(ג) a breach after a regulator's notice or order is a "continuing breach", allowing exemplary
+    damages above the ordinary ceiling, up to the higher one.

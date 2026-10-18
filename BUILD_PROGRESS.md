@@ -51,7 +51,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 26 — Inheritance and Wills
 - [x] Module 27 — Planning, Building and Local Government
 - [x] Module 28 — Insolvency and Execution
-- [ ] Module 29 — Commercial Law: Payments, Liens and Consumer Protection
+- [x] Module 29 — Commercial Law: Payments, Liens and Consumer Protection
 - [ ] Module 30 — Private International Law
 - [ ] Module 31 — Clinic III: Property, Estates and Money
 - [ ] Year 3 QA: links, neutrality, Academy dry run
@@ -59,7 +59,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 29: sub-agent A
+- Module 31: sub-agent A
 - Module 30: sub-agent B
 
 

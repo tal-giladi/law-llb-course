@@ -1,0 +1,175 @@
+- id: q1
+  question: >-
+    Eli gave a carpenter a post-dated cheque for a wardrobe. The carpenter endorsed it, before its date, to a
+    timber supplier who knew nothing of the deal and gave value. The wardrobe was never built. The supplier
+    sues Eli. What is the likely result?
+  options:
+    - >-
+      Eli wins, because total failure of consideration is a defence against any holder.
+    - >-
+      The supplier wins if it is a holder in due course; Eli must claim from the carpenter.
+    - >-
+      Eli wins, because a post-dated cheque cannot be endorsed before its date.
+    - >-
+      The supplier wins only if the carpenter is also joined as a defendant.
+  correct: 1
+  explanation: >-
+    A holder in due course takes free of personal defences such as failure of consideration (s. 37(2)). A
+    post-dated cheque may be negotiated before its date; it is payable only from it (s. 73(ב)).
+- id: q2
+  question: >-
+    A bank took a customer's cheque as security, though the endorsement did not match the payee's name. The
+    drawer's goods never arrived. Which statement reflects current law?
+  options:
+    - >-
+      The bank is protected as a holder for value under the 1962 Guisky rule.
+    - >-
+      The cheque is void for everyone because of the irregular endorsement.
+    - >-
+      The bank is not in due course, so total failure of consideration is a defence.
+    - >-
+      The bank may enforce the cheque only against the endorser, never the drawer.
+  correct: 2
+  explanation: >-
+    Tal Trading (2015, further hearing 2017) overruled Guisky: a holder for value who is not a holder in due
+    course is subject to the drawer's defences, including total failure of consideration.
+- id: q3
+  question: >-
+    Over eleven months, nine of Rana's cheques were refused for lack of funds. Today her bank texts at noon
+    that a tenth cheque cannot be covered; she has money in a savings account she can break today. What
+    should she do?
+  options:
+    - >-
+      Deposit enough before the deadline stated in the notice, so the cheque is not refused.
+    - >-
+      Give a stop order on the cheque, so it will not count toward restriction.
+    - >-
+      Do nothing, since she can always appeal the restriction to the court later.
+    - >-
+      Open a second account today, before any restriction takes effect.
+  correct: 0
+  explanation: >-
+    Section 7א lets the customer deposit until the last time stated; a stop order does not help when the
+    balance is short (s. 1), and appeals are limited to the closed grounds of s. 10(א).
+- id: q4
+  question: >-
+    A court is asked to remove a cheque from the restriction count because the customer "never received the
+    bank's warning after the fifth cheque", which the bank had posted. How should the court rule?
+  options:
+    - >-
+      Remove it, because the warning is a condition of any restriction.
+    - >-
+      Remove it only if the customer files within a year of the warning.
+    - >-
+      Refer the matter to the Supervisor of Banks, who has exclusive power.
+    - >-
+      Refuse, because non-receipt of a warning that was sent is not a ground.
+  correct: 3
+  explanation: >-
+    Section 10(ב) excludes a defect in the warning, and non-receipt of a warning that was sent, as grounds for
+    removing a cheque from the count.
+- id: q5
+  question: >-
+    Sivan lent her neighbour ₪40,000 and took a pledge on his car, but never registered it. He went bankrupt,
+    and the trustee claims the car. Sivan says the trustee "should have known" about the pledge. What decides
+    the issue?
+  options:
+    - >-
+      An unregistered pledge is void, even between the two parties themselves.
+    - >-
+      Unregistered, it binds the trustee only if he knew or should have known.
+    - >-
+      The pledge binds everyone because it was made in writing and signed.
+    - >-
+      Sivan may realise the car herself, since a private lender needs no order.
+  correct: 1
+  explanation: >-
+    Under s. 4(3) an unregistered, undeposited pledge is effective against other creditors, including a trustee
+    (s. 24), only if they knew or should have known of it. Realisation needs an order (s. 17).
+- id: q6
+  question: >-
+    A car-finance agreement says the lender may, on any default, "repossess and sell the vehicle privately at a
+    price it sets". The lender is not a bank. The borrower missed one payment. What is the legal position?
+  options:
+    - >-
+      The clause is effective because the borrower signed it when he took the loan.
+    - >-
+      The clause is effective only after a 21-day warning under the Fair Credit Law.
+    - >-
+      The lender may sell, but must give the borrower half of any surplus.
+    - >-
+      The clause cannot bind: realisation methods may not be agreed before the due date.
+  correct: 3
+  explanation: >-
+    Section 16(ב) of the Pledges Law forbids agreeing on realisation before the due date; the lender needs a
+    court or execution order (ss. 17–18). Only institutional bodies may self-realise in the s. 17(3) cases.
+- id: q7
+  question: >-
+    A bank conditions a ₪25,000 car loan on the customer buying the bank's travel insurance. He complained to
+    the bank, which refused to change its position. What is the best next step?
+  options:
+    - >-
+      Complain to the Bank of Israel, citing the ban on tying.
+    - >-
+      Apply to the Standard Contracts Tribunal in his own name today.
+    - >-
+      Sue for exemplary damages under the Consumer Protection Law.
+    - >-
+      Accept the condition, because a bank may refuse credit for any reason.
+  correct: 0
+  explanation: >-
+    Banking (Service to Customer) Law s. 7 bars tying without a reasonable business connection; the Supervisor
+    investigates complaints (s. 16). Individuals cannot apply to the Tribunal, and s. 31א does not cover this.
+- id: q8
+  question: >-
+    A phone company kept charging Omar for four months after he cancelled by email. He sent a written request;
+    it refused. The Authority had earlier issued it a written notice about the same practice. What may Omar
+    claim in small claims?
+  options:
+    - >-
+      Only a refund, because exemplary damages need proof of loss.
+    - >-
+      Exemplary damages only, because a refund is barred once they are claimed.
+    - >-
+      A refund plus exemplary damages, possibly above the ordinary ceiling.
+    - >-
+      Nothing yet, until the Authority completes its own enforcement action.
+  correct: 2
+  explanation: >-
+    Charging after cancellation is a listed breach (s. 31א(א)(2ב)); a breach after a regulator's notice is a
+    "continuing breach" allowing the higher ceiling (s. 31א(ג)). The refund is claimed as well.
+- id: q9
+  question: >-
+    Moran took a ₪10,000 loan from an app lender; ₪900 was deducted as a "processing fee". The contract shows
+    the nominal interest only. In an execution file, how should the registrar treat the loan?
+  options:
+    - >-
+      As lawful, because the nominal interest rate is below the legal cap.
+    - >-
+      As outside the Fair Credit Law, because app loans are never regulated.
+    - >-
+      As void, so that the lender recovers nothing at all from her.
+    - >-
+      Test the real cost on the ₪9,100 received; limit enforcement if unlawful.
+  correct: 3
+  explanation: >-
+    The cap applies to the real cost of credit on the amount actually received (ss. 1, 5); if disclosures are
+    missing the highest rate is treated as fixed (s. 5(ג)). The registrar may refuse or limit enforcement
+    (s. 10).
+- id: q10
+  question: >-
+    Yael finds a three-year-old unpaid card debt in her credit-data report; she has a closing letter from the
+    card company. A mortgage bank cites the report. What is the most effective route?
+  options:
+    - >-
+      Sue the mortgage bank for relying on the report.
+    - >-
+      Ask the Bank of Israel to correct the data, attaching the closing letter.
+    - >-
+      Ask the card company to send her a new copy of the closing letter.
+    - >-
+      Opt out of the database so that no report can be issued about her.
+  correct: 1
+  explanation: >-
+    The Credit Data Law gives a correction procedure through the Bank of Israel, which asks the source to
+    check and update (ss. 56–57). Opting out does not correct past data already reported.
