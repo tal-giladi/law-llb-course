@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    An anonymous Telegram channel posts your e-book chapter by chapter. Under Israeli law, which court
+    procedure lets you find out who runs it so that you can sue?
+  options:
+    - >-
+      A complaint to the Patent Office, which keeps a register of online publishers.
+    - >-
+      An application to the magistrates' court under the Mor v. Barak procedure.
+    - >-
+      A small claim against "unknown defendant", after which the court finds the operator.
+    - >-
+      An application to the District Court to disclose the actor's identity, under ss. 60א–60ח.
+  correct: 3
+  explanation: >-
+    Chapter 8.1 of the Copyright Law, added in 2019, lets the District Court order a named respondent to
+    provide identifying data in stages. Mor v. Barak held there was no such procedure before legislation.
+- id: q2
+  question: >-
+    YouTube removed your cooking video after a record label's claim about a song playing faintly on a
+    radio in the background. You are considering a counter-notification. What should you weigh first?
+  options:
+    - >-
+      Whether the use is lawful, since a counter-notice is sworn and consents to US jurisdiction.
+    - >-
+      Nothing: a counter-notice simply asks YouTube to look again, without legal effect.
+    - >-
+      Whether you can file it anonymously so that the label cannot identify you.
+    - >-
+      Whether Israeli law gives you a statutory right to restoration within ten days.
+  correct: 0
+  explanation: >-
+    YouTube's counter-notice requires your full details, a statement under penalty of perjury and consent
+    to US jurisdiction. Incidental use (s. 22) may support you, but decide on the legal ground first.
+    Israel has no statutory takedown or restoration procedure.
+- id: q3
+  question: >-
+    Which statement about notice and takedown in Israel is accurate?
+  options:
+    - >-
+      The Copyright Law sets a 48-hour statutory deadline for hosts to remove content after notice.
+    - >-
+      Hosts are strictly liable for every infringing post, notice or no notice.
+    - >-
+      No statute sets it; courts have applied a notice-and-takedown standard to hosts and forums.
+    - >-
+      Notice and takedown applies only to access providers, through blocking orders.
+  correct: 2
+  explanation: >-
+    The Copyright Law has no safe harbour or takedown procedure; case law such as Rotter held a forum host
+    liable only if it failed to remove after notice. Blocking orders under s. 53א are a separate court
+    remedy.
+- id: q4
+  question: >-
+    A site hosted on a server controlled from Tel Aviv mainly streams pirated football matches. A
+    rights holder applies under s. 53א. What will the court normally order if the grounds are proved?
+  options:
+    - >-
+      A blocking order against all Israeli access providers, as the statute's only remedy.
+    - >-
+      Removal of the content from the server, rather than blocking.
+    - >-
+      Disclosure of every user who watched the streams.
+    - >-
+      Nothing, because blocking orders apply only to foreign sites.
+  correct: 1
+  explanation: >-
+    Section 53א(ח) says that where the server is in Israel or controlled from Israel the court orders
+    removal from the server instead of a blocking order, unless removal is impossible or there are special
+    reasons.

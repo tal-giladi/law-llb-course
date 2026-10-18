@@ -1,0 +1,29 @@
+- **קניין רוחני** (kinyan ruchani) — Intellectual property: the statutory rights in creations and business signs (copyright, trade marks, patents, designs, trade secrets).
+- **זכות יוצרים** (zchut yotzrim) — Copyright: the exclusive right to copy, publish, perform, broadcast, make available and adapt an original work (Copyright Law 2007, s. 11).
+- **יצירה מקורית** (yetzira mekorit) — Original work: a fixed work that originates from its author with some investment and minimal creativity (Safecom).
+- **לקט** (leket) — Compilation, including a database; original only in its selection and arrangement (Copyright Law s. 4(ב)).
+- **יצירה מוזמנת** (yetzira muzmenet) — Commissioned work: copyright stays with the author unless agreed otherwise, except family-event photos and portraits (s. 35).
+- **רישיון ייחודי** (rishayon yihudi) — Exclusive licence: requires writing, like an assignment (s. 37(ג)); its holder may sue (s. 54).
+- **זכות מוסרית** (zchut musarit) — Moral right: the author's personal, non-transferable right to attribution and integrity (ss. 45–46).
+- **שימוש הוגן** (shimush hogen) — Fair use: a permitted use judged by purpose, nature of the work, amount and market effect (s. 19).
+- **שימוש אגבי** (shimush agavi) — Incidental use: incidental inclusion of a work in a photo, film or recording (s. 22).
+- **יצירה יתומה** (yetzira yetoma) — Orphan work: a work whose owner cannot be found; usable under the conditions of s. 27א.
+- **פיצויים ללא הוכחת נזק** (pitzuyim lelo hochachat nezek) — Statutory damages: damages up to a statutory ceiling per infringement without proof of loss (Copyright Law s. 56; CTL s. 13; Designs Law s. 75).
+- **מפר תמים** (mefer tamim) — Innocent infringer: one who neither knew nor should have known that copyright existed; owes no damages (s. 58).
+- **הודעה והסרה** (hoda'a ve-hasara) — Notice and takedown: removal of infringing content by a host after notice; in Israel a case-law standard, not a statutory procedure.
+- **צו הגבלת גישה** (tzav hagbalat gisha) — Blocking order: a District Court order to access providers to restrict access to a mainly infringing site (Copyright Law s. 53א).
+- **בקשה לחשיפת זהות** (bakasha lachasifat zehut) — Application to disclose identity of an anonymous online copyright infringer (Copyright Law ss. 60א–60ח).
+- **סימן מסחר** (siman mischar) — Trade mark: a sign used or intended for goods; the Ordinance applies equally to service marks (סימן שירות).
+- **אופי מבחין** (ofi mavchin) — Distinctive character: the ability of a mark to distinguish its owner's goods; inherent or acquired through use (Ordinance s. 8).
+- **מבחן המשולש** (mivchan ha-meshulash) — The triple test for confusing similarity: sight and sound, goods and customers, other circumstances.
+- **סימן מסחר מוכר היטב** (siman mischar mukar heitev) — Well-known trade mark: protected even if unregistered for the same or similar goods (Ordinance ss. 1, 46א).
+- **התנגדות לרישום** (hitnagdut le-rishum) — Opposition: a challenge to a published trade-mark application within three months (Ordinance s. 24).
+- **גניבת עין** (gnevat ayin) — Passing off: causing one's goods or services to be mistaken for another trader's (Commercial Torts Law s. 1).
+- **סוד מסחרי** (sod mischari) — Trade secret: non-public business information giving an advantage and kept secret by reasonable measures (CTL s. 5).
+- **אמצאה כשירת פטנט** (amtza'a kshirat patent) — Patentable invention: new, useful, industrially applicable and inventive (Patents Law s. 3).
+- **התקדמות המצאתית** (hitkadmut hamtza'atit) — Inventive step: an advance not obvious to an average skilled person (Patents Law s. 5).
+- **דין קדימה** (din kdima) — Priority: the right to rely on an earlier foreign application's date (12 months for patents, 6 months for trade marks).
+- **עורך פטנטים** (orech patentim) — Patent attorney: a licensed professional with the exclusive right, beside lawyers, to handle patent, design and trade-mark applications for others for pay (Patents Law s. 154).
+- **עיצוב** (itzuv) — Design: the appearance of a product; registered for up to 25 years or unregistered for 3 years (Designs Law 2017).
+- **אמצאת שירות** (amtza'at sherut) — Service invention: an employee's invention made as a result of and during service; the employer's unless agreed otherwise (Patents Law s. 132).
+- **הוועדה לענייני פיצויים ותמלוגים** (ha-va'ada le-inyanei pitzuyim ve-tamlugim) — Compensation and Royalties Committee: decides an employee's compensation for a service invention absent agreement (Patents Law ss. 109, 134).

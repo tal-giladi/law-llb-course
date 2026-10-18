@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You hired a photographer for your son's bar mitzvah. Two years later you find the photos on the
+    photographer's paid stock site. The contract says nothing about rights. Who is the first owner of
+    the copyright?
+  options:
+    - >-
+      The photographer, because the author is always the first owner of a commissioned work.
+    - >-
+      Both of you jointly, because you chose the event and the photographer chose the shots.
+    - >-
+      You, because a commissioned photo of a family event belongs to the commissioning party.
+    - >-
+      Nobody, because event photos lack the creativity that originality requires.
+  correct: 2
+  explanation: >-
+    Section 35(ב) makes the commissioning party the first owner of a commissioned portrait or photo of a
+    family or private event, unless agreed otherwise. Selling them without your permission infringes.
+- id: q2
+  question: >-
+    A software developer employed by a fintech company writes, at home and on weekends, a mobile game
+    unrelated to the company's products. The company claims the copyright. What is the key question?
+  options:
+    - >-
+      Whether the game was made for the purpose of his job and in its course, under s. 34.
+    - >-
+      Whether he used a company laptop, which automatically transfers ownership.
+    - >-
+      Whether the game was registered with the Patent Office before the claim.
+    - >-
+      Whether the company paid him a salary during the months he wrote it.
+  correct: 0
+  explanation: >-
+    The employer owns only works made for the job and in its course, unless agreed otherwise (s. 34).
+    A side project outside his duties is likely his, subject to anything his contract says.
+- id: q3
+  question: >-
+    An author died in June 1955. Since when may a publisher reprint the novel in Israel without
+    permission, assuming no special rule applies?
+  options:
+    - >-
+      Since June 2025, seventy years after the date of death.
+    - >-
+      Since 1 January 2026, because the term ends on 31 December of the expiry year.
+    - >-
+      Since 1 January 2006, because works by authors who died before 1960 have 50 years.
+    - >-
+      Never, because the moral right in the novel lasts forever.
+  correct: 1
+  explanation: >-
+    The term is life plus seventy years (s. 38) and ends on 31 December of the year it expires (s. 43):
+    31 December 2025. The moral right lasts only as long as the copyright (s. 45(א)).
+- id: q4
+  question: >-
+    A café owner and a freelance illustrator agree on the phone that the café "buys" the illustrator's
+    logo and all rights in it for ₪3,000. Nothing is written. Is the copyright assigned?
+  options:
+    - >-
+      Yes, because payment of the full price completes the sale.
+    - >-
+      Yes, because a logo used as a trade mark belongs to the business using it.
+    - >-
+      No, because copyright in a logo can never be transferred, only licensed.
+    - >-
+      No, because an assignment of copyright requires a written document.
+  correct: 3
+  explanation: >-
+    Section 37(ג) requires writing for an assignment or an exclusive licence. The café probably has an
+    implied non-exclusive licence to use the logo, but should get a signed assignment.

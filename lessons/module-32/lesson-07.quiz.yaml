@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A small bakery's owner says her sourdough recipe is a trade secret. All five employees can see it
+    pinned on the kitchen wall, and nobody signed anything about confidentiality. A former employee now
+    uses it. What is the weakest point in her claim?
+  options:
+    - >-
+      Recipes can never be trade secrets because they are lists of facts.
+    - >-
+      Trade secrets must be registered with the Patent Office to be protected.
+    - >-
+      Only a patent can protect a method of making food.
+    - >-
+      She took no reasonable measures to keep the recipe secret.
+  correct: 3
+  explanation: >-
+    A trade secret requires reasonable measures to keep it secret (CTL s. 5). Business information of any
+    kind can qualify, and no registration exists for secrets.
+- id: q2
+  question: >-
+    A salesperson leaves a company with a two-year non-compete covering "any sales job in Israel". She
+    joins a competitor and uses only her experience and contacts she made publicly. After AES v. Sa'ar,
+    how is a court likely to treat the clause?
+  options:
+    - >-
+      As valid only to the extent it protects a legitimate interest.
+    - >-
+      As fully enforceable, because she signed it freely and knowingly.
+    - >-
+      As void, because Israeli law never enforces any non-compete clauses.
+    - >-
+      As enforceable only if the company paid her during the two years.
+  correct: 0
+  explanation: >-
+    A restraint of freedom of occupation is valid only to protect a legitimate interest and only to a
+    reasonable extent in time, place and activity; preventing competition or the use of general skills is
+    not a legitimate interest.
+- id: q3
+  question: >-
+    Your former employer wants to sue you for using its trade secrets in your new business, which you
+    started after leaving. In which forum must it sue?
+  options:
+    - >-
+      The District Court, which hears all intellectual property claims.
+    - >-
+      The regional labour court, which has exclusive jurisdiction.
+    - >-
+      The Patent Office Registrar, who hears trade-secret disputes.
+    - >-
+      The magistrates' court, because the claim arose after the job ended.
+  correct: 1
+  explanation: >-
+    CTL s. 22 gives the regional labour court exclusive jurisdiction over trade-secret claims between
+    employee and employer arising from the employment relationship, including after it ended.
+- id: q4
+  question: >-
+    An engineer developed a patented process at work. His contract says nothing about compensation, and
+    he signed no waiver. The employer earns millions from it. What can he do?
+  options:
+    - >-
+      Nothing, because a service invention belongs to the employer with no compensation.
+    - >-
+      Sue the employer for patent infringement, since he is the inventor.
+    - >-
+      Apply to the Compensation and Royalties Committee to set his compensation.
+    - >-
+      Ask the Registrar to transfer the patent to him because no agreement exists.
+  correct: 2
+  explanation: >-
+    Without an agreement on compensation, the Committee decides whether and how much the employee
+    receives, considering his role, initiative and the invention's exploitation (Patents Law ss. 134–135).

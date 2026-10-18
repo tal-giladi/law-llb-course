@@ -14,6 +14,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אוחז בעד ערך** (ochez be'ad erech) — Holder for value: since Tal Trading (2015, 2017) not protected against the drawer's personal defences unless also in due course.
 - **אוחז כשורה** (ochez ka-shura) — Holder in due course: takes a regular bill before overdue, in good faith, for value and without notice; free of personal defences (ss. 28, 37).
 - **אומד דעת הצדדים** (omed da'at ha-tzdadim) — the parties' intention, the basis of contract interpretation.
+- **אופי מבחין** (ofi mavchin) — Distinctive character: the ability of a mark to distinguish its owner's goods; inherent or acquired through use (Ordinance s. 8).
 - **אורגן** (Organ) — Organ of a company: general meeting, board, general manager (Companies Law s. 46).
 - **אזהרה** (Azhara) — The warning served on a debtor when an execution file opens (Execution Law s. 7).
 - **אזכור חוזר** (izkur chozer) — A repeat (short) citation.
@@ -38,6 +39,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אכיפה** (akhifa) — enforcement (specific performance), including orders to pay (Remedies Law s. 3).
 - **אם נושאת** (Em nos'et) — Gestational surrogate.
 - **אמנה** (Amana) — Treaty or convention: a written agreement between States governed by international law, whatever its name.
+- **אמצאה כשירת פטנט** (amtza'a kshirat patent) — Patentable invention: new, useful, industrially applicable and inventive (Patents Law s. 3).
+- **אמצאת שירות** (amtza'at sherut) — Service invention: an employee's invention made as a result of and during service; the employer's unless agreed otherwise (Patents Law s. 132).
 - **אמרת אגב** (imrat agav) — obiter dictum: a remark not necessary for the decision.
 - **אמרת חוץ** (imrat chutz) — Out-of-court statement; in criminal cases a witness's written statement may be admitted under s. 10א.
 - **אסדרה** (Asdara) — Regulation as an activity (the Hebrew term for "regulation" in the Regulatory Principles Law 2021).
@@ -87,6 +90,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בעלות** (Ba'alut) — Ownership: the right to possess, use and deal with property (Land Law s. 2; Movable Property Law s. 2).
 - **בקשה לאישור** (bakasha le-ishur) — Application for certification of a class action (s. 5); nothing is a class action until the court certifies it.
 - **בקשה להישפט** (bakasha lehishafet) — Request to be tried for a fine offence, within 90 days of service (CPL s. 229(א)(2)).
+- **בקשה לחשיפת זהות** (bakasha lachasifat zehut) — Application to disclose identity of an anonymous online copyright infringer (Copyright Law ss. 60א–60ח).
 - **בקשה ליישוב סכסוך** (Bakasha le-yishuv sikhsukh) — The bare request that must precede any contested family claim (2014 Law).
 - **בקשה לעיון מחדש** (Bakasha le-iyun mehadash) — Request for reconsideration of an administrative decision.
 - **בקשה לרישום ירושה** (bakasha le-rishum yerusha) — Application to the Land Registry to register an inheritance (a succession or probate order, distribution agreement or order) in place of the deceased (Land Management and Registration Regulations regs 17–18).
@@ -110,6 +114,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **גמלת הבטחת הכנסה** (Gimlat havtahat hachnasa) — Income support benefit, means-tested.
 - **גמר חשבון** (Gmar heshbon) — Final settlement of all payments when employment ends.
 - **גניבה ספרותית / פלגיאט** (Gneva sifrutit / plagiat) — Plagiarism: using another's words or ideas as one's own.
+- **גניבת עין** (gnevat ayin) — Passing off: causing one's goods or services to be mistaken for another trader's (Commercial Torts Law s. 1).
 - **גרימת מוות ברשלנות** (Grimat mavet be-rashlanut) — Causing death by negligence (s. 304).
 - **דבר המלך במועצתו** (dvar ha-melekh be-mo'atzto) — the Palestine Order in Council 1922, the Mandate's constitutional document.
 - **דבר מה נוסף** (dvar ma nosaf) — "Something extra": the minimal corroboration needed to convict on a confession.
@@ -129,6 +134,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **דין אישי** (Din ishi) — Personal law: the religious law of a person's community, which governs marriage, divorce and maintenance.
 - **דין מצוי / דין רצוי** (Din matzui / din ratzui) — The law as it is / the law as it should be.
 - **דין מקום ביצוע העוולה** (din mekom bitzu'a ha-avla) — Law of the place of the tort, the Israeli rule since Yinon (CA 1432/03), with a narrow exception.
+- **דין קדימה** (din kdima) — Priority: the right to rely on an earlier foreign application's date (12 months for patents, 6 months for trade marks).
 - **דין רציפות** (Din retzifut) — Continuity: carrying a bill that passed first reading into the next Knesset under the Continuity Law 1993.
 - **דינא דמלכותא דינא** (Dina de-malkhuta dina) — "The law of the kingdom is law": Jewish law's recognition of state law.
 - **דיני ממונות / איסור והיתר** (Dinei mamonot / issur ve-heter) — Civil (monetary) law / ritual law in Jewish law.
@@ -169,6 +175,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הודאת סילוק** (Hoda'at silluk) — Final-settlement waiver; for severance valid only in writing and expressly (s. 29).
 - **הודיה חופשית ומרצון** (hodaya chofshit umeratzon) — Free and voluntary confession, the condition of admissibility in s. 12.
 - **הודיית בעל דין** (hodayat ba'al din) — Admission of a party: the opposing party's own statement, admissible against him.
+- **הודעה והסרה** (hoda'a ve-hasara) — Notice and takedown: removal of infringing content by a host after notice; in Israel a case-law standard, not a statutory procedure.
 - **הודעה ליורשים** (hoda'a la-yorshim) — Notice of a succession or probate application to the other heirs, on the prescribed form, with proof of delivery.
 - **הודעה לצד שלישי** (Hoda'a letzad shlishi) — Third-party notice by a defendant seeking contribution or indemnity (regs 22–23).
 - **הודעה מוקדמת** (Hoda'a mukdemet) — Prior notice of dismissal or resignation; pay in lieu (חלף הודעה מוקדמת) if not given.
@@ -179,6 +186,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הודעת חילול** (hoda'at chilul) — Notice of dishonour: notice to drawer and endorsers that a bill was dishonoured (ss. 47–49).
 - **הודעת תשלום קנס** (hoda'at tashlum knas) — Fine-payment notice for a fine offence (CPL s. 228(ב)).
 - **הוועדה לבחירת שופטים** (Ha-va'ada li-vhirat shoftim) — The Judicial Selection Committee (Basic Law: The Judiciary s. 4).
+- **הוועדה לענייני פיצויים ותמלוגים** (ha-va'ada le-inyanei pitzuyim ve-tamlugim) — Compensation and Royalties Committee: decides an employee's compensation for a service invention absent agreement (Patents Law ss. 109, 134).
 - **הון מניות רשום / מונפק** (Hon menayot rashum / munpak) — Registered (authorised) / issued share capital.
 - **הונאה בעבודה** (Hona'a ba-avoda) — Cheating in a paper: a university disciplinary offence (e.g. TAU rules s. 29.3).
 - **הוצאה לפועל** (Hotza'a lapo'al) — Execution, enforcement of judgments and other executable documents.
@@ -323,11 +331,13 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **התיישנות שלא מדעת** (Hityashnut shelo mida'at) — Limitation running only from discovery of the facts (Prescription Law s. 8).
 - **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
 - **התנגדות לביצוע שטר** (hitnagdut levitzu'a shtar) — Opposition to execution of a cheque, note or bill, with an affidavit, within 30 days of service; the dispute moves to court (s. 81א).
+- **התנגדות לרישום** (hitnagdut le-rishum) — Opposition: a challenge to a published trade-mark application within three months (Ordinance s. 24).
 - **התנגדות לתכנית** (hitnagdut le-tokhnit) — Objection to a deposited plan, in writing with reasons and an affidavit, within two months (ss. 100–103א).
 - **התנגדות מנומקת** (hitnagdut menumeket) — Reasoned objection to a class settlement or to the agreed fee recommendation, within 45 days of publication (s. 18(ד)).
 - **התניית שירות בשירות** (hatnayat sherut be-sherut) — Tying one banking service to another; prohibited without a reasonable business connection (s. 7).
 - **התנכלות** (Hitnaklut) — Retaliation for harassment or for complaining about it.
 - **התפטרות בדין מפוטר** (Hitpatrut be-din mefutar) — Resignation treated as dismissal for severance purposes (Severance Pay Law s. 11 and others).
+- **התקדמות המצאתית** (hitkadmut hamtza'atit) — Inventive step: an advance not obvious to an average skilled person (Patents Law s. 5).
 - **ויתור וסילוק** (Vitur vesiluk) — Release and discharge clause in a settlement.
 - **ויתור על חלק מהסעד** (vitur al helek me-ha-sa'ad) — Waiving part of the remedy, e.g. to bring a claim within the expedited ceiling (Labour Court Procedure Regulations reg. 26(א)).
 - **ועדה מחוזית לתכנון ולבניה** (va'ada mehozit) — District planning committee, chaired by the Interior Minister's representative (s. 7).
@@ -352,6 +362,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **זכויות קוגנטיות** (Zchuyot kognetiviyot) — Cogent labour rights that cannot be waived by contract.
 - **זכות אובליגטורית** (Zchut obligatorit) — Personal (contractual) right, enforceable only against the other party.
 - **זכות הטיעון / שימוע** (Zkhut ha-ti'un / shimu'a) — Right to be heard / hearing before an adverse decision.
+- **זכות יוצרים** (zchut yotzrim) — Copyright: the exclusive right to copy, publish, perform, broadcast, make available and adapt an original work (Copyright Law 2007, s. 11).
 - **זכות מוסרית** (Zchut musarit) — Moral right: the author's right to be named and to the integrity of the work (Copyright Law s. 46).
 - **זכות נגזרת** (Zkhut nigzeret) — Derived right, read into human dignity (equality, expression, family life, minimum subsistence).
 - **זכות עיון במידע** (Zchut iyun bameida) — Right to inspect personal information about you held in a database (Privacy Law s. 13).
@@ -464,6 +475,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ילקוט הפרסומים (י"פ)** (Yalkut HaPirsumim) — The Reshumot series for official notices and appointments.
 - **יעילות** (Ye'ilut) — Efficiency; Pareto (someone better off, nobody worse off) or Kaldor-Hicks (winners gain more than losers lose).
 - **יציאה מן הקבוצה** (yetzi'a min ha-kvutza) — Opting out of a class: after certification (s. 11, Form 1) or from a settlement (s. 18(ו)).
+- **יצירה יתומה** (yetzira yetoma) — Orphan work: a work whose owner cannot be found; usable under the conditions of s. 27א.
+- **יצירה מוזמנת** (yetzira muzmenet) — Commissioned work: copyright stays with the author unless agreed otherwise, except family-event photos and portraits (s. 35).
+- **יצירה מקורית** (yetzira mekorit) — Original work: a fixed work that originates from its author with some investment and minimal creativity (Safecom).
 - **כאב וסבל** (Ke'ev vesevel) — Pain and suffering, a head of non-pecuniary damage.
 - **כבוד האדם** (Kvod ha-adam) — Human dignity, the source of most derived constitutional rights.
 - **כבילת שיקול דעת** (Kvilat shikul da'at) — Fettering of discretion, for example by a rigid policy or a commitment to a third party.
@@ -497,6 +511,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **למוטב בלבד** (la-mutav bilvad) — "To the payee only": words prohibiting transfer of a cheque (s. 7(א)).
 - **לקוח מוגבל חמור** (lako'ach mugbal chamur) — Aggravated-restricted customer: all accounts restricted for two years (ss. 3, 3ב).
 - **לקוח מוגבל מיוחד** (lako'ach mugbal meyuchad) — Special-restricted customer: restricted by the execution registrar, fines centre, bankruptcy or rabbinical court (s. 3ג).
+- **לקט** (leket) — Compilation, including a database; original only in its selection and arrangement (Copyright Law s. 4(ב)).
 - **לשכת אשראי** (lishkat ashrai) — Credit bureau licensed under the Credit Data Law.
 - **מאגר החקיקה הלאומי** (Ma'agar HaChakika HaLeumi) — The Knesset's National Legislation Database of laws, amendments and bills.
 - **מאזן ההסתברויות** (ma'azan hahistabruyot) — Balance of probabilities, the civil standard of proof.
@@ -505,6 +520,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מאסר על תנאי** (Maasar al tnai) — Suspended sentence.
 - **מבחן האמצעי שפגיעתו פחותה** (Mivhan ha-emtza'i she-pgi'ato pehuta) — Least harmful means test: no other means achieves the purpose equally with less harm.
 - **מבחן ההשתלבות** (Mivhan ha-hishtalvut) — Integration test: whether the work is part of the business (positive side) and whether the worker runs a business of his own (negative side).
+- **מבחן המשולש** (mivchan ha-meshulash) — The triple test for confusing similarity: sight and sound, goods and customers, other circumstances.
 - **מבחן הקשר הרציונלי** (Mivhan ha-kesher ha-ratzionali) — Rational connection test: the means actually advance the purpose.
 - **מבחן הרווח / מבחן יכולת הפירעון** (Mivhan ha-revah / mivhan yekholet ha-pira'on) — Profit test / solvency test for distributions (Companies Law s. 302).
 - **מבחן כלכלי** (Mivchan kalkali) — Legal Aid means test.
@@ -589,6 +605,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מעצר בפיקוח אלקטרוני** (ma'atzar befikuach elektroni) — Electronically monitored detention, with the defendant's consent (Arrests Law s. 22ב).
 - **מעצר ימים** (ma'atzar yamim) — Remand before indictment to complete the investigation, up to 15 days per order (Arrests Law ss. 13, 17).
 - **מעצר עד תום ההליכים** (ma'atzar ad tom hahalichim) — Detention until the end of proceedings after an indictment (Arrests Law s. 21).
+- **מפר תמים** (mefer tamim) — Innocent infringer: one who neither knew nor should have known that copyright existed; owes no damages (s. 58).
 - **מפרט** (Mifrat) — The statutory specification a developer must attach to a sale contract (Sale (Apartments) Law ss. 2–3).
 - **מפת דרכים** (Mapat drachim) — Roadmap: the passage at the end of an introduction that says what each part of the paper does.
 - **מקדמות** (mikdamot) — Advance payments of income tax during the year (ITO s. 175).
@@ -660,6 +677,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **סגירה בהסדר / הסדר מותנה** (sgira behesder / hesder mutne) — Conditional arrangement: closing a file after the suspect admits the facts and meets conditions (CPL ss. 67א–67יב).
 - **סגירת תיק** (Sgirat tik) — Closing a criminal file.
 - **סדר דין אזרחי** (Seder din ezrachi) — Civil procedure; since 1.1.2021 governed by the Civil Procedure Regulations 2018.
+- **סוד מסחרי** (sod mischari) — Trade secret: non-public business information giving an advantage and kept secret by reasonable measures (CTL s. 5).
 - **סידור חלוף** (sidur chaluf) — Alternative housing arrangement required before the debtor's home is sold (Execution Law s. 38; Insolvency Law s. 229).
 - **סיוע בשכר דירה** (Siyua bi-schar dira) — Rent assistance from the Ministry of Construction and Housing.
 - **סייג לאחריות פלילית** (Seyag le-ahrayut plilit) — Exemption (defence) from criminal liability (Penal Law chapter ה1).
@@ -667,6 +685,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **סיכום סגירת תיק** (sikum sgirat tik) — Closing memo: outcome, money, documents, surviving dates, lessons and archive for a finished matter.
 - **סיכומים** (Sikumim) — Summations (reg. 74).
 - **סימן 46** (siman 46) — art. 46 of the Order in Council, which imported English common law and equity until 1980.
+- **סימן מסחר** (siman mischar) — Trade mark: a sign used or intended for goods; the Ordinance applies equally to service marks (סימן שירות).
+- **סימן מסחר מוכר היטב** (siman mischar mukar heitev) — Well-known trade mark: protected even if unregistered for the same or similar goods (Ordinance ss. 1, 46א).
 - **סמכויות עזר** (Samchuyot ezer) — Ancillary powers reasonably needed to exercise a power (Interpretation Law s. 17).
 - **סמכות ייחודית** (samkhut yihudit) — exclusive jurisdiction.
 - **סמכות מקבילה** (samkhut makbila) — parallel (concurrent) jurisdiction.
@@ -695,6 +715,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עוסק מפר בנסיבות מחמירות** (osek mefer be-nesibot machmirot) — Dealer declared by the Consumer Protection Commissioner to be in aggravated breach; payments to it are frozen (Consumer Protection Law ss. 22כז–22לב).
 - **עוסק פטור / עוסק מורשה** (Osek patur / osek murshe) — Exempt dealer (turnover below the VAT ceiling) / licensed VAT-registered dealer (VAT Law s. 1).
 - **עורך דין** (orekh din) — lawyer (advocate), a member of the Israel Bar.
+- **עורך פטנטים** (orech patentim) — Patent attorney: a licensed professional with the exclusive right, beside lawyers, to handle patent, design and trade-mark applications for others for pay (Patents Law s. 154).
 - **עושק** (oshek) — exploitation (unconscionability) (s. 18).
 - **עיגון** (Igun) — Anchoring: the pull of a first number on later estimates.
 - **עיון במסמכים** (Iyun bamismachim) — Inspection of disclosed documents (reg. 58).
@@ -707,6 +728,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עיכוב הליכים** (Ikuv halichim) — Stay of proceedings, e.g. for an arbitration clause.
 - **עילת הסבירות** (Ilat ha-svirut) — The reasonableness ground of review of administrative decisions.
 - **עילת סגירה** (Ilat sgira) — Ground for closing a file: insufficient evidence, no guilt, or lack of public interest.
+- **עיצוב** (itzuv) — Design: the appearance of a product; registered for up to 25 years or unregistered for 3 years (Designs Law 2017).
 - **עיצום כספי** (Itzum kaspi) — Financial (administrative) sanction.
 - **עיקול** (Ikul) — Lien, attachment of property or money.
 - **עיקול זמני** (Ikul zmani) — Temporary attachment of a respondent's assets (reg. 103).
@@ -771,6 +793,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פיצויי הסתמכות / פיצויי קיום** (pitzuyei histamkhut / pitzuyei kiyum) — reliance damages / expectation damages.
 - **פיצויי פיטורים** (Pitzuyei piturim) — Severance pay: a month's wage per year after a year of work.
 - **פיצויים לדוגמה** (Pitzuyim ledugma) — Exemplary (statutory, no-proof) damages, e.g. Consumer Protection Law s. 31א, Communications Law s. 30א(י).
+- **פיצויים ללא הוכחת נזק** (pitzuyim lelo hochachat nezek) — Statutory damages: damages up to a statutory ceiling per infringement without proof of loss (Copyright Law s. 56; CTL s. 13; Designs Law s. 75).
 - **פיצויים מוסכמים** (pitzuyim muskamim) — agreed (liquidated) damages (s. 15).
 - **פיצול סעדים** (Pitzul sa'adim) — Leave to claim remedies from one cause separately (reg. 25(ב)).
 - **פירוק השיתוף** (Peruk ha-shituf) — Dissolution of co-ownership, by division in kind, sale, or conversion to a condominium (Land Law ss. 37–43).
@@ -821,6 +844,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **צו הארנונה** (tzav ha-arnona) — The council's annual arnona order setting classifications, zones and rates.
 - **צו הבאה** (tzav hava'a) — Order to bring a debtor before the registrar (s. 69יב).
 - **צו הגבלה** (Tzav hagbala) — Restriction order against a spouse who does not comply with a divorce judgment.
+- **צו הגבלת גישה** (tzav hagbalat gisha) — Blocking order: a District Court order to access providers to restrict access to a mainly infringing site (Copyright Law s. 53א).
 - **צו הגנה** (Tzav hagana) — Protection order (Prevention of Family Violence Law 1991).
 - **צו הורות** (Tzav horut) — Parentage order given to intended parents after a surrogacy birth.
 - **צו הרחבה** (Tzav harhava) — Extension order spreading a general collective agreement to others.
@@ -861,6 +885,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **קיפוח** (Kipuah) — Oppression (unfair prejudice) of shareholders (Companies Law s. 191).
 - **קלות דעת** (Kalut da'at) — Rashness: taking an unreasonable risk while hoping to avoid the result.
 - **קליטה** (klita) — reception of foreign law into the local legal system.
+- **קניין רוחני** (kinyan ruchani) — Intellectual property: the statutory rights in creations and business signs (copyright, trade marks, patents, designs, trade secrets).
 - **קנס גירעון** (knas gera'on) — Deficiency fine on under-reported tax (ITO s. 191).
 - **קצב שמיעת התיקים (CR)** (Ketsev shmi'at ha-tikim) — Clearance rate: cases closed divided by cases opened in a period.
 - **קרנית** (Karnit) — The fund that compensates road-accident victims when no insurer can pay.
@@ -872,6 +897,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ריאליזם משפטי** (Re'alizm mishpati) — Legal realism: law as a prediction of what courts will actually do.
 - **ריבון** (Ribon) — Sovereign; for Austin, the person or body habitually obeyed by most of society and obeying no one.
 - **רישום ירושה** (rishum yerusha) — Registration of an inheritance in the Land Registry (Land Management and Registration Regulations reg. 17).
+- **רישיון ייחודי** (rishayon yihudi) — Exclusive licence: requires writing, like an assignment (s. 37(ג)); its holder may sue (s. 54).
 - **רכוש משותף** (Rekhush meshutaf) — Common property of a condominium: everything not registered as a flat (Land Law s. 52).
 - **רס גסטה** (res gestae) — Spontaneous statements made in the excitement of an event, admitted as an exception to hearsay.
 - **רצח בנסיבות מחמירות** (Retzah be-nesibot mahmirot) — Murder in aggravating circumstances (s. 301א).
@@ -911,6 +937,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שיהוי** (Shihui) — Delay (laches): subjective delay, objective delay and the rule-of-law interest (Aviram).
 - **שימוע** (Shimu'a) — Pre-dismissal hearing.
 - **שימוע לפני הגשת כתב אישום** (Shimu'a) — Pre-indictment hearing: a felony suspect's written request not to be indicted (CPL s. 60א).
+- **שימוש אגבי** (shimush agavi) — Incidental use: incidental inclusion of a work in a photo, film or recording (s. 22).
+- **שימוש הוגן** (shimush hogen) — Fair use: a permitted use judged by purpose, nature of the work, amount and market effect (s. 19).
 - **שימוש חורג** (shimush horeg) — Non-conforming use permitted by the local committee for a limited time (ss. 146, 148).
 - **שימוש לרעה בהליך** (Shimush lera'a bahalich) — Abuse of process (reg. 4): a step meant to disrupt, delay or harass, or disproportionate to the case.
 - **שימוש לרעה בזכות** (shimush le-ra'a bi-zkhut) — abuse of a right.

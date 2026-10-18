@@ -30,3 +30,4 @@
 - Year 3 QA (curriculum/qa/neutrality-report.md, Year 3 section): 7 review items (repeated character patterns, two attributions to confirm).
 - Module 31: confirm online land-registration for unrepresented heirs and who may verify signatures on the paper request.
 - Module 33: seven class-action rulings from secondary sources; Class Actions Amendment 16 described as committee-approved only (plenary vote unconfirmed); review the 2026 Attorney General Law mention for neutrality.
+- Module 32: IP case captions rendered from English translations; conflict on whether individuals may still file trademarks on paper.

@@ -1,0 +1,180 @@
+- id: q1
+  question: >-
+    A software start-up's founder hired a freelance developer for the first version of its app and an
+    employee for later versions. Nothing about IP was written with the freelancer. An investor asks who
+    owns the code. What is the accurate answer?
+  options:
+    - >-
+      The start-up owns all of it, because it paid for every version.
+    - >-
+      The freelancer owns version one unless agreed; the start-up owns the employee's work.
+    - >-
+      The developers own all of it, because software authors always keep copyright.
+    - >-
+      Nobody owns any of it until the code is registered with the Patent Office.
+  correct: 1
+  explanation: >-
+    A commissioned work stays with its author unless agreed otherwise (s. 35(א)); works made by an employee
+    for the job belong to the employer (s. 34). The start-up should obtain a written assignment from the
+    freelancer (s. 37(ג)).
+- id: q2
+  question: >-
+    A restaurant in Eilat uses your food photograph on its menu and Facebook page without permission or
+    credit for eight months. It is your first contact with them. What is the most sensible first step?
+  options:
+    - >-
+      A small claim at once for the full statutory ceiling, to show you mean it.
+    - >-
+      A blocking order application against Israeli access providers.
+    - >-
+      Preserve evidence, then a demand letter for removal and a reasoned fee.
+    - >-
+      A request to the Patent Office to register the photo before acting.
+  correct: 2
+  explanation: >-
+    Preserve evidence, then a demand letter based on ss. 11, 46 and 47 with a figure justified by the
+    s. 56(ב) factors. Blocking orders are for mainly-infringing sites, and there is no copyright registry.
+- id: q3
+  question: >-
+    Your video lesson was removed from YouTube after a claim by a company that owns a song heard for
+    eight seconds in the background, from a passing car. What is your best course?
+  options:
+    - >-
+      Counter-notify only if sure the use is lawful; it is sworn and accepts US courts.
+    - >-
+      Apply to an Israeli court for restoration under the statutory notice-and-takedown procedure.
+    - >-
+      Do nothing, because a takedown is a final legal ruling that the use infringed.
+    - >-
+      Sue the company in Israel for defamation for calling your video infringing.
+  correct: 0
+  explanation: >-
+    Israel has no statutory takedown procedure; the platform's rules apply. Incidental use (s. 22) supports
+    you, but a counter-notice is a sworn statement that consents to US jurisdiction, so decide on the legal
+    ground first.
+- id: q4
+  question: >-
+    You want to name your new line of sports drinks "Energy Plus" and register it. What is the main
+    obstacle?
+  options:
+    - >-
+      Sports drinks cannot be registered because they are regulated food products.
+    - >-
+      Two-word marks need a design registration as well.
+    - >-
+      Only companies may register trade marks for drinks.
+    - >-
+      The words describe the goods' quality, so the mark lacks distinctiveness.
+  correct: 3
+  explanation: >-
+    Descriptive words are refused under ss. 8 and 11(10) unless they have acquired distinctiveness; NRG v.
+    Texaco held that "energy" is a descriptive term in its field that no one can monopolise.
+- id: q5
+  question: >-
+    A competitor in the same city sells sweets in packaging very similar to yours. Your name and get-up are
+    not registered but are well known locally after ten years. What must you prove to win in passing off?
+  options:
+    - >-
+      That you registered your company name before the competitor.
+    - >-
+      Goodwill in your get-up and a likelihood that customers will confuse the products.
+    - >-
+      That the competitor intended to copy, since intent is the core of the tort.
+    - >-
+      That your packaging is an original artistic work protected by copyright.
+  correct: 1
+  explanation: >-
+    Passing off under CTL s. 1 requires goodwill and a likelihood that customers will think the goods are
+    yours or connected with you (Ilan Car Glazing). Intent helps but is not required.
+- id: q6
+  question: >-
+    An inventor demonstrated her new irrigation valve at a farmers' fair in March without any notice to the
+    Registrar, and posted the video online. In May she asks you whether she can still get an Israeli patent.
+    What is the accurate answer?
+  options:
+    - >-
+      Yes, because inventors always have twelve months after their own disclosures.
+    - >-
+      Yes, because showing an invention at a fair is never a public disclosure.
+    - >-
+      Probably not: her own disclosure destroyed novelty, save narrow s. 6 exceptions.
+    - >-
+      Yes, provided she first registers the valve's appearance as a design.
+  correct: 2
+  explanation: >-
+    Novelty is absolute (s. 4). The s. 6 exceptions cover recognised exhibitions notified in advance,
+    pre-notified scientific lectures and unauthorised disclosures; a posted video is none of these. The
+    12-month grace period exists for designs, not patents.
+- id: q7
+  question: >-
+    A furniture company commissioned a designer to design a chair and has sold it for a year. The designer
+    now sells the same chair through her own shop. There is no written agreement. Who owns the design?
+  options:
+    - >-
+      The company, as the commissioning party, unless they agreed otherwise.
+    - >-
+      The designer, because commissioned works belong to their author.
+    - >-
+      Nobody, because chairs are functional and cannot be designs.
+    - >-
+      Whoever registers it first, regardless of the commission.
+  correct: 0
+  explanation: >-
+    Designs Law s. 13 makes the commissioning party the first owner of a commissioned design unless agreed
+    otherwise, unlike copyright's s. 35(א). Features dictated solely by function are excluded (s. 10), but a
+    chair's appearance usually is not.
+- id: q8
+  question: >-
+    A departing sales manager copies the company's customer list with purchase histories and prices to a
+    USB drive. The list was password-protected and marked confidential. Which claim is strongest, and where?
+  options:
+    - >-
+      Copyright infringement in the District Court, since the list is a compilation.
+    - >-
+      Passing off in the magistrates' court, since customers may be confused.
+    - >-
+      A patent claim, since the list is an inventive business method.
+    - >-
+      Misappropriation of a trade secret, in the regional labour court.
+  correct: 3
+  explanation: >-
+    A protected, non-public customer list giving an advantage is a trade secret (CTL s. 5); copying it in
+    breach of duty is misappropriation (s. 6). Claims between employer and employee go to the labour court
+    (s. 22). A plain list may lack originality for copyright.
+- id: q9
+  question: >-
+    An engineer invented a process at work that the employer patented and uses widely. On leaving she
+    signed a document "waiving all claims of any kind against the employer, including for inventions".
+    She now wants compensation. What is the likely outcome?
+  options:
+    - >-
+      She will get compensation, because the right in s. 134 cannot be waived.
+    - >-
+      Her claim will likely fail, because a clear waiver of compensation binds.
+    - >-
+      She will get the patent back, because the employer never paid her for it.
+    - >-
+      She must sue in the District Court, which has exclusive jurisdiction here.
+  correct: 1
+  explanation: >-
+    In Barzani (as reported) the High Court upheld the Committee's view that s. 134 is not mandatory and
+    a clear waiver binds. Compensation disputes go to the Compensation and Royalties Committee, not the
+    District Court.
+- id: q10
+  question: >-
+    Before launching "Neroa" candles, you searched the Patent Office database and found nothing identical,
+    but a pending "Nerya" for scented candles in class 4. What is the best next step?
+  options:
+    - >-
+      File immediately, since a pending mark gives its owner no rights at all.
+    - >-
+      Ignore it, because a one-letter difference always prevents confusion.
+    - >-
+      Assess it under the triple test, and rename or get advice if the risk is high.
+    - >-
+      Oppose "Nerya" at once, whatever stage it is at, to clear the way.
+  correct: 2
+  explanation: >-
+    A pending earlier application may block yours under s. 11(9) once registered, and similar sound and
+    identical goods suggest confusion. Analyse it, consider a different mark, and get advice; opposition is
+    possible only within three months of its publication (s. 24).

@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You posted photos of a new lamp shade you designed on Instagram four months ago. A manufacturer
+    now wants to license it. Can you still register it as a design in Israel?
+  options:
+    - >-
+      No, because any publication before filing destroys novelty, as with patents.
+    - >-
+      No, because once posted online it is protected only by copyright.
+    - >-
+      Yes, because the owner's own publication within 12 months before filing is disregarded.
+    - >-
+      Yes, but only as an unregistered design, which cannot later be registered.
+  correct: 2
+  explanation: >-
+    Designs Law s. 9 gives a 12-month grace period for the owner's own publication. Patents have no such
+    general grace period. An unregistered design can also be registered within 12 months (s. 64).
+- id: q2
+  question: >-
+    An engineer explains her new valve mechanism in a public webinar on 1 March and files a patent
+    application in Israel on 1 May. A competitor attacks the patent. What is the strongest ground?
+  options:
+    - >-
+      Lack of novelty, because her own public webinar disclosed the invention before filing.
+    - >-
+      Lack of utility, because webinars show the invention is only theoretical.
+    - >-
+      Prior use, because the webinar audience may now use the valve for free.
+    - >-
+      None, because inventors have twelve months to file after their own disclosures.
+  correct: 0
+  explanation: >-
+    Novelty is absolute: any public disclosure before the application date, including the inventor's own,
+    counts (s. 4). The s. 6 exceptions cover only unauthorised disclosure, recognised exhibitions and
+    pre-notified scientific lectures.
+- id: q3
+  question: >-
+    A start-up commissions a freelance designer to design the casing of its device. Nothing is agreed
+    about rights. Who owns the design under the Designs Law?
+  options:
+    - >-
+      The designer, exactly as with commissioned copyright works.
+    - >-
+      The start-up, as the commissioning party, unless they agreed otherwise.
+    - >-
+      Both of them jointly, at least until the design is registered.
+    - >-
+      Whoever files the design application first at the Patent Office.
+  correct: 1
+  explanation: >-
+    Designs Law s. 13 makes the commissioning party the first owner of a commissioned design unless agreed
+    otherwise, the opposite of the copyright default in s. 35(א).
+- id: q4
+  question: >-
+    In a patent infringement case, the defendant's product does not match the claim word for word but
+    uses the same core idea in a slightly different way. After Hughes Aircraft, how will the court read
+    the patent?
+  options:
+    - >-
+      Literally, so that any difference from the claim's wording avoids infringement.
+    - >-
+      Broadly, so that any product in the same field infringes.
+    - >-
+      Only by the drawings, since the claims are drafted by attorneys.
+    - >-
+      As a whole, with the description, so taking the essence infringes.
+  correct: 3
+  explanation: >-
+    Hughes held that claims are interpreted in light of the description and drawings, and that taking the
+    substance of the invention infringes even without literal copying, as s. 49(א) now states.

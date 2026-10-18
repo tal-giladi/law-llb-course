@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You plan to open a café called "Kapitan". Your search finds "KAPITAN" registered by another owner for
+    coffee beans in class 30. You will serve coffee in class 43. What does the search result mean?
+  options:
+    - >-
+      A real risk, because cafés and coffee beans are closely related.
+    - >-
+      No risk, because the other mark is in a different class from yours.
+    - >-
+      No risk, as long as you register your café's company name first.
+    - >-
+      A risk only if the other owner's mark is well known abroad.
+  correct: 0
+  explanation: >-
+    Classes are administrative; confusion is judged by the goods and services and their customers (s. 11(9),
+    the triple test). Coffee beans and a café serving coffee are closely related.
+- id: q2
+  question: >-
+    You are an individual applying to register a mark for your own small business, which is not a
+    company. How may you file?
+  options:
+    - >-
+      Only through a patent attorney, because the Ordinance requires professional filing.
+    - >-
+      On paper or online with government electronic identification.
+    - >-
+      Only online, because all applicants must use the filing site since 2023.
+    - >-
+      Only in person at the Patent Office, with your identity card.
+  correct: 1
+  explanation: >-
+    Under the Trade Marks Regulations, applications may be filed on paper or online (reg. 6(א)); only
+    companies and licensed professionals must file online (reg. 6(ב)), and online filing needs electronic
+    identification (reg. 6ב(ג)). Check the live service before filing.
+- id: q3
+  question: >-
+    Your application for a candle brand is accepted and published in the Trade Marks Journal. What
+    happens next before registration?
+  options:
+    - >-
+      The mark is registered on publication, and challenges can be made only in court.
+    - >-
+      The Registrar re-examines it after ten years of use.
+    - >-
+      Anyone may oppose within three months of publication.
+    - >-
+      Competitors have one year to file a passing-off claim at the Patent Office.
+  correct: 2
+  explanation: >-
+    Section 24(א) gives anyone three months from publication to oppose; only then is the mark registered,
+    for ten years from the application date (s. 31).
+- id: q4
+  question: >-
+    A manufacturer and a buyer both suspected that a design they were using might be someone's registered
+    mark abroad, but neither checked, and the goods were seized. How did the Supreme Court treat such a
+    case in Eximin?
+  options:
+    - >-
+      The manufacturer alone was liable, as the maker of the goods.
+    - >-
+      The buyer alone was liable, as the party that chose the market.
+    - >-
+      Neither was liable, because foreign marks do not bind Israelis.
+    - >-
+      Both acted without good faith by not checking, and the loss was split.
+  correct: 3
+  explanation: >-
+    The majority held that both knew of the risk and neither investigated, so both lacked good faith and
+    liability was divided. A trade-mark search is part of careful commercial conduct.

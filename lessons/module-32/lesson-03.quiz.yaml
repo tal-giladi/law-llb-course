@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A private hiking blog with no ads copied your landscape photo from your public Instagram account and
+    credited you. You wrote to the blogger, who removed it two days later. You now want statutory
+    damages. What is the main obstacle?
+  options:
+    - >-
+      The credit makes the use lawful, so there was never any infringement here.
+    - >-
+      Section 56א bars statutory damages for this non-commercial use stopped on notice.
+    - >-
+      Only a registered photographer may claim statutory damages under s. 56.
+    - >-
+      Statutory damages require proof of actual damage, which you cannot show.
+  correct: 1
+  explanation: >-
+    Under s. 56א, statutory damages do not apply to posting an already-public artistic work online if
+    the infringer stopped within a reasonable time after notice, it was not copied from a sales catalogue
+    and the use was non-commercial. A credit is not permission, and s. 56 needs no proof of damage.
+- id: q2
+  question: >-
+    You sold the copyright in your illustration to a publisher in writing. The publisher later prints it
+    with a different artist's name. Who may sue for the false attribution?
+  options:
+    - >-
+      Only the publisher, because it now owns all rights in the illustration.
+    - >-
+      Nobody, because the moral right ended when the copyright was sold.
+    - >-
+      You, because the moral right is personal and stays with the author.
+    - >-
+      The other artist, because their name was used without consent.
+  correct: 2
+  explanation: >-
+    The moral right is personal, not transferable, and remains with the author even after an assignment
+    of the copyright (s. 45(ב)); the author sues for it (s. 55).
+- id: q3
+  question: >-
+    You are suing a shop that used your photo in an advert. You want to attach screenshots of the advert,
+    including the photo, to your statement of claim. Do you need the shop's or anyone's permission?
+  options:
+    - >-
+      No: using a work in legal proceedings is a permitted use to the extent justified.
+    - >-
+      Yes: attaching the photo again is a new act of copying that needs a licence.
+    - >-
+      Yes: the court must first approve every copyright work attached to a filing.
+    - >-
+      No: but only because you are the owner; a defendant could not attach it.
+  correct: 0
+  explanation: >-
+    Section 20 permits use of a work in legal or administrative proceedings, including reporting on them,
+    to the extent justified by the purpose. It applies to both sides.
+- id: q4
+  question: >-
+    A wedding hall plays a band's recorded music at events without any licence. The hall owner says only
+    the DJs he hires are responsible. How does the Copyright Law treat the hall owner?
+  options:
+    - >-
+      As not liable, because he never personally played the music.
+    - >-
+      As liable only if the music was copied onto the hall's own computer.
+    - >-
+      As an innocent infringer, who owes no damages at all under s. 58.
+    - >-
+      As liable for letting his hall be used, for profit, for unlicensed performance.
+  correct: 3
+  explanation: >-
+    Section 49 makes a person who, for profit, permits the use of a place of public entertainment (expressly
+    including event halls) for an unlicensed public performance an infringer, unless he did not and should
+    not have known. Authorising infringement is itself infringement under s. 47.

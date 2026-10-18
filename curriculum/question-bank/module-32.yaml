@@ -1,0 +1,1358 @@
+- id: m32-001
+  module: 32
+  lesson: "32.1"
+  subject: ip-map
+  difficulty: 1
+  question: >-
+    Which Israeli IP right arises automatically, without any registration?
+  options:
+    - >-
+      A trade-mark right in a new brand name.
+    - >-
+      A patent on a new and inventive device.
+    - >-
+      Copyright in an original photograph.
+    - >-
+      A registered design for a product's shape.
+  correct: 2
+  explanation: >-
+    Copyright arises on creation and fixation (Copyright Law s. 4); trade marks, patents and registered
+    designs need the Patent Office.
+- id: m32-002
+  module: 32
+  lesson: "32.1"
+  subject: ip-map
+  difficulty: 1
+  question: >-
+    Under Copyright Law s. 5, which of these is outside copyright altogether?
+  options:
+    - >-
+      An idea for a television format, before anyone writes it down in detail.
+    - >-
+      A detailed blog post explaining that idea in the author's own original words.
+    - >-
+      A photograph taken to illustrate the blog post.
+    - >-
+      A short animated video presenting the format.
+  correct: 0
+  explanation: >-
+    Ideas, processes, facts and news are not protected; only their expression is (s. 5).
+- id: m32-003
+  module: 32
+  lesson: "32.1"
+  subject: unjust-enrichment
+  difficulty: 2
+  question: >-
+    A company copies a competitor's unprotected product catalogue layout, which has no copyright because
+    it lacks creativity. The competitor sues in unjust enrichment. After the Premier League fixtures case,
+    what must it show?
+  options:
+    - >-
+      Only that the defendant saved money by copying.
+    - >-
+      That the defendant engaged in improper business practices beyond the copying.
+    - >-
+      That the catalogue cost more than ₪100,000 and many months of staff work to produce.
+    - >-
+      That the defendant is a direct competitor in the same market.
+  correct: 1
+  explanation: >-
+    Unjust enrichment beside IP law is allowed only where there is an improper element in the defendant's
+    conduct; copying unprotected material is otherwise lawful.
+- id: m32-004
+  module: 32
+  lesson: "32.1"
+  subject: forum
+  difficulty: 2
+  question: >-
+    A photographer wants an injunction and ₪40,000 for a company's use of her photos. Where is the claim
+    usually filed?
+  options:
+    - >-
+      The small claims court, which hears every copyright claim.
+    - >-
+      The Patent Office, which hears copyright disputes.
+    - >-
+      The regional labour court, if the company employed her once.
+    - >-
+      The District Court, which hears IP claims including injunctions.
+  correct: 3
+  explanation: >-
+    Small claims hears only money claims by individuals up to its ceiling; a claim with an injunction is
+    usually filed in the District Court, which hears IP claims (Courts Law s. 40).
+- id: m32-005
+  module: 32
+  lesson: "32.1"
+  subject: ip-map
+  difficulty: 2
+  question: >-
+    A chef wants to protect her secret spice blend for as long as possible. Which route fits best?
+  options:
+    - >-
+      A patent, which lasts as long as she keeps using the blend.
+    - >-
+      Copyright in the written recipe, which protects the blend itself.
+    - >-
+      Keeping it as a trade secret with reasonable secrecy measures.
+    - >-
+      A design registration for the blend's colour.
+  correct: 2
+  explanation: >-
+    A trade secret lasts as long as it stays secret (CTL s. 5). A patent lasts 20 years and requires
+    publication; copyright protects the wording, not the blend.
+- id: m32-006
+  module: 32
+  lesson: "32.1"
+  subject: criminal
+  difficulty: 1
+  question: >-
+    Which statement about IP offences is correct?
+  options:
+    - >-
+      Commercial copying of works and counterfeit trade marks are criminal offences.
+    - >-
+      IP infringement is always a civil matter and never a crime.
+    - >-
+      Only the State Attorney may prosecute IP offences, never the owner of the right.
+    - >-
+      Only patent infringement is a criminal offence in Israel.
+  correct: 0
+  explanation: >-
+    Copyright Law ss. 61–62 and Trade Marks Ordinance s. 60 create offences; the Second Schedule to the
+    Criminal Procedure Law also allows a private criminal complaint (lesson 05.8).
+- id: m32-007
+  module: 32
+  lesson: "32.1"
+  subject: ip-map
+  difficulty: 3
+  question: >-
+    A start-up's main asset is a new algorithm that runs on its servers and is never shipped to customers.
+    It wants maximum protection at low cost. What is the most sensible first plan?
+  options:
+    - >-
+      Rely on copyright in the idea of the algorithm, which needs no filing.
+    - >-
+      Register the algorithm's name as a trade mark, which also protects the method behind it.
+    - >-
+      Publish a paper first, then decide on a patent within twelve months.
+    - >-
+      Keep it as a trade secret and check with a patent attorney whether a patent is worth it.
+  correct: 3
+  explanation: >-
+    Server-side code can stay secret; copyright protects code, not the idea; a trade mark protects the
+    name; publication before filing destroys patent novelty.
+- id: m32-008
+  module: 32
+  lesson: "32.2"
+  subject: originality
+  difficulty: 1
+  question: >-
+    According to Safecom, which elements make up originality in Israeli copyright law?
+  options:
+    - >-
+      Novelty, utility and an inventive step.
+    - >-
+      Origin from the author, investment and minimal creativity.
+    - >-
+      Registration, publication and a credit to the author.
+    - >-
+      Artistic merit, public appeal and commercial value.
+  correct: 1
+  explanation: >-
+    Safecom restated originality as origin, investment and creativity, all required; novelty and inventive
+    step are patent tests.
+- id: m32-009
+  module: 32
+  lesson: "32.2"
+  subject: ownership
+  difficulty: 2
+  question: >-
+    A teacher employed by a private school writes a textbook at home in the summer holidays, not as part of
+    her duties, and uses it in her classes. Who probably owns the copyright?
+  options:
+    - >-
+      The school, because she uses the book in her teaching.
+    - >-
+      The Ministry of Education, because it is a teaching material.
+    - >-
+      The teacher, unless her contract provides otherwise.
+    - >-
+      The school and the teacher jointly, in equal shares.
+  correct: 2
+  explanation: >-
+    The employer owns only works made for the job and in its course (s. 34). A book written outside her
+    duties is likely hers, subject to her contract.
+- id: m32-010
+  module: 32
+  lesson: "32.2"
+  subject: ownership
+  difficulty: 2
+  question: >-
+    A couple hired a photographer for their engagement party. The contract says: "All rights in the photos
+    remain with the photographer." Who owns the copyright?
+  options:
+    - >-
+      The photographer, because the parties agreed otherwise than the default.
+    - >-
+      The couple, because the default rule in s. 35(ב) cannot be changed by contract.
+    - >-
+      The couple, because they paid for the photos.
+    - >-
+      Nobody, because party photos lack originality.
+  correct: 0
+  explanation: >-
+    Section 35(ב) gives commissioned family-event photos to the commissioning party "unless agreed
+    otherwise"; here the parties agreed otherwise.
+- id: m32-011
+  module: 32
+  lesson: "32.2"
+  subject: duration
+  difficulty: 2
+  question: >-
+    Two authors wrote a novel together and their parts cannot be separated. One died in 1960, the other in
+    1990. When does the copyright end?
+  options:
+    - >-
+      31 December 2030, seventy years after the first co-author's death.
+    - >-
+      In 2060, seventy years after the first publication.
+    - >-
+      Never, because a joint work is protected forever.
+    - >-
+      31 December 2060, seventy years after the last death.
+  correct: 3
+  explanation: >-
+    A joint work lasts for seventy years after the death of the last surviving author (s. 39), ending on
+    31 December (s. 43).
+- id: m32-012
+  module: 32
+  lesson: "32.2"
+  subject: subsistence
+  difficulty: 1
+  question: >-
+    Which of these has no copyright under s. 6 of the Copyright Law?
+  options:
+    - >-
+      A law firm's article commenting on a judgment.
+    - >-
+      A Supreme Court judgment.
+    - >-
+      A textbook summarising Supreme Court judgments.
+    - >-
+      A legal blog's annotated database of judgments.
+  correct: 1
+  explanation: >-
+    Laws, regulations, Knesset proceedings and judicial decisions have no copyright (s. 6); commentary and
+    original compilations about them can be protected.
+- id: m32-013
+  module: 32
+  lesson: "32.2"
+  subject: compilation
+  difficulty: 3
+  question: >-
+    You built an online list of all kosher restaurants in Jerusalem, alphabetically, with addresses and
+    phone numbers. A competitor copies the whole list. What is your best legal position?
+  options:
+    - >-
+      Strong copyright claim, because you invested months in collecting the data.
+    - >-
+      Strong patent claim, because the list is a new business method.
+    - >-
+      Weak copyright claim, since an obvious complete list lacks creativity; rely on terms of use.
+    - >-
+      Strong trade-mark claim, because the list's name is registered as your company's name.
+  correct: 2
+  explanation: >-
+    A compilation is original only in its selection or arrangement (s. 4(ב)); after Premier League, a
+    complete list in obvious order lacks creativity. Contractual terms of use may help.
+- id: m32-014
+  module: 32
+  lesson: "32.2"
+  subject: transfer
+  difficulty: 2
+  question: >-
+    An author gives a theatre an oral, non-exclusive permission to stage her play for one season. Is it
+    valid?
+  options:
+    - >-
+      Yes, because only assignments and exclusive licences need writing.
+    - >-
+      No, because every copyright licence needs a written document.
+    - >-
+      No, because licences must be registered with the Patent Office.
+    - >-
+      Yes, but only if a lawyer witnesses the oral agreement.
+  correct: 0
+  explanation: >-
+    Section 37(ג) requires writing only for an assignment or an exclusive licence; a non-exclusive licence
+    may be oral.
+- id: m32-015
+  module: 32
+  lesson: "32.2"
+  subject: duration
+  difficulty: 3
+  question: >-
+    A government ministry produced an information booklet in 1975. A publisher wants to reprint it in 2026.
+    What is the position?
+  options:
+    - >-
+      Protected until seventy years after the death of the civil servant who wrote it.
+    - >-
+      Protected forever, because State works never enter the public domain.
+    - >-
+      Protected until 2045, seventy years from creation.
+    - >-
+      Free, because State works last fifty years from creation, ending in 2025.
+  correct: 3
+  explanation: >-
+    A State-owned work lasts fifty years from creation (s. 42), ending on 31 December 2025 (s. 43). For a
+    pre-2008 work, check the transitional rules in s. 78 as well.
+- id: m32-016
+  module: 32
+  lesson: "32.3"
+  subject: infringement
+  difficulty: 1
+  question: >-
+    Which act infringes copyright under s. 47?
+  options:
+    - >-
+      Reading a library book from cover to cover.
+    - >-
+      Uploading a full film to a public website without permission.
+    - >-
+      Describing the plot of a film in your own words.
+    - >-
+      Buying a second-hand DVD at a market and watching it at home.
+  correct: 1
+  explanation: >-
+    Making a work available to the public online without permission is a s. 11(5) act and infringes (s. 47).
+- id: m32-017
+  module: 32
+  lesson: "32.3"
+  subject: permitted-uses
+  difficulty: 2
+  question: >-
+    A news photographer films a demonstration; a song is playing from a nearby café and is heard in the
+    report. The music owner complains. Which permitted use applies?
+  options:
+    - >-
+      Orphan works under s. 27א.
+    - >-
+      Use in legal proceedings under s. 20.
+    - >-
+      Incidental use under s. 22.
+    - >-
+      Temporary copies under s. 26.
+  correct: 2
+  explanation: >-
+    Incidental inclusion of a work in a photograph, film or recording is permitted (s. 22); deliberate
+    inclusion of music is not incidental.
+- id: m32-018
+  module: 32
+  lesson: "32.3"
+  subject: moral-rights
+  difficulty: 2
+  question: >-
+    A hotel bought a sculpture and repainted it bright pink to match its lobby. The sculptor says this
+    harms her reputation. What will the court weigh?
+  options:
+    - >-
+      Whether the change harms her honour or reputation and was reasonable in the circumstances.
+    - >-
+      Only whether the hotel owns the physical sculpture.
+    - >-
+      Only whether she transferred her copyright to the hotel.
+    - >-
+      Whether the sculpture had been registered as a design at the Patent Office before the sale.
+  correct: 0
+  explanation: >-
+    The integrity right (s. 46(2)) stays with the author even after a sale (s. 45(ב)); a change is not an
+    infringement if reasonable, under the s. 50(ג) factors.
+- id: m32-019
+  module: 32
+  lesson: "32.3"
+  subject: statutory-damages
+  difficulty: 2
+  question: >-
+    Which factor may a court consider when fixing statutory damages under s. 56(ב)?
+  options:
+    - >-
+      The claimant's legal fees in earlier cases.
+    - >-
+      The number of followers the claimant has online.
+    - >-
+      The total value of the defendant's whole business, including its real estate.
+    - >-
+      The defendant's good faith and the profit it made from the infringement.
+  correct: 3
+  explanation: >-
+    Section 56(ב) lists scope, duration and severity of the infringement, actual damage, the defendant's
+    profit, its activity, the parties' relationship and the defendant's good faith.
+- id: m32-020
+  module: 32
+  lesson: "32.3"
+  subject: statutory-damages
+  difficulty: 3
+  question: >-
+    A small non-profit with a low turnover copied your photo from your public website to its Facebook page,
+    without ads, and deleted it two days after your notice. You want statutory damages. What is the likely
+    result?
+  options:
+    - >-
+      Full statutory damages, because non-profits have no special rules.
+    - >-
+      No statutory damages under s. 56א; only proven actual damage.
+    - >-
+      Double statutory damages, because it ignored your licence terms.
+    - >-
+      Statutory damages only if the photo was registered.
+  correct: 1
+  explanation: >-
+    Section 56א excludes statutory damages for already-public artistic works posted online by small
+    non-profits or for non-commercial use, if removed within a reasonable time after notice.
+- id: m32-021
+  module: 32
+  lesson: "32.3"
+  subject: indirect-infringement
+  difficulty: 2
+  question: >-
+    A shop sells counterfeit DVDs of Israeli films that it bought cheaply from an unknown supplier, with
+    photocopied covers. Is the shop liable even though it did not make the copies?
+  options:
+    - >-
+      No, only the person who made the copies is liable.
+    - >-
+      No, unless the films' producers registered them.
+    - >-
+      Yes, if it knew or should have known the copies were infringing.
+    - >-
+      Yes, but only if it sold more than a hundred copies in a year.
+  correct: 2
+  explanation: >-
+    Selling or holding infringing copies for business is indirect infringement if the seller knew or should
+    have known (s. 48); cheap photocopied covers suggest it should have known.
+- id: m32-022
+  module: 32
+  lesson: "32.3"
+  subject: standing
+  difficulty: 3
+  question: >-
+    A publisher holds a non-exclusive licence to print a novel. A pirate prints copies. Who may sue for the
+    copyright infringement?
+  options:
+    - >-
+      The publisher alone, as the party that suffers the loss.
+    - >-
+      Any reader who bought a pirated copy.
+    - >-
+      The publisher and the author jointly, as the law always requires.
+    - >-
+      Only the copyright owner, not a non-exclusive licensee.
+  correct: 3
+  explanation: >-
+    Section 54 allows the owner, and an exclusive licensee, to sue; a non-exclusive licensee cannot.
+- id: m32-023
+  module: 32
+  lesson: "32.3"
+  subject: innocent-infringer
+  difficulty: 3
+  question: >-
+    A defendant argues: "I did not know this photo was protected, so I owe no damages under s. 58." The
+    photo had a clear credit and "all rights reserved". How strong is the defence?
+  options:
+    - >-
+      Weak: s. 58 needs that he neither knew nor should have known.
+    - >-
+      Strong: anyone who did not personally know of the copyright is excused from damages.
+    - >-
+      Strong: s. 58 applies to any first infringement.
+    - >-
+      Irrelevant: s. 58 applies only in criminal cases.
+  correct: 0
+  explanation: >-
+    Section 58 frees an infringer from damages only if he neither knew nor should have known copyright
+    existed; a visible credit and notice defeat that.
+- id: m32-024
+  module: 32
+  lesson: "32.4"
+  subject: takedown
+  difficulty: 1
+  question: >-
+    Where does the "notice and takedown" standard for hosts and forums in Israel come from?
+  options:
+    - >-
+      A specific chapter of the Copyright Law enacted in 2007.
+    - >-
+      Case law, such as the Rotter forum judgment.
+    - >-
+      Regulations issued by the Patent Office.
+    - >-
+      The Communications Law's licensing rules.
+  correct: 1
+  explanation: >-
+    The Copyright Law has no statutory takedown regime; courts adopted the standard, for example in Rotter
+    (2011, as reported).
+- id: m32-025
+  module: 32
+  lesson: "32.4"
+  subject: disclosure
+  difficulty: 2
+  question: >-
+    An anonymous user posts defamatory comments about your shop on a forum. Can you use the Copyright Law's
+    disclosure procedure to find out who it is?
+  options:
+    - >-
+      Yes, because the procedure covers any online wrong.
+    - >-
+      Yes, provided you first register the shop's name as a trade mark at the Patent Office.
+    - >-
+      No, it covers copyright only; Mor still limits other cases.
+    - >-
+      No, because anonymous users can never be identified in Israel.
+  correct: 2
+  explanation: >-
+    Chapter 8.1 (ss. 60א–60ח) applies to copyright infringement; for defamation, Mor v. Barak held there
+    is no general procedure without legislation.
+- id: m32-026
+  module: 32
+  lesson: "32.4"
+  subject: disclosure
+  difficulty: 3
+  question: >-
+    In a disclosure application under s. 60ב, the respondent platform gave the court data that identifies
+    the infringer with high probability. What may the court do before revealing the identity to you?
+  options:
+    - >-
+      Nothing; it must reveal the identity immediately.
+    - >-
+      Order you to pay the infringer's legal fees in advance.
+    - >-
+      Refer the case to the Patent Office for a preliminary ruling on whether there was infringement.
+    - >-
+      Serve the application on the infringer without revealing his name, and hear his position.
+  correct: 3
+  explanation: >-
+    Section 60ד allows service on the actor without disclosing his identity, and lets him respond in
+    writing; disclosure to the applicant requires prima facie evidence and a reasonable chance of success
+    (s. 60ה(ב)).
+- id: m32-027
+  module: 32
+  lesson: "32.4"
+  subject: blocking
+  difficulty: 2
+  question: >-
+    Who is the respondent ordered to act under a blocking order under s. 53א?
+  options:
+    - >-
+      The access provider, which must restrict access to the content source.
+    - >-
+      Every internet user in Israel who visited the site.
+    - >-
+      The Patent Office, which removes the site from its register of domains.
+    - >-
+      The Israel Police, which shuts down the server.
+
+  correct: 0
+  explanation: >-
+    A blocking order is directed at an access provider and orders it to restrict access to a content source
+    whose content is mainly infringing (s. 53א(ב)).
+- id: m32-028
+  module: 32
+  lesson: "32.4"
+  subject: platform
+  difficulty: 2
+  question: >-
+    Before filing a removal request with a platform about your photo, what should you do first?
+  options:
+    - >-
+      Comment publicly under the post accusing the user of theft.
+    - >-
+      Save a PDF and screenshots with the URL, date and account name.
+    - >-
+      Send the user a ₪100,000 demand to secure your rights.
+    - >-
+      Report the user to the police for a copyright offence.
+  correct: 1
+  explanation: >-
+    Once the content is removed you may lose your evidence; preserve it first. Public accusations can
+    create defamation risks.
+- id: m32-029
+  module: 32
+  lesson: "32.4"
+  subject: platform
+  difficulty: 3
+  question: >-
+    A competitor files false copyright reports against your product listings on a marketplace to remove
+    them before a holiday sale. Besides the platform's own counter-process, which Israeli claim may fit?
+  options:
+    - >-
+      A patent infringement claim, because listings describe products.
+    - >-
+      A blocking order against the marketplace under s. 53א.
+    - >-
+      A Commercial Torts Law claim, such as unfair interference.
+    - >-
+      A design infringement claim, because the listings show images of the products for sale.
+  correct: 2
+  explanation: >-
+    Knowingly false notices that obstruct a competitor's access to customers may fall under CTL ss. 2–3, and
+    possibly defamation; blocking orders are for mainly infringing sites.
+- id: m32-030
+  module: 32
+  lesson: "32.4"
+  subject: indirect-infringement
+  difficulty: 2
+  question: >-
+    A website earns ad revenue by organising links to pirated live sports streams hosted elsewhere. Which
+    provision most directly targets it?
+  options:
+    - >-
+      Section 22, incidental use.
+    - >-
+      Section 27א, orphan works.
+    - >-
+      Section 56א, the exception to statutory damages for some online uses.
+    - >-
+      Section 48א, profit-making facilitation of access to illegal copies.
+  correct: 3
+  explanation: >-
+    Section 48א, added in 2019, makes a business that, for profit, facilitates or expands public access to
+    illegally available works an indirect infringer if it knew or should have known.
+- id: m32-031
+  module: 32
+  lesson: "32.5"
+  subject: distinctiveness
+  difficulty: 1
+  question: >-
+    Which proposed mark for running shoes is the most distinctive?
+  options:
+    - >-
+      "Fast Runner"
+    - >-
+      "Kestrova"
+    - >-
+      "Sport Shoes"
+    - >-
+      "Tel Aviv Running"
+  correct: 1
+  explanation: >-
+    An invented word is the strongest; descriptive and geographic terms are refused unless distinctive
+    through use (s. 11(10)–(11)).
+- id: m32-032
+  module: 32
+  lesson: "32.5"
+  subject: refusal-grounds
+  difficulty: 2
+  question: >-
+    A trader applies to register a mark showing a photo of a famous actor without his consent. What will
+    the Registrar do?
+  options:
+    - >-
+      Register it, since photos are distinctive.
+    - >-
+      Register it, as long as the trader pays the actor a reasonable fee later on.
+    - >-
+      Refuse it, because a person's picture needs consent.
+    - >-
+      Refuse it only if the actor is not Israeli.
+  correct: 2
+  explanation: >-
+    Section 11(8) bars a mark bearing a person's picture without consent (for a deceased person, the
+    Registrar may require the relatives' consent).
+- id: m32-033
+  module: 32
+  lesson: "32.5"
+  subject: infringement
+  difficulty: 2
+  question: >-
+    In the triple test for confusing similarity, which factor is NOT one of the three limbs?
+  options:
+    - >-
+      Sight and sound of the marks.
+    - >-
+      The type of goods and the circle of customers.
+    - >-
+      All other circumstances of the case.
+    - >-
+      The date each party incorporated its company.
+  correct: 3
+  explanation: >-
+    The three limbs are sight and sound, goods and customers, and other circumstances (adidas, NRG).
+- id: m32-034
+  module: 32
+  lesson: "32.5"
+  subject: well-known
+  difficulty: 3
+  question: >-
+    A famous foreign brand, well known in Israel but not registered here, finds a local trader using a
+    confusingly similar mark on the same goods. What remedy can it get?
+  options:
+    - >-
+      An injunction only, under s. 59(ב).
+    - >-
+      Damages only, since it is not registered.
+    - >-
+      Nothing, because unregistered marks cannot be enforced.
+    - >-
+      Destruction of the goods and statutory damages under the Ordinance.
+  correct: 0
+  explanation: >-
+    An unregistered well-known mark may be enforced (s. 57(א)) for the same or similar goods, but the
+    remedy is an injunction only (s. 59(ב)).
+- id: m32-035
+  module: 32
+  lesson: "32.5"
+  subject: shape-marks
+  difficulty: 3
+  question: >-
+    A maker of an ergonomic chair wants to register the chair's shape as a trade mark, arguing that buyers
+    recognise it. After Storck, what is the main obstacle?
+  options:
+    - >-
+      Three-dimensional marks are never registrable in Israel.
+    - >-
+      A shape with a functional or aesthetic role beyond a negligible one cannot be a trade mark.
+    - >-
+      Shapes can be registered only by companies, never by individual applicants or partnerships.
+    - >-
+      Shapes must first be patented before registration as marks.
+  correct: 1
+  explanation: >-
+    Storck: a product shape needs acquired distinctiveness, and a shape with a functional or aesthetic role
+    is excluded even then; design law is the tool for appearance.
+- id: m32-036
+  module: 32
+  lesson: "32.5"
+  subject: passing-off
+  difficulty: 2
+  question: >-
+    Which statement about passing off under the Commercial Torts Law is correct?
+  options:
+    - >-
+      It protects only registered trade marks.
+    - >-
+      It requires proof that the defendant intended to deceive the claimant's customers.
+    - >-
+      It applies between traders and requires goodwill and likely confusion.
+    - >-
+      It can be brought only at the Patent Office.
+  correct: 2
+  explanation: >-
+    Passing off (CTL s. 1) is a tort between traders (s. 4); the claimant proves goodwill and likely
+    confusion (Ilan Car Glazing). Intent is not required.
+- id: m32-037
+  module: 32
+  lesson: "32.5"
+  subject: own-name
+  difficulty: 2
+  question: >-
+    Dr. Moshe Klein opens a dental clinic called "Klein Dental". A registered mark "KLEIN" exists for
+    toothpaste. Can he use his name?
+  options:
+    - >-
+      Yes, s. 47 protects bona fide use of his own name.
+    - >-
+      No, a registered mark always overrides surnames.
+    - >-
+      Only after changing his surname officially.
+    - >-
+      Only if he registers "Klein Dental" as a trade mark before the clinic opens.
+  correct: 0
+  explanation: >-
+    Section 47 preserves bona fide use of one's own name; CTL s. 1(ב) likewise. Misleading use, however,
+    is not protected.
+- id: m32-038
+  module: 32
+  lesson: "32.5"
+  subject: non-use
+  difficulty: 3
+  question: >-
+    A competitor registered a mark for cosmetics four years ago and has never used it, while you have used a
+    similar name in good faith. What can you do?
+  options:
+    - >-
+      Nothing; registration is permanent for ten years.
+    - >-
+      Sue the competitor for passing off at the Patent Office, which hears such claims.
+    - >-
+      File an opposition, since oppositions are open at any time.
+    - >-
+      Apply to cancel the registration for non-use in the last three years (s. 41).
+  correct: 3
+  explanation: >-
+    Any interested person may apply to cancel for lack of bona fide use during the three years before the
+    application, unless special trade circumstances explain it.
+- id: m32-039
+  module: 32
+  lesson: "32.6"
+  subject: patents
+  difficulty: 1
+  question: >-
+    How long does an Israeli patent last?
+  options:
+    - >-
+      Ten years from grant, renewable.
+    - >-
+      Twenty years from filing, with renewal fees.
+    - >-
+      The inventor's life plus seventy years.
+    - >-
+      Twenty-five years from the publication of the application.
+  correct: 1
+  explanation: >-
+    Patents Law s. 52: twenty years from the application date; renewal fees must be paid (s. 56).
+- id: m32-040
+  module: 32
+  lesson: "32.6"
+  subject: patents
+  difficulty: 2
+  question: >-
+    Which of these cannot be patented in Israel under s. 7?
+  options:
+    - >-
+      A new medical device.
+    - >-
+      A new drug compound.
+    - >-
+      A method of surgical treatment of the human body.
+    - >-
+      A new and inventive manufacturing process for bandages.
+  correct: 2
+  explanation: >-
+    Section 7 excludes processes for medical treatment of the human body and new plant and animal varieties;
+    devices and drugs can be patented.
+- id: m32-041
+  module: 32
+  lesson: "32.6"
+  subject: designs
+  difficulty: 2
+  question: >-
+    A designer started selling a new lamp in Israel two months after first showing it online and did not
+    register it. What protection does she have?
+  options:
+    - >-
+      Unregistered design protection for three years, against copying.
+    - >-
+      None, because only registered designs are protected.
+    - >-
+      Twenty-five years of protection, as for registered designs.
+    - >-
+      Copyright for life plus seventy years, since it is applied art.
+  correct: 0
+  explanation: >-
+    A new design of individual character, sold commercially in Israel within six months of first
+    publication, is an unregistered design for three years, against copying (Designs Law ss. 4, 61, 65).
+- id: m32-042
+  module: 32
+  lesson: "32.6"
+  subject: designs
+  difficulty: 2
+  question: >-
+    Which feature cannot be protected as a design?
+  options:
+    - >-
+      The decorative pattern on a teapot.
+    - >-
+      The curved silhouette of a sofa.
+    - >-
+      The colour scheme and texture of a phone case, chosen for its look.
+    - >-
+      A connector's shape that must fit another product exactly to work.
+  correct: 3
+  explanation: >-
+    Designs Law s. 10 excludes appearance dictated solely by function and must-fit interfaces.
+- id: m32-043
+  module: 32
+  lesson: "32.6"
+  subject: patents
+  difficulty: 3
+  question: >-
+    A company exploited a process in good faith in Israel before a competitor filed a patent application for
+    the same process. After the patent is granted, can the company continue?
+  options:
+    - >-
+      No, the patent owner can stop all use after grant.
+    - >-
+      Yes, it may continue to exploit it itself in its business, without payment.
+    - >-
+      Yes, but only if it pays a royalty set by the Registrar.
+    - >-
+      Only if it files its own patent application for the process within six months.
+  correct: 1
+  explanation: >-
+    Section 53 gives a prior good-faith user in Israel (or one who made real preparations) the right to
+    continue exploiting the invention himself, without payment.
+- id: m32-044
+  module: 32
+  lesson: "32.6"
+  subject: fees
+  difficulty: 1
+  question: >-
+    An individual inventor files a first patent application for an invention. What is special about the
+    filing fee?
+  options:
+    - >-
+      Individuals file for free.
+    - >-
+      Individuals pay double, because no patent attorney has checked the application.
+    - >-
+      Individuals pay a reduced share (60%) of the fee for a first application.
+    - >-
+      Individuals pay only after the patent is granted.
+  correct: 2
+  explanation: >-
+    The Patent Regulations' fee schedule gives a reduced fee (60%) to individual applicants, small companies
+    and academic institutions for a first application for an invention.
+- id: m32-045
+  module: 32
+  lesson: "32.6"
+  subject: overlap
+  difficulty: 3
+  question: >-
+    A sculptor's figurine is mass-produced as a toy under licence. Later, a copier sells identical toys.
+    Why may the sculptor's copyright claim fail?
+  options:
+    - >-
+      Because copyright does not apply to a design used for industrial production (s. 7).
+    - >-
+      Because toys are never artistic works.
+    - >-
+      Because the licence transferred the moral right.
+    - >-
+      Because copyright needs a registration once copies of a work are sold commercially.
+  correct: 0
+  explanation: >-
+    Copyright Law s. 7 removes copyright from a design used or intended for industrial production; the
+    sculptor should rely on design protection.
+- id: m32-046
+  module: 32
+  lesson: "32.7"
+  subject: trade-secrets
+  difficulty: 1
+  question: >-
+    Which is NOT a requirement of a trade secret under CTL s. 5?
+  options:
+    - >-
+      The information is not public.
+    - >-
+      It gives a business advantage over competitors.
+    - >-
+      The owner takes reasonable measures to keep it secret.
+    - >-
+      It is registered with the Registrar of Companies.
+  correct: 3
+  explanation: >-
+    There is no registration of trade secrets; the elements are non-public information, business advantage
+    and reasonable secrecy measures.
+- id: m32-047
+  module: 32
+  lesson: "32.7"
+  subject: reverse-engineering
+  difficulty: 2
+  question: >-
+    A competitor buys your product on the open market, takes it apart and works out how it is made. Is that
+    misappropriation?
+  options:
+    - >-
+      Yes, any use of your know-how without consent is misappropriation.
+    - >-
+      Not in itself: reverse engineering is not an improper means (s. 6(ג)).
+    - >-
+      Yes, unless the competitor pays a reasonable royalty.
+    - >-
+      Only if the product carried a "confidential" label.
+  correct: 1
+  explanation: >-
+    Section 6(ג) says that discovering a secret by reverse engineering is not in itself an improper means;
+    a patent is the tool against it.
+- id: m32-048
+  module: 32
+  lesson: "32.7"
+  subject: employee-inventions
+  difficulty: 2
+  question: >-
+    An employee invents a device related to his job and notifies the employer in writing. The employer does
+    not answer. What is the default position?
+  options:
+    - >-
+      The invention automatically becomes the employee's after thirty days of silence by the employer.
+    - >-
+      The invention belongs to the State.
+    - >-
+      The employer's, unless waived within six months.
+    - >-
+      The Registrar decides automatically who owns it.
+  correct: 2
+  explanation: >-
+    A service invention is the employer's unless agreed otherwise or waived within six months; under
+    s. 132(ב) the employee's notice can make silence for six months mean the invention is his.
+- id: m32-049
+  module: 32
+  lesson: "32.7"
+  subject: non-compete
+  difficulty: 3
+  question: >-
+    An employer's contract forbids a hairdresser from working "anywhere in Israel" for three years after
+    leaving. She opens a salon in another city and takes no clients or materials. After AES, what is likely?
+  options:
+    - >-
+      The clause is enforced in full because she signed it.
+    - >-
+      She must pay the employer three years' profits.
+    - >-
+      The court always enforces such a clause for one year as a fair compromise.
+    - >-
+      The clause is unenforceable here, as it protects no legitimate interest.
+  correct: 3
+  explanation: >-
+    A restraint that only prevents competition or the use of general skills protects no legitimate interest
+    and is contrary to public policy (AES).
+- id: m32-050
+  module: 32
+  lesson: "32.7"
+  subject: committee
+  difficulty: 2
+  question: >-
+    Who sits on the Compensation and Royalties Committee under the Patents Law?
+  options:
+    - >-
+      A Supreme Court judge, the Registrar and an academic.
+    - >-
+      Three labour-court judges.
+    - >-
+      The Attorney General together with two senior patent attorneys.
+    - >-
+      Representatives of employers and employees' unions.
+  correct: 0
+  explanation: >-
+    Section 109: a Supreme Court judge, the Registrar and a member of the academic staff of a higher
+    education institution. Its decisions are final (s. 111).
+- id: m32-051
+  module: 32
+  lesson: "32.7"
+  subject: designs-ownership
+  difficulty: 3
+  question: >-
+    A designer employed by a furniture firm designs, at home, a lamp unrelated to her job, but uses the
+    firm's 3D printer and CAD licence for weeks to develop it. Who probably owns the design?
+  options:
+    - >-
+      She does, because the lamp is entirely outside her written job description.
+    - >-
+      Probably the employer, under Designs Law s. 12.
+    - >-
+      Both, in shares reflecting the time used.
+    - >-
+      Nobody until the Registrar decides.
+  correct: 1
+  explanation: >-
+    Unlike copyright's s. 34, the Designs Law gives the employer a design made with substantial use of its
+    resources; disputes can go to the Registrar (s. 12(ב)).
+- id: m32-052
+  module: 32
+  lesson: "32.7"
+  subject: whistleblowing
+  difficulty: 3
+  question: >-
+    An employee gives a journalist internal documents showing that the employer hides a safety defect. The
+    employer sues for trade-secret misappropriation. Which defence is most relevant?
+  options:
+    - >-
+      Reverse engineering under s. 6(ג).
+    - >-
+      Good-faith purchase under s. 8.
+    - >-
+      Public-policy use under s. 7(א)(2).
+    - >-
+      Fair use under s. 19 of the Copyright Law.
+  correct: 2
+  explanation: >-
+    Section 7(א)(2) excuses use of a trade secret justified by public policy; the court may still order
+    restitution of any benefit (s. 7(ב)).
+- id: m32-053
+  module: 32
+  lesson: "32.8"
+  subject: evidence
+  difficulty: 1
+  question: >-
+    What does the s. 64(1) presumption do for a creator?
+  options:
+    - >-
+      A person named on a work in the usual way is presumed to be its author.
+    - >-
+      Any work posted online without a notice is presumed to be in the public domain.
+    - >-
+      A registered work is presumed original.
+    - >-
+      A work with a © sign is presumed infringed.
+  correct: 0
+  explanation: >-
+    Section 64(1) creates a rebuttable presumption that the person named as author in the usual way is
+    the author, in civil and criminal proceedings.
+- id: m32-054
+  module: 32
+  lesson: "32.8"
+  subject: demand-letter
+  difficulty: 2
+  question: >-
+    Spot the mistake in this demand letter: "You used my photo. Pay ₪100,000 statutory damages per day
+    within 48 hours or I will report you to the police and the media."
+  options:
+    - >-
+      It should have been sent by fax only.
+    - >-
+      It forgot to mention the moral right in Hebrew.
+    - >-
+      It should have been signed by a patent attorney or a lawyer to be valid at all.
+    - >-
+      Damages are per infringement, not per day; the threats overreach.
+  correct: 3
+  explanation: >-
+    Statutory damages are capped per infringement (s. 56), a series of acts counts as one, and threats you
+    are not entitled or ready to carry out weaken your position.
+- id: m32-055
+  module: 32
+  lesson: "32.8"
+  subject: licensing
+  difficulty: 2
+  question: >-
+    You publish your photos under a Creative Commons Attribution–NonCommercial licence. A hotel uses one on
+    its booking page with your credit. What is the position?
+  options:
+    - >-
+      Lawful, because the hotel gave credit as required.
+    - >-
+      Infringing, because commercial use is outside the licence.
+    - >-
+      Lawful, because Creative Commons licences are not enforceable in Israel.
+    - >-
+      Infringing only if the hotel removed the licence notice.
+  correct: 1
+  explanation: >-
+    Using a work outside a licence's conditions is infringement; an Israeli court has enforced CC licence
+    conditions (as reported by Stanford CIS).
+- id: m32-056
+  module: 32
+  lesson: "32.8"
+  subject: answering
+  difficulty: 2
+  question: >-
+    Your business receives a demand about a photo on your website. Which first reply is best?
+  options:
+    - >-
+      "We apologise and admit full liability for the use; please send us your bank details."
+    - >-
+      No reply, to avoid creating evidence.
+    - >-
+      "Without admission, we removed the photo; please send proof of your ownership."
+    - >-
+      "We found it on Google, so it is free to use."
+  correct: 2
+  explanation: >-
+    Stop the use, ask for proof and keep your defences; ignoring the letter risks a claim, and finding a
+    photo online is not permission.
+- id: m32-057
+  module: 32
+  lesson: "32.8"
+  subject: evidence
+  difficulty: 3
+  question: >-
+    Which evidence package best proves you created a digital illustration in 2023?
+  options:
+    - >-
+      Original files with history, the first dated post and client e-mails.
+    - >-
+      A screenshot of the illustration on your phone taken today.
+    - >-
+      A sworn statement from a friend who remembers seeing you draw that kind of illustration.
+    - >-
+      An AI tool's report that the image looks like your style, with a confidence score.
+  correct: 0
+  explanation: >-
+    Several independent, dated sources (originals with history, first publication, correspondence) are the
+    strongest evidence; Israel has no copyright registry.
+- id: m32-058
+  module: 32
+  lesson: "32.8"
+  subject: forum
+  difficulty: 2
+  question: >-
+    A business refuses your demand for a licence fee of ₪3,000 for one photo. You want to sue without a
+    lawyer. Which court fits?
+  options:
+    - >-
+      The High Court of Justice, for a quick order.
+    - >-
+      The Patent Office, which sets copyright fees.
+    - >-
+      The regional labour court, as the dispute is about payment for your work.
+    - >-
+      Small claims, as a money claim within the ceiling.
+  correct: 3
+  explanation: >-
+    An individual's money claim within the ceiling may go to small claims (Courts Law s. 60), where parties
+    usually appear without lawyers.
+- id: m32-059
+  module: 32
+  lesson: "32.8"
+  subject: platform
+  difficulty: 3
+  question: >-
+    You found your design printed on T-shirts sold by twelve anonymous marketplace accounts. What is the
+    most efficient plan?
+  options:
+    - >-
+      Twelve separate small claims against "unknown defendants".
+    - >-
+      Save evidence, then report all listings to the marketplace.
+    - >-
+      A blocking order against the marketplace under s. 53א.
+    - >-
+      Twelve disclosure applications in the District Court at once, one per account.
+  correct: 1
+  explanation: >-
+    The platform's procedure is fast and cheap for many listings; blocking orders are for mainly infringing
+    sites, and disclosure applications are costly.
+- id: m32-060
+  module: 32
+  lesson: "32.9"
+  subject: search
+  difficulty: 1
+  question: >-
+    Under the Trade Marks Regulations, how can a member of the public search existing marks?
+  options:
+    - >-
+      Only by paying a patent attorney to search.
+    - >-
+      Only by visiting the Patent Office in person and paying a search fee to an examiner.
+    - >-
+      In the Registrar's online databases, or by asking the Registrar to search for a fee.
+    - >-
+      Only through the Companies Registrar's database.
+  correct: 2
+  explanation: >-
+    Regulation 78 lets anyone search the Registrar's online databases (78(ב)) or ask the Registrar to search
+    for a fee (78(א)).
+- id: m32-061
+  module: 32
+  lesson: "32.9"
+  subject: filing
+  difficulty: 2
+  question: >-
+    A limited company wants to file a trade-mark application. How must it file?
+  options:
+    - >-
+      Online only, through the filing site with electronic identification.
+    - >-
+      On paper only, signed by two directors.
+    - >-
+      Through the Companies Registrar, together with its next annual report.
+    - >-
+      In person at a District Court registry.
+  correct: 0
+  explanation: >-
+    Regulation 6(ב) requires corporations and licensed professionals to file online; individuals may also
+    file on paper.
+- id: m32-062
+  module: 32
+  lesson: "32.9"
+  subject: classes
+  difficulty: 2
+  question: >-
+    You sell handmade candles online. Which pair of Nice classes most likely fits your application?
+  options:
+    - >-
+      Class 9 (software) and class 42 (technology services).
+    - >-
+      Class 25 (clothing) and class 41 (education).
+    - >-
+      Class 1 and class 45.
+    - >-
+      Class 4 (candles) and class 35 (retail).
+  correct: 3
+  explanation: >-
+    Candles fall in class 4 and retail services in class 35; check the current Nice edition (NCL 13-2026)
+    for exact terms.
+- id: m32-063
+  module: 32
+  lesson: "32.9"
+  subject: priority
+  difficulty: 3
+  question: >-
+    You filed a trade-mark application in Israel on 1 March. Until when can you file in another Paris
+    Convention country and claim the Israeli date as priority?
+  options:
+    - >-
+      Until 1 March of the following year, twelve months later.
+    - >-
+      Until 1 September, six months later.
+    - >-
+      Only until registration in Israel.
+    - >-
+      There is no priority for trade marks.
+  correct: 1
+  explanation: >-
+    Trade-mark priority under the Paris Convention is six months (mirrored in Ordinance s. 55 for incoming
+    claims); patents have twelve months.
+- id: m32-064
+  module: 32
+  lesson: "32.9"
+  subject: search
+  difficulty: 2
+  question: >-
+    Your search finds an identical mark for your goods, status "expired" five years ago, not renewed. What
+    does it mean for you?
+  options:
+    - >-
+      You may never use the name, because an expired mark still blocks identical names forever.
+    - >-
+      You must buy the expired mark from its former owner.
+    - >-
+      It no longer blocks you, but check for ongoing use and goodwill.
+    - >-
+      You must wait ten more years before filing.
+  correct: 2
+  explanation: >-
+    An expired registration no longer bars registration, but the former owner may still use the name and
+    have goodwill protected by passing off.
+- id: m32-065
+  module: 32
+  lesson: "32.9"
+  subject: good-faith
+  difficulty: 3
+  question: >-
+    You commission a factory to make bags with a logo similar to a foreign brand's registered mark, and
+    neither of you checks. Customs abroad seizes the shipment. After Eximin, how may the loss be allocated?
+  options:
+    - >-
+      Entirely on the factory, which produced the goods.
+    - >-
+      Entirely on the foreign brand, which should have warned the factory in advance.
+    - >-
+      On neither, since foreign marks do not concern Israelis.
+    - >-
+      Shared, because both parties failed to check a known risk in good faith.
+  correct: 3
+  explanation: >-
+    In Eximin the majority held that both parties, aware of the risk, acted without good faith by not
+    checking, and divided the loss.
+- id: m32-066
+  module: 32
+  lesson: "32.9"
+  subject: after-filing
+  difficulty: 1
+  question: >-
+    From when is the ten-year term of an Israeli trade-mark registration counted?
+  options:
+    - >-
+      From the date of the application.
+    - >-
+      From the date of the registration certificate.
+    - >-
+      From the first use of the mark.
+    - >-
+      From the end of the opposition period.
+  correct: 0
+  explanation: >-
+    Section 31: registration is valid for ten years from the date of the application, renewable for further
+    ten-year periods (s. 32).

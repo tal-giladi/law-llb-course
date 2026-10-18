@@ -56,7 +56,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 31 — Clinic III: Property, Estates and Money
 - [x] Year 3 QA: links, neutrality, Academy dry run
 - [x] Detailed lesson plan for year 4 (modules 32–39)
-- [ ] Module 32 — Intellectual Property
+- [x] Module 32 — Intellectual Property
 - [x] Module 33 — Class Actions and Public-Interest Litigation
 - [ ] Module 34 — Environmental Law
 - [ ] Module 35 — The Legal Profession and Ethics
@@ -68,7 +68,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 32: sub-agent A
+- Module 35: sub-agent A
 - Module 34: sub-agent B
 
 

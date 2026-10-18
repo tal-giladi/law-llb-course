@@ -1,0 +1,74 @@
+- id: q1
+  question: >-
+    You opened a café called "Bean There" and want to stop a competitor two streets away from using the
+    same name. A friend says you already have copyright in the name because you thought of it first. What
+    is the right analysis?
+  options:
+    - >-
+      Copyright protects the name from the day you first wrote it on your sign.
+    - >-
+      Names are protected through a trade-mark registration or, once you have goodwill, passing off.
+    - >-
+      The name is protected only if you registered your business with the Companies Registrar.
+    - >-
+      Nothing can protect a café name, because names are ideas under Copyright Law s. 5.
+  correct: 1
+  explanation: >-
+    A short name is not a copyright work; exclusivity comes from registering it as a trade mark (Ordinance
+    s. 7), and an unregistered name is protected only by passing off once the public links it to your
+    business (Commercial Torts Law s. 1).
+- id: q2
+  question: >-
+    A company spent years compiling a complete list of every football match in a season, in date order,
+    and a betting company copied the matches it needed. After the Premier League fixtures case, what is
+    the likely result?
+  options:
+    - >-
+      Copyright infringement, because the list required large investment.
+    - >-
+      Unjust enrichment, because the betting company profited from someone else's work.
+    - >-
+      No liability: the list lacks minimal creativity, and nothing improper was shown.
+    - >-
+      Passing off, because consumers will think the leagues run the betting forms.
+  correct: 2
+  explanation: >-
+    The Supreme Court required creativity as well as investment for originality; a complete list in the
+    most logical order had none. Unjust enrichment beside IP law needs improper business practices, which
+    were absent.
+- id: q3
+  question: >-
+    You built a clever folding stand for phones and plan to post a demonstration video tomorrow to test
+    demand. You may want a patent later. What should you do first?
+  options:
+    - >-
+      File a patent application, or at least get advice, before publishing anything.
+    - >-
+      Post the video, since copyright in the video protects the invention too.
+    - >-
+      Post the video, since you have twelve months to file under the Patents Law.
+    - >-
+      Register the stand as an unregistered design, which also blocks copycats.
+  correct: 0
+  explanation: >-
+    An invention is new only if it was not published anywhere before the application date (Patents Law
+    s. 4). Copyright protects the video's expression, not the invention, and Israel has no general
+    twelve-month grace period for your own publication.
+- id: q4
+  question: >-
+    A business owner paid a freelance designer to draw a logo. There is no written agreement about rights.
+    Who is the first owner of the copyright in the drawing?
+  options:
+    - >-
+      The business owner, because a commissioned work belongs to whoever paid for it.
+    - >-
+      The business owner, because the logo will be used as a trade mark.
+    - >-
+      Both of them jointly, because they cooperated on the brief.
+    - >-
+      The designer, unless they agreed otherwise expressly or by implication.
+  correct: 3
+  explanation: >-
+    For commissioned works the author is the first owner unless agreed otherwise (Copyright Law s. 35(א));
+    only portraits and photos of family or private events go to the commissioning party (s. 35(ב)). Get a
+    written assignment (s. 37(ג)).

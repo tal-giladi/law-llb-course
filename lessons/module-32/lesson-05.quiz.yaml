@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    You want to register "Fresh Juice" as a trade mark for a juice bar you will open next month. What is
+    the Registrar most likely to do?
+  options:
+    - >-
+      Register it, because nobody else has registered those exact words.
+    - >-
+      Refuse it as descriptive, unless you show it has acquired distinctiveness.
+    - >-
+      Register it only for juice sold in the city named in your application.
+    - >-
+      Refuse it because juice bars must use their company name as their mark.
+  correct: 1
+  explanation: >-
+    Words that describe the goods or their quality are not registrable unless they have become distinctive
+    through use (Ordinance ss. 8, 11(10)). A new business has no such use yet.
+- id: q2
+  question: >-
+    A competitor sells shoes with four diagonal stripes and its own brand name. You own the registered
+    three-stripes mark. After the adidas case, what decides whether there is infringement?
+  options:
+    - >-
+      Whether any stripes appear, since your strong brand covers all stripe designs.
+    - >-
+      Whether the competitor managed to register its own four-stripe mark first.
+    - >-
+      Whether buyers would be misled, judged by the triple test on the whole product.
+    - >-
+      Whether the competitor's shoes are cheaper, since price decides confusion.
+  correct: 2
+  explanation: >-
+    Confusing similarity is assessed by sight and sound, goods and customers, and other circumstances.
+    A mark with weak inherent distinctiveness is protected against itself and very close variations,
+    not every striped design.
+- id: q3
+  question: >-
+    Your bakery has used the name "Lechem Savta" in Petah Tikva for eight years without registering it.
+    A new bakery in the same city opens under the same name. What is your main legal route?
+  options:
+    - >-
+      Passing off under the Commercial Torts Law, proving goodwill and likely confusion.
+    - >-
+      An infringement claim under the Trade Marks Ordinance, since use creates registration.
+    - >-
+      A copyright claim, since you wrote the name on your sign first.
+    - >-
+      Nothing, because unregistered names have no protection in Israel.
+  correct: 0
+  explanation: >-
+    Only registered or well-known marks support an infringement action (s. 57(א)). An unregistered name
+    is protected by passing off (CTL s. 1), which requires goodwill and likely confusion. Apply to
+    register now as well.
+- id: q4
+  question: >-
+    The application for a mark you think is confusingly similar to yours was published by the Patent
+    Office five weeks ago. What can you do at the Patent Office?
+  options:
+    - >-
+      Nothing: once published, an application can only be challenged in court.
+    - >-
+      Ask the Registrar to cancel it for non-use, since it has not been used yet.
+    - >-
+      Wait until it is registered and then sue the owner for infringement.
+    - >-
+      File an opposition within three months of publication, stating your grounds.
+  correct: 3
+  explanation: >-
+    Anyone may oppose within three months of publication (s. 24(א)), on any refusal ground (such as
+    s. 11(9)) or by claiming ownership of the mark. Non-use cancellation needs three years without use.

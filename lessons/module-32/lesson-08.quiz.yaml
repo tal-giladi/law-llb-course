@@ -1,0 +1,53 @@
+- id: q1
+  question: >-
+    A photographer wants to be ready to prove authorship of her photos if a dispute arises. Which step
+    gives her the strongest evidence in Israel?
+  options:
+    - >-
+      Registering each photo with the Israel Patent Office's copyright registry.
+    - >-
+      E-mailing each photo to herself so that the e-mail shows the date.
+    - >-
+      Keeping the original camera files, the first publication and a credit on published copies.
+    - >-
+      Uploading each photo to a paid blockchain service, which courts must accept as proof.
+  correct: 2
+  explanation: >-
+    Israel has no copyright registry. Originals with metadata, the first publication and a credit (which
+    triggers the s. 64 presumption of authorship) together are the best evidence; an e-mail to yourself
+    is weak on its own.
+- id: q2
+  question: >-
+    Your small online shop receives a letter demanding ₪15,000 for a photo used on your site for a year.
+    What is the best first response?
+  options:
+    - >-
+      Ignore it, since letters from agencies rarely lead to lawsuits.
+    - >-
+      Remove the photo, ask for proof of ownership, and reply without admitting liability.
+    - >-
+      Pay at once to avoid statutory damages of up to the ceiling per day of use.
+    - >-
+      Reply that you found the photo on Google Images, which makes the use lawful.
+  correct: 1
+  explanation: >-
+    Stop the use, check the claimant's ownership and your defences, and answer without admissions.
+    Statutory damages are per infringement, not per day, and finding a photo online is not permission.
+- id: q3
+  question: >-
+    Why does a visible credit line and licence statement on your published work help you in a later
+    damages claim?
+  options:
+    - >-
+      It undercuts the innocent-infringer defence in s. 58.
+    - >-
+      It doubles the statutory damages ceiling available under s. 56.
+    - >-
+      It is a legal condition for copyright to exist in Israel.
+    - >-
+      It transfers the moral right to anyone who displays the credit.
+  correct: 0
+  explanation: >-
+    Section 58 frees from damages only someone who did not and should not have known copyright existed;
+    a visible notice defeats that claim and supports the s. 64 presumption. Protection itself needs no
+    notice.
