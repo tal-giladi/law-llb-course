@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your contractor told you on the phone, "it's the building's pipes, not my problem". You recorded the
+    call on your own phone. How do you use it?
+  options:
+    - >-
+      You cannot use it at all, because every recording made without notice is secret eavesdropping.
+    - >-
+      Play the whole recording at the hearing and skip the transcript, since judges prefer audio.
+    - >-
+      Keep the original file and a transcript of the relevant part, and list it as an exhibit.
+    - >-
+      Ask the contractor's permission now, since a recording is admissible only with later consent.
+  correct: 2
+  explanation: >-
+    A party recording his own conversation is not eavesdropping (Eavesdropping Law s. 1). Keep the original
+    and give the court a transcript of the part that matters.
+- id: q2
+  question: >-
+    A friend offers screenshots from your former manager's private chat group that prove the company planned
+    your transfer to push you out. What should your evidence file say?
+  options:
+    - >-
+      "Do not use without advice": material taken from someone else's account may be excluded under s. 32.
+    - >-
+      "Strong evidence": anything that proves the truth is admissible in the labour court.
+    - >-
+      "Use as exhibit 1": the friend obtained it, not you, so the privacy rules do not apply.
+    - >-
+      "Use at the hearing only": privacy rules apply to written filings but not to oral evidence.
+  correct: 0
+  explanation: >-
+    Material obtained by infringing privacy is presumptively inadmissible in every court (Privacy Law s. 32;
+    בג״ץ 6650/04) and may expose the user to a suit. Flag it and get advice before relying on it.
+- id: q3
+  question: >-
+    Your research memo relies on a labour court ruling you found summarised in a blog post. You could not open
+    the full text. What do you do?
+  options:
+    - >-
+      Cite it with the blog link, since the summary is a reliable secondary source.
+    - >-
+      Cite it as binding, since all labour court rulings bind other labour courts.
+    - >-
+      Cite the ruling's number without a link, so the judge can look it up himself.
+    - >-
+      Do not rely on it until you read the full text; record the answer as less certain.
+  correct: 3
+  explanation: >-
+    The research file cites only what you actually read. A summary may be wrong or the ruling overturned;
+    an uncertain answer on a decisive point is a reason to get advice.
+- id: q4
+  question: >-
+    Your neighbour will testify that water came through her ceiling. Your forum takes evidence by affidavit.
+    What is the right way to prepare her evidence?
+  options:
+    - >-
+      Write the affidavit for her in your words, so that it matches your claim exactly.
+    - >-
+      Tell her which facts the case is about; she writes and signs her own affidavit.
+    - >-
+      Sign her affidavit yourself with her oral consent, to save her a trip.
+    - >-
+      Put her account into your own affidavit, since one affidavit is enough for both.
+  correct: 1
+  explanation: >-
+    Each witness writes and signs his own affidavit before a person listed in Evidence Ordinance s. 15.
+    Drafting for others is a reserved act and weakens the evidence.

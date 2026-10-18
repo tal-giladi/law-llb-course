@@ -1003,3 +1003,10 @@ Every fee, ceiling and deadline the course uses is kept on this page; lessons li
 | Bar exam: reported format (unofficial) | Writing task 45 min, 20%; procedural 40 MCQ, 100 min, 40%; substantive 40 MCQ, 160 min, 40%, with statute booklet; results about 3 weeks later | Raisman school guide, https://raisman.sgo.co.il/wp-content/uploads/2025/07/מהי-בחינת-ההסמכה-1-1.pdf (2026-10-18) ⚠️ unofficial; confirm in the committee's notice | 38.1, 38.7, 38.8 |
 | Next sitting date and statute list | Not verified (December 2026 or June 2027 expected) | ⚠️ manual check on the Bar's site | 38.1 |
 | Fast-track ceiling (reg. 78(א)) | ₪75,000 in the regulation text (excluding class, road-accident and bodily-injury claims) — confirm whether linked | CPR, https://he.wikisource.org/wiki/תקנות_סדר_הדין_האזרחי (as quoted in lesson 15.6) | 38.2, 38.7, 38.8 |
+| Small claims filing fee | as on the page (1% of the claim, minimum) | Small Claims Regulations reg. 6(א); existing row | 39.2, 39.4 |
+| Small claims body limit, document and witness lists (proceedings from 11.4.2025) | 5 pages | reg. 3(ה); existing row | 39.3, 39.4, quizzes |
+| Small claims leave to appeal | as on the page | reg. 16(א); existing row | 39.6 |
+| Labour court expedited-track ceiling | as on the page (₪40,700 in 2026) | Expedited Hearing Regulations reg. 1א; existing row (module 22) | 39.2, 39.4 |
+| Execution file: earliest filing after judgment | as on the page | Execution Law s. 6(ב); existing row (module 8) | 39.6, quizzes |
+| General civil limitation | 7 years | Prescription Law s. 5(1); existing row | 39.1 |
+| Insurance limitation; negotiation does not stop it | as on the page | Insurance Contract Law ss. 31–31א; existing row | 39.1 quiz, bank |

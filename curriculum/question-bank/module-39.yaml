@@ -1,0 +1,1259 @@
+- id: m39-001
+  module: 39
+  lesson: "39.1"
+  subject: own-matter-gate
+  difficulty: 1
+  question: >-
+    Which of these can be your capstone matter?
+  options:
+    - >-
+      Your employer's claim against a supplier that you manage at work.
+    - >-
+      Your own claim for a deposit your former landlord kept.
+    - >-
+      Your elderly neighbour's arnona objection, which she asked you to sign.
+    - >-
+      Your adult son's traffic ticket, since the car is registered to you.
+  correct: 1
+  explanation: >-
+    Gate G1: the matter must be yours. An employer's claim is a company's; a neighbour's or son's matter
+    belongs to them, and they sign their own documents.
+- id: m39-002
+  module: 39
+  lesson: "39.1"
+  subject: forum-act-alone
+  difficulty: 1
+  question: >-
+    You run a one-person company. A customer owes the company ₪8,000. Can the company sue in small claims?
+  options:
+    - >-
+      Yes, because a one-person company is treated in small claims as the individual who owns it.
+    - >-
+      Yes, provided that you appear personally as its director and not through a lawyer.
+    - >-
+      No: only an individual may sue there, though a company may be sued.
+    - >-
+      No, because debts between businesses are heard only in the district court's commercial division.
+  correct: 2
+  explanation: >-
+    Only an individual may file a small claim (Courts Law s. 60). A company suing goes to the magistrates'
+    court, generally through a lawyer: G3 for your capstone.
+- id: m39-003
+  module: 39
+  lesson: "39.1"
+  subject: forum-act-alone
+  difficulty: 2
+  question: >-
+    You want your capstone to be an enduring power of attorney for yourself. Which statement is correct?
+  options:
+    - >-
+      You prepare the decisions, but sign before a specially trained lawyer.
+    - >-
+      You may sign it alone at home and deposit it yourself, exactly like a handwritten will.
+    - >-
+      Only the Administrator General may draft it, so you may not prepare any part of it.
+    - >-
+      It must be approved by the Family Court at a hearing before it becomes valid.
+  correct: 0
+  explanation: >-
+    The EPA must be signed before a lawyer trained for the purpose with no personal interest (Capacity and
+    Guardianship Law s. 32יד). You prepare the decisions (lesson 31.2); in the cross-index it is "not alone".
+- id: m39-004
+  module: 39
+  lesson: "39.1"
+  subject: decision-matrix
+  difficulty: 2
+  question: >-
+    A candidate scores 3 on stakes and merits but 1 on "sensible alone" because the other side is a large
+    represented insurer and the case needs a medical expert. What should you do?
+  options:
+    - >-
+      Choose it anyway, since stakes and merits carry the highest weights in the matrix.
+    - >-
+      Choose it, but keep the medical issue from the insurer until the hearing itself.
+    - >-
+      Drop it for good, since any case that needs an expert is beyond a private person.
+    - >-
+      Book a consultation for it and choose another capstone that scores better.
+  correct: 3
+  explanation: >-
+    A score of 1 on "sensible alone" signals a lawyer's matter. Keep it alive with a consultation; the
+    capstone should be a matter you can run safely.
+- id: m39-005
+  module: 39
+  lesson: "39.1"
+  subject: decision-matrix
+  difficulty: 1
+  question: >-
+    What is the purpose of the three gates in the decision matrix?
+  options:
+    - >-
+      To weight the criteria so that larger and more important claims score higher overall.
+    - >-
+      To exclude matters you may not or should not run, whatever they score.
+    - >-
+      To decide which magistrates' court has territorial jurisdiction over the matter.
+    - >-
+      To calculate the expected value of the claim before the first letter is sent.
+  correct: 1
+  explanation: >-
+    Gates are pass/fail conditions checked before scoring: yours (G1), low exposure (G2), allowed alone in
+    the forum (G3).
+- id: m39-006
+  module: 39
+  lesson: "39.1"
+  subject: deadlines
+  difficulty: 2
+  question: >-
+    Your insurer has been "examining" your claim for two years and eleven months. You plan to choose it as a
+    capstone and start with a polite letter. What is the danger?
+  options:
+    - >-
+      Insurers may lawfully refuse to answer letters sent by unrepresented claimants.
+    - >-
+      A polite letter may be treated by the court as a waiver of the right to sue.
+    - >-
+      Limitation may be about to expire, and negotiation does not stop it.
+    - >-
+      The insurer may cancel the policy retroactively as soon as you write to it.
+  correct: 2
+  explanation: >-
+    Insurance claims have a short limitation period (s. 31; longer for some personal lines) and negotiation
+    does not stop it (s. 31א). This is an emergency, not a capstone to start with a letter.
+- id: m39-007
+  module: 39
+  lesson: "39.1"
+  subject: cross-index
+  difficulty: 2
+  question: >-
+    Your matter is a dispute with the house committee over the cost of repairing the building's roof. Which
+    forum does the cross-index point to?
+  options:
+    - >-
+      The superintendent of land registration, who hears condominium disputes.
+    - >-
+      The Administrative Affairs Court, since a house committee is a public body.
+    - >-
+      The arnona appeals committee, since the roof is part of the common property.
+    - >-
+      The regional labour court, since the committee employs the building's cleaner.
+  correct: 0
+  explanation: >-
+    Condominium disputes go to the superintendent (Land Law ss. 72–73; lessons 13.6 and 13.10), where any
+    flat owner may bring a claim in his own name.
+- id: m39-008
+  module: 39
+  lesson: "39.1"
+  subject: always-available
+  difficulty: 1
+  question: >-
+    Which of these is an "always-available" low-risk capstone that every employee can run?
+  options:
+    - >-
+      A class action against the employer's pension fund on behalf of all its members.
+    - >-
+      A High Court petition against the income tax brackets set for this year.
+    - >-
+      A private criminal complaint against a former manager for an old insult.
+    - >-
+      A tax-refund review of the open years, filed in your own name.
+  correct: 3
+  explanation: >-
+    A refund review (lesson 31.5) passes all gates and is filed by the employee himself; the others are
+    either a lawyer's task or carry real exposure.
+- id: m39-009
+  module: 39
+  lesson: "39.1"
+  subject: decision-matrix
+  difficulty: 3
+  question: >-
+    Two candidates tie at 36. A: a ₪6,000 consumer claim with all documents, against a chain you will never
+    deal with again. B: a ₪6,000 claim against your current landlord, with weaker documents. Which tie-breaker
+    fits the matrix?
+  options:
+    - >-
+      B, because a private landlord is usually easier to collect from than a chain.
+    - >-
+      A, because merits and personal cost favour it once the scores are re-checked.
+    - >-
+      B, because a dispute with someone you see daily teaches more about negotiation.
+    - >-
+      Neither, because tied candidates must both be dropped and the matrix run again.
+  correct: 1
+  explanation: >-
+    On a tie, re-check the scores with evidence: A is stronger on proof and personal cost. A current landlord
+    is a relationship you need to keep.
+- id: m39-010
+  module: 39
+  lesson: "39.1"
+  subject: exposure-gate
+  difficulty: 3
+  question: >-
+    You want to sue a neighbour for damage to your car. You also posted on a local Facebook group that he is
+    "a known thief". How does G2 apply?
+  options:
+    - >-
+      G2 fails at once, since any dispute with a neighbour always carries exposure.
+    - >-
+      G2 is irrelevant, since defamation is a civil wrong and not a criminal matter.
+    - >-
+      G2 needs care: the post may found a counterclaim; get advice first.
+    - >-
+      G2 passes, because a statement you believe to be true cannot lead to a counterclaim.
+  correct: 2
+  explanation: >-
+    Exposure includes a counterclaim you cannot bear. A public accusation may found a defamation claim
+    against you; check it, and take the post down, before you choose the matter.
+- id: m39-011
+  module: 39
+  lesson: "39.2"
+  subject: case-theory
+  difficulty: 1
+  question: >-
+    Which three parts make up a case theory in this module?
+  options:
+    - >-
+      The facts story, the legal rule and the remedy.
+    - >-
+      The opening, the cross-examination and the summation.
+    - >-
+      The parties, the forum and the court fee to be paid.
+    - >-
+      The demand letter, the claim and the final judgment.
+  correct: 0
+  explanation: >-
+    A case theory joins your facts to the rule that gives the right and to the remedy you ask for, held
+    together by a short theme.
+- id: m39-012
+  module: 39
+  lesson: "39.2"
+  subject: case-theory-tests
+  difficulty: 2
+  question: >-
+    Your theory says the employer "never warned you" of the change, but there is an email from HR announcing
+    the branch closure two months ahead. Which test does the theory fail?
+  options:
+    - >-
+      Simple, because the story now takes too long to tell.
+    - >-
+      Proportionate, because the remedy claimed is too large.
+    - >-
+      Complete, because one of the elements lacks a document.
+    - >-
+      Consistent, because it contradicts an undisputed document.
+  correct: 3
+  explanation: >-
+    A theory must fit every undisputed fact. Rewrite it around what the email shows (for example, that the
+    announcement did not answer your request) instead of denying it.
+- id: m39-013
+  module: 39
+  lesson: "39.2"
+  subject: other-side
+  difficulty: 2
+  question: >-
+    Why does the module ask you to write the other side's version "as its lawyer would"?
+  options:
+    - >-
+      So that you can send it to the other side as the basis of a settlement proposal.
+    - >-
+      So that you answer or concede its strongest form before it is used against you.
+    - >-
+      Because the court requires both versions to be attached to every statement of claim.
+    - >-
+      Because a fair version makes the other side's lawyer more willing to cooperate.
+  correct: 1
+  explanation: >-
+    Preparing against the strongest version, and conceding what must be conceded, turns surprises at the
+    hearing into points already answered.
+- id: m39-014
+  module: 39
+  lesson: "39.2"
+  subject: set-off
+  difficulty: 3
+  question: >-
+    You claim ₪10,000 from a moving company that broke furniture. You never paid its last invoice of ₪1,500.
+    What does a proportionate case theory do?
+  options:
+    - >-
+      Claims ₪11,500, adding the invoice as compensation for the stress of the dispute.
+    - >-
+      Claims ₪10,000 and stays silent on the invoice unless the company raises it.
+    - >-
+      Nets off the ₪1,500 openly and claims ₪8,500, explaining the deduction.
+    - >-
+      Pays the ₪1,500 first, since a debtor may not sue his own creditor in court.
+  correct: 2
+  explanation: >-
+    The other side will raise set-off. Conceding it openly makes the claim smaller and harder to attack, and
+    keeps your credibility.
+- id: m39-015
+  module: 39
+  lesson: "39.2"
+  subject: strategy-map
+  difficulty: 1
+  question: >-
+    In the strategy map, what is a "trigger"?
+  options:
+    - >-
+      An event, defined in advance, that moves you to the next step.
+    - >-
+      The court fee that must be paid before the claim is filed.
+    - >-
+      A firm threat that makes the other side respond faster.
+    - >-
+      The decision of the judge that finally ends the matter.
+  correct: 0
+  explanation: >-
+    Triggers ("no answer by the 5th", "an offer below ₪9,000", "a refusal") sit on the arrows of the map
+    and turn events into pre-made decisions.
+- id: m39-016
+  module: 39
+  lesson: "39.2"
+  subject: side-routes
+  difficulty: 2
+  question: >-
+    You add a complaint to the Banking Supervision unit to your map. How should you mark it?
+  options:
+    - >-
+      "Stops the limitation period until the unit gives its decision."
+    - >-
+      "Replaces the claim, since the unit can order the bank to pay."
+    - >-
+      "Must come after the claim, since the unit acts only on pending cases."
+    - >-
+      "Useful pressure; does not stop the clock or give new rights."
+  correct: 3
+  explanation: >-
+    The unit's findings give no new right and do not extend deadlines (Banking (Service to Customer) Law
+    s. 16(ד)). The claim must still be filed in time.
+- id: m39-017
+  module: 39
+  lesson: "39.2"
+  subject: walk-away
+  difficulty: 2
+  question: >-
+    When should your walk-away figure be written?
+  options:
+    - >-
+      After the first offer, so that it reflects the other side's real position.
+    - >-
+      Before any contact with the other side, from your expected value.
+    - >-
+      At the hearing, after hearing what the judge thinks of the evidence.
+    - >-
+      After judgment, to decide whether to accept a payment plan offered later.
+  correct: 1
+  explanation: >-
+    Set it in a calm hour from the worksheet (lesson 11.5), before anchors and emotions from the other side
+    can move it.
+- id: m39-018
+  module: 39
+  lesson: "39.2"
+  subject: backward-timeline
+  difficulty: 2
+  question: >-
+    Counting back from the last day to file, your timeline shows that records should have been requested a
+    week ago. What does the map do?
+  options:
+    - >-
+      Moves the filing date later, since a deadline can always be extended by request.
+    - >-
+      Ignores the records, since the court can order the other side to produce them later.
+    - >-
+      Requests them today and states what will be dropped if they are late.
+    - >-
+      Abandons the matter, since a timeline that starts in the past means the case is lost.
+  correct: 2
+  explanation: >-
+    A backward timeline that starts in the past means you are late: act today and decide in advance what
+    to drop, without relying on an extension.
+- id: m39-019
+  module: 39
+  lesson: "39.2"
+  subject: abuse-of-process
+  difficulty: 3
+  question: >-
+    Your strategy is to file several motions early "to make the other side spend on lawyers so it settles".
+    What is the problem?
+  options:
+    - >-
+      Motions are not available to self-represented parties in the civil courts at all.
+    - >-
+      The court may treat such steps as abuse and award costs against you.
+    - >-
+      The other side's lawyer will then be paid by the State Treasury instead of the client.
+    - >-
+      There is no problem as long as each motion is under five pages and properly served.
+  correct: 1
+  explanation: >-
+    A step whose purpose is to delay or harass is an abuse (reg. 4) and may lead to costs (reg. 151(ג)).
+    Every route on the map must be one a reasonable and decent litigant would take.
+- id: m39-020
+  module: 39
+  lesson: "39.2"
+  subject: risk-register
+  difficulty: 3
+  question: >-
+    Your small claim is against a represented company. Which item best belongs in your risk register, with a
+    plan?
+  options:
+    - >-
+      The judge may be in a bad mood on the day and less patient with long answers.
+    - >-
+      A transfer request out of small claims; prepare an answer and re-run the lawyer check.
+    - >-
+      The court building may be closed for a holiday on the day you planned to file.
+    - >-
+      The company's lawyer may speak more confidently than you in front of the judge.
+  correct: 1
+  explanation: >-
+    A realistic legal risk with a plan belongs in the register; a transfer request is one, and it also
+    triggers the get-a-lawyer checklist.
+- id: m39-021
+  module: 39
+  lesson: "39.3"
+  subject: recordings
+  difficulty: 1
+  question: >-
+    You recorded your own phone call with the landlord. Is it eavesdropping?
+  options:
+    - >-
+      Yes, unless you told the landlord at the start of the call that you were recording.
+    - >-
+      Yes, because every recording of a conversation needs a court permit in advance.
+    - >-
+      No, but only if the call lasted less than ten minutes and was about the lease.
+    - >-
+      No: a party who records his own conversation is not eavesdropping.
+  correct: 3
+  explanation: >-
+    Secret eavesdropping is a recording with the consent of none of the parties (Eavesdropping Law s. 1).
+    Keep the original and a transcript.
+- id: m39-022
+  module: 39
+  lesson: "39.3"
+  subject: privacy-evidence
+  difficulty: 2
+  question: >-
+    In a family dispute, you photographed documents in your spouse's locked drawer. What does the evidence file
+    say?
+  options:
+    - >-
+      Admissible, because spouses waive their privacy against each other on marriage.
+    - >-
+      Presumptively inadmissible (Privacy Law s. 32); get advice first.
+    - >-
+      Admissible in the rabbinical court, which is not bound by the Privacy Law.
+    - >-
+      Admissible, provided you file it as an exhibit to your own sworn affidavit.
+  correct: 1
+  explanation: >-
+    The Privacy Law applies in all courts, rabbinical courts included, and marriage does not waive privacy
+    (בג״ץ 6650/04); the photographs may also found a privacy suit.
+- id: m39-023
+  module: 39
+  lesson: "39.3"
+  subject: records-requests
+  difficulty: 1
+  question: >-
+    You need your clinic's medical file for an insurance claim. On what basis do you ask for it?
+  options:
+    - >-
+      Patient's Rights Law s. 18, which entitles you to a copy.
+    - >-
+      The FOI Law, since every health clinic counts as a public authority.
+    - >-
+      A court order, since medical files are released only to judges.
+    - >-
+      The insurer's consent, since the insurer controls the file once you claim.
+  correct: 0
+  explanation: >-
+    A patient is entitled to his medical information from the record, including a copy (Patient's Rights
+    Law s. 18). Ask in writing and log the request.
+- id: m39-024
+  module: 39
+  lesson: "39.3"
+  subject: proof-matrix
+  difficulty: 2
+  question: >-
+    In your proof matrix, the element "notice and chance to repair" has only your memory of a phone call.
+    What is the best entry in the "gap and plan" column?
+  options:
+    - >-
+      "No gap: my own oral evidence is always enough in small claims."
+    - >-
+      "Ask a friend to write a statement that he overheard the call."
+    - >-
+      "Send a dated written notice now, with proof of delivery."
+    - >-
+      "Drop the element: notice is not needed when a defect is obvious."
+  correct: 2
+  explanation: >-
+    Where you can create lawful proof of an element going forward, do it. A formal notice with dates fills
+    the gap and removes the dispute.
+- id: m39-025
+  module: 39
+  lesson: "39.3"
+  subject: messages
+  difficulty: 2
+  question: >-
+    Why export a whole WhatsApp chat rather than screenshot the helpful messages?
+  options:
+    - >-
+      Because screenshots of messages are never admissible in Israeli courts.
+    - >-
+      Because the export is automatically certified as an institutional record.
+    - >-
+      Because the court requires every message ever sent between the parties.
+    - >-
+      Because the export shows full context, dates and sequence.
+  correct: 3
+  explanation: >-
+    Weight depends on completeness and context; selective screenshots invite a claim that context was left
+    out. Export the chat, keep the device, and choose the relevant parts as exhibits.
+- id: m39-026
+  module: 39
+  lesson: "39.3"
+  subject: witnesses
+  difficulty: 1
+  question: >-
+    A colleague will testify for you in the labour court. Who writes her affidavit, if one is needed?
+  options:
+    - >-
+      You do, since you know exactly which facts the court needs to hear.
+    - >-
+      She does, in her own words, signed before an authorised person.
+    - >-
+      The court secretariat does, after interviewing her by telephone.
+    - >-
+      Your union representative does, and must also sign it on her behalf.
+  correct: 1
+  explanation: >-
+    Each witness writes and signs his own affidavit before a person listed in Evidence Ordinance s. 15; you
+    may tell her which facts are in issue. Drafting for others is a reserved act.
+- id: m39-027
+  module: 39
+  lesson: "39.3"
+  subject: research-memo
+  difficulty: 2
+  question: >-
+    Which source may your research memo rely on for the current text of a statute?
+  options:
+    - >-
+      A free consolidated text, checked for amendments and dated.
+    - >-
+      A lawyer's blog post that quotes the section from memory.
+    - >-
+      Your notes from a lesson you took last year, without re-checking them.
+    - >-
+      An AI chatbot's summary of the section, if it sounds confident enough.
+  correct: 0
+  explanation: >-
+    Read the current text in full on a free source (Wikisource or the Knesset database) and record the date
+    and any amendment (lesson 02.1).
+- id: m39-028
+  module: 39
+  lesson: "39.3"
+  subject: procedure-note
+  difficulty: 2
+  question: >-
+    Your forum is small claims. Which item belongs in your procedure note?
+  options:
+    - >-
+      The defendant company's annual turnover and the names of all its directors.
+    - >-
+      The number of lawyers the defendant employs and their years of experience.
+    - >-
+      The five-page limit, the lists to attach, the fee and the venue rule.
+    - >-
+      The judge's name, the courtroom number and the judge's earlier rulings.
+  correct: 2
+  explanation: >-
+    The procedure note records what the forum requires of your filing (regs 2–3) and its fee and deadlines,
+    from current numbers.
+- id: m39-029
+  module: 39
+  lesson: "39.3"
+  subject: unlawful-evidence
+  difficulty: 3
+  question: >-
+    A former co-worker offers you a copy of the employer's internal payroll file showing other employees'
+    salaries, to prove you were underpaid. What is the safest plan?
+  options:
+    - >-
+      Use it, since equal-pay claims allow any evidence of other employees' wages.
+    - >-
+      Use only the parts about your own salary and destroy the rest of the file.
+    - >-
+      Accept it but keep it secret until the hearing, then surprise the employer.
+    - >-
+      Do not use it without advice; seek disclosure in the case instead.
+  correct: 3
+  explanation: >-
+    Material taken in breach of privacy or confidentiality may be excluded and expose you; the lawful route
+    is a disclosure request in the proceeding (lesson 15.4).
+- id: m39-030
+  module: 39
+  lesson: "39.3"
+  subject: exhibit-order
+  difficulty: 1
+  question: >-
+    How should the exhibits in your bundle be numbered?
+  options:
+    - >-
+      In the order you found them, so the history of your research is clear.
+    - >-
+      In story order, so the judge reads each one with its fact.
+    - >-
+      Alphabetically by document title, so they are easy to look up.
+    - >-
+      By size, with the longest and most detailed documents first.
+  correct: 1
+  explanation: >-
+    Story order lets the judge read each exhibit at the paragraph that cites it.
+- id: m39-031
+  module: 39
+  lesson: "39.3"
+  subject: research-confidence
+  difficulty: 3
+  question: >-
+    Your memo on a decisive point ends "uncertain", and the other side is represented. What does the module
+    say follows?
+  options:
+    - >-
+      Present the point as settled law, since admitting uncertainty weakens your position.
+    - >-
+      Drop the whole claim, since any uncertainty on the law means you will lose.
+    - >-
+      Treat it as a warning sign and consider a consultation.
+    - >-
+      Ask the judge at the hearing to tell you the answer before you argue the point.
+  correct: 2
+  explanation: >-
+    An uncertain answer on a decisive point, against a represented opponent, is a stop signal in lesson
+    39.3's "Stop and get a lawyer" list and an amber or red answer on the checklist.
+- id: m39-032
+  module: 39
+  lesson: "39.4"
+  subject: document-ladder
+  difficulty: 1
+  question: >-
+    Which document's job is "say you will file on a given date"?
+  options:
+    - >-
+      The notice of defect.
+    - >-
+      The statement of claim.
+    - >-
+      The settlement agreement.
+    - >-
+      The pre-action letter.
+  correct: 3
+  explanation: >-
+    The pre-action letter is the last letter: claim, sum, legal basis and a final date, after which you file.
+- id: m39-033
+  module: 39
+  lesson: "39.4"
+  subject: spot-the-mistake
+  difficulty: 2
+  question: >-
+    Spot the mistake in this demand: "If you do not pay within a reasonable time, I will go to the police and
+    report you for fraud."
+  options:
+    - >-
+      No date, and a criminal threat to collect a civil debt.
+    - >-
+      It should be addressed to the company's lawyer, not to the company itself.
+    - >-
+      It should be written in English, since that is the language of commerce.
+    - >-
+      It should ask for double the sum, to leave room for negotiation later.
+  correct: 0
+  explanation: >-
+    Give a date, not "a reasonable time", and do not threaten a criminal complaint to collect a civil debt;
+    state only the lawful next step (a claim).
+- id: m39-034
+  module: 39
+  lesson: "39.4"
+  subject: drafting-standard
+  difficulty: 1
+  question: >-
+    Under the drafting standard, how are facts written in a letter or claim?
+  options:
+    - >-
+      As one long paragraph telling the whole story in full.
+    - >-
+      Numbered, one per paragraph, each with date and exhibit.
+    - >-
+      Only in the annexes, and never in the body of the document.
+    - >-
+      In the order you remember them, with your feelings about each.
+  correct: 1
+  explanation: >-
+    Numbered facts with dates and exhibit numbers let the reader check every sentence against a document.
+- id: m39-035
+  module: 39
+  lesson: "39.4"
+  subject: labour-claim
+  difficulty: 2
+  question: >-
+    What does reg. 9 of the Labour Court Procedure Regulations say about a statement of claim?
+  options:
+    - >-
+      It must include a full legal argument with case law.
+    - >-
+      It must be filed by a lawyer or a union appointee.
+    - >-
+      It contains the listed particulars and nothing else.
+    - >-
+      It must not state the value of the claim at all.
+  correct: 2
+  explanation: >-
+    Regulation 9 lists the particulars (parties, facts, jurisdiction, remedy, value) and says the claim
+    contains only those; argument belongs at the hearing.
+- id: m39-036
+  module: 39
+  lesson: "39.4"
+  subject: proof-of-delivery
+  difficulty: 1
+  question: >-
+    What is the best way to send a legal notice to a company so that you can prove it arrived?
+  options:
+    - >-
+      Email plus registered mail with delivery confirmation.
+    - >-
+      A phone call to customer service, noting the time and the agent's name.
+    - >-
+      A post on its Facebook page, which it cannot later deny seeing.
+    - >-
+      Ordinary mail, since the law presumes delivery of every posted letter.
+  correct: 0
+  explanation: >-
+    Use email and registered mail with confirmation to the address for notices and the registered office;
+    keep the receipt and a PDF of what you sent.
+- id: m39-037
+  module: 39
+  lesson: "39.4"
+  subject: settlement
+  difficulty: 2
+  question: >-
+    Your case is open in the magistrates' court and you reach a settlement. How do you make it enforceable
+    directly at the Execution Office?
+  options:
+    - >-
+      Sign it before a notary, which turns it into a judgment.
+    - >-
+      Ask the court to give it the force of a judgment.
+    - >-
+      Send it to the Execution Office with both signatures.
+    - >-
+      Withdraw the claim, after which it is enforceable automatically.
+  correct: 1
+  explanation: >-
+    Courts Law s. 79א lets the court give a settlement the force of a judgment; it can then be enforced like
+    any judgment (lesson 08.9).
+- id: m39-038
+  module: 39
+  lesson: "39.4"
+  subject: own-name-drafting
+  difficulty: 2
+  question: >-
+    A cousin asks you to fill in your small-claim template with his facts, since yours worked. What may you do?
+  options:
+    - >-
+      Fill it in for free, since s. 20 does not apply between members of a family.
+    - >-
+      Fill it in and sign it as his representative, since he consented in writing.
+    - >-
+      Fill it in for a small fee, since templates are not legal documents at all.
+    - >-
+      Give him the blank template and help pages; he writes and signs it.
+  correct: 3
+  explanation: >-
+    He runs his own matter. Drafting legal documents for others as an occupation or for payment is reserved
+    to lawyers, and you may not represent him in court.
+- id: m39-039
+  module: 39
+  lesson: "39.4"
+  subject: notice-requirements
+  difficulty: 2
+  question: >-
+    Which of these is a notice the law expects before a later step in a field the course covered?
+  options:
+    - >-
+      A consumer's written request before claiming exemplary damages.
+    - >-
+      A tenant's notice to the court before filing any small claim at all.
+    - >-
+      An employee's notice to the NII before suing the employer for wages.
+    - >-
+      A buyer's notice to the Land Registry before suing the seller of a car.
+  correct: 0
+  explanation: >-
+    Consumer Protection Law s. 31א requires a written request before an exemplary-damages claim (lesson
+    12.3); the research file should identify any such notice in your field.
+- id: m39-040
+  module: 39
+  lesson: "39.4"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this small claim: the defendant is named "Avi the plumber", the claim is ₪12,000, and
+    the remedy reads "compensation as the court sees fit".
+  options:
+    - >-
+      Small claims must always be for a sum in round thousands of shekels.
+    - >-
+      Any claim above ₪10,000 must be filed and signed by a lawyer.
+    - >-
+      No legal name or ID, and the remedy is not itemised.
+    - >-
+      A plumber may only be sued in the regional labour court.
+  correct: 2
+  explanation: >-
+    Service and enforcement need the defendant's legal name and ID; the remedy must be precise and itemised
+    (lesson 12.5).
+- id: m39-041
+  module: 39
+  lesson: "39.4"
+  subject: without-prejudice
+  difficulty: 3
+  question: >-
+    You want to offer a compromise in writing without the offer being read as admitting your claim is weak.
+    What does the module suggest?
+  options:
+    - >-
+      Make the offer by phone only, so that nothing about it is ever recorded.
+    - >-
+      Mark it "ללא פגיעה בזכויות" and keep it out of your statement of facts.
+    - >-
+      Include the offer in the statement of claim, so the judge sees your good faith.
+    - >-
+      Send the offer through the court registry, which keeps it confidential.
+  correct: 1
+  explanation: >-
+    Settlement offers are made in writing, marked without prejudice where appropriate, and kept out of the
+    documents that state your case.
+- id: m39-042
+  module: 39
+  lesson: "39.4"
+  subject: forum-format
+  difficulty: 3
+  question: >-
+    Your administrative matter is with a municipality and you have not filed anything in court. Which first
+    document fits the ladder?
+  options:
+    - >-
+      A small claim against the mayor personally for the harm the decision caused.
+    - >-
+      A petition to the High Court of Justice, since the municipality is a public body.
+    - >-
+      A request for reconsideration and reasons, asking to be heard.
+    - >-
+      A complaint to the Judicial Ombudsman about the municipality's conduct.
+  correct: 2
+  explanation: >-
+    Start with a request to the authority (and a prior demand before any petition), asking to be heard and
+    for reasons (Berman; lesson 37.2).
+- id: m39-043
+  module: 39
+  lesson: "39.5"
+  subject: case-log
+  difficulty: 1
+  question: >-
+    What should every row of the case log record besides the event itself?
+  options:
+    - >-
+      Your feelings about the event, to help the retrospective later.
+    - >-
+      The other side's likely motive for taking each step it took.
+    - >-
+      The proof of the event and any deadline it creates.
+    - >-
+      A copy of every statute relevant to the event that day.
+  correct: 2
+  explanation: >-
+    Date, event, with whom, content, proof, deadline created and next step: the log is a record you can
+    prove and act on.
+- id: m39-044
+  module: 39
+  lesson: "39.5"
+  subject: weekly-review
+  difficulty: 1
+  question: >-
+    What does the weekly review include?
+  options:
+    - >-
+      Every inbox, the next three weeks of dates, and fired triggers.
+    - >-
+      Calling the other side to ask whether anything has changed.
+    - >-
+      Re-writing the case theory from scratch at the end of each week.
+    - >-
+      Sending the court a short weekly progress report by email.
+  correct: 0
+  explanation: >-
+    Fifteen minutes: inboxes (email, the court's system, post), the diary, the map's triggers, and one log
+    line, even if nothing is new.
+- id: m39-045
+  module: 39
+  lesson: "39.5"
+  subject: non-appearance
+  difficulty: 2
+  question: >-
+    You are the plaintiff in small claims and you are ill on the hearing day. What protects you best?
+  options:
+    - >-
+      Nothing is needed, since a plaintiff's absence only postpones the hearing.
+    - >-
+      Sending a friend to argue the case in your place with a signed note.
+    - >-
+      A written request to postpone, in advance, with a medical note.
+    - >-
+      Asking the defendant to tell the judge that you are ill at home.
+  correct: 2
+  explanation: >-
+    A plaintiff who does not appear risks having the claim struck out. Ask the court in writing in advance;
+    if a decision is given in your absence, ask to set it aside within the period.
+- id: m39-046
+  module: 39
+  lesson: "39.5"
+  subject: decision-routine
+  difficulty: 2
+  question: >-
+    A court decision in Net HaMishpat orders you to file a document within 10 days. Under the routine, by when
+    do you decide what to do?
+  options:
+    - >-
+      Within 48 hours, in writing.
+    - >-
+      On the last day, so that you have the most information.
+    - >-
+      At the next weekly review, whenever that falls.
+    - >-
+      After asking the other side whether it objects.
+  correct: 0
+  explanation: >-
+    The routine decides within 48 hours (or sooner if the deadline requires) and records the decision and
+    its reason in the strategy map.
+- id: m39-047
+  module: 39
+  lesson: "39.5"
+  subject: costs-ledger
+  difficulty: 1
+  question: >-
+    Why keep a costs ledger with receipts from the first day?
+  options:
+    - >-
+      Because the court fee is refunded at the end only if you keep a ledger.
+    - >-
+      Because expenses are awarded only if itemised with documents.
+    - >-
+      Because the other side must approve each expense before you incur it.
+    - >-
+      Because the tax authority audits the expenses of every litigant.
+  correct: 1
+  explanation: >-
+    Regulation 155(א) requires an explicit, detailed list with documents; bring the same list to small
+    claims and labour hearings.
+- id: m39-048
+  module: 39
+  lesson: "39.5"
+  subject: phone-calls
+  difficulty: 2
+  question: >-
+    After a call in which the other side's lawyer "agrees in principle" to pay ₪8,000, what is the next step?
+  options:
+    - >-
+      Withdraw the claim, since an agreement in principle is already binding.
+    - >-
+      Wait for the money, since a lawyer's oral undertaking is enforceable.
+    - >-
+      Tell the court the case is settled and ask it to cancel the hearing.
+    - >-
+      Confirm it by email the same day; settle only in writing.
+  correct: 3
+  explanation: >-
+    The email is the record. Do not withdraw or cancel anything until a written settlement with a payment
+    date and default clause is signed or approved by the court.
+- id: m39-049
+  module: 39
+  lesson: "39.5"
+  subject: hearing-settlement
+  difficulty: 3
+  question: >-
+    At the hearing, the judge proposes ₪7,000. Your walk-away figure is ₪9,000 and your evidence is strong.
+    The other side's lawyer pressures you to "be reasonable". What do you do?
+  options:
+    - >-
+      Accept, since refusing a judge's proposal will turn the court against you.
+    - >-
+      Decline politely and ask for a decision on the evidence.
+    - >-
+      Accept, and ask the judge to add your costs at a later hearing.
+    - >-
+      Leave the courtroom to think it over, without telling the judge.
+  correct: 1
+  explanation: >-
+    Decide against the walk-away figure written in advance, not the mood of the room. A polite refusal is
+    normal; judges propose, they do not impose.
+- id: m39-050
+  module: 39
+  lesson: "39.5"
+  subject: stalls
+  difficulty: 2
+  question: >-
+    The court has not set a hearing date four months after the defence was filed. What is the first step?
+  options:
+    - >-
+      A complaint to the Judicial Ombudsman about the judge.
+    - >-
+      Filing the same claim again in another court.
+    - >-
+      A short request in the case file for a date.
+    - >-
+      A letter to a newspaper about court delays.
+  correct: 2
+  explanation: >-
+    Start with a polite request in the file; the Judicial Ombudsman is for undue delay that a request does
+    not solve.
+- id: m39-051
+  module: 39
+  lesson: "39.5"
+  subject: transfer-of-case
+  difficulty: 3
+  question: >-
+    The court transfers your small claim to the magistrates' court's regular track, and the defendant is
+    represented. What does the routine require?
+  options:
+    - >-
+      Continue exactly as before, since the procedure on both tracks is the same.
+    - >-
+      Withdraw, since unrepresented parties may not appear in the magistrates' court.
+    - >-
+      Ask the defendant's lawyer to explain the new procedural rules to you.
+    - >-
+      Re-run the lawyer check: this is a listed stop signal.
+  correct: 3
+  explanation: >-
+    You may act alone in the magistrates' court (reg. 170), but a change of track with a represented
+    opponent is a listed reason to stop and get a lawyer.
+- id: m39-052
+  module: 39
+  lesson: "39.5"
+  subject: after-hearing
+  difficulty: 1
+  question: >-
+    What should you write the same evening after the hearing?
+  options:
+    - >-
+      A log entry: who came, what was asked and ordered, the next date.
+    - >-
+      A letter to the judge thanking him and repeating your main arguments.
+    - >-
+      A public post describing how the hearing went and what was said.
+    - >-
+      Nothing until the minutes arrive, since memory is not reliable.
+  correct: 0
+  explanation: >-
+    A same-evening log entry captures what the minutes may not, and the next step with its date.
+- id: m39-053
+  module: 39
+  lesson: "39.6"
+  subject: closing
+  difficulty: 1
+  question: >-
+    When is a capstone matter closed?
+  options:
+    - >-
+      When the judge gives judgment in your favour.
+    - >-
+      When the other side promises in writing to pay.
+    - >-
+      When the result is confirmed and dates diarised.
+    - >-
+      When the court sends the minutes of the hearing.
+  correct: 2
+  explanation: >-
+    Check the money, the register or the decision itself; write the closing memo with every surviving date.
+- id: m39-054
+  module: 39
+  lesson: "39.6"
+  subject: enforcement
+  difficulty: 2
+  question: >-
+    The judgment set no date for payment. When may you open an execution file?
+  options:
+    - >-
+      After the statutory period from the judgment, unless allowed earlier.
+    - >-
+      Immediately, since a judgment is enforceable on the day it is given.
+    - >-
+      Only after the appeal period has passed and no appeal has been filed.
+    - >-
+      Only after sending three reminder letters to the debtor by registered mail.
+  correct: 0
+  explanation: >-
+    Execution Law s. 6(ב): after the date set, or if none, the statutory period from the judgment; earlier
+    only with the registrar's permission on a risk shown by affidavit.
+- id: m39-055
+  module: 39
+  lesson: "39.6"
+  subject: appeal-decision
+  difficulty: 2
+  question: >-
+    You lost on a disputed fact. Which statement best guides the decision on leave to appeal?
+  options:
+    - >-
+      Appeal courts readily re-weigh witnesses when the losing party was unrepresented.
+    - >-
+      Appeal courts rarely disturb findings of fact; decide within the period.
+    - >-
+      Leave is granted automatically for small claims under ₪10,000.
+    - >-
+      The period runs only from receipt of the minutes, so there is no hurry.
+  correct: 1
+  explanation: >-
+    Findings of fact and credibility are rarely disturbed on appeal (Menora v. Yuvalim), and further
+    instances are the exception (Hanyon Haifa). Decide within the period.
+- id: m39-056
+  module: 39
+  lesson: "39.6"
+  subject: calibration
+  difficulty: 2
+  question: >-
+    You predicted p = 0.6 and won 95% of the claim. What is the useful calibration question?
+  options:
+    - >-
+      "Was the judge biased in my favour, and should I mention it in the memo?"
+    - >-
+      "Should I have claimed more than my documents supported, given the result?"
+    - >-
+      "How can I avoid making predictions at all the next time I have a matter?"
+    - >-
+      "Which evidence did I under-score, and why?"
+  correct: 3
+  explanation: >-
+    Calibration asks why the outcome differed from the prediction, so the next estimate is better; it works
+    for surprises in your favour too.
+- id: m39-057
+  module: 39
+  lesson: "39.6"
+  subject: annual-check-up
+  difficulty: 1
+  question: >-
+    Which item belongs in the annual legal check-up of your own affairs?
+  options:
+    - >-
+      Reviewing your neighbours' building permits and complaining about any irregularity.
+    - >-
+      Re-filing last year's small claim so that it does not lapse.
+    - >-
+      Checking the tax refund for the open years.
+    - >-
+      Sending a demand letter to every service provider you use.
+  correct: 2
+  explanation: >-
+    The check-up covers your own affairs: will and EPA, tax refund years, arnona, insurance, pension and
+    payslips, credit data, records, land extracts and renewing contracts.
+- id: m39-058
+  module: 39
+  lesson: "39.6"
+  subject: helping-others
+  difficulty: 2
+  question: >-
+    A friend asks you, after the course, to come with him to his small-claims hearing and "do the talking".
+    What may you lawfully do?
+  options:
+    - >-
+      Do the talking, since small claims lets the party choose any speaker.
+    - >-
+      Help him prepare and sit in the gallery; he argues himself.
+    - >-
+      Do the talking if you are not paid and the judge does not object.
+    - >-
+      Do the talking if you show the judge your course certificate.
+  correct: 1
+  explanation: >-
+    In small claims a lawyer appears only with leave, and a non-lawyer helper only with the court's approval
+    and a power of attorney (Courts Law s. 63); the safe course is that he speaks for himself.
+- id: m39-059
+  module: 39
+  lesson: "39.6"
+  subject: parked-matters
+  difficulty: 2
+  question: >-
+    In lesson 39.1 you parked your mother's NII matter because it failed G1. What is the right next step now?
+  options:
+    - >-
+      Run it in your own name, now that you have finished the whole course.
+    - >-
+      Sign her appeal as her representative before the medical committee.
+    - >-
+      Drop it, since parked matters should never be revisited later.
+    - >-
+      Help her run it: she files and signs; you explain and attend.
+  correct: 3
+  explanation: >-
+    A matter that fails G1 for you may pass it for its owner. Help her choose and run it; she signs.
+- id: m39-060
+  module: 39
+  lesson: "39.6"
+  subject: course-limits
+  difficulty: 1
+  question: >-
+    What does completing this course qualify you to do?
+  options:
+    - >-
+      Run your own legal affairs as an informed party.
+    - >-
+      Sit the Bar exam without first earning a law degree.
+    - >-
+      Represent close family members in any court.
+    - >-
+      Give paid legal advice on small claims to others.
+  correct: 0
+  explanation: >-
+    The course is not a degree and does not qualify anyone for the Bar exam or practice; it trains you to
+    run your own matters (lesson 01.1; s. 20).
+- id: m39-061
+  module: 39
+  lesson: "39.6"
+  subject: closing-memo
+  difficulty: 3
+  question: >-
+    Your settlement covered unpaid severance only. In the closing memo, what surviving date matters most?
+  options:
+    - >-
+      The date on which the court archives the closed case file.
+    - >-
+      The limitation of other claims from the same job.
+    - >-
+      The anniversary of the hearing, to send the employer a reminder.
+    - >-
+      The date on which your pension fund issues its next statement.
+  correct: 1
+  explanation: >-
+    A settlement that covers one claim leaves others alive only until their limitation runs; check the
+    scope of the release and diarise the date.
+- id: m39-062
+  module: 39
+  lesson: "39.6"
+  subject: retrospective-causes
+  difficulty: 3
+  question: >-
+    Your retrospective lists: "I sent the letter before the pension statements arrived and had to change my
+    figure." Which cause and fix fit best?
+  options:
+    - >-
+      Cause: emotion. Fix: never write letters while a dispute is still live.
+    - >-
+      Cause: the other side's delay. Fix: sue without any letter next time.
+    - >-
+      Cause: timing. Fix: records before letters.
+    - >-
+      Cause: knowledge of the law. Fix: reread lesson 01.1 before writing.
+  correct: 2
+  explanation: >-
+    Naming the real cause (timing) and a concrete habit (records first, lesson 39.3) is what turns the
+    retrospective into better practice.

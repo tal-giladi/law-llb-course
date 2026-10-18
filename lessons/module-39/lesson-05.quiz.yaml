@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The employer's lawyer phones and says, "Let's agree your client will get something reasonable." You
+    discuss figures for ten minutes. What do you do next?
+  options:
+    - >-
+      Nothing in writing, since informal talks are protected and cannot be used by either side.
+    - >-
+      Withdraw the claim as a sign of good faith while the figures are worked out.
+    - >-
+      Wait for his letter, since the represented party is the one who must record any agreement.
+    - >-
+      Email the same day setting out what you understood, and agree nothing until it is in writing.
+  correct: 3
+  explanation: >-
+    The email, not the call, is the record. A same-day confirmation prevents the other side's version from
+    becoming "the deal", and settlements are made only in writing.
+- id: q2
+  question: >-
+    A defence arrives with a new fact: the employer says it offered you a branch close to home. What is the
+    first thing the decision-point routine asks you to do after recording and reading it?
+  options:
+    - >-
+      Compare it with the strategy map and re-test the case theory against the new fact.
+    - >-
+      Reply within the hour, so the court sees you are an active and engaged party.
+    - >-
+      Withdraw the claim, since any new fact the employer raises means the theory has failed.
+    - >-
+      Ignore it until the hearing, where the judge will decide what is true.
+  correct: 0
+  explanation: >-
+    The routine is record, read twice, compare with the map, re-test the theory, re-run the lawyer check,
+    and decide in writing within 48 hours or before the deadline.
+- id: q3
+  question: >-
+    You won your small claim. The judge asks whether you want expenses. You have no list and no receipts.
+    What is the likely result?
+  options:
+    - >-
+      The court awards a fixed sum to every self-represented winner regardless of receipts.
+    - >-
+      Little or nothing, since expenses are awarded only when itemised with supporting documents.
+    - >-
+      Full expenses, because the losing side always pays the winner's costs in small claims.
+    - >-
+      The court postpones judgment until you collect receipts from every shop you used.
+  correct: 1
+  explanation: >-
+    Regulation 155(א) requires an explicit, detailed list with documents; bring the same list to a
+    small-claims or labour hearing. A costs ledger kept from day one solves this.
+- id: q4
+  question: >-
+    Eleven months after the hearing, the judge in your case has not given judgment. You wrote a polite request
+    in the case file two months ago. What is a proper next step?
+  options:
+    - >-
+      Appeal to the district court, since a delayed judgment counts as a dismissal.
+    - >-
+      File the same claim in another court, since the first one has lapsed.
+    - >-
+      Complain to the Judicial Ombudsman about undue delay, in writing and signed.
+    - >-
+      Complain to the State Comptroller's Ombudsman, which reviews court decisions.
+  correct: 2
+  explanation: >-
+    The Judicial Ombudsman deals with judges' conduct, including undue delay (Judicial Ombudsman Law ss.
+    14–18). The State Comptroller's Ombudsman does not deal with judicial acts (State Comptroller Law s. 38).

@@ -1,0 +1,172 @@
+- id: q1
+  question: >-
+    Three candidates for your capstone: your sister's dispute with her landlord, which she asked you to run;
+    a ₪4,000 refund a shop refuses you, with receipts and emails; and a ₪250,000 inheritance dispute with
+    your represented brother. Which do you choose?
+  options:
+    - >-
+      The inheritance dispute, because a capstone should test you on the largest matter you have.
+    - >-
+      The refund, because it passes all three gates and scores well on proof and acting alone.
+    - >-
+      Your sister's dispute, because helping a relative is the exception to the lawyers' monopoly.
+    - >-
+      None, because a capstone must be chosen from the supplied cases rather than real life.
+  correct: 1
+  explanation: >-
+    The sister's matter fails G1 (only a lawyer may represent another). The inheritance dispute is large,
+    family-based and against a represented party: a consultation, not a capstone. The refund passes every
+    gate and scores high.
+- id: q2
+  question: >-
+    You are choosing between a small claim against a contractor and a complaint about an assault in which you
+    also threw a punch. The assault complaint scores higher on "stakes". What does the matrix say?
+  options:
+    - >-
+      Choose the assault complaint, since stakes carry the highest weight in the matrix.
+    - >-
+      Choose both and run them together, since they share the same evidence file.
+    - >-
+      Choose the assault complaint, but leave your own punch out of the statement.
+    - >-
+      The assault complaint fails G2 (exposure), so it is out whatever it scores.
+  correct: 3
+  explanation: >-
+    Gates come before scores. A complaint that could expose you to a charge fails G2; leaving facts out
+    of a statement to the police is worse still. Get advice on that matter and run the contractor claim.
+- id: q3
+  question: >-
+    Your case theory says the employer's transfer was a material deterioration. Your contract contains a
+    clause allowing transfers to any branch. How should the strategy map deal with it?
+  options:
+    - >-
+      As the other side's best argument, with your answer written before the defence arrives.
+    - >-
+      By leaving it out of your file, since mentioning it would only help the employer.
+    - >-
+      By dropping the claim, since a signed transfer clause always defeats a s. 11 claim.
+    - >-
+      By asking the court to strike the clause before you file anything else.
+  correct: 0
+  explanation: >-
+    Write the other side's strongest version and answer it in advance: s. 11(א) looks at the circumstances,
+    not just the contract. A concession or an answer prepared now is a strength; one forced at the hearing is not.
+- id: q4
+  question: >-
+    Your expected value for a claim is ₪7,000. Before any contact, the other side offers ₪5,000, payable in
+    two years. What should guide your answer?
+  options:
+    - >-
+      Accept, because any offer from the other side shows they expect to lose at trial.
+    - >-
+      Refuse and file at once, because an offer below the claim is always made in bad faith.
+    - >-
+      Your walk-away figure, set in advance, and the value of a delayed, uncertain payment.
+    - >-
+      The judge's view, so you should file first and ask the court whether to accept.
+  correct: 2
+  explanation: >-
+    The walk-away figure is written before contact (lesson 11.5). A sum paid in two years is worth less than
+    its face value and carries collection risk; compare it with your EV, not with your anger.
+- id: q5
+  question: >-
+    Your best evidence that a manager knew about a defect is a recording a colleague made, without telling
+    anyone, of a meeting you did not attend. What does your evidence file say?
+  options:
+    - >-
+      Use it: recordings are always admissible if they help the court find the truth.
+    - >-
+      Use it, provided the colleague swears an affidavit that the recording is accurate.
+    - >-
+      Do not rely on it: none of the speakers consented, and secret eavesdropping evidence is inadmissible.
+    - >-
+      Use only a transcript, since the inadmissibility rule applies to audio files alone.
+  correct: 2
+  explanation: >-
+    Recording a conversation with the consent of none of its parties is secret eavesdropping; the result is
+    inadmissible (Eavesdropping Law ss. 1, 13). Find lawful evidence of the same fact or get advice.
+- id: q6
+  question: >-
+    You find a ruling quoted on a forum post that seems to decide your contested question. You cannot open
+    the full text on any free host. What goes in your research memo?
+  options:
+    - >-
+      The ruling as the main authority, with the forum post as its source.
+    - >-
+      Nothing as authority; grade the answer less certain and keep searching.
+    - >-
+      The ruling's number only, since judges know all rulings and will look it up.
+    - >-
+      A paraphrase of the ruling presented as your own argument, without a citation.
+  correct: 1
+  explanation: >-
+    The research file cites only what you actually read. An uncertain answer on a decisive point is an amber
+    or red answer on the get-a-lawyer checklist.
+- id: q7
+  question: >-
+    Before repairing a contractor's defective work at his expense, you sent him a WhatsApp saying "the floor
+    leaks, fix it". He did not answer. What is the best next document?
+  options:
+    - >-
+      A dated written notice under s. 3 with specific repair dates, sent with proof of delivery.
+    - >-
+      A small claim at once, since the WhatsApp message already gave him every chance.
+    - >-
+      A second WhatsApp with a stronger tone and a threat to report him to the police.
+    - >-
+      A review on a public website, which counts as notice under the Contract for Services Law.
+  correct: 0
+  explanation: >-
+    Notice and a proper chance to repair come before self-repair (ss. 3–4). A formal notice with dates and
+    proof removes the question; criminal threats to get paid in a civil matter are out.
+- id: q8
+  question: >-
+    A defence arrives through Net HaMishpat with a counterclaim for the unpaid balance of the price, which you
+    already deducted in your claim. What does the decision-point routine lead you to file?
+  options:
+    - >-
+      A request to postpone the hearing indefinitely until the counterclaim is withdrawn.
+    - >-
+      Nothing, since a counterclaim for money already deducted is struck out automatically.
+    - >-
+      A new claim for twice the balance, to balance out the counterclaim.
+    - >-
+      A short reply showing the deduction and the calculation, within the time the court allows.
+  correct: 3
+  explanation: >-
+    Record, read, compare with the map: the set-off was conceded in your theory. A short factual reply with
+    the calculation answers the counterclaim; inflating your own claim breaches regs 3–4.
+- id: q9
+  question: >-
+    At the hearing the judge proposes ₪11,000 in full settlement. Your claim is ₪14,000, your walk-away figure
+    written last month is ₪9,000, and your risk register flagged a weak witness. What do you do?
+  options:
+    - >-
+      Refuse, because accepting less than the claim admits that the claim was exaggerated.
+    - >-
+      Accept on the record, asking that the court give it the force of a judgment with a payment date.
+    - >-
+      Ask for a week to think, since a settlement at a hearing is never binding.
+    - >-
+      Accept orally and leave without a written record, to keep the relationship friendly.
+  correct: 1
+  explanation: >-
+    The proposal is above the walk-away figure and removes a flagged risk. Accept it on the record, with a
+    payment date, as a settlement given the force of a judgment (Courts Law s. 79א) so it can be enforced.
+- id: q10
+  question: >-
+    Your retrospective shows you predicted four months and the matter took nine, mostly because the defendant
+    paid only after an execution file. What is the most useful entry?
+  options:
+    - >-
+      "Collection underestimated: next time, lower c and cost the execution stage."
+    - >-
+      "The defendant behaved badly, which nobody could have predicted."
+    - >-
+      "Execution files are slow; avoid suing people who might not pay at once."
+    - >-
+      "The court should have ordered faster payment, so the delay was the court's fault."
+  correct: 0
+  explanation: >-
+    Calibration turns a difference into a cause you can act on next time: here, the chance and cost of
+    collecting (c and the enforcement stage in the worksheet).

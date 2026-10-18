@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your bathroom contractor left a leaking floor. Before you hire someone else and claim the cost from him,
+    what should your first document be?
+  options:
+    - >-
+      A small claim for the full repair cost, since the contractor already had his chance.
+    - >-
+      A complaint to the police for fraud, since he took money and left a defect.
+    - >-
+      A written notice of the defect with dates for him to repair, sent with proof of delivery.
+    - >-
+      A public review naming him, to pressure him before you write anything formal.
+  correct: 2
+  explanation: >-
+    Contract for Services Law s. 3 requires notice and a proper chance to repair before you may rely on the
+    defect and repair at his expense (s. 4). A dated written notice with delivery proof removes the doubt.
+- id: q2
+  question: >-
+    Your draft small-claims statement is nine pages long, with the full history of your relationship with
+    the business. What is the main problem?
+  options:
+    - >-
+      The body may not exceed five pages, and history that proves no element does not belong in it.
+    - >-
+      Small claims must be written as a letter to the judge, not as numbered paragraphs.
+    - >-
+      There is no problem as long as the documents are attached at the end.
+    - >-
+      Small claims statements must be at least ten pages to show the claim is serious.
+  correct: 0
+  explanation: >-
+    Regulation 3(ה) caps the body at five pages for proceedings opened from 11 April 2025, and the drafting
+    standard keeps only facts that prove an element, each with its exhibit.
+- id: q3
+  question: >-
+    In your labour-court claim you include severance but leave out unpaid recuperation pay "for a later
+    claim". Why is that a mistake?
+  options:
+    - >-
+      Recuperation pay can be claimed only by the union, never by the employee personally.
+    - >-
+      Recuperation pay belongs in small claims, so mixing it in moves the case to another court.
+    - >-
+      The court will add the recuperation pay automatically, so listing it wastes space.
+    - >-
+      A remedy on the same cause left out without leave cannot be claimed later (reg. 26).
+  correct: 3
+  explanation: >-
+    Labour Court Procedure Regulations reg. 26 requires the whole remedy on the same cause; you may waive
+    part expressly, but a remedy left out without leave is lost.
+- id: q4
+  question: >-
+    The other side calls and offers to pay ₪9,000 in two instalments "if we just shake on it". No case has
+    been filed. What do you do?
+  options:
+    - >-
+      Accept orally, since an oral settlement before filing has the force of a judgment.
+    - >-
+      Put it in writing with dates, method of payment, a default clause and the scope of the release.
+    - >-
+      Refuse, because a settlement is only valid if a court approves it in every case.
+    - >-
+      Accept and file a claim anyway, so the court can approve the oral deal later.
+  correct: 1
+  explanation: >-
+    Before a case is open a settlement is a contract; it must be written and enforceable, with a default
+    clause. Once a case is open, the court may give it the force of a judgment (Courts Law s. 79א).

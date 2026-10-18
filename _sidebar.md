@@ -409,3 +409,11 @@
   - [320 · The writing task: drafting a legal document under time pressure](lessons/module-38/lesson-07.md)
   - [321 · Practice lab: a full mock exam](lessons/module-38/lesson-08.md)
   - [Module 38 quiz](assessments/module-38-quiz.md)
+- **Module 39 — Capstone: Your Own Case File, End to End (about 37 hours)**
+  - [322 · Choosing your capstone matter](lessons/module-39/lesson-01.md)
+  - [323 · The case theory and the strategy map](lessons/module-39/lesson-02.md)
+  - [324 · Building the evidence and research file](lessons/module-39/lesson-03.md)
+  - [325 · The documents: letters, filings and submissions](lessons/module-39/lesson-04.md)
+  - [326 · Running the matter and keeping the log](lessons/module-39/lesson-05.md)
+  - [327 · Retrospective: what you learned and your next steps](lessons/module-39/lesson-06.md)
+  - [Module 39 quiz](assessments/module-39-quiz.md)

@@ -63,12 +63,12 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 36 — Seminar Paper
 - [x] Module 37 — Clinic IV: Public and Criminal Matters Without a Lawyer
 - [x] Module 38 — Bar-Exam-Style Review
-- [ ] Module 39 — Capstone: Your Own Case File, End to End
+- [x] Module 39 — Capstone: Your Own Case File, End to End
 - [ ] Final QA: links, neutrality, Academy dry run
 
 ## Now working
 
-- Module 39: sub-agent A
+- (paused by Tal after module 39; next: final QA — links, neutrality, consistency incl. lesson 24.9 and templates/request-to-be-tried.md vs the 2024 Traffic Administrative Violations Law)
 
 
 

@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your contractor claim is for ₪19,000 in repair costs, but you withheld the last ₪6,000 of the price.
+    How should your case theory deal with that?
+  options:
+    - >-
+      Leave it out, since raising the unpaid price is the contractor's job, not yours.
+    - >-
+      Concede it and net it off, claiming the repair cost less the price you still hold.
+    - >-
+      Add ₪6,000 to the claim as compensation for the stress of withholding payment.
+    - >-
+      Pay the ₪6,000 first, because a customer who owes money cannot sue a contractor.
+  correct: 1
+  explanation: >-
+    Set-off is the other side's obvious answer. Conceding it in your own file makes the claim smaller and
+    harder to attack, and the Contract for Services Law lets you deduct from the price you still owe.
+- id: q2
+  question: >-
+    Which item belongs on the arrows of a strategy map rather than in its boxes?
+  options:
+    - >-
+      The remedy you will ask the court to grant at the end of the hearing.
+    - >-
+      The name of the forum where the formal step will be filed.
+    - >-
+      The document you will send at each stage, such as a notice or a claim.
+    - >-
+      A trigger, such as "no answer within 14 days" or "an offer below ₪9,000".
+  correct: 3
+  explanation: >-
+    Boxes are steps; arrows are the events that move you from one step to the next. Defining each trigger
+    in advance is what turns surprises into decisions.
+- id: q3
+  question: >-
+    You plan to complain to the regulator and wait for its finding before suing, because "the regulator
+    will pause everything". What is the flaw?
+  options:
+    - >-
+      A regulator complaint usually does not stop limitation, so the claim can expire while you wait.
+    - >-
+      Regulators may not look at a matter at all once you have written to the other side.
+    - >-
+      A regulator complaint makes a later claim inadmissible, because the dispute is already handled.
+    - >-
+      There is no flaw, since every regulator finding binds the court that hears the claim.
+  correct: 0
+  explanation: >-
+    Side routes rarely stop the clock (for example, Insurance Contract Law s. 31א, Banking (Service to
+    Customer) Law s. 16(ד), State Comptroller Law s. 45). Mark them on the map as "does not stop the clock".
+- id: q4
+  question: >-
+    You want to claim ₪60,000 in a dispute your documents value at ₪15,000, "to anchor the negotiation".
+    What does the course's strategy lesson say?
+  options:
+    - >-
+      It is a standard tactic and has no cost as long as you settle before the hearing.
+    - >-
+      It is allowed only in the labour court, where costs are never awarded against employees.
+    - >-
+      It harms credibility, raises the fee, and the court may weigh it against you in costs (reg. 153(ג)).
+    - >-
+      It is required, because a court may never award more than half of the sum claimed.
+  correct: 2
+  explanation: >-
+    Regulations 3–4 require good faith and proportionality, and reg. 153(ג) lets the court compare what
+    was claimed with what was won. Claim what the elements and documents support.

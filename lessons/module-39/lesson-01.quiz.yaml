@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    Your father's National Insurance old-age benefit was cut, and you know the file better than he does.
+    Can it be your capstone matter?
+  options:
+    - >-
+      Yes, if he signs a general power of attorney letting you file and appear for him.
+    - >-
+      Yes, because family members may represent each other before the NII and the labour court.
+    - >-
+      No: it is his matter; you may help him understand it, but he files, signs and appears.
+    - >-
+      No, because National Insurance matters may only be handled by a lawyer.
+  correct: 2
+  explanation: >-
+    Gate G1 is legal: only a lawyer may represent another person in court (רע״א 8120/08; Bar Association
+    Law s. 20). You may explain lesson 22.3 to him, but the matter stays his, and your capstone must be
+    your own.
+- id: q2
+  question: >-
+    Two candidates: a ₪3,000 deposit your former landlord kept, with a signed inventory and photos; and a
+    ₪180,000 dispute with a represented developer that turns on an engineer's opinion. Which fits the
+    capstone better, and why?
+  options:
+    - >-
+      The developer case, because the higher stakes justify a capstone's months of effort.
+    - >-
+      The deposit, because it passes the gates and scores high on proof, forum fit and acting alone.
+    - >-
+      Neither, because a capstone must be a matter with no other party involved at all.
+    - >-
+      The developer case, because an expert opinion makes the outcome more predictable.
+  correct: 1
+  explanation: >-
+    Stakes must be meaningful but bearable. The deposit is documented, sits in small claims and needs no
+    expert; the developer case scores low on "sensible alone" and belongs with a lawyer or a consultation.
+- id: q3
+  question: >-
+    While scoring, you see that the appeal period for one candidate ends in four days and you are not sure
+    which body hears it. What do you do?
+  options:
+    - >-
+      Treat it as an emergency: file or get help now, and choose a different capstone.
+    - >-
+      Make it your capstone, since a short deadline gives the best practice under pressure.
+    - >-
+      Write to the authority first, since a letter to it extends the appeal period.
+    - >-
+      Ignore the deadline, since periods are always extended for unrepresented people.
+  correct: 0
+  explanation: >-
+    The time criterion needs fatal deadlines at least two weeks away. A door closing in days is an
+    emergency; letters do not extend statutory periods, and an unclear forum is a reason to get help at once.
+- id: q4
+  question: >-
+    A learner has no live dispute at all. Which statement about the capstone is correct?
+  options:
+    - >-
+      The learner should invent a dispute with a friend so there is an opponent to practise against.
+    - >-
+      The learner may skip the capstone, since it is designed only for people in active disputes.
+    - >-
+      The learner must take a relative's case, since some real file is required to complete the module.
+    - >-
+      The learner can run a real low-risk matter such as a tax-refund review or an arnona audit.
+  correct: 3
+  explanation: >-
+    Every adult has a matter that passes all three gates: a refund review across the open years, an arnona
+    audit, an own will or an information request about oneself. A relative's matter fails G1.

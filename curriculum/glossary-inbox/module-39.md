@@ -1,0 +1,15 @@
+- **תיק גמר** (tik gemer) — capstone file: one matter of your own taken through the whole cycle.
+- **מטריצת החלטה** (matritzat hachlata) — decision matrix used to choose a matter by gates and weighted criteria.
+- **תנאי סף** (tnai saf) — gate (threshold condition) a matter must pass before it is scored.
+- **ייצוג עצמי** (yitzug atzmi) — self-representation.
+- **תאוריית התיק** (te'oriyat ha-tik) — case theory: the facts story, the legal rule and the remedy, joined by a theme.
+- **יסודות העילה** (yesodot ha-ila) — elements of the cause of action.
+- **קיזוז** (kizuz) — set-off.
+- **נקודת החלטה** (nekudat hachlata) — decision point on a strategy map.
+- **טבלת הוכחה** (tavlat hokhacha) — proof matrix linking elements, facts and evidence.
+- **תיק מוצגים** (tik mutzagim) — exhibit bundle.
+- **ללא פגיעה בזכויות** (lelo pgi'a bi-zkhuyot) — without prejudice (on settlement offers).
+- **יומן תיק** (yoman tik) — case log.
+- **סקירה לאחור** (skira le-achor) — retrospective.
+- **כיול** (kiyul) — calibration: comparing predictions with outcomes.
+- **בדיקה שנתית** (bdika shnatit) — annual check-up of one's own legal affairs.

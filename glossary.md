@@ -58,6 +58,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אשרור** (Ishrur) — Ratification: the international act by which a State consents to be bound by a treaty.
 - **בא כוח מייצג** (ba ko'ach meyatzeg) — Class counsel: the lawyer representing the applicant or class; owes the class loyalty as if it were his client (ss. 2, 17).
 - **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
+- **בדיקה שנתית** (bdika shnatit) — annual check-up of one's own legal affairs.
 - **בדיקת חשיפה** (bdikat chasifa) — exposure check: whether a step could expose you to criminal liability.
 - **בודק** (bodek) — Examiner: an independent expert appointed by the court to report on a proposed class settlement (s. 19(ב)).
 - **בוררות** (Borerut) — Arbitration under the Arbitration Law 1968.
@@ -476,6 +477,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חשבון נאמנות** (heshbon ne'emanut) — Separate trust account for client money (rule 39).
 - **חתימה אלקטרונית מאובטחת / מאושרת** (chatima elektronit me'ubtachat / me'usheret) — Secure / certified electronic signature, carrying statutory presumptions (Electronic Signature Law s. 3).
 - **חתימת קיום** (Hatimat kiyum) — Ministerial countersignature required for most of the President's official acts.
+- **טבלת הוכחה** (tavlat hokhacha) — proof matrix linking elements, facts and evidence.
 - **טובת הכלל** (Tovat ha-klal) — The common good, the end that a just law serves (Aquinas, Finnis).
 - **טוען רבני** (to'en rabani) — licensed rabbinical pleader, who may represent parties in rabbinical courts.
 - **טופס 101** (tofes 101) — Employee's card on which the employer bases tax withholding and credit points.
@@ -507,7 +509,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ייחוד פעולות המקצוע** (yihud pe'ulot ha-miktzo'a) — the acts reserved to lawyers under s. 20 of the Bar Association Law.
 - **ייפוי כוח** (yipui ko'ah) — power of attorney; the document appointing a representative.
 - **ייפוי כוח מתמשך** (yipui ko'ah mitmashekh) — Enduring power of attorney that takes effect on loss of capacity (Capacity and Guardianship Law s. 32ב).
+- **ייצוג עצמי** (yitzug atzmi) — self-representation.
 - **ילקוט הפרסומים (י"פ)** (Yalkut HaPirsumim) — The Reshumot series for official notices and appointments.
+- **יסודות העילה** (yesodot ha-ila) — elements of the cause of action.
 - **יעילות** (Ye'ilut) — Efficiency; Pareto (someone better off, nobody worse off) or Kaldor-Hicks (winners gain more than losers lose).
 - **יציאה מן הקבוצה** (yetzi'a min ha-kvutza) — Opting out of a class: after certification (s. 11, Form 1) or from a settlement (s. 18(ו)).
 - **יצירה יתומה** (yetzira yetoma) — Orphan work: a work whose owner cannot be found; usable under the conditions of s. 27א.
@@ -522,6 +526,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **כופר כסף** (kofer kesef) — Composition fine that ends criminal proceedings with the person's consent (ITO s. 221).
 - **כורח** (Korah) — Duress (s. 34יב).
 - **כושר השתכרות** (kosher hishtakrut) — Earning capacity, the basis of the monthly payment in a rehabilitation order (ss. 160, 162).
+- **כיול** (kiyul) — calibration: comparing predictions with outcomes.
 - **כישלון תמורה** (kishlon tmura) — Failure of consideration (total or partial): a personal defence on a bill.
 - **כליאת שווא** (Kli'at shav) — False imprisonment (s. 26).
 - **כלכלה התנהגותית** (Kalkala hitnahagutit) — Behavioural economics: the study of systematic departures from rational choice.
@@ -544,6 +549,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **לא סחיר** (lo sachir) — "Not negotiable" on a crossed cheque: the taker gets no better title than his transferor (s. 81).
 - **לאקונה** (lakuna) — a gap in the law: a question with no answer in statute, precedent or analogy.
 - **לימודי משפט ביקורתיים** (Limudei mishpat bikortiyim) — Critical legal studies: legal doctrine is indeterminate and law is a form of politics.
+- **ללא פגיעה בזכויות** (lelo pgi'a bi-zkhuyot) — without prejudice (on settlement offers).
 - **למוטב בלבד** (la-mutav bilvad) — "To the payee only": words prohibiting transfer of a cheque (s. 7(א)).
 - **לקוח מוגבל חמור** (lako'ach mugbal chamur) — Aggravated-restricted customer: all accounts restricted for two years (ss. 3, 3ב).
 - **לקוח מוגבל מיוחד** (lako'ach mugbal meyuchad) — Special-restricted customer: restricted by the execution registrar, fines centre, bankruptcy or rabbinical court (s. 3ג).
@@ -599,6 +605,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מחקר אמפירי** (Mechkar empiri) — Empirical research: data about how law works in practice.
 - **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
 - **מטלת כתיבה** (matlat ktiva) — The writing (drafting) task, the third part of the Bar exam, at least 15% of the grade (reg. 18(ג)).
+- **מטריצת החלטה** (matritzat hachlata) — decision matrix used to choose a matter by gates and weighted criteria.
 - **מידע להיתר** (meida le-heter) — Official planning information for a plot given by the committee engineer before a permit application (s. 145(א1)).
 - **מידע על איכות הסביבה** (meida al eichut ha-sviva) — Environmental information (FOI Law s. 6א): data on substances released to the environment and noise, smell and radiation measurements outside the private domain, which authorities must publish proactively.
 - **מידע פלילי** (meida plili) — Criminal information: the contents of the criminal register and the police register (Criminal Information Law 2019 s. 1).
@@ -726,6 +733,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **נציבות שוויון הזדמנויות בעבודה** (Netzivut shivyon hizdamnuyot ba-avoda) — Equal Employment Opportunities Commission in the Ministry of Labour.
 - **נציגות הבית המשותף** (Netzigut ha-bayit ha-meshutaf) — The representative (house) committee, the owners' agent for management (Land Law ss. 65, 69).
 - **נציגי ציבור** (netzigei tzibur) — Public representatives sitting with the labour-court judge, one from employees and one from employers.
+- **נקודת החלטה** (nekudat hachlata) — decision point on a strategy map.
 - **נקודת זיכוי** (nekudat zikui) — Credit point: a fixed annual amount set off against tax (₪2,904 a year in 2024–2027; ITO s. 33א).
 - **נקודת יציאה** (Nekudat yetsi'a) — Walk-away figure: the lowest settlement one will accept, set before negotiating.
 - **ס״ע (סכסוך עבודה)** (sela) — File prefix of an individual labour dispute in the regional labour court.
@@ -758,6 +766,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ספק סביר** (Safek savir) — Reasonable doubt; guilt must be proved beyond it (s. 34כב).
 - **ספר החוקים (ס"ח)** (Sefer HaChukim) — The Reshumot series in which Knesset laws are published.
 - **ספר החוקים הפתוח** (Sefer HaChukim HaPatuach) — The Open Law Book: free, unofficial consolidated texts of Israeli laws on Wikisource.
+- **סקירה לאחור** (skira le-achor) — retrospective.
 - **סקירת ספרות** (Skirat sifrut) — Literature review: an account of what scholars have already written on the question.
 - **עבודה אסורה** (avoda asura) — Prohibited work: work without or contrary to a permit (Chapter 10).
 - **עבודה סמינריונית** (Avoda seminaryonit) — Seminar paper: a longer research paper, usually in year 3 or 4.
@@ -952,6 +961,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **קיבול** (kibul) — acceptance of an offer (s. 5).
 - **קיום אנושי בכבוד** (Kiyum enoshi be-khavod) — Minimum dignified existence, a right derived from dignity (Commitment to Peace, Hassan).
 - **קיום מינימלי בכבוד** (Kiyum minimali be-chavod) — Dignified minimum existence, a constitutional right.
+- **קיזוז** (kizuz) — set-off.
 - **קיפוח** (Kipuah) — Oppression (unfair prejudice) of shareholders (Companies Law s. 191).
 - **קלון** (kalon) — Moral turpitude: a quality of a criminal offence that can bar admission or lead to discipline (ss. 44, 75).
 - **קלות דעת** (Kalut da'at) — Rashness: taking an unreasonable risk while hoping to avoid the result.
@@ -1044,6 +1054,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **שריון / סעיף משוריין** (Shiryun / se'if meshuryan) — Entrenchment / an entrenched section, changeable only by a special majority (for example Basic Law: The Knesset s. 4).
 - **תאגיד** (Ta'agid) — Body corporate, legal person.
 - **תאונת דרכים** (Te'unat drachim) — Road accident: bodily injury from use of a motor vehicle for transport (1975 Law s. 1).
+- **תאוריית התיק** (te'oriyat ha-tik) — case theory: the facts story, the legal rule and the remedy, joined by a theme.
 - **תביעה לפינוי מושכר** (Tvi'a lefinuy muskar) — Claim to evict a tenant, on the fast track with special rules (reg. 81).
 - **תביעה משטרתית** (tvi'a mishtartit) — police prosecution.
 - **תביעה נגזרת** (Tvi'a nigzeret) — Derivative claim brought for the company by a shareholder or director (Companies Law ss. 194–206).
@@ -1072,6 +1083,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תחליף המצאה** (Tachalif hamtza'a) — Substituted service ordered by the court (reg. 164).
 - **תיאום מס** (te'um mas) — Tax coordination between several employers.
 - **תיעוד חזותי** (ti'ud chazuti) — Video recording of a suspect's interrogation, required at the station for offences of ten years or more (Interrogation of Suspects Law s. 7).
+- **תיק גמר** (tik gemer) — capstone file: one matter of your own taken through the whole cycle.
+- **תיק מוצגים** (tik mutzagim) — exhibit bundle.
 - **תיק עובדות** (Tik uvdot) — Facts file: the working file for one dispute (cover page, parties, chronology, exhibits, remedy).
 - **תיקון המעוות** (tikun ha-me'uvat) — Restoring the previous state; a remedy under the Civil Claims Law 1992 ss. 2, 8.
 - **תיקון כתב טענות** (Tikun ktav ta'anot) — Amendment of a pleading (regs 46–47).

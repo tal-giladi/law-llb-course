@@ -15,6 +15,8 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Arnona objection and appeal (השגה למנהל הארנונה וערר לוועדת הערר)](arnona-objection-and-appeal.md)
 - [Bar drafting task skeletons (שלדים למטלת הניסוח)](bar-drafting-task-skeletons.md)
 - [Bounced-cheque response kit (מענה לדרישה על שיק שחזר וערעור על הגבלת חשבון)](bounced-cheque-response-kit.md)
+- [Capstone retrospective and next steps (סקירה לאחור ותוכנית המשך לתיק הגמר)](capstone-retrospective.md)
+- [Capstone strategy map (מפת אסטרטגיה לתיק הגמר: בחירת העניין, תאוריית התיק ומסלולים)](capstone-strategy-map.md)
 - [Case brief (תקציר פסק דין)](case-brief.md)
 - [Caveat request checklist (בקשה לרישום הערת אזהרה – רשימת בדיקה)](caveat-request-checklist.md)
 - [Choosing and supervising a lawyer worksheet (בחירת עורך דין ופיקוח על הטיפול – דף עבודה)](lawyer-engagement-worksheet.md)

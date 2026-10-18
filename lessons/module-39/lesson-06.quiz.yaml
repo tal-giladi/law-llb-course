@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You won a small-claims judgment ordering payment within 30 days. On day 35 nothing has arrived. What
+    closes the matter properly?
+  options:
+    - >-
+      Archive the judgment, since a final judgment closes the file whether or not it is paid.
+    - >-
+      Open an execution file with the judgment, since the payment date has passed.
+    - >-
+      Ask the judge to remind the defendant, since the court supervises payment of its judgments.
+    - >-
+      File a new claim for the same sum plus interest, since the first judgment has lapsed.
+  correct: 1
+  explanation: >-
+    A matter is closed when the result itself arrives. Once the date in the judgment has passed you may
+    open an execution file (Execution Law s. 6(ב); lesson 08.9).
+- id: q2
+  question: >-
+    You lost your small claim because the judge did not believe your account of a conversation. A friend urges
+    you to seek leave to appeal. What does the retrospective suggest?
+  options:
+    - >-
+      Seek leave at once, since every small-claims judgment can be re-heard on the facts.
+    - >-
+      Seek leave only after the period passes, so that the other side cannot respond.
+    - >-
+      Appeal directly to the Supreme Court, which reviews credibility findings of lower courts.
+    - >-
+      Leave on credibility rarely succeeds; first ask what evidence you lacked and why.
+  correct: 3
+  explanation: >-
+    Appeal courts rarely interfere with findings of fact and credibility, and further instances are the
+    exception (Hanyon Haifa). The lesson is usually in the proof matrix, decided inside the leave period.
+- id: q3
+  question: >-
+    Which entry belongs in the calibration table of your retrospective?
+  options:
+    - >-
+      "Predicted a 0.8 chance of collecting; payment came only after an execution file."
+    - >-
+      "The other side's lawyer was rude at the hearing and interrupted me twice."
+    - >-
+      "The court's waiting room was crowded and the hearing started 40 minutes late."
+    - >-
+      "I am glad the matter is over and I can move on with my life."
+  correct: 0
+  explanation: >-
+    Calibration compares what you predicted in the strategy map (p, c, time, cost, defence, deciding fact)
+    with what happened, and asks why. That is what improves your next estimate.
+- id: q4
+  question: >-
+    After the course, a neighbour asks you to write and file his claim against his landlord, offering ₪500
+    for your time. What is the lawful response?
+  options:
+    - >-
+      Accept, since the course certificate allows you to help others in small claims.
+    - >-
+      Accept but refuse the money, since free drafting and filing for others is always unrestricted.
+    - >-
+      Explain the steps, share the course's free templates and help pages, and let him write, sign and file.
+    - >-
+      File it in your own name and pass the money on to him when the landlord pays.
+  correct: 2
+  explanation: >-
+    Drafting legal documents for others for payment is reserved to lawyers (s. 20), and only a lawyer may
+    represent another in court (רע״א 8120/08). You may explain and point to sources; he runs his matter.
