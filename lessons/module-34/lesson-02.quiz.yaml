@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    On an ordinary Tuesday a neighbour plays amplified music on his balcony in a residential area
+    until 00:30. The municipal inspector says he cannot act without a decibel measurement. Is he right?
+  options:
+    - >-
+      Yes; the Unreasonable Noise Regulations always require a calibrated measurement first.
+    - >-
+      Yes; amplified music is allowed until 01:00 on weekdays in any residential area.
+    - >-
+      No; amplified sound outdoors in a residential area is banned 23:00–07:00 without any measurement.
+    - >-
+      No; any music after 22:00 also breaches the Clean Air Law and its emission rules.
+  correct: 2
+  explanation: >-
+    Regulation 3 of the Noise Prevention Regulations 1992 is a per se rule based on the hour and place;
+    a measurement under the 1990 Regulations is needed only for other kinds of noise.
+- id: q2
+  question: >-
+    A bar's owner says the loud music came from a DJ he hired, not from him. Under the Nuisances Law,
+    what is the strongest answer?
+  options:
+    - >-
+      Only the DJ can be liable, because only he physically caused the noise that night.
+    - >-
+      The owner is treated as causing noise in a place he controls unless he proves all reasonable measures.
+    - >-
+      Neither is liable unless a police officer measured the noise level on the night itself.
+    - >-
+      The owner is liable only if the DJ is his employee under a signed written contract.
+  correct: 1
+  explanation: >-
+    Section 14 treats a person as causing an act done in a place under his control or by a person under
+    his control, unless he proves he took all reasonable measures; the burden is on him.
+- id: q3
+  question: >-
+    A plant has applied for an emission permit and the Ministry has published a draft. What can a
+    resident do under the Clean Air Law?
+  options:
+    - >-
+      Nothing until the permit is issued; then appeal to the district court within 45 days of issue.
+    - >-
+      Submit comments within 45 days of the notice, which must be considered before the permit is issued.
+    - >-
+      Submit comments only if he owns land within one kilometre of the plant, with a survey.
+    - >-
+      Ask the plant to send him the draft, because the Ministry may not publish a draft permit.
+  correct: 1
+  explanation: >-
+    Section 21 requires publication of the application and draft permit and lets any person comment
+    within 45 days; the commissioner must consider the comments before granting the permit.
+- id: q4
+  question: >-
+    Your log shows a rooftop compressor humming from 22:30 to 06:00 every night. What evidence will an
+    authority or court most likely require to find unreasonable noise?
+  options:
+    - >-
+      A measurement by a calibrated meter under the 1990 Regulations, supported by your log.
+    - >-
+      Readings from a free phone app, which the regulations accept since 2011.
+    - >-
+      Signed statements from at least ten neighbours, which replace a measurement.
+    - >-
+      A report from your own doctor that the noise affects your sleep.
+  correct: 0
+  explanation: >-
+    A compressor's hum is not a quiet-hour activity, so the measured limits apply; the log proves times
+    and frequency, and the measurement proves the level.

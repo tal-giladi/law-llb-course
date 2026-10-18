@@ -1,0 +1,85 @@
+- id: q1
+  question: >-
+    You want a court order stopping a workshop's toxic paint fumes under the Prevention of
+    Environmental Hazards (Civil Claims) Law. What must you do before filing?
+  options:
+    - >-
+      Notify the Minister and the workshop and wait 60 days, then show neither took real steps.
+    - >-
+      Ask the police to open a criminal file and wait until the prosecution decides on it.
+    - >-
+      Prove that the workshop was negligent, through an expert opinion attached to the notice.
+    - >-
+      Collect the written consent of at least ten neighbours harmed by the same fumes.
+  correct: 0
+  explanation: >-
+    Section 5 requires 60 days' notice to the authority and the person causing the hazard, and that
+    neither took real steps; negligence is irrelevant (s. 4) and a single person harmed may sue (s. 2).
+- id: q2
+  question: >-
+    A resident who lives 5 km from a quarry and is not affected by it wants to bring a private criminal
+    complaint for the quarry's night noise. Can he?
+  options:
+    - >-
+      Yes; any person may file a private complaint for any environmental offence in Israel.
+    - >-
+      Yes, but only with the consent of the local council in whose area the quarry lies.
+    - >-
+      No; a person may complain only of an offence in his private domain or that harmed him.
+    - >-
+      No; private complaints for noise may be brought only by the police and the Ministry.
+  correct: 2
+  explanation: >-
+    Nuisances Law s. 11ה(א)(1) limits an individual to offences in his private domain or that caused
+    him damage; a local authority (in its area) or a listed body may bring the complaint instead.
+- id: q3
+  question: >-
+    Two years ago a court ordered a plant to stop discharging into a stream by a set date. Eighteen
+    months after that date the discharges resume. What is new in your position?
+  options:
+    - >-
+      You must start again with a fresh 60-day notice, and only an order can be given.
+    - >-
+      You may sue without a new notice and also ask for compensation for the damage caused.
+    - >-
+      You must apply for contempt of court only, as no new suit is allowed after an order.
+    - >-
+      You may sue only in the district court, because a second suit is a recurring hazard.
+  correct: 1
+  explanation: >-
+    Section 9 treats this as a recurring hazard: within two years of the date set in the order a suit
+    needs no s. 5 notice, and the court may award compensation for the damage it caused.
+- id: q4
+  question: >-
+    The Ministry sends a plant a notice of intent to impose a financial sanction under the Clean Air
+    Law. What happens if the plant does not respond within 30 days?
+  options:
+    - >-
+      The sanction lapses, because the Ministry must hold an oral hearing before any decision.
+    - >-
+      The Ministry must bring the case to the magistrates' court to have the sanction confirmed.
+    - >-
+      The plant may still argue at any time before the sanction is published by the Ministry.
+    - >-
+      The notice is treated as a payment demand at the end of the 30 days.
+  correct: 3
+  explanation: >-
+    Under Clean Air Law s. 52(ג), if no arguments are submitted within 30 days of the notice of intent,
+    it becomes a payment demand; review is by petition to the administrative affairs court (s. 59).
+- id: q5
+  question: >-
+    A large city fines a polluting bakery a small sum every month and the bakery keeps operating.
+    Residents petition. Which ruling best supports them?
+  options:
+    - >-
+      Eitanit v. State, because it requires polluters to pay the full cost of every clean-up.
+    - >-
+      Bremer v. Tel Aviv-Jaffa, because an authority must consider its other enforcement tools.
+    - >-
+      Abu-Madigam v. ILA, because spraying chemicals is a disproportionate means of enforcement.
+    - >-
+      Barazani v. Bezeq, because each resident must prove personal reliance before suing.
+  correct: 1
+  explanation: >-
+    In AAA 2469/12 the Court held that an authority whose fines do not achieve the law's purpose must
+    at least consider other tools, such as seeking a closure order, and returned the matter for decision.

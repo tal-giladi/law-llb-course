@@ -1,0 +1,170 @@
+- id: q1
+  question: >-
+    Residents of a 9,000-person local council complain about smoke from a plastics plant. The council
+    says enforcement is "not our job". Where should the residents' written complaint go first?
+  options:
+    - >-
+      To the police, which has general powers over every environmental offence.
+    - >-
+      To the Ministry of Environmental Protection district office, which has the enforcement powers.
+    - >-
+      To the magistrates' court, as an urgent application for an injunction without notice.
+    - >-
+      To the Knesset Interior Committee, which supervises small local councils directly.
+  correct: 1
+  explanation: >-
+    A small authority may but need not enforce (Local Authorities (Environmental Enforcement) Law
+    s. 2(ב)); Ministry inspectors have the powers under the 2011 Enforcement Powers Law.
+- id: q2
+  question: >-
+    At 23:30 on a weekday, a neighbour's family celebration plays amplified music in the building's
+    courtyard. The neighbour says it is legal "because it's a celebration". Who is right?
+  options:
+    - >-
+      The neighbour; celebrations are exempt from the noise rules on any night of the week.
+    - >-
+      The neighbour, unless a calibrated meter shows the level is above the 1990 limits.
+    - >-
+      You; amplified music outdoors in a residential area is banned 23:00–07:00 on ordinary weekdays.
+    - >-
+      You, but only if the music continues past 01:00 and a police officer hears it.
+  correct: 2
+  explanation: >-
+    Regulation 3 of the 1992 Regulations bans it by hour and place; its exceptions cover only listed
+    festive nights and the eve and end of a day of rest until midnight.
+- id: q3
+  question: >-
+    A cashier refuses your 40 marked empty bottles in a large supermarket that sells those brands, and
+    the manager confirms the refusal in writing. What is your strongest personal remedy?
+  options:
+    - >-
+      A small claim for the deposits and exemplary damages for the refusal, under the Deposit Law.
+    - >-
+      A private complaint after 60 days' notice to the Minister under the Deposit Law.
+    - >-
+      An injunction under the Civil Claims Law ordering the chain to accept bottles.
+    - >-
+      A class action under item 6, as the refusal is an environmental hazard to the public.
+  correct: 0
+  explanation: >-
+    Section 22 of the Deposit Law allows exemplary damages without proof of damage for a refusal under
+    s. 6; it is a personal claim that suits the small-claims court.
+- id: q4
+  question: >-
+    A journalist reads that a plant reported "benzene to air: below threshold" for 2025 and writes that
+    the plant "emits no benzene". What is the accurate statement?
+  options:
+    - >-
+      The journalist is right, because below-threshold entries record a zero release.
+    - >-
+      The plant released benzene, but below the reporting threshold; the quantity is not shown.
+    - >-
+      The entry means the Ministry measured benzene and found it below the permit limit.
+    - >-
+      The entry means the data is withheld for security reasons under s. 12(ב)(3).
+  correct: 1
+  explanation: >-
+    PRTR Law s. 3(ב)(3) requires a plant to state that it releases a pollutant even below the
+    threshold, without the quantity; the quantity can be sought by FOI.
+- id: q5
+  question: >-
+    A town association refuses to give you a quarry's dust monitoring results, saying the quarry objected
+    that the figures are a trade secret and that "no limit was exceeded". Which reply is strongest?
+  options:
+    - >-
+      Accept the refusal and ask the quarry directly, since it owns the measurements.
+    - >-
+      Withdraw and file a new request in a year, when the third-party protection lapses.
+    - >-
+      Ask only for the dates of the measurements, which are not protected information.
+    - >-
+      Cite reg. 2 (published even within limits) and Clean Air s. 21(ד)(2)(ג) (not a trade secret).
+  correct: 3
+  explanation: >-
+    The 2009 regulations require publication even without an exceedance, and pollutant quantities and
+    concentrations are never a trade secret under the Clean Air Law; ask for partial disclosure (s. 11).
+- id: q6
+  question: >-
+    A dairy's manure smell harms a moshav. Its residents want a court order stopping it. Which is
+    correct about the Civil Claims Law route?
+  options:
+    - >-
+      They file in the district court and must prove the dairy was negligent.
+    - >-
+      They may file at once, because a smell harming health needs no prior notice.
+    - >-
+      They notify the authority and the dairy, wait 60 days, and sue in the magistrates' court.
+    - >-
+      Only a listed organisation may sue; individual residents have no standing.
+  correct: 2
+  explanation: >-
+    The 1992 Law gives standing to anyone harmed or at risk (s. 2), in the magistrates' court (s. 1),
+    without proof of negligence (s. 4), after a 60-day notice to the authority and the polluter (s. 5).
+- id: q7
+  question: >-
+    An environmental association whose members live far away wants to prosecute a factory's illegal
+    night noise by private complaint. When can it?
+  options:
+    - >-
+      Only if it is listed in the Schedule to the Civil Claims Law, after 60 days' notice to the Minister.
+    - >-
+      Any registered association may do so if one member lives anywhere in the same district.
+    - >-
+      Never; only individuals harmed in their private domain may file a private complaint.
+    - >-
+      Only with the written consent of the Attorney General before the complaint is filed.
+  correct: 0
+  explanation: >-
+    Nuisances Law s. 11ה lets a listed public or professional body file a private complaint, after
+    notifying the Minister and waiting 60 days without an indictment.
+- id: q8
+  question: >-
+    The Ministry sends a plant a notice of intent to impose a financial sanction for a Clean Air Law
+    breach. The plant's manager asks what he can do. What is correct?
+  options:
+    - >-
+      Nothing; the sanction is final once the notice is sent and payment is due at once.
+    - >-
+      Appeal to the magistrates' court within 30 days, which suspends payment automatically.
+    - >-
+      Submit written arguments within 30 days; later, petition the administrative affairs court.
+    - >-
+      Ask the Knesset committee to cancel it, because sanctions require its approval.
+  correct: 2
+  explanation: >-
+    Clean Air Law ss. 50–52 give 30 days to argue before a decision; review is by petition to the
+    administrative affairs court, which does not stay payment unless the court orders (s. 59).
+- id: q9
+  question: >-
+    Writing a submission on the Climate Bill, you must state the facts neutrally. Which sentence is
+    accurate as of 18 October 2026, on the sources in this module?
+  options:
+    - >-
+      The Climate Law came into force in 2025 with a binding 43% target for 2030.
+    - >-
+      The High Court ruled in 2026 that the Government must adopt a 43% target.
+    - >-
+      Israel has never set any greenhouse-gas target, by statute or by Government resolution.
+    - >-
+      A Climate Bill was approved in committee for final readings in 2024; no enactment was found.
+  correct: 3
+  explanation: >-
+    The committee approved a text on 3.12.2024 with a 27% target; no final passage was found, the
+    petition seeking 43% is pending, and targets exist in Government resolutions.
+- id: q10
+  question: >-
+    A large city has fined a polluting asphalt plant small monthly sums for two years and the smell
+    continues. Residents have already sent a written demand. What is the strongest next step?
+  options:
+    - >-
+      A petition arguing the city must consider its other enforcement tools, relying on Bremer.
+    - >-
+      A request to the PRTR registrar to close the plant for failing to report on time.
+    - >-
+      A complaint to the State Comptroller asking it to fine the plant directly instead.
+    - >-
+      A small claim against the city for the fines it collected from the plant.
+  correct: 0
+  explanation: >-
+    In AAA 2469/12 the Supreme Court held that an authority whose fines do not achieve the law's
+    purpose must consider its other tools; the Civil Claims Law notice is a parallel route.

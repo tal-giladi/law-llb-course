@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You have logged a factory's night smell for two weeks. In what order should your first-stage
+    documents usually go out?
+  options:
+    - >-
+      Notice under s. 5 first, then the complaint, then the FOI request after the 60 days.
+    - >-
+      Complaint and FOI request in the same week; notices held until a trigger you set is met.
+    - >-
+      FOI request only, because a complaint before you have the data will be ignored.
+    - >-
+      Private complaint notice first, because criminal enforcement gives the fastest result.
+  correct: 1
+  explanation: >-
+    The complaint asks the body with the duty to act and the FOI request obtains its records; the
+    60-day notices are kept ready and sent when the authority fails to take real steps.
+- id: q2
+  question: >-
+    Which item in an FOI request is best drafted?
+  options:
+    - >-
+      "All documents about the bakery, from any department, since it opened."
+    - >-
+      "Your opinion on whether the bakery's smell is dangerous to children."
+    - >-
+      "Noise and smell measurements at the bakery from 1.1.2025 to date."
+    - >-
+      "An explanation of why no inspector has visited the bakery at night."
+  correct: 2
+  explanation: >-
+    FOI gives access to existing records; a named record type and period is answerable and avoids
+    the s. 8 workload ground, while opinions and explanations are not "information" held.
+- id: q3
+  question: >-
+    Your written complaint to a large municipality was received on 1 September. When is a written,
+    reasoned answer due under the Decisions and Reasons Law?
+  options:
+    - >-
+      Within 30 days, the same period as an FOI decision.
+    - >-
+      Within 90 days, after which silence is treated as a refusal.
+    - >-
+      Only when the municipality decides to take enforcement action.
+    - >-
+      Within 45 days of receipt, with reasons for any refusal.
+  correct: 3
+  explanation: >-
+    Section 2(א) requires a written decision within 45 days of receiving a written application to
+    use a statutory power, and s. 2א requires reasons for a refusal.
+- id: q4
+  question: >-
+    Your notice under the Civil Claims Law was sent only to the polluting company. On day 61 you want
+    to sue. What is the problem?
+  options:
+    - >-
+      The notice must also go to the authority; without it the s. 5 condition is not met.
+    - >-
+      There is none, because the authority learns of the notice from the company.
+    - >-
+      The notice should have gone to the police, which forwards it to the Minister.
+    - >-
+      The notice period is 90 days, so you must wait another month before suing.
+  correct: 0
+  explanation: >-
+    Section 5 requires notice to both the authority and the person causing the hazard, a 60-day wait,
+    and that neither took real steps; send to the authority and restart the clock.

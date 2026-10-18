@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    A plant near your home emits a strong chemical smell most evenings. Which statutory prohibition
+    most directly covers the smell itself?
+  options:
+    - >-
+      The Maintenance of Cleanliness Law, because the smell dirties the public domain.
+    - >-
+      The Water Law, because pollution from industry is always water pollution first.
+    - >-
+      The Prevention of Nuisances Law s. 3, which bars strong or unreasonable smell from any source.
+    - >-
+      The Hazardous Substances Law, which bans any smell from a plant holding poisons.
+  correct: 2
+  explanation: >-
+    Section 3 of the Nuisances Law prohibits strong or unreasonable smell that disturbs people nearby;
+    if the source is air pollution from a stationary source, the Clean Air Law also applies.
+- id: q2
+  question: >-
+    You live in a local council of 12,000 residents. Its staff say they "have no duty" to enforce
+    environmental statutes. Under the Local Authorities (Environmental Enforcement) Law, are they right?
+  options:
+    - >-
+      Yes; only authorities with more than 20,000 residents, and town associations, must enforce.
+    - >-
+      No; every local authority must enforce every environmental statute in its area.
+    - >-
+      No; the duty applies to all councils but only for noise and littering.
+    - >-
+      Yes; enforcement of environmental statutes belongs only to the Ministry and the police.
+  correct: 0
+  explanation: >-
+    Section 2(א) obliges a large authority (over 20,000 residents) or an environmental town
+    association; a small authority may enforce (s. 2(ב)). Complain to the Ministry district instead.
+- id: q3
+  question: >-
+    A classmate says Israeli environmental principles such as precaution are "only academic ideas".
+    Which answer is most accurate?
+  options:
+    - >-
+      They appear only in Basic Law: Human Dignity and Liberty, as part of the right to life.
+    - >-
+      They appear in specific statutes, for example the purpose clauses of the Clean Air and PRTR Laws.
+    - >-
+      They appear only in Ministry guidelines, which courts treat as non-binding.
+    - >-
+      They appear only in international treaties that Israel signed but never enacted.
+  correct: 1
+  explanation: >-
+    The Clean Air Law s. 1 names the precautionary principle and future generations; the PRTR Law s. 1
+    names transparency and environmental justice. No Basic Law mentions the environment.
+- id: q4
+  question: >-
+    In Eitanit v. State (HCJ 6971/11), a statute made a former asbestos manufacturer fund half of a
+    regional clean-up. What did the Court decide?
+  options:
+    - >-
+      The section was void because retroactive liability is never proportionate.
+    - >-
+      The section was valid only for waste buried after the Asbestos Law came into force.
+    - >-
+      The petition was dismissed because courts may not review economic legislation at all.
+    - >-
+      The section infringed property but passed the limitation clause, so the petition failed.
+  correct: 3
+  explanation: >-
+    The Court held the infringement of property was proportionate under s. 8 of Basic Law: Human
+    Dignity and Liberty, drawing on comparative strict and retroactive liability regimes.

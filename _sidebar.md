@@ -361,3 +361,13 @@
   - [282 · Practice lab: read a class-action settlement and decide whether to opt out or object](lessons/module-33/lesson-07.md)
   - [283 · Practice lab: an objection to a settlement](lessons/module-33/lesson-08.md)
   - [Module 33 quiz](assessments/module-33-quiz.md)
+- **Module 34 — Environmental Law (about 21 hours)**
+  - [284 · The framework of Israeli environmental law](lessons/module-34/lesson-01.md)
+  - [285 · Pollution and nuisance: air, noise and odour](lessons/module-34/lesson-02.md)
+  - [286 · Water, waste, hazardous materials and recycling laws](lessons/module-34/lesson-03.md)
+  - [287 · Environmental data: the pollutant release register and other public sources](lessons/module-34/lesson-04.md)
+  - [288 · Environmental information and freedom of information](lessons/module-34/lesson-05.md)
+  - [289 · Enforcement: fines, citizens' suits and private complaints](lessons/module-34/lesson-06.md)
+  - [290 · Climate law: the current state of legislation and litigation](lessons/module-34/lesson-07.md)
+  - [291 · Practice lab: an environmental complaint and a data request](lessons/module-34/lesson-08.md)
+  - [Module 34 quiz](assessments/module-34-quiz.md)

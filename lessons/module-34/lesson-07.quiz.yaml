@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A friend says that "since 2024 Israel has had a climate law with a binding 27% target". Based on
+    the sources checked on 18 October 2026, what is the most accurate correction?
+  options:
+    - >-
+      The law was enacted in 2024, but its target is 43% by 2030, not 27%.
+    - >-
+      A bill with a 27% target was approved in committee for final readings; no enactment was found.
+    - >-
+      The law was enacted, but the High Court suspended it in the climate petition in 2026.
+    - >-
+      No bill has ever been tabled; the 27% figure comes only from a Knesset research paper.
+  correct: 1
+  explanation: >-
+    The Interior and Environmental Protection Committee approved a text for second and third readings
+    on 3.12.2024; no report of final passage was found, so the target remains in Government resolutions.
+- id: q2
+  question: >-
+    In HCJ 7063/23, which argument is the State's main threshold argument?
+  options:
+    - >-
+      The petitioners lack standing because none of them is over the age of 18.
+    - >-
+      The petition is late, because it was filed more than 90 days after the target was set.
+    - >-
+      Setting a national emissions target is a policy balance that courts should not review.
+    - >-
+      The petition must first be heard by the district court as an administrative matter.
+  correct: 2
+  explanation: >-
+    As reported, the State argued that the target reflects a complex professional and economic balance,
+    that international agreements require no specific figure, and that the Court should not intervene.
+- id: q3
+  question: >-
+    A committee submission cites the ICJ's 2025 climate opinion as "binding on Israeli courts". What
+    is the most accurate edit?
+  options:
+    - >-
+      Describe it as an advisory opinion that parties cite on international law, not a binding judgment.
+    - >-
+      Delete it, because Israeli courts may never refer to opinions of international courts.
+    - >-
+      Keep it, because advisory opinions bind every UN member State once delivered.
+    - >-
+      Keep it, but add that it binds only States that took part in the oral proceedings.
+  correct: 0
+  explanation: >-
+    An advisory opinion states the Court's view of the law at the request of a UN organ; it does not
+    bind States as a judgment binds parties, though it carries authority in argument.
+- id: q4
+  question: >-
+    You want to influence the Climate Bill's postponement clause as an individual. Which is the most
+    direct lawful route?
+  options:
+    - >-
+      Join HCJ 7063/23 as a new petitioner by sending a letter to the Supreme Court registry.
+    - >-
+      File a class action under item 6 against the Government for the missed target.
+    - >-
+      Send a private complaint notice to the Minister under the Clean Air Law s. 69.
+    - >-
+      Send a short, sourced written submission to the Interior and Environmental Protection Committee.
+  correct: 3
+  explanation: >-
+    Bills are shaped in committee; anyone may send a written submission. The petition, a class action
+    and a private complaint are not tools for changing a bill's wording.

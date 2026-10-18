@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    In October you look for a plant's emissions for last year in the register and find nothing for
+    that year. What is the most accurate reading of the PRTR Law?
+  options:
+    - >-
+      The plant may report at any time in the year, so the data will appear only next year.
+    - >-
+      The plant should have reported by 31 March and the register is due by 1 September, so ask why.
+    - >-
+      Plants report only every seven years, as part of the national inventory of emissions.
+    - >-
+      Plants report only to the local authority, which then decides whether to publish them.
+  correct: 1
+  explanation: >-
+    Section 3(ב) sets an annual report by 31 March and s. 12(א) requires publication at least yearly
+    by 1 September; if a plant did not report, the registrar must publish a notice saying so (s. 12(ו)).
+- id: q2
+  question: >-
+    A plant's record shows benzene to air marked "below threshold". What does that tell you?
+  options:
+    - >-
+      That the plant released no benzene to air during the reporting year.
+    - >-
+      That the release was measured and found to be within the permit limit.
+    - >-
+      That the Ministry has removed the quantity because it is a trade secret.
+    - >-
+      That benzene was released, but in a quantity below the reporting threshold.
+  correct: 3
+  explanation: >-
+    Section 3(ב)(3) requires a plant to state that a pollutant is released even when below the
+    threshold; the quantity is not reported, and you can ask for it by FOI.
+- id: q3
+  question: >-
+    You ask the register for a plant's water consumption. The registrar refuses. Which is correct?
+  options:
+    - >-
+      The refusal is lawful; the register must not publish water and energy consumption.
+    - >-
+      The refusal is unlawful; everything a plant reports must be published in full.
+    - >-
+      The refusal is lawful only if the plant proves the data is a trade secret in court.
+    - >-
+      The refusal is unlawful because water data is environmental information under s. 6א.
+  correct: 0
+  explanation: >-
+    Section 12(ב)(2) excludes the data in s. 3(ב)(6), water and energy consumption, from public
+    display; try the Water Authority or an FOI request to the relevant body instead.
+- id: q4
+  question: >-
+    A neighbourhood group says the register "proves the plant breaks the law" because its annual
+    nitrogen-oxide releases rose 20%. What is the best response?
+  options:
+    - >-
+      Agree; any increase in reported releases is a breach of the Clean Air Law.
+    - >-
+      Disagree; register data is confidential and cannot be used in a complaint.
+    - >-
+      Agree, provided the calculation method stayed the same in both years.
+    - >-
+      Disagree; annual totals show context, and a breach depends on permit limits and peaks.
+  correct: 3
+  explanation: >-
+    The register holds self-reported annual totals; a breach is measured against permit conditions,
+    ambient values and specific events, which you request from the Ministry.

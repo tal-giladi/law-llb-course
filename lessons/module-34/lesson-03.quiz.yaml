@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A factory says it may discharge its effluent into a stream because the stream is "already
+    polluted by sewage from the town". Under the Water Law, which answer is correct?
+  options:
+    - >-
+      It may discharge up to the level of pollution that already exists in the stream.
+    - >-
+      It may discharge only if the town's sewage is stopped first by the water corporation.
+    - >-
+      It must avoid polluting the stream whether or not the stream was polluted before.
+    - >-
+      It may discharge because a stream that carries sewage is no longer a water source.
+  correct: 2
+  explanation: >-
+    Section 20ב(א) requires everyone to avoid acts that pollute water and says it makes no difference
+    whether the water source was polluted before the act.
+- id: q2
+  question: >-
+    You film a plastic bag thrown from a car; the plate is visible. The owner says his son was driving.
+    Under the Cleanliness Law, what happens?
+  options:
+    - >-
+      The owner is presumed to have thrown it unless he proves who did, so naming his son shifts it.
+    - >-
+      Nothing; the State must prove which occupant threw the bag beyond reasonable doubt first.
+    - >-
+      The owner is liable in all cases, because the presumption cannot be rebutted by anyone.
+    - >-
+      Only a police officer's report can be used; a citizen's video is inadmissible here.
+  correct: 0
+  explanation: >-
+    Section 4(א) presumes the owner threw waste proved to come from his vehicle unless he proves he did
+    not and identifies who had the vehicle; s. 4(ב) applies a similar presumption to the driver.
+- id: q3
+  question: >-
+    A 300 m² supermarket refuses your 30 marked 1.5-litre bottles, saying large bottles are not covered.
+    What is the best statement of your rights?
+  options:
+    - >-
+      You have no claim, because the Deposit Law covers only containers below 1.5 litres.
+    - >-
+      You can claim only the deposit itself, because exemplary damages need proof of loss.
+    - >-
+      You can claim only if you bought the bottles in that branch within the last 30 days.
+    - >-
+      Large bottles are covered since December 2021; you may claim exemplary damages for the refusal.
+  correct: 3
+  explanation: >-
+    Containers of 1.5 to 5 litres were brought under the Law from 1.12.2021, and s. 22 allows exemplary
+    damages without proof of damage for a refusal; the 28 m² exception does not apply to this shop.
+- id: q4
+  question: >-
+    Which statement best describes extended producer responsibility under the Packaging Law?
+  options:
+    - >-
+      Local authorities pay for all recycling and recover the cost from residents through arnona.
+    - >-
+      Producers and importers must meet recycling targets, usually through a recognised body.
+    - >-
+      Consumers must return every package to the shop where they bought the product.
+    - >-
+      The Ministry collects packaging waste itself and charges a fee per kilogram to shops.
+  correct: 1
+  explanation: >-
+    The Packaging Law places marking and recycling duties with binding targets on producers and
+    importers, who contract with a recognised body (ss. 1, 9, 12), and bans landfilling packaging (s. 27).

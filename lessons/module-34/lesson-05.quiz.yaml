@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A municipality measured noise near a nightclub at your request but refuses to give you the results,
+    saying "the levels were within the limits, so there is nothing to publish". What is your best answer?
+  options:
+    - >-
+      Accept it, because the duty to publish arises only when a limit was exceeded.
+    - >-
+      Cite reg. 2: measurement results must be published even when they are within the limits.
+    - >-
+      Ask the nightclub for the results, because the municipality holds them only as its agent.
+    - >-
+      Accept it, because municipalities are exempt from the environmental regulations.
+  correct: 1
+  explanation: >-
+    Regulation 2 of the 2009 regulations covers measurements and reports even if the results do not
+    exceed the permitted limit; noise measurements outside the private domain are environmental information.
+- id: q2
+  question: >-
+    A plant objects to disclosure of its stack measurements of sulphur dioxide, calling them a trade
+    secret. Which provision most directly answers the objection?
+  options:
+    - >-
+      FOI Law s. 13, which forbids any disclosure once a third party objects.
+    - >-
+      PRTR Law s. 12(ב)(2), which protects all of a plant's operational data.
+    - >-
+      Clean Air Law s. 21(ד)(2)(ג), under which pollutant quantities are never a trade secret.
+    - >-
+      FOI Law s. 9(ב), which allows any commercial information to be withheld.
+  correct: 2
+  explanation: >-
+    The Clean Air Law excludes the identity of a source and the types, quantities, concentrations and
+    rates of pollutants from the definition of trade secret; s. 13 only gives the plant a chance to object.
+- id: q3
+  question: >-
+    The Ministry received a plant's malfunction report in February. By when should the information
+    have been published proactively under the 2009 regulations?
+  options:
+    - >-
+      Within three months of receipt, not counting any third-party objection period.
+    - >-
+      Within 30 days, the same period as a decision on an ordinary FOI request.
+    - >-
+      Only in the next annual PRTR publication, by 1 September of the following year.
+    - >-
+      Only after a member of the public submits a written request for that report.
+  correct: 0
+  explanation: >-
+    Regulation 6 requires publication as soon as possible and no later than three months after receipt
+    of the report or the measurement; the s. 13 periods are not counted.
+- id: q4
+  question: >-
+    Which request is most likely to be answered rather than refused under s. 8?
+  options:
+    - >-
+      "Please tell me whether the quarry is harming the health of my children."
+    - >-
+      "Please send everything you have ever received about the quarry since it opened."
+    - >-
+      "Please explain why you have not closed the quarry despite residents' complaints."
+    - >-
+      "Please send the dust monitoring results and inspection reports for January–June 2026."
+  correct: 3
+  explanation: >-
+    FOI gives access to existing records, not opinions or explanations; a request by record type and
+    period avoids the unreasonable-workload ground in s. 8(1).

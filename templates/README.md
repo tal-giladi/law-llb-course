@@ -26,6 +26,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Decision worksheet: should you sue? (גיליון החלטה: האם לתבוע?)](should-you-sue-worksheet.md)
 - [Demand letter to a company (מכתב דרישה לחברה)](demand-letter-company.md)
 - [Enduring power of attorney: preparation worksheet (ייפוי כוח מתמשך – דף הכנה)](enduring-poa-preparation-worksheet.md)
+- [Environmental complaint and notices (תלונה על מפגע סביבתי והודעות מוקדמות)](environmental-complaint-and-notice.md)
 - [Execution debtor response kit (ערכת תגובה לחייב בהוצאה לפועל)](execution-debtor-response-kit.md)
 - [Execution request checklist (רשימת בדיקה לפתיחת תיק בהוצאה לפועל)](execution-request-checklist.md)
 - [FOI request (בקשה לקבלת מידע לפי חוק חופש המידע)](foi-request.md)

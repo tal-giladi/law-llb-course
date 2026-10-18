@@ -1,0 +1,1311 @@
+- id: m34-001
+  module: 34
+  lesson: "34.1"
+  subject: framework
+  difficulty: 1
+  question: >-
+    Which statute holds the general ban on strong or unreasonable noise and smell from any source?
+  options:
+    - >-
+      The Maintenance of Cleanliness Law 1984
+    - >-
+      The Hazardous Substances Law 1993
+    - >-
+      The Prevention of Nuisances Law 1961
+    - >-
+      The Water Law 1959
+  correct: 2
+  explanation: >-
+    Sections 2 and 3 of the Prevention of Nuisances Law prohibit strong or unreasonable noise and smell that disturb people nearby.
+- id: m34-002
+  module: 34
+  lesson: "34.1"
+  subject: local-enforcement
+  difficulty: 2
+  question: >-
+    A city of 85,000 residents ignores repeated complaints about a workshop's fumes, saying only the Ministry enforces. What is the best legal answer?
+  options:
+    - >-
+      A large authority must enforce the listed environmental statutes in its area.
+    - >-
+      Only the Ministry has powers, so the city is right to refer you onward.
+    - >-
+      The city may act only after the Minister issues a personal direction.
+    - >-
+      Only a town association may enforce, never a municipality itself.
+  correct: 0
+  explanation: >-
+    Section 2(א) of the Local Authorities (Environmental Enforcement) Law obliges a local authority with more than 20,000 residents to enforce the listed statutes.
+- id: m34-003
+  module: 34
+  lesson: "34.1"
+  subject: inspector-powers
+  difficulty: 2
+  question: >-
+    A Ministry inspector wants to enter a factory yard without a warrant to take samples. Under the 2011 Enforcement Powers Law, may he?
+  options:
+    - >-
+      No; every entry to private property needs a court warrant.
+    - >-
+      Only with the owner's written consent, given in advance.
+    - >-
+      Only at night, when emissions are typically at their highest.
+    - >-
+      Yes; he may enter any place except one used as a home without a warrant.
+  correct: 3
+  explanation: >-
+    Section 5(4) allows entry to any place, including a stationary vehicle, but not a place used as a residence without a court order.
+- id: m34-004
+  module: 34
+  lesson: "34.1"
+  subject: principles
+  difficulty: 1
+  question: >-
+    Where does Israeli law expressly name environmental justice as a goal?
+  options:
+    - >-
+      In Basic Law: Human Dignity and Liberty, section 4.
+    - >-
+      In the purpose clause of the PRTR Law 2012.
+    - >-
+      In the Planning and Building Law's definitions section.
+    - >-
+      Nowhere; the term appears only in academic writing.
+  correct: 1
+  explanation: >-
+    Section 1 of the PRTR Law refers to policy based on environmental justice and to transparency.
+- id: m34-005
+  module: 34
+  lesson: "34.1"
+  subject: polluter-pays
+  difficulty: 3
+  question: >-
+    A company argues that a law making it pay half of a regional asbestos clean-up decades later is unconstitutional retroactive punishment. Which ruling is most relevant and what did it hold?
+  options:
+    - >-
+      Abu-Madigam; spraying was disproportionate, so all retroactive measures fail.
+    - >-
+      Eitanit; the infringement of property was proportionate under the limitation clause.
+    - >-
+      Barazani; personal causation must be shown before any liability attaches.
+    - >-
+      Bremer; authorities must use every enforcement tool before fining anyone.
+  correct: 1
+  explanation: >-
+    In HCJ 6971/11 the Court held that s. 74 of the Asbestos Law infringed property but met the limitation clause, drawing on comparative strict and retroactive liability.
+- id: m34-006
+  module: 34
+  lesson: "34.1"
+  subject: map
+  difficulty: 2
+  question: >-
+    A resident smells sewage from a stream after heavy rain. Which body is the most relevant first address?
+  options:
+    - >-
+      The police, which handles every public-health offence committed in or near streams.
+    - >-
+      The small-claims court, through a claim for damages against the municipality.
+    - >-
+      The Knesset Interior Committee, through a written submission on water policy.
+    - >-
+      The Ministry, together with the stream authority and the water corporation.
+  correct: 3
+  explanation: >-
+    Water pollution is governed by the Water Law; the Ministry, the stream authority and the water corporation are the bodies with powers and duties.
+- id: m34-007
+  module: 34
+  lesson: "34.1"
+  subject: licensing-reform
+  difficulty: 3
+  question: >-
+    Your neighbour says the 2024 Streamlining Environmental Licensing Law means old permit conditions no longer bind a plant. What is the most careful answer?
+  options:
+    - >-
+      Partly; the integrated permit starts on a set date, so check that date and the conditions.
+    - >-
+      Incorrect; the 2024 Law applies only to new plants that are built after the year 2030.
+    - >-
+      Correct; the 2024 Law repealed all existing emission permits on the day it was published.
+    - >-
+      Correct; until an integrated permit is issued, plants may operate without any conditions.
+  correct: 0
+  explanation: >-
+    The consolidated texts show the integrated-permit provisions taking effect at a later date after a 2026 postponement order; until then existing permits and licence conditions apply.
+- id: m34-008
+  module: 34
+  lesson: "34.1"
+  subject: constitutional
+  difficulty: 2
+  question: >-
+    Which statement best describes the constitutional status of environmental protection in Israel?
+  options:
+    - >-
+      A Basic Law expressly guarantees a right to a healthy environment.
+    - >-
+      The Supreme Court has held that environmental rights cannot be argued at all.
+    - >-
+      No Basic Law mentions it; petitioners argue it is part of life and dignity.
+    - >-
+      Environmental protection has constitutional status only in the occupied territories.
+  correct: 2
+  explanation: >-
+    No Basic Law mentions the environment; petitioners derive protection from the rights to life, body and dignity, and the State answers that policy belongs to elected bodies.
+- id: m34-009
+  module: 34
+  lesson: "34.2"
+  subject: quiet-hours
+  difficulty: 1
+  question: >-
+    Under the Noise Prevention Regulations 1992, when is amplified music outdoors in a residential area banned on an ordinary weekday?
+  options:
+    - >-
+      22:00–06:00 only
+    - >-
+      12:00–14:00 and 22:00–08:00
+    - >-
+      Only after midnight
+    - >-
+      14:00–16:00 and 23:00–07:00
+  correct: 3
+  explanation: >-
+    Regulation 3 sets 14:00–16:00 and 23:00–07:00, with listed festive-night exceptions.
+- id: m34-010
+  module: 34
+  lesson: "34.2"
+  subject: renovation
+  difficulty: 1
+  question: >-
+    Until when may renovation work causing noise continue in a residential building on a weekday?
+  options:
+    - >-
+      Until 22:00
+    - >-
+      Until 18:00
+    - >-
+      Until 20:00
+    - >-
+      Until 23:00
+  correct: 2
+  explanation: >-
+    Regulation 4 bans such work 20:00–07:00 on weekdays and from 17:00 on the eve of a day of rest.
+- id: m34-011
+  module: 34
+  lesson: "34.2"
+  subject: festive-exception
+  difficulty: 2
+  question: >-
+    Loud music in a residential courtyard at 23:45 on the night of Lag Ba'Omer. Under reg. 3, is it banned?
+  options:
+    - >-
+      Yes; the quiet hours apply every night of the year without exception.
+    - >-
+      No; Lag Ba'Omer night is one of the listed festive exceptions.
+    - >-
+      Yes, unless a municipal by-law specifically allows bonfires that night.
+    - >-
+      No, but only if the music stops at 23:59 exactly.
+  correct: 1
+  explanation: >-
+    Regulation 3(ב) excludes celebrations on listed nights, including Lag Ba'Omer.
+- id: m34-012
+  module: 34
+  lesson: "34.2"
+  subject: presumption
+  difficulty: 2
+  question: >-
+    What does s. 10 of the Nuisances Law give a complainant once a noise is defined as unreasonable in regulations?
+  options:
+    - >-
+      A presumption that it may disturb people nearby, unless rebutted by the other side.
+    - >-
+      An automatic fine payable to the complainant within 30 days of the regulation breach.
+    - >-
+      A right to enter the source's premises in order to measure the noise level personally.
+    - >-
+      An exemption from proving the date, the time and the place where the noise occurred.
+  correct: 0
+  explanation: >-
+    Section 10(1) creates a rebuttable presumption that a nuisance defined in regulations may disturb a person nearby.
+- id: m34-013
+  module: 34
+  lesson: "34.2"
+  subject: private-domain
+  difficulty: 2
+  question: >-
+    Your upstairs neighbour's TV is loud inside his flat but you cannot hear it in yours. Does the Nuisances Law apply?
+  options:
+    - >-
+      Yes; any loud noise inside a residential building is a breach of s. 2 of the Law.
+    - >-
+      Yes, if the television is switched on during the 14:00–16:00 quiet hours each day.
+    - >-
+      No; the Law does not apply to noise that stays within the causer's private domain.
+    - >-
+      No, because televisions are expressly excluded from the Noise Prevention Regulations.
+  correct: 2
+  explanation: >-
+    Section 17(א) excludes noise and smell whose effect does not go beyond the private domain of the person causing them.
+- id: m34-014
+  module: 34
+  lesson: "34.2"
+  subject: evidence
+  difficulty: 3
+  question: >-
+    Which piece of evidence is most likely to prove a measured breach of the 1990 Regulations for a humming rooftop unit?
+  options:
+    - >-
+      A calibrated measurement made as the regulations require, with your log.
+    - >-
+      Signed statements from three neighbours that the hum keeps them awake at night.
+    - >-
+      A video recording with audio of the unit running on ten separate nights.
+    - >-
+      A phone-app reading taken at 02:00 on five nights, with dated screenshots kept.
+  correct: 0
+  explanation: >-
+    The 1990 Regulations require a measurement by a meter meeting the standards and method in the regulations; logs and statements support it.
+- id: m34-015
+  module: 34
+  lesson: "34.2"
+  subject: police-entry
+  difficulty: 3
+  question: >-
+    Police receive a complaint about a loud party in a flat at 02:00. Under s. 11א1, when may an officer enter without a warrant?
+  options:
+    - >-
+      Whenever any neighbour complains, after knocking on the door once and waiting.
+    - >-
+      Only with the prior written consent of the flat's owner or of its registered tenant.
+    - >-
+      Never; entering a home always requires a court order, whatever the circumstances.
+    - >-
+      After identifying himself and a refused demand to stop, if the disturbance cannot wait.
+  correct: 3
+  explanation: >-
+    Section 11א1 allows entry to stop a noise offence causing real disturbance to public peace, after identification and a refused demand, when delay would defeat stopping it.
+- id: m34-016
+  module: 34
+  lesson: "34.2"
+  subject: permit-comments
+  difficulty: 2
+  question: >-
+    A draft emission permit for a power station is published. How long do members of the public have to comment?
+  options:
+    - >-
+      14 days
+    - >-
+      45 days
+    - >-
+      30 days
+    - >-
+      90 days
+  correct: 1
+  explanation: >-
+    Clean Air Law s. 21(ה) allows any person to comment within 45 days of the notice.
+- id: m34-017
+  module: 34
+  lesson: "34.2"
+  subject: clean-air-tort
+  difficulty: 3
+  question: >-
+    A family wants damages from a plant that breached its emission permit and harmed their olive grove. Which provision is most direct?
+  options:
+    - >-
+      Civil Claims Law s. 2, which gives damages for any first-time environmental hazard.
+    - >-
+      Clean Air Law s. 70, which makes a breach of the Law a civil wrong.
+    - >-
+      FOI Law s. 6א, which allows compensation where information was not published.
+    - >-
+      PRTR Law s. 27, which pays victims out of financial sanctions that are published.
+  correct: 1
+  explanation: >-
+    Section 70 makes any act or omission in breach of the Clean Air Law a civil wrong; damages are claimed under the Torts Ordinance.
+- id: m34-018
+  module: 34
+  lesson: "34.2"
+  subject: removal-order
+  difficulty: 2
+  question: >-
+    An inspector issues an order under s. 11ב to a restaurant to stop a smell. The owner applies to court to cancel it. Meanwhile?
+  options:
+    - >-
+      The order is suspended automatically until the court decides.
+    - >-
+      The inspector must withdraw it until a criminal case is filed.
+    - >-
+      The order lapses after 7 days unless the inspector renews it.
+    - >-
+      The order stays in force unless the court decides otherwise.
+  correct: 3
+  explanation: >-
+    Section 11ב1(ב) provides that an application does not suspend the order unless the court decides otherwise.
+- id: m34-019
+  module: 34
+  lesson: "34.3"
+  subject: water
+  difficulty: 1
+  question: >-
+    Under the Water Law, which act is prohibited?
+  options:
+    - >-
+      Any act that pollutes or may pollute a water source, even an already polluted one.
+    - >-
+      Only discharges into a river that is clean at the time of the discharge.
+    - >-
+      Only discharges of industrial chemicals listed in a schedule.
+    - >-
+      Only discharges that exceed the plant's permit by more than 10%.
+  correct: 0
+  explanation: >-
+    Section 20ב(א) bans any polluting act, and says the prior state of the source does not matter.
+- id: m34-020
+  module: 34
+  lesson: "34.3"
+  subject: vehicle-presumption
+  difficulty: 2
+  question: >-
+    A video shows a bag of rubbish thrown from a car with a visible plate. Who is presumed to have thrown it?
+  options:
+    - >-
+      Nobody until the passenger is identified by police.
+    - >-
+      Only the passenger sitting next to the open window.
+    - >-
+      The vehicle's owner, and the driver, unless they prove who did it.
+    - >-
+      The car-rental company in all cases, because it owns the car.
+  correct: 2
+  explanation: >-
+    Cleanliness Law s. 4 presumes the owner and the driver threw waste proved to come from the vehicle unless they prove who did.
+- id: m34-021
+  module: 34
+  lesson: "34.3"
+  subject: informer
+  difficulty: 3
+  question: >-
+    Ruth films a truck dumping building rubble, plate visible, and gives the film with a signed report to an authorised Ministry employee. The driver pays a fixed fine notice. Is Ruth paid under s. 15א?
+  options:
+    - >-
+      Yes; any documentation that leads to any penalty for dumping is paid by the Fund.
+    - >-
+      Yes, but only half of the amount, because no court was involved in the case.
+    - >-
+      No; only appointed cleanliness trustees may receive payment under s. 15א.
+    - >-
+      No; the section does not apply to a case ended by a fixed fine notice.
+  correct: 3
+  explanation: >-
+    Section 15א(ה) excludes proceedings begun by a fixed-fine notice; payment follows a court finding that the documentation contributed materially to a conviction.
+- id: m34-022
+  module: 34
+  lesson: "34.3"
+  subject: deposit-kiosk
+  difficulty: 2
+  question: >-
+    A 20 m² kiosk refuses empties you bought at a supermarket. Can you claim exemplary damages?
+  options:
+    - >-
+      Yes; every shop selling drinks must accept all marked empties.
+    - >-
+      Yes, but only for large containers of 1.5 litres or more.
+    - >-
+      No; a shop under 28 m² need accept only containers bought there.
+    - >-
+      No; kiosks are wholly exempt from the Deposit Law.
+  correct: 2
+  explanation: >-
+    Section 6(ג)(1)(ב) exempts a shop under 28 m² unless the container was bought there.
+- id: m34-023
+  module: 34
+  lesson: "34.3"
+  subject: deposit-limit
+  difficulty: 2
+  question: >-
+    You bring 80 marked empties to a supermarket in one day. It accepts 50 and refuses the rest. Is that lawful?
+  options:
+    - >-
+      No; a shop must accept every marked container that a consumer brings in.
+    - >-
+      Yes; a shop need not accept more than 50 from one consumer per day.
+    - >-
+      No, unless the shop's floor area is under 100 m² and it posts a notice.
+    - >-
+      Yes, but only if a sign announcing the daily limit is posted by the till.
+  correct: 1
+  explanation: >-
+    Section 6(ג)(2) limits the duty to 50 containers from the same consumer per day.
+- id: m34-024
+  module: 34
+  lesson: "34.3"
+  subject: deposit-damages
+  difficulty: 3
+  question: >-
+    A shop refused your empties on three separate visits on the same day. How many refusals are there for exemplary damages?
+  options:
+    - >-
+      One, since refusals on the same business day count as one.
+    - >-
+      One for each marked container that was refused on that day.
+    - >-
+      Three, one for each separate visit to the shop that day.
+    - >-
+      None, because a refusal must be repeated over three days.
+  correct: 0
+  explanation: >-
+    Section 22(א) defines a refusal to include several refusals to the same consumer in the same business day.
+- id: m34-025
+  module: 34
+  lesson: "34.3"
+  subject: packaging
+  difficulty: 2
+  question: >-
+    Who must meet recycling targets for packaging waste under the Packaging Law?
+  options:
+    - >-
+      Consumers, who must separate waste at home under penalty of fines.
+    - >-
+      Local authorities alone, financed by the arnona that residents pay.
+    - >-
+      Producers and importers, usually through a recognised body.
+    - >-
+      Supermarkets, which must take back every package that they sell.
+  correct: 2
+  explanation: >-
+    The Law places extended producer responsibility on producers and importers (s. 1), who contract with a recognised body (ss. 9, 12).
+- id: m34-026
+  module: 34
+  lesson: "34.3"
+  subject: landfill
+  difficulty: 1
+  question: >-
+    What does the Packaging Law say about landfilling packaging waste?
+  options:
+    - >-
+      It is banned.
+    - >-
+      It is permitted if the local authority pays a levy.
+    - >-
+      It is permitted for plastic but not for glass.
+    - >-
+      It is permitted until 2030 under a transition rule.
+  correct: 0
+  explanation: >-
+    Section 27 prohibits landfilling packaging waste.
+- id: m34-027
+  module: 34
+  lesson: "34.3"
+  subject: poisons
+  difficulty: 1
+  question: >-
+    Under the Hazardous Substances Law, what does a business need in order to deal in poisons?
+  options:
+    - >-
+      A business licence from the municipality only.
+    - >-
+      Nothing, if it employs a licensed chemist.
+    - >-
+      Registration with the police explosives unit.
+    - >-
+      A poisons permit from the Ministry's commissioner.
+  correct: 3
+  explanation: >-
+    Section 3(א) requires a poisons permit, with exceptions for pharmacies and over-the-counter products.
+- id: m34-028
+  module: 34
+  lesson: "34.3"
+  subject: abu-madigam
+  difficulty: 3
+  question: >-
+    In Abu-Madigam v. ILA, why did the majority grant the petition against aerial spraying of crops?
+  options:
+    - >-
+      Because spraying any herbicide from the air is a criminal offence in every case.
+    - >-
+      Because, even if authorised, the method was disproportionate given the health risks.
+    - >-
+      Because the land in question was proved in court to belong to the petitioners.
+    - >-
+      Because the State failed to give the petitioners 60 days' written notice first.
+  correct: 1
+  explanation: >-
+    Justices Arbel and Naor held that the spraying, even if authorised, was disproportionate; Justice Joubran held it ultra vires.
+- id: m34-029
+  module: 34
+  lesson: "34.4"
+  subject: prtr-deadline
+  difficulty: 1
+  question: >-
+    By what date must a covered plant submit its annual PRTR report for the previous year?
+  options:
+    - >-
+      31 January
+    - >-
+      31 March
+    - >-
+      1 September
+    - >-
+      31 December
+  correct: 1
+  explanation: >-
+    Section 3(ב) requires the report by 31 March each year.
+- id: m34-030
+  module: 34
+  lesson: "34.4"
+  subject: prtr-publication
+  difficulty: 1
+  question: >-
+    By when must the register be updated for the public each year?
+  options:
+    - >-
+      30 June
+    - >-
+      31 March in the same year
+    - >-
+      1 January
+    - >-
+      1 September
+  correct: 3
+  explanation: >-
+    Section 12(א) requires updating at least once a year, no later than 1 September.
+- id: m34-031
+  module: 34
+  lesson: "34.4"
+  subject: prtr-withheld
+  difficulty: 2
+  question: >-
+    Which data does the register lawfully withhold from the public?
+  options:
+    - >-
+      The plant's water and energy consumption.
+    - >-
+      The plant's location and coordinates.
+    - >-
+      The pollutants a plant releases to air.
+    - >-
+      Releases caused by malfunctions.
+  correct: 0
+  explanation: >-
+    Section 12(ב)(2) excludes the s. 3(ב)(6) data, water and energy consumption.
+- id: m34-032
+  module: 34
+  lesson: "34.4"
+  subject: prtr-nonreport
+  difficulty: 2
+  question: >-
+    A plant failed to submit its annual report. What must the registrar do?
+  options:
+    - >-
+      Nothing, until the plant reports again in the following reporting year.
+    - >-
+      Close the plant by administrative order until the report is submitted.
+    - >-
+      Publish a notice of it, after giving the plant a chance to respond.
+    - >-
+      Ask the police to open a criminal investigation against the plant's CEO.
+  correct: 2
+  explanation: >-
+    Section 12(ו) requires a notice in place of the missing report, after a reasonable opportunity to argue.
+- id: m34-033
+  module: 34
+  lesson: "34.4"
+  subject: prtr-declaration
+  difficulty: 2
+  question: >-
+    Who verifies a company-owned plant's annual PRTR report?
+  options:
+    - >-
+      An external auditor appointed by the Ministry.
+    - >-
+      The plant's environmental officer, by signature.
+    - >-
+      The local authority's environmental unit.
+    - >-
+      The company's CEO, by declaration.
+  correct: 3
+  explanation: >-
+    Section 3(ג) requires a declaration by the owner or, for a company, the CEO, that the report is true and complete.
+- id: m34-034
+  module: 34
+  lesson: "34.4"
+  subject: prtr-units
+  difficulty: 3
+  question: >-
+    Comparing two plants, you see 1,200 in one row and 1.4 in another for the same pollutant. What should you check first?
+  options:
+    - >-
+      Whether one plant is in the north of the country and the other in the south.
+    - >-
+      Whether the two plants have the same owner or belong to the same group.
+    - >-
+      Whether the figures are in kilograms or tons, and the calculation method.
+    - >-
+      Whether either of the two plants holds a valid business licence this year.
+  correct: 2
+  explanation: >-
+    The dataset has quantity columns in different units, and methods differ; check both before comparing.
+- id: m34-035
+  module: 34
+  lesson: "34.4"
+  subject: prtr-malfunction
+  difficulty: 3
+  question: >-
+    Residents smell sharp odours on a few nights a year, but the plant's annual totals are falling. Which register field is most relevant?
+  options:
+    - >-
+      The plant's sector and activity code in the register.
+    - >-
+      Releases reported as resulting from a malfunction.
+    - >-
+      The calculation method column, and nothing else.
+    - >-
+      The plant's postal address and telephone number.
+  correct: 1
+  explanation: >-
+    Section 3(ב)(4) requires reporting what part of a release came from a malfunction; episodic events often show there.
+- id: m34-036
+  module: 34
+  lesson: "34.4"
+  subject: air-data
+  difficulty: 1
+  question: >-
+    Which provision requires the Ministry to publish air-quality data and forecasts free of charge?
+  options:
+    - >-
+      Clean Air Law s. 8
+    - >-
+      PRTR Law s. 11
+    - >-
+      FOI Law s. 9
+    - >-
+      Nuisances Law s. 6
+  correct: 0
+  explanation: >-
+    Section 8 of the Clean Air Law requires regular free publication of air-quality data and forecasts.
+- id: m34-037
+  module: 34
+  lesson: "34.5"
+  subject: s6a-scope
+  difficulty: 1
+  question: >-
+    Under FOI Law s. 6א, which body must publish environmental information it holds?
+  options:
+    - >-
+      Only the Ministry of Environmental Protection.
+    - >-
+      Only local authorities with more than 20,000 residents.
+    - >-
+      Every public authority under the FOI Law.
+    - >-
+      Only bodies listed in the PRTR Law.
+  correct: 2
+  explanation: >-
+    Section 6א(א) applies to every public authority as defined in the FOI Law.
+- id: m34-038
+  module: 34
+  lesson: "34.5"
+  subject: s6a-definition
+  difficulty: 2
+  question: >-
+    Which of these is 'environmental information' under s. 6א?
+  options:
+    - >-
+      Noise measurement results in a public park.
+    - >-
+      The minutes of a municipal budget committee.
+    - >-
+      A noise measurement inside the complainant's own flat from his own TV.
+    - >-
+      A plant's annual financial statements.
+  correct: 0
+  explanation: >-
+    The definition covers substances released to the environment and noise, smell and radiation measurements outside the private domain.
+- id: m34-039
+  module: 34
+  lesson: "34.5"
+  subject: regs-timing
+  difficulty: 2
+  question: >-
+    Within what period must an authority publish environmental information after receiving a report?
+  options:
+    - >-
+      30 days
+    - >-
+      45 days
+    - >-
+      One full year
+    - >-
+      Three months
+  correct: 3
+  explanation: >-
+    Regulation 6 sets as soon as possible and no later than three months, excluding s. 13 periods.
+- id: m34-040
+  module: 34
+  lesson: "34.5"
+  subject: regs-retention
+  difficulty: 2
+  question: >-
+    For how long must environmental information be kept available in the authority's offices?
+  options:
+    - >-
+      One year
+    - >-
+      Seven years
+    - >-
+      Three years
+    - >-
+      Indefinitely
+  correct: 1
+  explanation: >-
+    Regulation 7 sets at least one year online and seven years in the offices.
+- id: m34-041
+  module: 34
+  lesson: "34.5"
+  subject: trade-secret
+  difficulty: 3
+  question: >-
+    A plant objects that its nitrogen-oxide concentrations are a trade secret. Which answer is strongest?
+  options:
+    - >-
+      FOI s. 9(ב)(6) protects all commercial information, so the objection succeeds.
+    - >-
+      Clean Air s. 21(ד)(2)(ג): pollutant concentrations are never a trade secret.
+    - >-
+      The objection fails only if the plant is a government company under the law.
+    - >-
+      Trade secrets are protected only for plants that have fewer than 50 employees.
+  correct: 1
+  explanation: >-
+    The Clean Air Law excludes source identity and pollutant types, quantities, concentrations and rates from the definition of trade secret.
+- id: m34-042
+  module: 34
+  lesson: "34.5"
+  subject: public-interest
+  difficulty: 2
+  question: >-
+    When an authority considers refusing environmental information, which factor must it weigh under s. 10?
+  options:
+    - >-
+      The cost of photocopying and sending the documents requested.
+    - >-
+      Whether the requester lives in the same district as the plant.
+    - >-
+      The number of earlier requests made by the same person this year.
+    - >-
+      The public interest in disclosure for health or the environment.
+  correct: 3
+  explanation: >-
+    Section 10 requires weighing the requester's interest, if stated, and the public interest in health, safety and the environment.
+- id: m34-043
+  module: 34
+  lesson: "34.5"
+  subject: spot-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this request: 'Under s. 6א please explain why the Ministry has not closed the plant, and send all documents since 1990.'
+  options:
+    - >-
+      It asks for an explanation rather than records and is unlimited in scope.
+    - >-
+      It should have been sent to the plant, not the Ministry.
+    - >-
+      It cites s. 6א, which applies only to municipalities.
+    - >-
+      It fails to pay the fee for environmental information, which is double.
+  correct: 0
+  explanation: >-
+    FOI gives access to existing records; asking for explanations and an unlimited scope invites refusal under s. 8.
+- id: m34-044
+  module: 34
+  lesson: "34.5"
+  subject: processed
+  difficulty: 2
+  question: >-
+    Must an authority analyse raw monitoring data into a summary for you under the 2009 regulations?
+  options:
+    - >-
+      Yes; it must process any raw data into whatever form the requester asks for.
+    - >-
+      Yes, but only when the request comes from a registered non-profit organisation.
+    - >-
+      No; data is published as held, but processed reports it has are published too.
+    - >-
+      No; raw monitoring data is never environmental information under the FOI Law.
+  correct: 2
+  explanation: >-
+    Regulation 3(ב) says the authority need not process data; reg. 3(א)(8) covers processed reports it already has.
+- id: m34-045
+  module: 34
+  lesson: "34.6"
+  subject: civil-claims-court
+  difficulty: 1
+  question: >-
+    In which court is a suit under the Prevention of Environmental Hazards (Civil Claims) Law filed?
+  options:
+    - >-
+      The district court
+    - >-
+      The High Court of Justice
+    - >-
+      The administrative affairs court
+    - >-
+      The magistrates' court
+  correct: 3
+  explanation: >-
+    Section 1 defines 'court' as the magistrates' court; appeals go to a single district-court judge (s. 15).
+- id: m34-046
+  module: 34
+  lesson: "34.6"
+  subject: negligence
+  difficulty: 1
+  question: >-
+    Must a plaintiff under the 1992 Law prove the polluter's negligence?
+  options:
+    - >-
+      Yes, by expert evidence.
+    - >-
+      Only if the polluter is a public body.
+    - >-
+      No; negligence is irrelevant.
+    - >-
+      Only for noise, not for air pollution.
+  correct: 2
+  explanation: >-
+    Section 4 provides that it makes no difference whether the polluter was negligent.
+- id: m34-047
+  module: 34
+  lesson: "34.6"
+  subject: standing-association
+  difficulty: 2
+  question: >-
+    A registered association whose main aim is environmental protection is not in the Schedule. When may it sue under the 1992 Law?
+  options:
+    - >-
+      Never; only listed bodies may sue.
+    - >-
+      If at least one of its members could sue.
+    - >-
+      Only with the Minister's written approval.
+    - >-
+      Only in a group suit with at least 20 members.
+  correct: 1
+  explanation: >-
+    Section 6(ג) allows such an association to sue if at least one of its members is entitled to.
+- id: m34-048
+  module: 34
+  lesson: "34.6"
+  subject: authority-trees
+  difficulty: 3
+  question: >-
+    A developer illegally fells protected trees. To whom must the s. 5 notice go, besides the developer?
+  options:
+    - >-
+      The Minister of Agriculture or his delegate, the authority for trees.
+    - >-
+      The Minister of Environmental Protection, who is the authority for every hazard.
+    - >-
+      The local planning committee, which issued the developer's building permit.
+    - >-
+      The police, because the illegal felling of protected trees is an offence.
+  correct: 0
+  explanation: >-
+    Section 1 defines the authority for harm to protected trees or forests as the Minister of Agriculture or his delegate.
+- id: m34-049
+  module: 34
+  lesson: "34.6"
+  subject: restoration
+  difficulty: 2
+  question: >-
+    The court ordered a polluter to restore a site, but it did nothing. What does s. 8 allow?
+  options:
+    - >-
+      Nothing more; the plaintiff must start a new suit with a new notice.
+    - >-
+      The plaintiff may restore the site and keep the land.
+    - >-
+      The court decides how to restore and charges the polluter the cost.
+    - >-
+      The Minister must pay the plaintiff's costs from the Cleanliness Fund.
+  correct: 2
+  explanation: >-
+    Section 8(ב) lets the court decide how the restoration will be done, after hearing the parties, and charge the polluter.
+- id: m34-050
+  module: 34
+  lesson: "34.6"
+  subject: group-suit
+  difficulty: 3
+  question: >-
+    How do members join a group suit under s. 12 of the 1992 Law?
+  options:
+    - >-
+      By written consent to join the suit.
+    - >-
+      Automatically, unless they opt out within 45 days.
+    - >-
+      Only by filing their own separate claims.
+    - >-
+      By registering with the Ministry's district office.
+  correct: 0
+  explanation: >-
+    Section 12(ב) treats the suit as filed for members who expressed in writing their wish to join; unlike the Class Actions Law, it is opt-in.
+- id: m34-051
+  module: 34
+  lesson: "34.6"
+  subject: award
+  difficulty: 2
+  question: >-
+    A resident wins a 1992 Law injunction suit. What does s. 14 provide?
+  options:
+    - >-
+      Only the court fees are refunded to the plaintiff, nothing more than that.
+    - >-
+      Nothing; awards to plaintiffs exist only in class actions under the 2006 Law.
+    - >-
+      The Ministry pays the plaintiff a fixed reward from the Cleanliness Fund.
+    - >-
+      An award to the plaintiff and a lawyer's fee, unless there are special reasons.
+  correct: 3
+  explanation: >-
+    Section 14 requires an award and a fee for a successful plaintiff unless special reasons are recorded.
+- id: m34-052
+  module: 34
+  lesson: "34.6"
+  subject: private-complaint-la
+  difficulty: 2
+  question: >-
+    May a local authority bring a private complaint under the Clean Air Law?
+  options:
+    - >-
+      Yes, for offences in its area, as under the Nuisances Law.
+    - >-
+      No; the Clean Air Law lists only individuals and listed bodies.
+    - >-
+      Yes, but only with the Attorney General's consent.
+    - >-
+      No; local authorities may only file indictments.
+  correct: 1
+  explanation: >-
+    Clean Air Law s. 69 lists a person and the bodies in the Schedule to the 1992 Law; unlike Nuisances s. 11ה it omits local authorities.
+- id: m34-053
+  module: 34
+  lesson: "34.6"
+  subject: forum-remedy
+  difficulty: 3
+  question: >-
+    A resident wants ₪8,000 for a ruined garden caused by a plant's dust, and nothing else. Which route fits best?
+  options:
+    - >-
+      A 1992 Law injunction suit, which awards damages for any environmental hazard.
+    - >-
+      A tort claim, for example in small claims, for statutory breach or nuisance.
+    - >-
+      A private complaint, which pays compensation to the complainant automatically.
+    - >-
+      A petition to the High Court of Justice for compensation from the Ministry.
+  correct: 1
+  explanation: >-
+    The 1992 Law gives orders, and compensation only for a recurring hazard (s. 9); a money claim goes in tort.
+- id: m34-054
+  module: 34
+  lesson: "34.6"
+  subject: sanction-publication
+  difficulty: 2
+  question: >-
+    After a financial sanction under the Clean Air Law, what publicity follows?
+  options:
+    - >-
+      None; sanctions are confidential in order to protect the business's reputation.
+    - >-
+      Only the Knesset committee is told about it, in a closed and secret session.
+    - >-
+      Only the amount of the sanction is published, without the offender's name.
+    - >-
+      The offender must publish the sanction, its name, the breach and the amount.
+  correct: 3
+  explanation: >-
+    Section 60 requires the commissioner to order the offender to publish the sanction, its name, the breach and the amount.
+- id: m34-055
+  module: 34
+  lesson: "34.6"
+  subject: bremer
+  difficulty: 3
+  question: >-
+    Which principle from Bremer v. Tel Aviv-Jaffa applies to environmental enforcement?
+  options:
+    - >-
+      An authority must consider its other tools when its fines fail to work.
+    - >-
+      Courts may order the specific fine amount that must be imposed for each breach.
+    - >-
+      Municipal by-laws can never be enforced by closure orders, only by fines.
+    - >-
+      Residents must first sue the polluter before they petition against an authority.
+  correct: 0
+  explanation: >-
+    AAA 2469/12 held that relying only on fines that do not achieve the purpose, without considering other tools, is a defect warranting intervention.
+- id: m34-056
+  module: 34
+  lesson: "34.7"
+  subject: climate-status
+  difficulty: 1
+  question: >-
+    As of 18 October 2026, which is accurate about an Israeli climate statute?
+  options:
+    - >-
+      A Climate Law has been in force in Israel since January 2025, with targets.
+    - >-
+      The Knesset rejected the Climate Bill at its first reading in the plenum.
+    - >-
+      A Climate Bill was approved in committee in 2024; no enactment was found.
+    - >-
+      Climate targets have been set in the Clean Air Law ever since the year 2008.
+  correct: 2
+  explanation: >-
+    The Interior and Environmental Protection Committee approved a text for final readings on 3.12.2024; no final passage was found.
+- id: m34-057
+  module: 34
+  lesson: "34.7"
+  subject: bill-target
+  difficulty: 2
+  question: >-
+    What 2030 target did the committee text of December 2024 reportedly contain?
+  options:
+    - >-
+      43% relative to 2019
+    - >-
+      Net zero by 2030
+    - >-
+      50% relative to 1990
+    - >-
+      27% relative to 2015
+  correct: 3
+  explanation: >-
+    Reports of the committee vote describe 27% by 2030 relative to 2015, lowered from 30%.
+- id: m34-058
+  module: 34
+  lesson: "34.7"
+  subject: petition-remedy
+  difficulty: 2
+  question: >-
+    What do the petitioners in HCJ 7063/23 ask the Court to require?
+  options:
+    - >-
+      Closing all coal power plants by 2026.
+    - >-
+      Compensation for each petitioner for climate harm.
+    - >-
+      A target of 43% reduction by 2030 relative to 2019.
+    - >-
+      An immediate ban on natural-gas exports.
+  correct: 2
+  explanation: >-
+    The petition asks for an order requiring a target of 43% by 2030 relative to 2019.
+- id: m34-059
+  module: 34
+  lesson: "34.7"
+  subject: state-argument
+  difficulty: 3
+  question: >-
+    Which is the strongest form of the State's argument in HCJ 7063/23?
+  options:
+    - >-
+      The petitioners must first exhaust a class action in the district court before petitioning.
+    - >-
+      A national target spreads costs across the economy and belongs to elected bodies.
+    - >-
+      Israel has never signed any international climate agreement or made commitments.
+    - >-
+      Climate change is not supported by scientific evidence accepted in Israeli courts.
+  correct: 1
+  explanation: >-
+    As reported, the State argues non-justiciability: a complex economic and professional balance with no statutory duty and the legislature as the forum.
+- id: m34-060
+  module: 34
+  lesson: "34.7"
+  subject: petitioners-argument
+  difficulty: 3
+  question: >-
+    Which is the strongest form of the petitioners' argument?
+  options:
+    - >-
+      Rights to life and dignity are engaged, and courts review conduct on own commitments.
+    - >-
+      Courts may set any policy they consider wise whenever the Knesset is too slow to act.
+    - >-
+      The Clean Air Law expressly sets a 43% target, which the Government has ignored.
+    - >-
+      International law makes Israeli courts competent to legislate national targets.
+  correct: 0
+  explanation: >-
+    The petitioners frame review as ordinary administrative and constitutional review of the Government's conduct on its own commitments and rights.
+- id: m34-061
+  module: 34
+  lesson: "34.7"
+  subject: icj
+  difficulty: 2
+  question: >-
+    What is the legal nature of the ICJ's climate opinion of 23 July 2025?
+  options:
+    - >-
+      A binding judgment against named States that took part.
+    - >-
+      A Security Council resolution binding all UN members.
+    - >-
+      An advisory opinion requested by the UN General Assembly.
+    - >-
+      A new treaty that is open for signature by States.
+  correct: 2
+  explanation: >-
+    It is an advisory opinion delivered at the General Assembly's request; it does not bind as a judgment does.
+- id: m34-062
+  module: 34
+  lesson: "34.7"
+  subject: citizen-route
+  difficulty: 2
+  question: >-
+    Which route lets an individual influence the wording of the Climate Bill most directly?
+  options:
+    - >-
+      A written submission to the Knesset committee dealing with the bill.
+    - >-
+      A private complaint to the Minister under the Clean Air Law s. 69.
+    - >-
+      An FOI request to the Knesset for the full text of the bill.
+    - >-
+      Joining HCJ 7063/23 by sending a letter to the court registry.
+  correct: 0
+  explanation: >-
+    Bills are amended in committee; anyone may send a written submission.
+- id: m34-063
+  module: 34
+  lesson: "34.7"
+  subject: neutral-writing
+  difficulty: 3
+  question: >-
+    Spot the problem in this sentence of a submission: 'Israel's Climate Law, which requires 43% by 2030, is being ignored.'
+  options:
+    - >-
+      It should cite the ICJ opinion as binding authority on Israeli courts.
+    - >-
+      It is correct, but it is too short to be read by a committee.
+    - >-
+      It should not mention any figure at all in a committee submission.
+    - >-
+      It calls a bill a law and gives the petitioners' figure as the bill's.
+  correct: 3
+  explanation: >-
+    There is no climate statute in force; 43% is the petitioners' demand, while the committee text had 27%.
+- id: m34-064
+  module: 34
+  lesson: "34.8"
+  subject: lab-order
+  difficulty: 2
+  question: >-
+    In the lab, when should the 60-day notices be sent?
+  options:
+    - >-
+      On day 1, together with the complaint and the FOI request, to save time.
+    - >-
+      When a trigger set in advance is met, such as no inspection in 45 days.
+    - >-
+      Never; such notices are only for listed environmental organisations.
+    - >-
+      Only after a court has refused to grant an injunction in the matter.
+  correct: 1
+  explanation: >-
+    The notices are drafted and held, and sent when the authority fails to take real steps by a set trigger.
+- id: m34-065
+  module: 34
+  lesson: "34.8"
+  subject: decisions-law
+  difficulty: 1
+  question: >-
+    Within how many days must a public servant answer a written application to use a statutory power?
+  options:
+    - >-
+      30
+    - >-
+      45
+    - >-
+      60
+    - >-
+      90
+  correct: 1
+  explanation: >-
+    Decisions and Reasons Law s. 2(א) sets 45 days, with reasons for a refusal (s. 2א).
+- id: m34-066
+  module: 34
+  lesson: "34.8"
+  subject: complaint-quality
+  difficulty: 2
+  question: >-
+    Which complaint paragraph is best drafted?
+  options:
+    - >-
+      'The plant is poisoning all of us, and the Ministry has known about it for years.'
+    - >-
+      'We demand the immediate closure of the plant and the dismissal of the inspector.'
+    - >-
+      'Please do something about the pollution in our area as soon as you possibly can.'
+    - >-
+      'On 3.9.2026 at 23:10 tar smell entered our bedroom (exhibit 1); Nuisances Law s. 3.'
+  correct: 3
+  explanation: >-
+    A good complaint states a dated fact with an exhibit and the section breached; it avoids accusations and vague requests.
+- id: m34-067
+  module: 34
+  lesson: "34.8"
+  subject: foi-target
+  difficulty: 2
+  question: >-
+    Which FOI item fits a smell problem from a bakery not covered by the PRTR?
+  options:
+    - >-
+      Its business licence conditions and any smell measurements since 2025.
+    - >-
+      The bakery's PRTR annual reports for the last five reporting years.
+    - >-
+      The Ministry's professional opinion on whether the smell is harmful.
+    - >-
+      The bakery owner's personal tax returns and the business's accounts.
+  correct: 0
+  explanation: >-
+    A small bakery is unlikely to be a PRTR reporter; its licence conditions and measurements are existing records the authority holds.
+- id: m34-068
+  module: 34
+  lesson: "34.8"
+  subject: notice-addressees
+  difficulty: 3
+  question: >-
+    Spot the mistake: a s. 5 notice about illegal felling of protected trees is sent to the Minister of Environmental Protection and the developer.
+  options:
+    - >-
+      It should also have been sent to the police, as felling is an offence.
+    - >-
+      It should have been sent only to the developer, not to any minister.
+    - >-
+      For trees, 'the authority' is the Minister of Agriculture or his delegate.
+    - >-
+      Notices about protected trees need 90 days, not the usual 60 days.
+  correct: 2
+  explanation: >-
+    Section 1 of the 1992 Law makes the Minister of Agriculture the authority for harm to protected trees and forests.
+- id: m34-069
+  module: 34
+  lesson: "34.8"
+  subject: diary
+  difficulty: 1
+  question: >-
+    Which dates belong in the lab's escalation diary?
+  options:
+    - >-
+      Only the date on which the written complaint was sent to the authority.
+    - >-
+      Only the date on which the plant's emission permit is due to expire.
+    - >-
+      Only the dates of court hearings, once a suit or complaint is filed.
+    - >-
+      The 45-day, FOI, trigger and day-61 dates for every document sent.
+  correct: 3
+  explanation: >-
+    The diary holds every deadline that decides the next step.

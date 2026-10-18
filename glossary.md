@@ -18,6 +18,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אורגן** (Organ) — Organ of a company: general meeting, board, general manager (Companies Law s. 46).
 - **אזהרה** (Azhara) — The warning served on a debtor when an execution file opens (Execution Law s. 7).
 - **אזכור חוזר** (izkur chozer) — A repeat (short) citation.
+- **אחריות יצרן מורחבת** (achrayut yatzran murchevet) — Extended producer responsibility, the model of the Packaging Law 2011.
 - **אחריות מוגבלת** (Ahrayut mugbelet) — Limited liability of shareholders, set in the articles (Companies Law s. 35).
 - **אחריות קפידה** (Ahrayut kpida) — Strict liability (s. 22).
 - **אחריות שילוחית** (Achrayut shilucheet) — Vicarious liability of an employer or principal.
@@ -26,6 +27,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אי־התאמה יסודית** (I-hat'ama yesodit) — Fundamental (structural) non-conformity in load-bearing parts of a building.
 - **אי־התאמה נסתרת** (I-hat'ama nisteret) — Hidden non-conformity, not discoverable by reasonable inspection; notified on discovery (Sale Law s. 15).
 - **אי־כושר להשתכר** (I-kosher le-hishtaker) — Earning incapacity, set at 60%, 65%, 74% or 100%.
+- **איגוד ערים לאיכות הסביבה** (igud arim le-eichut ha-sviva) — Town association for environmental quality: a joint body of local authorities that enforces environmental statutes in its area.
 - **איומים** (Iyumim) — Threats (s. 192).
 - **איחוד עילות** (Ichud ilot) — Joinder of all causes of action from the same facts in one claim (reg. 24).
 - **איחוד תיקים** (ichud tikim) — Consolidation of a debtor's execution files under one payment order (ss. 74א–74טו1).
@@ -219,6 +221,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **היקש** (hekesh) — analogy, reasoning from a similar rule.
 - **היתר בנייה** (heter bniya) — Building permit required for building, adding, demolishing and listed works (s. 145).
 - **היתר פיטורים** (Heter piturim) — Ministerial permit needed to dismiss a pregnant employee or one after maternity leave or in fertility treatment.
+- **היתר פליטה** (heter plita) — Emission permit for a large stationary source under the Clean Air Law, with public comment on the draft.
+- **היתר רעלים** (heter ra'alim) — Poisons permit under the Hazardous Substances Law 1993 s. 3.
 - **הכחשה מפורשת ומפורטת** (Hakchasha meforeshet umefuretet) — Express and detailed denial required to avoid deemed admission (reg. 14(ב)).
 - **הכנה** (Hakhana) — Preparation, not punishable by itself.
 - **הכנסה הונית / פירותית** (hachnasa honit / perotit) — Capital versus revenue income; distinguished by the Magid indications.
@@ -296,6 +300,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הצמדה** (Hatzmada) — Attachment of a specific part of the common property to a flat by the bylaws (Land Law s. 55(ג)).
 - **הצעה** (hatza'a) — offer; a communication showing intent to be bound and certain enough for acceptance (Contracts Law s. 2).
 - **הצעות חוק (ה"ח)** (Hatza'ot Chok) — The Reshumot series for bills, with their explanatory notes.
+- **הצעת חוק האקלים** (hatza'at chok ha-aklim) — The government Climate Bill, approved in committee for final readings on 3.12.2024; not reported enacted as of 18.10.2026.
 - **הצעת חוק מטעם ועדה** (Hatza'at hok mi-ta'am va'ada) — Committee bill, allowed only on subjects listed in Rules s. 80.
 - **הצעת חוק ממשלתית** (Hatza'at hok memshaltit) — Government bill.
 - **הצעת חוק פרטית** (Hatza'at hok pratit) — Private member's bill, tabled by an MK who is not a minister or deputy minister; it passes a preliminary reading before first reading.
@@ -497,6 +502,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **כללי האזכור האחיד** (klalei ha'izkur ha'achid) — The uniform citation rules for Israeli legal writing (third edition, 2021).
 - **כללים ועקרונות** (Klalim ve-ekronot) — Rules and principles; in Dworkin's account rules apply all or nothing, principles have weight.
 - **כללים ראשוניים ומשניים** (Klalim rishoniyim u-mishniyim) — Primary rules (duties) and secondary rules (recognition, change, adjudication) in Hart's theory.
+- **כמות הסף** (kamut ha-saf) — Reporting threshold in the PRTR Law; releases below it are reported as existing but without quantity.
 - **כפייה** (kfiya) — duress (s. 17).
 - **כריכה** (Krikha) — Joinder of property, maintenance or custody to a divorce claim in a religious court.
 - **כשרות להעיד** (kashrut le'hayid) — Competence to testify; everyone is competent, with criminal-law exceptions for spouses, parents and children (Evidence Ordinance ss. 2–5).
@@ -556,6 +562,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מחלקה לשירותים חברתיים** (Mahlaka le-sherutim hevratiyim) — Municipal social services department.
 - **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
 - **מידע להיתר** (meida le-heter) — Official planning information for a plot given by the committee engineer before a permit application (s. 145(א1)).
+- **מידע על איכות הסביבה** (meida al eichut ha-sviva) — Environmental information (FOI Law s. 6א): data on substances released to the environment and noise, smell and radiation measurements outside the private domain, which authorities must publish proactively.
 - **מידע פלילי** (meida plili) — Criminal information: the contents of the criminal register and the police register (Criminal Information Law 2019 s. 1).
 - **מידתיות** (Midatiyut) — Proportionality; with immediacy and necessity, one of the conditions of self-defence and necessity. A defence does not apply where the act was not reasonable in the circumstances (s. 34טז).
 - **מידתיות במובן הצר** (Midatiyut ba-muvan ha-tzar) — Proportionality in the narrow sense: the benefit is in reasonable relation to the harm.
@@ -605,6 +612,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מעצר בפיקוח אלקטרוני** (ma'atzar befikuach elektroni) — Electronically monitored detention, with the defendant's consent (Arrests Law s. 22ב).
 - **מעצר ימים** (ma'atzar yamim) — Remand before indictment to complete the investigation, up to 15 days per order (Arrests Law ss. 13, 17).
 - **מעצר עד תום ההליכים** (ma'atzar ad tom hahalichim) — Detention until the end of proceedings after an indictment (Arrests Law s. 21).
+- **מפגע סביבתי** (mifga svivati) — Environmental hazard: under the Civil Claims Law 1992 s. 1, air, noise, smell, water, sea, waste, hazardous-substance, radiation, asbestos and nature harms contrary to a law, licence or permit, or harmful to health or causing real suffering.
+- **מפגע סביבתי חוזר** (mifga svivati chozer) — Recurring environmental hazard (Civil Claims Law s. 9): within two years of an order, suit without notice and with compensation.
+- **מפקח הגנת הסביבה** (mefakeach haganat ha-sviva) — Environmental protection inspector of the Ministry, with powers under the Enforcement Powers Law 2011.
 - **מפר תמים** (mefer tamim) — Innocent infringer: one who neither knew nor should have known that copyright existed; owes no damages (s. 58).
 - **מפרט** (Mifrat) — The statutory specification a developer must attach to a sale contract (Sale (Apartments) Law ss. 2–3).
 - **מפת דרכים** (Mapat drachim) — Roadmap: the passage at the end of an introduction that says what each part of the paper does.
@@ -620,6 +630,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מרקם פתוח** (Mirkam patu'ah) — Open texture: the zone of doubtful cases (penumbra) around a rule's clear core.
 - **מרשם החייבים המשתמטים** (mirsham hachayavim hamishtamtim) — Register of debtors with means who evade payment (Execution Law s. 66ה).
 - **מרשם נכסים ומסמכי בעלות** (mirsham nekhasim u-mismakhei ba'alut) — Asset and title register: the clinic file's list of each asset, where it is recorded, its identifiers and the document proving the registered owner.
+- **מרשם פליטות והעברות לסביבה (מפל״ס)** (mirsham plitot ve-ha'avarot la-sviva, MAFLAS) — Pollutant release and transfer register (PRTR) under the 2012 Law; published free online by 1 September each year.
 - **משדל** (Meshadel) — Inducer (instigator) (s. 30).
 - **משכון** (Mashkon) — Pledge: a charge on an asset as security for a debt (Pledges Law s. 1).
 - **משנה** (Mishnah) — The first code of the Oral Law, edited about 200 CE.
@@ -638,6 +649,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מתלונן** (Mitlonen) — Complainant.
 - **מתן תוקף של פסק דין** (matan tokef shel psak din) — Giving an agreement the force of a judgment.
 - **מתנגד עקבי** (Mitnaged akavi) — Persistent objector: a State that objected to a customary rule while it formed and is not bound by it.
+- **נאמן ניקיון** (ne'eman nikayon) — Cleanliness trustee: a volunteer appointed under the Cleanliness Law s. 12(ג) who may require an offender to identify himself.
 - **נבצרות** (Nivtzarut) — Incapacity of the Prime Minister (Basic Law: The Government s. 16).
 - **נגישות למשפט** (Negishut la-mishpat) — Access to justice: people's ability to get a fair, quick and affordable answer to their legal needs.
 - **נוסח חדש** (nusach chadash) — An official new Hebrew version of a Mandate-era law.
@@ -747,6 +759,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עסקת מכר מרחוק** (iskat mekher me-rahok) — distance sale (Consumer Protection Law s. 14ג).
 - **עצימת עיניים** (Atzimat einayim) — Wilful blindness, treated as awareness (s. 20(ג)(1)).
 - **עקרון האשמה** (Ekron ha-ashma) — Culpability principle: no punishment without personal fault.
+- **עקרון הזהירות המונעת** (ikron ha-zehirut ha-mona'at) — Precautionary principle, written into the Clean Air Law s. 1 and the PRTR Law s. 1.
 - **עקרון החוקיות** (Ekron ha-hukiyut) — Principle of legality: no offence and no punishment except by or under a law (Penal Law s. 1).
 - **עקרון החוקיות המינהלית** (Ekron ha-hukiyut ha-minhalit) — Principle of administrative legality: an authority may act only where the law empowers it.
 - **עקרון המשלימות** (Ekron ha-mashlimut) — Complementarity: the ICC acts only where national courts do not genuinely investigate or prosecute.
@@ -796,6 +809,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פיצויים ללא הוכחת נזק** (pitzuyim lelo hochachat nezek) — Statutory damages: damages up to a statutory ceiling per infringement without proof of loss (Copyright Law s. 56; CTL s. 13; Designs Law s. 75).
 - **פיצויים מוסכמים** (pitzuyim muskamim) — agreed (liquidated) damages (s. 15).
 - **פיצול סעדים** (Pitzul sa'adim) — Leave to claim remedies from one cause separately (reg. 25(ב)).
+- **פיקדון** (pikadon) — Deposit on beverage containers under the Deposit Law 1999; covers containers of 1.5–5 litres since 1.12.2021.
 - **פירוק השיתוף** (Peruk ha-shituf) — Dissolution of co-ownership, by division in kind, sale, or conversion to a condominium (Land Law ss. 37–43).
 - **פל״א** (Pla) — The police file number given to a complaint.
 - **פלט** (pelet) — Computer output (Computers Law s. 1); can be an institutional record if s. 36(א)(3) is met.
@@ -900,6 +914,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **רישיון ייחודי** (rishayon yihudi) — Exclusive licence: requires writing, like an assignment (s. 37(ג)); its holder may sue (s. 54).
 - **רכוש משותף** (Rekhush meshutaf) — Common property of a condominium: everything not registered as a flat (Land Law s. 52).
 - **רס גסטה** (res gestae) — Spontaneous statements made in the excitement of an event, admitted as an exception to hearsay.
+- **רעש חזק או בלתי סביר** (ra'ash chazak o bilti savir) — Strong or unreasonable noise, prohibited by the Prevention of Nuisances Law 1961 s. 2 (s. 3: smell).
 - **רצח בנסיבות מחמירות** (Retzah be-nesibot mahmirot) — Murder in aggravating circumstances (s. 301א).
 - **רשומה מוסדית** (reshuma mosadit) — Institutional record: a document, including computer output, made by an institution in its ordinary course, admissible to prove its content under s. 36.
 - **רשומות** (Reshumot) — The official gazette in which laws, regulations and notices are published; the official text of legislation.
@@ -994,6 +1009,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תיאום מס** (te'um mas) — Tax coordination between several employers.
 - **תיעוד חזותי** (ti'ud chazuti) — Video recording of a suspect's interrogation, required at the station for offences of ten years or more (Interrogation of Suspects Law s. 7).
 - **תיק עובדות** (Tik uvdot) — Facts file: the working file for one dispute (cover page, parties, chronology, exhibits, remedy).
+- **תיקון המעוות** (tikun ha-me'uvat) — Restoring the previous state; a remedy under the Civil Claims Law 1992 ss. 2, 8.
 - **תיקון כתב טענות** (Tikun ktav ta'anot) — Amendment of a pleading (regs 46–47).
 - **תיקון עקיף** (tikkun akif) — An indirect amendment: a change to one law made inside another law.
 - **תכלית אובייקטיבית** (tachlit obyektivit) — Objective purpose: the purpose reflecting the legal system's values.

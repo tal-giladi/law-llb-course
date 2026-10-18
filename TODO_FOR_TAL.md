@@ -31,3 +31,4 @@
 - Module 31: confirm online land-registration for unrepresented heirs and who may verify signatures on the paper request.
 - Module 33: seven class-action rulings from secondary sources; Class Actions Amendment 16 described as committee-approved only (plenary vote unconfirmed); review the 2026 Attorney General Law mention for neutrality.
 - Module 32: IP case captions rendered from English translations; conflict on whether individuals may still file trademarks on paper.
+- Module 34: Climate Bill status after December 2024 and HCJ 7063/23 details from press reports; review module 34 for neutrality on climate.

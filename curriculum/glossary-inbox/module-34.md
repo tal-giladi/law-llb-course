@@ -1,0 +1,18 @@
+- **מפגע סביבתי** (mifga svivati) — Environmental hazard: under the Civil Claims Law 1992 s. 1, air, noise, smell, water, sea, waste, hazardous-substance, radiation, asbestos and nature harms contrary to a law, licence or permit, or harmful to health or causing real suffering.
+- **רעש חזק או בלתי סביר** (ra'ash chazak o bilti savir) — Strong or unreasonable noise, prohibited by the Prevention of Nuisances Law 1961 s. 2 (s. 3: smell).
+- **איגוד ערים לאיכות הסביבה** (igud arim le-eichut ha-sviva) — Town association for environmental quality: a joint body of local authorities that enforces environmental statutes in its area.
+- **מפקח הגנת הסביבה** (mefakeach haganat ha-sviva) — Environmental protection inspector of the Ministry, with powers under the Enforcement Powers Law 2011.
+- **עיצום כספי** (itzum kaspi) — Financial (administrative) sanction imposed by a regulator after a notice of intent and a right to argue.
+- **קובלנה** (kuvlana) — Private criminal complaint; in environmental statutes open to a person harmed, a local authority or a listed body after 60 days' notice to the Minister.
+- **תיקון המעוות** (tikun ha-me'uvat) — Restoring the previous state; a remedy under the Civil Claims Law 1992 ss. 2, 8.
+- **מפגע סביבתי חוזר** (mifga svivati chozer) — Recurring environmental hazard (Civil Claims Law s. 9): within two years of an order, suit without notice and with compensation.
+- **מרשם פליטות והעברות לסביבה (מפל״ס)** (mirsham plitot ve-ha'avarot la-sviva, MAFLAS) — Pollutant release and transfer register (PRTR) under the 2012 Law; published free online by 1 September each year.
+- **כמות הסף** (kamut ha-saf) — Reporting threshold in the PRTR Law; releases below it are reported as existing but without quantity.
+- **מידע על איכות הסביבה** (meida al eichut ha-sviva) — Environmental information (FOI Law s. 6א): data on substances released to the environment and noise, smell and radiation measurements outside the private domain, which authorities must publish proactively.
+- **היתר פליטה** (heter plita) — Emission permit for a large stationary source under the Clean Air Law, with public comment on the draft.
+- **אחריות יצרן מורחבת** (achrayut yatzran murchevet) — Extended producer responsibility, the model of the Packaging Law 2011.
+- **פיקדון** (pikadon) — Deposit on beverage containers under the Deposit Law 1999; covers containers of 1.5–5 litres since 1.12.2021.
+- **נאמן ניקיון** (ne'eman nikayon) — Cleanliness trustee: a volunteer appointed under the Cleanliness Law s. 12(ג) who may require an offender to identify himself.
+- **היתר רעלים** (heter ra'alim) — Poisons permit under the Hazardous Substances Law 1993 s. 3.
+- **הצעת חוק האקלים** (hatza'at chok ha-aklim) — The government Climate Bill, approved in committee for final readings on 3.12.2024; not reported enacted as of 18.10.2026.
+- **עקרון הזהירות המונעת** (ikron ha-zehirut ha-mona'at) — Precautionary principle, written into the Clean Air Law s. 1 and the PRTR Law s. 1.
