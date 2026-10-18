@@ -15,6 +15,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Bounced-cheque response kit (מענה לדרישה על שיק שחזר וערעור על הגבלת חשבון)](bounced-cheque-response-kit.md)
 - [Case brief (תקציר פסק דין)](case-brief.md)
 - [Caveat request checklist (בקשה לרישום הערת אזהרה – רשימת בדיקה)](caveat-request-checklist.md)
+- [Class action: objection to a settlement and exit notice (התנגדות להסדר פשרה והודעת יציאה מן הקבוצה)](class-action-objection-and-opt-out.md)
 - [Clinic case file (תיק עבודה לסכסוך: כרטיס תיק, כרונולוגיה, נספחים, יומן)](clinic-case-file.md)
 - [Comment on a draft bill or regulation (הערות לתזכיר חוק או לטיוטת תקנות)](comment-on-draft-legislation.md)
 - [Company registration checklist (רישום חברה – רשימת בדיקה)](company-registration-checklist.md)

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A court finds that a supermarket chain overcharged cash customers for seven years, but there are
+    no records of who they were. Which remedy fits the Law best?
+  options:
+    - >-
+      Exemplary damages to deter the chain, paid to the representative plaintiff for the class.
+    - >-
+      Dismissal, because a class action needs identified members who can be paid individually.
+    - >-
+      An order that each customer prove entitlement with receipts, with no time limit for claims.
+    - >-
+      Relief for the public under s. 20(ג), paid to the s. 27א fund for a related purpose.
+  correct: 3
+  explanation: >-
+    Where paying members is impractical because they cannot be identified at reasonable cost, s. 20(ג)
+    allows relief for the class or the public, and money for the public goes to the s. 27א fund,
+    earmarked close to the subject. Exemplary damages are barred by s. 20(ה).
+- id: q2
+  question: >-
+    A settlement gives each member a ₪20 voucher valid for six months, valued at ₪4 million in total.
+    The agreed recommendation is a fee of ₪900,000. What is the strongest objection to the fee?
+  options:
+    - >-
+      The fee may not exceed the representative plaintiff's award under s. 22.
+    - >-
+      The fee should reflect the benefit actually delivered, and voucher take-up may be far lower.
+    - >-
+      The parties may not recommend any fee at all, so the recommendation is void.
+    - >-
+      Fees in class actions are fixed by the Bar Association's tariff, which caps them lower.
+  correct: 1
+  explanation: >-
+    Under s. 23(ב)(1) and the Reichert approach the fee follows the benefit to the class. A voucher's
+    face value overstates that benefit if many members never use it.
+- id: q3
+  question: >-
+    A resident wins a class action under item 11 against a water corporation for an unlawful charge
+    collected for ten years. For how long can the class recover?
+  options:
+    - >-
+      For the 24 months before the application; each member may sue personally for earlier years.
+    - >-
+      For the full ten years, because restitution of unlawful charges has no time limit.
+    - >-
+      For seven years, the general limitation period, counted back from the judgment.
+    - >-
+      For one year only, the period in which an objection to a charge may be filed.
+  correct: 0
+  explanation: >-
+    Section 21 limits class restitution against an authority to the 24 months before the application
+    was filed, while preserving each member's right to sue for further periods.
+- id: q4
+  question: >-
+    An environmental organisation needs money for expert opinions to bring an important class action.
+    Where should it apply?
+  options:
+    - >-
+      The s. 27א fund, which distributes money awarded as relief to public purposes.
+    - >-
+      The Administrator General, who advances litigation costs to public-interest plaintiffs.
+    - >-
+      The s. 27 fund for financing class actions, run by a board appointed by the Minister.
+    - >-
+      The court, which may order the defendant to fund the applicant's experts in advance.
+  correct: 2
+  explanation: >-
+    The s. 27 fund exists to help representative plaintiffs finance applications of public and social
+    importance; the s. 27א fund distributes residual and public relief after cases end.

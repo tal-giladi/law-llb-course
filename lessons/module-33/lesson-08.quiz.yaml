@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    Which point is best suited to an objection to a class settlement?
+  options:
+    - >-
+      "The company behaved badly and deserves a much larger penalty than this settlement."
+    - >-
+      "Former customers get nothing yet release their claims; I ask for a cash credit to them."
+    - >-
+      "Class counsel acted in bad faith, as everyone in the industry knows."
+    - >-
+      "I did not receive the notice personally, so the settlement cannot bind anyone."
+  correct: 1
+  explanation: >-
+    A strong point names a term, its effect on members, and a cure the court can impose under
+    s. 19(ד)(1). Penalties, unproven accusations and a single missed notice are weak grounds.
+- id: q2
+  question: >-
+    Two weeks after you object, the defendant's lawyer offers you ₪2,000 to withdraw your objection.
+    What does the Law say?
+  options:
+    - >-
+      You may accept, because an objector is not a representative and owes the class nothing.
+    - >-
+      You may accept if you disclose the payment to class counsel within seven days.
+    - >-
+      You may not withdraw or take any benefit in connection with it without the court's approval.
+    - >-
+      You may accept, but the payment must be deducted from class counsel's fee.
+  correct: 2
+  explanation: >-
+    Section 18(ד1) bars an objector from withdrawing, or receiving any benefit in connection with the
+    objection, without the court's approval, and requires a full-disclosure affidavit.
+- id: q3
+  question: >-
+    What should the affidavit attached to your objection verify?
+  options:
+    - >-
+      The facts you know personally, such as your membership and that you received no benefit.
+    - >-
+      Your legal argument that the release is wider than s. 18(ז)(1) permits.
+    - >-
+      The value of the settlement benefits as calculated by the parties' expert.
+    - >-
+      The facts stated in the settlement application, so the court can rely on them.
+  correct: 0
+  explanation: >-
+    An affidavit verifies facts within the deponent's knowledge. Legal argument belongs in the
+    objection itself, and you cannot verify facts you learned only from the parties' papers.
+- id: q4
+  question: >-
+    The court accepts two of your four objection points and makes approval conditional on them. What
+    may follow for you?
+  options:
+    - >-
+      You become the representative plaintiff in place of the applicant.
+    - >-
+      You must pay half the examiner's fee because your objection prolonged the case.
+    - >-
+      You may now appeal the approval as of right, since you were partly successful.
+    - >-
+      The court may award you an award, weighing the benefit your objection brought the class.
+  correct: 3
+  explanation: >-
+    Under s. 18(ד1), if the court accepts an objection in whole or part it may award the objector,
+    considering the benefit the objection brought the members.

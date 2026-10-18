@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You received 40 spam SMS messages from a retailer. The registry shows a pending, uncertified
+    class action about the same messages. What is usually the best move for your own money?
+  options:
+    - >-
+      Wait for the class action, because your personal claim is frozen until it is decided.
+    - >-
+      File a small claim for statutory damages now, and opt out if the class is later certified.
+    - >-
+      Complain to the Ministry of Communications and ask it to pay you the statutory damages.
+    - >-
+      Ask to join the class action as a second applicant to share in the representative's award.
+  correct: 1
+  explanation: >-
+    A pending application does not bar a personal suit. Statutory damages per message are available
+    in your own claim, not in a class action (s. 20(ה)); if the class is certified, s. 11 lets you opt out.
+- id: q2
+  question: >-
+    An application for certification covering your claim was filed in January 2024 and refused in a
+    final decision in March 2026. Your own limitation period would otherwise have ended in May 2026.
+    Until when can you sue?
+  options:
+    - >-
+      Until May 2026, because a refused application has no effect on limitation.
+    - >-
+      Until January 2031, seven years from the filing of the application.
+    - >-
+      At least until March 2027, one year from the refusal becoming final.
+    - >-
+      Indefinitely, because the application stopped limitation permanently.
+  correct: 2
+  explanation: >-
+    Section 26(ב) provides that after a refusal a member's limitation does not end before one year from
+    the decision becoming final, provided it had not expired when the application was filed.
+- id: q3
+  question: >-
+    A consumer saw a misleading label once but cannot show she relied on it. A class action raising
+    the same label is pending. Which statement is most accurate?
+  options:
+    - >-
+      Her own claim for damages is weak under Barazani, but the class may rely on group causation.
+    - >-
+      Her own claim is stronger than the class claim, because individual claims need no causation.
+    - >-
+      Neither route can succeed, because causation must always be proved person by person.
+    - >-
+      She should complain to the regulator, which awards damages without proof of causation.
+  correct: 0
+  explanation: >-
+    Barazani requires a personal claimant to show he was misled; Tnuva allowed causation to be shown at
+    the group level in a class action. Regulators generally do not award damages.
+- id: q4
+  question: >-
+    A bank overcharged you ₪18 once. A certified class action covers it and a settlement gives each
+    customer an automatic ₪12 credit. What is the sensible choice?
+  options:
+    - >-
+      Ask to leave the settlement and file a small claim for ₪18 plus exemplary damages.
+    - >-
+      Object to the settlement on the ground that ₪12 is less than ₪18.
+    - >-
+      Opt out under s. 11, since the certification opt-out reopens on settlement.
+    - >-
+      Stay in the class and take the credit, unless the settlement has a real defect.
+  correct: 3
+  explanation: >-
+    For a tiny loss, leaving the class costs more than it gains; objecting only because the sum is a
+    compromise is weak. Object if there is a real defect (scope of release, fee, unidentified members).

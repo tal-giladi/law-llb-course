@@ -1,0 +1,173 @@
+- id: q1
+  question: >-
+    A tenants' association wants to bring a class action against a private landlord company that
+    charged all its tenants an unlawful "maintenance surcharge". Which statement is right?
+  options:
+    - >-
+      No class action is possible, because rental disputes are not in the Second Schedule at all.
+    - >-
+      The association may apply only with the Attorney General's written consent.
+    - >-
+      If the landlord is a business dealing with customers, item 1 may apply; the association needs s. 4(א)(3).
+    - >-
+      The association may apply as of right, because organisations need not show any difficulty.
+  correct: 2
+  explanation: >-
+    Item 1 covers claims against a business about a matter with a customer. An organisation must meet
+    s. 2 and show it is hard for an individual to apply (s. 4(א)(3)); only the Consumer Council is exempt.
+- id: q2
+  question: >-
+    A court finds strong common questions in an application against an insurer, but the applicant's
+    lawyer has copied large parts of another firm's pending application. What can the court do?
+  options:
+    - >-
+      Dismiss the application outright, since bad faith ends any class action.
+    - >-
+      Certify only if the defendant consents, because adequacy is the defendant's right to raise.
+    - >-
+      Certify and refer counsel to the Bar, leaving him in charge of the class.
+    - >-
+      Transfer it to the earlier case's court and consider joining or replacing counsel (ss. 7, 8(ג)).
+  correct: 3
+  explanation: >-
+    Section 7 deals with similar pending applications, and s. 8(ג)(1) lets the court cure defects in
+    representation by adding or replacing the representative or counsel instead of dismissing.
+- id: q3
+  question: >-
+    A member reads a settlement notice: members receive nothing; ₪5 million goes to the s. 27א fund;
+    the defendant is a telecom operator with full billing records. What is the strongest objection?
+  options:
+    - >-
+      Paying members is practical, so relief for the public under s. 20(ג) is not justified.
+    - >-
+      The fund may receive money only after a judgment, never under a settlement.
+    - >-
+      The court must award exemplary damages because the operator profited knowingly.
+    - >-
+      The settlement must be rejected because public relief always favours the defendant.
+  correct: 0
+  explanation: >-
+    Section 20(ג)(1) allows relief for the public where paying members is impractical, for example when
+    they cannot be identified at reasonable cost. Billing records undercut that premise. Section 19(ד2)
+    applies s. 20 to settlements; exemplary damages are barred by s. 20(ה).
+- id: q4
+  question: >-
+    A certification decision against a gym chain was published on 1 March. On 10 April a member who
+    plans to sue alone for a large personal loss wants out. What should she file?
+  options:
+    - >-
+      An objection under s. 18(ד), which automatically removes her from the class.
+    - >-
+      A notice of exit on Form 1 under s. 11, within 45 days of publication.
+    - >-
+      Nothing; members who sue personally are excluded from the class automatically.
+    - >-
+      A request for leave to appeal the certification decision.
+  correct: 1
+  explanation: >-
+    After certification, s. 11 lets a member give notice that she does not want to be included, within
+    45 days of publication, using Form 1 (reg. 7). Her limitation then runs at least a year from notice.
+- id: q5
+  question: >-
+    The parties' settlement includes a clause: "The defendant will pay class counsel ₪500,000 within
+    30 days of approval." How should the court treat it?
+  options:
+    - >-
+      As binding, because the defendant is free to pay its opponent's lawyer whatever it agrees.
+    - >-
+      As valid only if the examiner confirms the amount is reasonable.
+    - >-
+      As improper; the parties may only recommend, and the court fixes the fee under ss. 19(ו), 23.
+    - >-
+      As valid if the notice to members mentioned the sum and no one objected.
+  correct: 2
+  explanation: >-
+    Section 18(ז)(2) bars a settlement from fixing the award or fee. The parties may submit an agreed
+    recommendation; the court sets the fee itself and may make it conditional on performance.
+- id: q6
+  question: >-
+    A municipality is sued under item 11 for an unlawful levy collected for six years. The class wins.
+    Which result is consistent with the Law?
+  options:
+    - >-
+      Restitution to the class for 24 months before filing; members may sue personally for earlier years.
+    - >-
+      Restitution for six years plus exemplary damages to deter the municipality.
+    - >-
+      No restitution at all, because public authorities are immune from class actions for compulsory payments.
+    - >-
+      Restitution only to residents who proved damage beyond the levy itself.
+  correct: 0
+  explanation: >-
+    Section 21 caps class restitution against an authority at the 24 months before the application,
+    preserving personal claims for further periods. Exemplary damages are barred (s. 20(ה)).
+- id: q7
+  question: >-
+    A disability-rights organisation wants a change in a ministry's policy on accessible public
+    transport timetables. No money is sought. Which route fits best?
+  options:
+    - >-
+      A class action under item 9, since accessibility claims need no proof of damage and pay no court fee.
+    - >-
+      A petition, with the organisation as petitioner, after a prior demand to the ministry.
+    - >-
+      An objection under s. 18(ד) in an existing consumer class action.
+    - >-
+      An application to the s. 27א fund to finance the change.
+  correct: 1
+  explanation: >-
+    The goal is a change in government action. Public-interest standing (Ressler; the Internet
+    Association case) opens the petition route. A class action is mainly a damages tool, and
+    s. 3(א) limits claims against authorities.
+- id: q8
+  question: >-
+    A consumer's loss from a misleading ad she personally relied on is ₪2,800, and the breach is on
+    the Consumer Protection Law s. 31א list. A class action on the same ad is pending, not certified.
+    What is the best plan?
+  options:
+    - >-
+      Stay in the class; a personal claim is barred while an application is pending.
+    - >-
+      Join the class action as an applicant so she can claim exemplary damages through it.
+    - >-
+      Complain to the Consumer Protection Authority and ask it to order her refund.
+    - >-
+      Send the written request and sue in small claims; opt out if the class is certified.
+  correct: 3
+  explanation: >-
+    A pending application does not bar a personal claim. Exemplary damages are available in her own
+    claim after a written request, but not in a class action (s. 20(ה)); s. 11 lets her opt out later.
+- id: q9
+  question: >-
+    An objector receives a call from the defendant offering to "cover her expenses" if she withdraws
+    her objection. What should she do?
+  options:
+    - >-
+      Accept and withdraw, since objectors owe nothing to the class.
+    - >-
+      Accept, provided the sum is below the representative plaintiff's award.
+    - >-
+      Refuse, or ask the court for approval with full disclosure, as s. 18(ד1) requires.
+    - >-
+      Accept and inform the examiner, who will adjust the fee accordingly.
+  correct: 2
+  explanation: >-
+    Section 18(ד1) bars an objector from withdrawing or receiving any benefit in connection with the
+    objection without the court's approval, supported by a full-disclosure affidavit.
+- id: q10
+  question: >-
+    A judge must decide whether to approve a settlement reached before certification. Which is NOT
+    part of the statutory test?
+  options:
+    - >-
+      Whether the claim prima facie meets the certification conditions of ss. 3, 4 and 8(א).
+    - >-
+      Whether the settlement is appropriate, fair and reasonable for the members.
+    - >-
+      The gap between the settlement and what the class might have won, and the objections.
+    - >-
+      Whether the defendant admits liability for the conduct described in the application.
+  correct: 3
+  explanation: >-
+    Section 19(א) and (ג)(2) set the test; settlements are typically made without admission, and no
+    admission is required. The other three are express statutory considerations.

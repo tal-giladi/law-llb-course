@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    At the certification hearing the judge finds strong common questions, but the applicant never
+    bought the product himself. Under s. 8(ג)(2), what should the court do?
+  options:
+    - >-
+      Dismiss the application, since standing under s. 4 is a threshold condition.
+    - >-
+      Certify only the applicant's personal claim and strike out the class part.
+    - >-
+      Postpone the hearing until the applicant buys the product and suffers damage.
+    - >-
+      Certify the class action but order that the representative plaintiff be replaced.
+  correct: 3
+  explanation: >-
+    When all s. 8(א) conditions are met but the applicant lacks the s. 4(א) qualifications, s. 8(ג)(2)
+    tells the court to certify and order a replacement representative.
+- id: q2
+  question: >-
+    A bank argues that a class action over a disputed fee should not be certified because each
+    customer's loss is only a few shekels. After Zeligman (2021), how is that argument handled?
+  options:
+    - >-
+      It is a complete defence under the de minimis rule, which applies to every claim.
+    - >-
+      It is weighed under s. 8(א)(2), whether a class action is the efficient and fair way.
+    - >-
+      It is irrelevant, because small harms are exactly what class actions exist for.
+    - >-
+      It goes only to the fee, which the court reduces when individual losses are small.
+  correct: 1
+  explanation: >-
+    The further hearing in Zeligman held that the de minimis defence does not apply as such in class
+    actions, because triviality can be weighed inside the efficiency-and-fairness condition of s. 8(א)(2).
+- id: q3
+  question: >-
+    Before certification, the applicant and the respondent company agree that the applicant will
+    withdraw and receive ₪15,000 "for his trouble". What does the Law require?
+  options:
+    - >-
+      Court approval of both the withdrawal and the payment, with a full-disclosure affidavit.
+    - >-
+      Nothing, because before certification there is no class and the claim is personal.
+    - >-
+      Approval only of the payment, since a withdrawal before certification is automatic.
+    - >-
+      Notice to the Director of Courts, after which the withdrawal takes effect.
+  correct: 0
+  explanation: >-
+    Section 16(א) bars withdrawal and any benefit in connection with it without court approval, and
+    s. 16(ב) with reg. 11(א) requires an affidavit disclosing every material detail and benefit.
+- id: q4
+  question: >-
+    A municipality is sued under item 11 for an unlawful parking charge. Sixty days after filing it
+    announces and proves it has stopped collecting the charge. What follows?
+  options:
+    - >-
+      The court must certify, because the stop is an admission that the charge was unlawful.
+    - >-
+      The court may certify only if the class proves damage beyond the charge itself.
+    - >-
+      The court will not certify, but may still award the applicant and counsel under s. 9(ג).
+    - >-
+      The court must transfer the case to the High Court of Justice as a public petition.
+  correct: 2
+  explanation: >-
+    Section 9 gives an authority ninety days from filing; if it stops the charge by then, the court does
+    not certify, but it may award an award and a fee for having prompted the change.

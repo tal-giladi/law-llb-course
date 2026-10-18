@@ -1,0 +1,1328 @@
+- id: m33-001
+  module: 33
+  lesson: "33.1"
+  subject: class-action-definition
+  difficulty: 1
+  question: >-
+    Which feature defines a class action under s. 2 of the Class Actions Law?
+  options:
+    - >-
+      It is brought by a lawyer in his own name for the benefit of the public at large.
+    - >-
+      It is conducted for a group that did not authorise the representative, on common questions.
+    - >-
+      It is filed jointly by at least ten plaintiffs who each signed a power of attorney.
+    - >-
+      It is a claim brought by a regulator on behalf of consumers who complained to it.
+  correct: 1
+  explanation: >-
+    Section 2 defines a class action as a claim conducted on behalf of a group of people who did not
+    authorise the representative plaintiff, raising substantial common questions of fact or law.
+- id: m33-002
+  module: 33
+  lesson: "33.1"
+  subject: second-schedule
+  difficulty: 1
+  question: >-
+    Which of these claims appears in the Second Schedule?
+  options:
+    - >-
+      A claim against a neighbour for noise from a private party held every weekend.
+    - >-
+      A claim against a political party for misleading election promises.
+    - >-
+      A claim by a tenant against a private individual landlord over a single flat.
+    - >-
+      A claim under the Prohibition of Discrimination in Products and Services Law.
+  correct: 3
+  explanation: >-
+    Item 7 covers claims under the Prohibition of Discrimination in Products, Services and Entry to
+    Places of Entertainment and Public Places Law 2000. The others fit no item.
+- id: m33-003
+  module: 33
+  lesson: "33.1"
+  subject: registry
+  difficulty: 1
+  question: >-
+    Under s. 28, who keeps the Class Actions Registry and who may read it?
+  options:
+    - >-
+      The Director of Courts keeps it, and it is open to the public on the courts' website.
+    - >-
+      The Attorney General keeps it, and only parties and their lawyers may read it.
+    - >-
+      The Israel Bar keeps it, and members of the public may read it on payment of a fee.
+    - >-
+      Each district court keeps its own, open to the public at the court registry only.
+  correct: 0
+  explanation: >-
+    Section 28(א) puts the registry with the Director of Courts and makes it and the documents filed
+    with notices open to the public on the courts' website.
+- id: m33-004
+  module: 33
+  lesson: "33.1"
+  subject: item-11
+  difficulty: 2
+  question: >-
+    A regional water corporation collected a sewage fee without legal basis. A resident's lawyer files
+    under item 1, claiming the corporation is a business. What is the likely problem?
+  options:
+    - >-
+      Water corporations are exempt from class actions under s. 8(ב).
+    - >-
+      Only the Consumer Council may sue public bodies under item 1.
+    - >-
+      Restitution of an unlawful compulsory payment must be brought under item 11 only.
+    - >-
+      The claim must first go to the Water Authority's complaints commissioner.
+  correct: 2
+  explanation: >-
+    Item 11 covers restitution of sums an authority collected unlawfully as a tax, fee or compulsory
+    payment and says such a claim may be brought only under that item.
+- id: m33-005
+  module: 33
+  lesson: "33.1"
+  subject: section-3-exception
+  difficulty: 2
+  question: >-
+    Investors lost money in a ponzi scheme run by a licensed firm. They want a class action for damages
+    against the Securities Authority for failing to supervise the firm. What does s. 3(א) say?
+  options:
+    - >-
+      Such a claim is allowed under item 5 because it arises from securities.
+    - >-
+      Such a claim is allowed if the court finds the Authority's failure unreasonable.
+    - >-
+      Such a claim must be filed in the administrative affairs court under item 11.
+    - >-
+      No class action for damages lies against an authority for failing to supervise a third party.
+  correct: 3
+  explanation: >-
+    Section 3(א) bars class actions for damages against an authority where the cause is its use or
+    non-use of supervisory, regulatory or enforcement powers over the third party that caused the harm.
+- id: m33-006
+  module: 33
+  lesson: "33.1"
+  subject: registry-search
+  difficulty: 2
+  question: >-
+    You open the registry page directly by its address and land on the Net HaMishpat home page. What is
+    the reliable way in?
+  options:
+    - >-
+      Click the "פנקס תובענות ייצוגיות" button on the Net HaMishpat home page.
+    - >-
+      Log in with your national digital ID, since the registry is for registered users.
+    - >-
+      Search the case number in the Supreme Court's decisions database.
+    - >-
+      Use the old elyon1 archive, which holds all cases filed since 2006.
+  correct: 0
+  explanation: >-
+    When checked in October 2026 the direct address redirected to the home page if opened cold; the
+    home-page button opens the registry. The old archive covers cases before September 2014 only.
+- id: m33-007
+  module: 33
+  lesson: "33.1"
+  subject: assel-item-1-vs-11
+  difficulty: 3
+  question: >-
+    In Assel (2014) the Supreme Court classified the Israel Land Authority's permit-fee decisions as
+    those of a "business" under item 1. Why did that classification matter?
+  options:
+    - >-
+      Because item 1 claims go to the High Court of Justice, which hears them faster.
+    - >-
+      Because item 1 claims are exempt from the court fee for class actions.
+    - >-
+      Because item 11 would have given the ILA protections such as the 24-month restitution cap.
+    - >-
+      Because item 1 claims allow exemplary damages, unlike item 11 claims.
+  correct: 2
+  explanation: >-
+    Authorities sued under item 11 get special protections, including the cessation rule (s. 9) and the
+    24-month cap (s. 21). Classifying the ILA as a business under item 1 meant those did not apply.
+- id: m33-008
+  module: 33
+  lesson: "33.1"
+  subject: debate-neutrality
+  difficulty: 3
+  question: >-
+    Spot the mistake. A student's essay says: "The Knesset enacted Amendment 16 in October 2026,
+    exempting small businesses and abolishing agreed fee recommendations." What is wrong?
+  options:
+    - >-
+      Nothing; both changes were enacted together in the October 2026 plenary vote.
+    - >-
+      Only committee approval of two parts was reported; the fee changes were not advanced.
+    - >-
+      The small-business exemption was rejected; only the fee changes were approved.
+    - >-
+      Amendment 16 is a private bill that never passed first reading.
+  correct: 1
+  explanation: >-
+    On 15 October 2026 a joint committee approved for second and third reading the small-business
+    exclusion and a prior-demand duty; the plenary vote was pending when checked, and the fee parts of
+    the government bill were not advanced.
+- id: m33-009
+  module: 33
+  lesson: "33.2"
+  subject: certification-conditions
+  difficulty: 1
+  question: >-
+    Which of these is one of the four certification conditions in s. 8(א)?
+  options:
+    - >-
+      A class action is the efficient and fair way to decide the dispute.
+    - >-
+      The class has at least one hundred identified members.
+    - >-
+      The defendant has been warned in writing at least thirty days before filing.
+    - >-
+      The applicant has deposited security for the defendant's costs.
+  correct: 0
+  explanation: >-
+    Section 8(א)(2) requires that a class action be the efficient and fair way. There is no minimum
+    number, no general prior-demand condition (Younes), and security is exceptional (reg. 2(ו)).
+- id: m33-010
+  module: 33
+  lesson: "33.2"
+  subject: standing-damage
+  difficulty: 1
+  question: >-
+    Where damage is an element of the cause, what must an individual applicant show about it at the
+    certification stage (s. 4(ב)(1))?
+  options:
+    - >-
+      That every member of the class suffered the same amount of damage.
+    - >-
+      That he suffered damage proved by an expert opinion attached to the application.
+    - >-
+      That he was prima facie harmed.
+    - >-
+      Nothing; damage is examined only after certification.
+  correct: 2
+  explanation: >-
+    Section 4(ב)(1) requires an individual applicant to show only that he was prima facie harmed;
+    organisations and authorities need a reasonable possibility of harm to the class (s. 4(ב)(2)).
+- id: m33-011
+  module: 33
+  lesson: "33.2"
+  subject: appeal-certification
+  difficulty: 2
+  question: >-
+    A district court certifies a class action against an insurer. The insurer wants to appeal,
+    arguing that the representative is not adequate. What is its position?
+  options:
+    - >-
+      It may appeal as of right on any ground within the usual period.
+    - >-
+      It may appeal as of right only on the adequacy ground.
+    - >-
+      It cannot appeal at all until the final judgment in the class action.
+    - >-
+      It needs leave to appeal, and may not appeal on adequacy of representation.
+  correct: 3
+  explanation: >-
+    A certification decision is appealable only with leave (s. 8(ד)), and s. 8(א)(3) says the defendant
+    may not appeal or seek leave on the adequate-representation condition.
+- id: m33-012
+  module: 33
+  lesson: "33.2"
+  subject: competing-applications
+  difficulty: 2
+  question: >-
+    Two applications against the same cellular company on the same roaming charges are filed a month
+    apart in different district courts, for essentially the same class. What must the second court do?
+  options:
+    - >-
+      Hear both cases separately, since each applicant chose his court.
+    - >-
+      Transfer the later application to the court hearing the earlier one.
+    - >-
+      Dismiss the later application automatically without hearing the parties.
+    - >-
+      Ask the Director of Courts to decide which case proceeds.
+  correct: 1
+  explanation: >-
+    Under s. 7(א)(2), where the later class is the same or substantially similar, the court must transfer
+    the later application to the court hearing the earlier one; joinder or striking out follows there
+    after the parties are heard (s. 7(ב)–(ג)).
+- id: m33-013
+  module: 33
+  lesson: "33.2"
+  subject: withdrawal
+  difficulty: 2
+  question: >-
+    After certification, all representative plaintiffs withdraw with court approval. What happens to
+    the class action?
+  options:
+    - >-
+      It ends automatically, binding all members as if dismissed.
+    - >-
+      It continues with the defendant's lawyer appointed to represent the class.
+    - >-
+      It is transferred to the Attorney General, who must continue it.
+    - >-
+      Notice is published and a member may ask to be appointed within the set period.
+  correct: 3
+  explanation: >-
+    Section 16(ד)(2) and (4): the court publishes notice and anyone entitled to apply may ask, within
+    45 days, to be appointed representative; only if no one is appointed is the case struck out.
+- id: m33-014
+  module: 33
+  lesson: "33.2"
+  subject: special-defences
+  difficulty: 2
+  question: >-
+    A bank argues that certifying a huge class action would endanger its financial stability and harm
+    depositors. Under s. 8(ב)(2), how does the court treat this?
+  options:
+    - >-
+      As irrelevant, because only the State and public bodies may raise harm to the public at this stage.
+    - >-
+      As a bar to certification once the bank proves any financial harm.
+    - >-
+      As a consideration weighed against the benefit, if certification with changes cannot prevent it.
+    - >-
+      As a ground to transfer the case to the Banking Supervisor.
+  correct: 2
+  explanation: >-
+    Section 8(ב)(2) lets the court take into account serious public harm from damage to the stability of
+    a bank, insurer or essential-service provider, against the expected benefit, if s. 13 changes cannot
+    prevent it.
+- id: m33-015
+  module: 33
+  lesson: "33.2"
+  subject: prior-demand
+  difficulty: 3
+  question: >-
+    A consumer files an application against a small shop over a missing Hebrew label without first
+    writing to the shop, which would have fixed it at once. Under current law (Younes, 2019), what is
+    the most accurate statement?
+  options:
+    - >-
+      There is no general prior-demand duty, but the omission may bear on good faith in the circumstances.
+    - >-
+      The application must be struck out, because a prior demand is a statutory condition for every applicant.
+    - >-
+      The omission is irrelevant to every condition of s. 8(א).
+    - >-
+      The shop may claim the applicant's fee for having to answer without notice.
+  correct: 0
+  explanation: >-
+    In the further hearing in Younes the majority held there is no general duty, but failing to send a
+    demand may show bad faith in particular circumstances. Amendment 16, if enacted, would add a duty for
+    some causes.
+- id: m33-016
+  module: 33
+  lesson: "33.2"
+  subject: de-minimis
+  difficulty: 3
+  question: >-
+    Bar-style. A class action alleges a snack label said "100% chicken" although the product also
+    contains breadcrumbs. Which argument best fits current doctrine?
+  options:
+    - >-
+      The claim must be dismissed under the de minimis defence of the Civil Wrongs Ordinance.
+    - >-
+      Triviality is weighed under s. 8(א)(2) in deciding whether a class action is efficient and fair.
+    - >-
+      The claim must be certified, because any misleading label creates a common question.
+    - >-
+      The court must refer the label question to the Food Control Service before deciding.
+  correct: 1
+  explanation: >-
+    Zeligman (2021) held that the de minimis defence does not apply as such, because triviality is
+    considered within s. 8(א)(2). The government's 2024 notes cite such examples as trivial claims.
+- id: m33-017
+  module: 33
+  lesson: "33.3"
+  subject: settlement-approval
+  difficulty: 1
+  question: >-
+    Can the parties to an application for certification settle privately without the court?
+  options:
+    - >-
+      Yes, if the settlement covers only the applicant's personal claim and the class is not mentioned.
+    - >-
+      Yes, before certification; approval is required only after certification.
+    - >-
+      Yes, if the Attorney General signs the settlement as well.
+    - >-
+      No; any agreement settling the dispute requires the court's approval.
+  correct: 3
+  explanation: >-
+    Section 18(א) covers disputes subject to an application or a certified class action. A personal
+    withdrawal also needs approval under s. 16.
+- id: m33-018
+  module: 33
+  lesson: "33.3"
+  subject: objection-period
+  difficulty: 1
+  question: >-
+    From when does the period for objecting to a settlement run under s. 18(ד)?
+  options:
+    - >-
+      From the date the settlement agreement was signed by both parties.
+    - >-
+      From publication of the notice of the settlement application.
+    - >-
+      From the date the examiner files his opinion.
+    - >-
+      From the date of the hearing on approval.
+  correct: 1
+  explanation: >-
+    Objections are due within 45 days of publication of the notice under s. 18(ג), or a later date set by
+    the court.
+- id: m33-019
+  module: 33
+  lesson: "33.3"
+  subject: examiner
+  difficulty: 2
+  question: >-
+    Which person may NOT be appointed as the examiner of a settlement under s. 19(ב)(2)?
+  options:
+    - >-
+      A retired judge with no connection to the parties.
+    - >-
+      An accountant with experience in bank fees, appointed by the court.
+    - >-
+      An economist who earlier advised the defendant on the same dispute.
+    - >-
+      A university professor of consumer law chosen by the court.
+  correct: 2
+  explanation: >-
+    Section 19(ב)(2) excludes anyone recommended by a party, anyone who objected, and anyone who advised
+    a party about the dispute.
+- id: m33-020
+  module: 33
+  lesson: "33.3"
+  subject: notice-recipients
+  difficulty: 2
+  question: >-
+    In an item-6 environmental class action, a settlement application is filed. Besides the AG and the
+    Director of Courts, which body must receive notice under reg. 12(ד)?
+  options:
+    - >-
+      The Ministry of Environmental Protection.
+    - >-
+      The Nature and Parks Authority, as listed.
+    - >-
+      The Consumer Protection Commissioner.
+    - >-
+      The local planning committee.
+  correct: 0
+  explanation: >-
+    Regulation 12(ד) lists, for item 6, the Ministry of Environmental Protection. The Nature and Parks
+    Authority is a listed public authority that may apply (First Schedule), not a mandatory recipient.
+- id: m33-021
+  module: 33
+  lesson: "33.3"
+  subject: exits
+  difficulty: 2
+  question: >-
+    A class member asks to leave a settlement under s. 18(ו). For limitation of her own claim, what
+    follows?
+  options:
+    - >-
+      Her limitation period restarts from zero on the day of her notice.
+    - >-
+      Her claim is barred, because leaving a settlement waives the cause.
+    - >-
+      Nothing changes; limitation runs as if no class action had existed.
+    - >-
+      Her period does not end before one year from her notice, if not expired at filing.
+  correct: 3
+  explanation: >-
+    Section 26(ד) gives at least one year from the notice of exit, provided the claim had not expired when
+    the application was filed.
+- id: m33-022
+  module: 33
+  lesson: "33.3"
+  subject: reasons-decision
+  difficulty: 2
+  question: >-
+    A judge approves a settlement in one paragraph: "The settlement is fair; approved." What is wrong?
+  options:
+    - >-
+      Nothing; approval decisions need no reasons if no one objected.
+    - >-
+      The decision must be reasoned and address the s. 19(ג)(2) considerations.
+    - >-
+      Only the Attorney General may approve settlements without reasons.
+    - >-
+      The decision must be given by a panel of three judges.
+  correct: 1
+  explanation: >-
+    Section 19(ג) requires a reasoned decision stating the class, causes and main terms and addressing
+    the gap, objections, stage, examiner's opinion, risks and scope of the release.
+- id: m33-023
+  module: 33
+  lesson: "33.3"
+  subject: release-scope
+  difficulty: 3
+  question: >-
+    Spot the mistake. A settlement in an application about a bank's ATM fees releases "all claims of
+    members against the bank concerning any fee or commission". What is the defect?
+  options:
+    - >-
+      Releases of any kind are not allowed in class settlements at all.
+    - >-
+      The release must name each member individually.
+    - >-
+      It reaches causes not in the application, which s. 18(ז)(1) forbids.
+    - >-
+      A release may cover only claims below the small-claims ceiling.
+  correct: 2
+  explanation: >-
+    Section 18(ז)(1) bars a settlement from including causes, parties or members not in the application
+    or certification decision; s. 19(ג)(2)(ו) requires the court to define the res judicata scope.
+- id: m33-024
+  module: 33
+  lesson: "33.3"
+  subject: ag-role-2027
+  difficulty: 3
+  question: >-
+    In 2027 a minister wants the Attorney General to stop objecting to a class settlement with a
+    state-owned company. Under the 2026 AG Law as written, what is the strongest reading?
+  options:
+    - >-
+      The objection power is statutory, and the representation chapter excludes statutory powers.
+    - >-
+      The minister may order the AG to withdraw, since the Government sets all litigation positions.
+    - >-
+      The AG may object only with the court's prior permission under the new Law.
+    - >-
+      The Law transfers the objection power to the Minister of Justice from 2027.
+  correct: 0
+  explanation: >-
+    Section 12(א)(2) of the 2026 Law excludes powers given to the AG by statute from the representation
+    chapter; s. 18(ד) of the Class Actions Law is such a power. The point is untested and the Law is
+    under challenge.
+- id: m33-025
+  module: 33
+  lesson: "33.4"
+  subject: remedies
+  difficulty: 1
+  question: >-
+    Which remedy may a court NOT award in an ordinary consumer class action under item 1?
+  options:
+    - >-
+      An aggregate sum with a formula for each member's share.
+    - >-
+      A declaratory order and an injunction for the future.
+    - >-
+      Exemplary damages to punish the business.
+    - >-
+      Compensation for non-pecuniary damage such as harm to autonomy.
+  correct: 2
+  explanation: >-
+    Section 20(ה) bars exemplary damages and damages without proof of damage, except for item 9;
+    non-pecuniary damage is allowed (Tnuva).
+- id: m33-026
+  module: 33
+  lesson: "33.4"
+  subject: funds
+  difficulty: 1
+  question: >-
+    Who manages the fund that receives money awarded as relief for the public under s. 20(ג)(2)?
+  options:
+    - >-
+      The Administrator General, with a five-member distribution committee.
+    - >-
+      The Israel Consumer Council, under the supervision of the Minister of Economy.
+    - >-
+      The court that gave judgment, through its registry.
+    - >-
+      The Bank of Israel, as trustee for consumers.
+  correct: 0
+  explanation: >-
+    Section 27א establishes the fund, managed by the Administrator General, with distribution by a
+    committee appointed by the Minister of Justice.
+- id: m33-027
+  module: 33
+  lesson: "33.4"
+  subject: residue
+  difficulty: 2
+  question: >-
+    After an aggregate award is distributed, ₪400,000 remains because some members were never found.
+    What does s. 20(א)(3) say happens first?
+  options:
+    - >-
+      It returns to the defendant, since the members did not claim it within the time the court set for claims.
+    - >-
+      It is redistributed among members who were paid, in proportion to their loss, up to full compensation.
+    - >-
+      It is paid to class counsel as an additional success fee.
+    - >-
+      It goes straight to the State Treasury as unclaimed property.
+  correct: 1
+  explanation: >-
+    The court may redistribute the residue among members in proportion to their damage, never above full
+    compensation; only what still remains goes to the s. 27א fund.
+- id: m33-028
+  module: 33
+  lesson: "33.4"
+  subject: fee-reichert
+  difficulty: 2
+  question: >-
+    Under the Reichert approach, which fee structure is most consistent with the case law?
+  options:
+    - >-
+      A flat hourly rate times the hours counsel recorded.
+    - >-
+      A fixed percentage of the total sum claimed for the class in the original application for certification.
+    - >-
+      Whatever the parties agree, since the defendant pays it.
+    - >-
+      A percentage of the benefit delivered, falling as it grows and lower for earlier settlements.
+  correct: 3
+  explanation: >-
+    Reichert tied the fee to the benefit actually delivered, with falling percentages and higher rates
+    for judgments than settlements; Schwartzman treats those percentages as a ceiling.
+- id: m33-029
+  module: 33
+  lesson: "33.4"
+  subject: authority-cap
+  difficulty: 2
+  question: >-
+    A class wins an item-11 case against a municipality for a levy collected unlawfully for five years.
+    A member wants his money for all five years. What can he do?
+  options:
+    - >-
+      Nothing; the class judgment is res judicata for the whole period.
+    - >-
+      Appeal the class judgment, since the 24-month cap is unconstitutional.
+    - >-
+      Sue personally for the earlier years, as s. 21 preserves that right.
+    - >-
+      Ask the s. 27א fund to pay the difference.
+  correct: 2
+  explanation: >-
+    Section 21 limits class restitution to 24 months before the application but expressly preserves each
+    member's right to sue for further periods.
+- id: m33-030
+  module: 33
+  lesson: "33.4"
+  subject: court-fees
+  difficulty: 2
+  question: >-
+    A class action in the district court ends in an approved settlement. Who pays the second part of
+    the court fee?
+  options:
+    - >-
+      The applicant, who also loses the first part.
+    - >-
+      The State, because settlements are encouraged by the courts.
+    - >-
+      No one; settlements are exempt from the second part.
+    - >-
+      The defendant, who also reimburses the applicant's first part.
+  correct: 3
+  explanation: >-
+    Court Fees Regulations reg. 7א(א)(3): on a judgment for the class or approval of a settlement the
+    respondent pays the second part and reimburses the first, unless the court exempts it for special reasons.
+- id: m33-031
+  module: 33
+  lesson: "33.4"
+  subject: benefits-in-kind
+  difficulty: 3
+  question: >-
+    A settlement offers each member a 15% discount on the next purchase, "valued at ₪8 million". What
+    question best tests its real value under s. 19(ג)(2)(א)?
+  options:
+    - >-
+      How many members are likely to make another purchase and use the discount.
+    - >-
+      Whether the discount is larger than the company's average promotion.
+    - >-
+      Whether the examiner is an economist rather than a lawyer.
+    - >-
+      Whether the settlement was reached through mediation.
+  correct: 0
+  explanation: >-
+    A discount is worth something only to members who buy again; the gap between the headline value and
+    the realistic take-up is the core of the s. 19(ג)(2)(א) comparison and of the fee.
+- id: m33-032
+  module: 33
+  lesson: "33.4"
+  subject: s27-fund
+  difficulty: 3
+  question: >-
+    Bar-style. A resident wants help from the s. 27 fund to finance a class action for unlawful
+    discrimination at a nightclub. Which consideration may the fund's board weigh?
+  options:
+    - >-
+      The likely size of class counsel's fee if the case succeeds.
+    - >-
+      Whether similar applications are pending on the same or a similar cause.
+    - >-
+      The resident's political views, since the fund must stay neutral.
+    - >-
+      Whether the nightclub is a member of a business association.
+  correct: 1
+  explanation: >-
+    Funding Regulations reg. 3(ב)(3) lets the board consider whether applications on the same or a
+    similar cause are pending, alongside public importance, good faith, chances, cost and other funding.
+- id: m33-033
+  module: 33
+  lesson: "33.5"
+  subject: organisation-definition
+  difficulty: 1
+  question: >-
+    Which body can qualify as an "organisation" under s. 2 of the Class Actions Law?
+  options:
+    - >-
+      A party's youth movement operating for ten years on social issues.
+    - >-
+      A non-profit operating for two years on consumer rights, using its assets only for that purpose.
+    - >-
+      A company formed last month whose shareholders are consumer lawyers who plan to file many cases.
+    - >-
+      A statutory corporation set up by law to supervise consumer credit.
+  correct: 1
+  explanation: >-
+    Section 2 excludes statutory corporations and bodies connected with a party, and requires at least a
+    year of regular activity for a public purpose with assets used only for that purpose.
+- id: m33-034
+  module: 33
+  lesson: "33.5"
+  subject: public-authorities
+  difficulty: 1
+  question: >-
+    Which of these is a "public authority" listed in the First Schedule that may itself apply for
+    certification?
+  options:
+    - >-
+      The Consumer Protection and Fair Trade Authority.
+    - >-
+      The Israel Securities Authority.
+    - >-
+      The Bank of Israel's Banking Supervision Department.
+    - >-
+      The Equal Employment Opportunities Commission.
+  correct: 3
+  explanation: >-
+    The First Schedule lists the Commission for Equal Rights of Persons with Disabilities, the Nature and
+    Parks Authority, and the Equal Employment Opportunities Commission.
+- id: m33-035
+  module: 33
+  lesson: "33.5"
+  subject: amicus
+  difficulty: 2
+  question: >-
+    What best describes the role of an amicus curiae in Israeli courts since Kozli (1999)?
+  options:
+    - >-
+      A body without a personal stake heard to assist the court with expertise or a perspective.
+    - >-
+      A party who joins the case and may appeal any decision as of right.
+    - >-
+      A court-appointed expert whose opinion on the facts binds the parties and the court.
+    - >-
+      A lawyer appointed to represent an unrepresented litigant free of charge.
+  correct: 0
+  explanation: >-
+    Kozli adopted the amicus concept: a body heard to assist the court, not a party. Empirical research
+    shows most applicants are NGOs and most applications are approved.
+- id: m33-036
+  module: 33
+  lesson: "33.5"
+  subject: route-choice
+  difficulty: 2
+  question: >-
+    Which forum? Residents want to stop a ministry's decision to close a rural clinic. No money is at
+    stake.
+  options:
+    - >-
+      A class action under item 11 in the administrative affairs court.
+    - >-
+      A small claim by each resident for the inconvenience caused by the closure.
+    - >-
+      A petition against the decision, after a prior demand to the ministry.
+    - >-
+      An objection to a settlement under s. 18(ד).
+  correct: 2
+  explanation: >-
+    Changing a government decision is the domain of petitions; item 11 covers restitution of unlawful
+    charges only.
+- id: m33-037
+  module: 33
+  lesson: "33.5"
+  subject: ag-appearance
+  difficulty: 2
+  question: >-
+    Under s. 1 of the Procedure (Attorney General's Appearance) Ordinance, when may the AG appear in a
+    private civil case?
+  options:
+    - >-
+      Only when both parties to the civil case consent in writing to the Attorney General being heard.
+    - >-
+      When he considers that a State right, a public right or a public interest is or may be affected.
+    - >-
+      Only in cases heard by the Supreme Court, as a court of appeal or as the High Court of Justice.
+    - >-
+      Only when the court invites him to submit an opinion.
+  correct: 1
+  explanation: >-
+    Section 1 lets the AG appear and be heard, at his discretion, where a State right, public right or
+    public interest is or may be affected.
+- id: m33-038
+  module: 33
+  lesson: "33.5"
+  subject: participation-s15
+  difficulty: 2
+  question: >-
+    An organisation took part in a class action under s. 15 and its data shaped the judgment. What may
+    the court award it?
+  options:
+    - >-
+      Nothing, because only the representative plaintiff may receive an award.
+    - >-
+      Class counsel's fee, transferred in full.
+    - >-
+      Exemplary damages for the public interest it served.
+    - >-
+      An award for its effort and contribution under s. 22(ג)(2).
+  correct: 3
+  explanation: >-
+    Section 22(ג)(2) allows, in special cases and for reasons recorded, an award to an organisation that
+    took part under s. 15, in light of its effort and contribution.
+- id: m33-039
+  module: 33
+  lesson: "33.5"
+  subject: ag-law-2026
+  difficulty: 3
+  question: >-
+    Which statement about the Attorney General (Opinions, Representation and Supervision) Law 2026 is
+    accurate as checked in October 2026?
+  options:
+    - >-
+      It passed on 15 July 2026, takes effect on 1 January 2027, and petitions against it were filed.
+    - >-
+      It was a government bill passed unanimously and in force from the day of its publication in Reshumot.
+    - >-
+      It applies to criminal prosecutions and lets the Government decide on indictments.
+    - >-
+      It abolished the Procedure (AG's Appearance) Ordinance entirely.
+  correct: 0
+  explanation: >-
+    The Law passed on 15.7.2026 (65 to 51), commences 1.1.2027 (s. 18), excludes criminal matters (s. 12)
+    and amends the Ordinance's application only where external counsel was appointed (s. 10).
+- id: m33-040
+  module: 33
+  lesson: "33.5"
+  subject: consumer-council
+  difficulty: 3
+  question: >-
+    The Israel Consumer Council applies for certification of a class action against a supermarket chain.
+    The chain argues that any shopper could have applied, so the Council lacks standing. What is the answer?
+  options:
+    - >-
+      The chain is right; every organisation must show difficulty for an individual.
+    - >-
+      The Council may apply even if an individual could have, under s. 4(א)(3).
+    - >-
+      The Council may apply only with the Attorney General's consent.
+    - >-
+      The Council may apply only under item 11.
+  correct: 1
+  explanation: >-
+    Section 4(א)(3) exempts the Israel Consumer Council from the "difficulty for an individual" condition
+    that applies to other organisations.
+- id: m33-041
+  module: 33
+  lesson: "33.6"
+  subject: forum-choice
+  difficulty: 1
+  question: >-
+    Which forum? You lost ₪6,000 because a dealer refused a lawful cancellation; a class action on the
+    same practice is pending.
+  options:
+    - >-
+      Only the regulator, since a class action is pending.
+    - >-
+      Only the class action, since your claim is frozen.
+    - >-
+      Your own small claim, with a written request first if seeking exemplary damages.
+    - >-
+      The High Court of Justice, since many consumers are affected by the same practice.
+  correct: 2
+  explanation: >-
+    A pending application does not bar a personal suit; your loss is meaningful and personal; small claims
+    fit; exemplary damages need the s. 31א written request.
+- id: m33-042
+  module: 33
+  lesson: "33.6"
+  subject: limitation
+  difficulty: 1
+  question: >-
+    A class action covering your claim is certified. For limitation, when are you treated as having sued?
+  options:
+    - >-
+      On the date the application for certification was filed.
+    - >-
+      On the date of the certification decision.
+    - >-
+      On the date you were notified by publication.
+    - >-
+      Never; limitation keeps running until you sue personally.
+  correct: 0
+  explanation: >-
+    Section 26(א) treats every member of the certified class as having sued on the date the application
+    was filed.
+- id: m33-043
+  module: 33
+  lesson: "33.6"
+  subject: regulator
+  difficulty: 2
+  question: >-
+    What can you realistically expect from a complaint to the Consumer Protection Authority about a
+    practice that cost you ₪300?
+  options:
+    - >-
+      A binding order that the business refund you within thirty days.
+    - >-
+      An extension of your limitation period while the complaint is examined.
+    - >-
+      A certificate that lets you skip the small-claims hearing.
+    - >-
+      Possible enforcement such as a financial sanction, but usually no refund to you.
+  correct: 3
+  explanation: >-
+    Regulators enforce through sanctions and orders on practice; they rarely order compensation, and
+    complaints do not extend limitation.
+- id: m33-044
+  module: 33
+  lesson: "33.6"
+  subject: double-recovery
+  difficulty: 2
+  question: >-
+    You won a small claim against an airline over a cancelled flight. Later a class settlement covering
+    the same flight credits all passengers automatically. What should you do?
+  options:
+    - >-
+      Keep both; the class settlement cannot touch a personal judgment.
+    - >-
+      Tell class counsel and the court of your judgment so you are not paid twice.
+    - >-
+      Return your small-claims award so the settlement can apply.
+    - >-
+      Object to the settlement on the ground that you were not consulted.
+  correct: 1
+  explanation: >-
+    Your judgment decides your claim; accepting a second payment for the same loss is double recovery.
+    Disclose it so the settlement does not pay you again.
+- id: m33-045
+  module: 33
+  lesson: "33.6"
+  subject: causation-choice
+  difficulty: 2
+  question: >-
+    You never saw a misleading TV ad but bought the product. Which route gives you the best chance of
+    some remedy?
+  options:
+    - >-
+      A personal damages claim, since misleading is prohibited even if no one was misled.
+    - >-
+      A complaint asking the regulator to pay you statutory damages.
+    - >-
+      Staying in a class action, where causation may be shown at group level.
+    - >-
+      A petition to the High Court against the advertiser.
+  correct: 2
+  explanation: >-
+    Barazani requires personal causation for a personal damages claim; Tnuva allowed group-level
+    causation in a class action.
+- id: m33-046
+  module: 33
+  lesson: "33.6"
+  subject: refusal-limitation
+  difficulty: 2
+  question: >-
+    A certification application covering your claim is dismissed and the decision becomes final today.
+    Your own seven years would have ended four months from now. What is your deadline?
+  options:
+    - >-
+      Four months from now, as originally.
+    - >-
+      Seven years from today.
+    - >-
+      Thirty days from today, the usual time to file after a dismissal.
+    - >-
+      At least one year from today.
+  correct: 3
+  explanation: >-
+    Section 26(ב) ensures at least a year from the decision becoming final, provided the claim had not
+    expired when the application was filed.
+- id: m33-047
+  module: 33
+  lesson: "33.6"
+  subject: strategy
+  difficulty: 3
+  question: >-
+    Your bank overcharged you ₪4,200 over three years; a pending application covers 1,000,000 customers
+    who lost about ₪30 each. Which plan is most sensible?
+  options:
+    - >-
+      Stay passive; your large loss will be paid in full from the class settlement.
+    - >-
+      Join as a second applicant so your large loss sets the class's compensation.
+    - >-
+      Ask the court to certify a sub-class consisting only of yourself.
+    - >-
+      Pursue your own claim and leave the class if it is certified or settled.
+  correct: 3
+  explanation: >-
+    Class settlements are calibrated to typical members; your loss is atypically large. Sue personally
+    (small claims if within the ceiling) and use s. 11 or s. 18(ו) to leave the class when the time comes.
+- id: m33-048
+  module: 33
+  lesson: "33.6"
+  subject: spot-mistake-letter
+  difficulty: 3
+  question: >-
+    Spot the mistake in this demand letter to a business: "Pay me ₪2,000 now or I will file a class action
+    and settle it privately with you for a lower sum."
+  options:
+    - >-
+      The letter is fine; private settlements of class actions are common.
+    - >-
+      Any withdrawal or benefit in connection with an application needs court approval (s. 16).
+    - >-
+      Demand letters may not mention any intention to start litigation against the business at all.
+    - >-
+      Only lawyers may send demand letters to businesses.
+  correct: 1
+  explanation: >-
+    Section 16(א) forbids withdrawing or receiving any benefit in connection with an application without
+    court approval; threatening a class action to extract a private payment invites a finding of bad faith.
+- id: m33-049
+  module: 33
+  lesson: "33.7"
+  subject: notice-reading
+  difficulty: 1
+  question: >-
+    Which section of the Law requires publication of a notice when a settlement-approval application is filed?
+  options:
+    - >-
+      Section 11, on opting out of a certified class.
+    - >-
+      Section 24.
+    - >-
+      Section 27א.
+    - >-
+      Section 25(א)(3), with s. 18(ג).
+  correct: 3
+  explanation: >-
+    Section 18(ג) orders publication under s. 25, and s. 25(א)(3) lists the filing of a settlement
+    application among events requiring notice.
+- id: m33-050
+  module: 33
+  lesson: "33.7"
+  subject: full-text
+  difficulty: 1
+  question: >-
+    A notice summarises a settlement and says "the full text prevails". Where can you read the full
+    settlement with annexes?
+  options:
+    - >-
+      Only by applying to the court registry in person for a certified copy, on payment of a fee.
+    - >-
+      In the Class Actions Registry, and at the offices named in the notice.
+    - >-
+      Only after the court approves it and the approval becomes final.
+    - >-
+      From the Attorney General's website.
+  correct: 1
+  explanation: >-
+    Section 25(ד) requires notices to refer to the registry and other places where the full text and
+    annexes can be read; s. 18(ג) sends the settlement to the Director of Courts for the registry.
+- id: m33-051
+  module: 33
+  lesson: "33.7"
+  subject: benefit-formula
+  difficulty: 2
+  question: >-
+    A notice gives ₪3 credit to users "with an account at performance who rode in the 18 months before
+    the effective date". Which member gets nothing?
+  options:
+    - >-
+      An active user who rode last week.
+    - >-
+      A user who rode three times last year and still has the app.
+    - >-
+      A user who deleted the app two years ago after years of riding.
+    - >-
+      A user who rides daily and will ride again next month as usual.
+  correct: 2
+  explanation: >-
+    The formula requires both an account at performance and a recent ride; a former user meets neither,
+    yet remains a class member bound by the release unless she leaves.
+- id: m33-052
+  module: 33
+  lesson: "33.7"
+  subject: deadline-count
+  difficulty: 2
+  question: >-
+    A notice was published on 5 August. Counting 45 days, approximately when does the objection window close?
+  options:
+    - >-
+      Around 19 September.
+    - >-
+      Around 5 September.
+    - >-
+      Around 5 October.
+    - >-
+      Around 20 August.
+  correct: 0
+  explanation: >-
+    Forty-five days from 5 August falls on about 19 September; check the court's decision for any later
+    date it set and how it counts days.
+- id: m33-053
+  module: 33
+  lesson: "33.7"
+  subject: fee-percentage
+  difficulty: 2
+  question: >-
+    Award ₪40,000 and fee ₪360,000 are recommended on credits with face value ₪2 million. If only 40% of
+    credits are likely to be used, what is the fee-plus-award as a share of real value?
+  options:
+    - >-
+      About 20%.
+    - >-
+      About 50%.
+    - >-
+      About 8%.
+    - >-
+      About 35%.
+  correct: 1
+  explanation: >-
+    ₪400,000 is 20% of ₪2 million face value, but 40% use gives real value of ₪800,000, and ₪400,000 is
+    50% of that.
+- id: m33-054
+  module: 33
+  lesson: "33.7"
+  subject: class-extension
+  difficulty: 2
+  question: >-
+    The settlement class runs "until the approving judgment becomes final", but the application's class
+    ended on its filing date. Which provision does this engage?
+  options:
+    - >-
+      Section 21, the 24-month cap.
+    - >-
+      Section 27, the financing fund.
+    - >-
+      Section 8(ב), the special considerations for public bodies, banks and insurers.
+    - >-
+      Section 18(ז)(1), which bars adding members not in the application.
+  correct: 3
+  explanation: >-
+    A settlement may not include members not in the application or certification decision, subject to a
+    proper amendment; this is a legitimate objection point.
+- id: m33-055
+  module: 33
+  lesson: "33.7"
+  subject: decision
+  difficulty: 3
+  question: >-
+    You are a member whose own loss is ₪25. The settlement gives you nothing and releases your claim.
+    Which choice is most useful?
+  options:
+    - >-
+      Leave the class and sue for ₪25 in small claims.
+    - >-
+      Do nothing; ₪25 is not worth any action.
+    - >-
+      Object, proposing that members like you receive a credit or refund.
+    - >-
+      Ask the Attorney General to cancel the settlement on the members' behalf.
+  correct: 2
+  explanation: >-
+    Leaving gains little; doing nothing accepts a release for nothing. An objection with a concrete cure
+    may improve terms for you and similar members, and the court must address it.
+- id: m33-056
+  module: 33
+  lesson: "33.7"
+  subject: future-change
+  difficulty: 3
+  question: >-
+    A settlement's "change for the future" is that the company will disclose that it rounds up minutes,
+    not stop rounding. How should a member evaluate this term?
+  options:
+    - >-
+      As a full cure, because disclosure always ends any breach of contract.
+    - >-
+      As cures the misleading claim only; whether rounding breaches the agreement stays unresolved.
+    - >-
+      As irrelevant, because future changes are not part of class settlements.
+    - >-
+      As unlawful, since class settlements may not regulate the defendant's future conduct at all.
+  correct: 1
+  explanation: >-
+    Disclosure addresses misleading for the future but not a claim that the charging breached the
+    agreement; the court weighs this under the risks and gap considerations of s. 19(ג)(2).
+- id: m33-057
+  module: 33
+  lesson: "33.8"
+  subject: objection-structure
+  difficulty: 1
+  question: >-
+    What should every reason in a well-drafted objection contain?
+  options:
+    - >-
+      The term, the problem, the section, the fact and a proposed cure.
+    - >-
+      A quotation from a foreign class-action ruling.
+    - >-
+      A personal account of how angry and frustrated the objector feels about it.
+    - >-
+      A demand that class counsel be disqualified.
+  correct: 0
+  explanation: >-
+    Courts must address each objection; a reason tied to a section and a fact, with a cure the court can
+    impose under s. 19(ד)(1), is the most useful.
+- id: m33-058
+  module: 33
+  lesson: "33.8"
+  subject: affidavit
+  difficulty: 1
+  question: >-
+    Before whom is the affidavit supporting an objection confirmed?
+  options:
+    - >-
+      Only before the judge at the hearing.
+    - >-
+      Before a lawyer or another person authorised under the Evidence Ordinance s. 15.
+    - >-
+      Before the examiner appointed under s. 19(ב), who also receives a copy of the objection.
+    - >-
+      Before a notary only, with an apostille attached for use in the court.
+  correct: 1
+  explanation: >-
+    Affidavits are confirmed before a lawyer or another person authorised under s. 15 of the Evidence
+    Ordinance.
+- id: m33-059
+  module: 33
+  lesson: "33.8"
+  subject: request-structure
+  difficulty: 2
+  question: >-
+    Why should an objection ask in the alternative for approval subject to changes?
+  options:
+    - >-
+      Because the court may not reject a settlement outright.
+    - >-
+      Because the parties must accept any change the objector proposes, once it is filed within the period.
+    - >-
+      Because s. 19(ד)(1) lets the court condition approval, and cures make the objection actionable.
+    - >-
+      Because the examiner can approve changes without the court.
+  correct: 2
+  explanation: >-
+    The court may tell the parties that approval depends on conditions it finds necessary; specific cures
+    give it something to impose.
+- id: m33-060
+  module: 33
+  lesson: "33.8"
+  subject: fee-objection
+  difficulty: 2
+  question: >-
+    Which ground of objection to an agreed fee recommendation is best supported by s. 23(ב)?
+  options:
+    - >-
+      Counsel's firm is too large for this kind of case.
+    - >-
+      The fee should be no higher than the representative plaintiff's award, as s. 22 requires.
+    - >-
+      The fee must be paid by the State out of the s. 27 fund, not by the defendant.
+    - >-
+      The fee rests on face value, while the benefit actually delivered is far lower.
+  correct: 3
+  explanation: >-
+    Section 23(ב)(1) makes the benefit to the class the first consideration; inflated face values distort
+    it, a concern the government's 2024 notes also describe.
+- id: m33-061
+  module: 33
+  lesson: "33.8"
+  subject: late-objection
+  difficulty: 2
+  question: >-
+    You missed the 45-day window by five days because you were hospitalised. What is your best step?
+  options:
+    - >-
+      File the objection with a request for a later date, explaining the reason.
+    - >-
+      File the objection without mentioning the delay; courts do not check dates.
+    - >-
+      Wait for the approval and ask the court to cancel it later.
+    - >-
+      Send the objection to the examiner instead of the court.
+  correct: 0
+  explanation: >-
+    Section 18(ד) allows "a later date set by the court"; ask for it openly, with the reason, attaching the
+    objection.
+- id: m33-062
+  module: 33
+  lesson: "33.8"
+  subject: service
+  difficulty: 2
+  question: >-
+    Besides filing in the case file, to whom should you send copies of your objection?
+  options:
+    - >-
+      Only to the representative plaintiff personally, who must forward it to the defendant and the court.
+    - >-
+      To all counsel named in the notice; a copy to the District Attorney's civil office is useful.
+    - >-
+      To the Director of Courts, who forwards it to the parties.
+    - >-
+      To the Bar Association's ethics committee.
+  correct: 1
+  explanation: >-
+    Notices direct objectors to send copies to the parties' counsel; the AG's address for service in
+    settlements is the District Attorney's office for the court's area (reg. 12(ה)).
+- id: m33-063
+  module: 33
+  lesson: "33.8"
+  subject: spot-mistake-objection
+  difficulty: 3
+  question: >-
+    Spot the mistake. An objection's affidavit says: "I declare that the release in clause 9 is wider than
+    s. 18(ז)(1) permits." What is wrong?
+  options:
+    - >-
+      Nothing; legal conclusions belong in affidavits.
+    - >-
+      Releases may not be discussed in objections.
+    - >-
+      The affidavit should verify facts within the deponent's knowledge, not legal conclusions.
+    - >-
+      Only lawyers may mention sections of the Law in an affidavit filed by a member of the class.
+  correct: 2
+  explanation: >-
+    An affidavit verifies facts; the argument that the release breaches s. 18(ז)(1) belongs in the body of
+    the objection.
+- id: m33-064
+  module: 33
+  lesson: "33.8"
+  subject: objector-award
+  difficulty: 3
+  question: >-
+    The court accepts your objection that former customers were left out and orders cash refunds to them.
+    The defendant argues you deserve nothing because you are not the representative. Who is right?
+  options:
+    - >-
+      The defendant; only representatives may receive an award under s. 22.
+    - >-
+      You; objectors are automatically entitled to a fee equal to class counsel's.
+    - >-
+      The defendant; objectors may only recover the court fees they paid for filing the objection.
+    - >-
+      The court may award you an award for the benefit your objection brought, under s. 18(ד1).
+  correct: 3
+  explanation: >-
+    Section 18(ד1)(1) allows the court to award an objector whose objection was accepted in whole or part,
+    considering the benefit brought to the members.

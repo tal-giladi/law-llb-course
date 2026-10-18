@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A settlement notice was published on 10 June. On 1 August a class member wants to object. What is
+    her best course?
+  options:
+    - >-
+      File the objection anyway, since the court must hear every member before it approves.
+    - >-
+      Send the objection to the Attorney General, whose own deadline is longer than hers.
+    - >-
+      Ask the court for a later date with reasons, attaching the objection, before the hearing.
+    - >-
+      Wait for the approval and then appeal, since late members may appeal as of right.
+  correct: 2
+  explanation: >-
+    Section 18(ד) gives 45 days from publication "or a later date set by the court". After the period
+    a member needs the court's leave, so she should ask for an extension with reasons at once.
+- id: q2
+  question: >-
+    A certified class action against a gym chain is pending. Six months later a settlement is filed.
+    A member who never opted out wants nothing to do with it and plans his own suit. What should he do?
+  options:
+    - >-
+      Nothing; members who did not opt out after certification are free to sue regardless.
+    - >-
+      Ask the court, within the objection period, to allow him to leave the settlement class.
+    - >-
+      File Form 1 under s. 11, since the certification opt-out period reopens on settlement.
+    - >-
+      Object to the settlement, because an objection automatically removes him from the class.
+  correct: 1
+  explanation: >-
+    Section 18(ו) lets a member ask the court, within the objection period, to leave the class to which
+    the settlement applies; otherwise the approval binds him (s. 24). An objection does not take him out.
+- id: q3
+  question: >-
+    Which of these terms in a proposed settlement breaches s. 18(ז) on its face?
+  options:
+    - >-
+      A clause stating that the defendant will pay class counsel ₪400,000 on approval.
+    - >-
+      A clause sending the unclaimed balance to the fund under s. 27א for a related purpose.
+    - >-
+      A clause requiring the defendant to change its terms of service for the future.
+    - >-
+      A clause releasing only the causes of action stated in the certification application.
+  correct: 0
+  explanation: >-
+    Section 18(ז)(2) bars a settlement from fixing the award or fee; the parties may only submit an
+    agreed recommendation, which the court decides on under s. 19(ו).
+- id: q4
+  question: >-
+    Who must receive notice of a settlement application in a class action against a bank under item 3,
+    besides publication to the members?
+  options:
+    - >-
+      Only the Director of Courts, who forwards it to anyone else concerned.
+    - >-
+      The Consumer Protection Commissioner and the Israel Consumer Council.
+    - >-
+      The bank's shareholders, because the settlement may affect its profits.
+    - >-
+      The Attorney General, the Director of Courts and the Banking Supervisor.
+  correct: 3
+  explanation: >-
+    Section 18(ג) requires service on the Attorney General and the Director of Courts, and reg. 12(ד)
+    adds the regulator for the Schedule item; for item 3 that is the Banking Supervisor.

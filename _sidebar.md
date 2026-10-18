@@ -338,3 +338,13 @@
   - [265 · An arnona objection from start to finish](lessons/module-31/lesson-07.md)
   - [266 · Closing the file and when to get a lawyer](lessons/module-31/lesson-08.md)
   - [Module 31 quiz](assessments/module-31-quiz.md)
+- **Module 33 — Class Actions and Public-Interest Litigation (about 23 hours)**
+  - [267 · The Class Actions Law: purpose and the Second Schedule](lessons/module-33/lesson-01.md)
+  - [268 · Certification: the requirements, the representative plaintiff and the lawyer](lessons/module-33/lesson-02.md)
+  - [269 · Settlements, opting out and objections](lessons/module-33/lesson-03.md)
+  - [270 · Remedies, the class-actions fund, fees and awards](lessons/module-33/lesson-04.md)
+  - [271 · Public-interest litigation: public petitioners, NGOs and amicus briefs](lessons/module-33/lesson-05.md)
+  - [272 · Choosing the tool: class action, small claim or regulator complaint](lessons/module-33/lesson-06.md)
+  - [273 · Practice lab: read a class-action settlement and decide whether to opt out or object](lessons/module-33/lesson-07.md)
+  - [274 · Practice lab: an objection to a settlement](lessons/module-33/lesson-08.md)
+  - [Module 33 quiz](assessments/module-33-quiz.md)

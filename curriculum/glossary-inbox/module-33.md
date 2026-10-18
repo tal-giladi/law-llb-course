@@ -1,0 +1,17 @@
+- **תובענה ייצוגית** (tovana yitzugit) — Class action: a claim conducted on behalf of a group that did not authorise the representative, on common questions (Class Actions Law 2006 s. 2).
+- **בקשה לאישור** (bakasha le-ishur) — Application for certification of a class action (s. 5); nothing is a class action until the court certifies it.
+- **תובע מייצג** (tove'a meyatzeg) — Representative plaintiff, approved by the court; before certification called the applicant (מבקש).
+- **בא כוח מייצג** (ba ko'ach meyatzeg) — Class counsel: the lawyer representing the applicant or class; owes the class loyalty as if it were his client (ss. 2, 17).
+- **התוספת השנייה** (ha-tosefet ha-shniya) — The Second Schedule to the Class Actions Law: the closed list of claims that may be brought as class actions (s. 3(א)).
+- **פנקס תובענות ייצוגיות** (pinkas tovanot yitzugiyot) — The Class Actions Registry kept by the Director of Courts, open to the public on Net HaMishpat (s. 28).
+- **הסדר פשרה** (hesder pshara) — Settlement of a class action or application; valid only with court approval after notice, objections and usually an examiner (ss. 18–19).
+- **התנגדות מנומקת** (hitnagdut menumeket) — Reasoned objection to a class settlement or to the agreed fee recommendation, within 45 days of publication (s. 18(ד)).
+- **יציאה מן הקבוצה** (yetzi'a min ha-kvutza) — Opting out of a class: after certification (s. 11, Form 1) or from a settlement (s. 18(ו)).
+- **בודק** (bodek) — Examiner: an independent expert appointed by the court to report on a proposed class settlement (s. 19(ב)).
+- **גמול** (gmul) — Award to the representative plaintiff, fixed by the court (s. 22).
+- **הסתלקות** (histalkut) — Withdrawal from an application or class action; needs court approval, as does any benefit connected with it (s. 16).
+- **סעד לטובת הציבור** (sa'ad le-tovat ha-tzibur) — Relief for the public (cy-près), ordered where paying members is impractical; money goes to the s. 27א fund (s. 20(ג)).
+- **הקרן לניהול ולחלוקת כספים שנפסקו כסעד** (ha-keren le-nihul ve-chalukat kesafim) — Fund managed by the Administrator General that distributes residual and public relief from class actions (s. 27א).
+- **הקרן למימון תובענות ייצוגיות** (ha-keren le-mimun tovanot yitzugiyot) — Fund that helps finance class actions of public and social importance (s. 27).
+- **ידיד בית המשפט** (yedid beit ha-mishpat) — Amicus curiae: a body without a personal stake heard to assist the court; adopted in Kozli (1999).
+- **פנייה מוקדמת** (pniya mukdemet) — Prior demand to a defendant before filing; no general duty under current case law (Younes, 2019); a statutory duty for some claims was approved in committee in October 2026.

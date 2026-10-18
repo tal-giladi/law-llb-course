@@ -1,0 +1,71 @@
+- id: q1
+  question: >-
+    A road-safety NGO wants the Ministry of Transport to enforce a rule on school-bus seatbelts that
+    it has ignored for years. No member of the NGO has a personal claim. Which route fits best?
+  options:
+    - >-
+      A class action by the NGO under s. 4(א)(3), because it is hard for individuals to apply.
+    - >-
+      A petition as a public petitioner, after a prior demand to the Ministry.
+    - >-
+      An amicus application, since the NGO has expertise in road safety.
+    - >-
+      A request to take part under s. 15 of the Class Actions Law.
+  correct: 1
+  explanation: >-
+    The goal is to change government action, and s. 3(א) bars class actions against an authority for
+    failing to supervise third parties. A public petitioner may be heard on rule-of-law issues (Ressler).
+    There is no pending case to join.
+- id: q2
+  question: >-
+    An association founded four months ago to fight hidden bank fees applies for certification of a
+    class action against a bank. What is the main obstacle?
+  options:
+    - >-
+      Organisations may never apply against banks, only against ordinary businesses.
+    - >-
+      It must show actual damage to each member of the class before applying.
+    - >-
+      It has not operated for at least a year, so it is not an "organisation" under s. 2.
+    - >-
+      It needs the Attorney General's consent before applying on behalf of a class.
+  correct: 2
+  explanation: >-
+    Section 2 requires regular and genuine activity for at least a year for a public purpose. Even then
+    it must show it is hard for an individual to apply (s. 4(א)(3)); only the Consumer Council is exempt.
+- id: q3
+  question: >-
+    In a pending class action about inaccessible cinema seating, a disability-rights organisation
+    wants to help the court with its data. Which tool is designed for this?
+  options:
+    - >-
+      Filing a separate application for certification on the same facts.
+    - >-
+      Asking the Attorney General to appear under the Procedure Ordinance on its behalf.
+    - >-
+      Waiting for a settlement and only then filing an objection under s. 18(ד).
+    - >-
+      Asking the court to let it take part in the hearing under s. 15.
+  correct: 3
+  explanation: >-
+    Section 15 lets a relevant organisation take part in a class action or its certification hearing
+    where needed for an efficient and fair hearing, and s. 22(ג)(2) allows an award for its contribution.
+    A second application would likely be transferred or struck out (s. 7).
+- id: q4
+  question: >-
+    In November 2026 a student says: "Under the new AG Law, the Government already decides what the
+    State argues in every court case." What is the accurate correction?
+  options:
+    - >-
+      The Law takes effect on 1 January 2027 and excludes criminal cases and the AG's statutory powers.
+    - >-
+      The Law applies only to class actions and has no effect on petitions in the High Court.
+    - >-
+      The Law was struck down by the High Court in August 2026 and never took effect at all.
+    - >-
+      The Law lets the AG veto the Government's position in any case of public importance.
+  correct: 0
+  explanation: >-
+    Section 18 sets commencement on 1.1.2027; s. 12 excludes criminal proceedings, statutory powers of
+    the AG and representation of judicial bodies. Petitions against it were filed; their outcome was not
+    known when this lesson was checked.

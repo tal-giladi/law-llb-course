@@ -1,0 +1,51 @@
+- id: q1
+  question: >-
+    A settlement gives ₪3 of app credit to users who still have an account and rode recently. A former
+    user who deleted the app last year is in the class. What is the most accurate description of her position?
+  options:
+    - >-
+      She is outside the settlement, so her own claim is unaffected by the approval.
+    - >-
+      She will automatically receive cash instead of credit, since she has no account.
+    - >-
+      She must re-register in the app before the approval to qualify for the credit.
+    - >-
+      She receives nothing but is bound by the release unless she leaves the class.
+  correct: 3
+  explanation: >-
+    Membership is set by the class definition, not by the benefit formula. If she does not ask to leave
+    under s. 18(ו), the approval binds her (s. 24) even though the formula gives her nothing.
+- id: q2
+  question: >-
+    You first see a settlement notice on a company's website on 20 September. It says objections are due
+    "within 45 days of publication". What do you do first?
+  options:
+    - >-
+      Count 45 days from 20 September, the date you were notified.
+    - >-
+      Find the publication date in the registry or the court's decision and count from it.
+    - >-
+      Call the company's customer service and ask them to confirm your personal deadline.
+    - >-
+      Assume the date of the court's decision approving the notice is the publication date.
+  correct: 1
+  explanation: >-
+    Section 18(ד) counts from publication of the notice. The decision approving the text usually comes
+    earlier than publication, and your own date of reading is irrelevant.
+- id: q3
+  question: >-
+    A settlement's agreed recommendation is ₪337,500 for award and fee on benefits valued at ₪1.6
+    million in credits. Which calculation best supports an objection to the fee?
+  options:
+    - >-
+      Comparing the fee with the representative's award, which must be at least half the fee.
+    - >-
+      Comparing the fee with the Bar Association's minimum tariff for district court cases.
+    - >-
+      Computing the percentage on the credits likely to be used, not on their face value.
+    - >-
+      Computing the fee per hour of counsel's work, since s. 23 sets an hourly cap.
+  correct: 2
+  explanation: >-
+    Section 23(ב)(1) and Reichert tie the fee to the benefit to the class. If many credits will never be
+    used, the real benefit is lower and the percentage higher than the headline suggests.

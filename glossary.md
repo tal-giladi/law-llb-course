@@ -50,7 +50,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ארכה** (arkha) — extension given before cancelling for a non-fundamental breach (s. 7(ב)).
 - **אשם תורם** (Asham torem) — Contributory fault, reducing damages (s. 68).
 - **אשרור** (Ishrur) — Ratification: the international act by which a State consents to be bound by a treaty.
+- **בא כוח מייצג** (ba ko'ach meyatzeg) — Class counsel: the lawyer representing the applicant or class; owes the class loyalty as if it were his client (ss. 2, 17).
 - **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
+- **בודק** (bodek) — Examiner: an independent expert appointed by the court to report on a proposed class settlement (s. 19(ב)).
 - **בוררות** (Borerut) — Arbitration under the Arbitration Law 1968.
 - **בחינות הלשכה** (bhinot ha-lishka) — the Israel Bar examinations.
 - **בטלות יחסית** (Batlut yahasit) — Relative voidness: the doctrine letting a court decline to void a defective act given the circumstances.
@@ -83,6 +85,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בעל שיחה** (Ba'al sicha) — Party to a conversation (the speaker or the person it is addressed to).
 - **בעל שליטה** (Ba'al shlita) — Controlling shareholder.
 - **בעלות** (Ba'alut) — Ownership: the right to possess, use and deal with property (Land Law s. 2; Movable Property Law s. 2).
+- **בקשה לאישור** (bakasha le-ishur) — Application for certification of a class action (s. 5); nothing is a class action until the court certifies it.
 - **בקשה להישפט** (bakasha lehishafet) — Request to be tried for a fine offence, within 90 days of service (CPL s. 229(א)(2)).
 - **בקשה ליישוב סכסוך** (Bakasha le-yishuv sikhsukh) — The bare request that must precede any contested family claim (2014 Law).
 - **בקשה לעיון מחדש** (Bakasha le-iyun mehadash) — Request for reconsideration of an administrative decision.
@@ -101,6 +104,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **גילוי מרצון** (giluy meratzon) — Voluntary disclosure: a Tax Authority procedure for coming forward before an investigation.
 - **גישור** (Gishur) — Mediation: a mediator helps the parties agree, without power to decide (Courts Law s. 79ג).
 - **גלגול שלישי** (Gilgul shlishi) — Third instance; leave given only for issues beyond the parties (Haniyon Haifa).
+- **גמול** (gmul) — Award to the representative plaintiff, fixed by the court (s. 22).
 - **גמול שעות נוספות** (Gmul sha'ot nosafot) — Overtime premium: 125% for the first two daily overtime hours, 150% after.
 - **גמירת דעת** (gmirat da'at) — intent to be bound, judged objectively.
 - **גמלת הבטחת הכנסה** (Gimlat havtahat hachnasa) — Income support benefit, means-tested.
@@ -246,6 +250,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הסדר מותנה** (Hesder mutne) — Conditional arrangement: closing a criminal file on admission and conditions (CPL ss. 67א–67ב).
 - **הסדר סעיף 14** (Hesder se'if 14) — Arrangement under which pension-fund severance contributions replace severance pay.
 - **הסדר עם החייב** (hesder im hachayav) — Creditor–debtor arrangement notified to the office, which stops proceedings while kept (s. 19ב).
+- **הסדר פשרה** (hesder pshara) — Settlement of a class action or application; valid only with court approval after notice, objections and usually an examiner (ss. 18–19).
 - **הסדר ראשוני** (Hesder rishoni) — Primary arrangement: a basic policy choice that must be made by the Knesset in a statute (Rubinstein).
 - **הסדרים ראשוניים** (hesderim rishoniyim) — primary arrangements, which must be set by the Knesset in statute.
 - **הסיוע המשפטי** (ha-siyua ha-mishpati) — Legal Aid (Ministry of Justice).
@@ -291,6 +296,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הקטנת הנזק** (haktanat ha-nezek) — mitigation of damage (s. 14).
 - **הקלה** (hakala) — Relief: a permitted minor deviation from a plan, which may not add area, units or floors (ss. 147, 151).
 - **הקצין הממונה** (hakatzin hamemune) — Officer in charge at the station who reviews an arrest and may release, set police bail or hold the detainee for a judge (Arrests Law ss. 27–28, 42).
+- **הקרן למימון תובענות ייצוגיות** (ha-keren le-mimun tovanot yitzugiyot) — Fund that helps finance class actions of public and social importance (s. 27).
+- **הקרן לניהול ולחלוקת כספים שנפסקו כסעד** (ha-keren le-nihul ve-chalukat kesafim) — Fund managed by the Administrator General that distributes residual and public relief from class actions (s. 27א).
 - **הרכב** (herkev) — panel of judges.
 - **הרמת מסך** (Haramat masakh) — Lifting (piercing) the corporate veil (Companies Law s. 6).
 - **הרצאת פרטים** (Hartza'at pratim) — Statement of particulars (Forms 3 and 4) filed with family claims; omissions may be treated as admissions.
@@ -307,6 +314,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **התאמה והצדקה** (Hat'ama ve-hatsdaka) — Fit and justification, the two dimensions of Dworkinian interpretation.
 - **התארגנות ראשונית** (Hitargenut rishonit) — Initial organising of employees in a union.
 - **התגרות** (Hitgarut) — Provocation; relevant to reduced-responsibility killing (s. 301ב).
+- **התוספת השנייה** (ha-tosefet ha-shniya) — The Second Schedule to the Class Actions Law: the closed list of claims that may be brought as class actions (s. 3(א)).
 - **התחייבות לשיפוי** (Hitchayvut le-shipui) — Indemnity undertaking, treated in part like a guarantee (Guarantee Law ss. 16, 18).
 - **התחייבות עצמית** (Hitchayvut atzmit) — Self-undertaking to compensate for damage caused by an interim order (reg. 96, Form 7).
 - **התיישנות** (hityashnut) — limitation (time bar).
@@ -316,6 +324,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **התמחות** (hitmahut) — the supervised internship required before the Bar exams.
 - **התנגדות לביצוע שטר** (hitnagdut levitzu'a shtar) — Opposition to execution of a cheque, note or bill, with an affidavit, within 30 days of service; the dispute moves to court (s. 81א).
 - **התנגדות לתכנית** (hitnagdut le-tokhnit) — Objection to a deposited plan, in writing with reasons and an affidavit, within two months (ss. 100–103א).
+- **התנגדות מנומקת** (hitnagdut menumeket) — Reasoned objection to a class settlement or to the agreed fee recommendation, within 45 days of publication (s. 18(ד)).
 - **התניית שירות בשירות** (hatnayat sherut be-sherut) — Tying one banking service to another; prohibited without a reasonable business connection (s. 7).
 - **התנכלות** (Hitnaklut) — Retaliation for harassment or for complaining about it.
 - **התפטרות בדין מפוטר** (Hitpatrut be-din mefutar) — Resignation treated as dismissal for severance purposes (Severance Pay Law s. 11 and others).
@@ -436,6 +445,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **טענת המחקר / תזה** (Ta'anat ha-mechkar / teza) — The thesis: the answer a paper argues for.
 - **טענת פרעתי** (Ta'anat parati) — A debtor's claim that he already paid or no longer owes (s. 19).
 - **ידועים בציבור** (Yedu'im ba-tzibur) — Cohabitants known in public as a couple: family life and a joint household.
+- **ידיד בית המשפט** (yedid beit ha-mishpat) — Amicus curiae: a body without a personal stake heard to assist the court; adopted in Kozli (1999).
 - **ידיד קרוב** (Yedid karov) — Close friend, who may represent a claimant before the NII (NII Law s. 386).
 - **ידיעה שיפוטית** (yedi'a shiputit) — Judicial notice: facts and law the court takes without proof; every Israeli law is judicially noticed (s. 57ב), foreign law must be proved.
 - **יומן מועדים** (yoman mo'adim) — Deadline diary: each deadline with the event it runs from and the proof of that event's date.
@@ -453,6 +463,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ייפוי כוח מתמשך** (yipui ko'ah mitmashekh) — Enduring power of attorney that takes effect on loss of capacity (Capacity and Guardianship Law s. 32ב).
 - **ילקוט הפרסומים (י"פ)** (Yalkut HaPirsumim) — The Reshumot series for official notices and appointments.
 - **יעילות** (Ye'ilut) — Efficiency; Pareto (someone better off, nobody worse off) or Kaldor-Hicks (winners gain more than losers lose).
+- **יציאה מן הקבוצה** (yetzi'a min ha-kvutza) — Opting out of a class: after certification (s. 11, Form 1) or from a settlement (s. 18(ו)).
 - **כאב וסבל** (Ke'ev vesevel) — Pain and suffering, a head of non-pecuniary damage.
 - **כבוד האדם** (Kvod ha-adam) — Human dignity, the source of most derived constitutional rights.
 - **כבילת שיקול דעת** (Kvilat shikul da'at) — Fettering of discretion, for example by a rigid policy or a commitment to a third party.
@@ -665,6 +676,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **סמכות שיפוט בין־לאומית** (samchut shiput bein-le'umit) — International jurisdiction: whether an Israeli court may hear a case with a foreign element.
 - **סעד זמני ארעי** (Sa'ad zmani ar'i) — Temporary order given ex parte pending an inter partes hearing (reg. 97).
 - **סעד חלופי** (sa'ad halufi) — alternative remedy; a reason for the HCJ to decline a petition.
+- **סעד לטובת הציבור** (sa'ad le-tovat ha-tzibur) — Relief for the public (cy-près), ordered where paying members is impractical; money goes to the s. 27א fund (s. 20(ג)).
 - **ספק סביר** (Safek savir) — Reasonable doubt; guilt must be proved beyond it (s. 34כב).
 - **ספר החוקים (ס"ח)** (Sefer HaChukim) — The Reshumot series in which Knesset laws are published.
 - **ספר החוקים הפתוח** (Sefer HaChukim HaPatuach) — The Open Law Book: free, unofficial consolidated texts of Israeli laws on Wikisource.
@@ -767,7 +779,9 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פמיניזם משפטי** (Feminizm mishpati) — Feminist legal theory, which examines how law built on one group's experience treats women.
 - **פניות הציבור** (Pniyot hatzibur) — Public-enquiries (complaints) unit of a regulator or a business.
 - **פנייה לפי סעיף 60א** (pniya lefi se'if 60א) — A felony suspect's reasoned written request to the prosecution not to indict (CPL s. 60א); often called a pre-indictment hearing (שימוע).
+- **פנייה מוקדמת** (pniya mukdemet) — Prior demand to a defendant before filing; no general duty under current case law (Younes, 2019); a statutory duty for some claims was approved in committee in October 2026.
 - **פנקס שוברים** (Pinkas shovrim) — Voucher booklet through which buyers pay into a financed project's account, each payment triggering a guarantee.
+- **פנקס תובענות ייצוגיות** (pinkas tovanot yitzugiyot) — The Class Actions Registry kept by the Director of Courts, open to the public on Net HaMishpat (s. 28).
 - **פסיקתה** (Psikta) — Formal order embodying a judgment (reg. 133).
 - **פסלות לרשת** (pslut lareshet) — Disqualification from inheriting, e.g. for causing the deceased's death or forging the will (s. 5).
 - **פסק בוררות** (Psak borerut) — Arbitral award; binding as res judicata and enforceable once confirmed.
@@ -934,6 +948,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תביעת חוב** (tvi'at chov) — Proof of debt filed with the trustee (Insolvency Law s. 210).
 - **תגובה מקדמית** (Tguva mukdemet) — Preliminary response of the respondent to a petition.
 - **תגמולי ביטוח** (Tagmulei bituach) — Insurance proceeds.
+- **תובע מייצג** (tove'a meyatzeg) — Representative plaintiff, approved by the court; before certification called the applicant (מבקש).
+- **תובענה ייצוגית** (tovana yitzugit) — Class action: a claim conducted on behalf of a group that did not authorise the representative, on common questions (Class Actions Law 2006 s. 2).
 - **תובענה מינהלית** (Tvi'a minhalit) — Administrative claim, e.g. restitution of unlawful charges (Third Schedule).
 - **תודעת חיוב משפטי (opinio juris)** (Toda'at hiyuv mishpati) — Acceptance of a practice as legally required; the second element of custom.
 - **תוחלת** (Tohelet) — Expected value: the probability-weighted average of possible outcomes, net of costs.

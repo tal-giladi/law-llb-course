@@ -1,0 +1,70 @@
+- id: q1
+  question: >-
+    Thousands of residents paid a municipal "sanitation levy" that a court later held had no legal basis.
+    A resident wants to bring a class action to get the money back. Under which route can it be brought?
+  options:
+    - >-
+      Item 1, because the municipality supplied a service to residents as customers.
+    - >-
+      Item 11, as a restitution claim against an authority, in the administrative affairs court.
+    - >-
+      No route at all, because class actions cannot be brought against public bodies.
+    - >-
+      Item 6, because waste collection is an environmental matter under that item.
+  correct: 1
+  explanation: >-
+    Item 11 covers claims against an authority to restore sums unlawfully collected as a tax, fee or other
+    compulsory payment, and says such claims may be brought only under that item; s. 5(ב)(2) sends them to
+    the administrative affairs court.
+- id: q2
+  question: >-
+    A group of investors lost money in a private start-up after a friend's bad advice. No business,
+    bank, insurer or security traded on an exchange is involved. What follows from s. 3(א)?
+  options:
+    - >-
+      They can file a class action because their questions of fact are common to all of them.
+    - >-
+      They can file once the court agrees that a class action is the efficient route.
+    - >-
+      They cannot file a class action unless the claim fits a Schedule item or another statute allows it.
+    - >-
+      They can file if an organisation with a public purpose agrees to act as the applicant.
+  correct: 2
+  explanation: >-
+    The Second Schedule is a closed list. Common questions and efficiency are certification conditions
+    (s. 8), but they only matter once the claim is of a permitted kind under s. 3(א).
+- id: q3
+  question: >-
+    You want to know whether anyone has already filed a class action against your health fund's
+    supplementary insurance. What is the best first step?
+  options:
+    - >-
+      Search the Class Actions Registry on Net HaMishpat by the fund's name, using the advanced search.
+    - >-
+      Send the fund a freedom-of-information request asking for a list of claims against it.
+    - >-
+      Ask the court registry by phone, since the registry is not open to the public online.
+    - >-
+      Wait for a newspaper notice, since applications are published only when they are certified.
+  correct: 0
+  explanation: >-
+    Section 28 makes the registry and its documents public on the courts' website; applications are
+    recorded from filing (s. 6), so the advanced search by party name shows pending applications too.
+- id: q4
+  question: >-
+    A student writes: "Israel's class actions mostly fail the public; only about a fifth of decided
+    cases help the class." Which statement about this claim is accurate?
+  options:
+    - >-
+      It is a Supreme Court holding in Tnuva, so it is binding on the lower courts.
+    - >-
+      It comes from the government's 2024 bill notes, and opponents of reform dispute its conclusions.
+    - >-
+      It is a finding of the Israel Consumer Council, which supports limiting class actions.
+    - >-
+      It reflects Amendment 16, which the Knesset plenary enacted in full in October 2026.
+  correct: 1
+  explanation: >-
+    The figure of about 22% appears in the explanatory notes to Government Bill Amendment 16 (2024),
+    based on an inter-ministerial team. Disability and consumer advocates argue the tool still deters
+    breaches; only part of the bill was approved in committee in October 2026.
