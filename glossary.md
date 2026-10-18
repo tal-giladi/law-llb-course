@@ -112,6 +112,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **גזר דין** (Gzar din) — Sentence.
 - **גילוי דעת** (giluy da'at) — Published opinion of the Bar's National Ethics Committee (for example on AI, 2024 and 2026).
 - **גילוי מרצון** (giluy meratzon) — Voluntary disclosure: a Tax Authority procedure for coming forward before an investigation.
+- **גיליון קידוד** (Gilayon kidud) — Coding sheet: the fixed variables and categories used to record data.
 - **גישור** (Gishur) — Mediation: a mediator helps the parties agree, without power to decide (Courts Law s. 79ג).
 - **גלגול שלישי** (Gilgul shlishi) — Third instance; leave given only for issues beyond the parties (Haniyon Haifa).
 - **גמול** (gmul) — Award to the representative plaintiff, fixed by the court (s. 22).
@@ -124,6 +125,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **גרימת מוות ברשלנות** (Grimat mavet be-rashlanut) — Causing death by negligence (s. 304).
 - **דבר המלך במועצתו** (dvar ha-melekh be-mo'atzto) — the Palestine Order in Council 1922, the Mandate's constitutional document.
 - **דבר מה נוסף** (dvar ma nosaf) — "Something extra": the minimal corroboration needed to convict on a confession.
+- **דברי הכנסת** (Divrei ha-Knesset) — The Knesset plenary record.
 - **דברי הסבר** (divrei hesber) — Explanatory notes published with a bill.
 - **דגל שחור** (Degel shahor) — "Black flag": the image for an order whose illegality is obvious to any conscience.
 - **דואר רשום עם אישור מסירה** (do'ar rashum im ishur mesira) — Registered mail with proof of delivery.
@@ -224,6 +226,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **היסב** (hesev) — Endorsement: signature on a bill transferring it; the endorser becomes liable (ss. 31, 55).
 - **היסוד הנפשי** (Ha-yesod ha-nafshi) — The mental element (mens rea).
 - **היסוד העובדתי** (Ha-yesod ha-uvdati) — The factual element (actus reus): conduct, circumstances and, in result offences, the result (s. 18).
+- **היסטוריה משפטית** (Historia mishpatit) — Legal history.
 - **היקש** (hekesh) — analogy, reasoning from a similar rule.
 - **היתר בנייה** (heter bniya) — Building permit required for building, adding, demolishing and listed works (s. 145).
 - **היתר פיטורים** (Heter piturim) — Ministerial permit needed to dismiss a pregnant employee or one after maternity leave or in fertility treatment.
@@ -308,6 +311,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הצעה** (hatza'a) — offer; a communication showing intent to be bound and certain enough for acceptance (Contracts Law s. 2).
 - **הצעות חוק (ה"ח)** (Hatza'ot Chok) — The Reshumot series for bills, with their explanatory notes.
 - **הצעת חוק האקלים** (hatza'at chok ha-aklim) — The government Climate Bill, approved in committee for final readings on 3.12.2024; not reported enacted as of 18.10.2026.
+- **הצעת חוק לדיון מוקדם** (Hatza'at chok le-diyun mukdam) — Private member's bill at the preliminary reading.
 - **הצעת חוק מטעם ועדה** (Hatza'at hok mi-ta'am va'ada) — Committee bill, allowed only on subjects listed in Rules s. 80.
 - **הצעת חוק ממשלתית** (Hatza'at hok memshaltit) — Government bill.
 - **הצעת חוק פרטית** (Hatza'at hok pratit) — Private member's bill, tabled by an MK who is not a minister or deputy minister; it passes a preliminary reading before first reading.
@@ -362,6 +366,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ועדת השרים לענייני חקיקה** (Va'adat ha-sarim le-inyenei hakika) — Ministerial Committee for Legislation, which decides the Government's position on bills.
 - **ועדת חריגים** (va'adat charigim) — Exceptions committee (e.g. for rent assistance outside the rules).
 - **ועדת מכרזים** (Va'adat michrazim) — Tender committee.
+- **ועדת משנה** (Va'adat mishne) — Subcommittee.
 - **ועדת ערר (מיסוי מקרקעין)** (va'adat arar) — Real-estate taxation appeals committee chaired by a judge (Real Estate Taxation Law ss. 88–89).
 - **ועדת ערר (שירותי הסעד)** (va'adat arar) — Welfare appeals committee hearing appeals against municipal social services departments (Welfare Services Law s. 2).
 - **ועדת ערר (תכנון ובנייה)** (va'adat erer) — District appeals committee for planning, chaired by an experienced lawyer (ss. 12א–12ב).
@@ -434,6 +439,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חזקת הגיל הרך** (Hazkat ha-gil ha-rakh) — Tender-years presumption: children up to six stay with their mother unless there are special reasons (s. 25).
 - **חזקת ההתאמה** (Hezkat ha-hat'ama) — Presumption of compatibility: Israeli law is read, where possible, consistently with Israel's international obligations (Yated).
 - **חטא** (Het) — Contravention: maximum up to three months, or a fine only (s. 24).
+- **חידוש / תרומה מקורית** (Chidush / truma mekorit) — Original contribution: what a paper adds to existing knowledge.
 - **חיוב** (hiyuv) — obligation.
 - **חיזוק** (chizuk) — Strengthening: confirming evidence required for an accomplice's sole testimony, a recanting witness's statement or a young child's testimony.
 - **חייב** (Chayav) — Judgment debtor in an execution file.
@@ -535,6 +541,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **לשכת אשראי** (lishkat ashrai) — Credit bureau licensed under the Credit Data Law.
 - **לשכת עורכי הדין** (lishkat orkhei ha-din) — The Israel Bar Association, a statutory corporation that registers interns, examines candidates, admits and disciplines lawyers (Bar Association Law 1961).
 - **מאגר החקיקה הלאומי** (Ma'agar HaChakika HaLeumi) — The Knesset's National Legislation Database of laws, amendments and bills.
+- **מאגרי מידע משפטיים** (Ma'agrei meida mishpatiyim) — Legal databases.
 - **מאזן ההסתברויות** (ma'azan hahistabruyot) — Balance of probabilities, the civil standard of proof.
 - **מאמן** (me'amen) — The intern's principal: a judge, registrar or lawyer with five years' seniority approved by the Bar (s. 29).
 - **מאמר תגובה** (Ma'amar tguva) — Response article: a published reply to another author's article.
@@ -549,6 +556,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מבלי לפגוע בזכויות** (Mibli lifgo'a bazchuyot) — "Without prejudice": a label on settlement offers.
 - **מבצע באמצעות אחר** (Mevatze'a be-emtza'ut aher) — Perpetrator by means of another (innocent agent) (s. 29(ג)).
 - **מבצע בצוותא** (Mevatze'a be-tzavta) — Joint principal (co-perpetrator) (s. 29).
+- **מגיב / מגיבה** (Megiv / megiva) — Discussant: the assigned respondent to a paper in a seminar.
 - **מגשר** (megasher) — mediator.
 - **מדרג הנורמות** (Midrag ha-normot) — The hierarchy of norms: by-law, regulation, statute, Basic Law.
 - **מובא אצל** (Muva etzel) — "Quoted in": the way to cite a source known only through another author's citation.
@@ -576,6 +584,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מחיקה / דחייה על הסף** (Mechika / dchiya al hasaf) — Striking out (not res judicata) / summary dismissal (final) (regs 41, 43).
 - **מחיקת פרט רישום** (mechikat prat rishum) — Deletion of a record entry after a further period (Criminal Information Law ss. 21–23).
 - **מחלקה לשירותים חברתיים** (Mahlaka le-sherutim hevratiyim) — Municipal social services department.
+- **מחקר אמפירי** (Mechkar empiri) — Empirical research: data about how law works in practice.
 - **מחשבה פלילית** (Mahshava plilit) — Criminal intent: awareness of the nature of the conduct and the circumstances, and, for results, intent or recklessness (s. 20).
 - **מידע להיתר** (meida le-heter) — Official planning information for a plot given by the committee engineer before a permit application (s. 145(א1)).
 - **מידע על איכות הסביבה** (meida al eichut ha-sviva) — Environmental information (FOI Law s. 6א): data on substances released to the environment and noise, smell and radiation measurements outside the private domain, which authorities must publish proactively.
@@ -634,6 +643,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **מפר תמים** (mefer tamim) — Innocent infringer: one who neither knew nor should have known that copyright existed; owes no damages (s. 58).
 - **מפרט** (Mifrat) — The statutory specification a developer must attach to a sale contract (Sale (Apartments) Law ss. 2–3).
 - **מפת דרכים** (Mapat drachim) — Roadmap: the passage at the end of an introduction that says what each part of the paper does.
+- **מפת טיעון** (Mapat ti'un) — Argument map: a diagram of thesis, claims, sources and objections.
 - **מקדמות** (mikdamot) — Advance payments of income tax during the year (ITO s. 175).
 - **מקום שיפוט / סמכות מקומית** (Mekom shiput / samchut mekomit) — Venue: which district a claim is filed in (regs 7–8).
 - **מקור הכנסה** (makor hachnasa) — Source of income: one of the categories in ITO s. 2 (business, employment, dividends and interest, rent, etc.).
@@ -655,10 +665,12 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **משפט הטבע** (Mishpat ha-teva) — Natural law: the view that law answers to standards of reason and justice, so that gross injustice is a defect in law.
 - **משפט זוטא** (mishpat zuta) — Trial within a trial on the admissibility of evidence, typically a confession.
 - **משפט כשלמות** (Mishpat ki-shlemut) — Law as integrity: the right legal answer is the one that best fits and justifies the community's legal practice (Dworkin).
+- **משפט משווה** (Mishpat mashve) — Comparative law.
 - **משפט עברי** (Mishpat ivri) — Jewish law, usually its civil (non-ritual) part as studied in Israeli law.
 - **משפט רך** (Mishpat rach) — Soft law: non-binding instruments such as resolutions, declarations and treaty-body recommendations.
 - **משקל ראייתי** (mishkal re'ayati) — Weight: how much an admitted item proves; decided by the court on credibility and circumstances (Evidence Ordinance s. 53).
 - **משרד רשום / מען דיגיטלי** (Misrad rashum / me'an digitali) — Registered office / digital address of a company (Companies Law ss. 123, 123א).
+- **מתווה הפוך** (Mitve hafukh) — Reverse outline: one line per paragraph, written after drafting.
 - **מתחם המידתיות** (Mitham ha-midatiyut) — Zone of proportionality: the range of proportionate choices left to the authority.
 - **מתחם העונש ההולם** (Mitham ha-onesh ha-holem) — Appropriate sentencing range (s. 40ג).
 - **מתחם התמרון של המחוקק** (Mithem ha-timrun shel ha-mehokek) — The legislature's margin of appreciation, wide in social and economic policy (Gavish).
@@ -719,6 +731,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **סימן 46** (siman 46) — art. 46 of the Order in Council, which imported English common law and equity until 1980.
 - **סימן מסחר** (siman mischar) — Trade mark: a sign used or intended for goods; the Ordinance applies equally to service marks (סימן שירות).
 - **סימן מסחר מוכר היטב** (siman mischar mukar heitev) — Well-known trade mark: protected even if unregistered for the same or similar goods (Ordinance ss. 1, 46א).
+- **סמינר** (Seminar) — Seminar course: a small research-based course that ends in a seminar paper; at TAU a 4-credit course in year 3.
 - **סמכויות עזר** (Samchuyot ezer) — Ancillary powers reasonably needed to exercise a power (Interpretation Law s. 17).
 - **סמכות ייחודית** (samkhut yihudit) — exclusive jurisdiction.
 - **סמכות מקבילה** (samkhut makbila) — parallel (concurrent) jurisdiction.
@@ -735,6 +748,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **סקירת ספרות** (Skirat sifrut) — Literature review: an account of what scholars have already written on the question.
 - **עבודה אסורה** (avoda asura) — Prohibited work: work without or contrary to a permit (Chapter 10).
 - **עבודה סמינריונית** (Avoda seminaryonit) — Seminar paper: a longer research paper, usually in year 3 or 4.
+- **עבודה סמינריונית עצמאית** (Avoda seminaryonit atzma'it) — Independent seminar paper, written alone, with no co-authors.
 - **עבודות שירות** (Avodot sherut) — Imprisonment served as community work.
 - **עבירה בת מעצר** (avera bat ma'atzar) — Arrestable offence: any offence except a contravention (Arrests Law s. 23(א)(7)).
 - **עבירת משמעת** (avirat mishma'at) — Disciplinary offence by a lawyer (s. 61).
@@ -855,11 +869,13 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **פעולה משפטית** (pe'ula mishpatit) — legal (juristic) act; the Contracts Law applies to non-contractual legal acts through s. 61(ב).
 - **פעולת תשלום במסמך חסר** (pe'ulat tashlum be-mismach chaser) — Payment without a signed document or strongly authenticated record, typically an online card payment (Payment Services Law s. 29).
 - **פעולת תשלום מובטחת** (pe'ulat tashlum muvtachat) — Guaranteed payment transaction, such as a typical card payment (Payment Services Law s. 1).
+- **פער במחקר** (Pa'ar ba-mechkar) — Research gap: what the closest existing work does not do.
 - **פקודה בלתי חוקית בעליל** (Pkuda bilti hukit be-alil) — Manifestly unlawful order; obedience to it is no defence (Penal Law s. 34יג(2); the "black flag" test of the Kafr Qasim trial).
 - **פקודת הנזיקין [נוסח חדש]** (Pkudat hanezikin) — The Civil Wrongs Ordinance [New Version], the main tort statute (Mandate 1944, re-enacted 1968).
 - **פקודת מס הכנסה** (pkudat mas hachnasa) — The Income Tax Ordinance [New Version], the main income-tax statute.
 - **פקיד תביעות** (Pkid tvi'ot) — NII claims officer who decides benefit claims.
 - **פרוטוקול הוועדה** (protokol ha-va'ada) — A committee's minutes; the record a court reviews on an appeal on law.
+- **פרוטוקול ועדה** (Protokol va'ada) — Transcript of a Knesset committee session.
 - **פרוסמינר** (Proseminar) — First research-paper course in the LL.B., before the seminar; at TAU a 3-credit condition for the year-3 seminar.
 - **פרי העץ המורעל** (pri ha'etz hamur'al) — "Fruit of the poisonous tree": evidence derived from illegal evidence; Israeli law assesses it case by case, without automatic exclusion.
 - **פריט ליקוי** (prit likui) — Item of the NII impairment list applied to a finding.
@@ -1021,6 +1037,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תובענה מינהלית** (Tvi'a minhalit) — Administrative claim, e.g. restitution of unlawful charges (Third Schedule).
 - **תודעת חיוב משפטי (opinio juris)** (Toda'at hiyuv mishpati) — Acceptance of a practice as legally required; the second element of custom.
 - **תוחלת** (Tohelet) — Expected value: the probability-weighted average of possible outcomes, net of costs.
+- **תוכנית מחקר** (Tochnit mechkar) — Research plan: question, contribution, method, sources and timeline for a paper.
 - **תום לב** (tom lev) — good faith (Contracts Law ss. 12, 39).
 - **תוספת ראשונה** (Tosefet rishona) — First Schedule of the Administrative Affairs Courts Law: subjects of administrative petitions.
 - **תורה שבכתב / תורה שבעל פה** (Torah she-bikhtav / torah she-be'al peh) — The Written Law (Pentateuch) / the Oral Law (the interpretive tradition).
@@ -1028,6 +1045,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תזכיר** (Tazkir) — Memorandum of association; exists only for companies formed before the Companies Law 1999.
 - **תזכיר חוק** (Tazkir hok) — Bill memorandum: a ministry's draft bill with explanatory notes, published for public comment before it goes to the Ministerial Committee for Legislation.
 - **תזכיר משפטי** (tazkir mishpati) — A legal research memo.
+- **תזכיר תגובה** (Tazkir tguva) — Response memo: a decision and reason for each comment received.
 - **תחולה נדחית** (Tkhula nidhet) — Deferred application, a remedy used in HCJ 2412/23.
 - **תחלוף** (Tachluf) — Subrogation: the paying insurer takes over the insured's claim against the wrongdoer (s. 62).
 - **תחליף המצאה** (Tachalif hamtza'a) — Substituted service ordered by the court (reg. 164).
@@ -1037,6 +1055,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **תיקון המעוות** (tikun ha-me'uvat) — Restoring the previous state; a remedy under the Civil Claims Law 1992 ss. 2, 8.
 - **תיקון כתב טענות** (Tikun ktav ta'anot) — Amendment of a pleading (regs 46–47).
 - **תיקון עקיף** (tikkun akif) — An indirect amendment: a change to one law made inside another law.
+- **תיקוף** (Tikuf) — Periodisation: dividing history into periods.
 - **תכלית אובייקטיבית** (tachlit obyektivit) — Objective purpose: the purpose reflecting the legal system's values.
 - **תכלית סובייקטיבית** (tachlit subyektivit) — Subjective purpose: what the legislature actually intended.
 - **תכלית ראויה** (Takhlit re'uya) — Proper purpose, a condition of the limitation clause.

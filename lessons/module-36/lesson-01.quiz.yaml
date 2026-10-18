@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Noa wants to turn her 15-page proseminar paper on the Second Schedule into her TAU seminar paper by adding
+    15 more pages of rulings. What is the main problem?
+  options:
+    - >-
+      Seminar papers must be on a different area of law from the proseminar paper.
+    - >-
+      It risks submitting a similar paper and adds no original contribution.
+    - >-
+      Seminar papers may not cite any source used in an earlier paper.
+    - >-
+      TAU allows proseminar topics to be reused only in year 4 seminars.
+  correct: 1
+  explanation: >-
+    The faculty rules forbid submitting a paper identical or similar to one submitted in another course, and the
+    seminar is graded on what it adds. She may build on the earlier work with a new question and disclosure.
+- id: q2
+  question: >-
+    A TAU year-3 student has finished a strong seminar paper but skipped the one-time library-databases session.
+    What follows under the yedion?
+  options:
+    - >-
+      Nothing; the session is a recommendation for students without database access.
+    - >-
+      The seminar grade is reduced by a fixed amount for each missed session.
+    - >-
+      Attending the session is a condition for submitting the seminar paper.
+    - >-
+      The student must take an extra 2-credit course on research methods instead.
+  correct: 2
+  explanation: >-
+    The yedion makes the one-time session (course 1411-7777) a condition for submitting the seminar paper, so the
+    student must attend it before submission.
+- id: q3
+  question: >-
+    Which gap sentence best states an original contribution?
+  options:
+    - >-
+      "This paper examines the important topic of class actions in Israel from several angles."
+    - >-
+      "Class actions are controversial, and this paper presents the arguments on both sides in full."
+    - >-
+      "This paper surveys all Supreme Court rulings on class actions since 2006 in chronological order."
+    - >-
+      "Earlier work counted applications up to the early 2010s; no one has coded recent ones against mobile operators."
+  correct: 3
+  explanation: >-
+    A gap sentence names the closest existing work and what it does not do. The others describe a topic, a
+    balanced survey or a chronology, none of which adds something new.
+- id: q4
+  question: >-
+    Likhovski's article on dividing Israeli legal history into "Mandate" and "State" uses mostly familiar sources.
+    What kind of contribution does it make?
+  options:
+    - >-
+      A new framing: a different question about known material.
+    - >-
+      New data: it builds an original database of every Mandate-era ruling.
+    - >-
+      A proposal: it drafts a statute to replace the remaining Mandate legislation.
+    - >-
+      A comparison: it compares Israeli and English legal history clause by clause.
+  correct: 0
+  explanation: >-
+    The article's novelty lies in challenging the accepted periodisation, showing that some changes began in the
+    1940s and others expected after 1948 did not occur.

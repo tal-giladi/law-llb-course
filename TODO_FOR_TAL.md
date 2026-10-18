@@ -12,7 +12,7 @@
 - Module 10: holdings of HCJ 5988/21, BRA 120/69 and BAM 7628/17 come only from a government bill's explanatory notes; review lesson 10.3 for neutrality.
 - Neutrality review done (curriculum/qa/neutrality-report.md): check the 06.6 government-side argument (written from memory) against HCJ 2412/23, and the pending media petitions in 06.4; the course mixes "Judea and Samaria" and "West Bank".
 - Links: 568 checked, 1 fixed; 18 gov.il/Kol-Zchut/court pages blocked automated access and need a manual click (curriculum/qa/link-report.md).
-- Years 1–3 ready to import: repo tal-giladi/law-llb-course, 31 modules, 266 lessons, check-course 0 problems. Year 4 is planned, not written.
+- Modules 1–36 ready to import: repo tal-giladi/law-llb-course, 36 modules, 305 lessons, check-course 0 problems. Paused before modules 37–39 and the final QA.
 - Module 13: Ganz (ע"א 2643/97) and Aharonov (ע"א 189/95) described without report citations; confirm whether a private person can file a caveat online end to end.
 - Module 16: nine corporate rulings cited from a secondary summary (Fiegenbaum & Licht 2017); Prat v. Dadon case number incomplete; check multi-founder online company registration.
 - Module 15: about 14 civil-procedure rulings sourced from Hebrew Wikipedia only (incl. רע"א 1954/24); 2026 appeal fees from Wikisource notes.
@@ -33,3 +33,4 @@
 - Module 32: IP case captions rendered from English translations; conflict on whether individuals may still file trademarks on paper.
 - Module 34: Climate Bill status after December 2024 and HCJ 7063/23 details from press reports; review module 34 for neutrality on climate.
 - Module 35: AI-citation rulings (בג"ץ 38379-12-24, Zlatin 77773-12-20, Ramat Gan 63194-08-25) from press reports only; the Bar's AI opinion text not extracted.
+- Module 36: TAU seminar rules cited from the 2016–17 faculty regulations (no current edition online).

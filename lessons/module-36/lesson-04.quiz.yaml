@@ -1,0 +1,66 @@
+- id: q1
+  question: >-
+    Yael installs Zotero and looks for a citation style that formats her Hebrew footnotes under the Israeli uniform
+    citation rules. What should she expect, as checked in October 2026?
+  options:
+    - >-
+      The official style repository has an Israeli style, installed by default with Hebrew Zotero.
+    - >-
+      The Bluebook style formats Hebrew sources correctly, because the uniform rules follow it.
+    - >-
+      No such style exists in the official repository, so she writes Hebrew footnotes by hand.
+    - >-
+      OSCOLA is the accepted substitute in Israeli faculties for Hebrew-language sources.
+  correct: 2
+  explanation: >-
+    The official CSL repository had no style for the uniform rules. Zotero is still useful as a library of
+    sources, PDFs and pinpoints, but Hebrew footnotes must be written by hand.
+- id: q2
+  question: >-
+    Two weeks before peer review, Eitan's chapter ב has grown to nine pages against a budget of four, and chapter ד
+    is still a list of notes. What is the best next move?
+  options:
+    - >-
+      Polish the language of chapter ב first, since it is the part the supervisor reads first.
+    - >-
+      Cut chapter ב to its budget now, moving the excess to a cuts file, and draft chapter ד.
+    - >-
+      Ask for a higher page limit, since a long framework chapter shows thorough research.
+    - >-
+      Leave both chapters as they are and fix the length during the final footnote pass.
+  correct: 1
+  explanation: >-
+    The page budget exists to protect the argument chapters. Cutting the overgrown chapter early, without losing the
+    text, frees time and space for the chapter that carries the contribution.
+- id: q3
+  question: >-
+    On Michal's argument map, claim 2 has no source under it and one objection has no reply. What do these show?
+  options:
+    - >-
+      That the map is too detailed and should be reduced to the thesis alone.
+    - >-
+      That claim 2 should become the thesis, since it is the most original part.
+    - >-
+      That the objection can be deleted, because unanswered objections weaken a paper.
+    - >-
+      A gap in support and a weakness, both to be fixed before drafting further.
+  correct: 3
+  explanation: >-
+    The map's purpose is to reveal what is missing: a claim needs a source and an objection needs a reply. Deleting
+    a strong objection would make the paper look one-sided.
+- id: q4
+  question: >-
+    Which order of revision does the lesson recommend for a full 30-page draft?
+  options:
+    - >-
+      Structure with a reverse outline, then paragraphs and transitions, then sentences and footnotes.
+    - >-
+      Footnotes first, since they take longest, then sentences, then the overall structure.
+    - >-
+      Sentences first, chapter by chapter, then the structure once the language is final.
+    - >-
+      Peer review first, then a single combined pass that fixes everything at once.
+  correct: 0
+  explanation: >-
+    Fixing structure first avoids polishing paragraphs that will later be moved or cut; footnotes and sentences come
+    last, followed by the integrity check.

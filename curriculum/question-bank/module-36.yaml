@@ -1,0 +1,1178 @@
+- id: m36-001
+  module: 36
+  lesson: "36.1"
+  subject: seminar-requirements
+  difficulty: 1
+  question: >-
+    At Tel Aviv University, in which year must an LL.B. student take the 4-credit seminar with an independent paper?
+  options:
+    - >-
+      Year 1, together with the legal-writing course.
+    - >-
+      Year 2, instead of the proseminar.
+    - >-
+      Year 3, after the proseminar.
+    - >-
+      Year 4, as part of the internship preparation.
+  correct: 2
+  explanation: >-
+    The TAU yedion requires a 4-credit seminar with an independent seminar paper in year 3; the proseminar in year 2 is a condition for it.
+- id: m36-002
+  module: 36
+  lesson: "36.1"
+  subject: seminar-requirements
+  difficulty: 1
+  question: >-
+    What is TAU course 1411-7777?
+  options:
+    - >-
+      A one-time library and legal-databases session required before submitting the seminar paper.
+    - >-
+      An elective seminar on Israeli legal history, taught in English to year-3 students.
+    - >-
+      The proseminar offered to students in the combined law and humanities programme.
+    - >-
+      A writing workshop that replaces the seminar paper for students who take a clinic.
+  correct: 0
+  explanation: >-
+    The yedion lists 1411-7777 as "הדרכה בספרייה ובמאגרי מידע משפטיים", and attending the one-time session is a condition for submitting the seminar paper.
+- id: m36-003
+  module: 36
+  lesson: "36.1"
+  subject: seminar-requirements
+  difficulty: 1
+  question: >-
+    According to the curricula research used in this course, how many seminars do the Hebrew University, Haifa and Reichman require?
+  options:
+    - >-
+      One, in the final semester only.
+    - >-
+      None; they require a thesis instead.
+    - >-
+      Three, one per subject cluster.
+    - >-
+      Two.
+  correct: 3
+  explanation: >-
+    HUJI, Haifa and Reichman require two seminars; TAU requires one 4-credit seminar in year 3 and Bar-Ilan 8 credits of seminars.
+- id: m36-004
+  module: 36
+  lesson: "36.1"
+  subject: original-contribution
+  difficulty: 2
+  question: >-
+    Which of these is an original contribution rather than a survey?
+  options:
+    - >-
+      A complete list of every ruling on a section, arranged in date order.
+    - >-
+      A reading of unexamined committee protocols that explains a section's wording.
+    - >-
+      A careful summary of the three best-known articles written on the topic.
+    - >-
+      A description of the statute, with long quotations from each of its sections.
+  correct: 1
+  explanation: >-
+    Reading a neglected primary source and drawing a conclusion from it adds something; lists and summaries only organise what is known.
+- id: m36-005
+  module: 36
+  lesson: "36.1"
+  subject: original-contribution
+  difficulty: 2
+  question: >-
+    Weinshall-Margel and Klement's 2016 study of class actions is a model of which kind of contribution?
+  options:
+    - >-
+      New data from an original database of all applications in the study period.
+    - >-
+      A comparison of the Israeli and American class-action statutes, clause by clause.
+    - >-
+      A legal-historical periodisation of class actions in Israel since the Mandate.
+    - >-
+      A normative proposal to abolish the Second Schedule and open all claims.
+  correct: 0
+  explanation: >-
+    The paper presents, for the first time, data from an original database covering all applications filed in the study period (N = 2,056), within a cost-benefit framework.
+- id: m36-006
+  module: 36
+  lesson: "36.1"
+  subject: original-contribution
+  difficulty: 2
+  question: >-
+    A student's gap sentence reads: "Much has been written about class actions, and this paper adds to it." What is missing?
+  options:
+    - >-
+      A footnote with the page count of each earlier article.
+    - >-
+      A statement that the topic is important to the public.
+    - >-
+      The name of the closest earlier work and what it does not do.
+    - >-
+      The student's personal reason for choosing the topic.
+  correct: 2
+  explanation: >-
+    A gap sentence must name the closest existing work and the specific thing it leaves undone; otherwise the contribution is only asserted.
+- id: m36-007
+  module: 36
+  lesson: "36.1"
+  subject: independence-rule
+  difficulty: 3
+  question: >-
+    Two friends at TAU want to write one joint 60-page seminar paper for the same undergraduate seminar. What do the faculty regulations say?
+  options:
+    - >-
+      Joint papers are allowed if each author writes half the pages.
+    - >-
+      An undergraduate seminar paper must be independent, with no co-authors.
+    - >-
+      Joint papers are allowed with the lecturer's oral consent.
+    - >-
+      Joint papers are allowed in year 4 seminars but not in year 3.
+  correct: 1
+  explanation: >-
+    Section 82(א) requires every undergraduate seminar paper to be the student's own independent work, without partners; joint papers at master's level need prior approval.
+- id: m36-008
+  module: 36
+  lesson: "36.1"
+  subject: independence-rule
+  difficulty: 3
+  question: >-
+    Hadas wants to build her seminar paper on the framework chapter of her proseminar paper. What is the right way?
+  options:
+    - >-
+      Copy the chapter in full, since it is her own text and so needs no citation or disclosure.
+    - >-
+      Paraphrase the chapter closely enough that similarity software is unlikely to flag it.
+    - >-
+      Avoid the topic entirely, because a topic used in one course may never be reused later.
+    - >-
+      Disclose the earlier paper, ask the supervisor, and use it only as background to a new question.
+  correct: 3
+  explanation: >-
+    Submitting a similar paper is forbidden, and undisclosed reuse of one's own work is an integrity breach. With a new question and disclosure, building on earlier work is legitimate.
+- id: m36-009
+  module: 36
+  lesson: "36.1"
+  subject: research-plan
+  difficulty: 2
+  question: >-
+    Why should the seminar timeline end at least two weeks before the submission date?
+  options:
+    - >-
+      To leave room for revisions after peer review and unexpected delays in sources.
+    - >-
+      Because the faculty requires a full draft to be filed two weeks before the deadline.
+    - >-
+      Because supervisors are known to grade papers submitted early more generously.
+    - >-
+      To leave enough time to translate the whole paper into English before submitting.
+  correct: 0
+  explanation: >-
+    Comments from the presentation and peer review usually require real work; a buffer prevents a late submission that needs approval.
+- id: m36-010
+  module: 36
+  lesson: "36.1"
+  subject: original-contribution
+  difficulty: 3
+  question: >-
+    Midway through her research, Efrat finds a 2025 article that answers exactly her seminar question. What is the best response?
+  options:
+    - >-
+      Ignore it, since the supervisor is unlikely to know about it.
+    - >-
+      Cite it in a footnote and keep the same question and thesis.
+    - >-
+      Narrow or reframe the question to build on what the article does not cover.
+    - >-
+      Abandon the seminar and take a different seminar next year.
+  correct: 2
+  explanation: >-
+    A published answer removes the gap; the contribution must move to what the article leaves open, such as newer data, another source or a different framing.
+- id: m36-011
+  module: 36
+  lesson: "36.2"
+  subject: research-methods
+  difficulty: 1
+  question: >-
+    Which question calls mainly for an empirical method?
+  options:
+    - >-
+      What should the law on surrogacy be?
+    - >-
+      How long do labour-court wage claims take to reach judgment?
+    - >-
+      Is the Supreme Court's test for good faith coherent?
+    - >-
+      Why did the Knesset adopt the 1980 Foundations of Law Act?
+  correct: 1
+  explanation: >-
+    Duration of cases is a question about how law works in practice, answered with data such as court statistics.
+- id: m36-012
+  module: 36
+  lesson: "36.2"
+  subject: research-methods
+  difficulty: 1
+  question: >-
+    In comparative law, what does "functional" comparison mean?
+  options:
+    - >-
+      Comparing institutions that have the same name in both systems.
+    - >-
+      Comparing only systems that share a common legal origin.
+    - >-
+      Comparing the number of statutes each system has on a subject.
+    - >-
+      Comparing how each system solves the same practical problem.
+  correct: 3
+  explanation: >-
+    Functional comparison starts from a problem and asks how each system deals with it, regardless of labels.
+- id: m36-013
+  module: 36
+  lesson: "36.2"
+  subject: empirical-design
+  difficulty: 1
+  question: >-
+    In an empirical study, what is the "unit of analysis"?
+  options:
+    - >-
+      What one row of your data represents, for example one application.
+    - >-
+      The statistical test you plan to run once all the data are collected.
+    - >-
+      The number of pages your findings chapter is allowed to take up.
+    - >-
+      The court that produced the largest share of the cases in your data.
+  correct: 0
+  explanation: >-
+    The unit is what each row stands for; choosing it (application, decision, party) determines how everything is counted.
+- id: m36-014
+  module: 36
+  lesson: "36.2"
+  subject: empirical-design
+  difficulty: 2
+  question: >-
+    Why should coding categories be fixed before you code most of your data?
+  options:
+    - >-
+      Because the registry only allows its data to be downloaded in fixed categories.
+    - >-
+      Because supervisors do not allow a free-text notes column in a coding sheet.
+    - >-
+      So that every entry is classified by the same rules and the study can be repeated.
+    - >-
+      So that the results can be adjusted at the end to support the thesis better.
+  correct: 2
+  explanation: >-
+    Categories invented while coding change the rules mid-way and make the data inconsistent; piloting and then freezing them avoids that.
+- id: m36-015
+  module: 36
+  lesson: "36.2"
+  subject: empirical-design
+  difficulty: 2
+  question: >-
+    What is a simple reliability check for a one-person coding project?
+  options:
+    - >-
+      Asking an AI tool to confirm that the categories make sense.
+    - >-
+      Recoding every tenth entry a week later and comparing the results.
+    - >-
+      Counting the entries twice on the same day.
+    - >-
+      Sending the spreadsheet to the court registry for approval.
+  correct: 1
+  explanation: >-
+    Recoding a sample after a gap shows whether the categories are applied consistently; frequent disagreement means they need clarifying.
+- id: m36-016
+  module: 36
+  lesson: "36.2"
+  subject: court-data-limits
+  difficulty: 2
+  question: >-
+    Under Courts Law s. 70(ג1), what may not be published without consent or the court's permission?
+  options:
+    - >-
+      The name of the judge who heard a commercial dispute in the district court.
+    - >-
+      The amount the court awarded to the claimant in a small-claims judgment.
+    - >-
+      The case number and court of an appeal decided by the district court.
+    - >-
+      The name or ID number of a party claiming compensation for bodily injury.
+  correct: 3
+  explanation: >-
+    Section 70(ג1) bars publishing the name or ID number of a bodily-injury claimant (other than for mental anguish only) without that party's consent or the court's permission.
+- id: m36-017
+  module: 36
+  lesson: "36.2"
+  subject: court-data-limits
+  difficulty: 1
+  question: >-
+    What is the default rule for court hearings under Courts Law s. 68(א)?
+  options:
+    - >-
+      Hearings are public.
+    - >-
+      Hearings are closed unless a party asks to open them.
+    - >-
+      Only Supreme Court hearings are public.
+    - >-
+      Hearings are public only if the media request it.
+  correct: 0
+  explanation: >-
+    Section 68(א) states that a court sits in public; s. 68(ב) and (ה) set out the exceptions.
+- id: m36-018
+  module: 36
+  lesson: "36.2"
+  subject: legal-history
+  difficulty: 2
+  question: >-
+    What is the main weakness of a legal-history chapter that lists events from 1948 to today in order?
+  options:
+    - >-
+      It relies on too many primary sources for a single seminar chapter.
+    - >-
+      It makes no claim about change or continuity, so it is a chronicle.
+    - >-
+      It should start in the Ottoman period in order to be complete.
+    - >-
+      Legal-history chapters must be written in English to be accepted.
+  correct: 1
+  explanation: >-
+    A legal-historical contribution needs a claim about what changed, what did not and why, tested on chosen sources.
+- id: m36-019
+  module: 36
+  lesson: "36.2"
+  subject: research-methods
+  difficulty: 3
+  question: >-
+    Shai finds 30 small-claims judgments through web search and wants to report the "win rate in Israeli small claims". Which wording is defensible?
+  options:
+    - >-
+      "Consumers win most of the small claims they file in Israeli courts."
+    - >-
+      "Small-claims courts favour consumers in roughly two out of three cases."
+    - >-
+      "In this sample of judgments found online, the consumer won in most cases."
+    - >-
+      "Israeli small-claims courts decide consumer claims fairly and consistently."
+  correct: 2
+  explanation: >-
+    A convenience sample supports statements only about that sample; the method section must say how it was found and what it cannot show.
+- id: m36-020
+  module: 36
+  lesson: "36.2"
+  subject: comparative-sources
+  difficulty: 2
+  question: >-
+    Which free source gives the official text of United Kingdom statutes for a comparative chapter?
+  options:
+    - >-
+      EUR-Lex.
+    - >-
+      Cornell LII.
+    - >-
+      BAILII's judgment archive only.
+    - >-
+      legislation.gov.uk.
+  correct: 3
+  explanation: >-
+    legislation.gov.uk is the official UK legislation site; BAILII holds case law, EUR-Lex EU law and Cornell LII US law.
+- id: m36-021
+  module: 36
+  lesson: "36.2"
+  subject: research-methods
+  difficulty: 3
+  question: >-
+    Nadav's supervisor asks him to justify comparing Israel with England on contract remedies. Which justification is strongest?
+  options:
+    - >-
+      Much Israeli private law has English roots, so the comparison can explain divergence.
+    - >-
+      English sources are easier to find online for free than sources from other systems.
+    - >-
+      England is the most influential legal system in the world, so it is always relevant.
+    - >-
+      He has already read several English contract cases for a course in another year.
+  correct: 0
+  explanation: >-
+    Systems should be chosen for a reason related to the question, such as a common origin; convenience is not a method.
+- id: m36-022
+  module: 36
+  lesson: "36.3"
+  subject: legislative-history
+  difficulty: 1
+  question: >-
+    Which document contains a bill's explanatory notes?
+  options:
+    - >-
+      The final law as it was published in Sefer HaChukim.
+    - >-
+      The bill published for first or preliminary reading.
+    - >-
+      The Wikisource version history of the consolidated law.
+    - >-
+      The Judiciary's annual statistical report for that year.
+  correct: 1
+  explanation: >-
+    Explanatory notes (דברי הסבר) are published with the bill; the final law in Sefer HaChukim has none.
+- id: m36-023
+  module: 36
+  lesson: "36.3"
+  subject: legislative-history
+  difficulty: 1
+  question: >-
+    Which version of a statute prevails if Wikisource, the Knesset site and Reshumot differ?
+  options:
+    - >-
+      Wikisource, because it is updated most often.
+    - >-
+      The Knesset site, because the Knesset enacts laws.
+    - >-
+      The official publication in Reshumot.
+    - >-
+      Whichever version the court used most recently.
+  correct: 2
+  explanation: >-
+    Reshumot is the official gazette; the Knesset itself says official publications prevail, and Wikisource is unofficial.
+- id: m36-024
+  module: 36
+  lesson: "36.3"
+  subject: copyright-official-texts
+  difficulty: 1
+  question: >-
+    Under Copyright Law s. 6, which of these has no copyright?
+  options:
+    - >-
+      A journal article analysing a Supreme Court ruling.
+    - >-
+      A textbook chapter on statutory interpretation.
+    - >-
+      A law firm's summary of a new statute.
+    - >-
+      A judicial decision of a court.
+  correct: 3
+  explanation: >-
+    Section 6 excludes statutes, regulations, Knesset proceedings and judicial decisions from copyright; writing about them is protected.
+- id: m36-025
+  module: 36
+  lesson: "36.3"
+  subject: knesset-odata
+  difficulty: 2
+  question: >-
+    In the Knesset OData service, which table lists the committee sessions that discussed a given bill?
+  options:
+    - >-
+      KNS_CmtSessionItem, filtered by the bill's ID.
+    - >-
+      KNS_IsraelLaw, filtered by the law's name.
+    - >-
+      KNS_DocumentBill, filtered by the committee.
+    - >-
+      KNS_Person, filtered by the committee chair.
+  correct: 0
+  explanation: >-
+    KNS_CmtSessionItem links agenda items such as bills to committee sessions; KNS_DocumentCommitteeSession then gives each session's protocol file.
+- id: m36-026
+  module: 36
+  lesson: "36.3"
+  subject: knesset-odata
+  difficulty: 2
+  question: >-
+    How do you find a law's ID in the Knesset database from its Wikisource page?
+  options:
+    - >-
+      It is the year of enactment, written in the law's title on Wikisource.
+    - >-
+      From the link behind the Knesset icon in the source box, which ends with the ID.
+    - >-
+      It is the page number on which the law appears in Sefer HaChukim.
+    - >-
+      You cannot; Wikisource does not link to the Knesset database at all.
+  correct: 1
+  explanation: >-
+    The source box's Knesset icon links to the law's page in the National Legislation Database; the number at the end of the link is the law's ID (2000026 for the Class Actions Law).
+- id: m36-027
+  module: 36
+  lesson: "36.3"
+  subject: legislative-history
+  difficulty: 2
+  question: >-
+    For the Class Actions Law, how many committee sessions on the bill did the Knesset database list when checked in October 2026?
+  options:
+    - >-
+      3, all in the Constitution, Law and Justice Committee.
+    - >-
+      None, because the bill was passed without committee discussion.
+    - >-
+      21: 18 in a subcommittee and 3 in the full committee.
+    - >-
+      About 100, spread across five different committees.
+  correct: 2
+  explanation: >-
+    The OData records list 21 sessions between April 2005 and March 2006, most of them in the subcommittee set up for the bill.
+- id: m36-028
+  module: 36
+  lesson: "36.3"
+  subject: wikisource-history
+  difficulty: 2
+  question: >-
+    Why cite a fixed Wikisource version (with oldid) rather than the live page?
+  options:
+    - >-
+      Because the live page is not searchable.
+    - >-
+      Because fixed versions are official texts.
+    - >-
+      Because the citation rules forbid citing websites.
+    - >-
+      Because the live page may change after you cite it.
+  correct: 3
+  explanation: >-
+    The fixed version shows exactly the text you relied on; for the authoritative wording you still cite Reshumot.
+- id: m36-029
+  module: 36
+  lesson: "36.3"
+  subject: weight-of-materials
+  difficulty: 3
+  question: >-
+    Which item of legislative history usually carries the most weight on why a section was changed in committee?
+  options:
+    - >-
+      The committee legal adviser's explanation of the amendment in the protocol.
+    - >-
+      A speech by an opposition member during the second and third readings.
+    - >-
+      A newspaper interview given by the responsible minister after enactment.
+    - >-
+      A business association's letter to the committee opposing the change.
+  correct: 0
+  explanation: >-
+    The adviser's or chair's explanation of an agreed change reflects the committee's reasoning; speeches, letters and interviews show individual views.
+- id: m36-030
+  module: 36
+  lesson: "36.3"
+  subject: legislative-history
+  difficulty: 3
+  question: >-
+    Spot the mistake: "The purpose of s. 8 is clear from the explanatory notes to the 2005 bill, which I quote. (The committee later rewrote s. 8, but the notes still apply.)"
+  options:
+    - >-
+      Explanatory notes may never be quoted in an academic paper about purpose.
+    - >-
+      Notes explain the bill as proposed, so the rewrite's reasons need checking.
+    - >-
+      The writer should have quoted the Wikisource copy of the explanatory notes.
+    - >-
+      Explanatory notes to a 2005 bill can never apply to a law enacted in 2006.
+  correct: 1
+  explanation: >-
+    When a committee rewrites a section, the original notes may no longer describe it; the protocol of the session that changed it is the better evidence.
+- id: m36-031
+  module: 36
+  lesson: "36.3"
+  subject: case-databases
+  difficulty: 2
+  question: >-
+    What should a search log for case-law research record?
+  options:
+    - >-
+      Only the rulings you finally decided to cite in the paper.
+    - >-
+      The names of the judges who sat on each ruling you found.
+    - >-
+      Date, site, exact query, number of results and how many you read.
+    - >-
+      How long you spent on each website during the search.
+  correct: 2
+  explanation: >-
+    A full log lets someone repeat the search and shows that you did not pick only favourable results.
+- id: m36-032
+  module: 36
+  lesson: "36.3"
+  subject: legislative-history
+  difficulty: 3
+  question: >-
+    Wikisource lists 11 amending laws for a statute; the OData query lists 12. What is the most likely explanation and response?
+  options:
+    - >-
+      OData counts repealed laws twice, so Wikisource's count is the right one.
+    - >-
+      The difference is irrelevant, because only the current text matters.
+    - >-
+      OData also counts regulations, which are not amendments to the law.
+    - >-
+      One source has not caught up; open the extra amendment in Reshumot.
+  correct: 3
+  explanation: >-
+    A mismatch usually means an amendment is missing from one list; Reshumot settles what the amendment says and whether it touches your section.
+- id: m36-033
+  module: 36
+  lesson: "36.3"
+  subject: purposive-interpretation
+  difficulty: 2
+  question: >-
+    In Kibbutz Hatzor (CA 165/82), what role did the Court give legislative history?
+  options:
+    - >-
+      One source of purpose, alongside the language, structure and problem addressed.
+    - >-
+      The only legitimate source of purpose, overriding the statute's language.
+    - >-
+      No role, because tax statutes are always to be read literally.
+    - >-
+      A source used only when the statute contains an express purpose clause.
+  correct: 0
+  explanation: >-
+    Barak J. held that purpose is learned from the law itself, its structure, the problem it was meant to solve and its legislative history, within the limits of the language.
+- id: m36-034
+  module: 36
+  lesson: "36.3"
+  subject: knesset-odata
+  difficulty: 1
+  question: >-
+    Which description of the Knesset OData service is accurate as checked in October 2026?
+  options:
+    - >-
+      A paid service for law firms that requires a subscription and a login.
+    - >-
+      An open data service listing laws, bills, documents and committee sessions.
+    - >-
+      A copy of a private legal database, hosted by the Knesset for MKs.
+    - >-
+      An archive of court rulings that cite Knesset laws, sorted by law.
+  correct: 1
+  explanation: >-
+    The service at knesset.gov.il/Odata/ParliamentInfo.svc is open, needs no login and is listed on data.gov.il.
+- id: m36-035
+  module: 36
+  lesson: "36.4"
+  subject: long-paper-structure
+  difficulty: 1
+  question: >-
+    What is a page budget?
+  options:
+    - >-
+      The cost of printing and binding the paper for submission.
+    - >-
+      The maximum number of footnotes allowed on each page.
+    - >-
+      A planned number of pages for each chapter, set before drafting.
+    - >-
+      The number of pages the supervisor has agreed to read.
+  correct: 2
+  explanation: >-
+    Budgeting pages per chapter protects the argument chapters from being squeezed by a growing framework.
+- id: m36-036
+  module: 36
+  lesson: "36.4"
+  subject: argument-map
+  difficulty: 1
+  question: >-
+    What does an argument map show?
+  options:
+    - >-
+      The order in which you read your sources during the research.
+    - >-
+      The locations of the courts whose rulings you cite in the paper.
+    - >-
+      The dates of each revision cycle until the submission deadline.
+    - >-
+      The thesis, its supporting claims, their sources and the objections.
+  correct: 3
+  explanation: >-
+    The map links thesis, claims, sources and objections, so gaps and unanswered objections become visible.
+- id: m36-037
+  module: 36
+  lesson: "36.4"
+  subject: reference-manager
+  difficulty: 1
+  question: >-
+    What was the current Zotero release when this module was checked on 2026-10-18?
+  options:
+    - >-
+      10.0.6.
+    - >-
+      5.0.
+    - >-
+      7.0 beta.
+    - >-
+      Zotero was discontinued in 2025.
+  correct: 0
+  explanation: >-
+    The Zotero download page served version 10.0.6 on 2026-10-18.
+- id: m36-038
+  module: 36
+  lesson: "36.4"
+  subject: reference-manager
+  difficulty: 2
+  question: >-
+    Which citation styles relevant to law were in the official CSL repository when checked?
+  options:
+    - >-
+      The Israeli uniform rules, in both a Hebrew and an English version.
+    - >-
+      Bluebook and OSCOLA styles, but none for the Israeli uniform rules.
+    - >-
+      Only general styles such as APA and MLA, with no legal styles.
+    - >-
+      A separate style for each of the Israeli faculty law journals.
+  correct: 1
+  explanation: >-
+    The repository had Bluebook and OSCOLA styles but no style for the Israeli uniform citation rules.
+- id: m36-039
+  module: 36
+  lesson: "36.4"
+  subject: revision
+  difficulty: 2
+  question: >-
+    What is a reverse outline?
+  options:
+    - >-
+      An outline written before any research begins, then followed strictly.
+    - >-
+      The table of contents read from the last chapter back to the first.
+    - >-
+      One line per paragraph stating its point, written after drafting.
+    - >-
+      A list of all your sources, sorted from the newest to the oldest.
+  correct: 2
+  explanation: >-
+    Summarising each paragraph after drafting shows what the text actually says, so it can be compared with the argument map.
+- id: m36-040
+  module: 36
+  lesson: "36.4"
+  subject: format-rules
+  difficulty: 2
+  question: >-
+    Under the 2016–17 TAU faculty regulations, what must the title page of a seminar paper state?
+  options:
+    - >-
+      Only the student's name and the course number, with no other details.
+    - >-
+      The supervisor's grade recommendation and the date it was given.
+    - >-
+      A short list of the main sources used, with the number of footnotes.
+    - >-
+      Course, lecturer, date, name, ID and word count including footnotes.
+  correct: 3
+  explanation: >-
+    Section 82(ה) lists the course, lecturer, submission date, student's name, ID number and word count including footnotes.
+- id: m36-041
+  module: 36
+  lesson: "36.4"
+  subject: revision
+  difficulty: 2
+  question: >-
+    Why keep a "cuts" file when revising?
+  options:
+    - >-
+      So that cut text is saved and cutting does not feel like losing work.
+    - >-
+      Because the faculty requires every earlier draft to be submitted too.
+    - >-
+      To add the cut text back at the end as a separate appendix.
+    - >-
+      To show the reviewer how much text was written in total.
+  correct: 0
+  explanation: >-
+    Saving cut text makes it easier to cut decisively; it can be reused elsewhere if needed.
+- id: m36-042
+  module: 36
+  lesson: "36.4"
+  subject: reference-manager
+  difficulty: 3
+  question: >-
+    Spot the mistake: "I imported all my Supreme Court rulings into Zotero automatically from a search engine, so the case numbers and dates are certainly right."
+  options:
+    - >-
+      Zotero cannot store court rulings, only books and journal articles.
+    - >-
+      Automatic metadata for Israeli rulings must be checked against the court's site.
+    - >-
+      Rulings must be cited from a paid database, never from search engines.
+    - >-
+      Case numbers are not needed in footnotes if the parties are named.
+  correct: 1
+  explanation: >-
+    Imported metadata for Israeli sources is often wrong or incomplete; enter case number, parties and date yourself from a reliable source.
+- id: m36-043
+  module: 36
+  lesson: "36.4"
+  subject: long-paper-structure
+  difficulty: 3
+  question: >-
+    Ronit's chapters each read well but the paper "has no spine", says her supervisor. What is the best fix?
+  options:
+    - >-
+      Add more footnotes to each chapter to show the depth of the research.
+    - >-
+      Merge all the chapters into one long chapter without subheadings.
+    - >-
+      Rewrite each chapter's opening and closing to state how it advances the thesis.
+    - >-
+      Move the thesis out of the introduction and state it only in the conclusion.
+  correct: 2
+  explanation: >-
+    Chapters that drift become separate essays; linking each one explicitly to the thesis and to the next chapter restores the line of argument.
+- id: m36-044
+  module: 36
+  lesson: "36.4"
+  subject: revision
+  difficulty: 3
+  question: >-
+    Elad spends two weeks perfecting the sentences of his introduction, then finds in the reverse outline that chapter ד contradicts the thesis. What did he do wrong?
+  options:
+    - >-
+      He should have written the introduction last.
+    - >-
+      He should not have written a reverse outline.
+    - >-
+      He should have asked a reviewer to fix chapter ד.
+    - >-
+      He polished sentences before checking structure.
+  correct: 3
+  explanation: >-
+    The structure cycle comes first; polishing text that may be rewritten or cut wastes time.
+- id: m36-045
+  module: 36
+  lesson: "36.4"
+  subject: format-rules
+  difficulty: 2
+  question: >-
+    Lilach's seminar has a 12,000-word limit and her rules count footnotes. Her text is 11,500 words with 3,000 words of footnotes. What should she do?
+  options:
+    - >-
+      Trim footnotes that carry no source and tighten the text to fit the limit.
+    - >-
+      Nothing, because footnotes never count toward a seminar word limit.
+    - >-
+      Move all the footnotes into an appendix, which is not counted.
+    - >-
+      Ask the faculty secretariat to change the rule for her paper only.
+  correct: 0
+  explanation: >-
+    If the rules count footnotes, she is over the limit; cutting discursive footnotes and tightening prose fixes it.
+- id: m36-046
+  module: 36
+  lesson: "36.5"
+  subject: presentation
+  difficulty: 1
+  question: >-
+    What should the last slide of a work-in-progress presentation usually do?
+  options:
+    - >-
+      Thank the audience and list all the sources used in the paper.
+    - >-
+      Ask for help on one or two specific open questions.
+    - >-
+      Repeat the title slide so the audience remembers the topic.
+    - >-
+      Show the full text of the conclusion for the audience to read.
+  correct: 1
+  explanation: >-
+    Ending with a specific open question invites the comments that will most improve the paper.
+- id: m36-047
+  module: 36
+  lesson: "36.5"
+  subject: presentation
+  difficulty: 1
+  question: >-
+    Under the 2016–17 TAU regulations (s. 84(א)), what may the seminar grade reflect besides the written paper?
+  options:
+    - >-
+      The number of sources cited in the paper's footnotes.
+    - >-
+      The student's grades in the other courses of the same year.
+    - >-
+      The oral presentation and active participation in discussions.
+    - >-
+      The length of the paper beyond the minimum page count.
+  correct: 2
+  explanation: >-
+    The grade is set by the written paper and may also reflect the oral presentation and the student's active contribution to discussions.
+- id: m36-048
+  module: 36
+  lesson: "36.5"
+  subject: answering-questions
+  difficulty: 2
+  question: >-
+    Which is a "distinguish" answer to a hard question?
+  options:
+    - >-
+      "You're right; I'll add that limit to the method section."
+    - >-
+      "I hadn't considered that; I'll check it and come back to you."
+    - >-
+      "The protocol of the November session covers exactly that point."
+    - >-
+      "That ruling was about another item, so it doesn't decide mine."
+  correct: 3
+  explanation: >-
+    Distinguishing shows why an authority raised against you does not apply; the others concede, plan or cite.
+- id: m36-049
+  module: 36
+  lesson: "36.5"
+  subject: answering-questions
+  difficulty: 2
+  question: >-
+    Why restate a question before answering it?
+  options:
+    - >-
+      It shows you understood it and gives you a moment to think.
+    - >-
+      It lets you change the question to one you would rather answer.
+    - >-
+      It is a formal requirement of the faculty regulations.
+    - >-
+      It uses up time, so that fewer hard questions can be asked.
+  correct: 0
+  explanation: >-
+    A one-sentence restatement checks understanding and buys thinking time; it should not distort the question.
+- id: m36-050
+  module: 36
+  lesson: "36.5"
+  subject: response-memo
+  difficulty: 2
+  question: >-
+    What must a response memo include for each comment?
+  options:
+    - >-
+      The commenter's name and their own grade in the seminar.
+    - >-
+      A decision (accept, accept in part, reject) and what changes or why not.
+    - >-
+      A full rewrite of each paragraph that the comment concerned.
+    - >-
+      Only the comments that were accepted, without the rejected ones.
+  correct: 1
+  explanation: >-
+    Every comment gets a decision and a reason or a planned change; rejected comments are recorded with reasons.
+- id: m36-051
+  module: 36
+  lesson: "36.5"
+  subject: deadlines
+  difficulty: 2
+  question: >-
+    Under the 2016–17 TAU regulations, how long a delay may the lecturer approve for a seminar paper?
+  options:
+    - >-
+      Up to one month, orally.
+    - >-
+      Any delay, if the student is in year 4.
+    - >-
+      Up to two weeks, with written approval.
+    - >-
+      None; only the dean may approve delays.
+  correct: 2
+  explanation: >-
+    Section 83(ז) lets the lecturer approve up to two weeks with written approval; the faculty officer may add two more for sufficient cause.
+- id: m36-052
+  module: 36
+  lesson: "36.5"
+  subject: discussant
+  difficulty: 3
+  question: >-
+    Spot the mistake in this discussant's plan: "I'll spend fifteen minutes going through the paper section by section and suggest my own wording for each paragraph."
+  options:
+    - >-
+      Discussants should not read the paper in advance, to keep their reaction fresh.
+    - >-
+      Discussants should only praise the paper, leaving criticism to the supervisor.
+    - >-
+      The discussant should use the time to present their own paper instead.
+    - >-
+      It is too long, and rewriting replaces the author's work; raise one or two points.
+  correct: 3
+  explanation: >-
+    The protocol is five minutes, what works, one or two points with reasons, and a question; comment, do not rewrite.
+- id: m36-053
+  module: 36
+  lesson: "36.5"
+  subject: oral-hearing
+  difficulty: 3
+  question: >-
+    At a hearing in her own small claim, the judge asks Rivka about a point she has not prepared, which depends on a document she does not have with her. What is the best response?
+  options:
+    - >-
+      Ask, if needed, for a short time to respond in writing with the document.
+    - >-
+      Guess an answer quickly, so as not to appear unprepared to the judge.
+    - >-
+      Refuse to answer, because the point was not raised in her statement of claim.
+    - >-
+      Ask the other side's representative to answer the judge's question for her.
+  correct: 0
+  explanation: >-
+    The "plan" answer works in court too: say honestly what you need and ask for time to respond properly rather than guess.
+- id: m36-054
+  module: 36
+  lesson: "36.6"
+  subject: seminar-rubric
+  difficulty: 1
+  question: >-
+    In the module's seminar rubric, what score marks a paper ready to submit?
+  options:
+    - >-
+      At least 14 of 28, with any number of zeros.
+    - >-
+      At least 22 of 28, with no line at 0.
+    - >-
+      At least 26 of 28.
+    - >-
+      Full marks on lines 11–14 only.
+  correct: 1
+  explanation: >-
+    The threshold is 22 of 28 with no line at 0, combining the ten proseminar lines and four seminar lines.
+- id: m36-055
+  module: 36
+  lesson: "36.6"
+  subject: peer-review
+  difficulty: 1
+  question: >-
+    What is exchanged in round 1 of the module's peer-review protocol?
+  options:
+    - >-
+      The full draft, with all footnotes and appendices.
+    - >-
+      Only the title page and a one-paragraph abstract.
+    - >-
+      The research plan, chapter plan and argument map.
+    - >-
+      The final version, for proofreading before submission.
+  correct: 2
+  explanation: >-
+    Round 1 in week 7 reviews the plan and the map, when structural problems are still cheap to fix.
+- id: m36-056
+  module: 36
+  lesson: "36.6"
+  subject: primary-source-chapter
+  difficulty: 2
+  question: >-
+    What belongs in the appendix of a paper with a coded-data chapter?
+  options:
+    - >-
+      The full text of every ruling cited.
+    - >-
+      The student's personal notes and drafts.
+    - >-
+      The supervisor's comments on the proposal.
+    - >-
+      The coding sheet and the search log.
+  correct: 3
+  explanation: >-
+    The coding sheet and log let a reader check and repeat the work; they are the evidence behind the method.
+- id: m36-057
+  module: 36
+  lesson: "36.6"
+  subject: timeline
+  difficulty: 2
+  question: >-
+    In the 12-week plan, when is the introduction written?
+  options:
+    - >-
+      Last in the drafting stage, after the argument chapters.
+    - >-
+      First, in week 1, before any of the research has been done.
+    - >-
+      Only after submission, when it is rewritten as an abstract.
+    - >-
+      During the presentation, based on the audience's comments.
+  correct: 0
+  explanation: >-
+    A draft introduction helps early, but the final one is written after the chapters so that the roadmap matches the paper.
+- id: m36-058
+  module: 36
+  lesson: "36.6"
+  subject: integrity
+  difficulty: 2
+  question: >-
+    During round 2 of peer review, Omer sees a strong idea in his reviewer's paper that would fit his own. What should he do?
+  options:
+    - >-
+      Use it, since peer review is a shared exercise and ideas may circulate.
+    - >-
+      Not use it; reviewers keep each other's drafts confidential and independent.
+    - >-
+      Use it, with a footnote thanking the reviewer for the suggestion.
+    - >-
+      Use it only if the reviewer has not yet submitted their own paper.
+  correct: 1
+  explanation: >-
+    The protocol requires confidentiality and independence; using a peer's unpublished idea would breach both.
+- id: m36-059
+  module: 36
+  lesson: "36.6"
+  subject: own-affairs
+  difficulty: 2
+  question: >-
+    Why does supplied question B ask for a section of a law that governs your own affairs?
+  options:
+    - >-
+      Because laws about daily life have the longest legislative histories.
+    - >-
+      Because the Knesset only publishes committee protocols for such laws.
+    - >-
+      So that the research file can later support your own letter, claim or appeal.
+    - >-
+      So that the finished paper can be filed in court as an expert opinion.
+  correct: 2
+  explanation: >-
+    The worksheet built for the paper doubles as a ready paragraph on purpose if a dispute on that section arises; act in your own name only.
+- id: m36-060
+  module: 36
+  lesson: "36.6"
+  subject: timeline
+  difficulty: 3
+  question: >-
+    In week 10, Michal realises her primary-source chapter rests on two protocols out of 21 sessions. Her rubric line 12 scores 1. What is the most effective use of the remaining two weeks?
+  options:
+    - >-
+      Polish the language of every chapter to raise the score on line 10.
+    - >-
+      Add more secondary articles to the literature review in chapter ב.
+    - >-
+      Remove the primary-source chapter and submit a purely doctrinal paper.
+    - >-
+      Search all 21 protocols for her section and read in full those that discuss it.
+  correct: 3
+  explanation: >-
+    Systematic reading of the relevant protocols is what lifts the primary-source line and the contribution; the search log shows the coverage.
+- id: m36-061
+  module: 36
+  lesson: "36.6"
+  subject: seminar-rubric
+  difficulty: 3
+  question: >-
+    Which situation scores 0 on seminar line 13 ("the structure holds over 30 pages")?
+  options:
+    - >-
+      A chapter that is absent from the argument map entirely.
+    - >-
+      A chapter that runs one page over its planned page budget.
+    - >-
+      A chapter whose heading states a claim rather than a topic.
+    - >-
+      A chapter that answers the strongest objection to the thesis.
+  correct: 0
+  explanation: >-
+    Line 13 tests whether every chapter advances the thesis; a chapter outside the map breaks the structure.
+- id: m36-062
+  module: 36
+  lesson: "36.6"
+  subject: own-affairs
+  difficulty: 3
+  question: >-
+    Ofer, representing himself in a dispute with his employer, wants to rely on the legislative history of a section of the Wage Protection Law. Which use is most persuasive?
+  options:
+    - >-
+      Quoting the minister's newspaper interview given after the law passed.
+    - >-
+      Attaching his whole 40-page research file to the statement of claim.
+    - >-
+      Quoting the bill, the committee change and its recorded reason.
+    - >-
+      Stating in the claim that "everyone knows what the Knesset meant".
+  correct: 2
+  explanation: >-
+    A short, precise paragraph from primary sources supports a purposive reading; interviews, assertions and bulky attachments carry little weight.

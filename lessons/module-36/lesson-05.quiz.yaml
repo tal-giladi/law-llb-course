@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    During her seminar presentation, Shira is told that her data cover only two years, so her trend claim is weak.
+    The point is correct. What is the best answer?
+  options:
+    - >-
+      Defend the claim firmly, since conceding in public lowers the presentation grade.
+    - >-
+      Concede, narrow the claim to those two years, and say you will state the limit in the paper.
+    - >-
+      Promise to collect ten more years of data before submission, whatever the deadline.
+    - >-
+      Say that trends are outside the paper's scope, although the slide shows a trend.
+  correct: 1
+  explanation: >-
+    Conceding a correct point about scope protects the core of the argument. Narrowing the claim and stating the
+    limit is a plan you can keep within the deadline.
+- id: q2
+  question: >-
+    Amir is the assigned discussant for a classmate's paper. Which approach fits the protocol in the lesson?
+  options:
+    - >-
+      Summarise the paper section by section so the group remembers it, then thank the author.
+    - >-
+      Rewrite the weakest section aloud so that the author can copy the better version.
+    - >-
+      List every typo and footnote error, since precision is what the supervisor grades.
+    - >-
+      Say what works, raise one or two points with reasons, and end with a question.
+  correct: 3
+  explanation: >-
+    A discussant adds value by identifying the few changes that matter most, with reasons, and leaving the author
+    a question to answer; summarising or rewriting does neither.
+- id: q3
+  question: >-
+    After the presentation, Lina has nine comments, two of which would require adding a chapter on American law.
+    Her question is about Israeli law only. What should her response memo do with them?
+  options:
+    - >-
+      Reject them with a one-sentence reason, and note the comparison as further research.
+    - >-
+      Accept them, because every comment made in a seminar must be implemented.
+    - >-
+      Leave them out of the memo, since rejected comments should not be recorded.
+    - >-
+      Accept them in part by adding one paragraph of American law to the introduction.
+  correct: 0
+  explanation: >-
+    Rejecting a comment is legitimate when you give a reason; a comparison outside the question can be flagged as
+    further research instead of distorting the paper.
+- id: q4
+  question: >-
+    Under the 2016–17 TAU faculty regulations, Tom realises the revisions after his presentation will take him a
+    week past the seminar paper deadline. What should he do?
+  options:
+    - >-
+      Submit late without asking, because lecturers may accept papers up to two weeks late.
+    - >-
+      Ask the faculty secretariat for an open-ended extension until the revisions are finished.
+    - >-
+      Ask the lecturer early for written approval, which the rules allow for up to two weeks.
+    - >-
+      Submit the unrevised draft on time and send the revised version after the grade.
+  correct: 2
+  explanation: >-
+    Section 83(ז) lets the lecturer approve up to two weeks' delay, with written approval. Asking early and in
+    writing is required; the faculty cannot extend beyond the limits in the rule.

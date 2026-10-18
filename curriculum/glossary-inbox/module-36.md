@@ -1,0 +1,19 @@
+- **סמינר** (Seminar) — Seminar course: a small research-based course that ends in a seminar paper; at TAU a 4-credit course in year 3.
+- **עבודה סמינריונית עצמאית** (Avoda seminaryonit atzma'it) — Independent seminar paper, written alone, with no co-authors.
+- **חידוש / תרומה מקורית** (Chidush / truma mekorit) — Original contribution: what a paper adds to existing knowledge.
+- **פער במחקר** (Pa'ar ba-mechkar) — Research gap: what the closest existing work does not do.
+- **תוכנית מחקר** (Tochnit mechkar) — Research plan: question, contribution, method, sources and timeline for a paper.
+- **מאגרי מידע משפטיים** (Ma'agrei meida mishpatiyim) — Legal databases.
+- **מחקר אמפירי** (Mechkar empiri) — Empirical research: data about how law works in practice.
+- **משפט משווה** (Mishpat mashve) — Comparative law.
+- **היסטוריה משפטית** (Historia mishpatit) — Legal history.
+- **גיליון קידוד** (Gilayon kidud) — Coding sheet: the fixed variables and categories used to record data.
+- **תיקוף** (Tikuf) — Periodisation: dividing history into periods.
+- **הצעת חוק לדיון מוקדם** (Hatza'at chok le-diyun mukdam) — Private member's bill at the preliminary reading.
+- **פרוטוקול ועדה** (Protokol va'ada) — Transcript of a Knesset committee session.
+- **ועדת משנה** (Va'adat mishne) — Subcommittee.
+- **דברי הכנסת** (Divrei ha-Knesset) — The Knesset plenary record.
+- **מפת טיעון** (Mapat ti'un) — Argument map: a diagram of thesis, claims, sources and objections.
+- **מתווה הפוך** (Mitve hafukh) — Reverse outline: one line per paragraph, written after drafting.
+- **מגיב / מגיבה** (Megiv / megiva) — Discussant: the assigned respondent to a paper in a seminar.
+- **תזכיר תגובה** (Tazkir tguva) — Response memo: a decision and reason for each comment received.

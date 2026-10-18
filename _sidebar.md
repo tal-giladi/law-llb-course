@@ -381,3 +381,11 @@
   - [298 · AI in legal work: duties and the courts' response](lessons/module-35/lesson-07.md)
   - [299 · Practice lab: review a fee agreement and draft an ethics complaint (dry run)](lessons/module-35/lesson-08.md)
   - [Module 35 quiz](assessments/module-35-quiz.md)
+- **Module 36 — Seminar Paper (about 41 hours)**
+  - [300 · From proseminar to seminar: what changes](lessons/module-36/lesson-01.md)
+  - [301 · Original research: doctrinal, comparative, empirical and historical](lessons/module-36/lesson-02.md)
+  - [302 · Working with primary sources at scale: legislative history, protocols and case databases](lessons/module-36/lesson-03.md)
+  - [303 · Writing the long paper: chapters, argument maps and revision](lessons/module-36/lesson-04.md)
+  - [304 · Presenting and defending your paper](lessons/module-36/lesson-05.md)
+  - [305 · Practice lab: write the 30-page seminar paper](lessons/module-36/lesson-06.md)
+  - [Module 36 quiz](assessments/module-36-quiz.md)

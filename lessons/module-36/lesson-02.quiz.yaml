@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Yoni collected 60 small-claims judgments he found through web searches and wants to write that "small-claims
+    courts grant 70% of consumer cancellation claims". What should his method section say instead?
+  options:
+    - >-
+      That the figure is valid for all courts, since 60 judgments is above the usual minimum sample size.
+    - >-
+      Nothing about the sample, because the supervisor only grades the legal argument in the paper.
+    - >-
+      That the judgments are a convenience sample, so the figure describes this sample and not all cases.
+    - >-
+      That he excluded judgments the consumer lost, to focus the paper on the cancellation right itself.
+  correct: 2
+  explanation: >-
+    A set of judgments found by web search is not the population of cases. He must name it a sample, describe how
+    it was found and state what it cannot show.
+- id: q2
+  question: >-
+    While coding family-court decisions on child support, Dana plans to quote the parties' names in her seminar
+    paper because the decisions were available online. What is the right approach?
+  options:
+    - >-
+      Quote the names, because anything published online may be republished in academic work.
+    - >-
+      Report aggregates only and cite decisions as the court published them, without names.
+    - >-
+      Ask the supervisor for permission, which replaces the court's permission for academic papers.
+    - >-
+      Use the names only in footnotes, since footnotes are not considered publication.
+  correct: 1
+  explanation: >-
+    Family matters are heard behind closed doors (Courts Law s. 68(ה)), and s. 70(א) bars publishing anything
+    about a closed hearing without the court's permission. Aggregates and anonymised citations avoid the problem.
+- id: q3
+  question: >-
+    Omar's comparative chapter describes the English rule on representative actions over twelve pages and ends
+    there. What is the main weakness?
+  options:
+    - >-
+      It never returns to Israel to say what the comparison explains or recommends.
+    - >-
+      English law may not be compared with Israeli law because the systems separated in 1948.
+    - >-
+      Comparative chapters must cover at least three foreign systems to count as research.
+    - >-
+      Foreign law may only be cited from the Bluebook, not from official databases.
+  correct: 0
+  explanation: >-
+    Comparison is useful only when it is brought back to the Israeli question: what the difference explains, and
+    whether a solution could work in the Israeli context.
+- id: q4
+  question: >-
+    After coding 15 registry entries, Ruth recodes three of them a week later and two of her answers change. What
+    should she do?
+  options:
+    - >-
+      Keep the first coding, since the first reading of a document is the most reliable one.
+    - >-
+      Average the two codings for each entry and continue with the rest of the data.
+    - >-
+      Drop the three recoded entries from the data set and code new ones in their place.
+    - >-
+      Clarify the categories that caused the disagreement and recode all entries before going on.
+  correct: 3
+  explanation: >-
+    Disagreement on recoding shows the categories are unclear. Fixing them and recoding everything is what makes
+    the data consistent and the study repeatable.

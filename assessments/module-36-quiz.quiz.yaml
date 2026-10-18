@@ -1,0 +1,170 @@
+- id: q1
+  question: >-
+    Adi plans her seminar paper as "everything the Supreme Court has said about the Second Schedule, in date order".
+    Her supervisor says it has no contribution. Which change most directly fixes that?
+  options:
+    - >-
+      Adding ten more rulings so that the survey is complete up to this year.
+    - >-
+      Writing a gap sentence naming the closest work and what her paper adds to it.
+    - >-
+      Moving the chronology into footnotes and expanding the introduction instead.
+    - >-
+      Switching to English sources, because comparative papers are always original.
+  correct: 1
+  explanation: >-
+    A chronology is a survey. Stating a gap against the closest existing work forces a choice of contribution:
+    new data, a neglected source, a comparison, a synthesis, a framing or a proposal.
+- id: q2
+  question: >-
+    Nir wants to submit, for his TAU seminar, a revised version of the 15-page paper he wrote for a clinic last year,
+    without telling anyone. What is the problem?
+  options:
+    - >-
+      None, since revising one's own work is allowed if the paper is longer.
+    - >-
+      Only the citation format, because clinic papers use different rules.
+    - >-
+      Submitting a similar paper from another course is forbidden, and reuse must be disclosed.
+    - >-
+      Clinic papers belong to the clinic, so he needs the clinic director's signature.
+  correct: 2
+  explanation: >-
+    The faculty rules forbid submitting a paper identical or similar to one submitted in another course. He may
+    build on it only with a new question or contribution and with disclosure.
+- id: q3
+  question: >-
+    Tamar codes 50 Class Actions Registry entries for one company in 2025 and finds that most concern billing.
+    How should her paper state the finding?
+  options:
+    - >-
+      "Israeli class actions concern mainly billing", since the registry is official.
+    - >-
+      "Most class actions against all telecom companies concern billing", rounding up.
+    - >-
+      "Billing is the most common class-action claim in Israel since 2006."
+    - >-
+      "Among 2025 applications against this company in the registry, most concern billing."
+  correct: 3
+  explanation: >-
+    A finding is only as wide as the population studied. Stating the company, year and source keeps the claim
+    within what the data show.
+- id: q4
+  question: >-
+    A classmate's empirical paper on family-court rulings quotes the parties' first names and towns to make the
+    cases vivid. As discussant, what do you point out first?
+  options:
+    - >-
+      Family matters are heard behind closed doors, so such details may not be published.
+    - >-
+      First names are fine, but towns should be removed for style reasons.
+    - >-
+      Nothing, since the rulings were available online and may be quoted freely.
+    - >-
+      The paper should quote surnames too, to make the citations complete.
+  correct: 0
+  explanation: >-
+    Under Courts Law s. 68(ה) family matters are closed by default, and s. 70(א) bars publishing anything about a
+    closed hearing without the court's permission. Aggregates and anonymised citations solve it.
+- id: q5
+  question: >-
+    Ido's argument about a section's purpose rests on one sentence from the explanatory notes of the 2005 bill. The
+    final 2006 law changed the section. What is the strongest next step?
+  options:
+    - >-
+      Add a second sentence from the same explanatory notes to strengthen the point.
+    - >-
+      Find the committee sessions on the bill and read the protocol where the section was changed.
+    - >-
+      Cite the Wikisource version of the section, since it reflects all amendments.
+    - >-
+      Replace the notes with a newspaper report on the bill from the same period.
+  correct: 1
+  explanation: >-
+    The notes describe the bill. The protocol of the session that changed the section shows why the enacted
+    wording differs; the Knesset's OData service lists every session and protocol file.
+- id: q6
+  question: >-
+    Reut wants to list every committee session that discussed the bill behind a law, with dates and protocol files,
+    without clicking through the Knesset site. Which free tool fits best?
+  options:
+    - >-
+      The Wikisource source box, which lists every committee session with links.
+    - >-
+      The Judiciary's annual statistical report, which records Knesset committee work.
+    - >-
+      The Knesset's open OData service, querying the committee-session tables by the bill's ID.
+    - >-
+      A general web search for the law's name plus the word "protocol".
+  correct: 2
+  explanation: >-
+    The OData service links bills to committee sessions (KNS_CmtSessionItem) and sessions to protocol files
+    (KNS_DocumentCommitteeSession). Wikisource lists amending laws and Reshumot pages, not sessions.
+- id: q7
+  question: >-
+    Asaf sets up Zotero and expects it to produce his Hebrew footnotes in the uniform citation rules format. What
+    is the realistic setup?
+  options:
+    - >-
+      Install the Israeli style from the official repository and let it format every footnote.
+    - >-
+      Use the library for sources and pinpoints, write Hebrew footnotes by hand, and check English ones.
+    - >-
+      Use OSCOLA for all footnotes, since Israeli faculties accept English citation styles.
+    - >-
+      Avoid reference managers entirely, because universities forbid them in seminar papers.
+  correct: 1
+  explanation: >-
+    No CSL style for the Israeli uniform rules was in the official repository in October 2026. Zotero still keeps
+    sources, PDFs and pinpoints; a Bluebook style can draft English citations, which must then be checked.
+- id: q8
+  question: >-
+    Three weeks before submission, Noga's reverse outline shows that chapter ה repeats chapter ג and appears nowhere
+    on her argument map. What should she do?
+  options:
+    - >-
+      Keep it, because cutting text reduces the word count below the expected length.
+    - >-
+      Rewrite its sentences for style so the repetition is less obvious.
+    - >-
+      Move it to the appendix, where repeated material is acceptable.
+    - >-
+      Cut it to the cuts file and move any new point into chapter ג or the conclusion.
+  correct: 3
+  explanation: >-
+    A chapter that is not on the map does not advance the thesis. Cutting it, while saving the text, keeps the
+    paper's structure tight; any genuinely new point can be moved where it belongs.
+- id: q9
+  question: >-
+    At his presentation, Yuval is asked a question that exposes a real gap in his data. He has not thought about it.
+    What is the best answer?
+  options:
+    - >-
+      Restate the question, say he had not considered it, and say how he will check it.
+    - >-
+      Explain at length why the question misunderstands the paper's method.
+    - >-
+      Promise to rewrite the whole paper around the point before the deadline.
+    - >-
+      Ask the supervisor to answer, since the question concerns the method.
+  correct: 0
+  explanation: >-
+    Restating shows understanding; an honest "plan" answer keeps credibility and leaves the decision for the
+    response memo, without rash promises or defensive arguments.
+- id: q10
+  question: >-
+    Khalil's landlord relies on a section of a rental law, and no ruling has decided its meaning. Khalil represents
+    himself. How can the seminar skills of this module help him most?
+  options:
+    - >-
+      By attaching a 30-page paper on the section to his statement of claim.
+    - >-
+      By coding fifty small-claims judgments and filing the spreadsheet as evidence.
+    - >-
+      By writing one paragraph on the section's legislative history, with exact citations.
+    - >-
+      By arguing that the Knesset intended his reading because one member said so.
+  correct: 2
+  explanation: >-
+    A short, accurate account of the bill, the committee change and its recorded reason supports a purposive
+    reading. A long paper, a homemade spreadsheet or one member's remark carries little weight.

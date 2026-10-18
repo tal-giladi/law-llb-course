@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Lior quotes the explanatory notes to a 2005 bill to show the purpose of a section. The final law's section is
+    worded differently from the bill. What should she do before relying on the notes?
+  options:
+    - >-
+      Nothing more, since explanatory notes always state the purpose of the law as enacted.
+    - >-
+      Replace the notes with a plenary speech, which reflects the final vote more closely.
+    - >-
+      Compare the bill with the final text and find the committee session that explains the change.
+    - >-
+      Quote the Wikisource text of the section instead, because it is the consolidated version.
+  correct: 2
+  explanation: >-
+    Notes explain the bill as proposed. If the committee changed the section, the protocol of that session is the
+    better evidence of why the enacted wording differs.
+- id: q2
+  question: >-
+    Wikisource's source box for a law lists 12 amending laws, but the Knesset OData query on KNS_LawBinding returns
+    the original law and 13 amending laws. What is the sensible next step?
+  options:
+    - >-
+      Trust Wikisource, because volunteers check each amendment by hand.
+    - >-
+      Find the extra amendment in Reshumot and check its effect on your section.
+    - >-
+      Average the two lists and report "about 12 or 13 amendments" in the paper.
+    - >-
+      Ignore the difference, since amendments do not matter for a historical paper.
+  correct: 1
+  explanation: >-
+    A mismatch usually means one source has not caught up. Reshumot is the authoritative text, so open the missing
+    amending law there and see what it changed.
+- id: q3
+  question: >-
+    In a committee protocol, a representative of a business association says the section was meant to apply only to
+    large firms. How much weight should this carry in a seminar paper on the section's purpose?
+  options:
+    - >-
+      Decisive weight, because committee protocols are the official record of the Knesset's intent.
+    - >-
+      No weight at all, because statements by non-members may not be cited in academic work.
+    - >-
+      The same weight as the explanatory notes, since both were published by the Knesset.
+    - >-
+      The weight of one interested party's view, to be checked against the chair's or adviser's summary.
+  correct: 3
+  explanation: >-
+    Protocols record many voices. A lobby's statement shows a position in the debate, not the Knesset's intent;
+    the chair's summary, the legal adviser's explanation or an agreed amendment carry more.
+- id: q4
+  question: >-
+    Ben wants to reproduce three full committee protocols and two Supreme Court judgments in an appendix to his
+    seminar paper. Is copyright a problem?
+  options:
+    - >-
+      No: Copyright Law s. 6 excludes Knesset proceedings and judicial decisions from copyright.
+    - >-
+      Yes: he may quote only short passages under the fair-use rule in s. 19.
+    - >-
+      Yes for the judgments, which belong to the judges, but not for the protocols.
+    - >-
+      No, but only if the appendix is not counted in the paper's word limit.
+  correct: 0
+  explanation: >-
+    Section 6 says there is no copyright in statutes, regulations, Knesset proceedings or judicial decisions. Other
+    limits, such as publication bans on closed hearings, still apply.

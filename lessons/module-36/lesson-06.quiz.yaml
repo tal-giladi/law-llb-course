@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    In week 9 Gal has 25 polished pages of framework and argument, but has not yet coded the registry entries his
+    contribution depends on. What should he do?
+  options:
+    - >-
+      Keep polishing; the data chapter can be written quickly in the last week.
+    - >-
+      Drop the data and submit a doctrinal paper, since the draft is already long.
+    - >-
+      Ask the reviewer to code the entries, since peer review allows shared work.
+    - >-
+      Pause drafting, run the coding now, and rewrite the argument around the results.
+  correct: 3
+  explanation: >-
+    The contribution lives in the primary-source chapter. Without it the polished pages are a survey; the argument
+    must follow the data, not precede it.
+- id: q2
+  question: >-
+    Rina's self-score is 23 of 28, but line 12 (primary sources read systematically, with method and limits) is 0.
+    Is the paper ready to submit?
+  options:
+    - >-
+      Yes, because the total is above the threshold of 22.
+    - >-
+      No, because a ready paper may have no line at 0.
+    - >-
+      Yes, if the supervisor did not ask for a method section in the syllabus.
+    - >-
+      No, because the total must be at least 26 for a seminar paper to pass.
+  correct: 1
+  explanation: >-
+    The rubric requires both the total and no zero line. A zero on the primary-source line means the paper's
+    distinctive seminar element is missing.
+- id: q3
+  question: >-
+    In round 2 of peer review, Daniel's reviewer suggests a better structure for chapter ג. Which response follows
+    the protocol?
+  options:
+    - >-
+      Record it in the response memo, decide accept, accept in part or reject, and revise himself.
+    - >-
+      Ask the reviewer to rewrite chapter ג in the suggested structure, to save time.
+    - >-
+      Ignore it, because round 2 is only for checking footnotes and typos.
+    - >-
+      Adopt the reviewer's own paper's structure for chapter ג, since it worked for them.
+  correct: 0
+  explanation: >-
+    Reviewers comment and authors decide and revise. Having the reviewer write the chapter, or borrowing their
+    paper, would breach the independence rule.
+- id: q4
+  question: >-
+    Which of these best shows that Sapir's primary-source chapter can be checked by a reader?
+  options:
+    - >-
+      The chapter says she "read all relevant protocols carefully".
+    - >-
+      The chapter thanks the Knesset archive staff for their help.
+    - >-
+      The appendix lists every search, the sessions found and the protocol files read.
+    - >-
+      The chapter quotes the longest protocol passages in full in the body text.
+  correct: 2
+  explanation: >-
+    A search log and list of documents let a reader repeat the work. A general assurance or long quotations do not
+    show how the sources were found or which were read.
