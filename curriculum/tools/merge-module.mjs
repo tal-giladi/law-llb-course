@@ -97,4 +97,6 @@ for (const m of mods) {
   out += `- **Module ${m} — ${titles[m] ?? `Module ${m}`} (about ${Math.round(mins / 60)} hours)**\n${lines.join("\n")}\n  - [Module ${m} quiz](assessments/module-${String(m).padStart(2, "0")}-quiz.md)\n`;
 }
 write("_sidebar.md", out);
+// docsify preview (index.html, relativePath) needs root-absolute links; the Academy reads only _sidebar.md.
+write("_site_sidebar.md", out.replace(/\]\((?!\/|https?:)([^)]+)\)/g, "](/$1)"));
 console.log(`merged module ${NN}; sidebar has ${mods.length} modules, ${running} lessons`);
