@@ -1,0 +1,171 @@
+- id: q1
+  question: >-
+    Lior, a law graduate, was found by a civil court to have posed as a lawyer to collect fees, but no
+    indictment has been filed. He applies to register as an intern. What may the Bar do?
+  options:
+    - >-
+      Nothing, because only a criminal conviction involving moral turpitude can block him.
+    - >-
+      Refuse or defer registration after a hearing, with reasons (s. 27).
+    - >-
+      Register him but extend his internship to 18 months as a disciplinary sanction.
+    - >-
+      Refer the matter to the Attorney General, who alone decides on registration.
+  correct: 1
+  explanation: >-
+    Section 27 allows refusal of a formally qualified intern on facts showing unfitness, after a hearing and with
+    written reasons; courts review such decisions for reasonableness and proportionality (Sagi; Revivo Elbaz).
+- id: q2
+  question: >-
+    A "consumer rights" company offers to write your demand letter, file your small claim and argue it
+    for 25% of the award. The owner is not a lawyer. What is the best assessment?
+  options:
+    - >-
+      Lawful, because the small claims court was designed precisely for non-lawyers.
+    - >-
+      Lawful, provided the company is registered with the Israel Consumer Council.
+    - >-
+      Lawful for the letter but not the claim, since letters are not legal documents.
+    - >-
+      Unlawful, because paid drafting and representation are reserved acts.
+  correct: 3
+  explanation: >-
+    Section 20 reserves paid drafting of legal documents and representation; Courts Law s. 63 lets a non-lawyer
+    represent in small claims only with approval and never for pay or as a business. The company could not sue for its fee (s. 98).
+- id: q3
+  question: >-
+    Bar-exam style. Attorney A drafted a loan agreement for both a lender and a borrower, with their
+    written consent. Two years later the borrower asks A to sue to cancel the agreement for mistake.
+    May A act?
+  options:
+    - >-
+      No, because he may not attack a document he drafted (rules 15, 16).
+    - >-
+      Yes, because the joint retainer ended and the borrower is now his only client.
+    - >-
+      Yes, provided the lender agrees in writing to waive the conflict of interest.
+    - >-
+      Yes, provided he first obtains a preliminary opinion from the ethics committee.
+  correct: 0
+  explanation: >-
+    Rule 15 bars a lawyer who drafted a document from later arguing it is invalid, and rule 16 bars acting against a
+    former client in the same matter. The rule 14(ד) consent covered drafting, not a later dispute.
+- id: q4
+  question: >-
+    Your lawyer won a National Insurance work-injury benefit for you after representing you at the medical
+    committee only. The agreement chose the column with a file-opening fee. What is the cap?
+  options:
+    - >-
+      25.5% of the benefit part, because representation is complex work.
+    - >-
+      Whatever was agreed, because NII fees are only recommended by the Bar.
+    - >-
+      15.75% of the benefit part plus the file-opening fee, plus VAT.
+    - >-
+      11.25% of all benefits for life, plus the file-opening fee and VAT.
+  correct: 2
+  explanation: >-
+    Section 315ב sets 15.75% (16% of a s. 107 grant) plus a file-opening fee for a lawyer's representation at a
+    medical or appeals committee in work-injury matters; the benefit part is limited by s. 315ד; VAT is added (s. 315ט).
+- id: q5
+  question: >-
+    The insurer paid ₪50,000 to your lawyer for you three months ago. You only learned of it today.
+    Which duties did the lawyer most clearly breach?
+  options:
+    - >-
+      None, because a lawyer may hold client money until the end of the case.
+    - >-
+      Only the advertising rules, because he did not publish the result online.
+    - >-
+      Only s. 85, because he did not separate his expenses from his fee.
+    - >-
+      The duties to notify, transfer and hold in trust (rules 39–41).
+  correct: 3
+  explanation: >-
+    Rule 40 requires notice and transfer of money received within a reasonable time, rule 39 a separate trust account
+    and rule 41 immediate notice of money held in trust. The s. 88 lien is limited and requires a suit within three months of a written demand.
+- id: q6
+  question: >-
+    You want to change lawyer three weeks before a hearing. The old lawyer says he will keep the file
+    until you pay a disputed bill. What is the best course?
+  options:
+    - >-
+      Appoint the new lawyer and demand the file in writing, citing s. 88.
+    - >-
+      Wait until after the hearing, because changing lawyer before a hearing is barred.
+    - >-
+      Pay the disputed bill in full, because the lawyer's lien lasts until payment.
+    - >-
+      Ask the court to order the Bar to pay the bill so that the file is released.
+  correct: 0
+  explanation: >-
+    You may end the engagement at any time; the new lawyer notifies the old one (rule 27). The lien in s. 88 lapses
+    unless the lawyer sues within three months of your written demand, and the fee dispute can go to the Bar or a court.
+- id: q7
+  question: >-
+    A lawyer missed the limitation date in your claim, hid it for two years, and billed you in full.
+    Which combination of routes fits best?
+  options:
+    - >-
+      Only an ethics complaint, because the tribunal can award your full damages.
+    - >-
+      Only a malpractice claim, because complaints cannot concern negligence at all.
+    - >-
+      A complaint, a fee refund and a malpractice claim, watching s. 8.
+    - >-
+      Only a request under s. 84(ב), because the Bar decides fee and negligence issues.
+  correct: 2
+  explanation: >-
+    Discipline punishes (compensation is capped at ₪25,000 per offence, s. 69(א)(4)); a fee refund recovers the bill;
+    a malpractice claim compensates the lost claim. Concealment can delay or suspend limitation (ss. 7–8).
+- id: q8
+  question: >-
+    Bar-exam style. A disciplinary tribunal convicts a lawyer of taking a fee above the road-accident cap.
+    Which order may it make in the client's favour?
+  options:
+    - >-
+      Suspension of the client's remaining debt to the lawyer for ten years.
+    - >-
+      Return of the fee and compensation up to ₪25,000 per offence.
+    - >-
+      A binding damages award for the client's whole loss in the accident claim.
+    - >-
+      Cancellation of the client's settlement agreement with the insurer.
+  correct: 1
+  explanation: >-
+    Section 69(א)(3) allows an order to return a fee obtained in circumstances amounting to an offence, and s. 69(א)(4)
+    compensation of up to ₪25,000 per offence, without affecting civil liability.
+- id: q9
+  question: >-
+    Before signing, you ask your lawyer about AI. He says the agreement's clause "the client consents to
+    any technological tool" covers uploading your medical file to a public chatbot. Is that enough?
+  options:
+    - >-
+      Yes, because the client signed the clause before any of the work began.
+    - >-
+      Yes, provided the lawyer removes your name from the documents first.
+    - >-
+      Yes, because the Bar's AI opinions apply only to documents filed in court.
+    - >-
+      No, open platforms need specific, informed consent.
+  correct: 3
+  explanation: >-
+    The Bar's opinions (2024, updated 17.9.2026) require prior, explicit, informed consent for restricted client data
+    in open platforms, say that a general clause is not enough and that removing names does not suffice.
+- id: q10
+  question: >-
+    The municipality's answer to your request cites a Ministry circular and a Supreme Court quotation
+    that you cannot find anywhere. You are about to file a petition. What should you do?
+  options:
+    - >-
+      Ignore the citations, since the court will check every one of them anyway.
+    - >-
+      Repeat the citations in your petition to show that you read the reply closely.
+    - >-
+      Show your search found nothing, rely on verified law, and ask for costs.
+    - >-
+      Complain only to the ethics committee and leave the point out of the petition.
+  correct: 2
+  explanation: >-
+    In the Ramat Gan case (2026) the Supreme Court ordered costs against a municipality that relied on non-existent
+    sources in its reply to a resident and in its filings. Point it out with your search, and verify your own sources.

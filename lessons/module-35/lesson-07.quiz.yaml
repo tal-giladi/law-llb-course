@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    You are self-represented and an AI tool gave you a Supreme Court quotation that supports your
+    defence. You cannot find the ruling on any free host. What should you do?
+  options:
+    - >-
+      Cite it with a note that it came from an AI tool, so the court can check it.
+    - >-
+      Cite only the case number without the quotation, to reduce the risk.
+    - >-
+      Leave it out, because you may not file an authority you could not open and read.
+    - >-
+      Ask the other side to confirm whether the ruling exists before the hearing.
+  correct: 2
+  explanation: >-
+    Courts have ordered costs against a self-represented party for fabricated authorities (Zlatin, 2025). Disclosing
+    the source does not cure it; only authorities you opened and read may be filed.
+- id: q2
+  question: >-
+    According to the Bar's September 2026 updated opinion, which use of AI by your lawyer is ruled out?
+  options:
+    - >-
+      Letting an autonomous AI agent draft and file a pleading without close human oversight.
+    - >-
+      Using a closed, contractually protected platform to summarise a long transcript.
+    - >-
+      Using AI to format citations in a brief the lawyer wrote and checked.
+    - >-
+      Using a public chatbot for a general question that contains no client details.
+  correct: 0
+  explanation: >-
+    The updated opinion bars autonomous systems or AI agents from making material legal decisions, giving independent
+    advice, drafting pleadings or advancing proceedings without close human oversight; controlled technical use is allowed.
+- id: q3
+  question: >-
+    In the Ramat Gan case (March 2026), the municipality's lawyers said interns had inserted the false
+    quotations. How did the Supreme Court respond?
+  options:
+    - >-
+      It accepted the excuse and imposed no costs, since interns are not yet lawyers.
+    - >-
+      It referred the interns to the Bar's disciplinary tribunal under s. 41.
+    - >-
+      It ordered personal costs against each intern who worked on the file.
+    - >-
+      It held the lawyer personally responsible for every filing and ordered ₪30,000 costs.
+  correct: 3
+  explanation: >-
+    Solberg D.P. held that a lawyer is personally responsible for the quality of filings whether produced by a person
+    or a machine, ordered the municipality to pay ₪30,000 and warned of personal costs against lawyers in future.
+- id: q4
+  question: >-
+    Bar-exam style. A lawyer files a brief with invented rulings produced by AI, believing them real.
+    Which statement is most accurate?
+  options:
+    - >-
+      No ethical issue arises, because rule 34 only forbids claims the lawyer knows are false.
+    - >-
+      Failing to verify may be a disciplinary offence under s. 61, even if rule 34 is not breached.
+    - >-
+      Only the client is responsible, since the client approved the brief before filing.
+    - >-
+      The issue is purely civil: the court may order costs but the Bar has no jurisdiction.
+  correct: 1
+  explanation: >-
+    Rule 34 requires knowledge, but s. 61 also covers breaches of s. 54 and conduct unbecoming the profession; the
+    Supreme Court in 38379-12-24 pointed to s. 61 alongside striking and personal costs.

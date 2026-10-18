@@ -371,3 +371,13 @@
   - [290 · Climate law: the current state of legislation and litigation](lessons/module-34/lesson-07.md)
   - [291 · Practice lab: an environmental complaint and a data request](lessons/module-34/lesson-08.md)
   - [Module 34 quiz](assessments/module-34-quiz.md)
+- **Module 35 — The Legal Profession and Ethics (about 21 hours)**
+  - [292 · The Bar and the profession: admission, internship and the Bar exam](lessons/module-35/lesson-01.md)
+  - [293 · What only lawyers may do, and unauthorised practice](lessons/module-35/lesson-02.md)
+  - [294 · Professional conduct: loyalty, conflicts and confidentiality](lessons/module-35/lesson-03.md)
+  - [295 · Fees: fee agreements, contingency fees and statutory caps](lessons/module-35/lesson-04.md)
+  - [296 · Choosing and supervising a lawyer](lessons/module-35/lesson-05.md)
+  - [297 · When things go wrong: ethics complaints, fee disputes and malpractice claims](lessons/module-35/lesson-06.md)
+  - [298 · AI in legal work: duties and the courts' response](lessons/module-35/lesson-07.md)
+  - [299 · Practice lab: review a fee agreement and draft an ethics complaint (dry run)](lessons/module-35/lesson-08.md)
+  - [Module 35 quiz](assessments/module-35-quiz.md)

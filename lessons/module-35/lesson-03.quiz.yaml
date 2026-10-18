@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Two friends are buying a flat together and want one lawyer to draft their co-ownership agreement.
+    They agree on everything. Under rule 14, what is required?
+  options:
+    - >-
+      Nothing special, because co-buyers never have opposing interests.
+    - >-
+      Each must have a separate lawyer, because rule 14(ב) has no exceptions.
+    - >-
+      Approval of the district ethics committee before the lawyer may draft.
+    - >-
+      Their written agreement that the same lawyer will draft it, under rule 14(ד).
+  correct: 3
+  explanation: >-
+    Rule 14(ד) lifts the bars in 14(ב) and (ג) for drafting an agreement or a matter the parties agreed in writing
+    to give one lawyer. If a real dispute arises, rule 14(א) still requires the lawyer to stop.
+- id: q2
+  question: >-
+    Your former lawyer, who handled your business's tax dispute last year, now represents your ex-partner
+    suing you over the same business's accounts. What is the best description of the rule?
+  options:
+    - >-
+      He may act, because the earlier retainer has ended and loyalty ends with it.
+    - >-
+      He may not act against you in a matter substantially connected to information you gave him.
+    - >-
+      He may act if he promises in writing not to use privileged documents.
+    - >-
+      He may not act only if he is still your "regular client" lawyer under rule 14(ג).
+  correct: 1
+  explanation: >-
+    Rule 16(א) bars acting against a client, including a former client, in the same matter or one with a
+    substantial connection to information received from him. The duty survives the end of the retainer.
+- id: q3
+  question: >-
+    The police search your lawyer's office for documents about you. What protects your emails asking the
+    lawyer for advice about the matter?
+  options:
+    - >-
+      The privilege in s. 90 of the Bar Association Law and s. 48 of the Evidence Ordinance.
+    - >-
+      Rule 19 alone, because the ethical duty of confidentiality overrides any search warrant.
+    - >-
+      Nothing, because a search warrant overrides professional secrecy in criminal cases.
+    - >-
+      The Protection of Privacy Law, which requires your consent before any search.
+  correct: 0
+  explanation: >-
+    Rule 19 expressly yields in proceedings, investigations or searches where the material is not privileged
+    under s. 90; s. 90 (and Evidence Ordinance s. 48) protect client-lawyer communications unless the client waives.
+- id: q4
+  question: >-
+    In a pending case you ask the court to disqualify the other side's lawyer for a conflict. According to
+    Al Madamin (2018), what must the court consider first?
+  options:
+    - >-
+      Whether the Bar's ethics committee has already convicted the lawyer of a disciplinary offence.
+    - >-
+      Whether the lawyer agrees to withdraw voluntarily within 14 days.
+    - >-
+      Whether the alleged breach may harm your legitimate interests in the case or its fairness.
+    - >-
+      Whether you have paid the court fee for a separate declaratory claim.
+  correct: 2
+  explanation: >-
+    The court's power rests on Courts Law s. 75 and arises only where the breach may harm a party's legitimate
+    interests in the proceeding; otherwise it refers the parties to the Bar, often for a preliminary opinion first.

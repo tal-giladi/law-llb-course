@@ -59,7 +59,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 32 — Intellectual Property
 - [x] Module 33 — Class Actions and Public-Interest Litigation
 - [x] Module 34 — Environmental Law
-- [ ] Module 35 — The Legal Profession and Ethics
+- [x] Module 35 — The Legal Profession and Ethics
 - [ ] Module 36 — Seminar Paper
 - [ ] Module 37 — Clinic IV: Public and Criminal Matters Without a Lawyer
 - [ ] Module 38 — Bar-Exam-Style Review
@@ -68,7 +68,7 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 
 ## Now working
 
-- Module 35: sub-agent A
+
 - Module 36: sub-agent B
 
 

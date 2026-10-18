@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your lawyer tells you a colleague from another firm will "take over the file" next week under the
+    general transfer clause in your power of attorney. You were not asked. What does the rule say?
+  options:
+    - >-
+      He may transfer it, because the general clause in the power of attorney is your consent.
+    - >-
+      He may transfer it only with the court's approval in a pending case.
+    - >-
+      He needs your separate, express written consent to transfer the mandate (rule 18).
+    - >-
+      He may transfer it if the other lawyer has at least five years' seniority.
+  correct: 2
+  explanation: >-
+    Rule 18 overrides a general transfer clause: transferring the power of attorney needs the client's separate
+    and express written consent. Delegating tasks or getting help from another lawyer is allowed.
+- id: q2
+  question: >-
+    Two days after your car accident, a man visits you in hospital, says he works "with a top lawyer",
+    and asks you to sign a power of attorney. What is the legal position?
+  options:
+    - >-
+      Soliciting work in person or through others is forbidden to lawyers by s. 56.
+    - >-
+      It is lawful, because the Advertising Rules allow any contact that is not misleading.
+    - >-
+      It is lawful if the lawyer's fee stays within the road-accident cap.
+    - >-
+      It is lawful once the patient has been discharged from hospital.
+  correct: 0
+  explanation: >-
+    Section 56 forbids a lawyer to solicit anyone, personally or through another, to give him work. A fee within
+    the cap does not cure the solicitation.
+- id: q3
+  question: >-
+    Your case ended two years ago. You want to know what happened to an interim payment the insurer made
+    through your lawyer. What may you demand?
+  options:
+    - >-
+      Nothing, because the lawyer's duty to account ends when the case is closed.
+    - >-
+      Only a copy of the final judgment, since money matters are covered by privilege.
+    - >-
+      An account only after you first file a complaint with the ethics committee.
+    - >-
+      An account and receipts, because you are within the three-year window.
+  correct: 3
+  explanation: >-
+    Rule 42(א)(1) lets the client demand an account until three years after the end of the work, and rule 42(ב)
+    lets the client ask for copies of receipts for expenses and documents about money held in trust.
+- id: q4
+  question: >-
+    A lawyer's website lists "4.9 stars from 300 clients" and the free text "consultation from only ₪199".
+    Which part breaches the Advertising Rules?
+  options:
+    - >-
+      The ratings, because the rules ban any reference to client satisfaction.
+    - >-
+      The price in the free text, because free text may not refer to the fee.
+    - >-
+      Both, because lawyers may not advertise on websites at all.
+    - >-
+      Neither, because all content on a lawyer's own website is unrestricted.
+  correct: 1
+  explanation: >-
+    Rule 3(ב)(14) allows free text offering a legal service only without any reference to the fee. Ratings and
+    recommendations are allowed if not misleading (rule 3(יא)).

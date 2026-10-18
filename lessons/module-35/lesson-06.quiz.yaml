@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your lawyer kept ₪8,000 of a settlement without explanation. You want the money back quickly.
+    Which first step fits best?
+  options:
+    - >-
+      File a complaint with the ethics committee and wait for the tribunal to order repayment.
+    - >-
+      Ask the Attorney General to file a disciplinary charge on your behalf.
+    - >-
+      Send a written demand for an account and the money, then sue if it is refused.
+    - >-
+      Appeal to the Jerusalem District Court under s. 71 of the Bar Association Law.
+  correct: 2
+  explanation: >-
+    Money is best pursued directly: rules 40 and 42 require transfer and an account, s. 88 limits the lien, and a
+    civil or small claim follows a refusal. A complaint can run in parallel but is slow and not designed to compensate.
+- id: q2
+  question: >-
+    You complained to the district ethics committee. It decided not to file a charge. What must it do?
+  options:
+    - >-
+      Nothing further, because complaints are internal matters of the Bar and stay closed.
+    - >-
+      Give you written reasons and tell you that you may turn to another prosecutor.
+    - >-
+      Refer the complaint automatically to the disciplinary tribunal for its review.
+    - >-
+      Publish its decision in Reshumot together with the lawyer's full name.
+  correct: 1
+  explanation: >-
+    Rule 8 of the 2015 procedure rules requires a reasoned written notice to the complainant and the lawyer, and
+    tells the complainant he may approach another prosecutor (s. 63 lists the National Ethics Committee, the AG and the State Attorney).
+- id: q3
+  question: >-
+    A lawyer certified a seller's signature and handled the sale without checking obvious signs that the
+    seller's agent had no authority. The buyers, not his clients, lost their money. Can they sue him?
+  options:
+    - >-
+      Yes, if his role created proximity and he ignored warning signs a reasonable lawyer would heed.
+    - >-
+      No, because a lawyer owes a duty of care only to his own clients and never to third parties.
+    - >-
+      No, because only the Bar's disciplinary tribunal may decide on a lawyer's professional conduct.
+    - >-
+      Yes, and he is liable for the full loss whatever the buyers' own conduct was.
+  correct: 0
+  explanation: >-
+    In Herman v. Eldor (2015) the Supreme Court recognised a duty to non-clients where the lawyer's role creates
+    proximity, applied the reasonable-lawyer and warning-signs test, and reduced damages by 25% for contributory fault.
+- id: q4
+  question: >-
+    Bar-exam style. After a disciplinary hearing a lawyer is acquitted, and the tribunal finds the complaint
+    was filed vexatiously and without basis. Which order may it make against the complainant?
+  options:
+    - >-
+      A fine of up to ₪25,000 per complaint, paid to the Bar's fund.
+    - >-
+      A ban on filing any further complaint against lawyers for three years.
+    - >-
+      Compensation to the lawyer of up to ₪25,000 per complaint.
+    - >-
+      Costs to the State, the Bar and the lawyer, after a hearing.
+  correct: 3
+  explanation: >-
+    Section 69(א)(5) allows costs against a complainant whose complaint was frivolous, vexatious or baseless, and
+    rule 45 of the 2015 rules requires a hearing first; the complainant may appeal like a civil judgment (s. 73).

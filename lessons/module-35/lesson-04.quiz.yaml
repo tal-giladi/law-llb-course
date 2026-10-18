@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A road-accident victim's claim was filed in court and settled for ₪200,000. The agreement says
+    "15% plus VAT". What is the most the lawyer may lawfully take?
+  options:
+    - >-
+      ₪30,000 plus VAT, because the client agreed in writing to 15%.
+    - >-
+      ₪26,000 plus VAT, the 13% cap for any case with legal proceedings.
+    - >-
+      ₪22,000 plus VAT, the 11% cap for a filed claim that ends in a settlement.
+    - >-
+      ₪16,000 plus VAT, the 8% cap for any settlement without a judgment.
+  correct: 2
+  explanation: >-
+    The 1977 Bar rules made under s. 16 set 8% without a filed claim, 11% for a filed claim that settles, and
+    13% after judgment, all plus VAT; any excess paid is refundable despite the agreement.
+- id: q2
+  question: >-
+    A defence lawyer offers: "₪10,000 now and ₪40,000 more only if you are acquitted." What is the problem?
+  options:
+    - >-
+      A fee that depends on the outcome is banned in criminal cases by s. 84(א).
+    - >-
+      Nothing, as long as the agreement is in writing and VAT is stated.
+    - >-
+      The base fee is too low under the Bar's recommended minimum tariff.
+    - >-
+      Only the Public Defender may agree to a fee linked to an acquittal.
+  correct: 0
+  explanation: >-
+    Section 84(א) forbids a lawyer to stipulate or receive a fee depending on the result in a criminal case.
+    The minimum tariff is a non-binding recommendation (s. 81).
+- id: q3
+  question: >-
+    Your lawyer took 25% "of any sum received" in your civil claim, and the court also awarded you ₪15,000
+    in costs. The agreement says nothing about costs. What is the likely result?
+  options:
+    - >-
+      The lawyer takes 25% of the costs too, because costs are a "sum received".
+    - >-
+      The lawyer keeps all the costs, because costs always belong to the lawyer.
+    - >-
+      The costs are split equally, because the agreement is ambiguous.
+    - >-
+      The costs stay with you, since an unclear fee agreement is read against the lawyer.
+  correct: 3
+  explanation: >-
+    In Orhightech v. Avitan (2018) the Supreme Court held that the lawyer bears the burden of clear drafting and
+    that a percentage fee does not reach costs awarded to the client unless the agreement says so expressly.
+- id: q4
+  question: >-
+    You agreed to a 30% success fee in a civil insurance claim and now think it is excessive. No statutory
+    cap applies. Which route can produce a binding decision about the fee?
+  options:
+    - >-
+      A complaint to the Ombudsman for the Judiciary.
+    - >-
+      A request to the Bar to set an appropriate fee under s. 84(ב).
+    - >-
+      A request to the court to apply the recommended minimum tariff as a maximum.
+    - >-
+      A request to the Ministry of Justice's Legal Aid office to review the agreement.
+  correct: 1
+  explanation: >-
+    Section 84(ב) lets the Bar, at the client's request, set an appropriate fee where a non-criminal success fee
+    is excessive. The minimum tariff is a non-binding floor, not a cap.

@@ -1,0 +1,30 @@
+- **לשכת עורכי הדין** (lishkat orkhei ha-din) — The Israel Bar Association, a statutory corporation that registers interns, examines candidates, admits and disciplines lawyers (Bar Association Law 1961).
+- **מתמחה** (mitmahe) — Intern: a law graduate in the 12-month supervised internship before the Bar exam (s. 35).
+- **מאמן** (me'amen) — The intern's principal: a judge, registrar or lawyer with five years' seniority approved by the Bar (s. 29).
+- **נציב הפיקוח על ההתמחות** (netziv ha-pikuah al ha-hitmahut) — Commissioner for Supervision of Internships, who hears interns' complaints about principals (s. 41ב).
+- **קלון** (kalon) — Moral turpitude: a quality of a criminal offence that can bar admission or lead to discipline (ss. 44, 75).
+- **בחינות ההסמכה** (bhinot ha-hasmakha) — The Bar qualifying exams after the internship (s. 38).
+- **הסגת גבול המקצוע** (hasagat gvul ha-miktzo'a) — Unauthorised practice: a non-lawyer doing an act reserved to lawyers (s. 96).
+- **התחזות לעורך דין** (hithazut le-orekh din) — Impersonating a lawyer, an offence with up to a year's imprisonment (s. 97).
+- **שיתוף בהכנסות** (shituf be-hakhnasot) — Fee sharing with a non-lawyer, forbidden to lawyers (s. 58).
+- **ניגוד עניינים** (nigud inyanim) — Conflict of interest: a risk that a personal interest or duty to another prevents the lawyer from serving the client (rule 14).
+- **לקוח קבוע** (lako'ah kavu'a) — Regular client, against whom a lawyer may not act even in an unrelated matter (rule 14(ג)).
+- **חובת הסודיות** (hovat ha-sodiyut) — The lawyer's ethical duty to keep secret everything the client told him (rule 19).
+- **סוד מקצועי** (sod miktzo'i) — Professional secrecy: the privilege over lawyer–client communications (Bar Association Law s. 90; Evidence Ordinance s. 48).
+- **חוות דעת מקדימה** (havat da'at mekdima) — Preliminary ethics opinion from an ethics committee (s. 60א).
+- **הסכם שכר טרחה** (heskem skhar tirha) — Fee agreement between lawyer and client; unclear terms are read against the lawyer.
+- **שכר טרחה מותנה בתוצאה** (skhar tirha mutne ba-totza'a) — Contingency (success) fee; banned in criminal cases (s. 84(א)).
+- **תעריף מינימלי מומלץ** (ta'arif minimali mumlatz) — The Bar's recommended minimum tariff, non-binding (s. 81; 2000 rules).
+- **תעריף מקסימלי** (ta'arif maksimali) — Binding maximum fee set by law or regulation, such as in road-accident claims (s. 82; Road Accident Law s. 16).
+- **דמי פתיחת תיק** (dmei ptihat tik) — File-opening fee allowed in National Insurance claims, up to the indexed basic sum (s. 315א).
+- **זכות עיכוב** (zkhut ikuv) — The lawyer's lien over client money and documents to secure fees, with limits (s. 88).
+- **חשבון נאמנות** (heshbon ne'emanut) — Separate trust account for client money (rule 39).
+- **ועדת אתיקה** (va'adat etika) — Ethics committee of the Bar (national or district) that receives complaints and prosecutes (ss. 18ב, 63).
+- **קובלנה** (kovlana) — Disciplinary charge filed by a prosecutor before a disciplinary tribunal (s. 63).
+- **קובל** (kovel) — Disciplinary prosecutor: an ethics committee, the Attorney General or the State Attorney (s. 63).
+- **בית הדין המשמעתי** (beit ha-din ha-mishma'ti) — The Bar's disciplinary tribunal (district and national) (ss. 14–15).
+- **עבירת משמעת** (avirat mishma'at) — Disciplinary offence by a lawyer (s. 61).
+- **רשלנות מקצועית** (rashlanut miktzo'it) — Professional negligence (malpractice), measured by the reasonable lawyer (Civil Wrongs Ordinance s. 35).
+- **הוצאות אישיות** (hotza'ot ishiyot) — Personal costs ordered against a lawyer (or a self-represented party) personally.
+- **אסמכתה מומצאת** (asmakhta mumtzet) — Fabricated legal citation, often produced by generative AI.
+- **גילוי דעת** (giluy da'at) — Published opinion of the Bar's National Ethics Committee (for example on AI, 2024 and 2026).

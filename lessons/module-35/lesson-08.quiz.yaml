@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    A fee agreement for a road-accident claim says: "22% of any amount received at any stage." The insurer
+    pays ₪180,000 before any claim is filed. What is the lawful maximum fee before VAT?
+  options:
+    - >-
+      ₪39,600, because the client signed the 22% clause.
+    - >-
+      ₪23,400, the 13% cap that applies to any road-accident fee.
+    - >-
+      ₪19,800, the 11% cap for settlements.
+    - >-
+      ₪14,400, the 8% cap where no claim was filed.
+  correct: 3
+  explanation: >-
+    Without a filed claim the cap is 8% (1977 rules, r. 4; Road Accident Law s. 16), plus VAT; the excess over the
+    cap is refundable despite the agreement.
+- id: q2
+  question: >-
+    Which clause in a fee agreement is unlawful rather than merely unfavourable to the client?
+  options:
+    - >-
+      A fixed fee of ₪3,000 for defending a traffic charge, payable in advance.
+    - >-
+      An extra ₪5,000 payable only if the client is acquitted of the traffic charge.
+    - >-
+      An hourly rate of ₪500 with monthly invoices for a civil claim.
+    - >-
+      A clause that VAT is added to every fee stated in the agreement.
+  correct: 1
+  explanation: >-
+    An acquittal bonus is a fee depending on the result in a criminal matter, banned by s. 84(א). The others are lawful
+    terms the client may negotiate.
+- id: q3
+  question: >-
+    Your lawyer received an interim payment for you four months ago and has not answered three emails.
+    You plan to complain to the ethics committee. What should you do first?
+  options:
+    - >-
+      Send a written demand for an account, the money and the file, with a deadline.
+    - >-
+      Post the facts on social media so that other clients are warned.
+    - >-
+      Wait for the final settlement so that the complaint covers everything.
+    - >-
+      Ask the insurer to stop all payments until the complaint is decided.
+  correct: 0
+  explanation: >-
+    A written demand (rules 40 and 42; s. 88) often resolves the money issue, and it is evidence for the complaint and
+    for a refund claim. Public posts risk defamation; waiting lets deadlines run.
+- id: q4
+  question: >-
+    Clause 11 of the agreement says the client waives any complaint to the Bar and any financial account.
+    What is its effect?
+  options:
+    - >-
+      It binds the client, because the waiver was agreed in writing.
+    - >-
+      It binds the client for complaints but not for the financial account.
+    - >-
+      It has no effect: anyone may complain (s. 63) and rule 42 still applies.
+    - >-
+      It binds the client only if the district committee approved the agreement in advance.
+  correct: 2
+  explanation: >-
+    Section 63 lets ethics committees act on anyone's complaint, rule 42 imposes the duty to account, and refunds of
+    excess fees apply "despite any agreement" (s. 87). Such a waiver is unenforceable.

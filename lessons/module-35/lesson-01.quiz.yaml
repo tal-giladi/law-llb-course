@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Noa finished her LL.B. last month with one exam still outstanding. She wants to start her
+    internship now. What does the Bar Association Law say?
+  options:
+    - >-
+      She must wait until all exams are passed, because s. 26 requires a final degree certificate.
+    - >-
+      She may start only if her principal is a judge, since lawyers cannot train unfinished graduates.
+    - >-
+      She may register, because s. 26(1) allows registration with up to two exams outstanding.
+    - >-
+      She may register, but the internship then lasts 18 months instead of 12.
+  correct: 2
+  explanation: >-
+    Section 26(1) allows registration once studies are completed with no more than two exams left; she
+    cannot sit the Bar exam until she has the degree (s. 38(ב)). The internship is 12 months (s. 35).
+- id: q2
+  question: >-
+    A candidate passed the Bar exam, but a civil judgment found he misused his former employer's funds.
+    No indictment has been filed. The Bar defers his admission. How would a court review this?
+  options:
+    - >-
+      As an administrative decision, for reasonableness and proportionality, after a hearing.
+    - >-
+      It cannot review it, because admission is an internal matter of a professional association.
+    - >-
+      It must cancel it, because only a criminal conviction with moral turpitude justifies refusal.
+    - >-
+      It must cancel it, because passing the exam gives an absolute right to be registered.
+  correct: 0
+  explanation: >-
+    Section 44(א)(2) allows refusal for "other facts" showing unfitness, and in Sagi (2011) the Supreme Court
+    reviewed the Bar's interim refusal as an administrative act and upheld it as proportionate.
+- id: q3
+  question: >-
+    You saw a list of candidates for admission to the Bar and recognised a man who took your deposit while
+    posing as a lawyer last year. What may you do under the Bar Association Law?
+  options:
+    - >-
+      Nothing, because only the ethics committees and the Attorney General may act in admission matters.
+    - >-
+      Appeal to the Jerusalem District Court against his exam result within 30 days.
+    - >-
+      Ask the disciplinary tribunal to fine him, since candidates are not yet under its jurisdiction.
+    - >-
+      Submit a written objection to his admission within the period set in the Bar's rules (s. 43).
+  correct: 3
+  explanation: >-
+    Section 43 lets any person object after candidates' names are published. Candidates are under the Bar's
+    disciplinary jurisdiction from the start of the internship (s. 41), and impersonation is an offence (s. 97).
+- id: q4
+  question: >-
+    A website offers "legal representation at medical committees" by "עו״ד" with no registration
+    number. What is the most useful first check?
+  options:
+    - >-
+      Ask the National Insurance Institute whether the service is approved.
+    - >-
+      Ask for the registration number and look the person up in the Bar's member search.
+    - >-
+      Check whether the site has an Israeli phone number and a physical office address.
+    - >-
+      Read online reviews, since published disciplinary rulings are confidential by law.
+  correct: 1
+  explanation: >-
+    Lawyers must state their registration number on filings and certified documents, and the Bar's register
+    shows who is a member. Disciplinary judgments are public with the lawyer's name unless ordered otherwise (s. 69ב).

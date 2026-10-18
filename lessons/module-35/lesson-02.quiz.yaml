@@ -1,0 +1,67 @@
+- id: q1
+  question: >-
+    Your uncle, a retired engineer, drafted your contract with a builder as a one-time favour and you
+    insisted on giving him ₪400 for his time. Under s. 20, which statement is correct?
+  options:
+    - >-
+      It is lawful, because a single act done for a relative is never "דרך עיסוק".
+    - >-
+      It is lawful, because drafting a contract is not reserved unless it is filed in court.
+    - >-
+      It crosses the line, because paid drafting for another is reserved even once.
+    - >-
+      It crosses the line only if the uncle advertised his drafting services to the public.
+  correct: 2
+  explanation: >-
+    The triggers are alternatives: "דרך עיסוק" (as an occupation) or "בתמורה" (for consideration, even not as
+    an occupation). Paid drafting of a legal document for someone else is s. 20(3).
+- id: q2
+  question: >-
+    A non-lawyer "consultant" drafted a lease and a demand letter for a client, then sued for his unpaid
+    ₪2,500 fee. What will the court do?
+  options:
+    - >-
+      Hear the claim in full, because the client agreed to the fee in writing.
+    - >-
+      Refuse to hear the claim to the extent the services were reserved to lawyers (s. 98).
+    - >-
+      Hear the claim but reduce the fee to the minimum recommended tariff.
+    - >-
+      Transfer the claim to the Bar's ethics committee for a binding fee decision.
+  correct: 1
+  explanation: >-
+    Section 98 bars courts from hearing a fee claim by a non-lawyer for reserved services. Unreserved parts of
+    a mixed service can still be claimed.
+- id: q3
+  question: >-
+    An online platform advertises "legal services at fixed prices", sends each customer to a partner lawyer,
+    and keeps 15% of the fee. What is the main ethical problem for the lawyer?
+  options:
+    - >-
+      Lawyers may not share fees with non-lawyers or serve clients referred by such advertisers.
+    - >-
+      Lawyers may not charge fixed prices; fees must be hourly under the conduct rules.
+    - >-
+      Lawyers may not receive clients from any referral source without Bar approval.
+    - >-
+      The lawyer must register the platform with the Ministry of Justice first.
+  correct: 0
+  explanation: >-
+    Section 58 bans sharing income with non-lawyers in return for services or benefits, and rule 11ב bars a lawyer
+    from serving a client referred by a for-profit non-lawyer body that advertises legal services.
+- id: q4
+  question: >-
+    Which of these representatives may lawfully act for you for a fee without being a lawyer?
+  options:
+    - >-
+      A claims adjuster arguing your road-accident claim in the magistrates' court.
+    - >-
+      A paralegal representing you before the Execution Office in your debt file.
+    - >-
+      A real-estate agent registering your caveat at the Land Registry.
+    - >-
+      A licensed tax adviser representing you before the income-tax assessor.
+  correct: 3
+  explanation: >-
+    Section 21(3) preserves representation regulated by another enactment, including the Income Tax Ordinance;
+    the Execution Office and the Land Registry are listed offices in s. 20(2).

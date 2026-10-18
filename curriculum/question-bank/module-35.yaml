@@ -1,0 +1,1343 @@
+- id: m35-001
+  module: 35
+  lesson: "35.1"
+  subject: admission-conditions
+  difficulty: 1
+  question: >-
+    Which three conditions does s. 24 of the Bar Association Law set for becoming a lawyer?
+  options:
+    - >-
+      A law degree, two years of practice abroad and an oral exam before a judge.
+    - >-
+      Recognised legal education, an internship and the Bar examinations.
+    - >-
+      A law degree, membership of a district committee and a clean criminal record.
+    - >-
+      An internship, a Hebrew-language test and a recommendation from a principal.
+  correct: 1
+  explanation: >-
+    Section 24 lists higher legal education, an internship and the Bar exams; chapter 4 sets out the detail.
+- id: m35-002
+  module: 35
+  lesson: "35.1"
+  subject: internship-length
+  difficulty: 1
+  question: >-
+    How long is the Bar internship under s. 35(א) as it stands in 2026?
+  options:
+    - >-
+      Eighteen months, as set in 2017.
+    - >-
+      Twenty-four months for graduates of foreign institutions.
+    - >-
+      Twelve months.
+    - >-
+      Six months if the principal is a judge.
+  correct: 2
+  explanation: >-
+    Section 35(א) says the internship lasts 12 months, after amendments in 2024–2025; it had been 18 months.
+- id: m35-003
+  module: 35
+  lesson: "35.1"
+  subject: intern-appearances
+  difficulty: 2
+  question: >-
+    An intern in her fourth month wants to argue a client's motion alone in the magistrates' court because her
+    principal is abroad. What does s. 37 allow?
+  options:
+    - >-
+      She may, since interns may appear in the magistrates' court from the first month.
+    - >-
+      She may, if the client signs a written consent to her appearing alone.
+    - >-
+      She may, if another lawyer from the office sits in the courtroom.
+    - >-
+      She may not: interns appear only in the last six months, with the principal or with leave.
+  correct: 3
+  explanation: >-
+    Section 37 lets an intern represent the principal's clients in the magistrates' court only in the last six
+    months of the internship, with the principal present or the court's permission.
+- id: m35-004
+  module: 35
+  lesson: "35.1"
+  subject: refusal-grounds
+  difficulty: 2
+  question: >-
+    Which ground lets the Bar refuse to admit a candidate who passed all exams?
+  options:
+    - >-
+      Facts showing that the candidate is unfit to be a lawyer, after a hearing.
+    - >-
+      The candidate's political views as expressed on social media.
+    - >-
+      The candidate's failure to find a job at a law firm within a year.
+    - >-
+      A complaint by a former employer, even without facts showing unfitness.
+  correct: 0
+  explanation: >-
+    Section 44(א) allows refusal for a conviction with moral turpitude or other facts showing unfitness, after the
+    candidate is heard; reasons must be given in writing (s. 44(ב)).
+- id: m35-005
+  module: 35
+  lesson: "35.1"
+  subject: judicial-review-bar
+  difficulty: 3
+  question: >-
+    In Sagi (2011), why did the Supreme Court uphold the Bar's decision not to admit the candidate for now?
+  options:
+    - >-
+      Because the Bar is a professional association and courts may not review its admission decisions.
+    - >-
+      Because a pending police investigation is always a conclusive ground for refusing admission.
+    - >-
+      Because civil findings were valid evidence and the interim refusal was proportionate.
+    - >-
+      Because the candidate had failed the oral part of the Bar exam.
+  correct: 2
+  explanation: >-
+    The Court treated the Bar as an administrative authority, accepted a civil judgment's findings as
+    administrative evidence under s. 44(א)(2), and found the temporary refusal proportionate given the freedom of
+    occupation.
+- id: m35-006
+  module: 35
+  lesson: "35.1"
+  subject: disciplinary-records
+  difficulty: 1
+  question: >-
+    Are judgments of the Bar's disciplinary tribunals available to the public?
+  options:
+    - >-
+      No, they are confidential to protect the lawyer's reputation.
+    - >-
+      Yes, with the lawyer's name, unless the tribunal ordered otherwise.
+    - >-
+      Only after the lawyer has been expelled from the Bar.
+    - >-
+      Only to complainants who were parties to the hearing.
+  correct: 1
+  explanation: >-
+    Section 69ב requires the Bar to make every disciplinary judgment available to the public with the lawyer's
+    name, subject to the tribunal's directions where hearings were closed.
+- id: m35-007
+  module: 35
+  lesson: "35.1"
+  subject: exam-subjects
+  difficulty: 2
+  question: >-
+    Bar-exam style. In which part of the written Bar exam is professional ethics examined?
+  options:
+    - >-
+      In the drafting task only, as a short essay on a dilemma.
+    - >-
+      In a separate oral exam held before the admissions committee.
+    - >-
+      In the procedural multiple-choice part, together with civil procedure and the law of evidence.
+    - >-
+      In the substantive multiple-choice part, with disciplinary procedure on the procedural side.
+  correct: 3
+  explanation: >-
+    The exam regulations list professional ethics among substantive subjects and disciplinary procedure among
+    procedural subjects; the written exam has two multiple-choice parts and a drafting task.
+- id: m35-008
+  module: 35
+  lesson: "35.1"
+  subject: impersonation
+  difficulty: 2
+  question: >-
+    A man who is not a lawyer signs letters as "עו״ד". Which provision is most directly breached?
+  options:
+    - >-
+      Section 97, impersonating a lawyer, which carries up to a year's imprisonment.
+    - >-
+      Section 57, which only regulates the titles lawyers may use abroad.
+    - >-
+      Rule 2 of the Professional Conduct Rules on loyalty to clients.
+    - >-
+      Section 41, which applies only to candidates during the internship.
+  correct: 0
+  explanation: >-
+    Section 97(א) punishes a person who impersonates a lawyer with up to a year in prison or a fine. Section 96
+    covers reserved acts done by non-lawyers.
+- id: m35-009
+  module: 35
+  lesson: "35.2"
+  subject: reserved-acts
+  difficulty: 1
+  question: >-
+    Which activity is reserved to lawyers by s. 20 when done for others as an occupation or for pay?
+  options:
+    - >-
+      Teaching a public course on Israeli contract law.
+    - >-
+      Publishing general legal information on a website.
+    - >-
+      Giving a specific person legal advice on his case.
+    - >-
+      Selling blank contract forms in a stationery shop.
+  correct: 2
+  explanation: >-
+    Section 20(4) reserves legal advice and opinions. General information and teaching are not advice about a
+    particular person's legal position.
+- id: m35-010
+  module: 35
+  lesson: "35.2"
+  subject: reserved-offices
+  difficulty: 1
+  question: >-
+    Before which of these offices is representing another person reserved to lawyers under s. 20(2)?
+  options:
+    - >-
+      The municipal arnona department.
+    - >-
+      The Execution Office.
+    - >-
+      The Israel Consumer Council.
+    - >-
+      The Population Registry.
+  correct: 1
+  explanation: >-
+    Section 20(2) lists the Execution Office, the Land Registry, the condominium superintendent, several
+    registrars and the tax authorities named there.
+- id: m35-011
+  module: 35
+  lesson: "35.2"
+  subject: occupation-trigger
+  difficulty: 2
+  question: >-
+    A volunteer at a community centre drafts tenants' demand letters for free every week. Is this caught by s. 20?
+  options:
+    - >-
+      No, because no money is paid for the letters and the volunteer is not a business.
+    - >-
+      No, because demand letters are not legal documents.
+    - >-
+      No, if the tenants sign the letters themselves.
+    - >-
+      Yes, because regular drafting is done "as an occupation" even without pay.
+  correct: 3
+  explanation: >-
+    The two triggers are alternatives: "דרך עיסוק" catches a regular service even if free. Lawful community help
+    usually runs through a supervising lawyer or gives information rather than drafting.
+- id: m35-012
+  module: 35
+  lesson: "35.2"
+  subject: fee-sharing
+  difficulty: 2
+  question: >-
+    A lawyer agrees to pay a real-estate agent 10% of fees for every client the agent sends. What is the problem?
+  options:
+    - >-
+      Sharing income with a non-lawyer in return for referrals breaches s. 58.
+    - >-
+      Nothing, as long as the client is told about the payment in writing.
+    - >-
+      Only the agent's licence is at risk under the Real Estate Agents Law.
+    - >-
+      The fee must be approved by the district committee in advance.
+  correct: 0
+  explanation: >-
+    Section 58 bars a lawyer from sharing income, gross or net, with a non-lawyer in return for services, help or
+    other benefit to the practice. Disclosure does not cure it.
+- id: m35-013
+  module: 35
+  lesson: "35.2"
+  subject: nii-assistance
+  difficulty: 2
+  question: >-
+    How does the National Insurance Law treat commercial companies that help people file benefit claims?
+  options:
+    - >-
+      It bans them, because any help with a claim is reserved to lawyers.
+    - >-
+      It allows them to represent claimants in the labour court as well.
+    - >-
+      It caps what they may charge for "other assistance" in filing a claim.
+    - >-
+      It requires them to register with the Bar and employ an intern.
+  correct: 2
+  explanation: >-
+    Sections 315א–315ג cap payment for representation and for "other assistance" in a claim, with lower caps for
+    assistance without a lawyer's representation; labour-court representation stays reserved.
+- id: m35-014
+  module: 35
+  lesson: "35.2"
+  subject: s98
+  difficulty: 3
+  question: >-
+    A non-lawyer business consultant prepared a company's business plan and also wrote it a legal opinion on a
+    supplier contract. He sues for his full fee. What will the court do?
+  options:
+    - >-
+      Dismiss the whole claim, because any mixed service is tainted.
+    - >-
+      Hear the claim only for the parts that were not reserved to lawyers.
+    - >-
+      Hear the whole claim, because the consultant acted in good faith.
+    - >-
+      Refer the claim to the Bar, which decides fees of non-lawyers.
+  correct: 1
+  explanation: >-
+    Section 98 bars a fee claim for a non-lawyer's service "to the extent" it was reserved; the business plan can
+    be claimed, the legal opinion cannot.
+- id: m35-015
+  module: 35
+  lesson: "35.2"
+  subject: rule-11b
+  difficulty: 3
+  question: >-
+    Bar-exam style. An insurance agency (not a law firm) employs a lawyer and sells customers "legal advice
+    packages" that he delivers. What do the conduct rules say?
+  options:
+    - >-
+      It is lawful, because the lawyer is a salaried employee of the agency and not its partner.
+    - >-
+      It is lawful, if the agency's name includes the words "legal department".
+    - >-
+      It is lawful, if each customer signs a separate power of attorney.
+    - >-
+      It is barred: an employee lawyer may not serve outsiders for whom the employer charges.
+  correct: 3
+  explanation: >-
+    Rule 11ב(ב) forbids a lawyer employed by a for-profit non-lawyer to serve anyone but the employer where the
+    employer charges for that service; the central committee may allow exceptions in the public interest.
+- id: m35-016
+  module: 35
+  lesson: "35.2"
+  subject: tax-representation
+  difficulty: 1
+  question: >-
+    Who besides a lawyer may represent you before the income-tax assessor?
+  options:
+    - >-
+      Accountants and licensed tax advisers, under s. 21(3) and the tax laws.
+    - >-
+      Any relative or friend, provided he is not paid for representing you.
+    - >-
+      Only a lawyer; no exception applies to tax.
+    - >-
+      Any person holding a general power of attorney signed before a notary.
+  correct: 0
+  explanation: >-
+    Section 21(3) preserves representation regulated by another enactment, including Income Tax Ordinance s. 236
+    and the Tax Advisers Representation Law.
+- id: m35-017
+  module: 35
+  lesson: "35.3"
+  subject: loyalty
+  difficulty: 1
+  question: >-
+    What does s. 54 require of a lawyer?
+  options:
+    - >-
+      To follow the client's instructions even if they involve misleading the court.
+    - >-
+      To act for the client loyally and devotedly and to help the court do justice.
+    - >-
+      To prefer the court's interest over the client's in every civil case.
+    - >-
+      To take every case offered unless the fee is unpaid.
+  correct: 1
+  explanation: >-
+    Section 54 combines partisanship (loyalty and devotion to the client) with the role of officer of the court;
+    rule 34 forbids knowingly false claims.
+- id: m35-018
+  module: 35
+  lesson: "35.3"
+  subject: workload-conflict
+  difficulty: 2
+  question: >-
+    A lawyer has so many trials next month that he cannot prepare your urgent injunction. Which rule is engaged?
+  options:
+    - >-
+      None, because workload is a matter of the lawyer's business, not of professional ethics.
+    - >-
+      Rule 22, because he may not record your conversations.
+    - >-
+      Rule 14(א), which lists workload as a reason not to take or continue a case.
+    - >-
+      Rule 27, because he must inform the previous lawyer.
+  correct: 2
+  explanation: >-
+    Rule 14(א) bars taking or continuing a representation where there is a risk the lawyer cannot fulfil his duty
+    because of personal interest, duties to others, workload or a similar reason.
+- id: m35-019
+  module: 35
+  lesson: "35.3"
+  subject: regular-client
+  difficulty: 2
+  question: >-
+    Your lawyer regularly advises a supermarket chain. You want him to sue that chain for you over a fall in a
+    store. What does rule 14(ג) say?
+  options:
+    - >-
+      He may act, because your fall in the store is unrelated to the advice he gives the chain.
+    - >-
+      He may act, if he does not use information from the chain.
+    - >-
+      He may act, if the chain's general counsel agrees orally.
+    - >-
+      He may not act against a regular client, even in an unrelated matter.
+  correct: 3
+  explanation: >-
+    Rule 14(ג) bars acting for another party in a matter where a regular client is a party, even if the lawyer
+    does not represent the regular client in it; rule 14(ד) allows written agreement in limited cases.
+- id: m35-020
+  module: 35
+  lesson: "35.3"
+  subject: confidentiality-vs-privilege
+  difficulty: 3
+  question: >-
+    Your lawyer learned from you that your neighbour was convicted years ago (a public fact). He mentions it at a
+    dinner party. Is this a breach?
+  options:
+    - >-
+      Yes: rule 19 covers everything the client told him, even facts available elsewhere.
+    - >-
+      No, because the fact is public and therefore not privileged under s. 90 of the Bar Association Law.
+    - >-
+      No, because confidentiality only applies in legal proceedings.
+    - >-
+      Only if the neighbour, not the client, complains to the Bar.
+  correct: 0
+  explanation: >-
+    The ethical duty in rule 19 is wider than the evidential privilege: it covers anything brought to the lawyer's
+    knowledge by the client in the course of his work, unless the client expressly consents.
+- id: m35-021
+  module: 35
+  lesson: "35.3"
+  subject: privilege-waiver
+  difficulty: 1
+  question: >-
+    Who can waive the privilege over your communications with your lawyer?
+  options:
+    - >-
+      The lawyer, if he thinks disclosure serves justice.
+    - >-
+      The court, after weighing the interests of justice.
+    - >-
+      You, the client.
+    - >-
+      The ethics committee, in a disciplinary case.
+  correct: 2
+  explanation: >-
+    Section 90 and Evidence Ordinance s. 48 give an absolute privilege that only the client can waive (lesson
+    23.2).
+- id: m35-022
+  module: 35
+  lesson: "35.3"
+  subject: contact-represented-party
+  difficulty: 2
+  question: >-
+    You are represented. The other side's lawyer phones you directly to offer a settlement. Is that allowed?
+  options:
+    - >-
+      Yes, if he follows up the call with a written letter to your lawyer the same day.
+    - >-
+      No: he must contact you through your lawyer unless your lawyer agrees.
+    - >-
+      Yes, because settlement offers are exempt from the rules.
+    - >-
+      Yes, if the case has not yet been filed in court.
+  correct: 1
+  explanation: >-
+    Rule 25(א) requires a lawyer who knows the other side is represented to communicate only through that lawyer,
+    unless the other lawyer consents or the law requires direct delivery with a copy to the lawyer.
+- id: m35-023
+  module: 35
+  lesson: "35.3"
+  subject: threats
+  difficulty: 2
+  question: >-
+    Spot the breach. A lawyer writes to you (unrepresented): "Pay within 7 days or my client will file a police
+    complaint and tell your employer." Which part breaches rule 24?
+  options:
+    - >-
+      The 7-day deadline, because demand letters must give 30 days.
+    - >-
+      Writing to you directly, because unrepresented parties may not be contacted.
+    - >-
+      Mentioning the amount due, because only a court may state it.
+    - >-
+      Threatening a police complaint and your employer to press a civil debt.
+  correct: 3
+  explanation: >-
+    Rule 24 forbids threats; a lawyer may describe the lawful steps his client will take to enforce rights and
+    point to the law, but using criminal complaints or exposure as pressure is a threat.
+- id: m35-024
+  module: 35
+  lesson: "35.3"
+  subject: al-madamin
+  difficulty: 3
+  question: >-
+    Bar-exam style. In a pending civil case a party asks the court to bar the other side's lawyer for a conflict.
+    What is the proper approach after Al Madamin (2018)?
+  options:
+    - >-
+      Ask whether the alleged breach may harm the party's legitimate interests in the case, often after a Bar
+      opinion.
+    - >-
+      Always refer the question to the Bar's disciplinary tribunal and stay the civil case until it rules on the
+      conflict.
+    - >-
+      Always decide the conflict question itself, since it has inherent jurisdiction.
+    - >-
+      Refuse to deal with it, because ethics questions belong only to the Bar.
+  correct: 0
+  explanation: >-
+    The court has power under Courts Law s. 75 only where the breach may harm a party's legitimate interests or
+    the fairness of the case; the Bar remains the natural forum and a preliminary opinion (s. 60א) is often sought
+    first.
+- id: m35-025
+  module: 35
+  lesson: "35.3"
+  subject: lawyer-witness
+  difficulty: 3
+  question: >-
+    Your lawyer witnessed the signing of the contract you are now suing on, and you want him to testify for you.
+    What does rule 36 say?
+  options:
+    - >-
+      He may testify and keep representing you, as long as he testifies first and then returns to argue.
+    - >-
+      He may testify only by affidavit, never in person.
+    - >-
+      He may not represent you if he will testify for you, save technical matters or with permission.
+    - >-
+      He may represent you but not cross-examine the other side's witnesses.
+  correct: 2
+  explanation: >-
+    Rule 36 bars a lawyer from representing a person in proceedings where he will testify for that person;
+    exceptions are testimony called by the opponent, technical matters, or permission of the court or district
+    committee.
+- id: m35-026
+  module: 35
+  lesson: "35.4"
+  subject: criminal-contingency
+  difficulty: 1
+  question: >-
+    In which kind of case is a success fee banned outright?
+  options:
+    - >-
+      Family cases.
+    - >-
+      Criminal cases.
+    - >-
+      Labour cases.
+    - >-
+      Insurance claims.
+  correct: 1
+  explanation: >-
+    Section 84(א) forbids stipulating or receiving a fee dependent on the result in a criminal case.
+- id: m35-027
+  module: 35
+  lesson: "35.4"
+  subject: road-accident-cap
+  difficulty: 1
+  question: >-
+    A road-accident claim ended in a judgment for ₪400,000. What is the maximum success fee?
+  options:
+    - >-
+      13% plus VAT: ₪52,000 plus VAT.
+    - >-
+      11% plus VAT: ₪44,000 plus VAT.
+    - >-
+      8% plus VAT: ₪32,000 plus VAT.
+    - >-
+      Whatever was agreed, because judgments are not capped.
+  correct: 0
+  explanation: >-
+    After judgment the cap is 13% of the amount awarded (s. 16; 1977 rules, r. 2), plus VAT (r. 5).
+- id: m35-028
+  module: 35
+  lesson: "35.4"
+  subject: minimum-tariff
+  difficulty: 2
+  question: >-
+    Your lawyer says the Bar's minimum tariff "obliges" him to charge at least a certain amount. Is he right?
+  options:
+    - >-
+      Yes, the tariff is binding on all members of the Bar.
+    - >-
+      Yes, unless the district committee grants an exemption.
+    - >-
+      Yes, but only in money claims above the small-claims ceiling.
+    - >-
+      No, the recommended minimum tariff does not bind lawyers.
+  correct: 3
+  explanation: >-
+    Section 81 and rule 2 of the 2000 tariff rules say the tariff is a recommendation that does not bind Bar
+    members; it is used mainly as a benchmark for costs and in execution files.
+- id: m35-029
+  module: 35
+  lesson: "35.4"
+  subject: s85
+  difficulty: 2
+  question: >-
+    Spot the mistake. A fee clause reads: "₪15,000 including all expenses; no breakdown will be given." What is
+    wrong?
+  options:
+    - >-
+      Fixed fees are not allowed in civil cases under the Professional Conduct Rules.
+    - >-
+      Fees must be stated as a percentage of the claim.
+    - >-
+      Fee and expenses must be separated and expenses itemised (s. 85).
+    - >-
+      VAT must always be included in the fee.
+  correct: 2
+  explanation: >-
+    Section 85 bars a global payment that mixes fee and expenses without distinguishing them and itemising
+    expenses. The lawyer still keeps a right to a reasonable fee (s. 86).
+- id: m35-030
+  module: 35
+  lesson: "35.4"
+  subject: nii-cap-columns
+  difficulty: 3
+  question: >-
+    Under s. 315ב, how are the "with file-opening fee" and "without file-opening fee" columns used?
+  options:
+    - >-
+      The lawyer chooses the higher of the two at the end of the case.
+    - >-
+      The parties choose one option when they contract, and the cap follows it.
+    - >-
+      The NII decides which column applies after approving the benefit.
+    - >-
+      Both apply together, so the lawyer may charge both percentages.
+  correct: 1
+  explanation: >-
+    Section 315ב(א) sets alternative maxima in column B (and C for low benefits), "as the parties agreed when they
+    contracted": a percentage plus the file-opening fee, or a higher percentage without it.
+- id: m35-031
+  module: 35
+  lesson: "35.4"
+  subject: orhightech
+  difficulty: 2
+  question: >-
+    Your lawyer's agreement gives him "20% of any sum awarded". The court awarded you damages and ₪10,000 costs.
+    Does the 20% apply to the costs?
+  options:
+    - >-
+      No, unless the agreement expressly includes costs.
+    - >-
+      Yes, because costs are part of "any sum awarded" by the court.
+    - >-
+      Yes, but only half of the costs.
+    - >-
+      Only if the costs exceed the damages.
+  correct: 0
+  explanation: >-
+    In Orhightech v. Avitan (2018) the Supreme Court read an unclear fee agreement against the lawyer and held
+    that, absent express agreement, the percentage does not reach costs awarded to the client.
+- id: m35-032
+  module: 35
+  lesson: "35.4"
+  subject: s84b
+  difficulty: 2
+  question: >-
+    What can the Bar do under s. 84(ב) when a client says a civil success fee is excessive?
+  options:
+    - >-
+      Only give a non-binding opinion to the parties.
+    - >-
+      Fine the lawyer up to ₪25,000.
+    - >-
+      Order the lawyer to repay twice the excess.
+    - >-
+      Set the appropriate fee at the client's request.
+  correct: 3
+  explanation: >-
+    Section 84(ב) lets the Bar, at the client's request, determine an appropriate fee where a non-criminal success
+    fee seems excessive; a fee within a statutory maximum is never excessive (s. 84(ג)).
+- id: m35-033
+  module: 35
+  lesson: "35.4"
+  subject: legal-aid-fees
+  difficulty: 2
+  question: >-
+    A Legal Aid lawyer asks you for an extra ₪3,000 "to work harder" on your case. Is that allowed?
+  options:
+    - >-
+      Yes, if you agree to it in writing before the next hearing date.
+    - >-
+      Yes, if the amount is below the minimum tariff.
+    - >-
+      No: an appointed lawyer is paid only under the Legal Aid regulations.
+    - >-
+      No, unless the Legal Aid office approves the extra payment.
+  correct: 2
+  explanation: >-
+    Section 6א of the Legal Aid Law forbids an appointed lawyer to receive fees or expenses except under the
+    regulations; the client pays only the participation fee.
+- id: m35-034
+  module: 35
+  lesson: "35.4"
+  subject: partner-rights
+  difficulty: 3
+  question: >-
+    A start-up founder wants to pay his lawyer partly in company shares. Is that permitted?
+  options:
+    - >-
+      No, fees may only ever be paid in money.
+    - >-
+      Yes, in a commercial matter, if agreed in writing (rule 9(ג)).
+    - >-
+      Yes, in any matter, if the shares are valued by an accountant.
+    - >-
+      Yes, but only with the district committee's prior approval.
+  correct: 1
+  explanation: >-
+    Rule 9(א) requires payment in money, but rule 9(ג) allows partner rights (shares, options) in a "monetary
+    matter" connected to commerce and business, if agreed in writing.
+- id: m35-035
+  module: 35
+  lesson: "35.4"
+  subject: road-accident-refund
+  difficulty: 3
+  question: >-
+    You paid your lawyer 15% of a road-accident settlement reached without any claim being filed. What can you do?
+  options:
+    - >-
+      Nothing, because you signed the agreement voluntarily.
+    - >-
+      Ask the district committee to approve the higher fee retroactively.
+    - >-
+      Recover the excess above 8% plus VAT, despite the agreement.
+    - >-
+      Recover the whole fee, because any excess voids the agreement.
+  correct: 2
+  explanation: >-
+    Section 16(א) entitles a person who paid above the maximum tariff to a refund of the excess; s. 16(ב) denies
+    the district committee power to allow more.
+- id: m35-036
+  module: 35
+  lesson: "35.5"
+  subject: advertising-content
+  difficulty: 1
+  question: >-
+    Which item may a lawyer's advertisement include under the Advertising Rules?
+  options:
+    - >-
+      The languages the lawyer speaks.
+    - >-
+      A comparison showing other lawyers are worse.
+    - >-
+      A pop-up ad on a news website.
+    - >-
+      A discount price for first-time clients in the free text.
+  correct: 0
+  explanation: >-
+    Rule 3(ב) lists permitted details, including languages; free text may not refer to fees, pop-up ads are
+    excluded, and disparaging other lawyers is not allowed (r. 3(ד)(3)).
+- id: m35-037
+  module: 35
+  lesson: "35.5"
+  subject: testimonials
+  difficulty: 2
+  question: >-
+    May a lawyer publish client recommendations and ratings?
+  options:
+    - >-
+      No, any reference to clients is forbidden.
+    - >-
+      Only after the Bar approves each recommendation.
+    - >-
+      Only recommendations from other lawyers.
+    - >-
+      Yes, if they do not create a misleading impression.
+  correct: 3
+  explanation: >-
+    Since 2018 rule 3(יא) allows recommendations, thank-you letters and ratings, provided the information does not
+    mislead; naming clients needs their written informed consent (r. 3(ט)).
+- id: m35-038
+  module: 35
+  lesson: "35.5"
+  subject: declining-a-case
+  difficulty: 1
+  question: >-
+    A lawyer decides not to take your case. What must he do?
+  options:
+    - >-
+      Refer you to another lawyer in the same field.
+    - >-
+      Tell you within a reasonable time.
+    - >-
+      Give you written legal reasons for the refusal.
+    - >-
+      Report the refusal to the district committee.
+  correct: 1
+  explanation: >-
+    Rule 12 lets a lawyer decline at his discretion but requires him to tell the person within a reasonable time.
+- id: m35-039
+  module: 35
+  lesson: "35.5"
+  subject: changing-lawyer
+  difficulty: 2
+  question: >-
+    You hired a new lawyer to replace your old one. Who must notify the old lawyer?
+  options:
+    - >-
+      You, by registered mail, before the new lawyer may act.
+    - >-
+      The court secretariat, when the new power of attorney is filed.
+    - >-
+      The new lawyer, without delay, making sure the notice arrived.
+    - >-
+      Nobody, because the old mandate ends automatically.
+  correct: 2
+  explanation: >-
+    Rule 27 requires a lawyer who takes over a matter handled by another lawyer to notify him without delay and
+    verify the notice was delivered.
+- id: m35-040
+  module: 35
+  lesson: "35.5"
+  subject: lien-limits
+  difficulty: 3
+  question: >-
+    Your former lawyer holds ₪20,000 of child maintenance he collected for you, claiming unpaid fees. What is the
+    law?
+  options:
+    - >-
+      He may hold it until a court rules on his fee.
+    - >-
+      He may hold it if he sues within three months.
+    - >-
+      He may hold half of it as security.
+    - >-
+      He may not hold maintenance money under the lien.
+  correct: 3
+  explanation: >-
+    Section 88 excludes maintenance money for a spouse and minors from the lawyer's lien, as well as money held in
+    trust other than for the client alone.
+- id: m35-041
+  module: 35
+  lesson: "35.5"
+  subject: solicitation
+  difficulty: 2
+  question: >-
+    A lawyer's office sends people to funerals of accident victims to offer the family representation. Which
+    provision does this breach?
+  options:
+    - >-
+      Section 56, the ban on soliciting work personally or through others.
+    - >-
+      Rule 3(ה) of the Advertising Rules on photos with clients.
+    - >-
+      Section 85, the ban on fees that mix expenses and remuneration without itemising.
+    - >-
+      Rule 18, on transferring the power of attorney.
+  correct: 0
+  explanation: >-
+    Section 56 forbids a lawyer to solicit anyone, personally or through another, to give him professional work.
+- id: m35-042
+  module: 35
+  lesson: "35.5"
+  subject: settlement-authority
+  difficulty: 3
+  question: >-
+    Your lawyer received a settlement offer and rejected it without telling you, because he expects a better
+    result at trial. What is the best description?
+  options:
+    - >-
+      Acceptable, because tactical decisions belong to the lawyer.
+    - >-
+      Acceptable, if the eventual judgment is higher than the offer.
+    - >-
+      A breach of loyalty: the decision whether to settle is the client's.
+    - >-
+      A breach only if the offer was made in writing.
+  correct: 2
+  explanation: >-
+    The lawyer acts as the client's agent with loyalty and devotion (s. 54, rule 2); decisions about the client's
+    rights, such as settling, belong to the client, who must be informed.
+- id: m35-043
+  module: 35
+  lesson: "35.5"
+  subject: silent-lawyer
+  difficulty: 2
+  question: >-
+    Your lawyer stopped working on your case because you are late with a payment, and a deadline is next week.
+    What is the rule?
+  options:
+    - >-
+      He may wait until you pay, since the agreement was breached.
+    - >-
+      He must act or withdraw properly; he may not simply do nothing.
+    - >-
+      He may act only if you sign a new fee agreement.
+    - >-
+      He must ask the court to extend the deadline for you.
+  correct: 1
+  explanation: >-
+    Rule 13 allows withdrawal for unpaid fees with notice and without harming the client; as reported from על״ע
+    3174/93, a lawyer who has not withdrawn may not "sit and do nothing".
+- id: m35-044
+  module: 35
+  lesson: "35.6"
+  subject: who-may-complain
+  difficulty: 1
+  question: >-
+    Who may file a complaint about a lawyer with the Bar's ethics committee?
+  options:
+    - >-
+      Only the lawyer's clients and former clients.
+    - >-
+      Only judges and the Attorney General.
+    - >-
+      Only other lawyers who are Bar members.
+    - >-
+      Any person.
+  correct: 3
+  explanation: >-
+    Section 63 lets ethics committees act on their own initiative or on the complaint of "another person": anyone
+    may complain, while only listed prosecutors file charges.
+- id: m35-045
+  module: 35
+  lesson: "35.6"
+  subject: penalties
+  difficulty: 1
+  question: >-
+    What is the longest suspension a disciplinary tribunal may impose under s. 68?
+  options:
+    - >-
+      Ten years.
+    - >-
+      Three years.
+    - >-
+      Five years.
+    - >-
+      Twenty years.
+  correct: 0
+  explanation: >-
+    Section 68(4) allows suspension for a fixed period of up to ten years; expulsion is the most severe penalty.
+- id: m35-046
+  module: 35
+  lesson: "35.6"
+  subject: complaint-timeline
+  difficulty: 1
+  question: >-
+    Under the 2015 procedure rules, how long does the lawyer have to answer the committee's request?
+  options:
+    - >-
+      Seven days.
+    - >-
+      Ninety days from the day the complaint was served on him.
+    - >-
+      Thirty days, or longer if the prosecutor allows.
+    - >-
+      Unlimited time until a hearing date is set by the tribunal.
+  correct: 2
+  explanation: >-
+    Rule 5(א) gives the lawyer 30 days from service, or a longer period the prosecutor sets or agrees to; the
+    committee then decides within 90 days (r. 7(א)).
+- id: m35-047
+  module: 35
+  lesson: "35.6"
+  subject: old-facts
+  difficulty: 2
+  question: >-
+    You want to complain about conduct from 12 years ago. What do the 2015 rules require?
+  options:
+    - >-
+      The complaint is barred, because disciplinary complaints expire after seven years.
+    - >-
+      The prosecutor must address the lapse of time and give reasons if he files a charge.
+    - >-
+      The complaint must first be approved in writing by the Attorney General.
+    - >-
+      Only the National Ethics Committee may consider it.
+  correct: 1
+  explanation: >-
+    Rule 7(ב) requires a prosecutor who files a charge on facts ten or more years old to give written reasons for
+    filing despite the lapse of time.
+- id: m35-048
+  module: 35
+  lesson: "35.6"
+  subject: appeals
+  difficulty: 2
+  question: >-
+    Bar-exam style. Who may appeal a judgment of the National Disciplinary Tribunal to the Jerusalem District
+    Court?
+  options:
+    - >-
+      Only the convicted lawyer, within 45 days of receiving the judgment.
+    - >-
+      The complainant, because he is a party to the disciplinary proceedings.
+    - >-
+      Only the Minister of Justice.
+    - >-
+      The lawyer, the prosecutor, the National Ethics Committee and the AG.
+  correct: 3
+  explanation: >-
+    Section 71 gives the right of appeal within 30 days to the accused and the prosecutor, and to the National
+    Ethics Committee and the AG even if they did not prosecute.
+- id: m35-049
+  module: 35
+  lesson: "35.6"
+  subject: malpractice-standard
+  difficulty: 2
+  question: >-
+    What standard decides whether a lawyer was negligent?
+  options:
+    - >-
+      What a reasonable, prudent and qualified lawyer would have done in the circumstances.
+    - >-
+      Whether the client lost the case that the lawyer was handling for him.
+    - >-
+      Whether the lawyer breached any rule of the conduct rules.
+    - >-
+      What the most experienced specialist in the field would have done in his place.
+  correct: 0
+  explanation: >-
+    Civil Wrongs Ordinance s. 35 measures professional negligence against the reasonable member of the profession;
+    Herman v. Eldor applies the "reasonable lawyer" who acts on warning signs.
+- id: m35-050
+  module: 35
+  lesson: "35.6"
+  subject: limitation-discovery
+  difficulty: 3
+  question: >-
+    Your lawyer's error happened in 2017, but you only discovered it in 2025 because he concealed it. Can you
+    still sue in 2026?
+  options:
+    - >-
+      No, the seven-year period ran out in 2024.
+    - >-
+      No, because malpractice claims against lawyers must be brought within three years.
+    - >-
+      Possibly: limitation may run from discovery or be suspended for concealment.
+    - >-
+      Yes, because there is no limitation for claims against lawyers.
+  correct: 2
+  explanation: >-
+    The general period is seven years (Prescription Law s. 5), but s. 8 starts it from discovery of hidden facts
+    and s. 7 suspends it while the defendant knowingly misleads the plaintiff.
+- id: m35-051
+  module: 35
+  lesson: "35.6"
+  subject: compensation-to-complainant
+  difficulty: 1
+  question: >-
+    Can the disciplinary tribunal order compensation to the complainant?
+  options:
+    - >-
+      No, compensation is only available in a civil court.
+    - >-
+      Yes, up to ₪25,000 per offence, without affecting civil liability.
+    - >-
+      Yes, the client's full loss, which then bars any later civil claim for damages.
+    - >-
+      Yes, but only if the lawyer agrees to pay.
+  correct: 1
+  explanation: >-
+    Section 69(א)(4) allows compensation of up to ₪25,000 per offence to the complainant or another injured
+    person; the order does not exempt from civil liability.
+- id: m35-052
+  module: 35
+  lesson: "35.6"
+  subject: route-choice
+  difficulty: 3
+  question: >-
+    Which route? Your lawyer's 30% success fee in a civil insurance case is lawful but seems excessive to you. You
+    want a binding decision without going to court.
+  options:
+    - >-
+      A complaint to the ethics committee asking for a penalty.
+    - >-
+      A small claim for the whole fee.
+    - >-
+      A request to the Ombudsman for the Judiciary.
+    - >-
+      A request to the Bar to set the fee under s. 84(ב).
+  correct: 3
+  explanation: >-
+    Section 84(ב) gives the Bar power to set an appropriate fee at the client's request where a non-criminal
+    success fee is excessive; a complaint is about discipline, not price.
+- id: m35-053
+  module: 35
+  lesson: "35.6"
+  subject: rule-31
+  difficulty: 2
+  question: >-
+    You hire lawyer B to sue your former lawyer A. What must B do before filing?
+  options:
+    - >-
+      Write to A first to try to settle, unless that would harm you.
+    - >-
+      Obtain the district committee's written permission to sue a fellow lawyer.
+    - >-
+      Wait until the ethics committee rules on your complaint.
+    - >-
+      Nothing special; lawyers may be sued like anyone else.
+  correct: 0
+  explanation: >-
+    Rule 31 requires a lawyer to approach the other lawyer in writing, and orally where possible, to try to
+    settle, provided this does not harm the client.
+- id: m35-054
+  module: 35
+  lesson: "35.6"
+  subject: complaint-drafting
+  difficulty: 3
+  question: >-
+    Spot the mistake. A complaint begins: "This crook stole my money like all lawyers do. I demand that the Bar
+    pay me ₪100,000." What is the main problem?
+  options:
+    - >-
+      The complaint is in Hebrew instead of English.
+    - >-
+      It should have been filed with the police before any complaint to the Bar.
+    - >-
+      It insults instead of stating facts, and asks the Bar for a remedy it cannot give.
+    - >-
+      It names the lawyer, which is forbidden before the committee decides to prosecute.
+  correct: 2
+  explanation: >-
+    Complaints should be factual, dated and documented; abusive or baseless complaints risk costs (s. 69(א)(5));
+    the tribunal can award only up to ₪25,000 per offence, and full damages belong to a civil claim.
+- id: m35-055
+  module: 35
+  lesson: "35.7"
+  subject: ai-responsibility
+  difficulty: 1
+  question: >-
+    According to the Supreme Court in בג״ץ 38379-12-24, does using AI change a lawyer's responsibility for a
+    filing?
+  options:
+    - >-
+      Yes, responsibility shifts to the AI provider.
+    - >-
+      No, the lawyer remains fully responsible.
+    - >-
+      Yes, if the lawyer discloses the AI use.
+    - >-
+      Only for filings in the Supreme Court.
+  correct: 1
+  explanation: >-
+    As reported, the Court held that AI use does not relieve lawyers of responsibility and professional judgment,
+    and that fabricated content breaches duties to the client, the court, the other side and the profession.
+- id: m35-056
+  module: 35
+  lesson: "35.7"
+  subject: ai-sanctions
+  difficulty: 2
+  question: >-
+    Which sanctions did the Supreme Court (February 2025) say courts should use in future for fabricated
+    citations?
+  options:
+    - >-
+      Only a warning in the judgment, since sanctions require a specific statute.
+    - >-
+      Imprisonment for contempt of court.
+    - >-
+      Automatic expulsion from the Bar for any lawyer who files fabricated citations.
+    - >-
+      Striking the filing, personal costs, and possible discipline under s. 61.
+  correct: 3
+  explanation: >-
+    The Court listed striking pleadings, personal costs against the lawyer and a possible disciplinary offence
+    under s. 61, and called their use "a duty, not a right".
+- id: m35-057
+  module: 35
+  lesson: "35.7"
+  subject: ai-self-represented
+  difficulty: 2
+  question: >-
+    A self-represented plaintiff filed summations with invented rulings. What happened in Zlatin (2025)?
+  options:
+    - >-
+      The court ordered personal costs to the State and costs to the defendants.
+    - >-
+      The court ignored the citations because she had no lawyer.
+    - >-
+      The court referred her to the police for forgery.
+    - >-
+      The court struck out her whole claim and barred her from filing it again in any court.
+  correct: 0
+  explanation: >-
+    As reported, the Jerusalem Magistrates' Court ordered ₪5,000 personal costs to the State Treasury and ₪20,000
+    costs to the defendants, relying on the Supreme Court's guidance.
+- id: m35-058
+  module: 35
+  lesson: "35.7"
+  subject: ai-data
+  difficulty: 2
+  question: >-
+    Under the Bar's 2026 opinion, is removing names enough before a lawyer puts a client file into an AI tool?
+  options:
+    - >-
+      Yes, anonymised data is never restricted.
+    - >-
+      Yes, if the tool is free of charge.
+    - >-
+      No, data can be re-identified and other safeguards are needed.
+    - >-
+      No, AI tools may never be used in any client matter under the 2026 opinion.
+  correct: 2
+  explanation: >-
+    As reported, the updated opinion says that removing names is not enough because data can be re-identified, and
+    requires walls within the firm and checks of the platform's storage, permissions and vendor terms.
+- id: m35-059
+  module: 35
+  lesson: "35.7"
+  subject: ai-agents
+  difficulty: 2
+  question: >-
+    Which task may an AI agent perform on a client file under the Bar's 2026 opinion?
+  options:
+    - >-
+      Deciding whether to accept a settlement offer.
+    - >-
+      Drafting and filing a statement of defence on its own, if the lawyer reviews it later.
+    - >-
+      Giving the client independent legal advice by chat.
+    - >-
+      A documented, reversible technical task based on a prior human decision.
+  correct: 3
+  explanation: >-
+    As reported, autonomous systems may not make material decisions, give independent advice, draft pleadings or
+    advance proceedings without close oversight; low-risk technical tasks are allowed if documented and
+    reversible.
+- id: m35-060
+  module: 35
+  lesson: "35.7"
+  subject: ai-public-bodies
+  difficulty: 3
+  question: >-
+    In the Ramat Gan case (2026), what was new compared with earlier AI rulings?
+  options:
+    - >-
+      Costs were imposed for false sources in an authority's letters, not only its filings.
+    - >-
+      The court for the first time imposed imprisonment on a lawyer.
+    - >-
+      The court held that public bodies may not use AI tools at all in dealing with residents.
+    - >-
+      The court ordered the municipality to dismiss its legal staff.
+  correct: 0
+  explanation: >-
+    As reported, the municipality relied on a non-existent circular and fabricated quotations in its reply to the
+    resident and in its filings; the Supreme Court ordered ₪30,000 costs and rejected the "interns did it" excuse.
+- id: m35-061
+  module: 35
+  lesson: "35.7"
+  subject: rule-34-knowledge
+  difficulty: 3
+  question: >-
+    Bar-exam style. Why do courts and the Bar rely on s. 54 and s. 61, not only rule 34, for unchecked AI
+    citations?
+  options:
+    - >-
+      Because rule 34 applies only to criminal proceedings and not to civil filings or appeals.
+    - >-
+      Because rule 34 was repealed in 2024.
+    - >-
+      Because rule 34 needs knowledge of falsity; failing to verify is a breach of care.
+    - >-
+      Because rule 34 applies only to oral arguments, not written filings.
+  correct: 2
+  explanation: >-
+    Rule 34 forbids claims the lawyer knows are untrue, orally or in writing; a lawyer who did not check may lack
+    that knowledge, but failing to verify breaches devotion (s. 54) and may be conduct unbecoming (s. 61(3)).
+- id: m35-062
+  module: 35
+  lesson: "35.8"
+  subject: fee-review
+  difficulty: 1
+  question: >-
+    Spot the unlawful clause in a fee agreement for a road-accident claim.
+  options:
+    - >-
+      "VAT will be added to every amount stated in this agreement."
+    - >-
+      "Fee: 18% of compensation if a claim is filed and settled."
+    - >-
+      "Expenses will be charged separately against receipts."
+    - >-
+      "Money received will be kept in a trust account and transferred within 14 days."
+  correct: 1
+  explanation: >-
+    For a filed claim that settles the cap is 11% (1977 rules, r. 3); 18% exceeds it. The other clauses comply
+    with s. 85 and rules 39–40.
+- id: m35-063
+  module: 35
+  lesson: "35.8"
+  subject: transfer-clause
+  difficulty: 2
+  question: >-
+    Spot the problem: "The lawyer may assign the file to any other lawyer at her discretion." What should replace
+    it?
+  options:
+    - >-
+      Nothing; such clauses are standard and binding.
+    - >-
+      A clause limiting assignment to other lawyers practising in the same city as the office.
+    - >-
+      A requirement that the court approve any assignment.
+    - >-
+      Assignment only with the client's separate, express written consent.
+  correct: 3
+  explanation: >-
+    Rule 18 forbids transferring the power of attorney without the client's separate and express written consent,
+    despite a general clause; delegation of tasks is allowed.
+- id: m35-064
+  module: 35
+  lesson: "35.8"
+  subject: complaint-sequence
+  difficulty: 3
+  question: >-
+    Which order of steps best protects a client whose lawyer kept an interim payment and deducted an excessive
+    fee?
+  options:
+    - >-
+      Demand an account and the excess in writing; then complain and, if needed, sue; protect deadlines.
+    - >-
+      A complaint first, then waiting for the tribunal's decision before asking the lawyer for the money back.
+    - >-
+      A public post warning others, then a complaint.
+    - >-
+      A malpractice claim for the full value of the accident claim.
+  correct: 0
+  explanation: >-
+    The demand letter often resolves the money issue and becomes evidence; the complaint and the refund claim can
+    follow in parallel, while the client's underlying deadlines are protected.
+- id: m35-065
+  module: 35
+  lesson: "35.8"
+  subject: waiver-clause
+  difficulty: 1
+  question: >-
+    A fee agreement says the client waives any complaint to the Bar. Is the client bound?
+  options:
+    - >-
+      Yes, because the client signed it.
+    - >-
+      Yes, unless the lawyer is convicted of a crime.
+    - >-
+      No, anyone may complain under s. 63.
+    - >-
+      Only for complaints about fees.
+  correct: 2
+  explanation: >-
+    Section 63 lets ethics committees act on anyone's complaint; a private waiver cannot remove the public
+    disciplinary jurisdiction.
+- id: m35-066
+  module: 35
+  lesson: "35.8"
+  subject: payment-in-kind
+  difficulty: 2
+  question: >-
+    Spot the problem: "The client may pay the fee by transferring his car to the lawyer." The matter is a
+    personal-injury claim.
+  options:
+    - >-
+      Fees must be paid in money; shares are allowed only in commercial matters (rule 9).
+    - >-
+      Nothing, as long as the car is valued fairly by an independent appraiser before transfer.
+    - >-
+      Only that the transfer must be registered with the Licensing Office.
+    - >-
+      Only that VAT must be added to the car's value.
+  correct: 0
+  explanation: >-
+    Rule 9(א) allows fees only in money; rule 9(ג) permits partner rights in commercial "monetary matters" by
+    written agreement, which does not cover a personal-injury claim.
