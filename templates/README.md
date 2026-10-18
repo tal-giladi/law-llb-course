@@ -5,6 +5,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 ## All templates
 
 - [Administrative petition and affidavit (עתירה מינהלית ותצהיר)](administrative-petition.md)
+- [Administrative traffic fine: objection and appeal to the traffic tribunal (השגה וערר על החלטה להטיל קנס)](traffic-administrative-fine-objection-and-appeal.md)
 - [Affidavit and exhibit bundle (תצהיר עדות ראשית ותיק מוצגים)](affidavit-and-exhibit-bundle.md)
 - [Apartment purchase check (בדיקת דירה לפני רכישה – רשימת בדיקה)](apartment-purchase-check.md)
 - [Appeal against a decision to close a criminal file (ערר על החלטה לסגור תיק)](appeal-against-closing-file.md)
@@ -20,6 +21,7 @@ Hebrew templates for documents you file in your own name, with English instructi
 - [Clinic case file (תיק עבודה לסכסוך: כרטיס תיק, כרונולוגיה, נספחים, יומן)](clinic-case-file.md)
 - [Comment on a draft bill or regulation (הערות לתזכיר חוק או לטיוטת תקנות)](comment-on-draft-legislation.md)
 - [Company registration checklist (רישום חברה – רשימת בדיקה)](company-registration-checklist.md)
+- [Complaint to an oversight body (תלונה לנציב תלונות הציבור / לנציב תלונות הציבור על שופטים / למחלקה לחקירות שוטרים)](oversight-body-complaint.md)
 - [Consumer withdrawal notice (הודעת ביטול עסקה צרכנית)](consumer-withdrawal-notice.md)
 - [Consumer written request before exemplary damages (בקשה בכתב לעוסק לפי סעיף 31א(ב) לחוק הגנת הצרכן)](consumer-exemplary-damages-request.md)
 - [Contract review checklist (רשימת בדיקה לחוזה)](contract-review-checklist.md)

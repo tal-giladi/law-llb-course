@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your complaint about a stolen bicycle was closed with the label "עבריין לא נודע". You now have a shop's
+    video showing the thief's face and his car's number plate. What is the right next step?
+  options:
+    - >-
+      A written request to the investigations office to resume the investigation, attaching the video.
+    - >-
+      An appeal (ערר) under s. 64 within 60 days, arguing that the evidence was insufficient.
+    - >-
+      A private criminal complaint at once, since the police have already closed the file.
+    - >-
+      A petition to the High Court of Justice against the police's decision to close the file.
+  correct: 0
+  explanation: >-
+    "Offender unknown" is not one of the grounds listed in s. 64(א), so ask the police to resume with the
+    identifying evidence. If they then close on a listed ground, the appeal opens with a new notice.
+- id: q2
+  question: >-
+    On the day you file a complaint about a night-time assault on a bus, which written request matters most
+    for the evidence?
+  options:
+    - >-
+      A request to the bus company for compensation, attached to the police complaint.
+    - >-
+      A request to the Ombudsman to supervise the investigation from the beginning.
+    - >-
+      A request that the bus and street cameras be secured, naming each one, before footage is overwritten.
+    - >-
+      A request to the court for an order to preserve evidence, since the police cannot seize footage.
+  correct: 2
+  explanation: >-
+    Camera systems overwrite within days. Name each camera in writing at once; that also creates a record
+    if the footage is later missing.
+- id: q3
+  question: >-
+    Three months after your complaint you have heard nothing. Which follow-up step is both lawful and most
+    likely to produce information?
+  options:
+    - >-
+      Call the suspect and ask whether the police have questioned him yet.
+    - >-
+      Write to the station's victims'-rights officer, citing your s. 8 request and the file number.
+    - >-
+      Post the details of the case online, tagging the police, to create public pressure.
+    - >-
+      File a second complaint about the same events at another station to restart the file.
+  correct: 1
+  explanation: >-
+    The Crime Victims' Rights Law gives you the right to be told of the stages (s. 8) and an officer at the
+    station responsible for victims' rights (s. 24). Contacting the suspect or publishing can harm you.
+- id: q4
+  question: >-
+    A file about damage to your car was closed for insufficient evidence. The notice was dated 1 May but
+    reached you by registered mail on 12 May. From when does the appeal period run?
+  options:
+    - >-
+      From 1 May, the date of the decision printed on the notice.
+    - >-
+      From the day the suspect is informed that the file was closed.
+    - >-
+      From the day you ask for and receive the investigation material.
+    - >-
+      From 12 May, when the notice was delivered to you.
+  correct: 3
+  explanation: >-
+    Section 65 runs the period from delivery of the s. 63 notice to the complainant. Keep the slip. If you
+    need the material first, ask the deciding authority to extend the period before it ends.

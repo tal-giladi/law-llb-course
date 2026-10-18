@@ -1,0 +1,176 @@
+- id: q1
+  question: >-
+    A ministry refused your request on 1 June; the letter reached you on 4 June. You wrote back asking for
+    reconsideration, and on 30 June the ministry repeated its refusal. Your matter is in the First Schedule.
+    How do you plan the petition?
+  options:
+    - >-
+      Count the period from 30 June, because the second letter is the ministry's final word.
+    - >-
+      Count from 4 June, the earliest trigger you can prove, and file within the period from that date.
+    - >-
+      File only after an Ombudsman complaint, since the court requires one before a petition.
+    - >-
+      Count from 1 June, but ask the ministry to extend the period, since it caused the delay.
+  correct: 1
+  explanation: >-
+    The period runs from the earliest of publication, notice or knowledge (reg. 3(ב)); a repeated refusal
+    does not restart it, and delay can defeat a petition even within the period (reg. 4). Only the court
+    can extend (reg. 3(ג)).
+- id: q2
+  question: >-
+    You filed a petition against a municipal decision, paid the fee, and went home. A week later the
+    registry tells you the petition has not been placed before a judge. What did you most likely miss?
+  options:
+    - >-
+      A request for a hearing date, which unrepresented petitioners must file separately.
+    - >-
+      The respondent's consent to the court's jurisdiction, which must be attached.
+    - >-
+      Proof that you served the petition on the municipality, filed with the court.
+    - >-
+      A lawyer's signature on the affidavit, without which the petition is incomplete.
+  correct: 2
+  explanation: >-
+    Reg. 7(ב): the petition is not brought before the court until proof of service under reg. 35 is filed.
+    The affidavit is verified before a person authorised to take affidavits, which is not representation.
+- id: q3
+  question: >-
+    Your complaint about a burglary was closed for insufficient evidence. The notice arrived 50 days ago and
+    you only now learned that a neighbour's camera filmed the street that night. What do you do?
+  options:
+    - >-
+      Ask for a private criminal complaint form, since burglary is in the Second Schedule.
+    - >-
+      Wait until you obtain the footage, then appeal, since new evidence restarts the period.
+    - >-
+      Complain to the Ombudsman that the police missed the camera, which stops the appeal period.
+    - >-
+      File the appeal within the period now, naming the camera, and ask that the footage be secured.
+  correct: 3
+  explanation: >-
+    The s. 65 period runs from delivery of the notice and is not restarted by new evidence; file in time or
+    ask for an extension before it ends. Burglary is not a private-complaint offence, and a complaint to
+    the Ombudsman extends nothing.
+- id: q4
+  question: >-
+    A police officer gave you a notice headed "החלטה על הטלת קנס" for not wearing a seatbelt. You say you
+    were wearing it and a passenger can confirm. Which document do you file, and with whom?
+  options:
+    - >-
+      An objection to the police within 30 days or an appeal to the traffic tribunal within 90 days.
+    - >-
+      A request to be tried on the attached slip, sent to the police traffic prosecution.
+    - >-
+      A cancellation request to the police prosecutor within 30 days under CPL s. 229.
+    - >-
+      A complaint to the Police Investigations Department against the officer for a false report.
+  correct: 0
+  explanation: >-
+    That heading marks the administrative track of the 2024 Law: objection (s. 8) or appeal to the tribunal
+    (s. 19). There is no request to be tried. A disputed observation is not, without more, an offence by
+    the officer.
+- id: q5
+  question: >-
+    You asked to be tried on a criminal fine-offence notice. On the trial day you must decide how to handle
+    the inspector's evidence. Which approach is soundest?
+  options:
+    - >-
+      Do not attend, since the inspector must prove the case and your absence cannot count against you.
+    - >-
+      Attend, ask the inspector short questions on what he saw and from where, and decide in advance
+      whether to testify.
+    - >-
+      Attend and give a full account first, so the court hears your version before the inspector's.
+    - >-
+      Send a written statement instead, which the court must treat as your testimony under s. 240.
+  correct: 1
+  explanation: >-
+    Under s. 240 absence counts as admission; written arguments are allowed only on sentence. The
+    prosecution's witness comes first; you may remain silent or testify after it.
+- id: q6
+  question: >-
+    You are applying to adopt. Your record shows a 2021 misdemeanour file closed "circumstances as a whole",
+    from when you were 19. The adoption service will review your file in two months. What is the best plan?
+  options:
+    - >-
+      Wait for automatic cancellation, which applies to every misdemeanour five years after the event.
+    - >-
+      Ask the prosecutor to change the ground to lack of guilt, since that is always available.
+    - >-
+      File a s. 33 request now, addressing each factor, and tell the service that it is pending.
+    - >-
+      Ask the adoption service to disregard the entry, since closed files have no legal weight.
+  correct: 2
+  explanation: >-
+    Automatic cancellation of a non-felony closed file comes later (s. 33(ג)), and a change of ground needs
+    evidence of innocence. A factor-by-factor s. 33(א) request, timed to the decision, is the right tool.
+- id: q7
+  question: >-
+    Your file at a local authority's welfare department has had no decision for eleven months despite three
+    letters. There is no statutory appeal against a decision that was never made. Which tool fits first?
+  options:
+    - >-
+      A Judicial Ombudsman complaint, since the welfare department acts on behalf of the court.
+    - >-
+      A complaint to the inspector of criminal information about the authority's handling of your data.
+    - >-
+      A private claim for damages in the small-claims court for the months of delay.
+    - >-
+      An Ombudsman complaint with the three letters, asking for a decision by a date.
+  correct: 3
+  explanation: >-
+    An omission and delay of an audited body is the Ombudsman's core work (s. 37). Keep in mind that long
+    silence is also a deemed refusal (Decisions and Reasons Law s. 6(ב)) that you could petition against.
+- id: q8
+  question: >-
+    Eight months after your labour-court hearing there is still no judgment. You also think the judge was
+    biased against you at the hearing. How do you write a Judicial Ombudsman complaint?
+  options:
+    - >-
+      About the delay and any specific conduct at the hearing, with dates, and nothing about the merits.
+    - >-
+      About the expected outcome, asking the Ombudsman to tell the judge which evidence to prefer.
+    - >-
+      About the judge's bias only, asking the Ombudsman to order the judge to step aside.
+    - >-
+      Not at all, because labour-court judges are outside the Judicial Ombudsman's scope.
+  correct: 0
+  explanation: >-
+    Delay and conduct in office are examined; legal and evidentiary questions and recusal requests are not
+    (s. 17). A recusal request goes to the court itself.
+- id: q9
+  question: >-
+    The authority announced in court that it will grant your request, and the judge proposes that the
+    petition be struck as moot. Before the hearing you wrote that a full grant is your best outcome. What
+    do you ask for?
+  options:
+    - >-
+      A full judgment on the unlawfulness of the refusal, since a moot petition leaves no precedent.
+    - >-
+      Nothing more: agreeing quickly shows good faith and avoids a costs order against you.
+    - >-
+      That the undertaking be recorded with a date, and costs, since the petition produced the result.
+    - >-
+      That the case be transferred to the High Court of Justice for a ruling on the policy.
+  correct: 2
+  explanation: >-
+    When the petition produced the result, ask that the undertaking be recorded and that costs be awarded.
+    Courts rarely rule on questions that no longer affect you.
+- id: q10
+  question: >-
+    You are the complainant in a reopened file. The suspect's lawyer has now filed a counter-complaint
+    accusing you of threatening him in the same incident. What does the closing stage of your file require?
+  options:
+    - >-
+      Continue alone, since a complainant never needs a lawyer in a criminal case.
+    - >-
+      Treat it as a red flag: get advice from a lawyer before any statement about the incident.
+    - >-
+      Withdraw your complaint, since a counter-complaint cancels both files automatically.
+    - >-
+      Ask the Ombudsman to dismiss the counter-complaint as retaliation against a complainant.
+  correct: 1
+  explanation: >-
+    Once you may be a suspect, your statements can be used against you. Get advice first; the Ombudsman
+    has no role in criminal files, and complaints do not cancel each other.

@@ -61,14 +61,15 @@ Goal: plan all four years (done: `curriculum/plan.md`), write year 1 (modules 1�
 - [x] Module 34 — Environmental Law
 - [x] Module 35 — The Legal Profession and Ethics
 - [x] Module 36 — Seminar Paper
-- [ ] Module 37 — Clinic IV: Public and Criminal Matters Without a Lawyer
+- [x] Module 37 — Clinic IV: Public and Criminal Matters Without a Lawyer
 - [ ] Module 38 — Bar-Exam-Style Review
 - [ ] Module 39 — Capstone: Your Own Case File, End to End
 - [ ] Final QA: links, neutrality, Academy dry run
 
 ## Now working
 
-- (paused by Tal after module 36; next: modules 37–39, final QA)
+- Module 39: sub-agent A
+- Module 38: sub-agent B
 
 
 

@@ -389,3 +389,13 @@
   - [304 · Presenting and defending your paper](lessons/module-36/lesson-05.md)
   - [305 · Practice lab: write the 30-page seminar paper](lessons/module-36/lesson-06.md)
   - [Module 36 quiz](assessments/module-36-quiz.md)
+- **Module 37 — Clinic IV: Public and Criminal Matters Without a Lawyer (about 32 hours)**
+  - [306 · Choosing the matter and building the file](lessons/module-37/lesson-01.md)
+  - [307 · An administrative petition from start to finish](lessons/module-37/lesson-02.md)
+  - [308 · A police complaint and following it up](lessons/module-37/lesson-03.md)
+  - [309 · Defending a traffic ticket: the request to be tried](lessons/module-37/lesson-04.md)
+  - [310 · Deleting a police record](lessons/module-37/lesson-05.md)
+  - [311 · A complaint to an oversight body](lessons/module-37/lesson-06.md)
+  - [312 · The hearing in the administrative or magistrates' court](lessons/module-37/lesson-07.md)
+  - [313 · Closing the file and when to get a lawyer](lessons/module-37/lesson-08.md)
+  - [Module 37 quiz](assessments/module-37-quiz.md)

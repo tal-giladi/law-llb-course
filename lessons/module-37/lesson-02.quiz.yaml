@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your prior demand to the municipality produced this answer: "The matter will be re-examined by the
+    committee in the coming months." The petition period ends in two weeks. What do you do?
+  options:
+    - >-
+      Wait for the committee, since filing while the authority is reconsidering is premature.
+    - >-
+      Complain to the Ombudsman and ask it to set a date, which keeps your petition rights open.
+    - >-
+      Send a second prior demand, since a petition needs two refusals before the court will hear it.
+    - >-
+      File the petition within the period and tell the court about the promised re-examination.
+  correct: 3
+  explanation: >-
+    A promise without a date is not a new decision and does not stop the period (reg. 3(ב)). File in time;
+    if the authority later decides in your favour, the petition becomes moot and you can ask for costs.
+- id: q2
+  question: >-
+    You filed your petition at the registry on Sunday. By Thursday nothing has happened and no judge has
+    looked at it. What is the most likely reason?
+  options:
+    - >-
+      Petitions by unrepresented people wait for a registrar's approval before reaching a judge.
+    - >-
+      You have not yet served it on the respondent and filed proof of service.
+    - >-
+      The court waits for the respondent's answer before reading the petition at all.
+    - >-
+      The fee is checked by the Courts Administration, which takes about two weeks.
+  correct: 1
+  explanation: >-
+    Reg. 7(ב): the petition is not brought before the court until proof of service under reg. 35 is filed.
+    Serve each respondent directly and file the proof at once.
+- id: q3
+  question: >-
+    A local authority refuses a disabled resident's statutory request, citing an internal policy that the
+    statute does not mention. Which remedy fits best in the petition?
+  options:
+    - >-
+      Compensation for the months without parking, as the main remedy of the petition.
+    - >-
+      A declaration that the policy is unreasonable, leaving the authority to decide whether to act.
+    - >-
+      An order to perform the statutory duty by a date, and alternatively a new decision after a hearing.
+    - >-
+      An order that the court itself choose the location of the space after a site visit.
+  correct: 2
+  explanation: >-
+    Where a statute imposes a duty, ask for an order to perform it, with reconsideration after a hearing as
+    the alternative. Damages are not a petition remedy, and courts do not take over the authority's choices.
+- id: q4
+  question: >-
+    Two weeks after you filed, the authority files a notice that it has granted everything you asked for.
+    What is the sensible response?
+  options:
+    - >-
+      Agree that the petition has become moot once the grant is carried out, and ask for costs.
+    - >-
+      Withdraw the petition at once without comment, because asking for costs looks aggressive.
+    - >-
+      Insist on a full hearing so that the court rules on whether the original refusal was unlawful.
+    - >-
+      Ignore the notice and wait for the hearing date, since the court will deal with it there.
+  correct: 0
+  explanation: >-
+    When the petition produced the result, ask that the undertaking be recorded, agree to mootness when it
+    is performed, and ask for costs. Courts rarely decide a question that no longer matters to you.

@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The municipality's answer to your petition includes an engineer's affidavit with a measurement you
+    believe is wrong. The hearing is in five weeks. What must you do to challenge the measurement?
+  options:
+    - >-
+      Bring your own measurement to the hearing and ask the judge to compare the two.
+    - >-
+      Ask the municipality's lawyer to withdraw the affidavit, since it is factually wrong.
+    - >-
+      File a written request to cross-examine the engineer within the reg. 15(ב) period.
+    - >-
+      Nothing yet: the judge will call the engineer if the measurement turns out to matter.
+  correct: 2
+  explanation: >-
+    The court decides on the affidavits; cross-examination needs a written request filed no later than the
+    reg. 15(ב) period before the hearing. Otherwise the affidavit stands.
+- id: q2
+  question: >-
+    At your petition hearing the judge proposes that the authority decide again within 30 days after hearing
+    you, and that the petition be struck. What should guide your answer?
+  options:
+    - >-
+      Always refuse, because accepting means admitting the petition was weak.
+    - >-
+      Your proposal sheet: whether a new decision after a hearing, by a date, meets your real need.
+    - >-
+      Always accept, because a judge's proposal is binding once it is made in open court.
+    - >-
+      Whatever the authority's lawyer prefers, since the court will follow the respondent.
+  correct: 1
+  explanation: >-
+    A return to the authority is the usual remedy for a hearing defect. Decide in advance whether it is
+    good enough, ask for costs and conditions (date, on-site check), and ask for a break if you need one.
+- id: q3
+  question: >-
+    You asked to be tried on a municipal fine-payment notice. On the trial date you are ill and stay home
+    without telling anyone. What follows?
+  options:
+    - >-
+      The trial is postponed automatically, since a defendant must be present for a conviction.
+    - >-
+      The notice is cancelled, because the municipality failed to prove the offence in your absence.
+    - >-
+      The court sends the file to the traffic tribunal to decide on the papers instead.
+    - >-
+      You may be treated as admitting the facts; apply at once to set aside, with a medical certificate.
+  correct: 3
+  explanation: >-
+    Under s. 240 absence counts as admission and the court may try you in absence without prison. A
+    judgment in absence may be set aside on a request with a good reason (s. 130).
+- id: q4
+  question: >-
+    Your traffic-tribunal appeal is pending. How do you make sure you do not miss the respondent's answer
+    or the decision?
+  options:
+    - >-
+      Check the tribunal's online system regularly, since delivery is through it.
+    - >-
+      Wait for a registered letter, which the tribunal must send before any decision.
+    - >-
+      Call the police traffic unit weekly to ask whether the tribunal has ruled.
+    - >-
+      Nothing: decisions are only given at an oral hearing that you will be invited to.
+  correct: 0
+  explanation: >-
+    Under the 2026 regulations documents are delivered through the online system (reg. 25), and the tribunal
+    usually decides on the papers (s. 21(א)). Check the system, not only your email.

@@ -58,6 +58,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **אשרור** (Ishrur) — Ratification: the international act by which a State consents to be bound by a treaty.
 - **בא כוח מייצג** (ba ko'ach meyatzeg) — Class counsel: the lawyer representing the applicant or class; owes the class loyalty as if it were his client (ss. 2, 17).
 - **בג״ץ** (bagatz) — High Court of Justice: the Supreme Court sitting as such.
+- **בדיקת חשיפה** (bdikat chasifa) — exposure check: whether a step could expose you to criminal liability.
 - **בודק** (bodek) — Examiner: an independent expert appointed by the court to report on a proposed class settlement (s. 19(ב)).
 - **בוררות** (Borerut) — Arbitration under the Arbitration Law 1968.
 - **בחינות ההסמכה** (bhinot ha-hasmakha) — The Bar qualifying exams after the internship (s. 38).
@@ -75,6 +76,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **ביקורת עמיתים** (Bikoret amitim) — Peer review.
 - **ביקורת שיפוטית** (Bikoret shiputit) — Judicial review, of statutes or of administrative decisions.
 - **בית דין דתי** (beit din dati) — religious court (rabbinical, Sharia, Christian, Druze).
+- **בית דין לתעבורה** (beit din le-ta'avura) — traffic tribunal hearing appeals against administrative traffic fines.
 - **בית הדין הבינלאומי לצדק** (Beit ha-din ha-beinleumi le-tzedek) — International Court of Justice: the UN court for disputes between consenting States and advisory opinions.
 - **בית הדין המשמעתי** (beit ha-din ha-mishma'ti) — The Bar's disciplinary tribunal (district and national) (ss. 14–15).
 - **בית הדין הפלילי הבינלאומי** (Beit ha-din ha-plili ha-beinleumi) — International Criminal Court: a treaty court trying individuals for the gravest international crimes.
@@ -95,6 +97,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **בעלות** (Ba'alut) — Ownership: the right to possess, use and deal with property (Land Law s. 2; Movable Property Law s. 2).
 - **בקשה לאישור** (bakasha le-ishur) — Application for certification of a class action (s. 5); nothing is a class action until the court certifies it.
 - **בקשה להישפט** (bakasha lehishafet) — Request to be tried for a fine offence, within 90 days of service (CPL s. 229(א)(2)).
+- **בקשה לחידוש חקירה** (bakasha lechidush chakira) — request to resume a closed investigation.
 - **בקשה לחשיפת זהות** (bakasha lachasifat zehut) — Application to disclose identity of an anonymous online copyright infringer (Copyright Law ss. 60א–60ח).
 - **בקשה ליישוב סכסוך** (Bakasha le-yishuv sikhsukh) — The bare request that must precede any contested family claim (2014 Law).
 - **בקשה לעיון מחדש** (Bakasha le-iyun mehadash) — Request for reconsideration of an administrative decision.
@@ -212,6 +215,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **החזרת ילד חטוף** (Hachzarat yeled hatuf) — Return of a child wrongfully removed or retained, under the Hague Abduction Convention as incorporated in 1991.
 - **החלטה** (hachlata) — Decision: any other ruling of a court, including interim decisions.
 - **החלטה לפי צד אחד** (Hachlata lefi tzad echad) — Decision given in a party's absence; may be set aside within 30 days (reg. 131).
+- **החלטה על הטלת קנס** (hachlata al hatalat knas) — decision imposing an administrative fine; the notice on the administrative traffic track.
 - **החלטת הררי** (Hahlatat Harari) — The Knesset's decision of 13 June 1950 to build the constitution chapter by chapter, as Basic Laws.
 - **החלק הכללי** (Ha-helek ha-klali) — The general part of the Penal Law (elements, attempt, complicity, defences).
 - **החמרת הסיכון** (Hachmarat ha-sikun) — Aggravation of risk during the policy, to be notified to the insurer (ss. 17–19).
@@ -247,6 +251,8 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **המהפכה החוקתית** (Ha-mahapekha ha-hukatit) — The constitutional revolution: the 1992 rights Basic Laws and Bank Mizrahi (1995), which made judicial review of statutes possible.
 - **המועצה הארצית לתכנון ולבניה** (ha-mo'atza ha-artzit le-tikhnun u-vniya) — National Planning and Building Council; advises the Government and prepares national outline plans (s. 2).
 - **המועצה הישראלית לצרכנות** (Hamo'etza hayisra'elit letzarchanut) — Israel Consumer Council, a statutory body that advises, assists and may represent consumers.
+- **המחלקה לחקירות שוטרים (מח״ש)** (ha-machlaka le-chakirot shotrim, machash) — Police Investigations Department of the Ministry of Justice.
+- **הממונה על הביקורת (מידע פלילי)** (ha-memune al ha-bikoret) — Ministry of Justice inspector overseeing entitled bodies' use of criminal information.
 - **הממונה על הגנת הצרכן** (Hamemuneh al haganat hatzarchan) — Consumer Protection Commissioner, head of the Consumer Protection and Fair Trade Authority.
 - **הממונה על הליכי חדלות פירעון ושיקום כלכלי** (hamemuneh al halichei chadlut pira'on veshikum kalkali) — The Insolvency Commissioner, who opens and manages individuals' proceedings above the low-debt threshold.
 - **הממונה על המרשם** (Ha-memune al ha-mirsham) — Registration commissioner, who hears administrative appeals (ערר) against registrars and superintendents (s. 121).
@@ -306,6 +312,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **הפרה צפויה** (hafara tzfuya) — anticipatory breach (s. 17).
 - **הפרת הוראות** (Hafarat hora'ot) — Breach of instructions relating to an assignment: a separate, lesser disciplinary offence (TAU s. 29.4).
 - **הפרת חובה חקוקה** (Hafarat chova chakuka) — Breach of statutory duty (s. 63).
+- **הפרת תעבורה** (hafarat ta'avura) — traffic violation under the Traffic Administrative Violations Law 2024 (an administrative, not criminal, breach).
 - **הצהרת נפגע** (Hatzharat nifga) — Victim impact statement (Crime Victims' Rights Law s. 18).
 - **הצמדה** (Hatzmada) — Attachment of a specific part of the common property to a flat by the bylaws (Land Law s. 55(ג)).
 - **הצעה** (hatza'a) — offer; a communication showing intent to be bound and certain enough for acceptance (Contracts Law s. 2).
@@ -459,6 +466,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **חקיקת משנה** (hakikat mishne) — secondary (subordinate) legislation.
 - **חקירה באזהרה** (chakira be'azhara) — Questioning under caution, as a suspect.
 - **חקירה חוזרת** (Chakira chozeret) — Re-examination, limited to matters arising from cross-examination (reg. 67(ג)).
+- **חקירה על תצהיר** (chakira al tatzhir) — cross-examination of a person on his affidavit.
 - **חקירת יכולת** (Chakirat yecholet) — Means inquiry into a debtor's ability to pay (s. 67).
 - **חריגה מסמכות** (harigah mi-samkhut) — acting beyond authority (ultra vires).
 - **חריגה מסמכות מכוננת** (Harigah mi-samkhut mekhonenet) — Deviation from constituent authority: a Basic Law that denies the core of Israel as a Jewish and democratic state (Hasson, HCJ 5658/23).
@@ -752,6 +760,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עבודות שירות** (Avodot sherut) — Imprisonment served as community work.
 - **עבירה בת מעצר** (avera bat ma'atzar) — Arrestable offence: any offence except a contravention (Arrests Law s. 23(א)(7)).
 - **עבירת משמעת** (avirat mishma'at) — Disciplinary offence by a lawyer (s. 61).
+- **עבריין לא נודע** (avaryan lo noda) — "offender unknown", a police closure label not among the appealable grounds of CPL s. 64.
 - **עד מדינה** (ed medina) — State witness: an accomplice testifying for the prosecution after a benefit; his testimony needs corroboration (s. 54א).
 - **עדה דתית מוכרת** (Eda datit mukeret) — Recognised religious community with its own courts (Order in Council, Second Schedule).
 - **עדות מוקדמת** (Edut mukdemet) — Early testimony taken before trial (reg. 73).
@@ -822,6 +831,7 @@ The Hebrew legal terms used in the course, each given in Hebrew, then a translit
 - **עשיית עושר ולא במשפט** (Asiyat osher ve-lo be-mishpat) — Unjust enrichment: a benefit received from another without a legal basis must be returned.
 - **עתירה** (Atira) — Petition, to the High Court of Justice or the Administrative Affairs Court.
 - **עתירה מינהלית** (Atira minhalit) — Administrative petition in the Administrative Affairs Court.
+- **עתירה שהתייתרה** (atira shehityatra) — petition that has become moot.
 - **פ״ד** (pey-dalet) — Piskei Din, the official law reports of the Supreme Court.
 - **פגיעה באוטונומיה** (Pgi'a ba'otonomya) — Violation of autonomy, a head of damage recognised in Daaka.
 - **פגיעה בפרטיות** (Pgi'a bapratiyut) — Infringement of privacy, as listed in Protection of Privacy Law s. 2.

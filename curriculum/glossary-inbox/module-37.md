@@ -1,0 +1,14 @@
+- **הפרת תעבורה** (hafarat ta'avura) — traffic violation under the Traffic Administrative Violations Law 2024 (an administrative, not criminal, breach).
+- **החלטה על הטלת קנס** (hachlata al hatalat knas) — decision imposing an administrative fine; the notice on the administrative traffic track.
+- **השגה** (hasaga) — objection to the issuing authority against an administrative decision or fine.
+- **בית דין לתעבורה** (beit din le-ta'avura) — traffic tribunal hearing appeals against administrative traffic fines.
+- **ערר** (arar) — appeal to a tribunal or reviewing authority (traffic tribunal; appeal against closing a criminal file).
+- **בדיקת חשיפה** (bdikat chasifa) — exposure check: whether a step could expose you to criminal liability.
+- **עבריין לא נודע** (avaryan lo noda) — "offender unknown", a police closure label not among the appealable grounds of CPL s. 64.
+- **בקשה לחידוש חקירה** (bakasha lechidush chakira) — request to resume a closed investigation.
+- **המחלקה לחקירות שוטרים (מח״ש)** (ha-machlaka le-chakirot shotrim, machash) — Police Investigations Department of the Ministry of Justice.
+- **נציב תלונות הציבור על שופטים** (netziv tlunot ha-tzibur al shoftim) — Judicial Ombudsman (complaints about judges' conduct).
+- **הממונה על הביקורת (מידע פלילי)** (ha-memune al ha-bikoret) — Ministry of Justice inspector overseeing entitled bodies' use of criminal information.
+- **עיקרי טיעון** (ikarei ti'un) — skeleton arguments filed before a hearing.
+- **חקירה על תצהיר** (chakira al tatzhir) — cross-examination of a person on his affidavit.
+- **עתירה שהתייתרה** (atira shehityatra) — petition that has become moot.

@@ -1,0 +1,23 @@
+# Module 37: numbers used (for references/current-numbers.md)
+
+Checked 2026-10-18. Module 37 is a clinic: most numbers already sit on the page from modules 5, 6, 14 and 24 (petition period, petition fee, service, answer and further-particulars periods; CPL ss. 65, 229, 230, 225א; Criminal Information Law ss. 19, 22, 33(ג); Ombudsman one-year rule). The lessons link to `references/current-numbers.md` and quote no bare amounts. Rows below are new, or confirmations re-checked for this module. Wikisource texts are unofficial consolidations.
+
+| Item | Value | Source (checked) | Lessons |
+|---|---|---|---|
+| Traffic Administrative Violations Law: commencement | Postponed to 8.2.2026 (ק״ת תשפ״ו 190); violations with the lower fines (₪100–500) from commencement, the higher fines (₪750–1,500) and reg. 54 violations six months later (s. 47(ג)) — i.e. from 8.8.2026 per Kol-Zchut (⚠️ manual check) | חוק הפרות תעבורה מינהליות, התשפ״ד–2024, s. 47 and editorial note, https://he.wikisource.org/wiki/חוק_הפרות_תעבורה_מינהליות (2026-10-18) | 37.1, 37.4 |
+| Objection (השגה) to the issuing authority | 30 days from service; 90 days if the claim is that someone else committed the violation (Traffic Ordinance s. 27ב) (s. 8(א)) | same, s. 8 (2026-10-18) | 37.1, 37.4, quizzes, template |
+| Authority's decision on an objection | Within 45 days; no decision does not cancel the fine (s. 8(ג)) | same (2026-10-18) | 37.4, quiz |
+| Appeal (ערר) to the traffic tribunal | 90 days from service; or 30 days from the decision on an objection; the tribunal may extend for special reasons (s. 19(ב)–(ג)) | same, s. 19 (2026-10-18) | 37.1, 37.4, 37.7, quizzes, template |
+| Payment of an administrative traffic fine | Within 90 days of service unless an objection or appeal is filed (s. 9(א)) | same, s. 9 (2026-10-18) | 37.4 |
+| Late-payment surcharge | 30% of the unpaid amount (s. 10(א)(1), (ב)(1)) | same, s. 10 (2026-10-18) | 37.4 (stated without the figure) |
+| Inspection of the traffic file | Within 2 years of service (s. 36(א)) | same, s. 36 (2026-10-18) | 37.4 |
+| Respondent's response at the traffic tribunal | 45 days if the tribunal orders one, unless it sets another period (reg. 10(א)) | תקנות הפרות תעבורה מינהליות (סדרי הדין והמינהל בבית דין לתעבורה), התשפ״ו–2026 (ק״ת תשפ״ו 750), https://he.wikisource.org/wiki/תקנות_הפרות_תעבורה_מינהליות_(סדרי_הדין_והמינהל_בבית_דין_לתעבורה) (2026-10-18) | 37.4 |
+| Traffic tribunal appeal fee | Not stated in the regulations' text on Wikisource (reg. 28(7) mentions a fee in the register) ⚠️ manual check | same | 37.4 |
+| Administrative petition: skeleton arguments | At least 4 days before the hearing, filed and sent to the other parties (reg. 14(א)) | תקנות בתי משפט לענינים מינהליים (סדרי דין), https://he.wikisource.org/wiki/תקנות_בתי_משפט_לענינים_מינהליים_(סדרי_דין) (2026-10-18) | 37.7, quizzes, bank |
+| Administrative petition: request to cross-examine an affiant | In writing, no later than 14 days before the hearing (reg. 15(ב)) | same (2026-10-18) | 37.7, quizzes, bank |
+| Administrative petition period (confirmation of the existing row) | Without delay and no later than 45 days from publication, notice or knowledge, whichever is earliest (reg. 3(ב)); delay (reg. 4) | same (2026-10-18) | 37.1, 37.2, project |
+| Disabled resident's reserved parking space (Parking for Persons with Disabilities Law s. 4ד) | Allocated within 60 days of the request; as close as possible and not more than 200 m from the home (400 m fallback, s. 4ד(ב)); eligibility threshold 90% for this section (s. 4ד(ז)) | חוק חניה לנכים, התשנ״ד–1993, https://he.wikisource.org/wiki/חוק_חניה_לנכים (2026-10-18) | 37.2, project |
+| Judicial Ombudsman: late complaint | More than 1 year after the act, after the complainant learned of it, or after the judgment (latest of these): only for a special reason (s. 18(א)); examination to end within 1 year of receipt (s. 20(ד)) | חוק נציב תלונות הציבור על שופטים, https://he.wikisource.org/wiki/חוק_נציב_תלונות_הציבור_על_שופטים (2026-10-18) | 37.1, 37.6, quizzes |
+| Police Investigations Department: scope | Every offence by a police officer except, among others, offences punishable by up to 1 year (unless the State Attorney and Inspector General decide otherwise), traffic offences and offences another authority investigates (Police Ordinance, First Schedule to s. 49ט) | https://he.wikisource.org/wiki/פקודת_המשטרה (2026-10-18) | 37.6, bank |
+| Complainant's appeal against closing a file (confirmation) | 60 days from delivery of the s. 63 notice; extendable (CPL s. 65) | existing row (2026-10-17) | 37.1, 37.3, quizzes |
+| Request to be tried (confirmation) | Within 90 days of service, or 30 days after a refused cancellation (CPL s. 229(א)) | existing row (2026-10-17) | 37.4 |

@@ -1,0 +1,1347 @@
+- id: m37-001
+  module: 37
+  lesson: "37.1"
+  subject: own-matter
+  difficulty: 1
+  question: >-
+    Your neighbour asks you to file, in your name, an Ombudsman complaint about his building permit, since
+    you write well. What may you do?
+  options:
+    - >-
+      Help him write his own complaint, which he signs with his name and address.
+    - >-
+      File it in your name, since anyone may complain to the Ombudsman about anything.
+    - >-
+      File it in his name and sign it yourself, since he agreed orally.
+    - >-
+      Charge him a small fee for drafting it, since the Ombudsman is not a court.
+  correct: 0
+  explanation: >-
+    A complaint must be signed with the complainant's name and address (s. 34), and the harm must be his
+    (s. 37). Drafting for others for pay is reserved to lawyers (Bar Association Law s. 20).
+- id: m37-002
+  module: 37
+  lesson: "37.1"
+  subject: door-closing-deadlines
+  difficulty: 1
+  question: >-
+    Which of these periods is NOT extended by filing a complaint with the Ombudsman about the same matter?
+  options:
+    - >-
+      Only the Ombudsman's own one-year period, which a complaint resets.
+    - >-
+      Only the arnona objection period, since the Ombudsman handles municipal matters.
+    - >-
+      Every statutory period: petition, objection, appeal and criminal appeal periods alike.
+    - >-
+      Only criminal periods, since civil and administrative periods pause automatically.
+  correct: 2
+  explanation: >-
+    State Comptroller Law s. 45(א)(2): a complaint and its examination do not extend any period set by
+    an enactment.
+- id: m37-003
+  module: 37
+  lesson: "37.1"
+  subject: exposure-check
+  difficulty: 2
+  question: >-
+    Which answer in your exposure check means you should stop and get advice before filing a police
+    complaint?
+  options:
+    - >-
+      The suspect is a stranger whom you cannot identify by name.
+    - >-
+      You pushed the other person during the same argument before he hit you.
+    - >-
+      The offence happened more than a month ago and you only now have time.
+    - >-
+      You hold a video on your phone that you want to give to the police.
+  correct: 1
+  explanation: >-
+    If your own conduct in the same events may be an offence, a complaint can make you a suspect. Get
+    advice before giving a statement.
+- id: m37-004
+  module: 37
+  lesson: "37.1"
+  subject: records-first
+  difficulty: 1
+  question: >-
+    Before writing a prior demand to a ministry about a refused permit, what should you request first?
+  options:
+    - >-
+      A meeting with the minister, since only he can reverse the decision.
+    - >-
+      A hearing date from the Administrative Affairs Court, to show you are serious.
+    - >-
+      A report from the State Comptroller on the ministry's permit unit.
+    - >-
+      The written reasons and the file, by a reasons request and an FOI request.
+  correct: 3
+  explanation: >-
+    Records first, letters second: reasons (Decisions and Reasons Law) and documents (FOI) let you write
+    an accurate demand and petition. Information about yourself is exempt from the FOI application fee.
+- id: m37-005
+  module: 37
+  lesson: "37.1"
+  subject: track-choice
+  difficulty: 2
+  question: >-
+    Which grievance is best taken first to an oversight body rather than to a court?
+  options:
+    - >-
+      A ministry that has not answered your benefit application for eight months.
+    - >-
+      A municipal demolition order that takes effect in five days.
+    - >-
+      A small-claims judgment you think applied the law wrongly.
+    - >-
+      A refusal of a business licence with a statutory appeal to a committee.
+  correct: 0
+  explanation: >-
+    Delay and silence are the oversight bodies' core work. An imminent order needs a court and possibly a
+    lawyer; a judgment needs leave to appeal; a statutory appeal must be used (s. 39).
+- id: m37-006
+  module: 37
+  lesson: "37.1"
+  subject: decision-maker-map
+  difficulty: 2
+  question: >-
+    Your decision-maker map for a closed criminal file should name, besides the body that closed it, who
+    decides your appeal. Where do you find that?
+  options:
+    - >-
+      In the Ombudsman's annual report, which lists the appeals authorities.
+    - >-
+      In CPL s. 64(א), read with the closure notice, which names the deciding authority.
+    - >-
+      In the police station's internal procedures, available only to officers.
+    - >-
+      In the magistrates' court registry, which hears every appeal against closure.
+  correct: 1
+  explanation: >-
+    Section 64(א) sets the appeals authority by who decided; the notice usually states where to send the
+    appeal (through the police or the prosecutor, s. 65).
+- id: m37-007
+  module: 37
+  lesson: "37.1"
+  subject: five-filters
+  difficulty: 3
+  question: >-
+    Which candidate fails the "in time" filter for Clinic IV and needs either an immediate filing or another
+    route?
+  options:
+    - >-
+      An entry in the police register from 2019 that you want cancelled.
+    - >-
+      A request to the Ombudsman about a delay that began four months ago.
+    - >-
+      A petition whose period ends in four days, with no prior demand sent yet.
+    - >-
+      A traffic notice served yesterday that you want to appeal to the tribunal.
+  correct: 2
+  explanation: >-
+    A petition period about to end leaves no time for a prior demand: file now (explaining why there was
+    none) or consider a lawyer. The others have time.
+- id: m37-008
+  module: 37
+  lesson: "37.1"
+  subject: own-matter
+  difficulty: 2
+  question: >-
+    Your 19-year-old son received a traffic ticket and is abroad. What may you do within the clinic's rules?
+  options:
+    - >-
+      Appeal to the traffic tribunal in your own name, since you pay for his car insurance.
+    - >-
+      Sign his objection for him, since he consented by text message.
+    - >-
+      Appear for him at the traffic court as a close relative of the defendant.
+    - >-
+      Help him prepare his own objection, which he signs and sends himself.
+  correct: 3
+  explanation: >-
+    The ticket is his; he signs. There is no family representative in court (רע״א 8120/08), and the police
+    drivers' service asks for a lawyer's power of attorney when someone files for another.
+- id: m37-009
+  module: 37
+  lesson: "37.2"
+  subject: petition-period
+  difficulty: 1
+  question: >-
+    From which event does the default period for an administrative petition run?
+  options:
+    - >-
+      The earliest of publication, notice or knowledge of the decision.
+    - >-
+      The authority's answer to your request for reconsideration.
+    - >-
+      The date you received the documents from your FOI request.
+    - >-
+      The date the authority's legal adviser confirms the decision is final.
+  correct: 0
+  explanation: >-
+    Reg. 3(ב). Correspondence after the decision does not restart the period, and the court may dismiss
+    for delay even within it (reg. 4).
+- id: m37-010
+  module: 37
+  lesson: "37.2"
+  subject: alternative-remedy
+  difficulty: 2
+  question: >-
+    Before choosing a petition against a decision of your day-care licensing supervisor, what must you check?
+  options:
+    - >-
+      Whether the Ombudsman has already examined the supervisor's unit.
+    - >-
+      Whether the governing law gives a statutory appeal to use instead.
+    - >-
+      Whether the decision was signed by the minister personally.
+    - >-
+      Whether the supervisor will agree to be named as a respondent.
+  correct: 1
+  explanation: >-
+    Where a law gives an appeal (for example, to an appeals committee), a petition is usually dismissed for
+    an alternative remedy. Read the governing law first (lesson 14.11).
+- id: m37-011
+  module: 37
+  lesson: "37.2"
+  subject: statutory-duty
+  difficulty: 2
+  question: >-
+    A municipality refuses a disabled resident's reserved parking space under a "policy", although she meets
+    the conditions of the Parking for Persons with Disabilities Law s. 4ד. What is her strongest ground?
+  options:
+    - >-
+      The policy is unreasonable, since other cities mark more spaces.
+    - >-
+      The municipality discriminated against her compared with her neighbours.
+    - >-
+      The municipality breached a statutory duty that a policy cannot override.
+    - >-
+      The refusal letter was signed by a clerk rather than the mayor.
+  correct: 2
+  explanation: >-
+    Where a statute imposes a duty and the conditions are met, the question is performance, not discretion.
+    A policy cannot override a statute (lesson 14.1).
+- id: m37-012
+  module: 37
+  lesson: "37.2"
+  subject: service
+  difficulty: 1
+  question: >-
+    Who serves an administrative petition on the respondent?
+  options:
+    - >-
+      The court registry, by registered mail, after the judge approves it.
+    - >-
+      A court messenger, at the respondent's expense.
+    - >-
+      The Attorney General's office, which represents all public authorities.
+    - >-
+      The petitioner, directly, within a short period after filing.
+  correct: 3
+  explanation: >-
+    Reg. 35(א): the petitioner serves each respondent directly; proof of service must then be filed before
+    the petition is brought before the court (reg. 7(ב)).
+- id: m37-013
+  module: 37
+  lesson: "37.2"
+  subject: decision-point
+  difficulty: 3
+  question: >-
+    Your prior demand produced a partial grant: the authority agrees to one of your two requests and refuses
+    the other with new reasons. The petition period is still running. What is the sound next step?
+  options:
+    - >-
+      Re-test your grounds against the new reasons and petition on the refused part within the period.
+    - >-
+      Accept the partial grant, since a court will see a petition on the rest as bad faith.
+    - >-
+      Start a new prior demand, since new reasons mean a new decision and a new period.
+    - >-
+      Petition on both parts, since the grant is not final until the court approves it.
+  correct: 0
+  explanation: >-
+    A partial answer is a decision point: re-run the threshold memo, then petition on what remains within
+    the original period. New reasons do not necessarily restart it.
+- id: m37-014
+  module: 37
+  lesson: "37.2"
+  subject: interim-order
+  difficulty: 2
+  question: >-
+    A decision cancelling your allocation takes effect in ten days. How do you ask the court to suspend it?
+  options:
+    - >-
+      Add a paragraph asking for suspension at the end of the petition.
+    - >-
+      File a separate application with its own affidavit, and serve it at once.
+    - >-
+      Ask the respondent's lawyer to agree to suspension before you file anything.
+    - >-
+      Wait for the hearing, where the judge will consider suspension of the decision.
+  correct: 1
+  explanation: >-
+    An interim order needs a separate application verified by affidavit (reg. 9), served the same day. This
+    is also a red flag for getting a lawyer or a clinic.
+- id: m37-015
+  module: 37
+  lesson: "37.2"
+  subject: mootness-costs
+  difficulty: 2
+  question: >-
+    A month after you filed, the authority gives you what you asked for. What does a careful petitioner ask
+    the court?
+  options:
+    - >-
+      To continue the case so that the original refusal is declared unlawful.
+    - >-
+      To order the authority to apologise publicly for the refusal.
+    - >-
+      To record the undertaking and award costs, then strike it as moot.
+    - >-
+      To transfer the file to the Ombudsman, who can monitor the authority.
+  correct: 2
+  explanation: >-
+    When the petition produced the result, ask for a recorded undertaking and costs. Courts do not decide
+    questions that no longer affect the petitioner.
+- id: m37-016
+  module: 37
+  lesson: "37.2"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this petition plan: "Decision received 1 May; reconsideration sent 3 May; answer
+    awaited; petition to be filed within the period from the answer; respondent: the municipality; remedy:
+    damages for my lost income."
+  options:
+    - >-
+      Only the respondent: a petition against a municipality must name the mayor personally.
+    - >-
+      Only the reconsideration: a petition may not follow a request for reconsideration.
+    - >-
+      Nothing: the plan follows the regulations as written.
+    - >-
+      Counting from the answer, and asking for damages a petition cannot award.
+  correct: 3
+  explanation: >-
+    The period runs from the earliest trigger (1 May), not from the answer; and the petition remedies are
+    cancellation, an order to act or reconsideration, not damages.
+- id: m37-017
+  module: 37
+  lesson: "37.2"
+  subject: self-representation
+  difficulty: 1
+  question: >-
+    What is the legal basis for an individual filing an administrative petition without a lawyer?
+  options:
+    - >-
+      Reg. 44א of the procedure regulations, applying civil reg. 170.
+    - >-
+      A special permit from the court president, given on request before filing.
+    - >-
+      The Bar Association Law s. 21, which exempts administrative courts from s. 20.
+    - >-
+      The State Comptroller Law, which allows complainants to petition after a finding.
+  correct: 0
+  explanation: >-
+    Reg. 44א applies chapter 20 of the civil regulations, including reg. 170 (a party may act himself or by
+    a lawyer). Section 21 has no such exception.
+- id: m37-018
+  module: 37
+  lesson: "37.3"
+  subject: offender-unknown
+  difficulty: 2
+  question: >-
+    Why is a s. 64 appeal the wrong tool against a file closed "offender unknown"?
+  options:
+    - >-
+      Because only the suspect may appeal a closure on that ground.
+    - >-
+      Because the appeal must go to the Ombudsman, not to the prosecution.
+    - >-
+      Because "offender unknown" is not one of the three grounds listed in s. 64(א).
+    - >-
+      Because files closed on that ground are deleted and cannot be reopened.
+  correct: 2
+  explanation: >-
+    Section 64(א) lists circumstances as a whole, insufficient evidence and no guilt. For "offender unknown",
+    ask the police to resume with identifying evidence.
+- id: m37-019
+  module: 37
+  lesson: "37.3"
+  subject: securing-evidence
+  difficulty: 1
+  question: >-
+    You give the police your dashcam video. What is the best practice?
+  options:
+    - >-
+      Hand over the camera's memory card so that the police have the original.
+    - >-
+      Hand over a copy with a receipt and keep the original yourself.
+    - >-
+      Post the video online first, so that witnesses can come forward.
+    - >-
+      Keep the video until the police ask, so that it cannot be lost.
+  correct: 1
+  explanation: >-
+    Keep the original (you may need it in a civil claim), hand over a copy, and get a receipt for every
+    item. Do not publish accusations.
+- id: m37-020
+  module: 37
+  lesson: "37.3"
+  subject: victims-rights
+  difficulty: 1
+  question: >-
+    Under the Crime Victims' Rights Law, when are you told of the stages of the case, such as a decision not
+    to prosecute?
+  options:
+    - >-
+      Always, automatically, for every offence of any kind.
+    - >-
+      Only if a lawyer asks for you in writing.
+    - >-
+      Only after the suspect is convicted and sentenced.
+    - >-
+      When you ask, for the stages listed in the Law.
+  correct: 3
+  explanation: >-
+    Section 8(ג) and the Second Schedule: a victim who asks is told of the listed stages. Ask in writing on
+    the day you complain.
+- id: m37-021
+  module: 37
+  lesson: "37.3"
+  subject: follow-up
+  difficulty: 2
+  question: >-
+    Two months after your complaint you have no news, and two emails to the investigator went unanswered.
+    Who is the next addressee?
+  options:
+    - >-
+      The station's officer responsible for victims' rights, with the file number.
+    - >-
+      The Judicial Ombudsman, since the file will reach a court eventually.
+    - >-
+      The suspect's employer, who may know whether he was questioned.
+    - >-
+      A magistrates' court judge, by a request to order the police to act.
+  correct: 0
+  explanation: >-
+    Section 24 provides an officer for victims' rights at the station; the letter also creates a record of
+    silence for a later appeal or Ombudsman complaint.
+- id: m37-022
+  module: 37
+  lesson: "37.3"
+  subject: appeal-period
+  difficulty: 2
+  question: >-
+    You need the investigation material before writing an appeal, but the appeal period is about to end.
+    What do you do?
+  options:
+    - >-
+      Wait for the material, since the period starts only once you have it.
+    - >-
+      Ask the deciding authority in writing to extend the period, before it ends.
+    - >-
+      File a private complaint instead, which has no period.
+    - >-
+      Ask the court registry for an extension, since the appeal is a court proceeding.
+  correct: 1
+  explanation: >-
+    Section 65 lets the deciding authority extend the period. Ask before the deadline; or file a short
+    appeal in time and ask to supplement it.
+- id: m37-023
+  module: 37
+  lesson: "37.3"
+  subject: private-complaint
+  difficulty: 2
+  question: >-
+    Your appeal against the closure of a property-damage file was rejected. Which fallback is available
+    without the State's prosecution?
+  options:
+    - >-
+      A petition to the Administrative Affairs Court against the appeal decision.
+    - >-
+      A second appeal to the Attorney General, which reopens the file automatically.
+    - >-
+      A private criminal complaint, since damage to property is in the Second Schedule.
+    - >-
+      An Ombudsman complaint, which can order the police to prosecute.
+  correct: 2
+  explanation: >-
+    CPL s. 68 allows a private complaint for Second Schedule offences, including s. 452 (damage to
+    property), unless against a family member. It is a full trial with the criminal burden of proof.
+- id: m37-024
+  module: 37
+  lesson: "37.3"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this complaint sentence: "The suspect, a known thief who has done this to half the
+    street, smashed my window; my neighbour told me she saw him."
+  options:
+    - >-
+      It should name the offence section, without which the police cannot open a file.
+    - >-
+      It should be in English, since police complaints are translated for the prosecution.
+    - >-
+      It should not mention the neighbour, since witnesses must be kept secret.
+    - >-
+      It mixes hearsay and accusation with fact; say what you saw and that the neighbour told you.
+  correct: 3
+  explanation: >-
+    Separate what you saw from what others told you, and leave out labels you cannot prove. Name the
+    neighbour as a witness so that the police can take her statement.
+- id: m37-025
+  module: 37
+  lesson: "37.3"
+  subject: civil-in-parallel
+  difficulty: 2
+  question: >-
+    A neighbour slashed your tyres and the criminal file is moving slowly. What is the fastest route to the
+    money?
+  options:
+    - >-
+      A demand letter and a small claim against the neighbour, using your own video.
+    - >-
+      A request that the criminal court award compensation before an indictment is filed.
+    - >-
+      A claim against the police for not investigating fast enough.
+    - >-
+      An Ombudsman complaint asking it to pay the repair from the State budget.
+  correct: 0
+  explanation: >-
+    Civil and criminal routes can run side by side. A small claim does not need a conviction (lesson 12.5).
+- id: m37-026
+  module: 37
+  lesson: "37.3"
+  subject: police-officer-suspect
+  difficulty: 3
+  question: >-
+    Your complaint is about an assault by an off-duty police officer at a wedding. Where should the
+    complaint be filed?
+  options:
+    - >-
+      At the officer's own station, since off-duty conduct is a disciplinary matter only.
+    - >-
+      With the Police Investigations Department, since a police officer is the suspect.
+    - >-
+      With the Ombudsman, which investigates all offences by public servants.
+    - >-
+      With the Judicial Ombudsman, since police officers are officers of the court.
+  correct: 1
+  explanation: >-
+    Police Ordinance s. 49ט: an offence in the First Schedule in which a police officer is suspected is
+    investigated by the Ministry of Justice department, not the police.
+- id: m37-027
+  module: 37
+  lesson: "37.4"
+  subject: two-tracks
+  difficulty: 1
+  question: >-
+    Which words on a traffic notice tell you it is on the administrative track of the 2024 Law?
+  options:
+    - >-
+      "הודעת תשלום קנס" with a slip for a request to be tried.
+    - >-
+      "הזמנה לדין" and "כתב אישום" with a hearing date.
+    - >-
+      "החלטה על הטלת קנס" with options of השגה and ערר.
+    - >-
+      "אזהרה" with a 20-day period to pay or apply for instalments.
+  correct: 2
+  explanation: >-
+    An administrative fine notice states the fine, payment period, points and how to object or appeal
+    (s. 4). A fine-payment notice with a slip is the criminal track; a summons is a trial.
+- id: m37-028
+  module: 37
+  lesson: "37.4"
+  subject: objection-periods
+  difficulty: 1
+  question: >-
+    Under the 2024 Law, within what period do you object to an administrative traffic fine if you claim that
+    someone else was driving?
+  options:
+    - >-
+      Within 30 days of the offence, whatever the claim.
+    - >-
+      Within one year, the general period for traffic matters.
+    - >-
+      Within 14 days of service, after which only the tribunal may hear it.
+    - >-
+      Within 90 days of service, instead of the usual 30.
+  correct: 3
+  explanation: >-
+    Section 8(א): 30 days from service, or 90 days where the claim is that the violator did not commit it
+    (s. 27ב of the Traffic Ordinance).
+- id: m37-029
+  module: 37
+  lesson: "37.4"
+  subject: appeal-without-objection
+  difficulty: 2
+  question: >-
+    Must you object to the issuing authority before appealing an administrative traffic fine to the
+    tribunal?
+  options:
+    - >-
+      No; you may appeal within 90 days of service without objecting first.
+    - >-
+      Yes; the tribunal hears only appeals against objection decisions.
+    - >-
+      Yes, unless the fine was imposed by a municipal inspector.
+    - >-
+      No, but you must then ask to be tried as well.
+  correct: 0
+  explanation: >-
+    Section 19(ב): 90 days from service, or 30 days from an objection decision if you objected. After
+    appealing you may not object (s. 8(ד)).
+- id: m37-030
+  module: 37
+  lesson: "37.4"
+  subject: tribunal-on-papers
+  difficulty: 2
+  question: >-
+    What does the fact that the traffic tribunal usually decides on the papers mean for your appeal?
+  options:
+    - >-
+      Nothing: the officer will always be called to testify before a decision.
+    - >-
+      Put every fact and document in the appeal, with an affidavit where no document proves it.
+    - >-
+      Keep your best evidence for the hearing, so the police cannot prepare an answer.
+    - >-
+      File only a short notice of appeal; the tribunal will ask for details later.
+  correct: 1
+  explanation: >-
+    Section 21(א) and reg. 2(ד): facts are supported by attached documents or an affidavit. Ask for a
+    hearing with reasons (reg. 2(ו)) only where facts are disputed.
+- id: m37-031
+  module: 37
+  lesson: "37.4"
+  subject: criminal-track-cost
+  difficulty: 2
+  question: >-
+    On a criminal fine-offence notice, what is a known cost of asking to be tried and losing?
+  options:
+    - >-
+      Automatic imprisonment, since a trial replaces the fine.
+    - >-
+      A fine doubled by law, since the trial wasted the court's time.
+    - >-
+      A fine not lower than the notice unless the court finds special circumstances.
+    - >-
+      The loss of the right to appeal, since fine-offence verdicts are final.
+  correct: 2
+  explanation: >-
+    CPL s. 230. Add a day off work and any points; weigh these against your evidence.
+- id: m37-032
+  module: 37
+  lesson: "37.4"
+  subject: which-track
+  difficulty: 3
+  question: >-
+    A notice is ambiguous: it mentions both "קנס" and "ערר" but you cannot tell which law it is under. The
+    shortest possible period is 30 days. What is the prudent step?
+  options:
+    - >-
+      Wait 85 days and then file a request to be tried, which covers both tracks.
+    - >-
+      Pay, since an ambiguous notice cannot be challenged on either track.
+    - >-
+      Ask the Ombudsman to classify the notice, which suspends the periods.
+    - >-
+      Write to the issuer within 30 days, disputing it and asking the track.
+  correct: 3
+  explanation: >-
+    Act within the shortest period that could apply and get the track in writing. Payment closes the matter;
+    a complaint extends nothing.
+- id: m37-033
+  module: 37
+  lesson: "37.4"
+  subject: when-criminal
+  difficulty: 2
+  question: >-
+    Which traffic event takes the matter out of the administrative track altogether?
+  options:
+    - >-
+      A violation that caused an accident with injury to a person.
+    - >-
+      A violation detected by a fixed camera rather than an officer.
+    - >-
+      A violation committed by a driver with a foreign licence.
+    - >-
+      A violation for which the notice was served by registered mail.
+  correct: 0
+  explanation: >-
+    Section 1 excludes violations that caused an accident with injury or damage; aggravating circumstances
+    or a prosecutor's decision can also lead to criminal proceedings (s. 2(ג)–(ד)). Get a lawyer then.
+- id: m37-034
+  module: 37
+  lesson: "37.4"
+  subject: points
+  difficulty: 1
+  question: >-
+    Where do you find the points that an administrative traffic fine will record against you?
+  options:
+    - >-
+      Only in the tribunal's decision, after an appeal.
+    - >-
+      On the notice itself, which must state them.
+    - >-
+      Only at the licensing office, after you pay.
+    - >-
+      In the Traffic Ordinance, since every violation has the same points.
+  correct: 1
+  explanation: >-
+    Section 4(א)(6) requires the notice to state the points. Read them before deciding to pay.
+- id: m37-035
+  module: 37
+  lesson: "37.4"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake: "Day 1: objection filed. Day 20: appeal to the tribunal filed too, to be safe. Day 50:
+    objection refused."
+  options:
+    - >-
+      The appeal was too early, since it must wait for the objection decision.
+    - >-
+      Nothing: filing both routes at once is the safest strategy.
+    - >-
+      After appealing you may not also object; use one route at a time.
+    - >-
+      The objection should have gone to the tribunal, not to the issuing authority.
+  correct: 2
+  explanation: >-
+    Under s. 8(ד), once an appeal is filed you may not also object on the same decision. Object and then
+    appeal within 30 days of the answer, or appeal directly.
+- id: m37-036
+  module: 37
+  lesson: "37.4"
+  subject: late-filing
+  difficulty: 2
+  question: >-
+    You were hospitalised and missed the 90-day period to appeal an administrative traffic fine. What may you
+    do?
+  options:
+    - >-
+      Nothing: the decision is final and cannot be reopened.
+    - >-
+      File a request to be tried, which has a longer period.
+    - >-
+      Ask the issuing authority to restart the period from your discharge.
+    - >-
+      Ask the tribunal promptly to extend, with reasons and an affidavit.
+  correct: 3
+  explanation: >-
+    Section 19(ג) lets the tribunal extend for special reasons; reg. 4 requires a prompt request with an
+    affidavit and reasons.
+- id: m37-037
+  module: 37
+  lesson: "37.5"
+  subject: inspection
+  difficulty: 1
+  question: >-
+    How may you inspect your own criminal information?
+  options:
+    - >-
+      On screen at a police station, with notes but no photographs.
+    - >-
+      By ordering a printout online, which is mailed to your address.
+    - >-
+      Only through a lawyer with a special power of attorney.
+    - >-
+      Only at the Ministry of Justice, by written request with a fee.
+  correct: 0
+  explanation: >-
+    Criminal Information Law s. 4 and the Inspection Regulations: on screen at a station, after
+    identification. A lawyer may obtain a printout for representation.
+- id: m37-038
+  module: 37
+  lesson: "37.5"
+  subject: route-choice
+  difficulty: 2
+  question: >-
+    Your register shows a file closed for insufficient evidence; a video proves you were the victim, not
+    the attacker. Which pair of requests fits?
+  options:
+    - >-
+      A pardon request to the President and a s. 33 request.
+    - >-
+      A change of ground to no guilt, and a s. 33 request.
+    - >-
+      A correction under s. 7 and a complaint to the Ombudsman.
+    - >-
+      An appeal under CPL s. 64 and an administrative petition.
+  correct: 1
+  explanation: >-
+    With evidence of innocence, ask the prosecutor to change the ground (which removes the entry) and the
+    police to cancel under s. 33; tell each of the other request.
+- id: m37-039
+  module: 37
+  lesson: "37.5"
+  subject: convictions
+  difficulty: 1
+  question: >-
+    Which entry cannot be removed by a s. 33 cancellation request?
+  options:
+    - >-
+      A closed file for a felony, with the right factors.
+    - >-
+      A closed file for a misdemeanour from five years ago.
+    - >-
+      A conviction in the criminal register.
+    - >-
+      A closed file from when you were a minor.
+  correct: 2
+  explanation: >-
+    Section 33 covers police-register entries about closed files. Convictions lapse and are deleted by time
+    (ss. 18–23), or the President may shorten the periods.
+- id: m37-040
+  module: 37
+  lesson: "37.5"
+  subject: automatic-cancellation
+  difficulty: 2
+  question: >-
+    A non-felony file was closed in 2017 and you see it on the screen in 2026. What should you ask the
+    police?
+  options:
+    - >-
+      To change the closure ground, since automatic cancellation applies only to lack of guilt.
+    - >-
+      For a pardon, since entries older than seven years need the President's decision.
+    - >-
+      Nothing: closed files stay until you turn 40.
+    - >-
+      Why it was not cancelled automatically under s. 33(ג), and to cancel it now.
+  correct: 3
+  explanation: >-
+    Non-felony closed files are cancelled automatically after the s. 33(ג) period from the event unless
+    the criteria say otherwise. Ask why, in writing.
+- id: m37-041
+  module: 37
+  lesson: "37.5"
+  subject: timing
+  difficulty: 3
+  question: >-
+    A licensing authority already refused your application because of a police-register entry. Which step
+    comes first?
+  options:
+    - >-
+      File the s. 33 request at once and ask the authority to reconsider when it is decided.
+    - >-
+      Reapply for the licence immediately, attaching a letter explaining the entry.
+    - >-
+      Complain to the Judicial Ombudsman about the licensing official.
+    - >-
+      Wait for automatic cancellation, then reapply without mentioning the refusal.
+  correct: 0
+  explanation: >-
+    File the record request and ask for reconsideration on its outcome. A refusal already given is also a
+    red flag for a lawyer, especially if information was used improperly.
+- id: m37-042
+  module: 37
+  lesson: "37.5"
+  subject: spot-the-mistake
+  difficulty: 3
+  question: >-
+    Spot the mistake in this cancellation request: "Please delete my record. It was a long time ago and it
+    is unfair. Thank you."
+  options:
+    - >-
+      It should be addressed to the court, which decides cancellation requests.
+    - >-
+      It addresses none of the s. 33(ב) factors and attaches no evidence.
+    - >-
+      It should mention the suspect's name, which the police need to find the file.
+    - >-
+      It should be signed by a lawyer, without whom the police will not read it.
+  correct: 1
+  explanation: >-
+    Address time, age, personal circumstances, other entries and seriousness separately, each with a
+    document. Include the file number and a copy of your ID.
+- id: m37-043
+  module: 37
+  lesson: "37.5"
+  subject: inspector
+  difficulty: 2
+  question: >-
+    What can the Ministry of Justice inspector of criminal information do on a justified complaint?
+  options:
+    - >-
+      Cancel your police-register entry in place of the police.
+    - >-
+      Shorten the deletion period of your conviction.
+    - >-
+      Order the entitled body to correct how it used the information.
+    - >-
+      Award you compensation for a job you lost because of the information.
+  correct: 2
+  explanation: >-
+    Section 41 lets the inspector investigate and order corrections, and restrict a body's access to
+    information if it does not cooperate.
+- id: m37-044
+  module: 37
+  lesson: "37.5"
+  subject: follow-up
+  difficulty: 1
+  question: >-
+    The police told you your entry was cancelled. What closes the matter?
+  options:
+    - >-
+      Filing the letter; the register is updated automatically and need not be checked.
+    - >-
+      Asking every employer you ever applied to for confirmation.
+    - >-
+      Filing a second request to make sure the first was effective.
+    - >-
+      A new inspection at a station confirming the entry is gone.
+  correct: 3
+  explanation: >-
+    Check the result itself; keep the letter permanently in case an old printout resurfaces.
+- id: m37-045
+  module: 37
+  lesson: "37.6"
+  subject: judicial-ombudsman-scope
+  difficulty: 1
+  question: >-
+    Which complaint will the Judicial Ombudsman examine?
+  options:
+    - >-
+      A registrar delayed a decision on your request for eight months.
+    - >-
+      A judge preferred the other side's witness over yours.
+    - >-
+      A judge interpreted a contract clause against you.
+    - >-
+      A request that a judge recuse himself from your case.
+  correct: 0
+  explanation: >-
+    Delay and conduct in office are examined; registrars count as judges (s. 1). Evidentiary and legal
+    questions, and recusal requests, are excluded (s. 17).
+- id: m37-046
+  module: 37
+  lesson: "37.6"
+  subject: one-year-rule
+  difficulty: 2
+  question: >-
+    Your complaint to the Ombudsman concerns an act 18 months ago that you learned of last month. What do
+    you write?
+  options:
+    - >-
+      Nothing special: the one-year rule runs only from the act itself.
+    - >-
+      That you learned of it last month, with proof; the year runs from knowledge.
+    - >-
+      That the Ombudsman must accept it because the State caused the delay.
+    - >-
+      A request that the State Comptroller personally waive the period.
+  correct: 1
+  explanation: >-
+    Section 39 counts the year from the act or from when you learned of it; beyond that a special reason is
+    needed. Show the date you learned of it.
+- id: m37-047
+  module: 37
+  lesson: "37.6"
+  subject: which-body
+  difficulty: 2
+  question: >-
+    A police officer at the station refused to take your complaint and was rude, but committed no offence.
+    Where do you complain?
+  options:
+    - >-
+      The Police Investigations Department, which handles all complaints against officers.
+    - >-
+      The Judicial Ombudsman, because the complaint would have reached a court.
+    - >-
+      The police public-complaints unit or the Ombudsman.
+    - >-
+      The Bar Association, since refusing a complaint denies access to justice.
+  correct: 2
+  explanation: >-
+    The department investigates offences by officers (s. 49ט). Conduct without an offence goes to the
+    police public-complaints unit or the Ombudsman. Meanwhile, file your complaint at another station.
+- id: m37-048
+  module: 37
+  lesson: "37.6"
+  subject: write-first
+  difficulty: 1
+  question: >-
+    Before complaining to the Ombudsman about a ministry, what does the Ombudsman expect?
+  options:
+    - >-
+      A lawyer's letter confirming the complaint is justified.
+    - >-
+      A court decision that the ministry acted unlawfully.
+    - >-
+      A petition already filed, so the matter is urgent.
+    - >-
+      That you wrote to the ministry first, with its answer.
+  correct: 3
+  explanation: >-
+    Write to the body first and attach its answer; a pending court case would actually exclude the
+    complaint (s. 38).
+- id: m37-049
+  module: 37
+  lesson: "37.6"
+  subject: department-exceptions
+  difficulty: 2
+  question: >-
+    Which suspected offence by a police officer is, as a rule, outside the Police Investigations
+    Department's First Schedule?
+  options:
+    - >-
+      A traffic offence committed by the officer.
+    - >-
+      Assault during an arrest.
+    - >-
+      A false report written to justify an arrest.
+    - >-
+      Threats made to a complainant at the station.
+  correct: 0
+  explanation: >-
+    The First Schedule covers every offence except, among others, offences punishable by up to a year
+    (unless decided otherwise), traffic offences and offences another authority investigates.
+- id: m37-050
+  module: 37
+  lesson: "37.6"
+  subject: concrete-request
+  difficulty: 2
+  question: >-
+    Which request ending an Ombudsman complaint is most likely to produce a result?
+  options:
+    - >-
+      "Please look into the general attitude of this ministry towards citizens."
+    - >-
+      "Please instruct the ministry to decide my application within 30 days."
+    - >-
+      "Please punish the clerks responsible for my suffering."
+    - >-
+      "Please award me compensation for the months of delay."
+  correct: 1
+  explanation: >-
+    The Ombudsman can press for a concrete correction but cannot award damages or discipline staff directly.
+    One documented, specific request works best.
+- id: m37-051
+  module: 37
+  lesson: "37.6"
+  subject: findings-use
+  difficulty: 3
+  question: >-
+    The Ombudsman found your complaint about a municipality justified. How can you use the finding?
+  options:
+    - >-
+      Enforce it in the magistrates' court like a judgment.
+    - >-
+      Petition the High Court to review it if the municipality ignores it.
+    - >-
+      Use it as evidence of the defect in a later request or claim.
+    - >-
+      Nothing: findings are confidential and cannot be shown to anyone.
+  correct: 2
+  explanation: >-
+    Findings give no new right (s. 45(א)(1)) and are not reviewed by courts (s. 45(ב)), but they record that
+    a defect existed; an unremedied finding may go to the minister or the Knesset committee (s. 43).
+- id: m37-052
+  module: 37
+  lesson: "37.6"
+  subject: exposure-oversight
+  difficulty: 3
+  question: >-
+    You were arrested at a protest and charged; you say an officer hit you during the arrest. When should
+    you file a complaint with the Police Investigations Department?
+  options:
+    - >-
+      Immediately, alone, and describe the whole protest in detail to show your good faith.
+    - >-
+      Never, since a defendant may not complain about the police while charged.
+    - >-
+      Only after your trial ends, since the complaint would stay the trial.
+    - >-
+      After seeing a lawyer, who can coordinate the complaint with your defence.
+  correct: 3
+  explanation: >-
+    Your complaint and your criminal case affect each other; what you write may be used. Preserve medical
+    evidence at once and get advice before filing.
+- id: m37-053
+  module: 37
+  lesson: "37.7"
+  subject: skeleton-arguments
+  difficulty: 1
+  question: >-
+    When are skeleton arguments due in an administrative petition?
+  options:
+    - >-
+      A set number of days before the hearing, sent to the others.
+    - >-
+      With the petition itself, as a separate annex.
+    - >-
+      Only if the judge orders them at the hearing.
+    - >-
+      Within 30 days after the hearing, as written summations.
+  correct: 0
+  explanation: >-
+    Reg. 14(א): once an answer is filed and a hearing set, skeletons are filed and sent directly at least
+    the set period before the hearing.
+- id: m37-054
+  module: 37
+  lesson: "37.7"
+  subject: cross-examination
+  difficulty: 2
+  question: >-
+    You did not ask to cross-examine the respondent's affiant, and at the hearing you say his affidavit is
+    false. What is the likely result?
+  options:
+    - >-
+      The judge calls the affiant on the spot, since a false affidavit is an offence.
+    - >-
+      The affidavit stands as evidence, since no timely request to cross-examine was made.
+    - >-
+      The affidavit is struck out, since the petitioner disputed it.
+    - >-
+      The hearing is postponed automatically for cross-examination.
+  correct: 1
+  explanation: >-
+    Reg. 15: the court decides on affidavits; cross-examination needs a written request no later than the
+    reg. 15(ב) period before the hearing.
+- id: m37-055
+  module: 37
+  lesson: "37.7"
+  subject: proposal
+  difficulty: 2
+  question: >-
+    Why fill in a proposal sheet before an administrative hearing?
+  options:
+    - >-
+      Because the court requires it to be filed with the skeleton arguments.
+    - >-
+      Because a proposal you reject counts against you in costs.
+    - >-
+      To decide in advance which outcomes you will accept.
+    - >-
+      To show the respondent your bottom line before the hearing.
+  correct: 2
+  explanation: >-
+    A return to the authority after a hearing is a common outcome; decide in advance whether it meets your
+    need. Keep the sheet to yourself.
+- id: m37-056
+  module: 37
+  lesson: "37.7"
+  subject: fine-trial
+  difficulty: 2
+  question: >-
+    At your fine-offence trial, what is the role of the officer who wrote the ticket?
+  options:
+    - >-
+      He is your witness, since you asked to be tried on his report.
+    - >-
+      He does not appear; his report is read into the record automatically.
+    - >-
+      He decides whether to withdraw the ticket after hearing you.
+    - >-
+      He is the prosecution's main witness, whom you may cross-examine.
+  correct: 3
+  explanation: >-
+    Prepare short, closed questions on what he saw, from where and for how long; one fact per question.
+- id: m37-057
+  module: 37
+  lesson: "37.7"
+  subject: absence
+  difficulty: 1
+  question: >-
+    What is the rule for a defendant who does not attend a fine-offence trial after being summoned?
+  options:
+    - >-
+      He is treated as admitting the facts, unless a defender appears.
+    - >-
+      The trial is postponed until he is arrested and brought to court.
+    - >-
+      The ticket is cancelled for lack of prosecution.
+    - >-
+      He is convicted and sentenced to the maximum fine by law.
+  correct: 0
+  explanation: >-
+    CPL s. 240(א): absence counts as admission and he may be tried in absence without prison; a judgment in
+    absence may be set aside for good reason (s. 130).
+- id: m37-058
+  module: 37
+  lesson: "37.7"
+  subject: right-to-silence
+  difficulty: 2
+  question: >-
+    At your local-affairs court trial for a bylaw fine, must you testify?
+  options:
+    - >-
+      Yes, since a defendant who asked to be tried must explain his version.
+    - >-
+      No; it is a criminal trial and you may remain silent.
+    - >-
+      Yes, unless a lawyer represents you and testifies instead.
+    - >-
+      No, because bylaw trials are decided on documents only.
+  correct: 1
+  explanation: >-
+    A fine-offence trial is criminal; you decide whether to testify. Decide in advance; if you testify,
+    answer only what is asked.
+- id: m37-059
+  module: 37
+  lesson: "37.7"
+  subject: tribunal-delivery
+  difficulty: 2
+  question: >-
+    How are the traffic tribunal's documents and decisions delivered to you?
+  options:
+    - >-
+      By registered mail to the address on your licence.
+    - >-
+      By the police officer who issued the fine.
+    - >-
+      Through the tribunal's online system.
+    - >-
+      Only at an oral hearing, where the decision is read aloud.
+  correct: 2
+  explanation: >-
+    Reg. 25: documents are delivered electronically through the system; check it regularly.
+- id: m37-060
+  module: 37
+  lesson: "37.7"
+  subject: prison-warning
+  difficulty: 3
+  question: >-
+    At your traffic trial the prosecutor amends the charge to an offence carrying disqualification and
+    mentions prison. You are alone. What do you do?
+  options:
+    - >-
+      Ask for a short break and continue alone, since you prepared the case.
+    - >-
+      Plead guilty to the original charge, which the prosecutor must then accept.
+    - >-
+      Leave, since the amended charge needs a new summons.
+    - >-
+      Ask the court to stop and appoint a defender for you.
+  correct: 3
+  explanation: >-
+    A notice that prison may be sought triggers the duty to appoint a defender (CPL s. 15(א)); an
+    unrepresented defendant may not be sentenced to actual prison (s. 15ב).
+- id: m37-061
+  module: 37
+  lesson: "37.8"
+  subject: closing-check
+  difficulty: 1
+  question: >-
+    Which is the right closing check for a successful petition about a reserved parking space?
+  options:
+    - >-
+      That the sign is actually installed and the costs were paid.
+    - >-
+      That the court published the decision on its website.
+    - >-
+      That the Ombudsman was informed of the outcome.
+    - >-
+      That the municipality's lawyer sent a thank-you letter.
+  correct: 0
+  explanation: >-
+    Check the result itself, not only the letter: the sign, the payment. Chase every gap in writing.
+- id: m37-062
+  module: 37
+  lesson: "37.8"
+  subject: surviving-dates
+  difficulty: 2
+  question: >-
+    Which date belongs in the closing memo after you asked to be tried on a criminal fine notice and no
+    summons has come?
+  options:
+    - >-
+      The date the fine would double, which runs from the request.
+    - >-
+      The s. 230 deadline for the summons, counted from your request.
+    - >-
+      The date your licence expires, which cancels pending tickets.
+    - >-
+      The one-year Ombudsman period, which governs traffic summonses.
+  correct: 1
+  explanation: >-
+    Section 230 requires the summons within a set period of the request. Diarise it; if it passes, write to
+    the prosecutor and take advice on the effect.
+- id: m37-063
+  module: 37
+  lesson: "37.8"
+  subject: hand-over
+  difficulty: 2
+  question: >-
+    You decide to hand your petition to a university clinic. What should you send first?
+  options:
+    - >-
+      The whole folder, unsorted, so that nothing is missed.
+    - >-
+      A request that the clinic file a new petition from scratch.
+    - >-
+      The one-page summary, deadline table and decision-maker map.
+    - >-
+      Only the respondent's answer, since the clinic will ask for the rest.
+  correct: 2
+  explanation: >-
+    A summary, the deadlines and the map let the clinic see the case and the urgency at once. Ask what the
+    engagement covers.
+- id: m37-064
+  module: 37
+  lesson: "37.8"
+  subject: red-flags
+  difficulty: 3
+  question: >-
+    Which development in a Clinic IV file is a red flag that calls for a lawyer rather than one more letter?
+  options:
+    - >-
+      The Ombudsman asked you for a copy of your letter to the ministry.
+    - >-
+      The tribunal asked the police to respond to your appeal.
+    - >-
+      The police acknowledged receipt of your cancellation request.
+    - >-
+      The suspect filed a counter-complaint against you.
+  correct: 3
+  explanation: >-
+    A counter-complaint may make you a suspect; your statements can be used against you. The other events
+    are normal steps.
+- id: m37-065
+  module: 37
+  lesson: "37.8"
+  subject: free-help
+  difficulty: 1
+  question: >-
+    Which free help fits a victim of a listed sexual offence who wants representation in exercising her
+    rights in the criminal process?
+  options:
+    - >-
+      Legal Aid, without a means test, under the Legal Aid Law's schedule.
+    - >-
+      The Public Defender, which represents victims as well as defendants.
+    - >-
+      The Ombudsman, which appoints a lawyer for victims of crime.
+    - >-
+      The Judicial Ombudsman, which supervises victims' rights in court.
+  correct: 0
+  explanation: >-
+    The Legal Aid Law's schedule gives free representation to victims of listed sexual offences and to
+    families of homicide victims (lesson 05.7).
+- id: m37-066
+  module: 37
+  lesson: "37.8"
+  subject: unpaid-costs
+  difficulty: 2
+  question: >-
+    The court awarded you costs against an authority, and the time to pay has passed. What is a lawful first
+    step?
+  options:
+    - >-
+      Deduct the costs from your next arnona or tax payment.
+    - >-
+      Write quoting the decision, then open an execution file.
+    - >-
+      Complain to the Judicial Ombudsman that the judge did not enforce the costs.
+    - >-
+      File a new petition demanding payment of the costs.
+  correct: 1
+  explanation: >-
+    A costs order is enforceable; start with a letter, then the Execution Office (lesson 08.9). Self-help
+    by deduction is not lawful.

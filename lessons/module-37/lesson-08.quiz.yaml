@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    The tribunal cancelled your administrative traffic fine. Two months later your licence printout still
+    shows the points from that ticket. What do you do?
+  options:
+    - >-
+      Nothing: points from a cancelled fine fall off automatically at the end of the year.
+    - >-
+      File a new appeal to the tribunal, since the first decision did not mention points.
+    - >-
+      Send the tribunal's decision to the issuing authority and the licensing office, asking for correction.
+    - >-
+      Pay the fine after all, since paying is the only way to close the record of the ticket.
+  correct: 2
+  explanation: >-
+    Closing means checking the result itself. Send the decision to the bodies that record points and ask
+    for correction; keep the decision permanently.
+- id: q2
+  question: >-
+    At the first hearing of your speeding trial, the prosecutor says the State may seek actual imprisonment
+    because of your earlier offences. You came alone. What should you do?
+  options:
+    - >-
+      Ask the court to stop and appoint a defender, since prison may not be imposed without representation.
+    - >-
+      Continue alone but ask the judge to explain each step, which removes the risk of prison.
+    - >-
+      Plead guilty at once to show remorse, which the court must reward by avoiding prison.
+    - >-
+      Leave the courtroom, since a trial in your absence cannot end in imprisonment.
+  correct: 0
+  explanation: >-
+    A notice that actual imprisonment may be sought triggers the duty to appoint a defender (CPL s. 15(א)),
+    and an unrepresented defendant may not be sentenced to actual prison (s. 15ב).
+- id: q3
+  question: >-
+    The court ordered the municipality to decide again within 30 days and to pay you costs. Forty days later
+    there is no decision and no payment. Which step comes first?
+  options:
+    - >-
+      A new petition against the same refusal, since the first one ended with the decision.
+    - >-
+      An Ombudsman complaint, which can order the municipality to obey the court.
+    - >-
+      Accept the delay, since a court decision against an authority cannot be enforced by a private person.
+    - >-
+      A letter to the municipality's lawyer quoting the decision, then a request in the same case file.
+  correct: 3
+  explanation: >-
+    Start with a letter quoting the decision, then ask the court in the same case to enforce it; unpaid
+    costs can go to an execution file. Refusal to obey a court decision is a red flag for a lawyer.
+- id: q4
+  question: >-
+    Your brother-in-law, who is not a lawyer but "has handled many traffic cases", offers to take over your
+    pending petition. What is the right answer?
+  options:
+    - >-
+      Accept if he does not charge you, since s. 20 only forbids paid representation.
+    - >-
+      Decline: hand over only to a lawyer, Legal Aid or a supervised clinic, with your summary.
+    - >-
+      Accept for the hearing only, since the court allows a family member to speak for a petitioner.
+    - >-
+      Accept, provided you sign a power of attorney that the court registry approves in advance.
+  correct: 1
+  explanation: >-
+    Only a lawyer may represent another in court; there is no lay or family representative (רע״א 8120/08).
+    Hand over with the one-page summary, deadline table and decision-maker map.

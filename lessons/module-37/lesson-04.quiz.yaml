@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    In October 2026 a police officer hands you a notice headed "החלטה על הטלת קנס" listing השגה and ערר.
+    You want an independent decision on the facts. What do you file?
+  options:
+    - >-
+      The "request to be tried" slip, sent by registered mail to the police traffic prosecution.
+    - >-
+      An appeal to the traffic tribunal within 90 days, without first filing an objection.
+    - >-
+      A cancellation request to the police prosecutor within 30 days, then a request to be tried.
+    - >-
+      A petition to the Administrative Affairs Court against the officer's decision.
+  correct: 1
+  explanation: >-
+    This is an administrative fine under the 2024 Law: there is no request to be tried. You may appeal
+    straight to the traffic tribunal within 90 days of service (s. 19); an objection first is optional.
+- id: q2
+  question: >-
+    You objected to an administrative traffic fine on day 10. On day 95 you still have no answer. What is
+    your position?
+  options:
+    - >-
+      The fine is cancelled automatically, because the authority did not decide in time.
+    - >-
+      You have lost the right to appeal, since the 90 days from service have passed.
+    - >-
+      You may appeal to the tribunal; the silence does not cancel the fine, so do not wait for it.
+    - >-
+      You must file a second objection, since the first one lapsed when it was not answered.
+  correct: 2
+  explanation: >-
+    Under s. 8(ג) silence does not cancel the fine. The appeal runs 90 days from service or 30 days from the
+    objection decision; with no decision, appeal now and ask the tribunal to accept it if any doubt arises.
+- id: q3
+  question: >-
+    A municipal inspector gave you a fine-payment notice under a cleanliness bylaw, with a "בקשה להישפט"
+    slip attached. Which route applies?
+  options:
+    - >-
+      The traffic tribunal, since all municipal fines moved to the administrative track in 2026.
+    - >-
+      An objection to the municipality under the 2024 Law within 30 days of service.
+    - >-
+      Payment only, because bylaw fines cannot be disputed once the inspector signs them.
+    - >-
+      A cancellation request or a request to be tried under CPL s. 229, within its periods.
+  correct: 3
+  explanation: >-
+    The 2024 Law covers listed traffic violations. A bylaw fine-payment notice is a criminal fine offence
+    under CPL s. 228, answered under s. 229 (lesson 24.9).
+- id: q4
+  question: >-
+    You are a bus driver. A notice for an administrative traffic violation states a modest fine and several
+    points. You think the officer was wrong but have no evidence. What should you weigh first?
+  options:
+    - >-
+      The points and their effect on your professional licence, since paying records them.
+    - >-
+      Only the fine, because points are recorded only after a criminal conviction.
+    - >-
+      Whether the tribunal will lower the fine, which it usually does for professional drivers.
+    - >-
+      Whether to file both an objection and an appeal at once, to double your chances.
+  correct: 0
+  explanation: >-
+    The notice states the points to be recorded (s. 4(א)(6)), and paying closes the matter. You may not
+    object after appealing (s. 8(ד)); without evidence, consider at least asking to inspect the file.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    A municipal refusal letter is dated 3 September, was published on the city's website on 5 September,
+    and reached you by email on 9 September. You sent a request for reconsideration on 12 September.
+    From when do you count the petition period?
+  options:
+    - >-
+      From 9 September, the day the letter reached you, since you cannot know of a decision before receiving it.
+    - >-
+      From 5 September, the earliest of publication, notice or knowledge, unless you can show you could not know of it.
+    - >-
+      From the day the municipality answers your reconsideration request, because that is its final decision.
+    - >-
+      From 3 September, the date printed on the letter, because the decision exists from that date.
+  correct: 1
+  explanation: >-
+    Reg. 3(ב) runs the period from the earliest of publication, notice or knowledge. A reconsideration
+    request does not restart it, and the court may still dismiss for delay (reg. 4).
+- id: q2
+  question: >-
+    Your 75-year-old father asks you to file and argue his administrative petition for him, since you have
+    studied this course. What may you do?
+  options:
+    - >-
+      Sign and file the petition in your own name, since you are his child and live with him.
+    - >-
+      Appear for him at the hearing as a close relative, if the judge agrees at the start of the hearing.
+    - >-
+      Help him understand the rules and prepare the documents, while he signs, files and appears himself.
+    - >-
+      Nothing at all, because any help with another person's legal document breaks s. 20.
+  correct: 2
+  explanation: >-
+    Only a lawyer may represent another in court, and there is no close-friend or family exception
+    (רע״א 8120/08). Helping a relative understand and prepare his own document is not representing him.
+- id: q3
+  question: >-
+    You want to complain to the police that a man punched you outside a bar. Your friend's video shows you
+    shoving him first. What does the exposure check tell you to do before filing?
+  options:
+    - >-
+      File at once and leave the shove out, since the police will only ask about the punch.
+    - >-
+      Send the video to the Ombudsman first, so that an independent body sees it before the police do.
+    - >-
+      Wait until the other man complains, so that you can answer his complaint with your own.
+    - >-
+      Get advice from a lawyer or a clinic first, because the complaint may expose you to a charge yourself.
+  correct: 3
+  explanation: >-
+    When your own conduct may be an offence, a complaint can turn you into a suspect. Get advice before
+    giving any statement; never misstate facts in a complaint.
+- id: q4
+  question: >-
+    Which of these is a reason to put an Ombudsman complaint in your file, rather than rely on it instead of
+    a petition, when a decision against you must be cancelled within weeks?
+  options:
+    - >-
+      The complaint does not extend the petition period, but it can obtain information and pressure the body.
+    - >-
+      The complaint freezes the decision until the Ombudsman finishes, so the petition can wait.
+    - >-
+      The Ombudsman can order the authority to cancel the decision, which a court cannot do quickly.
+    - >-
+      A complaint is a condition for filing a petition, so the court will reject a petition without one.
+  correct: 0
+  explanation: >-
+    State Comptroller Law s. 45(א)(2): a complaint extends no statutory deadline, and the Ombudsman cannot
+    order a cancellation outside whistleblower cases. Run it alongside the petition, not instead of it.

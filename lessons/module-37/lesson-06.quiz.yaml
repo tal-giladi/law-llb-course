@@ -1,0 +1,68 @@
+- id: q1
+  question: >-
+    Your small-claims judgment arrived and you think the judge misread the contract. You also felt she cut
+    you off at the hearing. What belongs in a Judicial Ombudsman complaint?
+  options:
+    - >-
+      The misreading of the contract, since the Ombudsman reviews whether judgments are correct.
+    - >-
+      Both points, so that the Ombudsman can decide whether to send the case back to the court.
+    - >-
+      Nothing, because a small-claims judge is not a judge within the Judicial Ombudsman Law.
+    - >-
+      Only the way she ran the hearing; for the reading of the contract, ask for leave to appeal.
+  correct: 3
+  explanation: >-
+    The Judicial Ombudsman examines conduct in office, including how a hearing is run, but not legal or
+    evidentiary questions or appealable matters (s. 17). The merits go to leave to appeal.
+- id: q2
+  question: >-
+    During a street check an officer hit you and you were bruised. You were not arrested or charged. Where
+    do you complain about the blow?
+  options:
+    - >-
+      The Police Investigations Department of the Ministry of Justice, with a same-day medical report.
+    - >-
+      The police station where the officer serves, so that his commander can investigate him.
+    - >-
+      The Ombudsman, since the police are an audited body and it can order disciplinary action.
+    - >-
+      The Judicial Ombudsman, because the officer was enforcing the law on behalf of the court.
+  correct: 0
+  explanation: >-
+    Offences by police officers in the First Schedule are investigated by the Ministry of Justice department,
+    not by the police (Police Ordinance s. 49ט). Keep the medical report and photographs.
+- id: q3
+  question: >-
+    The municipality has ignored your written request for nine months, and you complain to the Ombudsman.
+    The objection period on a separate arnona bill ends in three weeks. What do you do about the bill?
+  options:
+    - >-
+      Add the bill to the complaint, because the Ombudsman's examination stops all related periods.
+    - >-
+      File the arnona objection within its period, separately from the complaint.
+    - >-
+      Wait for the Ombudsman's finding and then object, citing it as a special reason for the delay.
+    - >-
+      Nothing, since an objection would be a duplicate proceeding that the Ombudsman forbids.
+  correct: 1
+  explanation: >-
+    A complaint extends no statutory deadline (s. 45(א)(2)), and where an objection route exists the
+    Ombudsman will usually decline that part (s. 39). File the objection on time.
+- id: q4
+  question: >-
+    The NII has not decided your claim for a year, despite two letters. Which request makes an Ombudsman
+    complaint most likely to produce a result?
+  options:
+    - >-
+      A request that the Ombudsman award you compensation for the delay.
+    - >-
+      A request that the Ombudsman decide the claim itself on the documents you attach.
+    - >-
+      A request that the NII decide your claim within 30 days, with your two letters attached.
+    - >-
+      A general request to investigate the NII's treatment of pensioners in your town.
+  correct: 2
+  explanation: >-
+    The Ombudsman cannot award damages or decide the claim, but can press the body to act on a concrete,
+    documented request. A systemic plea may be useful elsewhere but rarely solves your own file.

@@ -1,0 +1,69 @@
+- id: q1
+  question: >-
+    You will apply next month for a job with an employer entitled to receive criminal information. At the
+    station you find a misdemeanour file from four years ago, closed for insufficient evidence. What is the
+    best order of steps?
+  options:
+    - >-
+      Apply first, and file a record request only if the employer raises the entry.
+    - >-
+      File a s. 33 cancellation request now, then apply and tell the employer a request is pending.
+    - >-
+      Wait for the automatic cancellation, since a non-felony file is always cancelled within four years.
+    - >-
+      Ask the employer to delete the entry from its own records before you apply.
+  correct: 1
+  explanation: >-
+    Time the request to the decision it affects. Automatic cancellation of a non-felony closed file comes
+    only after the s. 33(ג) period, which has not yet passed here.
+- id: q2
+  question: >-
+    A file against you for threats was closed for insufficient evidence. You have no evidence that you are
+    innocent, only that it was a one-off argument years ago. Which request fits?
+  options:
+    - >-
+      A request to the prosecutor to change the ground to lack of guilt, since that removes the entry.
+    - >-
+      A request to the President for a pardon, since only the President can remove closed files.
+    - >-
+      A complaint to the inspector of criminal information that the police keep the entry at all.
+    - >-
+      A s. 33 cancellation request addressing time, age, circumstances, other entries and seriousness.
+  correct: 3
+  explanation: >-
+    A change of ground needs evidence of innocence; without it, rely on s. 33, which weighs the statutory
+    factors. Pardons concern convictions, and the inspector oversees entitled bodies' use of information.
+- id: q3
+  question: >-
+    The police wrote that your entry was cancelled. Three months later a licensing clerk tells you she still
+    sees a closed file. What do you do first?
+  options:
+    - >-
+      Re-inspect at a station and, if it still shows, send the police their own letter.
+    - >-
+      File a new s. 33 request, since the first cancellation has evidently lapsed.
+    - >-
+      Petition the Administrative Affairs Court at once for an order to delete the entry.
+    - >-
+      Accept it, because cancelled entries remain visible to licensing bodies by law.
+  correct: 0
+  explanation: >-
+    Confirm what the register shows, then send the police their own cancellation letter and ask for
+    correction (s. 7). If an entitled body uses information it should not have, the inspector (s. 41) may help.
+- id: q4
+  question: >-
+    Which complaint belongs with the Ministry of Justice inspector of criminal information (s. 41)?
+  options:
+    - >-
+      The police refused your s. 33 request and you disagree with how they weighed the factors.
+    - >-
+      Your conviction from 2015 has not yet been deleted, and you want the period shortened.
+    - >-
+      An entitled employer used information about a cancelled entry when it rejected you.
+    - >-
+      The prosecutor did not answer your request to change the closure ground of your file.
+  correct: 2
+  explanation: >-
+    The inspector examines how entitled bodies use, keep and exercise discretion on criminal information,
+    and may order corrections. A police refusal is reconsidered or challenged otherwise; deletion of a
+    conviction follows the periods or a pardon request.
